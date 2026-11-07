@@ -1,0 +1,93 @@
+# 실제 데이터를 주기적으로 수집해 이 저장소의 `data` 브랜치에 게시한다.
+# - 06:00 KST: 행사 전체 (서울 문화행사 · TourAPI 축제 · K-Startup 공고) + 교통 통제
+# - 그 외 3시간마다: 교통 통제 (서울시 TOPIS)만
+# 앱은 https://raw.githubusercontent.com/woowangthon/WOOWANGTHON_TEAM_27_BE/data/{events,traffic}.json 을 받는다.
+#
+# 필요한 Secrets: SEOUL_OPEN_API_KEY, DATA_GO_KR_KEY, GEMINI_API_KEY
+name: Refresh data
+
+on:
+  schedule:
+    - cron: "0 21 * * *" # 06:00 KST — 전체
+    - cron: "0 0,3,6,9,12,15,18 * * *" # 3시간마다 — 교통 통제만
+  workflow_dispatch: # 수동 실행: Actions → Refresh data → Run workflow
+
+permissions:
+  contents: write # data 브랜치에 게시
+
+concurrency:
+  group: refresh-data
+  cancel-in-progress: false
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    env:
+      TZ: Asia/Seoul # "오늘"과 수집 기간을 한국 시간 기준으로
+      FULL: ${{ github.event_name != 'schedule' || github.event.schedule == '0 21 * * *' }}
+      SEOUL_OPEN_API_KEY: ${{ secrets.SEOUL_OPEN_API_KEY }}
+      DATA_GO_KR_KEY: ${{ secrets.DATA_GO_KR_KEY }}
+      GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+    steps:
+      - uses: actions/checkout@v4
+      - uses: dart-lang/setup-dart@v1
+        with:
+          sdk: 3.11.5
+      - run: dart pub get
+
+      # Gemini 번역 캐시: 새 행사만 번역한다 (속도·할당량 절약).
+      - name: Restore translation cache
+        if: env.FULL == 'true'
+        uses: actions/cache/restore@v4
+        with:
+          path: cache
+          key: ai-cache-${{ github.run_id }}
+          restore-keys: ai-cache-
+
+      - name: Collect events
+        if: env.FULL == 'true'
+        run: dart run bin/collect_events.dart --out=out/events.json
+
+      - name: Validate events
+        if: env.FULL == 'true'
+        run: |
+          python3 - <<'PY'
+          import json
+          d = json.load(open("out/events.json"))
+          n = len(d["events"])
+          print("events:", n, "generatedAt:", d["generatedAt"])
+          print({s["id"]: s["count"] for s in d["sources"]})
+          assert n >= 20, "행사가 너무 적음 — 게시하지 않는다"
+          PY
+
+      - name: Collect traffic notices
+        continue-on-error: true # 교통 수집이 실패해도 행사는 게시한다
+        run: dart run bin/collect_traffic.dart --out=out/traffic.json
+
+      - name: Save translation cache
+        if: always() && env.FULL == 'true'
+        uses: actions/cache/save@v4
+        with:
+          path: cache
+          key: ai-cache-${{ github.run_id }}
+
+      - name: Publish to data branch
+        env:
+          TOKEN: ${{ github.token }}
+        run: |
+          REMOTE="https://x-access-token:${TOKEN}@github.com/${{ github.repository }}.git"
+          if git ls-remote --exit-code --heads "$REMOTE" data >/dev/null; then
+            git clone --depth 1 --branch data "$REMOTE" /tmp/data
+          else
+            mkdir /tmp/data && git -C /tmp/data init -b data && git -C /tmp/data remote add origin "$REMOTE"
+          fi
+          [ -f out/events.json ] && cp out/events.json /tmp/data/events.json
+          [ -f out/traffic.json ] && cp out/traffic.json /tmp/data/traffic.json
+          cd /tmp/data
+          git config user.name "liferadar-bot"
+          git config user.email "liferadar-bot@users.noreply.github.com"
+          git add -A
+          git diff --cached --quiet && { echo "변경 없음"; exit 0; }
+          git commit -m "data: $(date '+%F %H:%M') KST"
+          git push origin data
