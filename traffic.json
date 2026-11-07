@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-07T17:44:39.923847Z",
+ "generatedAt": "2026-11-07T21:17:31.291874Z",
  "horizonDays": 28,
  "sources": [
   {
@@ -45,6 +45,19 @@
    "end": "2026-11-08T22:00:00.000",
    "lat": 37.56876985006825,
    "lng": 126.9828166388692,
+   "source": "seoul-topis",
+   "sourceName": "서울시 TOPIS · 실시간 돌발정보",
+   "sourceUrl": "https://topis.seoul.go.kr"
+  },
+  {
+   "id": "topis-1109153",
+   "kind": "drill",
+   "title": "[행사] 쉬엄쉬엄모닝 잠실대교( 남-->북) 통제  역방(북-->남) 가변 운영 중입니다.",
+   "detail": "[행사] 쉬엄쉬엄모닝 잠실대교( 남-->북) 통제  역방(북-->남) 가변 운영 중입니다.",
+   "start": "2026-11-08T05:25:00.000",
+   "end": "2026-11-08T10:00:00.000",
+   "lat": 37.52830834646812,
+   "lng": 127.08840371161462,
    "source": "seoul-topis",
    "sourceName": "서울시 TOPIS · 실시간 돌발정보",
    "sourceUrl": "https://topis.seoul.go.kr"
