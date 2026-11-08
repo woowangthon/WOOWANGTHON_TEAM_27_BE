@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-08T10:19:13.987429Z",
+ "generatedAt": "2026-11-08T11:02:26.525364Z",
  "horizonDays": 28,
  "sources": [
   {
@@ -58,19 +58,6 @@
    "end": "2026-11-08T22:00:00.000",
    "lat": 37.55827377900964,
    "lng": 126.93691458461221,
-   "source": "seoul-topis",
-   "sourceName": "서울시 TOPIS · 실시간 돌발정보",
-   "sourceUrl": "https://topis.seoul.go.kr"
-  },
-  {
-   "id": "topis-1109154",
-   "kind": "event",
-   "title": "[제44회 남이장군사당제]",
-   "detail": "[제44회 남이장군사당제]\nㅁ 꽃등행렬 2026.11.08.(일) 17:00~20:00\n남이장군사당 →용문시장교차로 → 원효로2가→ 현대원효로센터앞→성심여자고등학교→남이장군사당(하위1개차로 통제)",
-   "start": "2026-11-08T17:00:00.000",
-   "end": "2026-11-08T20:00:00.000",
-   "lat": 37.53671341210109,
-   "lng": 126.95838665485294,
    "source": "seoul-topis",
    "sourceName": "서울시 TOPIS · 실시간 돌발정보",
    "sourceUrl": "https://topis.seoul.go.kr"
