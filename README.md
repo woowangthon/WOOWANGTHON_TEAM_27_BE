@@ -12,7 +12,7 @@
 
 | 문제 | BE의 해결 |
 |---|---|
-| 행사 정보가 여러 기관 사이트에 흩어져 있다 | 3개 공공 API를 하나의 스키마(`RadarEvent`)로 정규화 |
+| 행사 정보가 여러 기관 사이트에 흩어져 있다 | 4개 공공 API를 하나의 스키마(`RadarEvent`)로 정규화 |
 | 앱에 넣은 데이터는 금방 낡는다 | GitHub Actions가 **매일 06:00 KST** 새로 수집, 앱은 실행할 때 최신 파일을 받는다 |
 | 서울 데이터에는 영어가 없다 | Gemini로 영어 이름·설명과 관심사 태그를 생성 (사실은 원본 그대로, 새 행사만) |
 | 공공 API 키·XML·http를 앱에서 직접 쓰기 어렵다 | 수집은 서버(Actions)에서, 앱은 HTTPS로 정적 JSON만 받는다 — 수집용 키는 앱에 들어가지 않는다 |
@@ -23,7 +23,7 @@
 ```
 ┌──────────────── GitHub Actions (Refresh data) ────────────────┐
 │ 매일 06:00 KST                                                 │
-│   서울 문화행사 · TourAPI 축제 · K-Startup 공고                    │
+│   서울 문화행사 · TourAPI 축제 · K-Startup 공고 · KOPIS 공연(서울 밖) │
 │     → 정규화 (카테고리·좌표·시간·키워드 태그)                        │
 │     → Gemini 영어 번역·태그 (새 행사만, liferadar_core.AiEnrich)    │
 │     → 검증 (20건 미만이면 게시하지 않음)                            │
@@ -48,6 +48,7 @@
 | [서울 열린데이터광장 · 서울시 문화행사](https://data.seoul.go.kr/dataList/OA-15486/S/1/datasetView.do) | 공연·전시·축제·교육 | 331건 | 매일 |
 | [한국관광공사 TourAPI 4.0 · 축제·행사](https://www.data.go.kr/data/15101578/openapi.do) | 전국 축제 (상세 설명·요금 포함) | 100건 | 매일 |
 | [창업진흥원 K-Startup · 사업공고](https://www.data.go.kr/data/15125364/openapi.do) | 접수 중인 창업 지원 공고와 마감일 | 204건 | 매일 |
+| [KOPIS 공연예술통합전산망](https://www.kopis.or.kr) | **서울 밖** 콘서트·클래식·연극·뮤지컬·무용·국악 (서울은 문화행사 데이터와 중복이라 제외), 공연장 좌표·요금·출연진 | 가까운 날짜 순 250건 | 매일 |
 | [서울시 TOPIS · 실시간 돌발정보](https://topis.seoul.go.kr) (`AccInfo`) | 서울 시내 집회·행사·훈련·공사·기상 도로 통제 | 5건 | 3시간마다 |
 | [국가교통정보센터 ITS · 돌발상황정보](https://www.its.go.kr/opendata/) (`eventInfo`) | 전국 고속도로·국도·지방도의 공사·행사·기상·재난 (정체·사고·고장 제외) | 186건 | 앱 실행 시 (아래 참고) |
 
@@ -115,6 +116,7 @@ dart run bin/collect_traffic.dart --out=out/traffic.json
 | `DATA_GO_KR_KEY` | TourAPI, K-Startup (Decoding 키) | data.go.kr → 활용신청 (자동 승인) |
 | `GEMINI_API_KEY` | 영어 번역·태그 | aistudio.google.com |
 | `ITS_API_KEY` | 전국 돌발상황 (ITS) | its.go.kr → 오픈 API → 인증키 신청 |
+| `KOPIS_API_KEY` | 전국 공연 (KOPIS) | kopis.or.kr → 오픈API → 서비스키 신청 |
 
 GitHub Actions에서는 같은 이름의 **Repository secrets**를 사용합니다. 수동 실행: Actions → *Refresh data* → *Run workflow*.
 
@@ -125,7 +127,7 @@ dart analyze --fatal-infos
 dart test
 ```
 
-19개 테스트 (CI): 출처별 실제 형식 응답 파싱(서울·TourAPI·K-Startup·TOPIS), 오류 코드 처리, lat/lng 뒤바뀜 보정, 무료 판정, 공고의 주소 없음 처리, 좌표 변환(EPSG:5181 → WGS84), 파싱 결과가 판단 엔진(`liferadar_core`)에서 올바른 카드를 만드는지 통합 확인.
+23개 테스트 (CI): 출처별 실제 형식 응답 파싱(서울·TourAPI·K-Startup·KOPIS·TOPIS), 오류 코드 처리, lat/lng 뒤바뀜 보정, 무료 판정, 공고의 주소 없음 처리, 좌표 변환(EPSG:5181 → WGS84), 파싱 결과가 판단 엔진(`liferadar_core`)에서 올바른 카드를 만드는지 통합 확인.
 
 ## 구조
 
@@ -135,7 +137,7 @@ bin/
 └── collect_traffic.dart    # 교통 통제 수집 → out/traffic.json
 lib/src/
 ├── config.dart             # 키: 환경 변수 > env.json
-└── sources/                # seoul_culture, tour_festival, kstartup, seoul_traffic, tagger (ITS 파서는 liferadar_core)
+└── sources/                # seoul_culture, tour_festival, kstartup, kopis, seoul_traffic, tagger (ITS 파서는 liferadar_core)
 cache/ai_en.json            # Gemini 번역 캐시
 .github/workflows/          # ci.yml, refresh-data.yml
 ```
@@ -144,8 +146,8 @@ cache/ai_en.json            # Gemini 번역 캐시
 
 ## 직접 구현 범위와 외부 기술
 
-- **직접 구현**: 수집기 5종, 정규화·태깅, 좌표 변환, 검증, 스케줄 게시 워크플로, 테스트.
-- **외부 기술**: 공공 API 5종, Google Gemini API, GitHub Actions(스케줄 실행)와 raw.githubusercontent.com(정적 배포).
+- **직접 구현**: 수집기 6종, 정규화·태깅, 좌표 변환, 검증, 스케줄 게시 워크플로, 테스트.
+- **외부 기술**: 공공 API 6종, Google Gemini API, GitHub Actions(스케줄 실행)와 raw.githubusercontent.com(정적 배포).
 - **개발 도구**: AI 코딩 도우미(Claude)를 사용했으며 커밋에 공동 작성자로 표시했습니다.
 
 ## 한계와 다음 단계
@@ -153,7 +155,7 @@ cache/ai_en.json            # Gemini 번역 캐시
 - 교통 통제: 서울은 시내 도로까지(TOPIS), 그 외 지역은 **고속도로·국도 위주**(ITS). 도시 내부 도로의 집회 통제는 경찰청 UTIC API(키 신청 중)로 보완할 예정 — 출력 형식과 판별 규칙은 그대로다.
 - 지도·경로·날씨·카드 문장(Gemini) 키는 데모를 위해 아직 앱에 있다. 다음 단계는 이 저장소에 **API 프록시**(예: Cloud Functions)를 두어 키를 서버로 옮기는 것.
 - 앱이 닫혀 있을 때의 서버 푸시(FCM)는 설계만 되어 있다 → [FE 문서](https://github.com/woowangthon/WOOWANGTHON_TEAM_27_FE/blob/main/docs/PUSH_NOTIFICATIONS.md).
-- IT 컨퍼런스·해커톤은 공개 API가 없어 수집하지 않는다 (앱은 `샘플` 배지가 붙은 시연 데이터로 보여준다).
+- 서울 밖 공연은 하루 250건까지 (상세·공연장 조회 수 제한). IT 컨퍼런스·해커톤은 공개 API가 없어 수집하지 않는다 (앱은 `샘플` 배지가 붙은 시연 데이터로 보여준다).
 
 ## 개발 기록
 
