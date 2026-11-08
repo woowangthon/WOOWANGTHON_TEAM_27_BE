@@ -6,7 +6,7 @@ import 'dart:io';
 Map<String, dynamic> loadKeys({String path = 'env.json'}) {
   final file = File(path);
   final fromFile = file.existsSync() ? (jsonDecode(file.readAsStringSync()) as Map<String, dynamic>) : <String, dynamic>{};
-  const names = ['SEOUL_OPEN_API_KEY', 'DATA_GO_KR_KEY', 'GEMINI_API_KEY'];
+  const names = ['SEOUL_OPEN_API_KEY', 'DATA_GO_KR_KEY', 'GEMINI_API_KEY', 'ITS_API_KEY', 'KOPIS_API_KEY'];
   return {
     ...fromFile,
     for (final n in names)
