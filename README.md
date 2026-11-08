@@ -49,7 +49,9 @@
 | [한국관광공사 TourAPI 4.0 · 축제·행사](https://www.data.go.kr/data/15101578/openapi.do) | 전국 축제 (상세 설명·요금 포함) | 100건 | 매일 |
 | [창업진흥원 K-Startup · 사업공고](https://www.data.go.kr/data/15125364/openapi.do) | 접수 중인 창업 지원 공고와 마감일 | 204건 | 매일 |
 | [서울시 TOPIS · 실시간 돌발정보](https://topis.seoul.go.kr) (`AccInfo`) | 서울 시내 집회·행사·훈련·공사·기상 도로 통제 | 5건 | 3시간마다 |
-| [국가교통정보센터 ITS · 돌발상황정보](https://www.its.go.kr/opendata/) (`eventInfo`) | 전국 고속도로·국도·지방도의 공사·행사·기상·재난 (정체·사고·고장 제외) | 186건 | 3시간마다 |
+| [국가교통정보센터 ITS · 돌발상황정보](https://www.its.go.kr/opendata/) (`eventInfo`) | 전국 고속도로·국도·지방도의 공사·행사·기상·재난 (정체·사고·고장 제외) | 186건 | 앱 실행 시 (아래 참고) |
+
+> **ITS는 해외 IP를 차단**해 GitHub Actions(미국 리전)에서는 응답이 없습니다. 그래서 ITS는 **앱이 한국 내 기기에서 직접 조회**하고(같은 파서 `liferadar_core.ItsTraffic`), 이 파이프라인은 한국에서 실행될 때만 ITS를 함께 수집합니다.
 
 모두 **공공누리** 라이선스이며 앱 상세 화면에 출처를 표시합니다. 이용 약관이 스크래핑을 금지한 사이트는 사용하지 않습니다.
 
@@ -123,7 +125,7 @@ dart analyze --fatal-infos
 dart test
 ```
 
-24개 테스트 (CI): 출처별 실제 형식 응답 파싱(서울·TourAPI·K-Startup·TOPIS·ITS, 유형 선별), 오류 코드 처리, lat/lng 뒤바뀜 보정, 무료 판정, 공고의 주소 없음 처리, 좌표 변환(EPSG:5181 → WGS84), 파싱 결과가 판단 엔진(`liferadar_core`)에서 올바른 카드를 만드는지 통합 확인.
+19개 테스트 (CI): 출처별 실제 형식 응답 파싱(서울·TourAPI·K-Startup·TOPIS), 오류 코드 처리, lat/lng 뒤바뀜 보정, 무료 판정, 공고의 주소 없음 처리, 좌표 변환(EPSG:5181 → WGS84), 파싱 결과가 판단 엔진(`liferadar_core`)에서 올바른 카드를 만드는지 통합 확인.
 
 ## 구조
 
@@ -133,7 +135,7 @@ bin/
 └── collect_traffic.dart    # 교통 통제 수집 → out/traffic.json
 lib/src/
 ├── config.dart             # 키: 환경 변수 > env.json
-└── sources/                # seoul_culture, tour_festival, kstartup, seoul_traffic, its_traffic, tagger
+└── sources/                # seoul_culture, tour_festival, kstartup, seoul_traffic, tagger (ITS 파서는 liferadar_core)
 cache/ai_en.json            # Gemini 번역 캐시
 .github/workflows/          # ci.yml, refresh-data.yml
 ```

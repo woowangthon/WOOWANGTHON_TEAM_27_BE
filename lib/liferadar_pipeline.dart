@@ -6,7 +6,6 @@
 library;
 
 export 'src/config.dart';
-export 'src/sources/its_traffic.dart';
 export 'src/sources/kstartup.dart';
 export 'src/sources/seoul_culture.dart';
 export 'src/sources/seoul_traffic.dart';
