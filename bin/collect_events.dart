@@ -8,6 +8,7 @@
 // 출처 (키는 환경 변수 또는 env.json):
 //   SEOUL_OPEN_API_KEY — 서울 열린데이터광장, 문화행사 (없으면 'sample' → 5행만)
 //   DATA_GO_KR_KEY     — 공공데이터포털 (Decoding 키): TourAPI 축제 (전국) + K-Startup 사업공고
+//   KOPIS_API_KEY      — KOPIS 공연예술통합전산망: 서울 밖 공연 (서울은 문화행사 데이터와 중복)
 //   GEMINI_API_KEY     — 영어 이름/설명 + 더 정확한 태그 (캐시: cache/ai_en.json; --no-ai = 건너뛰기)
 //
 // 공식 공개 API만 사용한다. 이용 약관에서 스크래핑을 금지한 사이트(예: Dev-Event)는
@@ -59,7 +60,7 @@ Future<void> main(List<String> args) async {
   } catch (e) {
     stderr.writeln('✗ ${SeoulCulture.sourceName}: $e');
   }
-  // ── TourAPI 축제 (butun Koreya) ──
+  // ── TourAPI 축제 (전국) ──
   final dataKey = (env['DATA_GO_KR_KEY'] as String?)?.trim() ?? '';
   if (dataKey.isEmpty) {
     stderr.writeln('! DATA_GO_KR_KEY 없음 — TourAPI를 건너뛴다');
@@ -99,6 +100,29 @@ Future<void> main(List<String> args) async {
       stdout.writeln('✓ ${KStartup.sourceName}: ${found.length}건');
     } catch (e) {
       stderr.writeln('✗ ${KStartup.sourceName}: $e');
+    }
+  }
+
+  // ── KOPIS 공연 (서울 밖 지역) ──
+  final kopisKey = (env['KOPIS_API_KEY'] as String?)?.trim() ?? '';
+  if (kopisKey.isEmpty) {
+    stderr.writeln('! KOPIS_API_KEY 없음 — KOPIS 건너뜀');
+  } else {
+    try {
+      final found = await _collectKopis(client, kopisKey, today, until);
+      for (final e in found) {
+        events[e.id] = e;
+      }
+      sources.add({
+        'id': Kopis.source,
+        'name': Kopis.sourceName,
+        'url': 'https://www.kopis.or.kr',
+        'license': 'KOPIS 출처 표시',
+        'count': found.length,
+      });
+      stdout.writeln('✓ ${Kopis.sourceName}: ${found.length}건');
+    } catch (e) {
+      stderr.writeln('✗ ${Kopis.sourceName}: $e');
     }
   }
 
@@ -170,6 +194,60 @@ Future<List<RadarEvent>> _collectSeoul(
     await Future<void>.delayed(const Duration(milliseconds: 400)); // 서버에 부담을 주지 않게
   }
   if (skipped > 0) stdout.writeln('  (좌표/날짜 없음: $skipped행 건너뜀)');
+  return out;
+}
+
+/// 공연 목록 → 서울 밖 공연만, 가까운 날짜 순으로 [_kopisLimit]개 → 상세 + 공연장 좌표.
+/// 공연장은 여러 공연이 공유하므로 한 번만 조회한다.
+const _kopisLimit = 250;
+
+Future<List<RadarEvent>> _collectKopis(http.Client client, String key, DateTime today, DateTime until) async {
+  // KOPIS는 빠르게 연속 호출하면 400을 돌려준다 → 간격을 두고, 실패하면 기다렸다가 다시 시도한다.
+  Future<List<Map<String, String>>> getRows(Uri uri) async {
+    for (var attempt = 0; ; attempt++) {
+      final res = await client.get(uri, headers: {'User-Agent': _userAgent});
+      if (res.statusCode == 200) return Kopis.rows(utf8.decode(res.bodyBytes));
+      final retry = res.statusCode == 400 || res.statusCode == 429 || res.statusCode >= 500;
+      if (!retry || attempt >= 3) throw SourceException('${Kopis.source}: HTTP ${res.statusCode}');
+      await Future<void>.delayed(Duration(seconds: 2 * (attempt + 1)));
+    }
+  }
+
+  final candidates = <Map<String, String>>[];
+  for (var page = 1; page <= 30; page++) {
+    final rows = await getRows(Kopis.listUri(key, today, until, page: page));
+    // 서울은 문화행사 데이터와 중복, 오픈런(종료일 없는 장기 공연)은 일정과 연결하기 어려워 제외.
+    candidates.addAll(rows.where((r) => !Kopis.isSeoul(r) && r['openrun'] != 'Y'));
+    if (rows.length < 100) break;
+    await Future<void>.delayed(const Duration(milliseconds: 300));
+  }
+  // 앞으로 시작하는 공연을 가까운 날짜 순으로 먼저, 이미 진행 중인 공연은 그다음.
+  final todayKey = '${today.year}.${today.month.toString().padLeft(2, '0')}.${today.day.toString().padLeft(2, '0')}';
+  int rank(Map<String, String> r) => (r['prfpdfrom'] ?? '').compareTo(todayKey) >= 0 ? 0 : 1;
+  candidates.sort((a, b) {
+    final byRank = rank(a).compareTo(rank(b));
+    return byRank != 0 ? byRank : (a['prfpdfrom'] ?? '').compareTo(b['prfpdfrom'] ?? '');
+  });
+  final picked = candidates.take(_kopisLimit).toList();
+  stdout.writeln('  kopis: 서울 밖 ${candidates.length}건 중 ${picked.length}건 상세 조회…');
+
+  final facilities = <String, Map<String, String>?>{};
+  final out = <RadarEvent>[];
+  for (final row in picked) {
+    try {
+      final detail = (await getRows(Kopis.detailUri(key, row['mt20id']!))).firstOrNull;
+      if (detail == null) continue;
+      final fid = detail['mt10id'] ?? '';
+      if (fid.isNotEmpty && !facilities.containsKey(fid)) {
+        facilities[fid] = (await getRows(Kopis.facilityUri(key, fid))).firstOrNull;
+      }
+      final e = Kopis.parse(detail, facilities[fid]);
+      if (e != null) out.add(e);
+    } catch (e) {
+      stderr.writeln('  ! kopis ${row['mt20id']}: $e');
+    }
+    await Future<void>.delayed(const Duration(milliseconds: 400)); // 호출 간격 (KOPIS 속도 제한)
+  }
   return out;
 }
 
