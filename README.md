@@ -16,6 +16,7 @@
 | 앱에 넣은 데이터는 금방 낡는다 | GitHub Actions가 **매일 06:00 KST** 새로 수집, 앱은 실행할 때 최신 파일을 받는다 |
 | 서울 데이터에는 영어가 없다 | Gemini로 영어 이름·설명과 관심사 태그를 생성 (사실은 원본 그대로, 새 행사만) |
 | 공공 API 키·XML·http를 앱에서 직접 쓰기 어렵다 | 수집은 서버(Actions)에서, 앱은 HTTPS로 정적 JSON만 받는다 — 수집용 키는 앱에 들어가지 않는다 |
+| 대중교통 파업 소식은 뉴스에만 있고, 검색하면 해외 시위·드라마·끝난 파업이 섞인다 | 네이버 뉴스를 3시간마다 검색하고 **Gemini가 판독**(상태·날짜·지역), 코드가 기사 원문 인용으로 검증 (`liferadar_core.StrikeExtractor`) |
 | 일정 근처의 도로 통제를 알기 어렵다 | 서울시 TOPIS(서울 시내)와 국가교통정보센터 ITS(전국 고속도로·국도) 공식 정보를 **3시간마다** 수집 |
 
 ## 구조
@@ -40,6 +41,7 @@
 게시 주소 (공개, CORS 허용):
 - `https://raw.githubusercontent.com/woowangthon/WOOWANGTHON_TEAM_27_BE/data/events.json`
 - `https://raw.githubusercontent.com/woowangthon/WOOWANGTHON_TEAM_27_BE/data/traffic.json`
+- `https://raw.githubusercontent.com/woowangthon/WOOWANGTHON_TEAM_27_BE/data/news.json`
 
 ## 데이터 출처
 
@@ -49,6 +51,7 @@
 | [한국관광공사 TourAPI 4.0 · 축제·행사](https://www.data.go.kr/data/15101578/openapi.do) | 전국 축제 (상세 설명·요금 포함) | 100건 | 매일 |
 | [창업진흥원 K-Startup · 사업공고](https://www.data.go.kr/data/15125364/openapi.do) | 접수 중인 창업 지원 공고와 마감일 | 204건 | 매일 |
 | [KOPIS 공연예술통합전산망](https://www.kopis.or.kr) | **서울 밖** 콘서트·클래식·연극·뮤지컬·무용·국악 (서울은 문화행사 데이터와 중복이라 제외), 공연장 좌표·요금·출연진 | 가까운 날짜 순 250건 | 매일 |
+| [네이버 뉴스 검색 (NAVER API HUB)](https://www.ncloud.com/product/applicationService/naverApiHub) | "버스·지하철·철도 파업" 최근 14일 기사 → AI 판독 → 파업 사건 (11/8: 기사 150건 → 사건 15건, 활성 10건, 인용 불일치 6건 차단) | 150건 | 3시간마다 |
 | [서울시 TOPIS · 실시간 돌발정보](https://topis.seoul.go.kr) (`AccInfo`) | 서울 시내 집회·행사·훈련·공사·기상 도로 통제 | 5건 | 3시간마다 |
 | [국가교통정보센터 ITS · 돌발상황정보](https://www.its.go.kr/opendata/) (`eventInfo`) | 전국 고속도로·국도·지방도의 공사·행사·기상·재난 (정체·사고·고장 제외) | 186건 | 앱 실행 시 (아래 참고) |
 
@@ -78,6 +81,20 @@
 }
 ```
 
+**`news.json`** — 뉴스에서 판독한 대중교통 파업 (공식 공지가 아니므로 앱은 참고 카드로만 표시)
+```jsonc
+{
+  "generatedAt": "…", "windowDays": 14, "articles": 150,
+  "strikes": [{
+    "id": "…", "mode": "rail", "operator": "공항철도", "regions": ["인천", "서울"],
+    "status": "scheduled",              // preparing | conditional | scheduled | ongoing | deferred | withdrawn | ended | historical
+    "quote": "공항철도가 오는 13일 노동조합의 경고파업 예고",   // 기사 원문에 그대로 있는 근거 (검증됨)
+    "start": "2026-11-13", "dateQuote": "오는 13일",
+    "articleTitle": "공항철도, 노조 13일 경고파업…", "url": "…", "publishedAt": "…", "sourceCount": 25
+  }]
+}
+```
+
 **`traffic.json`**
 ```jsonc
 {
@@ -99,7 +116,8 @@
 - **추정하지 않음**: 교통 통제의 종료 시각이 없으면 비워 둔다 (앱은 시작 날짜에만 적용). 좌표·날짜가 없는 행은 버린다.
 - **게시 전 검증**: 행사 20건 미만이면 게시하지 않는다. 교통 수집이 실패해도 행사는 게시한다.
 - **부분 실패 허용**: 출처 하나가 실패해도 나머지로 계속하고 로그에 남긴다.
-- **비용**: 번역은 캐시(`cache/ai_en.json` + Actions 캐시)로 새 행사만 — 하루 수십 건 수준.
+- **비용**: 번역·뉴스 판독 모두 캐시(`cache/` + Actions 캐시)로 새 행사·새 기사만 — 하루 수십 건 수준. 뉴스는 같은 기사를 두 번 판독하지 않는다 (관련 없음 판정도 저장).
+- **뉴스 판독 검증**: 상태 근거 인용이 기사에 없으면 기사째 버리고, 날짜는 인용에 그 날이 있어야 인정한다 (11/8 실측: 150건 중 6건 차단).
 
 ## 실행
 
@@ -108,6 +126,7 @@ dart pub get
 cp env.example.json env.json   # 키 입력 (또는 환경 변수)
 dart run bin/collect_events.dart --out=out/events.json   # [--days=90] [--no-ai]
 dart run bin/collect_traffic.dart --out=out/traffic.json
+dart run bin/collect_news.dart --out=out/news.json      # [--days=14]
 ```
 
 | 키 | 용도 | 발급 |
@@ -116,6 +135,7 @@ dart run bin/collect_traffic.dart --out=out/traffic.json
 | `DATA_GO_KR_KEY` | TourAPI, K-Startup (Decoding 키) | data.go.kr → 활용신청 (자동 승인) |
 | `GEMINI_API_KEY` | 영어 번역·태그 | aistudio.google.com |
 | `ITS_API_KEY` | 전국 돌발상황 (ITS) | its.go.kr → 오픈 API → 인증키 신청 |
+| `NAVER_API_KEY_ID`, `NAVER_API_KEY` | 뉴스 검색 | NAVER API HUB (Naver Cloud) — 헤더 `X-NCP-APIGW-API-KEY-ID` / `X-NCP-APIGW-API-KEY` |
 | `KOPIS_API_KEY` | 전국 공연 (KOPIS) | kopis.or.kr → 오픈API → 서비스키 신청 |
 
 GitHub Actions에서는 같은 이름의 **Repository secrets**를 사용합니다. 수동 실행: Actions → *Refresh data* → *Run workflow*.
@@ -134,11 +154,12 @@ dart test
 ```
 bin/
 ├── collect_events.dart     # 행사 수집 → out/events.json
-└── collect_traffic.dart    # 교통 통제 수집 → out/traffic.json
+├── collect_traffic.dart    # 교통 통제 수집 → out/traffic.json
+└── collect_news.dart       # 뉴스 파업 판독 → out/news.json
 lib/src/
 ├── config.dart             # 키: 환경 변수 > env.json
 └── sources/                # seoul_culture, tour_festival, kstartup, kopis, seoul_traffic, tagger (ITS 파서는 liferadar_core)
-cache/ai_en.json            # Gemini 번역 캐시
+cache/                      # Gemini 캐시 — ai_en.json(번역), news_ai.json(뉴스 판독)
 .github/workflows/          # ci.yml, refresh-data.yml
 ```
 
@@ -146,8 +167,8 @@ cache/ai_en.json            # Gemini 번역 캐시
 
 ## 직접 구현 범위와 외부 기술
 
-- **직접 구현**: 수집기 6종, 정규화·태깅, 좌표 변환, 검증, 스케줄 게시 워크플로, 테스트.
-- **외부 기술**: 공공 API 6종, Google Gemini API, GitHub Actions(스케줄 실행)와 raw.githubusercontent.com(정적 배포).
+- **직접 구현**: 수집기 6종과 뉴스 판독 파이프라인, 정규화·태깅, 좌표 변환, 검증, 스케줄 게시 워크플로, 테스트.
+- **외부 기술**: 공공 API 6종, NAVER API HUB, Google Gemini API, GitHub Actions(스케줄 실행)와 raw.githubusercontent.com(정적 배포).
 - **개발 도구**: AI 코딩 도우미(Claude)를 사용했으며 커밋에 공동 작성자로 표시했습니다.
 
 ## 한계와 다음 단계

@@ -1,9 +1,11 @@
 # 실제 데이터를 주기적으로 수집해 이 저장소의 `data` 브랜치에 게시한다.
 # - 06:00 KST: 행사 전체 (서울 문화행사 · TourAPI 축제 · K-Startup 공고 · KOPIS 공연) + 교통 통제
-# - 그 외 3시간마다: 교통 통제 (서울시 TOPIS + 국가교통정보센터 ITS)만
-# 앱은 https://raw.githubusercontent.com/woowangthon/WOOWANGTHON_TEAM_27_BE/data/{events,traffic}.json 을 받는다.
+# - 그 외 3시간마다: 교통 통제 (서울시 TOPIS) + 뉴스 파업 판독 (네이버 뉴스 → Gemini)
+#   ※ ITS는 해외 IP 차단으로 앱이 기기에서 직접 조회한다
+# 앱은 https://raw.githubusercontent.com/woowangthon/WOOWANGTHON_TEAM_27_BE/data/{events,traffic,news}.json 을 받는다.
 #
-# 필요한 Secrets: SEOUL_OPEN_API_KEY, DATA_GO_KR_KEY, GEMINI_API_KEY, ITS_API_KEY, KOPIS_API_KEY
+# 필요한 Secrets: SEOUL_OPEN_API_KEY, DATA_GO_KR_KEY, GEMINI_API_KEY, ITS_API_KEY, KOPIS_API_KEY,
+#                 NAVER_API_KEY_ID, NAVER_API_KEY
 name: Refresh data
 
 on:
@@ -31,6 +33,8 @@ jobs:
       GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
       ITS_API_KEY: ${{ secrets.ITS_API_KEY }}
       KOPIS_API_KEY: ${{ secrets.KOPIS_API_KEY }}
+      NAVER_API_KEY_ID: ${{ secrets.NAVER_API_KEY_ID }}
+      NAVER_API_KEY: ${{ secrets.NAVER_API_KEY }}
     steps:
       - uses: actions/checkout@v4
       - uses: dart-lang/setup-dart@v1
@@ -38,9 +42,8 @@ jobs:
           sdk: 3.11.5
       - run: dart pub get
 
-      # Gemini 번역 캐시: 새 행사만 번역한다 (속도·할당량 절약).
-      - name: Restore translation cache
-        if: env.FULL == 'true'
+      # Gemini 캐시 (번역·뉴스 판독): 새 행사·새 기사만 Gemini에 보낸다 (속도·할당량 절약).
+      - name: Restore Gemini cache
         uses: actions/cache/restore@v4
         with:
           path: cache
@@ -67,8 +70,12 @@ jobs:
         continue-on-error: true # 교통 수집이 실패해도 행사는 게시한다
         run: dart run bin/collect_traffic.dart --out=out/traffic.json
 
-      - name: Save translation cache
-        if: always() && env.FULL == 'true'
+      - name: Collect strike news (AI)
+        continue-on-error: true # 뉴스 판독이 실패해도 다른 데이터는 게시한다
+        run: dart run bin/collect_news.dart --out=out/news.json
+
+      - name: Save Gemini cache
+        if: always()
         uses: actions/cache/save@v4
         with:
           path: cache
@@ -86,6 +93,7 @@ jobs:
           fi
           [ -f out/events.json ] && cp out/events.json /tmp/data/events.json
           [ -f out/traffic.json ] && cp out/traffic.json /tmp/data/traffic.json
+          [ -f out/news.json ] && cp out/news.json /tmp/data/news.json
           cd /tmp/data
           git config user.name "liferadar-bot"
           git config user.email "liferadar-bot@users.noreply.github.com"

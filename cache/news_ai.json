@@ -1,0 +1,1987 @@
+{
+ "030a985ea2331c1c": {
+  "at": "2026-11-08T11:12:19.346687Z",
+  "strike": {
+   "id": "030a985ea2331c1c",
+   "mode": "subway",
+   "operator": "공항철도",
+   "regions": [
+    "인천",
+    "서울"
+   ],
+   "status": "scheduled",
+   "quote": "노조 13일 파업 예고",
+   "start": "2026-11-13",
+   "dateQuote": "13일 파업 예고",
+   "articleTitle": "공항철도, 노조 13일 파업 예고에 비상수송대책 가동 … “대화 지속과...",
+   "url": "https://www.etnews.com/20261106000304",
+   "publishedAt": "2026-11-06T17:08:00.000",
+   "sourceCount": 1,
+   "model": "gemini-3.5-flash-lite"
+  }
+ },
+ "12ce893ad7efb038": {
+  "at": "2026-11-08T11:12:19.346687Z",
+  "strike": {
+   "id": "12ce893ad7efb038",
+   "mode": "bus",
+   "operator": "춘천시민버스",
+   "regions": [
+    "강원"
+   ],
+   "status": "ended",
+   "quote": "파업 사과",
+   "articleTitle": "춘천 시내버스 노사, 파업 사과…안전운행·서비스 개선 공동 서약",
+   "url": "https://www.shinailbo.co.kr/news/articleView.html?idxno=5080553",
+   "publishedAt": "2026-11-06T14:48:00.000",
+   "sourceCount": 1,
+   "model": "gemini-3.5-flash-lite"
+  }
+ },
+ "655e7c4128626fe7": {
+  "at": "2026-11-08T11:12:19.346687Z",
+  "strike": {
+   "id": "655e7c4128626fe7",
+   "mode": "bus",
+   "operator": "춘천시민버스",
+   "regions": [
+    "강원"
+   ],
+   "status": "ended",
+   "quote": "파업에 대해 사과하고",
+   "articleTitle": "춘천 시내버스 노사정 \"시민 신뢰 회복\"",
+   "url": "https://www.g1tv.co.kr/news?mid=1_207_3&newsid=350700",
+   "publishedAt": "2026-11-06T09:12:00.000",
+   "sourceCount": 1,
+   "model": "gemini-3.5-flash-lite"
+  }
+ },
+ "8a4a71b9d7cf91d3": {
+  "at": "2026-11-08T11:12:19.346687Z",
+  "strike": {
+   "id": "8a4a71b9d7cf91d3",
+   "mode": "bus",
+   "operator": "춘천시민버스",
+   "regions": [
+    "강원"
+   ],
+   "status": "ended",
+   "quote": "파업 사과",
+   "articleTitle": "춘천 시내버스 노사정, 5일 합동 브리핑 열고 노사 파업 사과·공동 실천...",
+   "url": "https://gw.newdaily.co.kr/site/data/html/2026/11/06/2026110600001.html",
+   "publishedAt": "2026-11-06T00:40:00.000",
+   "sourceCount": 1,
+   "model": "gemini-3.5-flash-lite"
+  }
+ },
+ "35839cddaf3f6983": {
+  "at": "2026-11-08T11:12:19.346687Z",
+  "strike": {
+   "id": "35839cddaf3f6983",
+   "mode": "bus",
+   "operator": "춘천시민버스",
+   "regions": [
+    "강원"
+   ],
+   "status": "ended",
+   "quote": "버스 파업",
+   "articleTitle": "육동한 춘천시장, 버스 파업 시민 신뢰 회복 나서…민생경제 활성화도 ...",
+   "url": "https://www.ekn.kr/web/view.php?key=20261106024506110",
+   "publishedAt": "2026-11-06T00:08:00.000",
+   "sourceCount": 1,
+   "model": "gemini-3.5-flash-lite"
+  }
+ },
+ "c734cfd29f1914a0": {
+  "at": "2026-11-08T11:12:19.346687Z",
+  "strike": {
+   "id": "c734cfd29f1914a0",
+   "mode": "bus",
+   "operator": "춘천시민버스",
+   "regions": [
+    "강원"
+   ],
+   "status": "ended",
+   "quote": "파업 종료 반 년여만",
+   "articleTitle": "춘천 시내버스 파업 반 년…“사과와 서비스 개선 약속”",
+   "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8705418&ref=A",
+   "publishedAt": "2026-11-05T22:10:00.000",
+   "sourceCount": 1,
+   "model": "gemini-3.5-flash-lite"
+  }
+ },
+ "ccefd10b5336cb65": {
+  "at": "2026-11-08T11:12:19.346687Z",
+  "strike": {
+   "id": "ccefd10b5336cb65",
+   "mode": "bus",
+   "operator": "춘천시민버스",
+   "regions": [
+    "강원"
+   ],
+   "status": "ended",
+   "quote": "파업에 대해 사과하고",
+   "articleTitle": "춘천 시내버스 노사정 \"시민 신뢰 회복\"",
+   "url": "https://www.g1tv.co.kr/news?mid=1_207_6&newsid=350686",
+   "publishedAt": "2026-11-05T21:24:00.000",
+   "sourceCount": 1,
+   "model": "gemini-3.5-flash-lite"
+  }
+ },
+ "b0f64736e7aec294": {
+  "at": "2026-11-08T11:12:19.346687Z",
+  "strike": {
+   "id": "b0f64736e7aec294",
+   "mode": "bus",
+   "operator": "춘천시민버스",
+   "regions": [
+    "강원"
+   ],
+   "status": "ended",
+   "quote": "파업에 대해 시민들에게 공식 사과",
+   "articleTitle": "춘천시내버스 노사정 “‘시민의 발’ 시내버스 안정화 공동 협력” 다...",
+   "url": "https://www.kukinews.com/article/view/kuk202611050225",
+   "publishedAt": "2026-11-05T20:08:00.000",
+   "sourceCount": 1,
+   "model": "gemini-3.5-flash-lite"
+  }
+ },
+ "9d89a5a866a1f432": {
+  "at": "2026-11-08T11:12:19.346687Z",
+  "strike": {
+   "id": "9d89a5a866a1f432",
+   "mode": "bus",
+   "operator": "춘천시민버스",
+   "regions": [
+    "강원"
+   ],
+   "status": "ended",
+   "quote": "임금협상이 타결되면서 노사 갈등은 일단락됐지만",
+   "articleTitle": "[글로컬픽]춘천 시내버스, 시민 신뢰 회복 나선다",
+   "url": "https://news.mtn.co.kr/article/2026110516460329072",
+   "publishedAt": "2026-11-05T20:02:00.000",
+   "sourceCount": 1,
+   "model": "gemini-3.5-flash-lite"
+  }
+ },
+ "28861365c0fce623": {
+  "at": "2026-11-08T11:12:19.346687Z",
+  "strike": {
+   "id": "28861365c0fce623",
+   "mode": "bus",
+   "operator": "춘천시민버스",
+   "regions": [
+    "강원"
+   ],
+   "status": "ended",
+   "quote": "파업 종료 반 년여만",
+   "articleTitle": "춘천 시내버스 파업 반 년…“사과와 서비스 개선 약속”",
+   "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8705150&ref=A",
+   "publishedAt": "2026-11-05T19:32:00.000",
+   "sourceCount": 1,
+   "model": "gemini-3.5-flash-lite"
+  }
+ },
+ "0500a494690f277e": {
+  "at": "2026-11-08T11:12:19.346687Z",
+  "strike": {
+   "id": "0500a494690f277e",
+   "mode": "bus",
+   "operator": "춘천시민버스",
+   "regions": [
+    "강원"
+   ],
+   "status": "ended",
+   "quote": "파업에 대해 사과하고",
+   "articleTitle": "춘천 시내버스 노사정 \"시민 신뢰 회복\"",
+   "url": "https://www.g1tv.co.kr/news?mid=1_207_5&newsid=350666",
+   "publishedAt": "2026-11-05T17:36:00.000",
+   "sourceCount": 1,
+   "model": "gemini-3.5-flash-lite"
+  }
+ },
+ "28ebe47f9bf19345": {
+  "at": "2026-11-08T11:12:19.346687Z",
+  "rejected": "unrelated"
+ },
+ "7ff0eea5d9f5ff5b": {
+  "at": "2026-11-08T11:12:19.346687Z",
+  "rejected": "unrelated"
+ },
+ "705022dc059958fa": {
+  "at": "2026-11-08T11:12:19.346687Z",
+  "rejected": "unrelated"
+ },
+ "e232e566df6d4400": {
+  "at": "2026-11-08T11:12:19.346687Z",
+  "rejected": "status quote not in article"
+ },
+ "90c458e99f13f347": {
+  "at": "2026-11-08T11:12:19.346687Z",
+  "strike": {
+   "id": "90c458e99f13f347",
+   "mode": "bus",
+   "operator": "춘천시민버스",
+   "regions": [
+    "강원"
+   ],
+   "status": "historical",
+   "quote": "올해 시내버스 파업으로 불편을 겪은 시민들에게",
+   "articleTitle": "춘천 시내버스 노사정, 파업 사과⋯“시민 신뢰 회복하겠다”",
+   "url": "https://www.kwnews.co.kr/article/20261105501230",
+   "publishedAt": "2026-11-05T16:49:00.000",
+   "sourceCount": 1,
+   "model": "gemini-3.5-flash-lite"
+  }
+ },
+ "dd97535692f62af8": {
+  "at": "2026-11-08T11:12:19.346687Z",
+  "strike": {
+   "id": "dd97535692f62af8",
+   "mode": "bus",
+   "operator": "춘천시민버스",
+   "regions": [
+    "강원"
+   ],
+   "status": "historical",
+   "quote": "시내버스 파업으로 흔들린 시민 신뢰",
+   "articleTitle": "파업 진통 끝 다시 손잡은 춘천시·시내버스 노사 \"시민 신뢰 회복\"",
+   "url": "https://www.pressian.com/pages/articles/2026110516164980426?utm_source=naver&utm_medium=search",
+   "publishedAt": "2026-11-05T16:42:00.000",
+   "sourceCount": 1,
+   "model": "gemini-3.5-flash-lite"
+  }
+ },
+ "cc0dced157651ddf": {
+  "at": "2026-11-08T11:12:19.346687Z",
+  "strike": {
+   "id": "cc0dced157651ddf",
+   "mode": "bus",
+   "operator": "춘천시민버스",
+   "regions": [
+    "강원"
+   ],
+   "status": "historical",
+   "quote": "지난 상반기 20일 동안 이어진 파업",
+   "articleTitle": "춘천시-시민버스 노사, 버스 서비스 개선 계획 발표",
+   "url": "http://news.lghellovision.net/news/articleView.html?idxno=561239",
+   "publishedAt": "2026-11-05T16:34:00.000",
+   "sourceCount": 1,
+   "model": "gemini-3.5-flash-lite"
+  }
+ },
+ "66e17aa7d13432d9": {
+  "at": "2026-11-08T11:12:19.346687Z",
+  "strike": {
+   "id": "66e17aa7d13432d9",
+   "mode": "bus",
+   "operator": "춘천시민버스",
+   "regions": [
+    "강원"
+   ],
+   "status": "historical",
+   "quote": "지난 5월과 6월, 20일간 이어진 파업",
+   "articleTitle": "춘천 시내버스 노사 파업 사과...서비스 개선 약속",
+   "url": "https://www.ytn.co.kr/_ln/0115_202611051627275345",
+   "publishedAt": "2026-11-05T16:27:00.000",
+   "sourceCount": 1,
+   "model": "gemini-3.5-flash-lite"
+  }
+ },
+ "4f56835b1f431a79": {
+  "at": "2026-11-08T11:12:19.346687Z",
+  "strike": {
+   "id": "4f56835b1f431a79",
+   "mode": "bus",
+   "operator": "춘천시민버스",
+   "regions": [
+    "강원"
+   ],
+   "status": "historical",
+   "quote": "지난 5월과 6월 시내버스 파업",
+   "articleTitle": "춘천 시내버스 노사, 파업 공식 사과…난폭운전·무정차 근절 약속",
+   "url": "https://www.news1.kr/local/kangwon/6344540",
+   "publishedAt": "2026-11-05T16:22:00.000",
+   "sourceCount": 1,
+   "model": "gemini-3.5-flash-lite"
+  }
+ },
+ "983a1e724bfeb6a4": {
+  "at": "2026-11-08T11:12:19.346687Z",
+  "strike": {
+   "id": "983a1e724bfeb6a4",
+   "mode": "bus",
+   "operator": "춘천시민버스",
+   "regions": [
+    "강원"
+   ],
+   "status": "historical",
+   "quote": "총 20일간 이어진 시내버스 파업",
+   "articleTitle": "무너진 신뢰 다시 잇다··· 춘천시내버스 노·사·정 맞손",
+   "url": "http://www.enewstoday.co.kr/news/articleView.html?idxno=2488937",
+   "publishedAt": "2026-11-05T16:19:00.000",
+   "sourceCount": 1,
+   "model": "gemini-3.5-flash-lite"
+  }
+ },
+ "c86726385dd2fbca": {
+  "at": "2026-11-08T11:12:19.346687Z",
+  "strike": {
+   "id": "c86726385dd2fbca",
+   "mode": "bus",
+   "operator": "춘천시민버스",
+   "regions": [
+    "강원"
+   ],
+   "status": "historical",
+   "quote": "올해 춘천 시내버스 파업은 모두 20일간 이어지며",
+   "articleTitle": "파업에 승객 32만명 감소…춘천 시내버스 노사 '신뢰 회복' 선언",
+   "url": "https://www.hankyung.com/article/202611058725h",
+   "publishedAt": "2026-11-05T15:56:00.000",
+   "sourceCount": 1,
+   "model": "gemini-3.5-flash-lite"
+  }
+ },
+ "ca80a89c7cfd4506": {
+  "at": "2026-11-08T11:12:19.346687Z",
+  "strike": {
+   "id": "ca80a89c7cfd4506",
+   "mode": "bus",
+   "operator": "춘천시민버스",
+   "regions": [
+    "강원"
+   ],
+   "status": "historical",
+   "quote": "올해 5월과 6월 시내버스 파업으로",
+   "articleTitle": "춘천시 \"시내버스 파업 혼란 사과\".. 서비스 개선",
+   "url": "https://chmbc.co.kr/article/14127377",
+   "publishedAt": "2026-11-05T14:56:00.000",
+   "sourceCount": 1,
+   "model": "gemini-3.5-flash-lite"
+  }
+ },
+ "d23fd73ccc0e9416": {
+  "at": "2026-11-08T11:12:19.346687Z",
+  "strike": {
+   "id": "d23fd73ccc0e9416",
+   "mode": "bus",
+   "operator": "춘천시민버스",
+   "regions": [
+    "강원"
+   ],
+   "status": "historical",
+   "quote": "올해 춘천 시내버스 파업은 모두 20일간 이어졌으며",
+   "articleTitle": "춘천 시내버스 노사정, 파업 사과…\"시민 신뢰 회복 약속",
+   "url": "https://www.yna.co.kr/view/AKR20261105120400062?input=1195m",
+   "publishedAt": "2026-11-05T14:53:00.000",
+   "sourceCount": 1,
+   "model": "gemini-3.5-flash-lite"
+  }
+ },
+ "07a6dec960c5a36b": {
+  "at": "2026-11-08T11:12:19.346687Z",
+  "strike": {
+   "id": "07a6dec960c5a36b",
+   "mode": "bus",
+   "operator": "",
+   "regions": [],
+   "status": "historical",
+   "quote": "누적 적자나 반복되는 파업",
+   "articleTitle": "[박상권박사의 교통안전 가이드] 혁신성과는 막히고 악성구조는 키우는...",
+   "url": "https://www.ggilbo.com/news/articleView.html?idxno=1191426",
+   "publishedAt": "2026-11-05T14:14:00.000",
+   "sourceCount": 1,
+   "model": "gemini-3.5-flash-lite"
+  }
+ },
+ "eb2350a21d6317bc": {
+  "at": "2026-11-08T11:12:19.346687Z",
+  "strike": {
+   "id": "eb2350a21d6317bc",
+   "mode": "bus",
+   "operator": "경기도 버스노조",
+   "regions": [
+    "경기"
+   ],
+   "status": "scheduled",
+   "quote": "오는 30일 총파업을 예고했습니다.",
+   "start": "2026-11-30",
+   "dateQuote": "오는 30일",
+   "articleTitle": "경기도 버스노조 30일 총파업 예고",
+   "url": "https://news.skbroadband.com/news/articleView.html?idxno=241430",
+   "publishedAt": "2026-11-04T18:18:00.000",
+   "sourceCount": 1,
+   "model": "gemini-3.5-flash-lite"
+  }
+ },
+ "be44b61422a0ee66": {
+  "at": "2026-11-08T11:12:19.346687Z",
+  "rejected": "unrelated"
+ },
+ "edd039e4a9049b3a": {
+  "at": "2026-11-08T11:12:19.346687Z",
+  "rejected": "unrelated"
+ },
+ "1d1ca5982f6cc04a": {
+  "at": "2026-11-08T11:12:19.346687Z",
+  "rejected": "unrelated"
+ },
+ "043a3f24e3b2925e": {
+  "at": "2026-11-08T11:12:19.346687Z",
+  "rejected": "status unknown"
+ },
+ "6051f4a1faaad22f": {
+  "at": "2026-11-08T11:12:19.346687Z",
+  "rejected": "unrelated"
+ },
+ "d597a4ee9e9b18e4": {
+  "at": "2026-11-08T11:12:19.346687Z",
+  "rejected": "unrelated"
+ },
+ "de311b518e11b18b": {
+  "at": "2026-11-08T11:12:19.346687Z",
+  "rejected": "unrelated"
+ },
+ "49dada5236184ab8": {
+  "at": "2026-11-08T11:12:19.346687Z",
+  "rejected": "unrelated"
+ },
+ "759156f9713fa07b": {
+  "at": "2026-11-08T11:12:19.346687Z",
+  "rejected": "unrelated"
+ },
+ "bb47eb34b47c7bfe": {
+  "at": "2026-11-08T11:12:19.346687Z",
+  "rejected": "unrelated"
+ },
+ "0e9cb5f215f12924": {
+  "at": "2026-11-08T11:12:19.346687Z",
+  "rejected": "unrelated"
+ },
+ "bcf5207c5f847c4a": {
+  "at": "2026-11-08T11:12:19.346687Z",
+  "rejected": "unrelated"
+ },
+ "c311ebd675dfcb58": {
+  "at": "2026-11-08T11:12:19.346687Z",
+  "rejected": "unrelated"
+ },
+ "478a62af9bdf03a1": {
+  "at": "2026-11-08T11:12:19.346687Z",
+  "rejected": "unrelated"
+ },
+ "6119987dd7b282a3": {
+  "at": "2026-11-08T11:12:19.346687Z",
+  "rejected": "unrelated"
+ },
+ "29ff1e32011a5acc": {
+  "at": "2026-11-08T11:12:19.346687Z",
+  "rejected": "unrelated"
+ },
+ "94904c93684e1761": {
+  "at": "2026-11-08T11:12:19.346687Z",
+  "rejected": "unrelated"
+ },
+ "18541519baa2a043": {
+  "at": "2026-11-08T11:12:19.346687Z",
+  "rejected": "unrelated"
+ },
+ "55390990fd36d116": {
+  "at": "2026-11-08T11:12:19.346687Z",
+  "rejected": "unrelated"
+ },
+ "c4021d8ca277240e": {
+  "at": "2026-11-08T11:12:19.346687Z",
+  "strike": {
+   "id": "c4021d8ca277240e",
+   "mode": "bus",
+   "operator": "서울시내버스",
+   "regions": [
+    "서울"
+   ],
+   "status": "historical",
+   "quote": "서울시내버스 파업과 이에 따른 비상수송 대책에",
+   "articleTitle": "전은혜 서울시의원 \"시내버스 파업 수습에 5년간 58억…필수공익사업 지...",
+   "url": "https://www.onews.tv/news/articleView.html?idxno=290704",
+   "publishedAt": "2026-11-03T14:50:00.000",
+   "sourceCount": 1,
+   "model": "gemini-3.5-flash-lite"
+  }
+ },
+ "1b8a7366c5266728": {
+  "at": "2026-11-08T11:12:19.346687Z",
+  "strike": {
+   "id": "1b8a7366c5266728",
+   "mode": "bus",
+   "operator": "서울 시내버스",
+   "regions": [
+    "서울"
+   ],
+   "status": "historical",
+   "quote": "서울 시내버스 파업에 대비하거나 실제",
+   "articleTitle": "전은혜 시의원, 시내버스 파업 대응에 58억 원 사용…시민 이동권 보장...",
+   "url": "https://www.newspim.com/news/view/20261103000876",
+   "publishedAt": "2026-11-03T14:31:00.000",
+   "sourceCount": 1,
+   "model": "gemini-3.5-flash-lite"
+  }
+ },
+ "1234278d6b882577": {
+  "at": "2026-11-08T11:12:19.346687Z",
+  "strike": {
+   "id": "1234278d6b882577",
+   "mode": "rail",
+   "operator": "전국철도노조 서울교통공사노조 공항철도지부",
+   "regions": [
+    "전국"
+   ],
+   "status": "scheduled",
+   "quote": "20일 이후 공동 총파업에 돌입할 방침이다",
+   "start": "2026-11-20",
+   "dateQuote": "20일 이후",
+   "articleTitle": "철도·지하철·공항·학교까지…공공부문 줄파업 예고",
+   "url": "https://www.sedaily.com/article/20111659?ref=naver",
+   "publishedAt": "2026-11-08T18:20:00.000",
+   "sourceCount": 1,
+   "model": "gemini-3.5-flash-lite"
+  }
+ },
+ "3afdba2e1bf0e34c": {
+  "at": "2026-11-08T11:12:19.346687Z",
+  "strike": {
+   "id": "3afdba2e1bf0e34c",
+   "mode": "rail",
+   "operator": "공항철도",
+   "regions": [
+    "인천",
+    "서울"
+   ],
+   "status": "scheduled",
+   "quote": "오는 13일 경고파업이 예고됨에 따라",
+   "start": "2026-11-13",
+   "dateQuote": "오는 13일",
+   "articleTitle": "공항철도 13일 사상 첫 파업 예고…노사간 임단협 이견 커",
+   "url": "https://www.asiatoday.co.kr/kn/view.php?key=20261108010002825",
+   "publishedAt": "2026-11-08T14:08:00.000",
+   "sourceCount": 1,
+   "model": "gemini-3.5-flash-lite"
+  }
+ },
+ "a57cdf9ed539a840": {
+  "at": "2026-11-08T11:12:19.346687Z",
+  "rejected": "unrelated"
+ },
+ "b106624fd0aa74d9": {
+  "at": "2026-11-08T11:12:19.346687Z",
+  "rejected": "unrelated"
+ },
+ "3b101c1e6752e9dc": {
+  "at": "2026-11-08T11:12:19.346687Z",
+  "rejected": "unrelated"
+ },
+ "1e10c233627a8349": {
+  "at": "2026-11-08T11:12:19.346687Z",
+  "rejected": "unrelated"
+ },
+ "2010c559607a8023": {
+  "at": "2026-11-08T11:12:19.346687Z",
+  "rejected": "unrelated"
+ },
+ "3da1694735162a9d": {
+  "at": "2026-11-08T11:12:19.346687Z",
+  "rejected": "unrelated"
+ },
+ "2e61ebb992db008f": {
+  "at": "2026-11-08T11:12:19.346687Z",
+  "rejected": "unrelated"
+ },
+ "bfdb8602625e2590": {
+  "at": "2026-11-08T11:12:19.346687Z",
+  "rejected": "unrelated"
+ },
+ "7f1987beb9b272f4": {
+  "at": "2026-11-08T11:12:19.346687Z",
+  "rejected": "unrelated"
+ },
+ "7e4c0ce11faa907f": {
+  "at": "2026-11-08T11:12:19.346687Z",
+  "rejected": "unrelated"
+ },
+ "b7f532234087b69d": {
+  "at": "2026-11-08T11:12:19.346687Z",
+  "rejected": "unrelated"
+ },
+ "fa0183f422a01e2e": {
+  "at": "2026-11-08T11:12:19.346687Z",
+  "strike": {
+   "id": "fa0183f422a01e2e",
+   "mode": "subway",
+   "operator": "서울교통공사",
+   "regions": [
+    "서울"
+   ],
+   "status": "preparing",
+   "quote": "서울지하철이 올해도 파업 위기에 놓였다",
+   "articleTitle": "해마다 반복되는 '출근길 불안'…서울지하철 파업 위기 언제까지",
+   "url": "https://www.news1.kr/local/moi/6345904",
+   "publishedAt": "2026-11-07T07:10:00.000",
+   "sourceCount": 1,
+   "model": "gemini-3.5-flash-lite"
+  }
+ },
+ "a92df93d905e6e57": {
+  "at": "2026-11-08T11:12:19.346687Z",
+  "strike": {
+   "id": "a92df93d905e6e57",
+   "mode": "subway",
+   "operator": "서울교통공사",
+   "regions": [
+    "서울"
+   ],
+   "status": "scheduled",
+   "quote": "이달 말 파업 수순 밟",
+   "articleTitle": "[아주경제 오늘의 뉴스 종합] 서울지하철 노조 3곳 모두 파업 찬성…이...",
+   "url": "https://www.ajunews.com/view/20261106213952670",
+   "publishedAt": "2026-11-06T21:46:00.000",
+   "sourceCount": 1,
+   "model": "gemini-3.5-flash-lite"
+  }
+ },
+ "a80c846e939de504": {
+  "at": "2026-11-08T11:12:19.346687Z",
+  "strike": {
+   "id": "a80c846e939de504",
+   "mode": "rail",
+   "operator": "전국철도지하철노동조합협의회",
+   "regions": [
+    "전국"
+   ],
+   "status": "scheduled",
+   "quote": "공동파업을 예고하며",
+   "articleTitle": "뉴진스 계약서는 열네 살의 밤을 비워 두었다",
+   "url": "https://newscham.net/130140/",
+   "publishedAt": "2026-11-06T17:02:00.000",
+   "sourceCount": 1,
+   "model": "gemini-3.5-flash-lite"
+  }
+ },
+ "3f255beba10c47a9": {
+  "at": "2026-11-08T11:12:19.346687Z",
+  "strike": {
+   "id": "3f255beba10c47a9",
+   "mode": "rail",
+   "operator": "전국철도지하철노동조합협의회",
+   "regions": [
+    "전국"
+   ],
+   "status": "scheduled",
+   "quote": "20일 이후 총파업",
+   "start": "2026-11-20",
+   "dateQuote": "오는 20일부터",
+   "articleTitle": "철도·지하철노조 공동파업 가결…\"20일 이후 총파업\" [현장]",
+   "url": "https://www.redaily.co.kr/news/articleView.html?idxno=18133",
+   "publishedAt": "2026-11-06T16:58:00.000",
+   "sourceCount": 1,
+   "model": "gemini-3.5-flash-lite"
+  }
+ },
+ "b8d95d39ad9e2883": {
+  "at": "2026-11-08T11:12:19.346687Z",
+  "strike": {
+   "id": "b8d95d39ad9e2883",
+   "mode": "rail",
+   "operator": "공항철도지부",
+   "regions": [
+    "인천",
+    "서울"
+   ],
+   "status": "scheduled",
+   "quote": "오는 13일 하루 경고 파업에 나선다",
+   "start": "2026-11-13",
+   "dateQuote": "오는 13일",
+   "articleTitle": "7개 사업장 궤도노동자, '인력 충원' 위해 공동투쟁",
+   "url": "https://www.laborplus.co.kr/news/articleView.html?idxno=41775",
+   "publishedAt": "2026-11-06T16:21:00.000",
+   "sourceCount": 1,
+   "model": "gemini-3.5-flash-lite"
+  }
+ },
+ "15bec368ec7b7202": {
+  "at": "2026-11-08T11:12:19.346687Z",
+  "strike": {
+   "id": "15bec368ec7b7202",
+   "mode": "rail",
+   "operator": "",
+   "regions": [
+    "전국"
+   ],
+   "status": "scheduled",
+   "quote": "20일부터 준법투쟁 예고",
+   "start": "2026-11-20",
+   "dateQuote": "오는 20일부터",
+   "articleTitle": "철도·지하철 노조 \"안전인력 충원\"…20일부터 준법투쟁 예고",
+   "url": "https://news.tf.co.kr/read/life/2385796.htm",
+   "publishedAt": "2026-11-06T15:48:00.000",
+   "sourceCount": 1,
+   "model": "gemini-3.5-flash-lite"
+  }
+ },
+ "4a4af623db6b5585": {
+  "at": "2026-11-08T11:12:19.346687Z",
+  "strike": {
+   "id": "4a4af623db6b5585",
+   "mode": "subway",
+   "operator": "서울교통공사",
+   "regions": [
+    "서울"
+   ],
+   "status": "scheduled",
+   "quote": "이달 말 파업 수순 밟나",
+   "articleTitle": "서울지하철 노조 3곳 모두 파업 찬성…이달 말 파업 수순 밟나",
+   "url": "https://www.ajunews.com/view/20261106150149812",
+   "publishedAt": "2026-11-06T15:06:00.000",
+   "sourceCount": 1,
+   "model": "gemini-3.5-flash-lite"
+  }
+ },
+ "692a669060c83b5a": {
+  "at": "2026-11-08T11:12:19.346687Z",
+  "strike": {
+   "id": "692a669060c83b5a",
+   "mode": "rail",
+   "operator": "전국철도노조",
+   "regions": [
+    "전국"
+   ],
+   "status": "scheduled",
+   "quote": "전국 동시다발 전면 총파업에 돌입할 것",
+   "articleTitle": "서울지하철 3개 노조 파업 수순…철도·GTX까지 '동시 파업' 초읽기",
+   "url": "http://www.inews24.com/view/2023500",
+   "publishedAt": "2026-11-06T14:46:00.000",
+   "sourceCount": 1,
+   "model": "gemini-3.5-flash-lite"
+  }
+ },
+ "b5ac7dacfeaf4432": {
+  "at": "2026-11-08T11:12:19.346687Z",
+  "strike": {
+   "id": "b5ac7dacfeaf4432",
+   "mode": "rail",
+   "operator": "",
+   "regions": [
+    "전국"
+   ],
+   "status": "scheduled",
+   "quote": "오는 20일 이후 동시다발적으로 파업에 돌입할 방침",
+   "start": "2026-11-20",
+   "dateQuote": "오는 20일 이후",
+   "articleTitle": "철도·지하철 노조 \"공공성·안전 강화\" 공동파업 예고",
+   "url": "https://www.newsclaim.co.kr/news/articleView.html?idxno=3081734",
+   "publishedAt": "2026-11-06T14:00:00.000",
+   "sourceCount": 1,
+   "model": "gemini-3.5-flash-lite"
+  }
+ },
+ "9c94180ff920d345": {
+  "at": "2026-11-08T11:12:19.346687Z",
+  "strike": {
+   "id": "9c94180ff920d345",
+   "mode": "rail",
+   "operator": "공항철도지부",
+   "regions": [
+    "전국"
+   ],
+   "status": "scheduled",
+   "quote": "20일 이후 동시다발 파업에 나설 계획이다",
+   "start": "2026-11-20",
+   "dateQuote": "20일 이후",
+   "articleTitle": "철도·지하철 노조 11곳 \"안전인력 늘려라\" 공동파업 예고",
+   "url": "https://www.labortoday.co.kr/news/articleView.html?idxno=237612",
+   "publishedAt": "2026-11-06T13:42:00.000",
+   "sourceCount": 1,
+   "model": "gemini-3.5-flash-lite"
+  }
+ },
+ "f446b67529af1d6b": {
+  "at": "2026-11-08T11:12:19.346687Z",
+  "strike": {
+   "id": "f446b67529af1d6b",
+   "mode": "subway",
+   "operator": "부산지하철노조",
+   "regions": [
+    "부산"
+   ],
+   "status": "historical",
+   "quote": "산별 릴레이 파업을 벌이고",
+   "articleTitle": "[인터뷰] 직선 5기 4개 후보조 ② \"초광역특구법 전면 폐기, 네 후보조 ...",
+   "url": "http://worknworld.kctu.org/news/articleView.html?idxno=510254",
+   "publishedAt": "2026-11-06T13:12:00.000",
+   "sourceCount": 1,
+   "model": "gemini-3.5-flash-lite"
+  }
+ },
+ "2ab48ec762af3255": {
+  "at": "2026-11-08T11:12:19.346687Z",
+  "strike": {
+   "id": "2ab48ec762af3255",
+   "mode": "subway",
+   "operator": "",
+   "regions": [
+    "서울"
+   ],
+   "status": "historical",
+   "quote": "2024년 파업 예고 당시",
+   "articleTitle": "[공공돋보기] 다시 흔들리는 시민의 발",
+   "url": "http://www.00news.co.kr/news/articleView.html?idxno=107798",
+   "publishedAt": "2026-11-06T12:56:00.000",
+   "sourceCount": 1,
+   "model": "gemini-3.5-flash-lite"
+  }
+ },
+ "c64c98cafe94c728": {
+  "at": "2026-11-08T11:12:19.346687Z",
+  "rejected": "unrelated"
+ },
+ "5406481f44db31d5": {
+  "at": "2026-11-08T11:12:19.346687Z",
+  "rejected": "unrelated"
+ },
+ "7fde4652bb5bbf28": {
+  "at": "2026-11-08T11:12:19.346687Z",
+  "rejected": "status quote not in article"
+ },
+ "f746bb2e24af158c": {
+  "at": "2026-11-08T11:12:19.346687Z",
+  "strike": {
+   "id": "f746bb2e24af158c",
+   "mode": "rail",
+   "operator": "전국철도지하철노동조합협의회",
+   "regions": [
+    "전국"
+   ],
+   "status": "scheduled",
+   "quote": "철도·지하철 6개 노조 쟁의행위 가결",
+   "articleTitle": "철도·지하철 6개 노조 쟁의행위 가결… \"11월 릴레이 집회, 준법투쟁 넘...",
+   "url": "http://worknworld.kctu.org/news/articleView.html?idxno=510259",
+   "publishedAt": "2026-11-06T12:44:00.000",
+   "sourceCount": 1,
+   "model": "gemini-3.5-flash-lite"
+  }
+ },
+ "dd4c6f50d29f9616": {
+  "at": "2026-11-08T11:12:19.346687Z",
+  "strike": {
+   "id": "dd4c6f50d29f9616",
+   "mode": "subway",
+   "operator": "서울교통공사",
+   "regions": [
+    "서울"
+   ],
+   "status": "conditional",
+   "quote": "오는 20일부터",
+   "start": "2026-11-20",
+   "dateQuote": "오는 20일부터",
+   "articleTitle": "서울지하철 이달 말 파업하나…'인력 충원' 놓고 노사 평행선",
+   "url": "https://www.news1.kr/local/moi/6345315",
+   "publishedAt": "2026-11-06T10:40:00.000",
+   "sourceCount": 1,
+   "model": "gemini-3.5-flash-lite"
+  }
+ },
+ "b0f51e00eb458f82": {
+  "at": "2026-11-08T11:12:19.346687Z",
+  "strike": {
+   "id": "b0f51e00eb458f82",
+   "mode": "subway",
+   "operator": "서울교통공사",
+   "regions": [
+    "서울"
+   ],
+   "status": "conditional",
+   "quote": "오는 20일부터 준법 투쟁에 들어간다. 노조는 사측과의 교섭에 진전이 없으면 파업에 나설 방침이다.",
+   "start": "2026-11-20",
+   "dateQuote": "오는 20일부터",
+   "articleTitle": "감축이냐 증원이냐… 노사 인력 갈등에 서울지하철 파업 가능성",
+   "url": "https://view.asiae.co.kr/article/2026110608560450762",
+   "publishedAt": "2026-11-06T09:50:00.000",
+   "sourceCount": 1,
+   "model": "gemini-3.5-flash-lite"
+  }
+ },
+ "782f46a0ac2766de": {
+  "at": "2026-11-08T11:12:19.346687Z",
+  "strike": {
+   "id": "782f46a0ac2766de",
+   "mode": "subway",
+   "operator": "서울교통공사",
+   "regions": [
+    "서울"
+   ],
+   "status": "scheduled",
+   "quote": "공사 소속 노동조합 3곳이 모두 쟁의행위 찬반투표를 가결",
+   "articleTitle": "서울교통공사 노조 3곳 모두 쟁의행위 가결… 지하철 파업 위기 고조",
+   "url": "https://www.munhwa.com/article/11629208?ref=naver",
+   "publishedAt": "2026-11-06T07:33:00.000",
+   "sourceCount": 1,
+   "model": "gemini-3.5-flash-lite"
+  }
+ },
+ "815f9bd64a7c9dcc": {
+  "at": "2026-11-08T11:12:19.346687Z",
+  "rejected": "unrelated"
+ },
+ "7e159e24892dc36a": {
+  "at": "2026-11-08T11:12:19.346687Z",
+  "rejected": "unrelated"
+ },
+ "5a4a8825c36258c7": {
+  "at": "2026-11-08T11:12:19.346687Z",
+  "rejected": "unrelated"
+ },
+ "f48929a94375cd4f": {
+  "at": "2026-11-08T11:12:19.346687Z",
+  "rejected": "unrelated"
+ },
+ "a61f6f6e67729e5c": {
+  "at": "2026-11-08T11:12:19.346687Z",
+  "rejected": "unrelated"
+ },
+ "b0db7830008a5132": {
+  "at": "2026-11-08T11:12:19.346687Z",
+  "rejected": "unrelated"
+ },
+ "263ee54fdfd8f155": {
+  "at": "2026-11-08T11:12:19.346687Z",
+  "rejected": "unrelated"
+ },
+ "324136cadbdb29a0": {
+  "at": "2026-11-08T11:12:19.346687Z",
+  "rejected": "unrelated"
+ },
+ "ef6c5197749acdc5": {
+  "at": "2026-11-08T11:12:19.346687Z",
+  "rejected": "unrelated"
+ },
+ "ea6c49b86f9ac5e6": {
+  "at": "2026-11-08T11:12:19.346687Z",
+  "rejected": "unrelated"
+ },
+ "fd04bdf7e89957a9": {
+  "at": "2026-11-08T11:12:19.346687Z",
+  "rejected": "unrelated"
+ },
+ "ff04c11de6995483": {
+  "at": "2026-11-08T11:12:19.346687Z",
+  "strike": {
+   "id": "ff04c11de6995483",
+   "mode": "subway",
+   "operator": "전국철도지하철노동조합협의회",
+   "regions": [
+    "전국"
+   ],
+   "status": "preparing",
+   "quote": "공동파업 투표 결과 및 법제도개선, 노정교섭 촉구 기자회견",
+   "articleTitle": "[오늘의 주요일정]국회(11월6일 금요일)",
+   "url": "https://www.newsis.com/view/NISX20261105_0003857082",
+   "publishedAt": "2026-11-06T05:00:00.000",
+   "sourceCount": 1,
+   "model": "gemini-3.5-flash-lite"
+  }
+ },
+ "ccb337f44f0be446": {
+  "at": "2026-11-08T11:12:19.346687Z",
+  "strike": {
+   "id": "ccb337f44f0be446",
+   "mode": "subway",
+   "operator": "전국철도지하철노동조합협의회",
+   "regions": [
+    "전국"
+   ],
+   "status": "preparing",
+   "quote": "공동파업 투표 결과 및 법제도개선 촉구 기자회견",
+   "articleTitle": "[오늘의 국회일정] 국회의장·상임위·세미나·기자회견·주요 정당 - 11...",
+   "url": "https://www.newspim.com/news/view/20261105001479",
+   "publishedAt": "2026-11-06T05:00:00.000",
+   "sourceCount": 1,
+   "model": "gemini-3.5-flash-lite"
+  }
+ },
+ "c8520c590f24caab": {
+  "at": "2026-11-08T11:12:19.346687Z",
+  "strike": {
+   "id": "c8520c590f24caab",
+   "mode": "subway",
+   "operator": "서울교통공사",
+   "regions": [
+    "서울"
+   ],
+   "status": "conditional",
+   "quote": "노사가 이견을 좁히지 못할 경우 파업까지 치달을 수 있다는 전망",
+   "articleTitle": "노사 인력감축 놓고 ‘평행선’… 서울 지하철 파업 전운",
+   "url": "https://www.donga.com/news/Society/article/all/20261105/134975166/2",
+   "publishedAt": "2026-11-06T04:33:00.000",
+   "sourceCount": 1,
+   "model": "gemini-3.5-flash-lite"
+  }
+ },
+ "a71f710168729fef": {
+  "at": "2026-11-08T11:12:19.346687Z",
+  "strike": {
+   "id": "a71f710168729fef",
+   "mode": "rail",
+   "operator": "전국철도노조",
+   "regions": [
+    "전국"
+   ],
+   "status": "scheduled",
+   "quote": "전국철도노조가 12월 총파업을 예고한",
+   "articleTitle": "'철도·지하철' 연말 파업 전선 확대 … 공공교통 차질 우려",
+   "url": "https://www.safetimes.co.kr/news/articleView.html?idxno=247248",
+   "publishedAt": "2026-11-05T21:42:00.000",
+   "sourceCount": 1,
+   "model": "gemini-3.5-flash-lite"
+  }
+ },
+ "07c429f4e5cbc7d6": {
+  "at": "2026-11-08T11:12:19.346687Z",
+  "strike": {
+   "id": "07c429f4e5cbc7d6",
+   "mode": "subway",
+   "operator": "서울교통공사",
+   "regions": [
+    "서울"
+   ],
+   "status": "historical",
+   "quote": "지난해에도 노조가 파업을 예고했지만",
+   "articleTitle": "지하철 파업하나… 서교공 노조 쟁의행위 가결",
+   "url": "https://www.chosun.com/national/national_general/2026/11/05/24TSJVQUMZHTTIHCZUNT4GJRXQ/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
+   "publishedAt": "2026-11-05T20:30:00.000",
+   "sourceCount": 1,
+   "model": "gemini-3.5-flash-lite"
+  }
+ },
+ "09d3c2416210d2eb": {
+  "at": "2026-11-08T11:12:19.346687Z",
+  "strike": {
+   "id": "09d3c2416210d2eb",
+   "mode": "subway",
+   "operator": "서울교통공사",
+   "regions": [
+    "서울"
+   ],
+   "status": "conditional",
+   "quote": "노사가 이견을 좁히지 못할 경우 파업까지 치달을 수 있다는 전망",
+   "articleTitle": "노사 인력감축 놓고 ‘평행선’…서울 지하철 파업 전운",
+   "url": "https://www.donga.com/news/Society/article/all/20261105/134972058/1",
+   "publishedAt": "2026-11-05T20:18:00.000",
+   "sourceCount": 1,
+   "model": "gemini-3.5-flash-lite"
+  }
+ },
+ "8ae5bfcb9c4e4805": {
+  "at": "2026-11-08T11:12:19.346687Z",
+  "strike": {
+   "id": "8ae5bfcb9c4e4805",
+   "mode": "subway",
+   "operator": "서울교통공사",
+   "regions": [
+    "서울"
+   ],
+   "status": "conditional",
+   "quote": "임금과 인력 충원을 둘러싼 노사 협상에 진전이 없으면 이달 말 파업에 나설 계획",
+   "articleTitle": "서울 지하철 이달 말 파업 가능성",
+   "url": "https://www.hankyung.com/article/2026110593311",
+   "publishedAt": "2026-11-05T19:55:00.000",
+   "sourceCount": 1,
+   "model": "gemini-3.5-flash-lite"
+  }
+ },
+ "12d56fd8df0b55ce": {
+  "at": "2026-11-08T11:12:19.346687Z",
+  "strike": {
+   "id": "12d56fd8df0b55ce",
+   "mode": "subway",
+   "operator": "서울교통공사",
+   "regions": [
+    "서울"
+   ],
+   "status": "conditional",
+   "quote": "교섭에 진전이 없으면 파업을 포함한 쟁위행위에 나선다는 계획",
+   "start": "2026-11-20",
+   "dateQuote": "오는 20일부터",
+   "articleTitle": "서울교통공사 노조 쟁의행위 가결...지하철 파업 가능성",
+   "url": "https://www.ytn.co.kr/_ln/0115_202611051945189244",
+   "publishedAt": "2026-11-05T19:45:00.000",
+   "sourceCount": 1,
+   "model": "gemini-3.5-flash-lite"
+  }
+ },
+ "20ebb61e44a796f8": {
+  "at": "2026-11-08T11:12:19.346687Z",
+  "strike": {
+   "id": "20ebb61e44a796f8",
+   "mode": "subway",
+   "operator": "서울교통공사",
+   "regions": [
+    "서울"
+   ],
+   "status": "preparing",
+   "quote": "공동 파업 투표 결과와 향후 공동 투쟁 쟁의 계획을 발표",
+   "start": "2026-11-06",
+   "dateQuote": "오는 6일",
+   "articleTitle": "서울교통공사 노조, 쟁의행위 가결 …20일부터 준법투쟁",
+   "url": "https://www.edaily.co.kr/News/Read?newsId=07068406645642768&mediaCodeNo=257&utm_source=naver&utm_medium=referral&utm_campaign=news_syndication&utm_content=original_article",
+   "publishedAt": "2026-11-05T19:34:00.000",
+   "sourceCount": 1,
+   "model": "gemini-3.5-flash-lite"
+  }
+ },
+ "f6a80f5db206e4d3": {
+  "at": "2026-11-08T11:12:19.346687Z",
+  "strike": {
+   "id": "f6a80f5db206e4d3",
+   "mode": "subway",
+   "operator": "서울교통공사",
+   "regions": [
+    "서울"
+   ],
+   "status": "conditional",
+   "quote": "교섭에 전향적인 진전이 없을 경우 11월 말 본격적인 총파업에 들어갈 계획",
+   "start": "2026-11-20",
+   "dateQuote": "오는 20일부터",
+   "articleTitle": "\"서울 지하철 멈춰서나\"...노조 파업 '가결', 20일 준법투쟁 예고",
+   "url": "http://www.hansbiz.co.kr/news/articleView.html?idxno=880392",
+   "publishedAt": "2026-11-05T19:28:00.000",
+   "sourceCount": 1,
+   "model": "gemini-3.5-flash-lite"
+  }
+ },
+ "2db22eff0f263ee1": {
+  "at": "2026-11-08T11:12:19.346687Z",
+  "strike": {
+   "id": "2db22eff0f263ee1",
+   "mode": "rail",
+   "operator": "공항철도",
+   "regions": [
+    "인천",
+    "서울"
+   ],
+   "status": "scheduled",
+   "quote": "공항철도가 오는 13일 노동조합의 경고파업 예고",
+   "start": "2026-11-13",
+   "dateQuote": "오는 13일",
+   "articleTitle": "공항철도, 노조 13일 경고파업…비상수송체계·안전 관리 가동",
+   "url": "https://www.incheonilbo.com/news/articleView.html?idxno=1336229",
+   "publishedAt": "2026-11-08T16:20:00.000",
+   "sourceCount": 1,
+   "model": "gemini-3.5-flash-lite"
+  }
+ },
+ "284b2b587e8e5caa": {
+  "at": "2026-11-08T11:12:19.346687Z",
+  "strike": {
+   "id": "284b2b587e8e5caa",
+   "mode": "rail",
+   "operator": "공항철도",
+   "regions": [
+    "인천",
+    "서울"
+   ],
+   "status": "scheduled",
+   "quote": "공항철도 노조가 경고 파업을 예고한 13일",
+   "start": "2026-11-13",
+   "dateQuote": "13일",
+   "articleTitle": "공항철도 노조 13일 경고 파업… 열차 4대 중 1대 멈춘다",
+   "url": "https://www.hankookilbo.com/news/article/A2026110809580002109?did=NA",
+   "publishedAt": "2026-11-08T13:49:00.000",
+   "sourceCount": 1,
+   "model": "gemini-3.5-flash-lite"
+  }
+ },
+ "2ec6e89646bdb8bc": {
+  "at": "2026-11-08T11:12:19.346687Z",
+  "strike": {
+   "id": "2ec6e89646bdb8bc",
+   "mode": "rail",
+   "operator": "공항철도",
+   "regions": [
+    "인천",
+    "서울"
+   ],
+   "status": "scheduled",
+   "quote": "공항철도노조 오는 13일 개통 이후 첫 경고파업 예고",
+   "start": "2026-11-13",
+   "dateQuote": "오는 13일",
+   "articleTitle": "공항철도노조 오는 13일 개통 이후 첫 경고파업 예고",
+   "url": "https://www.incheontoday.com/news/articleView.html?idxno=326049",
+   "publishedAt": "2026-11-08T13:00:00.000",
+   "sourceCount": 1,
+   "model": "gemini-3.5-flash-lite"
+  }
+ },
+ "d69422253ff066eb": {
+  "at": "2026-11-08T11:12:19.346687Z",
+  "strike": {
+   "id": "d69422253ff066eb",
+   "mode": "rail",
+   "operator": "공항철도",
+   "regions": [
+    "인천",
+    "서울"
+   ],
+   "status": "scheduled",
+   "quote": "공항철도, 노조 13일 총파업 예고",
+   "start": "2026-11-13",
+   "dateQuote": "13일",
+   "articleTitle": "공항철도, 노조 13일 총파업 예고 비상수송체계 마련",
+   "url": "https://www.kgnews.co.kr/news/article.html?no=918535",
+   "publishedAt": "2026-11-08T07:48:00.000",
+   "sourceCount": 1,
+   "model": "gemini-3.5-flash-lite"
+  }
+ },
+ "06d9ae299fdece7f": {
+  "at": "2026-11-08T11:12:19.346687Z",
+  "rejected": "unrelated"
+ },
+ "c4d9701db99e3b67": {
+  "at": "2026-11-08T11:12:19.346687Z",
+  "strike": {
+   "id": "c4d9701db99e3b67",
+   "mode": "rail",
+   "operator": "공항철도",
+   "regions": [
+    "인천",
+    "서울"
+   ],
+   "status": "scheduled",
+   "quote": "11월 13일 경고파업 돌입 계획 발표",
+   "start": "2026-11-13",
+   "dateQuote": "11월 13일",
+   "articleTitle": "[위클립] 11월 1주",
+   "url": "https://www.laborplus.co.kr/news/articleView.html?idxno=41779",
+   "publishedAt": "2026-11-07T13:14:00.000",
+   "sourceCount": 1,
+   "model": "gemini-3.5-flash-lite"
+  }
+ },
+ "82e19ca868fc31f2": {
+  "at": "2026-11-08T11:12:19.346687Z",
+  "strike": {
+   "id": "82e19ca868fc31f2",
+   "mode": "rail",
+   "operator": "공항철도",
+   "regions": [
+    "인천",
+    "서울"
+   ],
+   "status": "scheduled",
+   "quote": "공항철도 파업 경고",
+   "articleTitle": "공항철도 파업 경고, 출퇴근 시간 운행 정상화에도 불편 불가피한 이유",
+   "url": "https://www.gokorea.kr/news/articleView.html?idxno=884544",
+   "publishedAt": "2026-11-07T09:58:00.000",
+   "sourceCount": 1,
+   "model": "gemini-3.5-flash-lite"
+  }
+ },
+ "0a7c812074bf3c32": {
+  "at": "2026-11-08T11:12:19.346687Z",
+  "strike": {
+   "id": "0a7c812074bf3c32",
+   "mode": "rail",
+   "operator": "공항철도",
+   "regions": [
+    "인천",
+    "서울"
+   ],
+   "status": "scheduled",
+   "quote": "오는 13일 노조의 경고 파업",
+   "start": "2026-11-13",
+   "dateQuote": "오는 13일",
+   "articleTitle": "공항철도 비상수송 체계…13일 경고파업 대응",
+   "url": "https://www.obsnews.co.kr/news/articleView.html?idxno=1542929",
+   "publishedAt": "2026-11-06T20:16:00.000",
+   "sourceCount": 1,
+   "model": "gemini-3.5-flash-lite"
+  }
+ },
+ "2ebe3e0e97abd3b4": {
+  "at": "2026-11-08T11:12:19.346687Z",
+  "strike": {
+   "id": "2ebe3e0e97abd3b4",
+   "mode": "rail",
+   "operator": "공항철도",
+   "regions": [
+    "인천",
+    "서울"
+   ],
+   "status": "scheduled",
+   "quote": "13일 경고파업 예고",
+   "start": "2026-11-13",
+   "dateQuote": "13일",
+   "articleTitle": "공항철도, 노조 13일 경고파업 예고 비상수송체계 마련",
+   "url": "https://www.kihoilbo.co.kr/news/articleView.html?idxno=3040106",
+   "publishedAt": "2026-11-06T18:20:00.000",
+   "sourceCount": 1,
+   "model": "gemini-3.5-flash-lite"
+  }
+ },
+ "8174edb0e3c22986": {
+  "at": "2026-11-08T11:12:19.346687Z",
+  "strike": {
+   "id": "8174edb0e3c22986",
+   "mode": "rail",
+   "operator": "전국철도노동조합",
+   "regions": [
+    "전국"
+   ],
+   "status": "scheduled",
+   "quote": "12월 총파업 예고",
+   "articleTitle": "철도노조, 파업 찬반투표 가결…12월 총파업 예고",
+   "url": "https://www.obsnews.co.kr/news/articleView.html?idxno=1542910",
+   "publishedAt": "2026-11-06T17:56:00.000",
+   "sourceCount": 1,
+   "model": "gemini-3.5-flash-lite"
+  }
+ },
+ "f48e0f6109089487": {
+  "at": "2026-11-08T11:12:19.346687Z",
+  "strike": {
+   "id": "f48e0f6109089487",
+   "mode": "rail",
+   "operator": "공항철도",
+   "regions": [
+    "인천",
+    "서울"
+   ],
+   "status": "scheduled",
+   "quote": "13일 경고파업에 들어가면",
+   "start": "2026-11-13",
+   "dateQuote": "13일",
+   "articleTitle": "공항철도 13일 경고파업…일반열차 30% 감축 운행",
+   "url": "https://www.donga.com/news/Society/article/all/20261106/134979777/1",
+   "publishedAt": "2026-11-06T17:23:00.000",
+   "sourceCount": 1,
+   "model": "gemini-3.5-flash-lite"
+  }
+ },
+ "eb6e8b831f1127c9": {
+  "at": "2026-11-08T11:12:19.346687Z",
+  "strike": {
+   "id": "eb6e8b831f1127c9",
+   "mode": "rail",
+   "operator": "공항철도",
+   "regions": [
+    "인천",
+    "서울"
+   ],
+   "status": "scheduled",
+   "quote": "11월13일 경고파업을 예고",
+   "start": "2026-11-13",
+   "dateQuote": "11월13일",
+   "articleTitle": "공항철도, 노조 파업 예고에 비상 수송 체계 마련",
+   "url": "https://www.siminilbo.co.kr/news/newsview.php?ncode=1160294996002242",
+   "publishedAt": "2026-11-06T17:20:00.000",
+   "sourceCount": 1,
+   "model": "gemini-3.5-flash-lite"
+  }
+ },
+ "e7e5eb671d9577f9": {
+  "at": "2026-11-08T11:12:19.346687Z",
+  "strike": {
+   "id": "e7e5eb671d9577f9",
+   "mode": "rail",
+   "operator": "공항철도",
+   "regions": [
+    "인천",
+    "서울"
+   ],
+   "status": "scheduled",
+   "quote": "13일 예고된 공항철도 경고파업",
+   "start": "2026-11-13",
+   "dateQuote": "13일",
+   "articleTitle": "공항철도, 노조 13일 경고파업 예고… 비상수송체계 가동 준비",
+   "url": "https://biz.heraldcorp.com/article/10928888?ref=naver",
+   "publishedAt": "2026-11-06T17:18:00.000",
+   "sourceCount": 1,
+   "model": "gemini-3.5-flash-lite"
+  }
+ },
+ "3da2d1395959c64f": {
+  "at": "2026-11-08T11:12:19.346687Z",
+  "strike": {
+   "id": "3da2d1395959c64f",
+   "mode": "rail",
+   "operator": "공항철도",
+   "regions": [
+    "인천",
+    "서울"
+   ],
+   "status": "scheduled",
+   "quote": "오는 13일 경고 파업을 예고",
+   "start": "2026-11-13",
+   "dateQuote": "오는 13일",
+   "articleTitle": "공항철도 파업 대비 비상수송대책…\"이용객 불편 최소화\"",
+   "url": "https://news.skbroadband.com/news/articleView.html?idxno=242575",
+   "publishedAt": "2026-11-06T17:14:00.000",
+   "sourceCount": 1,
+   "model": "gemini-3.5-flash-lite"
+  }
+ },
+ "4021a8c7161d7849": {
+  "at": "2026-11-08T11:12:19.346687Z",
+  "strike": {
+   "id": "4021a8c7161d7849",
+   "mode": "rail",
+   "operator": "공항철도",
+   "regions": [
+    "인천",
+    "서울"
+   ],
+   "status": "scheduled",
+   "quote": "오는 13일 하루 경고파업을 예고",
+   "start": "2026-11-13",
+   "dateQuote": "오는 13일",
+   "articleTitle": "공항철도 노조 13일 하루 경고파업…사측 “출퇴근 시간대 운행률 100% 유...",
+   "url": "https://www.mk.co.kr/article/12200613",
+   "publishedAt": "2026-11-06T17:10:00.000",
+   "sourceCount": 1,
+   "model": "gemini-3.5-flash-lite"
+  }
+ },
+ "cd528eb9975b5cb3": {
+  "at": "2026-11-08T11:12:19.346687Z",
+  "strike": {
+   "id": "cd528eb9975b5cb3",
+   "mode": "rail",
+   "operator": "공항철도",
+   "regions": [
+    "인천",
+    "서울"
+   ],
+   "status": "scheduled",
+   "quote": "오는 13일 예고된 노조 파업",
+   "start": "2026-11-13",
+   "dateQuote": "오는 13일",
+   "articleTitle": "공항철도, 노조 경고파업 대비 비상수송대책 마련",
+   "url": "http://www.ikld.kr/news/articleView.html?idxno=343689",
+   "publishedAt": "2026-11-06T17:08:00.000",
+   "sourceCount": 1,
+   "model": "gemini-3.5-flash-lite"
+  }
+ },
+ "99eb3a60ea231702": {
+  "at": "2026-11-08T11:12:19.346687Z",
+  "strike": {
+   "id": "99eb3a60ea231702",
+   "mode": "rail",
+   "operator": "공항철도",
+   "regions": [
+    "인천",
+    "서울"
+   ],
+   "status": "scheduled",
+   "quote": "13일 경고파업",
+   "start": "2026-11-13",
+   "dateQuote": "13일",
+   "articleTitle": "공항철도 노조 13일 경고파업…전체 열차 25% 감축, 비상수송체계 가동",
+   "url": "https://www.viva100.com/article/20261106500651",
+   "publishedAt": "2026-11-06T17:06:00.000",
+   "sourceCount": 1,
+   "model": "gemini-3.5-flash-lite"
+  }
+ },
+ "fc92eec22a3300a0": {
+  "at": "2026-11-08T11:12:19.346687Z",
+  "rejected": "status quote not in article"
+ },
+ "9eac73c11a0de233": {
+  "at": "2026-11-08T11:12:19.346687Z",
+  "rejected": "unrelated"
+ },
+ "3b21a0e8191d7d02": {
+  "at": "2026-11-08T11:12:19.346687Z",
+  "rejected": "unrelated"
+ },
+ "49f3ec5116c4d0db": {
+  "at": "2026-11-08T11:12:19.346687Z",
+  "strike": {
+   "id": "49f3ec5116c4d0db",
+   "mode": "rail",
+   "operator": "공항철도",
+   "regions": [
+    "인천",
+    "서울"
+   ],
+   "status": "scheduled",
+   "quote": "13일 노조 경고파업시",
+   "start": "2026-11-13",
+   "dateQuote": "13일",
+   "articleTitle": "공항철도 \"13일 노조 경고파업시 열차 운행률 75%로 조정\"",
+   "url": "https://www.ngonews.kr/news/articleView.html?idxno=242528",
+   "publishedAt": "2026-11-06T17:00:00.000",
+   "sourceCount": 1,
+   "model": "gemini-3.5-flash-lite"
+  }
+ },
+ "2b27f08b73f676dd": {
+  "at": "2026-11-08T11:12:19.346687Z",
+  "strike": {
+   "id": "2b27f08b73f676dd",
+   "mode": "rail",
+   "operator": "공항철도",
+   "regions": [
+    "인천",
+    "서울"
+   ],
+   "status": "scheduled",
+   "quote": "오는 13일 노동조합의 경고파업 예고",
+   "start": "2026-11-13",
+   "dateQuote": "오는 13일",
+   "articleTitle": "공항철도, 경고파업 예고에 비상수송체계 마련...이용객 불편 최소화 총...",
+   "url": "https://www.webeconomy.co.kr/news/articleView.html?idxno=2364926",
+   "publishedAt": "2026-11-06T16:56:00.000",
+   "sourceCount": 1,
+   "model": "gemini-3.5-flash-lite"
+  }
+ },
+ "8cbecf5bbf2b324d": {
+  "at": "2026-11-08T11:12:19.346687Z",
+  "strike": {
+   "id": "8cbecf5bbf2b324d",
+   "mode": "rail",
+   "operator": "공항철도",
+   "regions": [
+    "인천",
+    "서울"
+   ],
+   "status": "scheduled",
+   "quote": "13일 노조 경고파업 대비",
+   "start": "2026-11-13",
+   "dateQuote": "13일",
+   "articleTitle": "공항철도, 13일 노조 경고파업 대비 비상수송체제 마련… 이용객 불편 ...",
+   "url": "https://www.seoul.co.kr/news/economy/2026/11/06/20261106500291?wlog_tag3=naver",
+   "publishedAt": "2026-11-06T16:54:00.000",
+   "sourceCount": 1,
+   "model": "gemini-3.5-flash-lite"
+  }
+ },
+ "0c87461dfc31c283": {
+  "at": "2026-11-08T11:12:19.346687Z",
+  "strike": {
+   "id": "0c87461dfc31c283",
+   "mode": "rail",
+   "operator": "공항철도",
+   "regions": [
+    "인천",
+    "서울"
+   ],
+   "status": "scheduled",
+   "quote": "13일 경고파업을 예고",
+   "start": "2026-11-13",
+   "dateQuote": "13일",
+   "articleTitle": "공항철도, 노조 13일 파업 예고에 비상대책 마련…\"이용객 불편 최소화...",
+   "url": "https://www.news1.kr/local/incheon/6345988",
+   "publishedAt": "2026-11-06T16:44:00.000",
+   "sourceCount": 1,
+   "model": "gemini-3.5-flash-lite"
+  }
+ },
+ "e4323af36a2ef255": {
+  "at": "2026-11-08T11:12:19.346687Z",
+  "strike": {
+   "id": "e4323af36a2ef255",
+   "mode": "rail",
+   "operator": "공항철도",
+   "regions": [
+    "인천",
+    "서울"
+   ],
+   "status": "scheduled",
+   "quote": "13일 경고파업 대비",
+   "start": "2026-11-13",
+   "dateQuote": "13일",
+   "articleTitle": "공항철도, 13일 경고파업 대비… 직통열차 정상 운행 계획",
+   "url": "https://biz.chosun.com/industry/business_info/2026/11/06/E2V7NLWZF5GMPH7WCTIYP4CABA/?utm_source=naver&utm_medium=original&utm_campaign=biz",
+   "publishedAt": "2026-11-06T16:34:00.000",
+   "sourceCount": 1,
+   "model": "gemini-3.5-flash-lite"
+  }
+ },
+ "3f3b757c52ebb9ba": {
+  "at": "2026-11-08T11:12:19.346687Z",
+  "strike": {
+   "id": "3f3b757c52ebb9ba",
+   "mode": "rail",
+   "operator": "공항철도",
+   "regions": [
+    "인천",
+    "서울"
+   ],
+   "status": "scheduled",
+   "quote": "13일 경고파업 대응책 마련",
+   "start": "2026-11-13",
+   "dateQuote": "13일",
+   "articleTitle": "\"직통열차 등 정상운행\"…공항철도, 13일 경고파업 대응책 마련",
+   "url": "https://www.yna.co.kr/view/AKR20261106140800065?input=1195m",
+   "publishedAt": "2026-11-06T16:30:00.000",
+   "sourceCount": 1,
+   "model": "gemini-3.5-flash-lite"
+  }
+ },
+ "f7657b6194d1f34f": {
+  "at": "2026-11-08T11:12:19.346687Z",
+  "strike": {
+   "id": "f7657b6194d1f34f",
+   "mode": "rail",
+   "operator": "코레일",
+   "regions": [
+    "전국"
+   ],
+   "status": "conditional",
+   "quote": "교섭 결렬 시 12월 총파업",
+   "articleTitle": "철도 통합에도 12월 총파업 가시화…코레일 내부통제 '빨간불'",
+   "url": "https://www.asiatime.co.kr/article/20261106500236",
+   "publishedAt": "2026-11-06T15:16:00.000",
+   "sourceCount": 1,
+   "model": "gemini-3.5-flash-lite"
+  }
+ },
+ "a985bc571a4ba7f1": {
+  "at": "2026-11-08T11:12:19.346687Z",
+  "strike": {
+   "id": "a985bc571a4ba7f1",
+   "mode": "rail",
+   "operator": "공항철도",
+   "regions": [
+    "인천",
+    "서울"
+   ],
+   "status": "scheduled",
+   "quote": "오는 13일 경고 파업",
+   "start": "2026-11-13",
+   "dateQuote": "오는 13일",
+   "articleTitle": "'임금협상 갈등' 공항철도 노조, 오는 13일 경고 파업...개통 이후 첫 파...",
+   "url": "https://news.jtbc.co.kr/article/NB12326827?influxDiv=NAVER",
+   "publishedAt": "2026-11-06T14:15:00.000",
+   "sourceCount": 1,
+   "model": "gemini-3.5-flash-lite"
+  }
+ },
+ "73d06dcf722fb5e1": {
+  "at": "2026-11-08T11:12:19.346687Z",
+  "strike": {
+   "id": "73d06dcf722fb5e1",
+   "mode": "rail",
+   "operator": "코레일",
+   "regions": [
+    "전국"
+   ],
+   "status": "conditional",
+   "quote": "철도 통합 첫 총파업 예고",
+   "articleTitle": "“KTX 안되면 SRT 탔었는데”…철도 통합 첫 총파업 예고, 승객 발 묶이...",
+   "url": "https://www.mk.co.kr/article/12200356",
+   "publishedAt": "2026-11-06T11:40:00.000",
+   "sourceCount": 1,
+   "model": "gemini-3.5-flash-lite"
+  }
+ },
+ "61e97c37f2e756c5": {
+  "at": "2026-11-08T11:12:19.346687Z",
+  "strike": {
+   "id": "61e97c37f2e756c5",
+   "mode": "rail",
+   "operator": "공항철도",
+   "regions": [
+    "인천",
+    "서울"
+   ],
+   "status": "scheduled",
+   "quote": "오는 13일 하루 동안 경고파업을 예고",
+   "start": "2026-11-13",
+   "dateQuote": "오는 13일",
+   "articleTitle": "공항철도 13일 첫 파업 예고…열차 운행 차질 불가피",
+   "url": "https://news.skbroadband.com/news/articleView.html?idxno=242483",
+   "publishedAt": "2026-11-06T08:16:00.000",
+   "sourceCount": 1,
+   "model": "gemini-3.5-flash-lite"
+  }
+ },
+ "859b058c71848a7a": {
+  "at": "2026-11-08T11:12:19.346687Z",
+  "strike": {
+   "id": "859b058c71848a7a",
+   "mode": "rail",
+   "operator": "공항철도",
+   "regions": [
+    "인천",
+    "서울"
+   ],
+   "status": "scheduled",
+   "quote": "사상 첫 파업 예고",
+   "articleTitle": "인천 공항철도 사상 첫 파업 예고, 노조와 사측 간 입장 차이 여전",
+   "url": "https://www.gokorea.kr/news/articleView.html?idxno=884351",
+   "publishedAt": "2026-11-06T07:20:00.000",
+   "sourceCount": 1,
+   "model": "gemini-3.5-flash-lite"
+  }
+ },
+ "cd7eb301b9165e0f": {
+  "at": "2026-11-08T11:12:19.346687Z",
+  "strike": {
+   "id": "cd7eb301b9165e0f",
+   "mode": "rail",
+   "operator": "코레일",
+   "regions": [
+    "전국"
+   ],
+   "status": "conditional",
+   "quote": "내달 총파업을 예고",
+   "articleTitle": "코레일·SR 통합 후 12월에 첫 파업?…노조 쟁의행위 '가결'",
+   "url": "https://news.jtbc.co.kr/article/NB12326726?influxDiv=NAVER",
+   "publishedAt": "2026-11-05T21:19:00.000",
+   "sourceCount": 1,
+   "model": "gemini-3.5-flash-lite"
+  }
+ },
+ "aee2022047d1e95a": {
+  "at": "2026-11-08T11:12:19.346687Z",
+  "rejected": "unrelated"
+ },
+ "966189dbf0f87bad": {
+  "at": "2026-11-08T11:12:19.346687Z",
+  "rejected": "unrelated"
+ },
+ "5ede1dd74bcbd221": {
+  "at": "2026-11-08T11:12:19.346687Z",
+  "rejected": "unrelated"
+ },
+ "af7353c0b59b3312": {
+  "at": "2026-11-08T11:12:19.346687Z",
+  "strike": {
+   "id": "af7353c0b59b3312",
+   "mode": "rail",
+   "operator": "전국철도노동조합",
+   "regions": [
+    "전국"
+   ],
+   "status": "scheduled",
+   "quote": "철도노조, 12월 총파업 예고",
+   "articleTitle": "승진제도·안전인력 놓고 '갈등'...철도노조, 12월 총파업 예고",
+   "url": "https://www.newspim.com/news/view/20261105001516",
+   "publishedAt": "2026-11-05T21:10:00.000",
+   "sourceCount": 1,
+   "model": "gemini-3.5-flash-lite"
+  }
+ },
+ "aae92ab8a84c2586": {
+  "at": "2026-11-08T11:12:19.346687Z",
+  "strike": {
+   "id": "aae92ab8a84c2586",
+   "mode": "rail",
+   "operator": "전국철도노동조합",
+   "regions": [
+    "전국"
+   ],
+   "status": "scheduled",
+   "quote": "철도노조 “12월 총파업 불사”",
+   "articleTitle": "코레일·SR 통합 후 첫 파업 위기…철도노조 “12월 총파업 불사”",
+   "url": "https://www.sedaily.com/article/20110923?ref=naver",
+   "publishedAt": "2026-11-05T20:53:00.000",
+   "sourceCount": 1,
+   "model": "gemini-3.5-flash-lite"
+  }
+ },
+ "e85ee1d498231e0a": {
+  "at": "2026-11-08T11:12:19.346687Z",
+  "strike": {
+   "id": "e85ee1d498231e0a",
+   "mode": "rail",
+   "operator": "전국철도노동조합",
+   "regions": [
+    "전국"
+   ],
+   "status": "scheduled",
+   "quote": "12월 총파업 예고",
+   "articleTitle": "철도노조 쟁의행위 찬반투표 77.6% 찬성으로 가결, 12월 총파업 예고",
+   "url": "https://www.businesspost.co.kr/BP?command=article_view&num=451324",
+   "publishedAt": "2026-11-05T20:40:00.000",
+   "sourceCount": 1,
+   "model": "gemini-3.5-flash-lite"
+  }
+ },
+ "3ba1a4f64834f58c": {
+  "at": "2026-11-08T11:12:19.346687Z",
+  "strike": {
+   "id": "3ba1a4f64834f58c",
+   "mode": "rail",
+   "operator": "전국철도노동조합",
+   "regions": [
+    "전국"
+   ],
+   "status": "scheduled",
+   "quote": "12월 총파업하나",
+   "articleTitle": "'통합' 코레일ㆍSR, 12월 총파업하나…철도노조, 쟁의행위 의결(종합)",
+   "url": "https://www.yna.co.kr/view/AKR20261105172051063?input=1195m",
+   "publishedAt": "2026-11-05T20:23:00.000",
+   "sourceCount": 1,
+   "model": "gemini-3.5-flash-lite"
+  }
+ },
+ "22a84428ce48011a": {
+  "at": "2026-11-08T11:12:19.346687Z",
+  "strike": {
+   "id": "22a84428ce48011a",
+   "mode": "rail",
+   "operator": "전국철도노동조합",
+   "regions": [
+    "전국"
+   ],
+   "status": "scheduled",
+   "quote": "철도노조 쟁의행위 압도적 가결",
+   "articleTitle": "\"12월 총파업 폭탄 터진다\"… 철도노조 쟁의행위 압도적 가결\"",
+   "url": "https://www.cjb.co.kr/home/sub.php?menukey=61&mod=view&P_NO=261105511&PRO_CODE=99",
+   "publishedAt": "2026-11-05T20:06:00.000",
+   "sourceCount": 1,
+   "model": "gemini-3.5-flash-lite"
+  }
+ },
+ "44a0eac458454646": {
+  "at": "2026-11-08T11:12:19.346687Z",
+  "strike": {
+   "id": "44a0eac458454646",
+   "mode": "rail",
+   "operator": "전국철도노동조합",
+   "regions": [
+    "전국"
+   ],
+   "status": "scheduled",
+   "quote": "철도노조, 12월 총파업 예고",
+   "articleTitle": "철도노조, 12월 총파업 예고…쟁의행위 찬성 77.6%",
+   "url": "https://www.kmib.co.kr/article/20261105502205",
+   "publishedAt": "2026-11-05T20:01:00.000",
+   "sourceCount": 1,
+   "model": "gemini-3.5-flash-lite"
+  }
+ },
+ "71c4f361ec9ad3b3": {
+  "at": "2026-11-08T11:12:19.346687Z",
+  "strike": {
+   "id": "71c4f361ec9ad3b3",
+   "mode": "rail",
+   "operator": "전국철도노동조합",
+   "regions": [
+    "전국"
+   ],
+   "status": "scheduled",
+   "quote": "12월 총파업 예고",
+   "articleTitle": "철도노조 임금·단체교섭 결렬…12월 총파업 예고",
+   "url": "https://biz.heraldcorp.com/article/10927685?ref=naver",
+   "publishedAt": "2026-11-05T19:47:00.000",
+   "sourceCount": 1,
+   "model": "gemini-3.5-flash-lite"
+  }
+ },
+ "0ff81f995b1fc503": {
+  "at": "2026-11-08T11:12:19.346687Z",
+  "strike": {
+   "id": "0ff81f995b1fc503",
+   "mode": "rail",
+   "operator": "전국철도노동조합",
+   "regions": [
+    "전국"
+   ],
+   "status": "scheduled",
+   "quote": "오는 12월, 총파업을 예고했습니다",
+   "articleTitle": "철도노조, 임금·단체교섭 결렬...12월 총파업 예고",
+   "url": "https://www.ytn.co.kr/_ln/0103_202611051945249472",
+   "publishedAt": "2026-11-05T19:45:00.000",
+   "sourceCount": 1,
+   "model": "gemini-3.5-flash-lite"
+  }
+ },
+ "663b4f3535d30377": {
+  "at": "2026-11-08T11:12:19.346687Z",
+  "strike": {
+   "id": "663b4f3535d30377",
+   "mode": "rail",
+   "operator": "전국철도노동조합",
+   "regions": [
+    "전국"
+   ],
+   "status": "scheduled",
+   "quote": "내달 총파업 예고",
+   "articleTitle": "[속보]철도노조 임금·단체 교섭 결렬로 내달 총파업 예고",
+   "url": "http://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0300&key=20261105.99099001897",
+   "publishedAt": "2026-11-05T19:37:00.000",
+   "sourceCount": 1,
+   "model": "gemini-3.5-flash-lite"
+  }
+ },
+ "248bcf98e6b4a5d2": {
+  "at": "2026-11-08T11:12:19.346687Z",
+  "strike": {
+   "id": "248bcf98e6b4a5d2",
+   "mode": "rail",
+   "operator": "전국철도노동조합",
+   "regions": [
+    "전국"
+   ],
+   "status": "scheduled",
+   "quote": "12월 총파업 예고",
+   "articleTitle": "철도노조, 임단협 결렬에 쟁의 가결…12월 총파업 예고",
+   "url": "https://www.etoday.co.kr/news/view/2644799",
+   "publishedAt": "2026-11-05T19:30:00.000",
+   "sourceCount": 1,
+   "model": "gemini-3.5-flash-lite"
+  }
+ },
+ "eb3d12fef20cdbec": {
+  "at": "2026-11-08T11:12:19.346687Z",
+  "strike": {
+   "id": "eb3d12fef20cdbec",
+   "mode": "rail",
+   "operator": "전국철도노동조합",
+   "regions": [
+    "전국"
+   ],
+   "status": "scheduled",
+   "quote": "12월 총파업 가능성",
+   "articleTitle": "철도노조, 쟁의행위 찬성 77.6%…12월 총파업 가능성",
+   "url": "https://view.asiae.co.kr/article/2026110519264816861",
+   "publishedAt": "2026-11-05T19:26:00.000",
+   "sourceCount": 1,
+   "model": "gemini-3.5-flash-lite"
+  }
+ },
+ "e1276057c8bde971": {
+  "at": "2026-11-08T11:12:19.346687Z",
+  "strike": {
+   "id": "e1276057c8bde971",
+   "mode": "rail",
+   "operator": "전국철도노동조합",
+   "regions": [
+    "전국"
+   ],
+   "status": "scheduled",
+   "quote": "내달 총파업 예고",
+   "articleTitle": "철도노조 내달 총파업 예고…조합원 67% 쟁의행위 찬성",
+   "url": "https://www.daejonilbo.com/news/articleView.html?idxno=2311868",
+   "publishedAt": "2026-11-05T19:20:00.000",
+   "sourceCount": 1,
+   "model": "gemini-3.5-flash-lite"
+  }
+ },
+ "f0f6da7582dc2fd7": {
+  "at": "2026-11-08T11:12:19.346687Z",
+  "rejected": "status quote not in article"
+ },
+ "0f2b8f30dff6d9e6": {
+  "at": "2026-11-08T11:12:19.346687Z",
+  "rejected": "status quote not in article"
+ },
+ "647aae0468cf809e": {
+  "at": "2026-11-08T11:12:19.346687Z",
+  "rejected": "status quote not in article"
+ }
+}
