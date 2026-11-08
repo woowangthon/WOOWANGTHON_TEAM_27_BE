@@ -18,8 +18,6 @@ Future<void> main(List<String> args) async {
   final out = args.firstWhere((a) => a.startsWith('--out='), orElse: () => '--out=out/traffic.json').substring(6);
   final env = loadKeys();
   final now = DateTime.now();
-  final today = DateTime(now.year, now.month, now.day);
-  final horizon = now.add(const Duration(days: _horizonDays));
   final notices = <TrafficNotice>[];
   final sources = <Map<String, String>>[];
   var failures = 0;
@@ -49,7 +47,9 @@ Future<void> main(List<String> args) async {
     stderr.writeln('! ITS_API_KEY 없음 — ITS 건너뜀');
   } else {
     try {
-      final res = await http.get(ItsTraffic.uri(itsKey)).timeout(const Duration(seconds: 60));
+      // ITS는 해외 IP를 차단한다 — GitHub Actions(미국)에서는 응답이 없어 짧게 기다리고 넘어간다.
+      // 앱은 한국 내 기기에서 ITS를 직접 조회하므로 데이터가 빠지지 않는다.
+      final res = await http.get(ItsTraffic.uri(itsKey)).timeout(const Duration(seconds: 15));
       if (res.statusCode != 200) throw SourceException('${ItsTraffic.source}: HTTP ${res.statusCode}');
       final rows = ItsTraffic.rows(jsonDecode(utf8.decode(res.bodyBytes)) as Map<String, dynamic>);
       final found = [for (final r in rows) ?ItsTraffic.parse(r)];
@@ -71,7 +71,7 @@ Future<void> main(List<String> args) async {
   // (판별 로직: 종료 미상을 무기한 활성화하지 않는다).
   final kept = {
     for (final n in notices)
-      if (n.start.isBefore(horizon) && (n.end == null ? !n.start.isBefore(today) : n.end!.isAfter(now))) n.id: n,
+      if (n.isRelevantAt(now, horizonDays: _horizonDays)) n.id: n,
   }.values.toList()
     ..sort((a, b) => a.start.compareTo(b.start));
 
