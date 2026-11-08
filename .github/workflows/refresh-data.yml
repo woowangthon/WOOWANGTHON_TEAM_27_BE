@@ -1,9 +1,9 @@
 # 실제 데이터를 주기적으로 수집해 이 저장소의 `data` 브랜치에 게시한다.
-# - 06:00 KST: 행사 전체 (서울 문화행사 · TourAPI 축제 · K-Startup 공고) + 교통 통제
+# - 06:00 KST: 행사 전체 (서울 문화행사 · TourAPI 축제 · K-Startup 공고 · KOPIS 공연) + 교통 통제
 # - 그 외 3시간마다: 교통 통제 (서울시 TOPIS + 국가교통정보센터 ITS)만
 # 앱은 https://raw.githubusercontent.com/woowangthon/WOOWANGTHON_TEAM_27_BE/data/{events,traffic}.json 을 받는다.
 #
-# 필요한 Secrets: SEOUL_OPEN_API_KEY, DATA_GO_KR_KEY, GEMINI_API_KEY, ITS_API_KEY
+# 필요한 Secrets: SEOUL_OPEN_API_KEY, DATA_GO_KR_KEY, GEMINI_API_KEY, ITS_API_KEY, KOPIS_API_KEY
 name: Refresh data
 
 on:
@@ -30,6 +30,7 @@ jobs:
       DATA_GO_KR_KEY: ${{ secrets.DATA_GO_KR_KEY }}
       GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
       ITS_API_KEY: ${{ secrets.ITS_API_KEY }}
+      KOPIS_API_KEY: ${{ secrets.KOPIS_API_KEY }}
     steps:
       - uses: actions/checkout@v4
       - uses: dart-lang/setup-dart@v1
