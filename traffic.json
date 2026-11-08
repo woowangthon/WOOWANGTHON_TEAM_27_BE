@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-07T21:17:31.291874Z",
+ "generatedAt": "2026-11-08T00:11:50.646816Z",
  "horizonDays": 28,
  "sources": [
   {
@@ -58,6 +58,19 @@
    "end": "2026-11-08T10:00:00.000",
    "lat": 37.52830834646812,
    "lng": 127.08840371161462,
+   "source": "seoul-topis",
+   "sourceName": "서울시 TOPIS · 실시간 돌발정보",
+   "sourceUrl": "https://topis.seoul.go.kr"
+  },
+  {
+   "id": "topis-1107887",
+   "kind": "event",
+   "title": "- 신촌 연세로 차 없는 거리",
+   "detail": "- 신촌 연세로 차 없는 거리\n- 운영시간 : 매주 일요일 09:00 ~ 22:00\n- 시행구간 및 시행방법 : 연세로 (신촌전철역~연세대학교 앞 550m), 버스노선 우회 운행 후 교통통제\n* 창천교회→연대 앞 57m 구간 미운영",
+   "start": "2026-11-08T09:00:00.000",
+   "end": "2026-11-08T22:00:00.000",
+   "lat": 37.55827377900964,
+   "lng": 126.93691458461221,
    "source": "seoul-topis",
    "sourceName": "서울시 TOPIS · 실시간 돌발정보",
    "sourceUrl": "https://topis.seoul.go.kr"
