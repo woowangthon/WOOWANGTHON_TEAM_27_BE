@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-09T04:00:55.155675Z",
+ "generatedAt": "2026-11-09T14:54:39.074895Z",
  "windowDays": 14,
  "queries": [
   "버스 파업",
@@ -17,20 +17,40 @@
  "articles": 150,
  "strikes": [
   {
-   "id": "11b5409e7ca67ae0",
+   "id": "5741b151f3c4fa3f",
    "mode": "subway",
    "operator": "서울교통공사",
    "regions": [
-    "서울"
+    "서울",
+    "부산",
+    "대구",
+    "인천",
+    "광주",
+    "대전"
    ],
    "status": "conditional",
-   "quote": "임금·단체협약 협상 결렬로 파업",
+   "quote": "교섭에 진전이 없을 시 파업에 나설 방침이다.",
    "start": "2026-11-20",
    "dateQuote": "오는 20일부터",
-   "articleTitle": "지하철 무임수송 손실만 7754억… 서울교통公 노사 “국가가 책임져야”",
-   "url": "https://www.munhwa.com/article/11629804?ref=naver",
-   "publishedAt": "2026-11-09T10:32:00.000",
-   "sourceCount": 13,
+   "articleTitle": "임단협 결렬에도 한목소리…서교공 노사 “무임수송 국비 지원 법으로”",
+   "url": "https://www.kukinews.com/article/view/kuk202611090189",
+   "publishedAt": "2026-11-09T16:34:00.000",
+   "sourceCount": 12,
+   "model": "gemini-3.5-flash-lite"
+  },
+  {
+   "id": "188d08933e43e4a1",
+   "mode": "rail",
+   "operator": "철도노조",
+   "regions": [
+    "전국"
+   ],
+   "status": "scheduled",
+   "quote": "공공부문 노동조합들이 이달 중순부터 잇따라 파업에 돌입할 예정이다.",
+   "articleTitle": "학교·철도·공단 등 공공부문 잇단 파업 예고…임금·인력 쟁점",
+   "url": "https://www.ntoday.co.kr/news/articleView.html?idxno=130713",
+   "publishedAt": "2026-11-09T16:20:00.000",
+   "sourceCount": 1,
    "model": "gemini-3.5-flash-lite"
   },
   {
