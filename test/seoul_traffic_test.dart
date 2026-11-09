@@ -34,7 +34,7 @@ void main() {
       expect(SeoulTraffic.rows('<RESULT><CODE>INFO-200</CODE></RESULT>'), isEmpty);
     });
 
-    test('TM → WGS84: Seoul shahar hokimiyati', () {
+    test('TM → WGS84: 서울시청', () {
       // EPSG:5181에서 서울시청 ≈ (198,000, 451,900) — ~ (37.566, 126.977).
       final p = SeoulTraffic.tmToWgs84(197990, 451880);
       expect(p.lat, closeTo(37.566, 0.003));
