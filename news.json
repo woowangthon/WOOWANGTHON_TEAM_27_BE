@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-09T14:54:39.074895Z",
+ "generatedAt": "2026-11-09T23:42:05.769155Z",
  "windowDays": 14,
  "queries": [
   "버스 파업",
@@ -14,8 +14,54 @@
    "url": "https://www.ncloud.com/product/applicationService/naverApiHub"
   }
  ],
- "articles": 150,
+ "articles": 147,
  "strikes": [
+  {
+   "id": "96903979705ee2f3",
+   "mode": "bus",
+   "operator": "서울 시내버스",
+   "regions": [
+    "서울"
+   ],
+   "status": "historical",
+   "quote": "지난 1월 13일 서울 시내버스 노조가 전면파업에 돌입했을",
+   "articleTitle": "[전문가기고] 반복되는 서울버스 파업, 해법은 필수공익사업 지정에 있...",
+   "url": "https://www.ajunews.com/view/20261109112047089",
+   "publishedAt": "2026-11-10T06:02:00.000",
+   "sourceCount": 2,
+   "model": "gemini-3.5-flash-lite"
+  },
+  {
+   "id": "f5b983573191e419",
+   "mode": "rail",
+   "operator": "철도노조",
+   "regions": [
+    "전국"
+   ],
+   "status": "scheduled",
+   "quote": "철도노조가 총파업을 예고하면서",
+   "articleTitle": "고속철도 통합 두 달 만에 ‘파업 암초’…출범 초기부터 삐걱대는 철도...",
+   "url": "https://www.kukinews.com/article/view/kuk202611090226",
+   "publishedAt": "2026-11-10T06:02:00.000",
+   "sourceCount": 2,
+   "model": "gemini-3.5-flash-lite"
+  },
+  {
+   "id": "183d63ff8c67a379",
+   "mode": "rail",
+   "operator": "코레일",
+   "regions": [
+    "전국",
+    "수도권"
+   ],
+   "status": "scheduled",
+   "quote": "12월 총파업을 예고한 상태다",
+   "articleTitle": "철도·공항·학교… 줄줄이 연말 파업 예고",
+   "url": "https://www.chosun.com/national/transport-environment/2026/11/10/UVQXEKPEIZG4XFKBAZSDAY4ZUI/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
+   "publishedAt": "2026-11-10T00:46:00.000",
+   "sourceCount": 4,
+   "model": "gemini-3.5-flash-lite"
+  },
   {
    "id": "5741b151f3c4fa3f",
    "mode": "subway",
@@ -35,22 +81,7 @@
    "articleTitle": "임단협 결렬에도 한목소리…서교공 노사 “무임수송 국비 지원 법으로”",
    "url": "https://www.kukinews.com/article/view/kuk202611090189",
    "publishedAt": "2026-11-09T16:34:00.000",
-   "sourceCount": 12,
-   "model": "gemini-3.5-flash-lite"
-  },
-  {
-   "id": "188d08933e43e4a1",
-   "mode": "rail",
-   "operator": "철도노조",
-   "regions": [
-    "전국"
-   ],
-   "status": "scheduled",
-   "quote": "공공부문 노동조합들이 이달 중순부터 잇따라 파업에 돌입할 예정이다.",
-   "articleTitle": "학교·철도·공단 등 공공부문 잇단 파업 예고…임금·인력 쟁점",
-   "url": "https://www.ntoday.co.kr/news/articleView.html?idxno=130713",
-   "publishedAt": "2026-11-09T16:20:00.000",
-   "sourceCount": 1,
+   "sourceCount": 9,
    "model": "gemini-3.5-flash-lite"
   },
   {
@@ -133,7 +164,7 @@
    "articleTitle": "철도노조, 파업 찬반투표 가결…12월 총파업 예고",
    "url": "https://www.obsnews.co.kr/news/articleView.html?idxno=1542910",
    "publishedAt": "2026-11-06T17:56:00.000",
-   "sourceCount": 14,
+   "sourceCount": 12,
    "model": "gemini-3.5-flash-lite"
   },
   {
@@ -151,21 +182,6 @@
    "url": "https://www.redaily.co.kr/news/articleView.html?idxno=18133",
    "publishedAt": "2026-11-06T16:58:00.000",
    "sourceCount": 5,
-   "model": "gemini-3.5-flash-lite"
-  },
-  {
-   "id": "f7657b6194d1f34f",
-   "mode": "rail",
-   "operator": "코레일",
-   "regions": [
-    "전국"
-   ],
-   "status": "conditional",
-   "quote": "교섭 결렬 시 12월 총파업",
-   "articleTitle": "철도 통합에도 12월 총파업 가시화…코레일 내부통제 '빨간불'",
-   "url": "https://www.asiatime.co.kr/article/20261106500236",
-   "publishedAt": "2026-11-06T15:16:00.000",
-   "sourceCount": 3,
    "model": "gemini-3.5-flash-lite"
   },
   {
@@ -230,21 +246,6 @@
    "url": "https://news.skbroadband.com/news/articleView.html?idxno=241430",
    "publishedAt": "2026-11-04T18:18:00.000",
    "sourceCount": 1,
-   "model": "gemini-3.5-flash-lite"
-  },
-  {
-   "id": "c4021d8ca277240e",
-   "mode": "bus",
-   "operator": "서울시내버스",
-   "regions": [
-    "서울"
-   ],
-   "status": "historical",
-   "quote": "서울시내버스 파업과 이에 따른 비상수송 대책에",
-   "articleTitle": "전은혜 서울시의원 \"시내버스 파업 수습에 5년간 58억…필수공익사업 지...",
-   "url": "https://www.onews.tv/news/articleView.html?idxno=290704",
-   "publishedAt": "2026-11-03T14:50:00.000",
-   "sourceCount": 2,
    "model": "gemini-3.5-flash-lite"
   }
  ]
