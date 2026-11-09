@@ -187,7 +187,7 @@ void main() {
       );
     });
 
-    test('shahar nomi qisqartiriladi', () {
+    test('도시 이름을 줄여 쓴다', () {
       expect(TourFestival.cityOf('충청남도 공주시 웅진동'), '충남 공주시');
       expect(TourFestival.cityOf('서울특별시 중구 세종대로 110'), '서울 중구');
       expect(TourFestival.cityOf('제주특별자치도 제주시 …'), '제주 제주시');
