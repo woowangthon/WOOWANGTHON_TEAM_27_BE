@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-08T19:18:13.013830Z",
+ "generatedAt": "2026-11-09T00:40:28.676698Z",
  "windowDays": 14,
  "queries": [
   "버스 파업",
@@ -14,7 +14,7 @@
    "url": "https://www.ncloud.com/product/applicationService/naverApiHub"
   }
  ],
- "articles": 150,
+ "articles": 151,
  "strikes": [
   {
    "id": "1234278d6b882577",
