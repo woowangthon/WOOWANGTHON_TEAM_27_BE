@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-10T14:07:04.472032Z",
+ "generatedAt": "2026-11-10T21:10:58.418591Z",
  "windowDays": 14,
  "queries": [
   "버스 파업",
@@ -14,25 +14,24 @@
    "url": "https://www.ncloud.com/product/applicationService/naverApiHub"
   }
  ],
- "articles": 130,
+ "articles": 131,
  "strikes": [
   {
-   "id": "06db988df5937f2b",
+   "id": "31f7c23bc40775c1",
    "mode": "subway",
    "operator": "서울교통공사",
    "regions": [
-    "서울",
-    "수도권"
+    "서울"
    ],
    "status": "scheduled",
-   "quote": "이달 25일 주간 근무조부터 총파업에 돌입한다.",
+   "quote": "25일부터 무기한 총파업 예고",
    "start": "2026-11-25",
-   "dateQuote": "이달 25일",
-   "articleTitle": "25일 '총파업' 예고한 서울 지하철 노조 \"인력 공백 채워달라\"",
-   "url": "https://www.todaykorea.co.kr/news/articleView.html?idxno=408429",
-   "publishedAt": "2026-11-10T17:46:00.000",
-   "sourceCount": 45,
-   "model": "gemini-3.5-flash-lite"
+   "dateQuote": "25일부터",
+   "articleTitle": "서울지하철 노조, 25일부터 무기한 총파업 예고",
+   "url": "https://www.donga.com/news/Society/article/all/20261111/135002952/2",
+   "publishedAt": "2026-11-11T04:34:00.000",
+   "sourceCount": 57,
+   "model": "gemini-3.1-flash-lite"
   },
   {
    "id": "2e788db9e295f873",
@@ -68,7 +67,7 @@
    "articleTitle": "공항철도 13일 첫 파업, 출퇴근 열차 운행 유지",
    "url": "https://www.hankyung.com/article/2026111082771",
    "publishedAt": "2026-11-10T17:28:00.000",
-   "sourceCount": 8,
+   "sourceCount": 7,
    "model": "gemini-3.5-flash-lite"
   },
   {
@@ -88,21 +87,6 @@
    "model": "gemini-3.5-flash-lite"
   },
   {
-   "id": "d793ba39f4d991af",
-   "mode": "rail",
-   "operator": "코레일",
-   "regions": [
-    "전국"
-   ],
-   "status": "preparing",
-   "quote": "철도노조 총파업 가능성 고조",
-   "articleTitle": "코레일 연말 철도 멈추나…철도노조 총파업 가능성 고조[국토부 산하기...",
-   "url": "https://www.newsway.co.kr/news/view?ud=2026111015535593760",
-   "publishedAt": "2026-11-10T16:08:00.000",
-   "sourceCount": 2,
-   "model": "gemini-3.5-flash-lite"
-  },
-  {
    "id": "fcd5fd8367b9d0f9",
    "mode": "rail",
    "operator": "철도노조",
@@ -115,6 +99,21 @@
    "url": "https://www.newsway.co.kr/news/view?ud=2026110917364641104",
    "publishedAt": "2026-11-10T16:08:00.000",
    "sourceCount": 3,
+   "model": "gemini-3.5-flash-lite"
+  },
+  {
+   "id": "d793ba39f4d991af",
+   "mode": "rail",
+   "operator": "코레일",
+   "regions": [
+    "전국"
+   ],
+   "status": "preparing",
+   "quote": "철도노조 총파업 가능성 고조",
+   "articleTitle": "코레일 연말 철도 멈추나…철도노조 총파업 가능성 고조[국토부 산하기...",
+   "url": "https://www.newsway.co.kr/news/view?ud=2026111015535593760",
+   "publishedAt": "2026-11-10T16:08:00.000",
+   "sourceCount": 2,
    "model": "gemini-3.5-flash-lite"
   },
   {
