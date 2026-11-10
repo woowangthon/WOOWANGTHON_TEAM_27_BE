@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-10T03:24:04.232498Z",
+ "generatedAt": "2026-11-10T05:33:40.346931Z",
  "windowDays": 14,
  "queries": [
   "버스 파업",
@@ -14,8 +14,26 @@
    "url": "https://www.ncloud.com/product/applicationService/naverApiHub"
   }
  ],
- "articles": 149,
+ "articles": 143,
  "strikes": [
+  {
+   "id": "60b01076636dbdc8",
+   "mode": "subway",
+   "operator": "서울교통공사",
+   "regions": [
+    "서울",
+    "수도권"
+   ],
+   "status": "conditional",
+   "quote": "요구가 받아들여지지 않을 경우 25일부터 총파업에 돌입할 계획",
+   "start": "2026-11-25",
+   "dateQuote": "25일부터",
+   "articleTitle": "서울지하철 25일 멈추나…서울교통공사노조 임금인상 등 요구(종합)",
+   "url": "https://www.yna.co.kr/view/AKR20261110088751004?input=1195m",
+   "publishedAt": "2026-11-10T14:28:00.000",
+   "sourceCount": 12,
+   "model": "gemini-3.5-flash-lite"
+  },
   {
    "id": "4fc5f163b41ecf39",
    "mode": "subway",
@@ -30,23 +48,6 @@
    "articleTitle": "\"2천212명 감축 철회·임금 3.5% 인상\"…서울 지하철 25일 총파업",
    "url": "https://www.youthdaily.co.kr/news/article.html?no=229614",
    "publishedAt": "2026-11-10T12:00:00.000",
-   "sourceCount": 1,
-   "model": "gemini-3.1-flash-lite"
-  },
-  {
-   "id": "bd501b04a140ae66",
-   "mode": "subway",
-   "operator": "서울교통공사",
-   "regions": [
-    "서울"
-   ],
-   "status": "conditional",
-   "quote": "서울지하철 25일 멈추나",
-   "start": "2026-11-25",
-   "dateQuote": "25일",
-   "articleTitle": "서울지하철 25일 멈추나…서울교통공사노조, 임금 3.5% 인상요구",
-   "url": "https://www.yna.co.kr/view/AKR20261110088700004?input=1195m",
-   "publishedAt": "2026-11-10T11:51:00.000",
    "sourceCount": 1,
    "model": "gemini-3.1-flash-lite"
   },
@@ -113,7 +114,7 @@
    "articleTitle": "임단협 결렬에도 한목소리…서교공 노사 “무임수송 국비 지원 법으로”",
    "url": "https://www.kukinews.com/article/view/kuk202611090189",
    "publishedAt": "2026-11-09T16:34:00.000",
-   "sourceCount": 6,
+   "sourceCount": 5,
    "model": "gemini-3.5-flash-lite"
   },
   {
@@ -196,7 +197,7 @@
    "articleTitle": "철도노조, 파업 찬반투표 가결…12월 총파업 예고",
    "url": "https://www.obsnews.co.kr/news/articleView.html?idxno=1542910",
    "publishedAt": "2026-11-06T17:56:00.000",
-   "sourceCount": 12,
+   "sourceCount": 9,
    "model": "gemini-3.5-flash-lite"
   },
   {
@@ -213,7 +214,7 @@
    "articleTitle": "철도·지하철노조 공동파업 가결…\"20일 이후 총파업\" [현장]",
    "url": "https://www.redaily.co.kr/news/articleView.html?idxno=18133",
    "publishedAt": "2026-11-06T16:58:00.000",
-   "sourceCount": 5,
+   "sourceCount": 3,
    "model": "gemini-3.5-flash-lite"
   },
   {
