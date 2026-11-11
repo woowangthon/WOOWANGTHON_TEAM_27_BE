@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-11T04:05:55.911568Z",
+ "generatedAt": "2026-11-11T13:24:02.332618Z",
  "windowDays": 14,
  "queries": [
   "버스 파업",
@@ -14,122 +14,186 @@
    "url": "https://www.ncloud.com/product/applicationService/naverApiHub"
   }
  ],
- "articles": 165,
+ "articles": 151,
  "strikes": [
   {
-   "id": "cd1994692111f803",
-   "mode": "rail",
-   "operator": "철도노조",
-   "regions": [
-    "전국"
-   ],
-   "status": "scheduled",
-   "quote": "다음 달 10일 오전 9시부터 무기한 총파업",
-   "start": "2026-12-10",
-   "dateQuote": "다음 달 10일 오전 9시부터",
-   "articleTitle": "“사람이 모자라 안전이 무너진다”…철도노조, 총파업 선포 [현장 화보...",
-   "url": "https://www.khan.co.kr/article/202611111304001",
-   "publishedAt": "2026-11-11T13:04:00.000",
-   "sourceCount": 32,
-   "model": "gemini-3.5-flash-lite"
-  },
-  {
-   "id": "85f772079f7696d5",
-   "mode": "rail",
-   "operator": "철도노조",
-   "regions": [
-    "전국",
-    "수도권"
-   ],
-   "status": "historical",
-   "quote": "과거 철도노조 파업 당시에도",
-   "articleTitle": "\"다음 달 10일 철도 멈춘다\"…출퇴근·연말 '이동 마비' 현실화",
-   "url": "http://www.hansbiz.co.kr/news/articleView.html?idxno=882107",
-   "publishedAt": "2026-11-11T12:34:00.000",
-   "sourceCount": 1,
-   "model": "gemini-3.5-flash-lite"
-  },
-  {
-   "id": "3e8df1941f32262e",
+   "id": "8ba1a78c77fce432",
    "mode": "subway",
    "operator": "서울교통공사",
+   "regions": [
+    "서울",
+    "수도권"
+   ],
+   "status": "conditional",
+   "quote": "최종 협상이 타결되지 않을 경우 25일 새벽 첫차부터 1~8호선 및 9호선 일부 구간의 전면 파업에 들어간다",
+   "start": "2026-11-25",
+   "dateQuote": "25일 새벽 첫차부터",
+   "articleTitle": "\"출근길 어쩌나\"… 서울 지하철 1~8호선 '무기한 총파업' 선언",
+   "url": "https://www.gukjenews.com/news/articleView.html?idxno=3749382",
+   "publishedAt": "2026-11-11T21:58:00.000",
+   "sourceCount": 39,
+   "model": "gemini-3.5-flash-lite"
+  },
+  {
+   "id": "383d9e457ae279ab",
+   "mode": "rail",
+   "operator": "공항철도",
+   "regions": [
+    "인천",
+    "서울"
+   ],
+   "status": "scheduled",
+   "quote": "공항철도 13일 경고파업 예고",
+   "start": "2026-11-13",
+   "dateQuote": "오는 13일",
+   "articleTitle": "철도·지하철 노사 갈등 고조…연말 파업·준법투쟁 예고",
+   "url": "https://www.electimes.com/news/articleView.html?idxno=374667",
+   "publishedAt": "2026-11-11T21:16:00.000",
+   "sourceCount": 5,
+   "model": "gemini-3.5-flash-lite"
+  },
+  {
+   "id": "c9c93d3468cb52c2",
+   "mode": "subway",
+   "operator": "",
    "regions": [
     "서울"
    ],
    "status": "scheduled",
-   "quote": "오는 25일 총파업 선언",
-   "start": "2026-11-25",
-   "dateQuote": "오는 25일",
-   "articleTitle": "서울교통공사노조, 오는 25일 총파업 선언",
-   "url": "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003283868&CMPT_CD=P0010&utm_source=naver&utm_medium=newsearch&utm_campaign=naver_news",
-   "publishedAt": "2026-11-11T12:21:00.000",
-   "sourceCount": 46,
+   "quote": "12월 성수기 추가 파업을 예고했다",
+   "articleTitle": "철도·지하철·학교 급식까지…공공부문 ‘연말 줄파업’ 예고",
+   "url": "https://www.khan.co.kr/article/202611112103015",
+   "publishedAt": "2026-11-11T21:03:00.000",
+   "sourceCount": 4,
    "model": "gemini-3.5-flash-lite"
   },
   {
-   "id": "f5c356e1974d9ba3",
+   "id": "d32818debc5e381c",
+   "mode": "rail",
+   "operator": "코레일",
+   "regions": [
+    "전남",
+    "광주"
+   ],
+   "status": "preparing",
+   "quote": "안전운행 투쟁은 총파업과 달리 열차 운행을 전면 중단하는 방식은 아니지만",
+   "start": "2026-12-10",
+   "dateQuote": "다음 달 10일",
+   "articleTitle": "급식 멈추고 열차 서나…전남광주 공공서비스 파업 비상",
+   "url": "http://www.kwangju.co.kr/article.php?aid=1794395400805277006",
+   "publishedAt": "2026-11-11T20:16:00.000",
+   "sourceCount": 11,
+   "model": "gemini-3.1-flash-lite"
+  },
+  {
+   "id": "07d573382b4aae32",
    "mode": "rail",
    "operator": "철도노조",
    "regions": [
     "전국"
    ],
    "status": "scheduled",
-   "quote": "12월 11일부터 무기한 총파업 예고",
-   "start": "2026-12-11",
-   "dateQuote": "12월 11일부터",
-   "articleTitle": "철도노조, 12월 11일부터 무기한 총파업 예고",
-   "url": "https://www.nocutnews.co.kr/news/6605200?utm_source=naver&utm_medium=article&utm_campaign=20261111122056",
-   "publishedAt": "2026-11-11T12:21:00.000",
-   "sourceCount": 2,
-   "model": "gemini-3.5-flash-lite"
-  },
-  {
-   "id": "324358ccbf192876",
-   "mode": "rail",
-   "operator": "전국철도노동조합",
-   "regions": [
-    "전국"
-   ],
-   "status": "scheduled",
-   "quote": "다음 달 10일 무기한 총파업 예고",
+   "quote": "다음 달 10일 오전 9시부터 무기한 총파업을 예고했다",
    "start": "2026-12-10",
    "dateQuote": "다음 달 10일",
-   "articleTitle": "철도노조, 다음 달 10일 무기한 총파업 예고",
-   "url": "https://www.kmib.co.kr/article/20261111500477",
-   "publishedAt": "2026-11-11T12:20:00.000",
-   "sourceCount": 24,
+   "articleTitle": "\"안전 인력 충원·승진제도 개선\"…철도노조, 내달 10일 총파업 예고",
+   "url": "https://www.shinailbo.co.kr/news/articleView.html?idxno=5082412",
+   "publishedAt": "2026-11-11T17:06:00.000",
+   "sourceCount": 11,
    "model": "gemini-3.5-flash-lite"
   },
   {
-   "id": "f6a5e3f1b04f4b87",
+   "id": "43b5ff7b688a1ea9",
    "mode": "rail",
-   "operator": "전국철도노동조합",
+   "operator": "철도노조",
    "regions": [
     "전국"
    ],
    "status": "scheduled",
-   "quote": "총파업을 예고했다",
-   "articleTitle": "철도노조, 총파업 예고…승진제도 개선·안전인력 충원 요구",
-   "url": "https://www.slist.kr/news/articleView.html?idxno=780790",
-   "publishedAt": "2026-11-11T12:02:00.000",
-   "sourceCount": 10,
+   "quote": "철도노조 내달 총파업 예고",
+   "articleTitle": "철도노조 내달 총파업 예고…“현장 노동자 승진 불이익 개선하라”",
+   "url": "https://www.donga.com/news/Economy/article/all/20261111/135007367/1",
+   "publishedAt": "2026-11-11T16:26:00.000",
+   "sourceCount": 9,
    "model": "gemini-3.5-flash-lite"
   },
   {
-   "id": "e9c4a28b28a071c9",
+   "id": "3a05913acbf55024",
    "mode": "rail",
-   "operator": "전국철도노동조합",
+   "operator": "철도노조",
    "regions": [
     "전국"
    ],
    "status": "scheduled",
-   "quote": "12월 11일 오전 9시부터 무기한 총파업 예고",
-   "start": "2026-12-11",
-   "dateQuote": "12월 11일",
-   "articleTitle": "철도노조, 12월 11일 오전 9시부터 무기한 총파업 예고",
-   "url": "https://biz.newdaily.co.kr/site/data/html/2026/11/11/2026111100149.html",
-   "publishedAt": "2026-11-11T11:34:00.000",
+   "quote": "다음달 9일 총파업 돌입",
+   "start": "2026-12-09",
+   "dateQuote": "다음달 9일",
+   "articleTitle": "철도노조 \"다음달 9일 총파업 돌입\"",
+   "url": "https://www.jtv.co.kr/news/article.php?id=72063",
+   "publishedAt": "2026-11-11T15:50:00.000",
    "sourceCount": 1,
+   "model": "gemini-3.5-flash-lite"
+  },
+  {
+   "id": "1dab6ae947690fdf",
+   "mode": "rail",
+   "operator": "전국철도노조",
+   "regions": [
+    "전국"
+   ],
+   "status": "scheduled",
+   "quote": "내달 10일 오전 9시부터 무기한 총파업 예고",
+   "start": "2026-12-10",
+   "dateQuote": "12월 10일 오전 9시부터",
+   "articleTitle": "철도노조, 내달 10일 오전 9시부터 무기한 총파업 예고",
+   "url": "https://www.etoday.co.kr/news/view/2646916",
+   "publishedAt": "2026-11-11T15:12:00.000",
+   "sourceCount": 16,
+   "model": "gemini-3.5-flash-lite"
+  },
+  {
+   "id": "2dcc5510e617aa86",
+   "mode": "subway",
+   "operator": "부산도시철도",
+   "regions": [
+    "부산"
+   ],
+   "status": "withdrawn",
+   "quote": "부산도시철도 노사, 첫 원·하청 단체교섭 잠정 타결",
+   "articleTitle": "부산도시철도 노사, 첫 원·하청 단체교섭 잠정 타결",
+   "url": "https://www.busan.com/view/busan/view.php?code=2026111114054938161",
+   "publishedAt": "2026-11-11T15:08:00.000",
+   "sourceCount": 1,
+   "model": "gemini-3.5-flash-lite"
+  },
+  {
+   "id": "a01c3f139127b4b9",
+   "mode": "subway",
+   "operator": "부산지하철",
+   "regions": [
+    "부산"
+   ],
+   "status": "withdrawn",
+   "quote": "총파업을 철회했다",
+   "articleTitle": "부산지하철 노사, 원·하청 교섭안 잠정 합의…12일 체결식",
+   "url": "https://www.news1.kr/local/busan-gyeongnam/6350466",
+   "publishedAt": "2026-11-11T13:57:00.000",
+   "sourceCount": 1,
+   "model": "gemini-3.5-flash-lite"
+  },
+  {
+   "id": "e4d31d68487bbdf6",
+   "mode": "rail",
+   "operator": "한국철도공사",
+   "regions": [
+    "전국"
+   ],
+   "status": "scheduled",
+   "quote": "철도노조가 내달 '무기한 파업' 돌입을 본격 예고했다",
+   "articleTitle": "철도노조, 12월 무기한 총파업 예고...KTX·SRT 연말에 어떡하나",
+   "url": "https://www.pennmike.com/news/articleView.html?idxno=131551",
+   "publishedAt": "2026-11-11T13:46:00.000",
+   "sourceCount": 2,
    "model": "gemini-3.5-flash-lite"
   },
   {
@@ -150,22 +214,6 @@
    "model": "gemini-3.5-flash-lite"
   },
   {
-   "id": "ca5fe461f206b563",
-   "mode": "rail",
-   "operator": "한국철도공사",
-   "regions": [
-    "전국",
-    "수도권"
-   ],
-   "status": "scheduled",
-   "quote": "12월 총파업을 예고한 상태다.",
-   "articleTitle": "서울지하철 25일 멈추나... 철도·지하철 노조 연말 파업 예고",
-   "url": "https://www.hankookilbo.com/news/article/A2026111015090005086?did=NA",
-   "publishedAt": "2026-11-10T16:10:00.000",
-   "sourceCount": 1,
-   "model": "gemini-3.5-flash-lite"
-  },
-  {
    "id": "96903979705ee2f3",
    "mode": "bus",
    "operator": "서울 시내버스",
@@ -181,24 +229,6 @@
    "model": "gemini-3.5-flash-lite"
   },
   {
-   "id": "030a985ea2331c1c",
-   "mode": "subway",
-   "operator": "공항철도",
-   "regions": [
-    "인천",
-    "서울"
-   ],
-   "status": "scheduled",
-   "quote": "노조 13일 파업 예고",
-   "start": "2026-11-13",
-   "dateQuote": "13일 파업 예고",
-   "articleTitle": "공항철도, 노조 13일 파업 예고에 비상수송대책 가동 … “대화 지속과...",
-   "url": "https://www.etnews.com/20261106000304",
-   "publishedAt": "2026-11-06T17:08:00.000",
-   "sourceCount": 2,
-   "model": "gemini-3.5-flash-lite"
-  },
-  {
    "id": "12ce893ad7efb038",
    "mode": "bus",
    "operator": "춘천시민버스",
@@ -211,19 +241,6 @@
    "url": "https://www.shinailbo.co.kr/news/articleView.html?idxno=5080553",
    "publishedAt": "2026-11-06T14:48:00.000",
    "sourceCount": 19,
-   "model": "gemini-3.5-flash-lite"
-  },
-  {
-   "id": "07a6dec960c5a36b",
-   "mode": "bus",
-   "operator": "",
-   "regions": [],
-   "status": "historical",
-   "quote": "누적 적자나 반복되는 파업",
-   "articleTitle": "[박상권박사의 교통안전 가이드] 혁신성과는 막히고 악성구조는 키우는...",
-   "url": "https://www.ggilbo.com/news/articleView.html?idxno=1191426",
-   "publishedAt": "2026-11-05T14:14:00.000",
-   "sourceCount": 1,
    "model": "gemini-3.5-flash-lite"
   },
   {
