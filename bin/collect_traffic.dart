@@ -12,15 +12,14 @@ import 'package:liferadar_core/liferadar_core.dart';
 import 'package:liferadar_pipeline/liferadar_pipeline.dart';
 
 /// 이보다 먼 미래의 항목은 수집하지 않는다 (판별 로직 문서의 초기 설정: 28일).
-const _horizonDays = 28;
 
 Future<void> main(List<String> args) async {
   final out = args.firstWhere((a) => a.startsWith('--out='), orElse: () => '--out=out/traffic.json').substring(6);
   final env = loadKeys();
-  final now = DateTime.now();
-  final notices = <TrafficNotice>[];
+  final now = DateTime.now().toUtc();
+  final outcomes = <String, (List<TrafficNotice>, bool)>{};
+  final failed = <String>{};
   final sources = <Map<String, String>>[];
-  var failures = 0;
 
   // ── 서울시 TOPIS (서울 시내 집회·행사·공사) ──
   final seoulKey = (env['SEOUL_OPEN_API_KEY'] as String?)?.trim() ?? '';
@@ -32,12 +31,17 @@ Future<void> main(List<String> args) async {
       if (res.statusCode != 200) throw SourceException('${SeoulTraffic.source}: HTTP ${res.statusCode}');
       final rows = SeoulTraffic.rows(utf8.decode(res.bodyBytes));
       final found = [for (final r in rows) ?SeoulTraffic.parse(r)];
-      notices.addAll(found);
-      sources.add({'id': SeoulTraffic.source, 'name': SeoulTraffic.sourceName, 'url': SeoulTraffic.sourceUrl, 'license': '공공누리'});
+      outcomes[SeoulTraffic.source] = (found, SeoulTraffic.isComplete(utf8.decode(res.bodyBytes), rows));
+      sources.add({
+        'id': SeoulTraffic.source,
+        'name': SeoulTraffic.sourceName,
+        'url': SeoulTraffic.sourceUrl,
+        'license': '공공누리',
+      });
       stdout.writeln('✓ ${SeoulTraffic.sourceName}: ${found.length}건 (전체 ${rows.length}행)');
     } catch (e) {
-      failures++;
-      stderr.writeln('✗ ${SeoulTraffic.sourceName}: $e');
+      failed.add(SeoulTraffic.source);
+      stderr.writeln('TOPIS collection failed');
     }
   }
 
@@ -53,37 +57,42 @@ Future<void> main(List<String> args) async {
       if (res.statusCode != 200) throw SourceException('${ItsTraffic.source}: HTTP ${res.statusCode}');
       final rows = ItsTraffic.rows(jsonDecode(utf8.decode(res.bodyBytes)) as Map<String, dynamic>);
       final found = [for (final r in rows) ?ItsTraffic.parse(r)];
-      notices.addAll(found);
-      sources.add({'id': ItsTraffic.source, 'name': ItsTraffic.sourceName, 'url': ItsTraffic.sourceUrl, 'license': '공공누리'});
+      outcomes[ItsTraffic.source] = (
+        found,
+        ItsTraffic.isComplete(jsonDecode(utf8.decode(res.bodyBytes)) as Map<String, dynamic>),
+      );
+      sources.add({
+        'id': ItsTraffic.source,
+        'name': ItsTraffic.sourceName,
+        'url': ItsTraffic.sourceUrl,
+        'license': '공공누리',
+      });
       stdout.writeln('✓ ${ItsTraffic.sourceName}: ${found.length}건 (전체 ${rows.length}건)');
     } catch (e) {
-      failures++;
-      stderr.writeln('✗ ${ItsTraffic.sourceName}: $e');
+      failed.add(ItsTraffic.source);
+      stderr.writeln('ITS collection failed');
     }
   }
 
+  await TrafficStore(File(out).parent).transaction((ledger) async {
+    for (final e in outcomes.entries) {
+      ledger.accept(e.key, e.value.$1, now, complete: e.value.$2);
+    }
+    for (final id in failed) {
+      ledger.failure(id, now, 'collection_failed');
+    }
+    ledger.states.putIfAbsent('utic', () => {'status': 'disabled', 'errorCategory': UticXml.quarantineReason});
+    final feed = ledger.feed(now);
+    ledger.stagePublication(File('${File(out).parent.path}/traffic-v2.json'), feed);
+    if (outcomes.isNotEmpty || ledger.snapshots.isNotEmpty) {
+      ledger.stagePublication(File(out), legacyTrafficFeed(feed));
+    }
+  });
   if (sources.isEmpty) {
-    stderr.writeln('수집한 출처가 없다 — $out을 변경하지 않는다.');
-    exit(1);
+    stderr.writeln('새 정상 수집 없음 — 내구 스냅샷의 상태·만료만 반영했습니다.');
+    exitCode = 1;
+    return;
   }
 
-  // 끝났거나 너무 먼 항목 제외. 종료 시각이 없는 항목은 시작한 날까지만 유효하다고 본다
-  // (판별 로직: 종료 미상을 무기한 활성화하지 않는다).
-  final kept = {
-    for (final n in notices)
-      if (n.isRelevantAt(now, horizonDays: _horizonDays)) n.id: n,
-  }.values.toList()
-    ..sort((a, b) => a.start.compareTo(b.start));
-
-  final file = File(out)..createSync(recursive: true);
-  file.writeAsStringSync(const JsonEncoder.withIndent(' ').convert({
-    'generatedAt': now.toUtc().toIso8601String(),
-    'horizonDays': _horizonDays,
-    'sources': sources,
-    'notices': [for (final n in kept) n.toJson()],
-  }));
-  stdout.writeln('→ $out: ${kept.length}건${failures > 0 ? ' (출처 $failures개 실패)' : ''}');
-  for (final n in kept.take(20)) {
-    stdout.writeln('  ${n.source.padRight(12)} ${n.kind.name.padRight(12)} ${n.start} → ${n.end ?? '?'}  ${n.title}');
-  }
+  stdout.writeln('Traffic source snapshots and v2 feed saved');
 }

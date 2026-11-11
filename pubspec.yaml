@@ -8,8 +8,10 @@ environment:
   sdk: ^3.11.0
 
 dependencies:
+  xml: ^6.6.1
   http: ^1.6.0
   liferadar_core:
+    version: ^0.2.0
     git:
       url: https://github.com/woowangthon/WOOWANGTHON_TEAM_27_AI.git
       ref: main

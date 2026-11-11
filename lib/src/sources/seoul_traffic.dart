@@ -7,6 +7,7 @@ library;
 import 'dart:math' as math;
 
 import 'package:liferadar_core/liferadar_core.dart';
+import 'package:xml/xml.dart';
 import 'seoul_culture.dart' show SourceException;
 import 'tagger.dart' show unescapeHtml;
 
@@ -21,31 +22,39 @@ class SeoulTraffic {
   /// 일정과 관련 있는 유형만. 사고, 차량 고장처럼 짧은 돌발은 수집 주기(시간 단위)에
   /// 맞지 않아 낡은 정보가 되므로 제외한다.
   static TrafficKind? kindOf(String type, String subtype) => switch (type) {
-        'A10' => switch (subtype) {
-            '10B02' => TrafficKind.rally,
-            '10B03' => TrafficKind.event,
-            '10B01' => TrafficKind.drill,
-            _ => TrafficKind.event,
-          },
-        'A04' => TrafficKind.construction,
-        'A09' => TrafficKind.weather,
-        _ => null,
-      };
+    'A10' => switch (subtype) {
+      '10B02' => TrafficKind.rally,
+      '10B03' => TrafficKind.event,
+      '10B01' => TrafficKind.drill,
+      _ => TrafficKind.event,
+    },
+    'A04' => TrafficKind.construction,
+    'A09' => TrafficKind.weather,
+    _ => null,
+  };
 
   /// XML 응답 → 행 목록 (단순한 평면 구조). 오류 코드면 [SourceException].
   static List<Map<String, String>> rows(String xml) {
-    final code = RegExp(r'<CODE>([^<]*)</CODE>').firstMatch(xml)?.group(1) ?? '';
-    if (code == 'INFO-200') return const []; // 데이터 없음
-    if (!code.startsWith('INFO-000')) {
-      final msg = RegExp(r'<MESSAGE>([^<]*)</MESSAGE>').firstMatch(xml)?.group(1) ?? '';
-      throw SourceException('$source: $code $msg'.trim());
+    final root = XmlDocument.parse(xml).rootElement;
+    final code = root.findAllElements('CODE').firstOrNull?.innerText ?? '';
+    if (code == 'INFO-200') return const [];
+    if (code != 'INFO-000' || root.name.qualified != 'AccInfo') {
+      throw const SourceException('TOPIS incomplete envelope');
     }
+    final count = int.tryParse(root.getElement('list_total_count')?.innerText ?? '');
+    if (count == null || count < 0) throw const SourceException('TOPIS missing count');
     return [
-      for (final row in RegExp(r'<row>(.*?)</row>', dotAll: true).allMatches(xml))
-        {
-          for (final f in RegExp(r'<(\w+)>([^<]*)</\1>').allMatches(row.group(1)!)) f.group(1)!: f.group(2)!,
-        },
+      for (final row in root.findElements('row'))
+        {for (final field in row.childElements) field.name.qualified: field.innerText},
     ];
+  }
+
+  static bool isComplete(String xml, List<Map<String, String>> records) {
+    final root = XmlDocument.parse(xml).rootElement;
+    if (root.findAllElements('CODE').firstOrNull?.innerText == 'INFO-200') return true;
+    final count = int.tryParse(root.getElement('list_total_count')?.innerText ?? '');
+    return count == records.length &&
+        !records.any((r) => kindOf(r['acc_type'] ?? '', r['acc_dtype'] ?? '') != null && parse(r) == null);
   }
 
   /// 행 하나 → [TrafficNotice]. 대상 유형이 아니거나 위치·시작 시각이 없으면 null.
@@ -55,14 +64,29 @@ class SeoulTraffic {
     final start = _at(r['occr_date'], r['occr_time']);
     final x = double.tryParse(r['grs80tm_x'] ?? '');
     final y = double.tryParse(r['grs80tm_y'] ?? '');
-    if (start == null || x == null || y == null) return null;
+    if (start == null ||
+        x == null ||
+        y == null ||
+        !x.isFinite ||
+        !y.isFinite ||
+        (x == 0 && y == 0) ||
+        (r['acc_id'] ?? '').trim().isEmpty) {
+      return null;
+    }
+    final point = tmToWgs84(x, y);
+    if (!point.lat.isFinite ||
+        !point.lng.isFinite ||
+        point.lat < 33 ||
+        point.lat > 39 ||
+        point.lng < 124 ||
+        point.lng > 132) {
+      return null;
+    }
     final end = _at(r['exp_clr_date'], r['exp_clr_time']);
 
-    final detail = unescapeHtml(r['acc_info'] ?? '')
-        .split(RegExp(r'[\r\n]+'))
-        .map((l) => l.trim())
-        .where((l) => l.isNotEmpty)
-        .join('\n');
+    final detail = unescapeHtml(
+      r['acc_info'] ?? '',
+    ).split(RegExp(r'[\r\n]+')).map((l) => l.trim()).where((l) => l.isNotEmpty).join('\n');
     if (detail.isEmpty) return null;
     return TrafficNotice(
       id: 'topis-${r['acc_id']}',
@@ -72,21 +96,34 @@ class SeoulTraffic {
       start: start,
       // 출처에서 종료가 시작보다 앞서면 잘못된 값 — 추정하지 않는다.
       end: end != null && end.isAfter(start) ? end : null,
-      location: tmToWgs84(x, y),
+      location: point,
       source: source,
       sourceName: sourceName,
       sourceUrl: sourceUrl,
+      sourceUrlKind: 'center',
+      sourceRecordId: r['acc_id'],
+      timePrecision: 'minute',
+      controlEvidence: explicitRoadControl(detail) ? 'confirmed' : 'unconfirmed',
+      evidenceText: detail,
+      evidenceMethod: 'literal-road-control-v2',
+      locationText: r['road_name'],
     );
   }
 
-  /// "20261107" + "1400" | "220000" → 현지(KST) 시각. 시각이 없으면 하루의 시작.
+  /// "20261107" + "1400" | "220000" → 현지(KST) 시각. 시각이 없으면 제외한다.
   static DateTime? _at(String? date, String? time) {
     final d = (date ?? '').trim();
     if (!RegExp(r'^\d{8}$').hasMatch(d)) return null;
-    final t = (time ?? '').trim().padRight(6, '0');
-    final hh = int.tryParse(t.substring(0, 2)) ?? 0;
-    final mm = int.tryParse(t.substring(2, 4)) ?? 0;
-    return DateTime(int.parse(d.substring(0, 4)), int.parse(d.substring(4, 6)), int.parse(d.substring(6, 8)), hh, mm);
+    final t = (time ?? '').trim();
+    if (!RegExp(r'^(\d{4}|\d{6})$').hasMatch(t)) return null;
+    final padded = t.padRight(6, '0');
+    try {
+      return trafficInstant(
+        '${d.substring(0, 4)}-${d.substring(4, 6)}-${d.substring(6, 8)}T${padded.substring(0, 2)}:${padded.substring(2, 4)}:${padded.substring(4, 6)}+09:00',
+      );
+    } catch (_) {
+      return null;
+    }
   }
 
   /// GRS80 TM (EPSG:5181, Korea 2000 / Central Belt: lat0 38°, lon0 127°, k0 1, FE 200 000, FN 500 000)
@@ -112,7 +149,8 @@ class SeoulTraffic {
     final m = meridian(lat0) + (y - fn) / k0;
     final mu = m / (a * (1 - e2 / 4 - 3 * e2 * e2 / 64 - 5 * e2 * e2 * e2 / 256));
     final e1 = (1 - math.sqrt(1 - e2)) / (1 + math.sqrt(1 - e2));
-    final phi1 = mu +
+    final phi1 =
+        mu +
         (3 * e1 / 2 - 27 * math.pow(e1, 3) / 32) * math.sin(2 * mu) +
         (21 * e1 * e1 / 16 - 55 * math.pow(e1, 4) / 32) * math.sin(4 * mu) +
         (151 * math.pow(e1, 3) / 96) * math.sin(6 * mu) +
@@ -127,12 +165,14 @@ class SeoulTraffic {
     final r1 = a * (1 - e2) / math.pow(1 - e2 * sin1 * sin1, 1.5);
     final d = (x - fe) / (n1 * k0);
 
-    final lat = phi1 -
+    final lat =
+        phi1 -
         (n1 * tan1 / r1) *
             (d * d / 2 -
                 (5 + 3 * t1 + 10 * c1 - 4 * c1 * c1 - 9 * ep2) * math.pow(d, 4) / 24 +
                 (61 + 90 * t1 + 298 * c1 + 45 * t1 * t1 - 252 * ep2 - 3 * c1 * c1) * math.pow(d, 6) / 720);
-    final lon = lon0 +
+    final lon =
+        lon0 +
         (d -
                 (1 + 2 * t1 + c1) * math.pow(d, 3) / 6 +
                 (5 - 2 * c1 + 28 * t1 - 3 * c1 * c1 + 8 * ep2 + 24 * t1 * t1) * math.pow(d, 5) / 120) /

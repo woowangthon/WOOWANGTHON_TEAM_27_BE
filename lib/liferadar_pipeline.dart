@@ -12,3 +12,10 @@ export 'src/sources/seoul_culture.dart';
 export 'src/sources/seoul_traffic.dart';
 export 'src/sources/tagger.dart';
 export 'src/sources/tour_festival.dart';
+
+export 'src/traffic_store.dart';
+export 'src/sources/utic.dart';
+
+export 'src/traffic_snapshot.dart';
+
+export 'src/sources/utic_codebook.dart';

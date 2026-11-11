@@ -5,7 +5,8 @@ import 'package:test/test.dart';
 void main() {
   group('SeoulTraffic parser', () {
     // 실제 응답(2026-11-07)을 줄인 예시.
-    const xml = '<?xml version="1.0" encoding="UTF-8"?><AccInfo><list_total_count>2</list_total_count>'
+    const xml =
+        '<?xml version="1.0" encoding="UTF-8"?><AccInfo><list_total_count>2</list_total_count>'
         '<RESULT><CODE>INFO-000</CODE><MESSAGE>정상 처리되었습니다</MESSAGE></RESULT>'
         '<row><acc_id>1107886</acc_id><occr_date>20261107</occr_date><occr_time>1400</occr_time>'
         '<exp_clr_date>20261108</exp_clr_date><exp_clr_time>220000</exp_clr_time><acc_type>A10</acc_type>'
@@ -21,8 +22,8 @@ void main() {
       final n = notices.single;
       expect(n.id, 'topis-1107886');
       expect(n.kind, TrafficKind.event);
-      expect(n.start, DateTime(2026, 11, 7, 14));
-      expect(n.end, DateTime(2026, 11, 8, 22));
+      expect(n.start, trafficInstant('2026-11-07T14:00:00'));
+      expect(n.end, trafficInstant('2026-11-08T22:00:00'));
       expect(n.title, '[통제] 청계천로 차 없는 거리 행사(청계광장~삼일교, 양방향)');
       expect(n.detail, contains('(토) 14:00 ~ (일) 22:00'));
       // 청계천로, 청계광장 근처.
@@ -40,5 +41,55 @@ void main() {
       expect(p.lat, closeTo(37.566, 0.003));
       expect(p.lng, closeTo(126.977, 0.003));
     });
+  });
+  test('negative and ambiguous TOPIS originals cannot produce confirmed control metadata', () {
+    final row = <String, String>{
+      'acc_id': 'synthetic-negative',
+      'acc_type': 'A10',
+      'acc_dtype': '10B03',
+      'occr_date': '20261111',
+      'occr_time': '0900',
+      'exp_clr_date': '20261111',
+      'exp_clr_time': '1200',
+      'grs80tm_x': '198000',
+      'grs80tm_y': '452000',
+    };
+    for (final text in ['행사 중 도로 통제는 없습니다', '도로 통제가 없습니다', '도로 통제는 하지 않습니다']) {
+      final parsed = SeoulTraffic.parse({...row, 'acc_info': text})!;
+      expect(parsed.hasControlEvidence, isFalse);
+      final ledger = TrafficLedger()..accept('seoul-topis', [parsed], DateTime.utc(2026, 11, 11), complete: true);
+      final active = [
+        for (final j in ledger.feed(DateTime.utc(2026, 11, 11))['notices'] as List)
+          TrafficNotice.fromJson((j as Map).cast<String, dynamic>()),
+      ];
+      final cards = const InsightEngine().build(
+        plans: [
+          Plan(
+            id: 'p',
+            title: '방문',
+            start: DateTime.utc(2026, 11, 11, 2),
+            end: DateTime.utc(2026, 11, 11, 3),
+            location: const GeoPoint(37.57, 126.98),
+            locationText: '시청',
+            city: '서울',
+          ),
+        ],
+        events: [],
+        interests: {},
+        now: DateTime.utc(2026, 11, 11),
+        traffic: active,
+      );
+      expect(cards, isEmpty, reason: text);
+    }
+  });
+  test('TOPIS malformed/truncated XML is not a normal empty source snapshot', () {
+    expect(() => SeoulTraffic.rows('<AccInfo><RESULT><CODE>INFO-000</CODE></RESULT>'), throwsA(anything));
+    expect(() => SeoulTraffic.rows('<AccInfo><RESULT><CODE>INFO-000</CODE></RESULT></AccInfo>'), throwsA(anything));
+    const partial = '<AccInfo><list_total_count>1</list_total_count><RESULT><CODE>INFO-000</CODE></RESULT></AccInfo>';
+    final rows = SeoulTraffic.rows(partial);
+    expect(rows, isEmpty);
+    expect(SeoulTraffic.isComplete(partial, rows), isFalse);
+    const empty = '<AccInfo><list_total_count>0</list_total_count><RESULT><CODE>INFO-000</CODE></RESULT></AccInfo>';
+    expect(SeoulTraffic.isComplete(empty, SeoulTraffic.rows(empty)), isTrue);
   });
 }

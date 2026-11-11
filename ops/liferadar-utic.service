@@ -1,0 +1,15 @@
+[Unit]
+Description=LifeRadar isolated UTIC collector (disabled until contract verification)
+After=network-online.target
+[Service]
+Type=oneshot
+User=liferadar
+WorkingDirectory=/opt/liferadar/WOOWANGTHON_TEAM_27_BE
+EnvironmentFile=/etc/liferadar/utic.env
+ExecStart=/bin/bash /opt/liferadar/WOOWANGTHON_TEAM_27_BE/ops/collect-utic.sh
+UMask=0077
+NoNewPrivileges=true
+ProtectSystem=strict
+ProtectHome=true
+ReadWritePaths=/var/lib/liferadar
+PrivateTmp=true

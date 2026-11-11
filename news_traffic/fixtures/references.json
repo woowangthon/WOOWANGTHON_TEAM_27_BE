@@ -1,0 +1,23 @@
+[
+  {
+    "raw": "101번 버스",
+    "region": "서울",
+    "id": "demo:seoul:bus:101",
+    "source": "synthetic reference v1 / 2026-11-07",
+    "demo": true
+  },
+  {
+    "raw": "세종대로",
+    "region": "서울",
+    "id": "demo:seoul:road:sejong",
+    "source": "synthetic reference v1 / 2026-11-07",
+    "demo": true
+  },
+  {
+    "raw": "201번 버스",
+    "region": "부산",
+    "id": "demo:busan:bus:201",
+    "source": "synthetic reference v1 / 2026-11-07",
+    "demo": true
+  }
+]

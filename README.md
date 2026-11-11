@@ -1,5 +1,7 @@
 # LifeRadar BE — 실제 데이터 파이프라인
 
+본문 근거 기반 파업·행사 교통 영향 추출, 사건 갱신 및 앱 알림 연결은 [news_traffic/README.md](news_traffic/README.md)에 설명되어 있습니다. 기존 검색 요약 참고 카드와 검증된 교통 영향은 구분합니다.
+
 > **WOOWANGTHON TEAM 27** · 2026 AI 우왕톤 · 주제 *"AI는 동료가 될 수 있을까?"*
 >
 > 저장소: [FE (Flutter 앱)](https://github.com/woowangthon/WOOWANGTHON_TEAM_27_FE) · **BE (이 저장소)** · [AI (판단 엔진·AI 모듈)](https://github.com/woowangthon/WOOWANGTHON_TEAM_27_AI)
@@ -189,3 +191,12 @@ cache/                      # Gemini 캐시 — ai_en.json(번역), news_ai.json
 | 11/7 | 서울 문화행사·TourAPI·K-Startup 수집기, Gemini 영어 번역·태그 |
 | 11/8 | 매일 자동 게시(GitHub Actions), TOPIS·ITS 교통 통제, KOPIS 전국 공연, 네이버 뉴스 파업 판독, 팀 저장소 이전 |
 | 11/9 | `liferadar_core` 갱신 반영(AI 비서·자기소개 제안), 테스트 이름 한국어화 |
+
+
+## UTIC v2 로컬 구현 (운영 비활성)
+
+공용 교통 모델 0.2.0과 `traffic-v2.json`을 사용하는 경로를 추가했습니다. UTIC 실 API 통제 코드·CRS·시간·완전성은 미검증이며 실제 호출은 비활성화되어 있습니다. 기존 TOPIS/ITS 경로는 유지합니다.
+
+실행 예제: `dart run bin/collect_traffic.dart --out=out/traffic.json`, 재수집 없는 게시: `dart run bin/publish_traffic.dart --dir=out`. 내구 상태는 `out/traffic-state.json`으로 복원/백업해야 합니다. 설정은 환경변수 > env.json > 기본값 순서입니다. `UTIC_ENABLED=false`가 기본이며 true여도 계약 차단 조건을 해제하지 않습니다. 실제 비밀키는 BE 고정 IP 수집 서버에서만 사용합니다. [상세 적용 절차와 차단 지점](ops/UTIC_ROLLOUT.md)을 확인하세요.
+
+BE/FE의 로컬 AI path override 테스트와 배포용 원격 패키지 검증은 별개입니다. AI 0.2.0 게시 후 Git 참조를 실제 immutable SHA로 고정하고 override 없는 CI를 실행해야 합니다. 이번 작업은 push/배포하지 않았습니다.

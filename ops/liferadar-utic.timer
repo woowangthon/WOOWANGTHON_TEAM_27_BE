@@ -1,0 +1,8 @@
+[Unit]
+Description=LifeRadar UTIC polling proposal; approve limits before enabling
+[Timer]
+OnCalendar=*:0/15
+RandomizedDelaySec=30
+Persistent=true
+[Install]
+WantedBy=timers.target

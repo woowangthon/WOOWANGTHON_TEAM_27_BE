@@ -12,7 +12,7 @@ import 'package:http/http.dart' as http;
 import 'package:liferadar_core/liferadar_core.dart';
 import 'package:liferadar_pipeline/liferadar_pipeline.dart';
 
-const _queries = ['버스 파업', '지하철 파업', '철도 파업', '파업 예고 운행'];
+const _queries = ['버스 파업', '지하철 파업', '철도 파업', '파업 예고 운행', '집회 교통 통제', '마라톤 도로 통제', '축제 버스 우회'];
 const _cachePath = 'cache/news_ai.json';
 const _batch = 15;
 
@@ -36,6 +36,7 @@ Future<void> main(List<String> args) async {
 
   // 1) 검색
   final articles = <String, NewsArticle>{};
+  final discoveredBy = <String, String>{};
   for (final q in _queries) {
     final res = await client.get(
       Uri.parse('https://naverapihub.apigw.ntruss.com/search/v1/news').replace(
@@ -50,7 +51,10 @@ Future<void> main(List<String> args) async {
     final items = (jsonDecode(utf8.decode(res.bodyBytes))['items'] as List).cast<Map<String, dynamic>>();
     for (final item in items) {
       final a = NewsArticle.fromSearchItem(item);
-      if (a.publishedAt.isAfter(since)) articles[a.id] = a;
+      if (a.publishedAt.isAfter(since)) {
+        articles[a.id] = a;
+        discoveredBy.putIfAbsent(a.id, () => q);
+      }
     }
     stdout.writeln('✓ 네이버 "$q": ${items.length}건');
   }
@@ -102,6 +106,9 @@ Future<void> main(List<String> args) async {
       {'id': 'naver-news', 'name': '네이버 뉴스 검색 (NAVER API HUB)', 'url': 'https://www.ncloud.com/product/applicationService/naverApiHub'},
     ],
     'articles': articles.length,
+    // Discovery only: publish.py must fetch/validate full bodies before producing
+    // trafficImpacts. Snippets never become verified impact records.
+    'searchResults': [for (final a in articles.values) {'url': a.url, 'title': a.title, 'query': discoveredBy[a.id]}],
     'strikes': [for (final s in merged) s.toJson()],
   }));
   client.close();

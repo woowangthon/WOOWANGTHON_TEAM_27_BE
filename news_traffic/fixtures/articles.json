@@ -1,0 +1,24 @@
+[
+  {
+    "title": "[고정 데모 기사] strike",
+    "body": "서울 서울버스노조는 2026-11-10 08:00부터 11:00까지 101번 버스 파업을 예고했다.",
+    "source_url": "https://www.fnnews.com/demo-fixture/strike",
+    "source_id": "demo:strike",
+    "source_revision": "f0702c5f6f2dd96f42626991",
+    "published_at": "2026-11-07T10:00:00+09:00",
+    "updated_at": null,
+    "collected_at": "2026-11-07T16:00:00+09:00",
+    "demo": true
+  },
+  {
+    "title": "[고정 데모 기사] marathon",
+    "body": "서울 한강마라톤은 2026-11-10 09:00부터 15:00까지 개최될 예정이다.\n이에 따라 서울 세종대로는 07:00부터 11:00까지 차량 도로 통제 예정이다.",
+    "source_url": "https://www.fnnews.com/demo-fixture/marathon",
+    "source_id": "demo:marathon",
+    "source_revision": "4d6df6af1a26c22db4c2a389",
+    "published_at": "2026-11-07T10:00:00+09:00",
+    "updated_at": null,
+    "collected_at": "2026-11-07T16:00:00+09:00",
+    "demo": true
+  }
+]

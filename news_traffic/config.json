@@ -1,0 +1,47 @@
+{
+  "regions": {
+    "서울": ["fnnews.com", "yna.co.kr", "tdaily.co.kr", "newshim.kr"],
+    "부산": ["seoul.co.kr", "newspim.com", "metroseoul.co.kr", "imaeil.com"],
+    "인천": ["yna.co.kr", "newsis.com", "joongdo.co.kr", "fnnews.com"],
+    "대구": ["joongdo.co.kr", "nocutnews.co.kr", "seoul.co.kr", "tdaily.co.kr"],
+    "광주": ["yna.co.kr", "newspim.com", "newsis.com", "tdaily.co.kr"],
+    "울산": ["yna.co.kr", "fnnews.com", "khan.co.kr", "hankyung.com"],
+    "대전": []
+  },
+  "hosts": {
+    "fnnews.com": ["fnnews.com", "www.fnnews.com", "busan.fnnews.com"],
+    "yna.co.kr": ["yna.co.kr", "www.yna.co.kr"],
+    "tdaily.co.kr": ["tdaily.co.kr", "www.tdaily.co.kr"],
+    "newshim.kr": ["newshim.kr", "www.newshim.kr"],
+    "seoul.co.kr": ["seoul.co.kr", "www.seoul.co.kr"],
+    "newspim.com": ["newspim.com", "www.newspim.com"],
+    "metroseoul.co.kr": ["metroseoul.co.kr", "www.metroseoul.co.kr"],
+    "imaeil.com": ["imaeil.com", "www.imaeil.com"],
+    "newsis.com": ["newsis.com", "www.newsis.com", "mobile.newsis.com"],
+    "joongdo.co.kr": ["joongdo.co.kr", "www.joongdo.co.kr", "m.joongdo.co.kr"],
+    "nocutnews.co.kr": ["nocutnews.co.kr", "www.nocutnews.co.kr"],
+    "khan.co.kr": ["khan.co.kr", "www.khan.co.kr"],
+    "hankyung.com": ["hankyung.com", "www.hankyung.com"]
+  },
+  "feeds": {
+    "fnnews.com": ["https://www.fnnews.com/rss/r20/fn_realnews_all.xml"],
+    "newsis.com": ["https://www.newsis.com/RSS/society.xml"]
+  },
+  "feed_evidence": {
+    "fnnews.com": "https://www.fnnews.com/rss",
+    "newsis.com": "https://www.newsis.com/RSS/"
+  },
+  "keywords": ["파업", "교섭 결렬", "정상 운행", "비상수송", "집회", "마라톤", "축제", "도로 통제", "우회", "무정차", "출입구 폐쇄", "통제 해제", "취소", "연기", "철회", "유보"],
+  "lookback_days": 28,
+  "refresh_seconds": 3600,
+  "candidate_hours": 2,
+  "nearby_meters": 1000,
+  "request_interval_seconds": 2,
+  "timeout_seconds": 8,
+  "retries": 1,
+  "cache_seconds": 3600,
+  "raw_retention_days": 7,
+  "store_raw_body": true,
+  "max_articles_per_run": 12,
+  "rule_version": "news-traffic-1.0"
+}

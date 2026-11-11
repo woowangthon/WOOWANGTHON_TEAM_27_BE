@@ -41,6 +41,10 @@ jobs:
         with:
           sdk: 3.11.5
       - run: dart pub get
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.13'
+      - run: python -m pip install -r news_traffic/requirements.txt
 
       # Gemini 캐시 (번역·뉴스 판독): 새 행사·새 기사만 Gemini에 보낸다 (속도·할당량 절약).
       - name: Restore Gemini cache
@@ -66,13 +70,45 @@ jobs:
           assert n >= 20, "행사가 너무 적음 — 게시하지 않는다"
           PY
 
+      - name: Restore durable traffic ledger
+        id: traffic-state
+        continue-on-error: true # Failed restore must skip traffic, not unrelated events/news.
+        run: |
+          mkdir -p out
+          set +e
+          git ls-remote --exit-code --heads origin data >/tmp/traffic-branch-ref
+          BRANCH_STATUS=$?
+          set -e
+          if [ "$BRANCH_STATUS" = 0 ]; then
+            git fetch --no-tags --depth=1 origin data
+            if git cat-file -e FETCH_HEAD:traffic-state.json 2>/dev/null; then
+              git show FETCH_HEAD:traffic-state.json > out/traffic-state.json
+            elif git cat-file -e FETCH_HEAD:traffic-v2.json 2>/dev/null; then
+              echo 'v2 feed exists without its durable ledger; skip traffic publication'
+              exit 1
+            fi
+          elif [ "$BRANCH_STATUS" != 2 ]; then
+            echo 'Cannot verify existing data branch; skip traffic publication'
+            exit 1
+          fi
+
       - name: Collect traffic notices
+        if: steps.traffic-state.outcome == 'success'
         continue-on-error: true # 교통 수집이 실패해도 행사는 게시한다
         run: dart run bin/collect_traffic.dart --out=out/traffic.json
 
       - name: Collect strike news (AI)
         continue-on-error: true # 뉴스 판독이 실패해도 다른 데이터는 게시한다
         run: dart run bin/collect_news.dart --out=out/news.json
+
+      - name: Validate full-body strike and event traffic information
+        # Existing verified state is retained if individual sources fail.
+        run: |
+          mkdir -p cache
+          if git fetch --no-tags --depth=1 origin data; then
+            git show FETCH_HEAD:news.json > cache/previous-news.json || true
+          fi
+          python -m news_traffic.publish --feed out/news.json --previous cache/previous-news.json --references news_traffic/references.json
 
       - name: Save Gemini cache
         if: always()
@@ -92,7 +128,15 @@ jobs:
             mkdir /tmp/data && git -C /tmp/data init -b data && git -C /tmp/data remote add origin "$REMOTE"
           fi
           [ -f out/events.json ] && cp out/events.json /tmp/data/events.json
-          [ -f out/traffic.json ] && cp out/traffic.json /tmp/data/traffic.json
+          if [ "${{ steps.traffic-state.outcome }}" = success ] && [ -f out/traffic-v2.json ]; then
+            if dart run bin/publish_traffic.dart --dir=out --base=/tmp/data --legacy; then
+            if [ -f out/traffic.json ]; then cp out/traffic.json /tmp/data/traffic.json; fi
+            if [ -f out/traffic-v2.json ]; then cp out/traffic-v2.json /tmp/data/traffic-v2.json; fi
+            if [ -f out/traffic-state.json ]; then cp out/traffic-state.json /tmp/data/traffic-state.json; fi
+            else
+              echo 'Traffic rebase/validation failed; keep published traffic and continue other feeds'
+            fi
+          fi
           [ -f out/news.json ] && cp out/news.json /tmp/data/news.json
           cd /tmp/data
           git config user.name "liferadar-bot"

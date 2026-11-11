@@ -3,3 +3,10 @@ build/
 out/
 env.json
 .DS_Store
+__pycache__/
+cache/*.sqlite3*
+cache/previous-news.json
+/pubspec_overrides.yaml
+
+# Local deterministic test scratch
+.test-tmp/

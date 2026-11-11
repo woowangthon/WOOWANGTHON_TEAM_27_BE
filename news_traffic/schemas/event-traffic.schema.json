@@ -1,0 +1,805 @@
+{
+  "type": "object",
+  "properties": {
+    "schema_version": {
+      "enum": [
+        "1.0"
+      ]
+    },
+    "article_relevance": {
+      "enum": [
+        "related",
+        "unrelated",
+        "unknown"
+      ]
+    },
+    "processing_status": {
+      "enum": [
+        "success",
+        "partial",
+        "needs_review"
+      ]
+    },
+    "source": {
+      "type": "object",
+      "properties": {
+        "source_id": {
+          "type": "string",
+          "minLength": 1
+        },
+        "source_url": {
+          "type": "string",
+          "minLength": 1
+        },
+        "source_revision": {
+          "type": "string",
+          "minLength": 1
+        },
+        "published_at": {
+          "type": [
+            "string",
+            "null"
+          ],
+          "format": "date-time"
+        },
+        "updated_at": {
+          "type": [
+            "string",
+            "null"
+          ],
+          "format": "date-time"
+        },
+        "collected_at": {
+          "type": "string",
+          "format": "date-time"
+        }
+      },
+      "required": [
+        "source_id",
+        "source_url",
+        "source_revision",
+        "published_at",
+        "updated_at",
+        "collected_at"
+      ],
+      "additionalProperties": false
+    },
+    "events": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "event_ref": {
+            "type": "string",
+            "minLength": 1
+          },
+          "event_name": {
+            "type": [
+              "string",
+              "null"
+            ],
+            "minLength": 1
+          },
+          "event_type": {
+            "enum": [
+              "RALLY",
+              "MARATHON",
+              "FESTIVAL",
+              "UNKNOWN"
+            ]
+          },
+          "event_status": {
+            "enum": [
+              "PLANNED",
+              "CONDITIONAL",
+              "CHANGED",
+              "CANCELLED",
+              "ENDED",
+              "UNKNOWN"
+            ]
+          },
+          "event_period": {
+            "type": "object",
+            "properties": {
+              "start": {
+                "type": "object",
+                "properties": {
+                  "raw": {
+                    "type": [
+                      "string",
+                      "null"
+                    ],
+                    "minLength": 1
+                  },
+                  "date": {
+                    "type": [
+                      "string",
+                      "null"
+                    ],
+                    "format": "date"
+                  },
+                  "time": {
+                    "type": [
+                      "string",
+                      "null"
+                    ],
+                    "pattern": "^\\d{2}:\\d{2}(:\\d{2})?$"
+                  },
+                  "timezone": {
+                    "enum": [
+                      "Asia/Seoul"
+                    ]
+                  },
+                  "basis": {
+                    "enum": [
+                      "explicit",
+                      "relative",
+                      "first_service",
+                      "last_service",
+                      "unknown"
+                    ]
+                  },
+                  "assertion": {
+                    "enum": [
+                      "planned",
+                      "actual",
+                      "unknown"
+                    ]
+                  },
+                  "open_ended": {
+                    "type": [
+                      "boolean",
+                      "null"
+                    ]
+                  }
+                },
+                "required": [
+                  "raw",
+                  "date",
+                  "time",
+                  "timezone",
+                  "basis",
+                  "assertion",
+                  "open_ended"
+                ],
+                "additionalProperties": false
+              },
+              "end": {
+                "type": "object",
+                "properties": {
+                  "raw": {
+                    "type": [
+                      "string",
+                      "null"
+                    ],
+                    "minLength": 1
+                  },
+                  "date": {
+                    "type": [
+                      "string",
+                      "null"
+                    ],
+                    "format": "date"
+                  },
+                  "time": {
+                    "type": [
+                      "string",
+                      "null"
+                    ],
+                    "pattern": "^\\d{2}:\\d{2}(:\\d{2})?$"
+                  },
+                  "timezone": {
+                    "enum": [
+                      "Asia/Seoul"
+                    ]
+                  },
+                  "basis": {
+                    "enum": [
+                      "explicit",
+                      "relative",
+                      "first_service",
+                      "last_service",
+                      "unknown"
+                    ]
+                  },
+                  "assertion": {
+                    "enum": [
+                      "planned",
+                      "actual",
+                      "unknown"
+                    ]
+                  },
+                  "open_ended": {
+                    "type": [
+                      "boolean",
+                      "null"
+                    ]
+                  }
+                },
+                "required": [
+                  "raw",
+                  "date",
+                  "time",
+                  "timezone",
+                  "basis",
+                  "assertion",
+                  "open_ended"
+                ],
+                "additionalProperties": false
+              },
+              "precision": {
+                "enum": [
+                  "EXACT",
+                  "DATE_ONLY",
+                  "PARTIAL",
+                  "UNKNOWN"
+                ]
+              },
+              "condition": {
+                "type": [
+                  "string",
+                  "null"
+                ],
+                "minLength": 1
+              }
+            },
+            "required": [
+              "start",
+              "end",
+              "precision",
+              "condition"
+            ],
+            "additionalProperties": false
+          },
+          "event_locations": {
+            "type": "array",
+            "items": {
+              "type": "object",
+              "properties": {
+                "raw": {
+                  "type": "string",
+                  "minLength": 1
+                },
+                "normalized_name": {
+                  "type": [
+                    "string",
+                    "null"
+                  ],
+                  "minLength": 1
+                },
+                "region": {
+                  "type": [
+                    "string",
+                    "null"
+                  ],
+                  "minLength": 1
+                },
+                "reference_id": {
+                  "type": [
+                    "string",
+                    "null"
+                  ],
+                  "minLength": 1
+                },
+                "derivation": {
+                  "enum": [
+                    "article_explicit",
+                    "reference_mapping",
+                    "unresolved"
+                  ]
+                },
+                "reference_source": {
+                  "type": [
+                    "string",
+                    "null"
+                  ],
+                  "minLength": 1
+                },
+                "section": {
+                  "type": [
+                    "string",
+                    "null"
+                  ],
+                  "minLength": 1
+                },
+                "direction": {
+                  "type": [
+                    "string",
+                    "null"
+                  ],
+                  "minLength": 1
+                }
+              },
+              "required": [
+                "raw",
+                "normalized_name",
+                "region",
+                "reference_id",
+                "derivation",
+                "reference_source"
+              ],
+              "additionalProperties": false
+            }
+          },
+          "impacts": {
+            "type": "array",
+            "items": {
+              "type": "object",
+              "properties": {
+                "impact_ref": {
+                  "type": "string",
+                  "minLength": 1
+                },
+                "impact_type": {
+                  "enum": [
+                    "ROAD_CLOSURE",
+                    "BUS_DETOUR",
+                    "STOP_SKIP",
+                    "STATION_RESTRICTION",
+                    "CONGESTION_FORECAST",
+                    "UNKNOWN"
+                  ]
+                },
+                "impact_status": {
+                  "enum": [
+                    "ANNOUNCED",
+                    "CONDITIONAL",
+                    "WITHDRAWN",
+                    "ENDED",
+                    "UNKNOWN"
+                  ]
+                },
+                "assertion": {
+                  "enum": [
+                    "planned",
+                    "forecast",
+                    "actual",
+                    "unknown"
+                  ]
+                },
+                "period": {
+                  "type": "object",
+                  "properties": {
+                    "start": {
+                      "type": "object",
+                      "properties": {
+                        "raw": {
+                          "type": [
+                            "string",
+                            "null"
+                          ],
+                          "minLength": 1
+                        },
+                        "date": {
+                          "type": [
+                            "string",
+                            "null"
+                          ],
+                          "format": "date"
+                        },
+                        "time": {
+                          "type": [
+                            "string",
+                            "null"
+                          ],
+                          "pattern": "^\\d{2}:\\d{2}(:\\d{2})?$"
+                        },
+                        "timezone": {
+                          "enum": [
+                            "Asia/Seoul"
+                          ]
+                        },
+                        "basis": {
+                          "enum": [
+                            "explicit",
+                            "relative",
+                            "first_service",
+                            "last_service",
+                            "unknown"
+                          ]
+                        },
+                        "assertion": {
+                          "enum": [
+                            "planned",
+                            "actual",
+                            "unknown"
+                          ]
+                        },
+                        "open_ended": {
+                          "type": [
+                            "boolean",
+                            "null"
+                          ]
+                        }
+                      },
+                      "required": [
+                        "raw",
+                        "date",
+                        "time",
+                        "timezone",
+                        "basis",
+                        "assertion",
+                        "open_ended"
+                      ],
+                      "additionalProperties": false
+                    },
+                    "end": {
+                      "type": "object",
+                      "properties": {
+                        "raw": {
+                          "type": [
+                            "string",
+                            "null"
+                          ],
+                          "minLength": 1
+                        },
+                        "date": {
+                          "type": [
+                            "string",
+                            "null"
+                          ],
+                          "format": "date"
+                        },
+                        "time": {
+                          "type": [
+                            "string",
+                            "null"
+                          ],
+                          "pattern": "^\\d{2}:\\d{2}(:\\d{2})?$"
+                        },
+                        "timezone": {
+                          "enum": [
+                            "Asia/Seoul"
+                          ]
+                        },
+                        "basis": {
+                          "enum": [
+                            "explicit",
+                            "relative",
+                            "first_service",
+                            "last_service",
+                            "unknown"
+                          ]
+                        },
+                        "assertion": {
+                          "enum": [
+                            "planned",
+                            "actual",
+                            "unknown"
+                          ]
+                        },
+                        "open_ended": {
+                          "type": [
+                            "boolean",
+                            "null"
+                          ]
+                        }
+                      },
+                      "required": [
+                        "raw",
+                        "date",
+                        "time",
+                        "timezone",
+                        "basis",
+                        "assertion",
+                        "open_ended"
+                      ],
+                      "additionalProperties": false
+                    },
+                    "precision": {
+                      "enum": [
+                        "EXACT",
+                        "DATE_ONLY",
+                        "PARTIAL",
+                        "UNKNOWN"
+                      ]
+                    },
+                    "condition": {
+                      "type": [
+                        "string",
+                        "null"
+                      ],
+                      "minLength": 1
+                    }
+                  },
+                  "required": [
+                    "start",
+                    "end",
+                    "precision",
+                    "condition"
+                  ],
+                  "additionalProperties": false
+                },
+                "affected_scope": {
+                  "type": "array",
+                  "items": {
+                    "type": "object",
+                    "properties": {
+                      "raw": {
+                        "type": "string",
+                        "minLength": 1
+                      },
+                      "normalized_name": {
+                        "type": [
+                          "string",
+                          "null"
+                        ],
+                        "minLength": 1
+                      },
+                      "region": {
+                        "type": [
+                          "string",
+                          "null"
+                        ],
+                        "minLength": 1
+                      },
+                      "reference_id": {
+                        "type": [
+                          "string",
+                          "null"
+                        ],
+                        "minLength": 1
+                      },
+                      "derivation": {
+                        "enum": [
+                          "article_explicit",
+                          "reference_mapping",
+                          "unresolved"
+                        ]
+                      },
+                      "reference_source": {
+                        "type": [
+                          "string",
+                          "null"
+                        ],
+                        "minLength": 1
+                      },
+                      "section": {
+                        "type": [
+                          "string",
+                          "null"
+                        ],
+                        "minLength": 1
+                      },
+                      "direction": {
+                        "type": [
+                          "string",
+                          "null"
+                        ],
+                        "minLength": 1
+                      }
+                    },
+                    "required": [
+                      "raw",
+                      "normalized_name",
+                      "region",
+                      "reference_id",
+                      "derivation",
+                      "reference_source"
+                    ],
+                    "additionalProperties": false
+                  }
+                },
+                "affected_modes": {
+                  "type": "array",
+                  "items": {
+                    "enum": [
+                      "car",
+                      "taxi",
+                      "bus",
+                      "subway",
+                      "rail",
+                      "walk"
+                    ]
+                  }
+                },
+                "exceptions": {
+                  "type": "array",
+                  "items": {
+                    "type": "string",
+                    "minLength": 1
+                  }
+                },
+                "conditions": {
+                  "type": "array",
+                  "items": {
+                    "type": "string",
+                    "minLength": 1
+                  }
+                },
+                "source_recommendations": {
+                  "type": "array",
+                  "items": {
+                    "type": "string",
+                    "minLength": 1
+                  }
+                },
+                "evidence": {
+                  "type": "array",
+                  "items": {
+                    "type": "object",
+                    "properties": {
+                      "field_path": {
+                        "type": "string",
+                        "minLength": 1
+                      },
+                      "quote": {
+                        "type": "string",
+                        "minLength": 1
+                      },
+                      "source_part": {
+                        "enum": [
+                          "title",
+                          "body"
+                        ]
+                      },
+                      "effective_at": {
+                        "type": [
+                          "string",
+                          "null"
+                        ],
+                        "format": "date-time"
+                      },
+                      "derivation": {
+                        "enum": [
+                          "explicit",
+                          "normalized",
+                          "reference_mapping"
+                        ]
+                      },
+                      "source_id": {
+                        "type": "string",
+                        "minLength": 1
+                      },
+                      "source_revision": {
+                        "type": "string",
+                        "minLength": 1
+                      },
+                      "reference_source": {
+                        "type": [
+                          "string",
+                          "null"
+                        ],
+                        "minLength": 1
+                      }
+                    },
+                    "required": [
+                      "field_path",
+                      "quote",
+                      "source_part",
+                      "effective_at",
+                      "derivation",
+                      "source_id",
+                      "source_revision",
+                      "reference_source"
+                    ],
+                    "additionalProperties": false
+                  }
+                },
+                "review_reasons": {
+                  "type": "array",
+                  "items": {
+                    "type": "string",
+                    "minLength": 1
+                  }
+                }
+              },
+              "required": [
+                "impact_ref",
+                "impact_type",
+                "impact_status",
+                "assertion",
+                "period",
+                "affected_scope",
+                "affected_modes",
+                "exceptions",
+                "conditions",
+                "source_recommendations",
+                "evidence",
+                "review_reasons"
+              ],
+              "additionalProperties": false
+            }
+          },
+          "evidence": {
+            "type": "array",
+            "items": {
+              "type": "object",
+              "properties": {
+                "field_path": {
+                  "type": "string",
+                  "minLength": 1
+                },
+                "quote": {
+                  "type": "string",
+                  "minLength": 1
+                },
+                "source_part": {
+                  "enum": [
+                    "title",
+                    "body"
+                  ]
+                },
+                "effective_at": {
+                  "type": [
+                    "string",
+                    "null"
+                  ],
+                  "format": "date-time"
+                },
+                "derivation": {
+                  "enum": [
+                    "explicit",
+                    "normalized",
+                    "reference_mapping"
+                  ]
+                },
+                "source_id": {
+                  "type": "string",
+                  "minLength": 1
+                },
+                "source_revision": {
+                  "type": "string",
+                  "minLength": 1
+                },
+                "reference_source": {
+                  "type": [
+                    "string",
+                    "null"
+                  ],
+                  "minLength": 1
+                }
+              },
+              "required": [
+                "field_path",
+                "quote",
+                "source_part",
+                "effective_at",
+                "derivation",
+                "source_id",
+                "source_revision",
+                "reference_source"
+              ],
+              "additionalProperties": false
+            }
+          },
+          "review_reasons": {
+            "type": "array",
+            "items": {
+              "type": "string",
+              "minLength": 1
+            }
+          }
+        },
+        "required": [
+          "event_ref",
+          "event_name",
+          "event_type",
+          "event_status",
+          "event_period",
+          "event_locations",
+          "impacts",
+          "evidence",
+          "review_reasons"
+        ],
+        "additionalProperties": false
+      }
+    },
+    "review_reasons": {
+      "type": "array",
+      "items": {
+        "type": "string",
+        "minLength": 1
+      }
+    }
+  },
+  "required": [
+    "schema_version",
+    "article_relevance",
+    "processing_status",
+    "source",
+    "events",
+    "review_reasons"
+  ],
+  "additionalProperties": false
+}
