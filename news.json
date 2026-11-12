@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-12T23:31:02.774390+09:00",
+ "generatedAt": "2026-11-13T06:43:46.991853+09:00",
  "windowDays": 14,
  "queries": [
   "버스 파업",
@@ -17,8 +17,13 @@
    "url": "https://www.ncloud.com/product/applicationService/naverApiHub"
   }
  ],
- "articles": 290,
+ "articles": 288,
  "searchResults": [
+  {
+   "url": "https://www.donga.com/news/Inter/article/all/20261112/135017578/2",
+   "title": "“월급 99%가 월세” 분노한 스페인 노동자 400만명 총파업",
+   "query": "버스 파업"
+  },
   {
    "url": "https://www.danbinews.com/news/articleView.html?idxno=34130",
    "title": "우리의 미래는 우리가 결정한다",
@@ -115,13 +120,13 @@
    "query": "버스 파업"
   },
   {
-   "url": "https://www.kihoilbo.co.kr/news/articleView.html?idxno=3040533",
-   "title": "[길 잃은 시내버스 공공관리제] 공공관리제 확대는커녕 현상 유지도 어...",
+   "url": "https://www.kihoilbo.co.kr/news/articleView.html?idxno=3040535",
+   "title": "[길 잃은 시내버스 공공관리제] 1.사실상 '돈 퍼주기'로 전락",
    "query": "버스 파업"
   },
   {
-   "url": "https://www.kihoilbo.co.kr/news/articleView.html?idxno=3040535",
-   "title": "[길 잃은 시내버스 공공관리제] 1.사실상 '돈 퍼주기'로 전락",
+   "url": "https://www.kihoilbo.co.kr/news/articleView.html?idxno=3040533",
+   "title": "[길 잃은 시내버스 공공관리제] 공공관리제 확대는커녕 현상 유지도 어...",
    "query": "버스 파업"
   },
   {
@@ -265,9 +270,9 @@
    "query": "버스 파업"
   },
   {
-   "url": "https://www.pressian.com/pages/articles/2026110516164980426?utm_source=naver&utm_medium=search",
-   "title": "파업 진통 끝 다시 손잡은 춘천시·시내버스 노사 \"시민 신뢰 회복\"",
-   "query": "버스 파업"
+   "url": "http://www.newstown.co.kr/news/articleView.html?idxno=721775",
+   "title": "부산교통공사 원·하청 첫 단협…임금·인력 문제 풀리나",
+   "query": "지하철 파업"
   },
   {
    "url": "https://www.seoul.co.kr/news/publicnews/local_govern/smc_movement/2026/11/12/20261112500350?wlog_tag3=naver",
@@ -440,14 +445,99 @@
    "query": "지하철 파업"
   },
   {
-   "url": "https://www.segye.com/newsView/20261110519716?OutUrl=naver",
-   "title": "서울 지하철 멈추나… 서울교통공사 노조 “인력 충원 안되면 25일 총파...",
-   "query": "지하철 파업"
+   "url": "https://www.kyeongin.com/article/1774698",
+   "title": "공항철도 13일 경고파업 철회… 노사 임금·단체협약 잠정합의",
+   "query": "철도 파업"
   },
   {
-   "url": "https://www.donga.com/news/Society/article/all/20261111/135002952/2",
-   "title": "서울지하철 노조, 25일부터 무기한 총파업 예고",
-   "query": "지하철 파업"
+   "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8711741&ref=A",
+   "title": "‘파업 예고’ 공항철도 협상 타결…열차 정상 운행",
+   "query": "철도 파업"
+  },
+  {
+   "url": "https://www.etoday.co.kr/news/view/2647642",
+   "title": "공항철도 노조 파업 철회…열차 정상 운행",
+   "query": "철도 파업"
+  },
+  {
+   "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008843989&plink=ORI&cooper=NAVER",
+   "title": "공항철도 노사 극적 타결…열차 정상 운행",
+   "query": "철도 파업"
+  },
+  {
+   "url": "https://www.kukinews.com/article/view/kuk202611130005",
+   "title": "공항철도 노사 임금협상 극적 타결…노조 파업 철회",
+   "query": "철도 파업"
+  },
+  {
+   "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008843985&plink=ORI&cooper=NAVER",
+   "title": "[모닝와이드] 오늘의 주요뉴스",
+   "query": "철도 파업"
+  },
+  {
+   "url": "https://www.newsis.com/view/NISX20261113_0003866370",
+   "title": "공항철도 노조, 오늘 파업 철회…노사 임금협상 극적 타결",
+   "query": "철도 파업"
+  },
+  {
+   "url": "https://www.kmib.co.kr/article/20261113500065",
+   "title": "‘경고파업’ 앞두고… 공항철도 새벽 노사 임급협상 극적 타결",
+   "query": "철도 파업"
+  },
+  {
+   "url": "https://www.sedaily.com/article/20113780?ref=naver",
+   "title": "공항철도 노사, 교섭 극적 타결…첫차부터 정상 운행",
+   "query": "철도 파업"
+  },
+  {
+   "url": "https://www.cwn.kr/news/articleView.html?idxno=61695",
+   "title": "공항철도 파업 직전 극적 합의…열차 운행 정상화",
+   "query": "철도 파업"
+  },
+  {
+   "url": "http://www.yonhapnewstv.co.kr/news/MYH20261113053428w1l",
+   "title": "공항철도 노사 협상 극적 타결…첫차부터 정상 운행",
+   "query": "철도 파업"
+  },
+  {
+   "url": "https://www.hankyung.com/article/202611133984h",
+   "title": "공항철도 노조 파업 철회…13일 정상 운행",
+   "query": "철도 파업"
+  },
+  {
+   "url": "https://www.ytn.co.kr/_ln/0102_202611130526341873",
+   "title": "공항철도 임금협상 극적 타결...\"파업계획 철회\"",
+   "query": "철도 파업"
+  },
+  {
+   "url": "https://www.nocutnews.co.kr/news/6606132?utm_source=naver&utm_medium=article&utm_campaign=20261113052017",
+   "title": "[칼럼] 조작기소 특검법안, 다음주 국무회의에 오른다는데…",
+   "query": "철도 파업"
+  },
+  {
+   "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008843981&plink=ORI&cooper=NAVER",
+   "title": "공항철도 노사 임금협상 극적 타결…일반·직통열차 정상 운행",
+   "query": "철도 파업"
+  },
+  {
+   "url": "http://www.yonhapnewstv.co.kr/news/AKR20261113043200MiN",
+   "title": "공항철도 노사 협상 극적 타결…첫차부터 정상 운행",
+   "query": "철도 파업"
+  },
+  {
+   "url": "https://imnews.imbc.com/news/2026/society/article/6865300_36918.html",
+   "title": "공항철도 노사 임금 교섭 극적 타결‥파업 철회",
+   "query": "철도 파업"
+  },
+  {
+   "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8711708&ref=A",
+   "title": "공항철도 노사 협상, 첫차 운행 앞두고 타결…일반·직통열차 ‘정상 운...",
+   "query": "철도 파업"
+  },
+  {
+   "url": "https://www.yna.co.kr/view/AKR20261113006900065?input=1195m",
+   "title": "공항철도 노사 임금협상 극적 타결…노조 파업계획 철회",
+   "query": "철도 파업"
   },
   {
    "url": "https://www.cwn.kr/news/articleView.html?idxno=61681",
@@ -480,6 +570,11 @@
    "query": "철도 파업"
   },
   {
+   "url": "https://www.newspim.com/news/view/20261112001439",
+   "title": "공항철도 개통 후 첫 파업하나…노조 경고파업 'D-1일'",
+   "query": "철도 파업"
+  },
+  {
    "url": "https://www.newspim.com/news/view/20261112001440",
    "title": "공항철도 노조, 13일 경고파업…교섭 결렬 시 개통 후 첫 파업",
    "query": "철도 파업"
@@ -487,11 +582,6 @@
   {
    "url": "http://worknworld.kctu.org/news/articleView.html?idxno=510308",
    "title": "\"조합원 질문에 답한다\" 2026 임원직접선거 두 번째 합동토론회",
-   "query": "철도 파업"
-  },
-  {
-   "url": "https://www.newspim.com/news/view/20261112001439",
-   "title": "공항철도 개통 후 첫 파업하나…노조 경고파업 'D-1일'",
    "query": "철도 파업"
   },
   {
@@ -540,89 +630,24 @@
    "query": "철도 파업"
   },
   {
-   "url": "https://www.news1.kr/photos/8211028",
-   "title": "파업 관련 안내문 붙은 공항철도",
-   "query": "철도 파업"
-  },
-  {
-   "url": "https://www.news1.kr/photos/8211025",
-   "title": "공항철도 경고 파업 'D-1'",
-   "query": "철도 파업"
-  },
-  {
-   "url": "https://www.news1.kr/photos/8211032",
-   "title": "'공항철도 파업 D-1'",
-   "query": "철도 파업"
-  },
-  {
-   "url": "https://www.news1.kr/photos/8211023",
-   "title": "파업 관련 운행 안내문 붙은 공항철도",
-   "query": "철도 파업"
-  },
-  {
-   "url": "https://www.news1.kr/photos/8211020",
-   "title": "공항철도 파업 D-1",
-   "query": "철도 파업"
-  },
-  {
-   "url": "https://www.news1.kr/photos/8211031",
-   "title": "공항철도 노조, 협상 결렬시 13일 경고 파업",
-   "query": "철도 파업"
-  },
-  {
-   "url": "https://www.news1.kr/photos/8211026",
-   "title": "공항철도, 교섭 결렬시 13일 경고 파업",
-   "query": "철도 파업"
-  },
-  {
-   "url": "https://www.news1.kr/photos/8211021",
-   "title": "공항철도, 교섭 결렬시 13일 경고 파업",
-   "query": "철도 파업"
-  },
-  {
-   "url": "https://www.news1.kr/photos/8211029",
-   "title": "'공항철도 파업 D-1'",
-   "query": "철도 파업"
-  },
-  {
    "url": "https://www.nocutnews.co.kr/news/6605902?utm_source=naver&utm_medium=article&utm_campaign=20261112141709",
    "title": "공항철도 13일 첫 경고파업 예고…노사 막판 협상 주목",
-   "query": "철도 파업"
+   "query": "파업 예고 운행"
   },
   {
    "url": "https://www.kgnews.co.kr/news/article.html?no=919319",
    "title": "진전 없는 노사 합의, 공항철도 개통 후 첫 파업 공식화",
-   "query": "철도 파업"
-  },
-  {
-   "url": "http://worknworld.kctu.org/news/articleView.html?idxno=510307",
-   "title": "[오피니언] 생존권 투쟁과 미군정에 대한 정치투쟁을 통일적으로 이끌어...",
-   "query": "철도 파업"
+   "query": "파업 예고 운행"
   },
   {
    "url": "https://www.ppss.kr/news/articleView.html?idxno=320624",
    "title": "철도노조, 내달 10일 무기한 총파업 예고…고속철 통합 후 첫 시험대",
-   "query": "철도 파업"
-  },
-  {
-   "url": "https://www.kbsm.net/news/view.php?idx=541411",
-   "title": "'삼전닉스 파워' 전기·전자 5대 기업 수출...1년새 3.3배 늘어",
-   "query": "철도 파업"
+   "query": "파업 예고 운행"
   },
   {
    "url": "https://news.bbsi.co.kr/news/articleView.html?idxno=4118208",
    "title": "공항철도 노조 경고파업 하루 전...개통 후 첫 파업하나",
-   "query": "철도 파업"
-  },
-  {
-   "url": "https://www.joongang.co.kr/article/25477966",
-   "title": "월세 175만원인데 청년월급 177만원…스페인 주택난 분노, 14년 만의 총파...",
-   "query": "철도 파업"
-  },
-  {
-   "url": "http://www.newsfc.co.kr/news/articleView.html?idxno=82411",
-   "title": "3분기 전기전자 톱5 수출액 비중 전체의 52.7%...1년새 수출 3.3배↑",
-   "query": "철도 파업"
+   "query": "파업 예고 운행"
   },
   {
    "url": "https://www.dailian.co.kr/news/view/1713713/?sc=Naver",
@@ -697,41 +722,6 @@
   {
    "url": "https://www.yna.co.kr/view/AKR20261111122400063?input=1195m",
    "title": "12월 10일 코레일 총파업 현실화?…'승진제도·추가수당' 이견 좁힐까",
-   "query": "파업 예고 운행"
-  },
-  {
-   "url": "https://www.donga.com/news/Economy/article/all/20261111/135007367/1",
-   "title": "철도노조 내달 총파업 예고…“현장 노동자 승진 불이익 개선하라”",
-   "query": "파업 예고 운행"
-  },
-  {
-   "url": "https://www.kbsm.net/news/view.php?idx=541325",
-   "title": "철도노조 \"12월 10일 오전 9시부터 무기한 총파업\"",
-   "query": "파업 예고 운행"
-  },
-  {
-   "url": "https://www.jtv.co.kr/news/article.php?id=72063",
-   "title": "철도노조 \"다음달 9일 총파업 돌입\"",
-   "query": "파업 예고 운행"
-  },
-  {
-   "url": "https://www.fnnews.com/news/202611111438124094",
-   "title": "국토부·코레일 파업시 대체인력 투입...\"운행률 75% 확보할 것\"",
-   "query": "파업 예고 운행"
-  },
-  {
-   "url": "http://www.segyebiz.com/newsView/20261111513565?OutUrl=naver",
-   "title": "KTX·SRT 운행 어쩌나... 철도노조 “12월 10일부터 무기한 총파업”",
-   "query": "파업 예고 운행"
-  },
-  {
-   "url": "https://www.newsclaim.co.kr/news/articleView.html?idxno=3082209",
-   "title": "[포착] 철도노조 \"12월 10일 무기한 총파업\"",
-   "query": "파업 예고 운행"
-  },
-  {
-   "url": "https://www.laborplus.co.kr/news/articleView.html?idxno=41798",
-   "title": "[포토] 철도노조, '현장 중심 공정 승진' '안전인력 충원' 총파업 예고",
    "query": "파업 예고 운행"
   },
   {
@@ -920,13 +910,13 @@
    "query": "집회 교통 통제"
   },
   {
-   "url": "http://www.inews24.com/view/2023705",
-   "title": "서울 도심 곳곳 집회…국힘 '특검법 규탄'·양대노총 '특구법 철회' [종...",
+   "url": "https://www.ytn.co.kr/_ln/0103_202611071651150128",
+   "title": "숭례문·여의도서 전국 노동자 대회...곳곳 교통통제",
    "query": "집회 교통 통제"
   },
   {
-   "url": "https://www.ytn.co.kr/_ln/0103_202611071651150128",
-   "title": "숭례문·여의도서 전국 노동자 대회...곳곳 교통통제",
+   "url": "http://www.inews24.com/view/2023705",
+   "title": "서울 도심 곳곳 집회…국힘 '특검법 규탄'·양대노총 '특구법 철회' [종...",
    "query": "집회 교통 통제"
   },
   {
@@ -1472,22 +1462,37 @@
  ],
  "strikes": [
   {
-   "id": "976dbccf976597dd",
+   "id": "46eedd3e52b4f23c",
    "mode": "rail",
    "operator": "공항철도",
    "regions": [
     "인천",
     "서울"
    ],
-   "status": "scheduled",
-   "quote": "공항철도 노동조합이 13일 하루 경고파업에 나서면서",
+   "status": "withdrawn",
+   "quote": "공항철도 13일 경고파업 철회",
    "start": "2026-11-13",
    "dateQuote": "13일",
-   "articleTitle": "공항철도 노조 13일 첫 파업 예고…일반열차 28.7% 감축",
-   "url": "https://www.cwn.kr/news/articleView.html?idxno=61681",
-   "publishedAt": "2026-11-12T23:24:00.000",
-   "sourceCount": 34,
-   "model": "gemini-3.1-flash-lite"
+   "articleTitle": "공항철도 13일 경고파업 철회… 노사 임금·단체협약 잠정합의",
+   "url": "https://www.kyeongin.com/article/1774698",
+   "publishedAt": "2026-11-13T06:24:00.000",
+   "sourceCount": 40,
+   "model": "gemini-3.5-flash-lite"
+  },
+  {
+   "id": "f2cf4d70de630bf2",
+   "mode": "subway",
+   "operator": "부산교통공사",
+   "regions": [
+    "부산"
+   ],
+   "status": "historical",
+   "quote": "부산교통공사와 자회사 노동조합이 4개월간의 교섭과 파업",
+   "articleTitle": "부산교통공사 원·하청 첫 단협…임금·인력 문제 풀리나",
+   "url": "http://www.newstown.co.kr/news/articleView.html?idxno=721775",
+   "publishedAt": "2026-11-12T20:52:00.000",
+   "sourceCount": 1,
+   "model": "gemini-3.5-flash-lite"
   },
   {
    "id": "3833e58742fe2f09",
@@ -1503,7 +1508,7 @@
    "articleTitle": "[이슈플러스] 김태승號 코레일, 통합 후 첫 총파업 위기…효율화·노사...",
    "url": "https://www.sentv.co.kr/article/view/sentv202611120130",
    "publishedAt": "2026-11-12T18:20:00.000",
-   "sourceCount": 13,
+   "sourceCount": 12,
    "model": "gemini-3.1-flash-lite"
   },
   {
@@ -1522,7 +1527,7 @@
    "articleTitle": "공항철도 첫 파업 나서나...13일 운행 축소 예고에 공항 이용객 비상",
    "url": "https://www.abcn.kr/news/articleView.html?idxno=94450",
    "publishedAt": "2026-11-12T16:28:00.000",
-   "sourceCount": 20,
+   "sourceCount": 18,
    "model": "gemini-3.5-flash-lite"
   },
   {
@@ -1554,7 +1559,7 @@
    "articleTitle": "철도노조, 내달 10일 무기한 총파업 예고…고속철 통합 후 첫 시험대",
    "url": "https://www.ppss.kr/news/articleView.html?idxno=320624",
    "publishedAt": "2026-11-12T12:40:00.000",
-   "sourceCount": 11,
+   "sourceCount": 8,
    "model": "gemini-3.5-flash-lite"
   },
   {
@@ -1589,38 +1594,6 @@
    "articleTitle": "석 달에 심리 한 번, 한덕수 구속은 20일 끝난다",
    "url": "https://newscham.net/130158/",
    "publishedAt": "2026-11-11T17:34:00.000",
-   "sourceCount": 1,
-   "model": "gemini-3.5-flash-lite"
-  },
-  {
-   "id": "43b5ff7b688a1ea9",
-   "mode": "rail",
-   "operator": "철도노조",
-   "regions": [
-    "전국"
-   ],
-   "status": "scheduled",
-   "quote": "철도노조 내달 총파업 예고",
-   "articleTitle": "철도노조 내달 총파업 예고…“현장 노동자 승진 불이익 개선하라”",
-   "url": "https://www.donga.com/news/Economy/article/all/20261111/135007367/1",
-   "publishedAt": "2026-11-11T16:26:00.000",
-   "sourceCount": 1,
-   "model": "gemini-3.5-flash-lite"
-  },
-  {
-   "id": "3a05913acbf55024",
-   "mode": "rail",
-   "operator": "철도노조",
-   "regions": [
-    "전국"
-   ],
-   "status": "scheduled",
-   "quote": "다음달 9일 총파업 돌입",
-   "start": "2026-12-09",
-   "dateQuote": "다음달 9일",
-   "articleTitle": "철도노조 \"다음달 9일 총파업 돌입\"",
-   "url": "https://www.jtv.co.kr/news/article.php?id=72063",
-   "publishedAt": "2026-11-11T15:50:00.000",
    "sourceCount": 1,
    "model": "gemini-3.5-flash-lite"
   },
@@ -1698,7 +1671,7 @@
    "articleTitle": "춘천 시내버스 노사, 파업 사과…안전운행·서비스 개선 공동 서약",
    "url": "https://www.shinailbo.co.kr/news/articleView.html?idxno=5080553",
    "publishedAt": "2026-11-06T14:48:00.000",
-   "sourceCount": 12,
+   "sourceCount": 11,
    "model": "gemini-3.5-flash-lite"
   }
  ],
@@ -7845,7 +7818,639 @@
   },
   {
    "assertion": "planned",
-   "checked_at": "2026-11-12T23:30:40.864136+09:00",
+   "checked_at": "2026-11-12T23:30:47.817062+09:00",
+   "conflict": false,
+   "demo": false,
+   "disruption_confirmed": false,
+   "event_id": "27ccd69e401e4131182a38f7",
+   "event_name": "파업 사건",
+   "evidence": [
+    {
+     "derivation": "explicit",
+     "effective_at": null,
+     "field_path": "/article_relevance",
+     "quote": "[서울=뉴스핌] 이건주 기자 = 12일 오후 공항철도 서울역에 쟁의행위(파업)에 대한 정상운행 안내문이 붙여있다.",
+     "reference_source": null,
+     "source_id": "56e6b2b07f1178a6062529a5",
+     "source_part": "body",
+     "source_revision": "82763076c7ad841436c8095d"
+    },
+    {
+     "derivation": "explicit",
+     "effective_at": null,
+     "field_path": "/transport_mode",
+     "quote": "[서울=뉴스핌] 이건주 기자 = 12일 오후 공항철도 서울역에 쟁의행위(파업)에 대한 정상운행 안내문이 붙여있다.",
+     "reference_source": null,
+     "source_id": "56e6b2b07f1178a6062529a5",
+     "source_part": "body",
+     "source_revision": "82763076c7ad841436c8095d"
+    },
+    {
+     "derivation": "explicit",
+     "effective_at": null,
+     "field_path": "/affected_regions",
+     "quote": "[서울=뉴스핌] 이건주 기자 = 12일 오후 공항철도 서울역에 쟁의행위(파업)에 대한 정상운행 안내문이 붙여있다.",
+     "reference_source": null,
+     "source_id": "56e6b2b07f1178a6062529a5",
+     "source_part": "body",
+     "source_revision": "82763076c7ad841436c8095d"
+    },
+    {
+     "derivation": "explicit",
+     "effective_at": null,
+     "field_path": "/affected_routes",
+     "quote": "[서울=뉴스핌] 이건주 기자 = 12일 오후 공항철도 서울역에 쟁의행위(파업)에 대한 정상운행 안내문이 붙여있다.",
+     "reference_source": null,
+     "source_id": "56e6b2b07f1178a6062529a5",
+     "source_part": "body",
+     "source_revision": "82763076c7ad841436c8095d"
+    },
+    {
+     "derivation": "explicit",
+     "effective_at": null,
+     "field_path": "/strike_status",
+     "quote": "[서울=뉴스핌] 이건주 기자 = 12일 오후 공항철도 서울역에 쟁의행위(파업)에 대한 정상운행 안내문이 붙여있다.",
+     "reference_source": null,
+     "source_id": "56e6b2b07f1178a6062529a5",
+     "source_part": "body",
+     "source_revision": "82763076c7ad841436c8095d"
+    },
+    {
+     "derivation": "explicit",
+     "effective_at": null,
+     "field_path": "/service_status",
+     "quote": "[서울=뉴스핌] 이건주 기자 = 12일 오후 공항철도 서울역에 쟁의행위(파업)에 대한 정상운행 안내문이 붙여있다.",
+     "reference_source": null,
+     "source_id": "56e6b2b07f1178a6062529a5",
+     "source_part": "body",
+     "source_revision": "82763076c7ad841436c8095d"
+    },
+    {
+     "derivation": "explicit",
+     "effective_at": null,
+     "field_path": "/normal_service_exceptions",
+     "quote": "[서울=뉴스핌] 이건주 기자 = 12일 오후 공항철도 서울역에 쟁의행위(파업)에 대한 정상운행 안내문이 붙여있다.",
+     "reference_source": null,
+     "source_id": "56e6b2b07f1178a6062529a5",
+     "source_part": "body",
+     "source_revision": "82763076c7ad841436c8095d"
+    },
+    {
+     "derivation": "explicit",
+     "effective_at": null,
+     "field_path": "/alternative_services",
+     "quote": "[서울=뉴스핌] 이건주 기자 = 12일 오후 공항철도 서울역에 쟁의행위(파업)에 대한 정상운행 안내문이 붙여있다.",
+     "reference_source": null,
+     "source_id": "56e6b2b07f1178a6062529a5",
+     "source_part": "body",
+     "source_revision": "82763076c7ad841436c8095d"
+    },
+    {
+     "derivation": "explicit",
+     "effective_at": null,
+     "field_path": "/start",
+     "quote": "[서울=뉴스핌] 이건주 기자 = 12일 오후 공항철도 서울역에 쟁의행위(파업)에 대한 정상운행 안내문이 붙여있다.",
+     "reference_source": null,
+     "source_id": "56e6b2b07f1178a6062529a5",
+     "source_part": "body",
+     "source_revision": "82763076c7ad841436c8095d"
+    },
+    {
+     "derivation": "explicit",
+     "effective_at": null,
+     "field_path": "/end",
+     "quote": "[서울=뉴스핌] 이건주 기자 = 12일 오후 공항철도 서울역에 쟁의행위(파업)에 대한 정상운행 안내문이 붙여있다.",
+     "reference_source": null,
+     "source_id": "56e6b2b07f1178a6062529a5",
+     "source_part": "body",
+     "source_revision": "82763076c7ad841436c8095d"
+    }
+   ],
+   "exceptions": [],
+   "id": "dd50466a08a2dce2c2cf72bd",
+   "modes": [
+    "rail"
+   ],
+   "period": {
+    "condition": null,
+    "end": {
+     "assertion": "unknown",
+     "basis": "unknown",
+     "date": null,
+     "open_ended": null,
+     "raw": null,
+     "time": null,
+     "timezone": "Asia/Seoul"
+    },
+    "precision": "PARTIAL",
+    "start": {
+     "assertion": "unknown",
+     "basis": "unknown",
+     "date": null,
+     "open_ended": null,
+     "raw": null,
+     "time": null,
+     "timezone": "Asia/Seoul"
+    }
+   },
+   "published_at": "2026-11-12T17:58:00+09:00",
+   "review_reasons": [
+    "UNSUPPORTED_OR_AMBIGUOUS_STATUS",
+    "DATE_UNCONFIRMED"
+   ],
+   "scope": [
+    {
+     "derivation": "article_explicit",
+     "direction": null,
+     "normalized_name": "서울역",
+     "raw": "서울역",
+     "reference_id": null,
+     "reference_source": null,
+     "region": "서울",
+     "section": null
+    }
+   ],
+   "service_status": [],
+   "source_url": "https://www.newspim.com/news/view/20261112001440",
+   "status": "UNKNOWN",
+   "status_effective_at": null,
+   "strike_status": "unknown",
+   "type": "STRIKE",
+   "updated_at": "2026-11-12T17:59:00+09:00",
+   "version": 1,
+   "body_verified": true
+  },
+  {
+   "assertion": "planned",
+   "checked_at": "2026-11-12T23:30:47.817062+09:00",
+   "conflict": false,
+   "demo": false,
+   "disruption_confirmed": false,
+   "event_id": "1f187b9ed3e873de11f84501",
+   "event_name": "파업 사건",
+   "evidence": [
+    {
+     "derivation": "explicit",
+     "effective_at": null,
+     "field_path": "/article_relevance",
+     "quote": "공항철도 노조는 교섭이 결렬될 경우 13일 하루 경고 파업을 예정대로 강행한다는 방침으로, 실제 돌입 시 2007년 개통 이래 첫 파업이 된다.",
+     "reference_source": null,
+     "source_id": "56e6b2b07f1178a6062529a5",
+     "source_part": "body",
+     "source_revision": "82763076c7ad841436c8095d"
+    },
+    {
+     "derivation": "explicit",
+     "effective_at": null,
+     "field_path": "/transport_mode",
+     "quote": "공항철도 노조는 교섭이 결렬될 경우 13일 하루 경고 파업을 예정대로 강행한다는 방침으로, 실제 돌입 시 2007년 개통 이래 첫 파업이 된다.",
+     "reference_source": null,
+     "source_id": "56e6b2b07f1178a6062529a5",
+     "source_part": "body",
+     "source_revision": "82763076c7ad841436c8095d"
+    },
+    {
+     "derivation": "explicit",
+     "effective_at": null,
+     "field_path": "/affected_regions",
+     "quote": "공항철도 노조는 교섭이 결렬될 경우 13일 하루 경고 파업을 예정대로 강행한다는 방침으로, 실제 돌입 시 2007년 개통 이래 첫 파업이 된다.",
+     "reference_source": null,
+     "source_id": "56e6b2b07f1178a6062529a5",
+     "source_part": "body",
+     "source_revision": "82763076c7ad841436c8095d"
+    },
+    {
+     "derivation": "explicit",
+     "effective_at": null,
+     "field_path": "/affected_routes",
+     "quote": "공항철도 노조는 교섭이 결렬될 경우 13일 하루 경고 파업을 예정대로 강행한다는 방침으로, 실제 돌입 시 2007년 개통 이래 첫 파업이 된다.",
+     "reference_source": null,
+     "source_id": "56e6b2b07f1178a6062529a5",
+     "source_part": "body",
+     "source_revision": "82763076c7ad841436c8095d"
+    },
+    {
+     "derivation": "explicit",
+     "effective_at": null,
+     "field_path": "/strike_status",
+     "quote": "공항철도 노조는 교섭이 결렬될 경우 13일 하루 경고 파업을 예정대로 강행한다는 방침으로, 실제 돌입 시 2007년 개통 이래 첫 파업이 된다.",
+     "reference_source": null,
+     "source_id": "56e6b2b07f1178a6062529a5",
+     "source_part": "body",
+     "source_revision": "82763076c7ad841436c8095d"
+    },
+    {
+     "derivation": "explicit",
+     "effective_at": null,
+     "field_path": "/service_status",
+     "quote": "공항철도 노조는 교섭이 결렬될 경우 13일 하루 경고 파업을 예정대로 강행한다는 방침으로, 실제 돌입 시 2007년 개통 이래 첫 파업이 된다.",
+     "reference_source": null,
+     "source_id": "56e6b2b07f1178a6062529a5",
+     "source_part": "body",
+     "source_revision": "82763076c7ad841436c8095d"
+    },
+    {
+     "derivation": "explicit",
+     "effective_at": null,
+     "field_path": "/normal_service_exceptions",
+     "quote": "공항철도 노조는 교섭이 결렬될 경우 13일 하루 경고 파업을 예정대로 강행한다는 방침으로, 실제 돌입 시 2007년 개통 이래 첫 파업이 된다.",
+     "reference_source": null,
+     "source_id": "56e6b2b07f1178a6062529a5",
+     "source_part": "body",
+     "source_revision": "82763076c7ad841436c8095d"
+    },
+    {
+     "derivation": "explicit",
+     "effective_at": null,
+     "field_path": "/alternative_services",
+     "quote": "공항철도 노조는 교섭이 결렬될 경우 13일 하루 경고 파업을 예정대로 강행한다는 방침으로, 실제 돌입 시 2007년 개통 이래 첫 파업이 된다.",
+     "reference_source": null,
+     "source_id": "56e6b2b07f1178a6062529a5",
+     "source_part": "body",
+     "source_revision": "82763076c7ad841436c8095d"
+    },
+    {
+     "derivation": "explicit",
+     "effective_at": null,
+     "field_path": "/start",
+     "quote": "공항철도 노조는 교섭이 결렬될 경우 13일 하루 경고 파업을 예정대로 강행한다는 방침으로, 실제 돌입 시 2007년 개통 이래 첫 파업이 된다.",
+     "reference_source": null,
+     "source_id": "56e6b2b07f1178a6062529a5",
+     "source_part": "body",
+     "source_revision": "82763076c7ad841436c8095d"
+    },
+    {
+     "derivation": "explicit",
+     "effective_at": null,
+     "field_path": "/end",
+     "quote": "공항철도 노조는 교섭이 결렬될 경우 13일 하루 경고 파업을 예정대로 강행한다는 방침으로, 실제 돌입 시 2007년 개통 이래 첫 파업이 된다.",
+     "reference_source": null,
+     "source_id": "56e6b2b07f1178a6062529a5",
+     "source_part": "body",
+     "source_revision": "82763076c7ad841436c8095d"
+    }
+   ],
+   "exceptions": [],
+   "id": "420ab3aa830ac63e6c62e71b",
+   "modes": [
+    "rail"
+   ],
+   "period": {
+    "condition": null,
+    "end": {
+     "assertion": "unknown",
+     "basis": "unknown",
+     "date": null,
+     "open_ended": null,
+     "raw": null,
+     "time": null,
+     "timezone": "Asia/Seoul"
+    },
+    "precision": "PARTIAL",
+    "start": {
+     "assertion": "unknown",
+     "basis": "unknown",
+     "date": null,
+     "open_ended": null,
+     "raw": null,
+     "time": null,
+     "timezone": "Asia/Seoul"
+    }
+   },
+   "published_at": "2026-11-12T17:58:00+09:00",
+   "review_reasons": [
+    "DATE_UNCONFIRMED"
+   ],
+   "scope": [],
+   "service_status": [],
+   "source_url": "https://www.newspim.com/news/view/20261112001440",
+   "status": "CONDITIONAL",
+   "status_effective_at": null,
+   "strike_status": "conditional",
+   "type": "STRIKE",
+   "updated_at": "2026-11-12T17:59:00+09:00",
+   "version": 1,
+   "body_verified": true
+  },
+  {
+   "assertion": "planned",
+   "checked_at": "2026-11-12T23:30:59.994744+09:00",
+   "conflict": false,
+   "demo": false,
+   "disruption_confirmed": false,
+   "event_id": "cc3d8ec55da73314e01551aa",
+   "event_name": "파업 사건",
+   "evidence": [
+    {
+     "derivation": "explicit",
+     "effective_at": null,
+     "field_path": "/article_relevance",
+     "quote": "[서울=뉴스핌] 이건주 기자 = 12일 오후 공항철도 서울역에 쟁의행위(파업)에 대한 정상운행 안내문이 붙여있다.",
+     "reference_source": null,
+     "source_id": "64ef9ee5396363cfd76bf0b9",
+     "source_part": "body",
+     "source_revision": "82763076c7ad841436c8095d"
+    },
+    {
+     "derivation": "explicit",
+     "effective_at": null,
+     "field_path": "/transport_mode",
+     "quote": "[서울=뉴스핌] 이건주 기자 = 12일 오후 공항철도 서울역에 쟁의행위(파업)에 대한 정상운행 안내문이 붙여있다.",
+     "reference_source": null,
+     "source_id": "64ef9ee5396363cfd76bf0b9",
+     "source_part": "body",
+     "source_revision": "82763076c7ad841436c8095d"
+    },
+    {
+     "derivation": "explicit",
+     "effective_at": null,
+     "field_path": "/affected_regions",
+     "quote": "[서울=뉴스핌] 이건주 기자 = 12일 오후 공항철도 서울역에 쟁의행위(파업)에 대한 정상운행 안내문이 붙여있다.",
+     "reference_source": null,
+     "source_id": "64ef9ee5396363cfd76bf0b9",
+     "source_part": "body",
+     "source_revision": "82763076c7ad841436c8095d"
+    },
+    {
+     "derivation": "explicit",
+     "effective_at": null,
+     "field_path": "/affected_routes",
+     "quote": "[서울=뉴스핌] 이건주 기자 = 12일 오후 공항철도 서울역에 쟁의행위(파업)에 대한 정상운행 안내문이 붙여있다.",
+     "reference_source": null,
+     "source_id": "64ef9ee5396363cfd76bf0b9",
+     "source_part": "body",
+     "source_revision": "82763076c7ad841436c8095d"
+    },
+    {
+     "derivation": "explicit",
+     "effective_at": null,
+     "field_path": "/strike_status",
+     "quote": "[서울=뉴스핌] 이건주 기자 = 12일 오후 공항철도 서울역에 쟁의행위(파업)에 대한 정상운행 안내문이 붙여있다.",
+     "reference_source": null,
+     "source_id": "64ef9ee5396363cfd76bf0b9",
+     "source_part": "body",
+     "source_revision": "82763076c7ad841436c8095d"
+    },
+    {
+     "derivation": "explicit",
+     "effective_at": null,
+     "field_path": "/service_status",
+     "quote": "[서울=뉴스핌] 이건주 기자 = 12일 오후 공항철도 서울역에 쟁의행위(파업)에 대한 정상운행 안내문이 붙여있다.",
+     "reference_source": null,
+     "source_id": "64ef9ee5396363cfd76bf0b9",
+     "source_part": "body",
+     "source_revision": "82763076c7ad841436c8095d"
+    },
+    {
+     "derivation": "explicit",
+     "effective_at": null,
+     "field_path": "/normal_service_exceptions",
+     "quote": "[서울=뉴스핌] 이건주 기자 = 12일 오후 공항철도 서울역에 쟁의행위(파업)에 대한 정상운행 안내문이 붙여있다.",
+     "reference_source": null,
+     "source_id": "64ef9ee5396363cfd76bf0b9",
+     "source_part": "body",
+     "source_revision": "82763076c7ad841436c8095d"
+    },
+    {
+     "derivation": "explicit",
+     "effective_at": null,
+     "field_path": "/alternative_services",
+     "quote": "[서울=뉴스핌] 이건주 기자 = 12일 오후 공항철도 서울역에 쟁의행위(파업)에 대한 정상운행 안내문이 붙여있다.",
+     "reference_source": null,
+     "source_id": "64ef9ee5396363cfd76bf0b9",
+     "source_part": "body",
+     "source_revision": "82763076c7ad841436c8095d"
+    },
+    {
+     "derivation": "explicit",
+     "effective_at": null,
+     "field_path": "/start",
+     "quote": "[서울=뉴스핌] 이건주 기자 = 12일 오후 공항철도 서울역에 쟁의행위(파업)에 대한 정상운행 안내문이 붙여있다.",
+     "reference_source": null,
+     "source_id": "64ef9ee5396363cfd76bf0b9",
+     "source_part": "body",
+     "source_revision": "82763076c7ad841436c8095d"
+    },
+    {
+     "derivation": "explicit",
+     "effective_at": null,
+     "field_path": "/end",
+     "quote": "[서울=뉴스핌] 이건주 기자 = 12일 오후 공항철도 서울역에 쟁의행위(파업)에 대한 정상운행 안내문이 붙여있다.",
+     "reference_source": null,
+     "source_id": "64ef9ee5396363cfd76bf0b9",
+     "source_part": "body",
+     "source_revision": "82763076c7ad841436c8095d"
+    }
+   ],
+   "exceptions": [],
+   "id": "c9a901fc30d453eb8e30c37c",
+   "modes": [
+    "rail"
+   ],
+   "period": {
+    "condition": null,
+    "end": {
+     "assertion": "unknown",
+     "basis": "unknown",
+     "date": null,
+     "open_ended": null,
+     "raw": null,
+     "time": null,
+     "timezone": "Asia/Seoul"
+    },
+    "precision": "PARTIAL",
+    "start": {
+     "assertion": "unknown",
+     "basis": "unknown",
+     "date": null,
+     "open_ended": null,
+     "raw": null,
+     "time": null,
+     "timezone": "Asia/Seoul"
+    }
+   },
+   "published_at": "2026-11-12T17:58:00+09:00",
+   "review_reasons": [
+    "UNSUPPORTED_OR_AMBIGUOUS_STATUS",
+    "DATE_UNCONFIRMED"
+   ],
+   "scope": [
+    {
+     "derivation": "article_explicit",
+     "direction": null,
+     "normalized_name": "서울역",
+     "raw": "서울역",
+     "reference_id": null,
+     "reference_source": null,
+     "region": "서울",
+     "section": null
+    }
+   ],
+   "service_status": [],
+   "source_url": "https://www.newspim.com/news/view/20261112001439",
+   "status": "UNKNOWN",
+   "status_effective_at": null,
+   "strike_status": "unknown",
+   "type": "STRIKE",
+   "updated_at": "2026-11-12T17:58:00+09:00",
+   "version": 1,
+   "body_verified": true
+  },
+  {
+   "assertion": "planned",
+   "checked_at": "2026-11-12T23:30:59.994744+09:00",
+   "conflict": false,
+   "demo": false,
+   "disruption_confirmed": false,
+   "event_id": "e734a5e8ff0dbcc936219340",
+   "event_name": "파업 사건",
+   "evidence": [
+    {
+     "derivation": "explicit",
+     "effective_at": null,
+     "field_path": "/article_relevance",
+     "quote": "공항철도 노조는 교섭이 결렬될 경우 13일 하루 경고 파업을 예정대로 강행한다는 방침으로, 실제 돌입 시 2007년 개통 이래 첫 파업이 된다.",
+     "reference_source": null,
+     "source_id": "64ef9ee5396363cfd76bf0b9",
+     "source_part": "body",
+     "source_revision": "82763076c7ad841436c8095d"
+    },
+    {
+     "derivation": "explicit",
+     "effective_at": null,
+     "field_path": "/transport_mode",
+     "quote": "공항철도 노조는 교섭이 결렬될 경우 13일 하루 경고 파업을 예정대로 강행한다는 방침으로, 실제 돌입 시 2007년 개통 이래 첫 파업이 된다.",
+     "reference_source": null,
+     "source_id": "64ef9ee5396363cfd76bf0b9",
+     "source_part": "body",
+     "source_revision": "82763076c7ad841436c8095d"
+    },
+    {
+     "derivation": "explicit",
+     "effective_at": null,
+     "field_path": "/affected_regions",
+     "quote": "공항철도 노조는 교섭이 결렬될 경우 13일 하루 경고 파업을 예정대로 강행한다는 방침으로, 실제 돌입 시 2007년 개통 이래 첫 파업이 된다.",
+     "reference_source": null,
+     "source_id": "64ef9ee5396363cfd76bf0b9",
+     "source_part": "body",
+     "source_revision": "82763076c7ad841436c8095d"
+    },
+    {
+     "derivation": "explicit",
+     "effective_at": null,
+     "field_path": "/affected_routes",
+     "quote": "공항철도 노조는 교섭이 결렬될 경우 13일 하루 경고 파업을 예정대로 강행한다는 방침으로, 실제 돌입 시 2007년 개통 이래 첫 파업이 된다.",
+     "reference_source": null,
+     "source_id": "64ef9ee5396363cfd76bf0b9",
+     "source_part": "body",
+     "source_revision": "82763076c7ad841436c8095d"
+    },
+    {
+     "derivation": "explicit",
+     "effective_at": null,
+     "field_path": "/strike_status",
+     "quote": "공항철도 노조는 교섭이 결렬될 경우 13일 하루 경고 파업을 예정대로 강행한다는 방침으로, 실제 돌입 시 2007년 개통 이래 첫 파업이 된다.",
+     "reference_source": null,
+     "source_id": "64ef9ee5396363cfd76bf0b9",
+     "source_part": "body",
+     "source_revision": "82763076c7ad841436c8095d"
+    },
+    {
+     "derivation": "explicit",
+     "effective_at": null,
+     "field_path": "/service_status",
+     "quote": "공항철도 노조는 교섭이 결렬될 경우 13일 하루 경고 파업을 예정대로 강행한다는 방침으로, 실제 돌입 시 2007년 개통 이래 첫 파업이 된다.",
+     "reference_source": null,
+     "source_id": "64ef9ee5396363cfd76bf0b9",
+     "source_part": "body",
+     "source_revision": "82763076c7ad841436c8095d"
+    },
+    {
+     "derivation": "explicit",
+     "effective_at": null,
+     "field_path": "/normal_service_exceptions",
+     "quote": "공항철도 노조는 교섭이 결렬될 경우 13일 하루 경고 파업을 예정대로 강행한다는 방침으로, 실제 돌입 시 2007년 개통 이래 첫 파업이 된다.",
+     "reference_source": null,
+     "source_id": "64ef9ee5396363cfd76bf0b9",
+     "source_part": "body",
+     "source_revision": "82763076c7ad841436c8095d"
+    },
+    {
+     "derivation": "explicit",
+     "effective_at": null,
+     "field_path": "/alternative_services",
+     "quote": "공항철도 노조는 교섭이 결렬될 경우 13일 하루 경고 파업을 예정대로 강행한다는 방침으로, 실제 돌입 시 2007년 개통 이래 첫 파업이 된다.",
+     "reference_source": null,
+     "source_id": "64ef9ee5396363cfd76bf0b9",
+     "source_part": "body",
+     "source_revision": "82763076c7ad841436c8095d"
+    },
+    {
+     "derivation": "explicit",
+     "effective_at": null,
+     "field_path": "/start",
+     "quote": "공항철도 노조는 교섭이 결렬될 경우 13일 하루 경고 파업을 예정대로 강행한다는 방침으로, 실제 돌입 시 2007년 개통 이래 첫 파업이 된다.",
+     "reference_source": null,
+     "source_id": "64ef9ee5396363cfd76bf0b9",
+     "source_part": "body",
+     "source_revision": "82763076c7ad841436c8095d"
+    },
+    {
+     "derivation": "explicit",
+     "effective_at": null,
+     "field_path": "/end",
+     "quote": "공항철도 노조는 교섭이 결렬될 경우 13일 하루 경고 파업을 예정대로 강행한다는 방침으로, 실제 돌입 시 2007년 개통 이래 첫 파업이 된다.",
+     "reference_source": null,
+     "source_id": "64ef9ee5396363cfd76bf0b9",
+     "source_part": "body",
+     "source_revision": "82763076c7ad841436c8095d"
+    }
+   ],
+   "exceptions": [],
+   "id": "f71ad53a3408a9a433f8b1ce",
+   "modes": [
+    "rail"
+   ],
+   "period": {
+    "condition": null,
+    "end": {
+     "assertion": "unknown",
+     "basis": "unknown",
+     "date": null,
+     "open_ended": null,
+     "raw": null,
+     "time": null,
+     "timezone": "Asia/Seoul"
+    },
+    "precision": "PARTIAL",
+    "start": {
+     "assertion": "unknown",
+     "basis": "unknown",
+     "date": null,
+     "open_ended": null,
+     "raw": null,
+     "time": null,
+     "timezone": "Asia/Seoul"
+    }
+   },
+   "published_at": "2026-11-12T17:58:00+09:00",
+   "review_reasons": [
+    "DATE_UNCONFIRMED"
+   ],
+   "scope": [],
+   "service_status": [],
+   "source_url": "https://www.newspim.com/news/view/20261112001439",
+   "status": "CONDITIONAL",
+   "status_effective_at": null,
+   "strike_status": "conditional",
+   "type": "STRIKE",
+   "updated_at": "2026-11-12T17:58:00+09:00",
+   "version": 1,
+   "body_verified": true
+  },
+  {
+   "assertion": "planned",
+   "checked_at": "2026-11-13T06:43:19.797482+09:00",
    "conflict": false,
    "demo": false,
    "disruption_confirmed": false,
@@ -8813,7 +9418,7 @@
   },
   {
    "assertion": "planned",
-   "checked_at": "2026-11-12T23:30:40.864136+09:00",
+   "checked_at": "2026-11-13T06:43:19.797482+09:00",
    "conflict": false,
    "demo": false,
    "disruption_confirmed": false,
@@ -8977,323 +9582,7 @@
   },
   {
    "assertion": "planned",
-   "checked_at": "2026-11-12T23:30:47.817062+09:00",
-   "conflict": false,
-   "demo": false,
-   "disruption_confirmed": false,
-   "event_id": "27ccd69e401e4131182a38f7",
-   "event_name": "파업 사건",
-   "evidence": [
-    {
-     "derivation": "explicit",
-     "effective_at": null,
-     "field_path": "/article_relevance",
-     "quote": "[서울=뉴스핌] 이건주 기자 = 12일 오후 공항철도 서울역에 쟁의행위(파업)에 대한 정상운행 안내문이 붙여있다.",
-     "reference_source": null,
-     "source_id": "56e6b2b07f1178a6062529a5",
-     "source_part": "body",
-     "source_revision": "82763076c7ad841436c8095d"
-    },
-    {
-     "derivation": "explicit",
-     "effective_at": null,
-     "field_path": "/transport_mode",
-     "quote": "[서울=뉴스핌] 이건주 기자 = 12일 오후 공항철도 서울역에 쟁의행위(파업)에 대한 정상운행 안내문이 붙여있다.",
-     "reference_source": null,
-     "source_id": "56e6b2b07f1178a6062529a5",
-     "source_part": "body",
-     "source_revision": "82763076c7ad841436c8095d"
-    },
-    {
-     "derivation": "explicit",
-     "effective_at": null,
-     "field_path": "/affected_regions",
-     "quote": "[서울=뉴스핌] 이건주 기자 = 12일 오후 공항철도 서울역에 쟁의행위(파업)에 대한 정상운행 안내문이 붙여있다.",
-     "reference_source": null,
-     "source_id": "56e6b2b07f1178a6062529a5",
-     "source_part": "body",
-     "source_revision": "82763076c7ad841436c8095d"
-    },
-    {
-     "derivation": "explicit",
-     "effective_at": null,
-     "field_path": "/affected_routes",
-     "quote": "[서울=뉴스핌] 이건주 기자 = 12일 오후 공항철도 서울역에 쟁의행위(파업)에 대한 정상운행 안내문이 붙여있다.",
-     "reference_source": null,
-     "source_id": "56e6b2b07f1178a6062529a5",
-     "source_part": "body",
-     "source_revision": "82763076c7ad841436c8095d"
-    },
-    {
-     "derivation": "explicit",
-     "effective_at": null,
-     "field_path": "/strike_status",
-     "quote": "[서울=뉴스핌] 이건주 기자 = 12일 오후 공항철도 서울역에 쟁의행위(파업)에 대한 정상운행 안내문이 붙여있다.",
-     "reference_source": null,
-     "source_id": "56e6b2b07f1178a6062529a5",
-     "source_part": "body",
-     "source_revision": "82763076c7ad841436c8095d"
-    },
-    {
-     "derivation": "explicit",
-     "effective_at": null,
-     "field_path": "/service_status",
-     "quote": "[서울=뉴스핌] 이건주 기자 = 12일 오후 공항철도 서울역에 쟁의행위(파업)에 대한 정상운행 안내문이 붙여있다.",
-     "reference_source": null,
-     "source_id": "56e6b2b07f1178a6062529a5",
-     "source_part": "body",
-     "source_revision": "82763076c7ad841436c8095d"
-    },
-    {
-     "derivation": "explicit",
-     "effective_at": null,
-     "field_path": "/normal_service_exceptions",
-     "quote": "[서울=뉴스핌] 이건주 기자 = 12일 오후 공항철도 서울역에 쟁의행위(파업)에 대한 정상운행 안내문이 붙여있다.",
-     "reference_source": null,
-     "source_id": "56e6b2b07f1178a6062529a5",
-     "source_part": "body",
-     "source_revision": "82763076c7ad841436c8095d"
-    },
-    {
-     "derivation": "explicit",
-     "effective_at": null,
-     "field_path": "/alternative_services",
-     "quote": "[서울=뉴스핌] 이건주 기자 = 12일 오후 공항철도 서울역에 쟁의행위(파업)에 대한 정상운행 안내문이 붙여있다.",
-     "reference_source": null,
-     "source_id": "56e6b2b07f1178a6062529a5",
-     "source_part": "body",
-     "source_revision": "82763076c7ad841436c8095d"
-    },
-    {
-     "derivation": "explicit",
-     "effective_at": null,
-     "field_path": "/start",
-     "quote": "[서울=뉴스핌] 이건주 기자 = 12일 오후 공항철도 서울역에 쟁의행위(파업)에 대한 정상운행 안내문이 붙여있다.",
-     "reference_source": null,
-     "source_id": "56e6b2b07f1178a6062529a5",
-     "source_part": "body",
-     "source_revision": "82763076c7ad841436c8095d"
-    },
-    {
-     "derivation": "explicit",
-     "effective_at": null,
-     "field_path": "/end",
-     "quote": "[서울=뉴스핌] 이건주 기자 = 12일 오후 공항철도 서울역에 쟁의행위(파업)에 대한 정상운행 안내문이 붙여있다.",
-     "reference_source": null,
-     "source_id": "56e6b2b07f1178a6062529a5",
-     "source_part": "body",
-     "source_revision": "82763076c7ad841436c8095d"
-    }
-   ],
-   "exceptions": [],
-   "id": "dd50466a08a2dce2c2cf72bd",
-   "modes": [
-    "rail"
-   ],
-   "period": {
-    "condition": null,
-    "end": {
-     "assertion": "unknown",
-     "basis": "unknown",
-     "date": null,
-     "open_ended": null,
-     "raw": null,
-     "time": null,
-     "timezone": "Asia/Seoul"
-    },
-    "precision": "PARTIAL",
-    "start": {
-     "assertion": "unknown",
-     "basis": "unknown",
-     "date": null,
-     "open_ended": null,
-     "raw": null,
-     "time": null,
-     "timezone": "Asia/Seoul"
-    }
-   },
-   "published_at": "2026-11-12T17:58:00+09:00",
-   "review_reasons": [
-    "UNSUPPORTED_OR_AMBIGUOUS_STATUS",
-    "DATE_UNCONFIRMED"
-   ],
-   "scope": [
-    {
-     "derivation": "article_explicit",
-     "direction": null,
-     "normalized_name": "서울역",
-     "raw": "서울역",
-     "reference_id": null,
-     "reference_source": null,
-     "region": "서울",
-     "section": null
-    }
-   ],
-   "service_status": [],
-   "source_url": "https://www.newspim.com/news/view/20261112001440",
-   "status": "UNKNOWN",
-   "status_effective_at": null,
-   "strike_status": "unknown",
-   "type": "STRIKE",
-   "updated_at": "2026-11-12T17:59:00+09:00",
-   "version": 1,
-   "body_verified": true
-  },
-  {
-   "assertion": "planned",
-   "checked_at": "2026-11-12T23:30:47.817062+09:00",
-   "conflict": false,
-   "demo": false,
-   "disruption_confirmed": false,
-   "event_id": "1f187b9ed3e873de11f84501",
-   "event_name": "파업 사건",
-   "evidence": [
-    {
-     "derivation": "explicit",
-     "effective_at": null,
-     "field_path": "/article_relevance",
-     "quote": "공항철도 노조는 교섭이 결렬될 경우 13일 하루 경고 파업을 예정대로 강행한다는 방침으로, 실제 돌입 시 2007년 개통 이래 첫 파업이 된다.",
-     "reference_source": null,
-     "source_id": "56e6b2b07f1178a6062529a5",
-     "source_part": "body",
-     "source_revision": "82763076c7ad841436c8095d"
-    },
-    {
-     "derivation": "explicit",
-     "effective_at": null,
-     "field_path": "/transport_mode",
-     "quote": "공항철도 노조는 교섭이 결렬될 경우 13일 하루 경고 파업을 예정대로 강행한다는 방침으로, 실제 돌입 시 2007년 개통 이래 첫 파업이 된다.",
-     "reference_source": null,
-     "source_id": "56e6b2b07f1178a6062529a5",
-     "source_part": "body",
-     "source_revision": "82763076c7ad841436c8095d"
-    },
-    {
-     "derivation": "explicit",
-     "effective_at": null,
-     "field_path": "/affected_regions",
-     "quote": "공항철도 노조는 교섭이 결렬될 경우 13일 하루 경고 파업을 예정대로 강행한다는 방침으로, 실제 돌입 시 2007년 개통 이래 첫 파업이 된다.",
-     "reference_source": null,
-     "source_id": "56e6b2b07f1178a6062529a5",
-     "source_part": "body",
-     "source_revision": "82763076c7ad841436c8095d"
-    },
-    {
-     "derivation": "explicit",
-     "effective_at": null,
-     "field_path": "/affected_routes",
-     "quote": "공항철도 노조는 교섭이 결렬될 경우 13일 하루 경고 파업을 예정대로 강행한다는 방침으로, 실제 돌입 시 2007년 개통 이래 첫 파업이 된다.",
-     "reference_source": null,
-     "source_id": "56e6b2b07f1178a6062529a5",
-     "source_part": "body",
-     "source_revision": "82763076c7ad841436c8095d"
-    },
-    {
-     "derivation": "explicit",
-     "effective_at": null,
-     "field_path": "/strike_status",
-     "quote": "공항철도 노조는 교섭이 결렬될 경우 13일 하루 경고 파업을 예정대로 강행한다는 방침으로, 실제 돌입 시 2007년 개통 이래 첫 파업이 된다.",
-     "reference_source": null,
-     "source_id": "56e6b2b07f1178a6062529a5",
-     "source_part": "body",
-     "source_revision": "82763076c7ad841436c8095d"
-    },
-    {
-     "derivation": "explicit",
-     "effective_at": null,
-     "field_path": "/service_status",
-     "quote": "공항철도 노조는 교섭이 결렬될 경우 13일 하루 경고 파업을 예정대로 강행한다는 방침으로, 실제 돌입 시 2007년 개통 이래 첫 파업이 된다.",
-     "reference_source": null,
-     "source_id": "56e6b2b07f1178a6062529a5",
-     "source_part": "body",
-     "source_revision": "82763076c7ad841436c8095d"
-    },
-    {
-     "derivation": "explicit",
-     "effective_at": null,
-     "field_path": "/normal_service_exceptions",
-     "quote": "공항철도 노조는 교섭이 결렬될 경우 13일 하루 경고 파업을 예정대로 강행한다는 방침으로, 실제 돌입 시 2007년 개통 이래 첫 파업이 된다.",
-     "reference_source": null,
-     "source_id": "56e6b2b07f1178a6062529a5",
-     "source_part": "body",
-     "source_revision": "82763076c7ad841436c8095d"
-    },
-    {
-     "derivation": "explicit",
-     "effective_at": null,
-     "field_path": "/alternative_services",
-     "quote": "공항철도 노조는 교섭이 결렬될 경우 13일 하루 경고 파업을 예정대로 강행한다는 방침으로, 실제 돌입 시 2007년 개통 이래 첫 파업이 된다.",
-     "reference_source": null,
-     "source_id": "56e6b2b07f1178a6062529a5",
-     "source_part": "body",
-     "source_revision": "82763076c7ad841436c8095d"
-    },
-    {
-     "derivation": "explicit",
-     "effective_at": null,
-     "field_path": "/start",
-     "quote": "공항철도 노조는 교섭이 결렬될 경우 13일 하루 경고 파업을 예정대로 강행한다는 방침으로, 실제 돌입 시 2007년 개통 이래 첫 파업이 된다.",
-     "reference_source": null,
-     "source_id": "56e6b2b07f1178a6062529a5",
-     "source_part": "body",
-     "source_revision": "82763076c7ad841436c8095d"
-    },
-    {
-     "derivation": "explicit",
-     "effective_at": null,
-     "field_path": "/end",
-     "quote": "공항철도 노조는 교섭이 결렬될 경우 13일 하루 경고 파업을 예정대로 강행한다는 방침으로, 실제 돌입 시 2007년 개통 이래 첫 파업이 된다.",
-     "reference_source": null,
-     "source_id": "56e6b2b07f1178a6062529a5",
-     "source_part": "body",
-     "source_revision": "82763076c7ad841436c8095d"
-    }
-   ],
-   "exceptions": [],
-   "id": "420ab3aa830ac63e6c62e71b",
-   "modes": [
-    "rail"
-   ],
-   "period": {
-    "condition": null,
-    "end": {
-     "assertion": "unknown",
-     "basis": "unknown",
-     "date": null,
-     "open_ended": null,
-     "raw": null,
-     "time": null,
-     "timezone": "Asia/Seoul"
-    },
-    "precision": "PARTIAL",
-    "start": {
-     "assertion": "unknown",
-     "basis": "unknown",
-     "date": null,
-     "open_ended": null,
-     "raw": null,
-     "time": null,
-     "timezone": "Asia/Seoul"
-    }
-   },
-   "published_at": "2026-11-12T17:58:00+09:00",
-   "review_reasons": [
-    "DATE_UNCONFIRMED"
-   ],
-   "scope": [],
-   "service_status": [],
-   "source_url": "https://www.newspim.com/news/view/20261112001440",
-   "status": "CONDITIONAL",
-   "status_effective_at": null,
-   "strike_status": "conditional",
-   "type": "STRIKE",
-   "updated_at": "2026-11-12T17:59:00+09:00",
-   "version": 1,
-   "body_verified": true
-  },
-  {
-   "assertion": "planned",
-   "checked_at": "2026-11-12T23:30:53.969052+09:00",
+   "checked_at": "2026-11-13T06:43:34.292992+09:00",
    "conflict": false,
    "demo": false,
    "event_id": "fbb1148ad9af271f6d637c55",
@@ -9375,7 +9664,7 @@
   },
   {
    "assertion": "planned",
-   "checked_at": "2026-11-12T23:30:53.969052+09:00",
+   "checked_at": "2026-11-13T06:43:34.292992+09:00",
    "conflict": false,
    "demo": false,
    "event_id": "ab5c522e7506f6ba5f87db6e",
@@ -9459,7 +9748,7 @@
   },
   {
    "assertion": "planned",
-   "checked_at": "2026-11-12T23:30:53.969052+09:00",
+   "checked_at": "2026-11-13T06:43:34.292992+09:00",
    "conflict": false,
    "demo": false,
    "event_id": "ab5c522e7506f6ba5f87db6e",
@@ -9541,7 +9830,7 @@
   },
   {
    "assertion": "planned",
-   "checked_at": "2026-11-12T23:30:53.969052+09:00",
+   "checked_at": "2026-11-13T06:43:34.292992+09:00",
    "conflict": false,
    "demo": false,
    "event_id": "009e76e34af26498184a921b",
@@ -9614,7 +9903,7 @@
   },
   {
    "assertion": "planned",
-   "checked_at": "2026-11-12T23:30:53.969052+09:00",
+   "checked_at": "2026-11-13T06:43:34.292992+09:00",
    "conflict": false,
    "demo": false,
    "event_id": "ca00efde526c080151323364",
@@ -9696,7 +9985,7 @@
   },
   {
    "assertion": "planned",
-   "checked_at": "2026-11-12T23:30:58.499008+09:00",
+   "checked_at": "2026-11-13T06:43:38.440602+09:00",
    "conflict": false,
    "demo": false,
    "disruption_confirmed": false,
@@ -9860,7 +10149,7 @@
   },
   {
    "assertion": "planned",
-   "checked_at": "2026-11-12T23:30:58.499008+09:00",
+   "checked_at": "2026-11-13T06:43:38.440602+09:00",
    "conflict": false,
    "demo": false,
    "disruption_confirmed": false,
@@ -10013,116 +10302,116 @@
   },
   {
    "assertion": "planned",
-   "checked_at": "2026-11-12T23:30:59.994744+09:00",
+   "checked_at": "2026-11-13T06:43:41.051804+09:00",
    "conflict": false,
    "demo": false,
    "disruption_confirmed": false,
-   "event_id": "cc3d8ec55da73314e01551aa",
-   "event_name": "파업 사건",
+   "event_id": "c79fefede1e6214f37303b59",
+   "event_name": "공공운수노조",
    "evidence": [
     {
      "derivation": "explicit",
      "effective_at": null,
      "field_path": "/article_relevance",
-     "quote": "[서울=뉴스핌] 이건주 기자 = 12일 오후 공항철도 서울역에 쟁의행위(파업)에 대한 정상운행 안내문이 붙여있다.",
+     "quote": "앞서 민주노총 공공운수노조 공항철도지부는 지난 7월부터 10차례 교섭했지만 임금 인상과 인력 충원 등에 합의하지 못해 13일 하루 경고 파업에 들어간다고 예고 했었다.",
      "reference_source": null,
-     "source_id": "64ef9ee5396363cfd76bf0b9",
+     "source_id": "0cf254dd4f2b3d8a6195a6fd",
      "source_part": "body",
-     "source_revision": "82763076c7ad841436c8095d"
+     "source_revision": "5c9941a38f000f77ad8b8511"
     },
     {
      "derivation": "explicit",
      "effective_at": null,
      "field_path": "/transport_mode",
-     "quote": "[서울=뉴스핌] 이건주 기자 = 12일 오후 공항철도 서울역에 쟁의행위(파업)에 대한 정상운행 안내문이 붙여있다.",
+     "quote": "앞서 민주노총 공공운수노조 공항철도지부는 지난 7월부터 10차례 교섭했지만 임금 인상과 인력 충원 등에 합의하지 못해 13일 하루 경고 파업에 들어간다고 예고 했었다.",
      "reference_source": null,
-     "source_id": "64ef9ee5396363cfd76bf0b9",
+     "source_id": "0cf254dd4f2b3d8a6195a6fd",
      "source_part": "body",
-     "source_revision": "82763076c7ad841436c8095d"
+     "source_revision": "5c9941a38f000f77ad8b8511"
     },
     {
      "derivation": "explicit",
      "effective_at": null,
      "field_path": "/affected_regions",
-     "quote": "[서울=뉴스핌] 이건주 기자 = 12일 오후 공항철도 서울역에 쟁의행위(파업)에 대한 정상운행 안내문이 붙여있다.",
+     "quote": "앞서 민주노총 공공운수노조 공항철도지부는 지난 7월부터 10차례 교섭했지만 임금 인상과 인력 충원 등에 합의하지 못해 13일 하루 경고 파업에 들어간다고 예고 했었다.",
      "reference_source": null,
-     "source_id": "64ef9ee5396363cfd76bf0b9",
+     "source_id": "0cf254dd4f2b3d8a6195a6fd",
      "source_part": "body",
-     "source_revision": "82763076c7ad841436c8095d"
+     "source_revision": "5c9941a38f000f77ad8b8511"
     },
     {
      "derivation": "explicit",
      "effective_at": null,
      "field_path": "/affected_routes",
-     "quote": "[서울=뉴스핌] 이건주 기자 = 12일 오후 공항철도 서울역에 쟁의행위(파업)에 대한 정상운행 안내문이 붙여있다.",
+     "quote": "앞서 민주노총 공공운수노조 공항철도지부는 지난 7월부터 10차례 교섭했지만 임금 인상과 인력 충원 등에 합의하지 못해 13일 하루 경고 파업에 들어간다고 예고 했었다.",
      "reference_source": null,
-     "source_id": "64ef9ee5396363cfd76bf0b9",
+     "source_id": "0cf254dd4f2b3d8a6195a6fd",
      "source_part": "body",
-     "source_revision": "82763076c7ad841436c8095d"
+     "source_revision": "5c9941a38f000f77ad8b8511"
     },
     {
      "derivation": "explicit",
      "effective_at": null,
      "field_path": "/strike_status",
-     "quote": "[서울=뉴스핌] 이건주 기자 = 12일 오후 공항철도 서울역에 쟁의행위(파업)에 대한 정상운행 안내문이 붙여있다.",
+     "quote": "앞서 민주노총 공공운수노조 공항철도지부는 지난 7월부터 10차례 교섭했지만 임금 인상과 인력 충원 등에 합의하지 못해 13일 하루 경고 파업에 들어간다고 예고 했었다.",
      "reference_source": null,
-     "source_id": "64ef9ee5396363cfd76bf0b9",
+     "source_id": "0cf254dd4f2b3d8a6195a6fd",
      "source_part": "body",
-     "source_revision": "82763076c7ad841436c8095d"
+     "source_revision": "5c9941a38f000f77ad8b8511"
     },
     {
      "derivation": "explicit",
      "effective_at": null,
      "field_path": "/service_status",
-     "quote": "[서울=뉴스핌] 이건주 기자 = 12일 오후 공항철도 서울역에 쟁의행위(파업)에 대한 정상운행 안내문이 붙여있다.",
+     "quote": "앞서 민주노총 공공운수노조 공항철도지부는 지난 7월부터 10차례 교섭했지만 임금 인상과 인력 충원 등에 합의하지 못해 13일 하루 경고 파업에 들어간다고 예고 했었다.",
      "reference_source": null,
-     "source_id": "64ef9ee5396363cfd76bf0b9",
+     "source_id": "0cf254dd4f2b3d8a6195a6fd",
      "source_part": "body",
-     "source_revision": "82763076c7ad841436c8095d"
+     "source_revision": "5c9941a38f000f77ad8b8511"
     },
     {
      "derivation": "explicit",
      "effective_at": null,
      "field_path": "/normal_service_exceptions",
-     "quote": "[서울=뉴스핌] 이건주 기자 = 12일 오후 공항철도 서울역에 쟁의행위(파업)에 대한 정상운행 안내문이 붙여있다.",
+     "quote": "앞서 민주노총 공공운수노조 공항철도지부는 지난 7월부터 10차례 교섭했지만 임금 인상과 인력 충원 등에 합의하지 못해 13일 하루 경고 파업에 들어간다고 예고 했었다.",
      "reference_source": null,
-     "source_id": "64ef9ee5396363cfd76bf0b9",
+     "source_id": "0cf254dd4f2b3d8a6195a6fd",
      "source_part": "body",
-     "source_revision": "82763076c7ad841436c8095d"
+     "source_revision": "5c9941a38f000f77ad8b8511"
     },
     {
      "derivation": "explicit",
      "effective_at": null,
      "field_path": "/alternative_services",
-     "quote": "[서울=뉴스핌] 이건주 기자 = 12일 오후 공항철도 서울역에 쟁의행위(파업)에 대한 정상운행 안내문이 붙여있다.",
+     "quote": "앞서 민주노총 공공운수노조 공항철도지부는 지난 7월부터 10차례 교섭했지만 임금 인상과 인력 충원 등에 합의하지 못해 13일 하루 경고 파업에 들어간다고 예고 했었다.",
      "reference_source": null,
-     "source_id": "64ef9ee5396363cfd76bf0b9",
+     "source_id": "0cf254dd4f2b3d8a6195a6fd",
      "source_part": "body",
-     "source_revision": "82763076c7ad841436c8095d"
+     "source_revision": "5c9941a38f000f77ad8b8511"
     },
     {
      "derivation": "explicit",
      "effective_at": null,
      "field_path": "/start",
-     "quote": "[서울=뉴스핌] 이건주 기자 = 12일 오후 공항철도 서울역에 쟁의행위(파업)에 대한 정상운행 안내문이 붙여있다.",
+     "quote": "앞서 민주노총 공공운수노조 공항철도지부는 지난 7월부터 10차례 교섭했지만 임금 인상과 인력 충원 등에 합의하지 못해 13일 하루 경고 파업에 들어간다고 예고 했었다.",
      "reference_source": null,
-     "source_id": "64ef9ee5396363cfd76bf0b9",
+     "source_id": "0cf254dd4f2b3d8a6195a6fd",
      "source_part": "body",
-     "source_revision": "82763076c7ad841436c8095d"
+     "source_revision": "5c9941a38f000f77ad8b8511"
     },
     {
      "derivation": "explicit",
      "effective_at": null,
      "field_path": "/end",
-     "quote": "[서울=뉴스핌] 이건주 기자 = 12일 오후 공항철도 서울역에 쟁의행위(파업)에 대한 정상운행 안내문이 붙여있다.",
+     "quote": "앞서 민주노총 공공운수노조 공항철도지부는 지난 7월부터 10차례 교섭했지만 임금 인상과 인력 충원 등에 합의하지 못해 13일 하루 경고 파업에 들어간다고 예고 했었다.",
      "reference_source": null,
-     "source_id": "64ef9ee5396363cfd76bf0b9",
+     "source_id": "0cf254dd4f2b3d8a6195a6fd",
      "source_part": "body",
-     "source_revision": "82763076c7ad841436c8095d"
+     "source_revision": "5c9941a38f000f77ad8b8511"
     }
    ],
    "exceptions": [],
-   "id": "c9a901fc30d453eb8e30c37c",
+   "id": "ca67b56049e8d43555ae78aa",
    "modes": [
     "rail"
    ],
@@ -10148,182 +10437,169 @@
      "timezone": "Asia/Seoul"
     }
    },
-   "published_at": "2026-11-12T17:58:00+09:00",
-   "review_reasons": [
-    "UNSUPPORTED_OR_AMBIGUOUS_STATUS",
-    "DATE_UNCONFIRMED"
-   ],
-   "scope": [
-    {
-     "derivation": "article_explicit",
-     "direction": null,
-     "normalized_name": "서울역",
-     "raw": "서울역",
-     "reference_id": null,
-     "reference_source": null,
-     "region": "서울",
-     "section": null
-    }
-   ],
-   "service_status": [],
-   "source_url": "https://www.newspim.com/news/view/20261112001439",
-   "status": "UNKNOWN",
-   "status_effective_at": null,
-   "strike_status": "unknown",
-   "type": "STRIKE",
-   "updated_at": "2026-11-12T17:58:00+09:00",
-   "version": 1,
-   "body_verified": true
-  },
-  {
-   "assertion": "planned",
-   "checked_at": "2026-11-12T23:30:59.994744+09:00",
-   "conflict": false,
-   "demo": false,
-   "disruption_confirmed": false,
-   "event_id": "e734a5e8ff0dbcc936219340",
-   "event_name": "파업 사건",
-   "evidence": [
-    {
-     "derivation": "explicit",
-     "effective_at": null,
-     "field_path": "/article_relevance",
-     "quote": "공항철도 노조는 교섭이 결렬될 경우 13일 하루 경고 파업을 예정대로 강행한다는 방침으로, 실제 돌입 시 2007년 개통 이래 첫 파업이 된다.",
-     "reference_source": null,
-     "source_id": "64ef9ee5396363cfd76bf0b9",
-     "source_part": "body",
-     "source_revision": "82763076c7ad841436c8095d"
-    },
-    {
-     "derivation": "explicit",
-     "effective_at": null,
-     "field_path": "/transport_mode",
-     "quote": "공항철도 노조는 교섭이 결렬될 경우 13일 하루 경고 파업을 예정대로 강행한다는 방침으로, 실제 돌입 시 2007년 개통 이래 첫 파업이 된다.",
-     "reference_source": null,
-     "source_id": "64ef9ee5396363cfd76bf0b9",
-     "source_part": "body",
-     "source_revision": "82763076c7ad841436c8095d"
-    },
-    {
-     "derivation": "explicit",
-     "effective_at": null,
-     "field_path": "/affected_regions",
-     "quote": "공항철도 노조는 교섭이 결렬될 경우 13일 하루 경고 파업을 예정대로 강행한다는 방침으로, 실제 돌입 시 2007년 개통 이래 첫 파업이 된다.",
-     "reference_source": null,
-     "source_id": "64ef9ee5396363cfd76bf0b9",
-     "source_part": "body",
-     "source_revision": "82763076c7ad841436c8095d"
-    },
-    {
-     "derivation": "explicit",
-     "effective_at": null,
-     "field_path": "/affected_routes",
-     "quote": "공항철도 노조는 교섭이 결렬될 경우 13일 하루 경고 파업을 예정대로 강행한다는 방침으로, 실제 돌입 시 2007년 개통 이래 첫 파업이 된다.",
-     "reference_source": null,
-     "source_id": "64ef9ee5396363cfd76bf0b9",
-     "source_part": "body",
-     "source_revision": "82763076c7ad841436c8095d"
-    },
-    {
-     "derivation": "explicit",
-     "effective_at": null,
-     "field_path": "/strike_status",
-     "quote": "공항철도 노조는 교섭이 결렬될 경우 13일 하루 경고 파업을 예정대로 강행한다는 방침으로, 실제 돌입 시 2007년 개통 이래 첫 파업이 된다.",
-     "reference_source": null,
-     "source_id": "64ef9ee5396363cfd76bf0b9",
-     "source_part": "body",
-     "source_revision": "82763076c7ad841436c8095d"
-    },
-    {
-     "derivation": "explicit",
-     "effective_at": null,
-     "field_path": "/service_status",
-     "quote": "공항철도 노조는 교섭이 결렬될 경우 13일 하루 경고 파업을 예정대로 강행한다는 방침으로, 실제 돌입 시 2007년 개통 이래 첫 파업이 된다.",
-     "reference_source": null,
-     "source_id": "64ef9ee5396363cfd76bf0b9",
-     "source_part": "body",
-     "source_revision": "82763076c7ad841436c8095d"
-    },
-    {
-     "derivation": "explicit",
-     "effective_at": null,
-     "field_path": "/normal_service_exceptions",
-     "quote": "공항철도 노조는 교섭이 결렬될 경우 13일 하루 경고 파업을 예정대로 강행한다는 방침으로, 실제 돌입 시 2007년 개통 이래 첫 파업이 된다.",
-     "reference_source": null,
-     "source_id": "64ef9ee5396363cfd76bf0b9",
-     "source_part": "body",
-     "source_revision": "82763076c7ad841436c8095d"
-    },
-    {
-     "derivation": "explicit",
-     "effective_at": null,
-     "field_path": "/alternative_services",
-     "quote": "공항철도 노조는 교섭이 결렬될 경우 13일 하루 경고 파업을 예정대로 강행한다는 방침으로, 실제 돌입 시 2007년 개통 이래 첫 파업이 된다.",
-     "reference_source": null,
-     "source_id": "64ef9ee5396363cfd76bf0b9",
-     "source_part": "body",
-     "source_revision": "82763076c7ad841436c8095d"
-    },
-    {
-     "derivation": "explicit",
-     "effective_at": null,
-     "field_path": "/start",
-     "quote": "공항철도 노조는 교섭이 결렬될 경우 13일 하루 경고 파업을 예정대로 강행한다는 방침으로, 실제 돌입 시 2007년 개통 이래 첫 파업이 된다.",
-     "reference_source": null,
-     "source_id": "64ef9ee5396363cfd76bf0b9",
-     "source_part": "body",
-     "source_revision": "82763076c7ad841436c8095d"
-    },
-    {
-     "derivation": "explicit",
-     "effective_at": null,
-     "field_path": "/end",
-     "quote": "공항철도 노조는 교섭이 결렬될 경우 13일 하루 경고 파업을 예정대로 강행한다는 방침으로, 실제 돌입 시 2007년 개통 이래 첫 파업이 된다.",
-     "reference_source": null,
-     "source_id": "64ef9ee5396363cfd76bf0b9",
-     "source_part": "body",
-     "source_revision": "82763076c7ad841436c8095d"
-    }
-   ],
-   "exceptions": [],
-   "id": "f71ad53a3408a9a433f8b1ce",
-   "modes": [
-    "rail"
-   ],
-   "period": {
-    "condition": null,
-    "end": {
-     "assertion": "unknown",
-     "basis": "unknown",
-     "date": null,
-     "open_ended": null,
-     "raw": null,
-     "time": null,
-     "timezone": "Asia/Seoul"
-    },
-    "precision": "PARTIAL",
-    "start": {
-     "assertion": "unknown",
-     "basis": "unknown",
-     "date": null,
-     "open_ended": null,
-     "raw": null,
-     "time": null,
-     "timezone": "Asia/Seoul"
-    }
-   },
-   "published_at": "2026-11-12T17:58:00+09:00",
+   "published_at": "2026-11-13T05:33:03+09:00",
    "review_reasons": [
     "DATE_UNCONFIRMED"
    ],
    "scope": [],
    "service_status": [],
-   "source_url": "https://www.newspim.com/news/view/20261112001439",
-   "status": "CONDITIONAL",
+   "source_url": "https://www.hankyung.com/article/202611133984h",
+   "status": "ANNOUNCED",
    "status_effective_at": null,
-   "strike_status": "conditional",
+   "strike_status": "scheduled",
    "type": "STRIKE",
-   "updated_at": "2026-11-12T17:58:00+09:00",
+   "updated_at": null,
+   "version": 1,
+   "body_verified": true
+  },
+  {
+   "assertion": "planned",
+   "checked_at": "2026-11-13T06:43:41.051804+09:00",
+   "conflict": false,
+   "demo": false,
+   "disruption_confirmed": false,
+   "event_id": "ed6603c7045eba69ef190edc",
+   "event_name": "파업 사건",
+   "evidence": [
+    {
+     "derivation": "explicit",
+     "effective_at": null,
+     "field_path": "/article_relevance",
+     "quote": "노사는 13일 오전 3시 30분에 2026년도 임금 교섭에서 잠정합의안을 도출하고 이날 하루 동안 첫차 운행부터 예정된 경고 파업 계획을 철회하기로 했다.",
+     "reference_source": null,
+     "source_id": "0cf254dd4f2b3d8a6195a6fd",
+     "source_part": "body",
+     "source_revision": "5c9941a38f000f77ad8b8511"
+    },
+    {
+     "derivation": "explicit",
+     "effective_at": null,
+     "field_path": "/transport_mode",
+     "quote": "노사는 13일 오전 3시 30분에 2026년도 임금 교섭에서 잠정합의안을 도출하고 이날 하루 동안 첫차 운행부터 예정된 경고 파업 계획을 철회하기로 했다.",
+     "reference_source": null,
+     "source_id": "0cf254dd4f2b3d8a6195a6fd",
+     "source_part": "body",
+     "source_revision": "5c9941a38f000f77ad8b8511"
+    },
+    {
+     "derivation": "explicit",
+     "effective_at": null,
+     "field_path": "/affected_regions",
+     "quote": "노사는 13일 오전 3시 30분에 2026년도 임금 교섭에서 잠정합의안을 도출하고 이날 하루 동안 첫차 운행부터 예정된 경고 파업 계획을 철회하기로 했다.",
+     "reference_source": null,
+     "source_id": "0cf254dd4f2b3d8a6195a6fd",
+     "source_part": "body",
+     "source_revision": "5c9941a38f000f77ad8b8511"
+    },
+    {
+     "derivation": "explicit",
+     "effective_at": null,
+     "field_path": "/affected_routes",
+     "quote": "노사는 13일 오전 3시 30분에 2026년도 임금 교섭에서 잠정합의안을 도출하고 이날 하루 동안 첫차 운행부터 예정된 경고 파업 계획을 철회하기로 했다.",
+     "reference_source": null,
+     "source_id": "0cf254dd4f2b3d8a6195a6fd",
+     "source_part": "body",
+     "source_revision": "5c9941a38f000f77ad8b8511"
+    },
+    {
+     "derivation": "explicit",
+     "effective_at": null,
+     "field_path": "/strike_status",
+     "quote": "노사는 13일 오전 3시 30분에 2026년도 임금 교섭에서 잠정합의안을 도출하고 이날 하루 동안 첫차 운행부터 예정된 경고 파업 계획을 철회하기로 했다.",
+     "reference_source": null,
+     "source_id": "0cf254dd4f2b3d8a6195a6fd",
+     "source_part": "body",
+     "source_revision": "5c9941a38f000f77ad8b8511"
+    },
+    {
+     "derivation": "explicit",
+     "effective_at": null,
+     "field_path": "/service_status",
+     "quote": "노사는 13일 오전 3시 30분에 2026년도 임금 교섭에서 잠정합의안을 도출하고 이날 하루 동안 첫차 운행부터 예정된 경고 파업 계획을 철회하기로 했다.",
+     "reference_source": null,
+     "source_id": "0cf254dd4f2b3d8a6195a6fd",
+     "source_part": "body",
+     "source_revision": "5c9941a38f000f77ad8b8511"
+    },
+    {
+     "derivation": "explicit",
+     "effective_at": null,
+     "field_path": "/normal_service_exceptions",
+     "quote": "노사는 13일 오전 3시 30분에 2026년도 임금 교섭에서 잠정합의안을 도출하고 이날 하루 동안 첫차 운행부터 예정된 경고 파업 계획을 철회하기로 했다.",
+     "reference_source": null,
+     "source_id": "0cf254dd4f2b3d8a6195a6fd",
+     "source_part": "body",
+     "source_revision": "5c9941a38f000f77ad8b8511"
+    },
+    {
+     "derivation": "explicit",
+     "effective_at": null,
+     "field_path": "/alternative_services",
+     "quote": "노사는 13일 오전 3시 30분에 2026년도 임금 교섭에서 잠정합의안을 도출하고 이날 하루 동안 첫차 운행부터 예정된 경고 파업 계획을 철회하기로 했다.",
+     "reference_source": null,
+     "source_id": "0cf254dd4f2b3d8a6195a6fd",
+     "source_part": "body",
+     "source_revision": "5c9941a38f000f77ad8b8511"
+    },
+    {
+     "derivation": "explicit",
+     "effective_at": null,
+     "field_path": "/start",
+     "quote": "노사는 13일 오전 3시 30분에 2026년도 임금 교섭에서 잠정합의안을 도출하고 이날 하루 동안 첫차 운행부터 예정된 경고 파업 계획을 철회하기로 했다.",
+     "reference_source": null,
+     "source_id": "0cf254dd4f2b3d8a6195a6fd",
+     "source_part": "body",
+     "source_revision": "5c9941a38f000f77ad8b8511"
+    },
+    {
+     "derivation": "explicit",
+     "effective_at": null,
+     "field_path": "/end",
+     "quote": "노사는 13일 오전 3시 30분에 2026년도 임금 교섭에서 잠정합의안을 도출하고 이날 하루 동안 첫차 운행부터 예정된 경고 파업 계획을 철회하기로 했다.",
+     "reference_source": null,
+     "source_id": "0cf254dd4f2b3d8a6195a6fd",
+     "source_part": "body",
+     "source_revision": "5c9941a38f000f77ad8b8511"
+    }
+   ],
+   "exceptions": [],
+   "id": "c93570958a72bbb749ee5ccd",
+   "modes": [],
+   "period": {
+    "condition": null,
+    "end": {
+     "assertion": "unknown",
+     "basis": "unknown",
+     "date": null,
+     "open_ended": null,
+     "raw": null,
+     "time": null,
+     "timezone": "Asia/Seoul"
+    },
+    "precision": "PARTIAL",
+    "start": {
+     "assertion": "planned",
+     "basis": "first_service",
+     "date": null,
+     "open_ended": null,
+     "raw": "첫차",
+     "time": null,
+     "timezone": "Asia/Seoul"
+    }
+   },
+   "published_at": "2026-11-13T05:33:03+09:00",
+   "review_reasons": [
+    "UNSUPPORTED_OR_AMBIGUOUS_STATUS",
+    "DATE_UNCONFIRMED"
+   ],
+   "scope": [],
+   "service_status": [],
+   "source_url": "https://www.hankyung.com/article/202611133984h",
+   "status": "UNKNOWN",
+   "status_effective_at": null,
+   "strike_status": "unknown",
+   "type": "STRIKE",
+   "updated_at": null,
    "version": 1,
    "body_verified": true
   }
@@ -10384,7 +10660,7 @@
       "source_url": "https://www.yna.co.kr/view/AKR20261111176951098?input=1195m",
       "published_at": "2026-11-12T05:01:32+09:00",
       "updated_at": "2026-11-12T05:01:32+09:00",
-      "collected_at": "2026-11-12T23:30:40.864136+09:00",
+      "collected_at": "2026-11-13T06:43:19.797482+09:00",
       "field_evidence": [
        {
         "field_path": "/article_relevance",
@@ -11340,7 +11616,7 @@
       "source_url": "https://www.yna.co.kr/view/AKR20261111176951098?input=1195m",
       "published_at": "2026-11-12T05:01:32+09:00",
       "updated_at": "2026-11-12T05:01:32+09:00",
-      "collected_at": "2026-11-12T23:30:40.864136+09:00",
+      "collected_at": "2026-11-13T06:43:19.797482+09:00",
       "field_evidence": [
        {
         "field_path": "/article_relevance",
@@ -11460,7 +11736,7 @@
      "source_revision": "ab8c05a4bcfec4405693c923",
      "published_at": "2026-11-12T05:01:32+09:00",
      "updated_at": "2026-11-12T05:01:32+09:00",
-     "collected_at": "2026-11-12T23:30:40.864136+09:00"
+     "collected_at": "2026-11-13T06:43:19.797482+09:00"
     },
     "events": [
      {
@@ -11513,336 +11789,6 @@
   {
    "strikes": [
     {
-     "article_relevance": "related",
-     "transport_mode": "rail",
-     "affected_regions": [
-      {
-       "raw": "서울",
-       "normalized_name": "서울",
-       "region": "서울",
-       "reference_id": null,
-       "derivation": "article_explicit",
-       "reference_source": null
-      }
-     ],
-     "affected_routes": [
-      {
-       "raw": "서울역",
-       "normalized_name": "서울역",
-       "region": "서울",
-       "reference_id": null,
-       "derivation": "article_explicit",
-       "reference_source": null,
-       "direction": null,
-       "section": null
-      }
-     ],
-     "start": {
-      "raw": null,
-      "date": null,
-      "time": null,
-      "timezone": "Asia/Seoul",
-      "basis": "unknown",
-      "assertion": "unknown",
-      "open_ended": null
-     },
-     "end": {
-      "raw": null,
-      "date": null,
-      "time": null,
-      "timezone": "Asia/Seoul",
-      "basis": "unknown",
-      "assertion": "unknown",
-      "open_ended": null
-     },
-     "strike_status": {
-      "value": "unknown",
-      "conditions": [],
-      "scope_raw": "[서울=뉴스핌] 이건주 기자 = 12일 오후 공항철도 서울역에 쟁의행위(파업)에 대한 정상운행 안내문이 붙여있다.",
-      "effective_at": null
-     },
-     "service_status": [],
-     "normal_service_exceptions": [],
-     "alternative_services": [],
-     "evidence_and_timestamps": {
-      "source_url": "https://www.newspim.com/news/view/20261112001440",
-      "published_at": "2026-11-12T17:58:00+09:00",
-      "updated_at": "2026-11-12T17:59:00+09:00",
-      "collected_at": "2026-11-12T23:30:47.817062+09:00",
-      "field_evidence": [
-       {
-        "field_path": "/article_relevance",
-        "quote": "[서울=뉴스핌] 이건주 기자 = 12일 오후 공항철도 서울역에 쟁의행위(파업)에 대한 정상운행 안내문이 붙여있다.",
-        "source_part": "body",
-        "effective_at": null,
-        "derivation": "explicit",
-        "source_id": "56e6b2b07f1178a6062529a5",
-        "source_revision": "82763076c7ad841436c8095d",
-        "reference_source": null
-       },
-       {
-        "field_path": "/transport_mode",
-        "quote": "[서울=뉴스핌] 이건주 기자 = 12일 오후 공항철도 서울역에 쟁의행위(파업)에 대한 정상운행 안내문이 붙여있다.",
-        "source_part": "body",
-        "effective_at": null,
-        "derivation": "explicit",
-        "source_id": "56e6b2b07f1178a6062529a5",
-        "source_revision": "82763076c7ad841436c8095d",
-        "reference_source": null
-       },
-       {
-        "field_path": "/affected_regions",
-        "quote": "[서울=뉴스핌] 이건주 기자 = 12일 오후 공항철도 서울역에 쟁의행위(파업)에 대한 정상운행 안내문이 붙여있다.",
-        "source_part": "body",
-        "effective_at": null,
-        "derivation": "explicit",
-        "source_id": "56e6b2b07f1178a6062529a5",
-        "source_revision": "82763076c7ad841436c8095d",
-        "reference_source": null
-       },
-       {
-        "field_path": "/affected_routes",
-        "quote": "[서울=뉴스핌] 이건주 기자 = 12일 오후 공항철도 서울역에 쟁의행위(파업)에 대한 정상운행 안내문이 붙여있다.",
-        "source_part": "body",
-        "effective_at": null,
-        "derivation": "explicit",
-        "source_id": "56e6b2b07f1178a6062529a5",
-        "source_revision": "82763076c7ad841436c8095d",
-        "reference_source": null
-       },
-       {
-        "field_path": "/strike_status",
-        "quote": "[서울=뉴스핌] 이건주 기자 = 12일 오후 공항철도 서울역에 쟁의행위(파업)에 대한 정상운행 안내문이 붙여있다.",
-        "source_part": "body",
-        "effective_at": null,
-        "derivation": "explicit",
-        "source_id": "56e6b2b07f1178a6062529a5",
-        "source_revision": "82763076c7ad841436c8095d",
-        "reference_source": null
-       },
-       {
-        "field_path": "/service_status",
-        "quote": "[서울=뉴스핌] 이건주 기자 = 12일 오후 공항철도 서울역에 쟁의행위(파업)에 대한 정상운행 안내문이 붙여있다.",
-        "source_part": "body",
-        "effective_at": null,
-        "derivation": "explicit",
-        "source_id": "56e6b2b07f1178a6062529a5",
-        "source_revision": "82763076c7ad841436c8095d",
-        "reference_source": null
-       },
-       {
-        "field_path": "/normal_service_exceptions",
-        "quote": "[서울=뉴스핌] 이건주 기자 = 12일 오후 공항철도 서울역에 쟁의행위(파업)에 대한 정상운행 안내문이 붙여있다.",
-        "source_part": "body",
-        "effective_at": null,
-        "derivation": "explicit",
-        "source_id": "56e6b2b07f1178a6062529a5",
-        "source_revision": "82763076c7ad841436c8095d",
-        "reference_source": null
-       },
-       {
-        "field_path": "/alternative_services",
-        "quote": "[서울=뉴스핌] 이건주 기자 = 12일 오후 공항철도 서울역에 쟁의행위(파업)에 대한 정상운행 안내문이 붙여있다.",
-        "source_part": "body",
-        "effective_at": null,
-        "derivation": "explicit",
-        "source_id": "56e6b2b07f1178a6062529a5",
-        "source_revision": "82763076c7ad841436c8095d",
-        "reference_source": null
-       },
-       {
-        "field_path": "/start",
-        "quote": "[서울=뉴스핌] 이건주 기자 = 12일 오후 공항철도 서울역에 쟁의행위(파업)에 대한 정상운행 안내문이 붙여있다.",
-        "source_part": "body",
-        "effective_at": null,
-        "derivation": "explicit",
-        "source_id": "56e6b2b07f1178a6062529a5",
-        "source_revision": "82763076c7ad841436c8095d",
-        "reference_source": null
-       },
-       {
-        "field_path": "/end",
-        "quote": "[서울=뉴스핌] 이건주 기자 = 12일 오후 공항철도 서울역에 쟁의행위(파업)에 대한 정상운행 안내문이 붙여있다.",
-        "source_part": "body",
-        "effective_at": null,
-        "derivation": "explicit",
-        "source_id": "56e6b2b07f1178a6062529a5",
-        "source_revision": "82763076c7ad841436c8095d",
-        "reference_source": null
-       }
-      ],
-      "review_reasons": [
-       "UNSUPPORTED_OR_AMBIGUOUS_STATUS",
-       "DATE_UNCONFIRMED"
-      ]
-     }
-    },
-    {
-     "article_relevance": "related",
-     "transport_mode": "rail",
-     "affected_regions": [],
-     "affected_routes": [],
-     "start": {
-      "raw": null,
-      "date": null,
-      "time": null,
-      "timezone": "Asia/Seoul",
-      "basis": "unknown",
-      "assertion": "unknown",
-      "open_ended": null
-     },
-     "end": {
-      "raw": null,
-      "date": null,
-      "time": null,
-      "timezone": "Asia/Seoul",
-      "basis": "unknown",
-      "assertion": "unknown",
-      "open_ended": null
-     },
-     "strike_status": {
-      "value": "conditional",
-      "conditions": [
-       "공항철도 노조는 교섭이 결렬될 경우 13일 하루 경고 파업을 예정대로 강행한다는 방침으로, 실제 돌입 시 2007년 개통 이래 첫 파업이 된다."
-      ],
-      "scope_raw": "공항철도 노조는 교섭이 결렬될 경우 13일 하루 경고 파업을 예정대로 강행한다는 방침으로, 실제 돌입 시 2007년 개통 이래 첫 파업이 된다.",
-      "effective_at": null
-     },
-     "service_status": [],
-     "normal_service_exceptions": [],
-     "alternative_services": [],
-     "evidence_and_timestamps": {
-      "source_url": "https://www.newspim.com/news/view/20261112001440",
-      "published_at": "2026-11-12T17:58:00+09:00",
-      "updated_at": "2026-11-12T17:59:00+09:00",
-      "collected_at": "2026-11-12T23:30:47.817062+09:00",
-      "field_evidence": [
-       {
-        "field_path": "/article_relevance",
-        "quote": "공항철도 노조는 교섭이 결렬될 경우 13일 하루 경고 파업을 예정대로 강행한다는 방침으로, 실제 돌입 시 2007년 개통 이래 첫 파업이 된다.",
-        "source_part": "body",
-        "effective_at": null,
-        "derivation": "explicit",
-        "source_id": "56e6b2b07f1178a6062529a5",
-        "source_revision": "82763076c7ad841436c8095d",
-        "reference_source": null
-       },
-       {
-        "field_path": "/transport_mode",
-        "quote": "공항철도 노조는 교섭이 결렬될 경우 13일 하루 경고 파업을 예정대로 강행한다는 방침으로, 실제 돌입 시 2007년 개통 이래 첫 파업이 된다.",
-        "source_part": "body",
-        "effective_at": null,
-        "derivation": "explicit",
-        "source_id": "56e6b2b07f1178a6062529a5",
-        "source_revision": "82763076c7ad841436c8095d",
-        "reference_source": null
-       },
-       {
-        "field_path": "/affected_regions",
-        "quote": "공항철도 노조는 교섭이 결렬될 경우 13일 하루 경고 파업을 예정대로 강행한다는 방침으로, 실제 돌입 시 2007년 개통 이래 첫 파업이 된다.",
-        "source_part": "body",
-        "effective_at": null,
-        "derivation": "explicit",
-        "source_id": "56e6b2b07f1178a6062529a5",
-        "source_revision": "82763076c7ad841436c8095d",
-        "reference_source": null
-       },
-       {
-        "field_path": "/affected_routes",
-        "quote": "공항철도 노조는 교섭이 결렬될 경우 13일 하루 경고 파업을 예정대로 강행한다는 방침으로, 실제 돌입 시 2007년 개통 이래 첫 파업이 된다.",
-        "source_part": "body",
-        "effective_at": null,
-        "derivation": "explicit",
-        "source_id": "56e6b2b07f1178a6062529a5",
-        "source_revision": "82763076c7ad841436c8095d",
-        "reference_source": null
-       },
-       {
-        "field_path": "/strike_status",
-        "quote": "공항철도 노조는 교섭이 결렬될 경우 13일 하루 경고 파업을 예정대로 강행한다는 방침으로, 실제 돌입 시 2007년 개통 이래 첫 파업이 된다.",
-        "source_part": "body",
-        "effective_at": null,
-        "derivation": "explicit",
-        "source_id": "56e6b2b07f1178a6062529a5",
-        "source_revision": "82763076c7ad841436c8095d",
-        "reference_source": null
-       },
-       {
-        "field_path": "/service_status",
-        "quote": "공항철도 노조는 교섭이 결렬될 경우 13일 하루 경고 파업을 예정대로 강행한다는 방침으로, 실제 돌입 시 2007년 개통 이래 첫 파업이 된다.",
-        "source_part": "body",
-        "effective_at": null,
-        "derivation": "explicit",
-        "source_id": "56e6b2b07f1178a6062529a5",
-        "source_revision": "82763076c7ad841436c8095d",
-        "reference_source": null
-       },
-       {
-        "field_path": "/normal_service_exceptions",
-        "quote": "공항철도 노조는 교섭이 결렬될 경우 13일 하루 경고 파업을 예정대로 강행한다는 방침으로, 실제 돌입 시 2007년 개통 이래 첫 파업이 된다.",
-        "source_part": "body",
-        "effective_at": null,
-        "derivation": "explicit",
-        "source_id": "56e6b2b07f1178a6062529a5",
-        "source_revision": "82763076c7ad841436c8095d",
-        "reference_source": null
-       },
-       {
-        "field_path": "/alternative_services",
-        "quote": "공항철도 노조는 교섭이 결렬될 경우 13일 하루 경고 파업을 예정대로 강행한다는 방침으로, 실제 돌입 시 2007년 개통 이래 첫 파업이 된다.",
-        "source_part": "body",
-        "effective_at": null,
-        "derivation": "explicit",
-        "source_id": "56e6b2b07f1178a6062529a5",
-        "source_revision": "82763076c7ad841436c8095d",
-        "reference_source": null
-       },
-       {
-        "field_path": "/start",
-        "quote": "공항철도 노조는 교섭이 결렬될 경우 13일 하루 경고 파업을 예정대로 강행한다는 방침으로, 실제 돌입 시 2007년 개통 이래 첫 파업이 된다.",
-        "source_part": "body",
-        "effective_at": null,
-        "derivation": "explicit",
-        "source_id": "56e6b2b07f1178a6062529a5",
-        "source_revision": "82763076c7ad841436c8095d",
-        "reference_source": null
-       },
-       {
-        "field_path": "/end",
-        "quote": "공항철도 노조는 교섭이 결렬될 경우 13일 하루 경고 파업을 예정대로 강행한다는 방침으로, 실제 돌입 시 2007년 개통 이래 첫 파업이 된다.",
-        "source_part": "body",
-        "effective_at": null,
-        "derivation": "explicit",
-        "source_id": "56e6b2b07f1178a6062529a5",
-        "source_revision": "82763076c7ad841436c8095d",
-        "reference_source": null
-       }
-      ],
-      "review_reasons": [
-       "DATE_UNCONFIRMED"
-      ]
-     }
-    }
-   ],
-   "events": {
-    "schema_version": "1.0",
-    "article_relevance": "unrelated",
-    "processing_status": "success",
-    "source": {
-     "source_id": "56e6b2b07f1178a6062529a5",
-     "source_url": "https://www.newspim.com/news/view/20261112001440",
-     "source_revision": "82763076c7ad841436c8095d",
-     "published_at": "2026-11-12T17:58:00+09:00",
-     "updated_at": "2026-11-12T17:59:00+09:00",
-     "collected_at": "2026-11-12T23:30:47.817062+09:00"
-    },
-    "events": [],
-    "review_reasons": []
-   }
-  },
-  {
-   "strikes": [
-    {
      "article_relevance": "unrelated",
      "transport_mode": "unknown",
      "affected_regions": [],
@@ -11878,7 +11824,7 @@
       "source_url": "https://www.fnnews.com/news/202611101525402414",
       "published_at": "2026-11-10T15:41:44+09:00",
       "updated_at": "2026-11-10T15:41:44+09:00",
-      "collected_at": "2026-11-12T23:30:52.578866+09:00",
+      "collected_at": "2026-11-13T06:43:32.235925+09:00",
       "field_evidence": [
        {
         "field_path": "/article_relevance",
@@ -11995,7 +11941,7 @@
      "source_revision": "e4db1223ba466bbc3a5481ca",
      "published_at": "2026-11-10T15:41:44+09:00",
      "updated_at": "2026-11-10T15:41:44+09:00",
-     "collected_at": "2026-11-12T23:30:52.578866+09:00"
+     "collected_at": "2026-11-13T06:43:32.235925+09:00"
     },
     "events": [
      {
@@ -12148,7 +12094,7 @@
       "source_url": "https://www.seoul.co.kr/news/society/2026/11/12/20261112500004?wlog_tag3=naver",
       "published_at": "2026-11-12T05:58:00+09:00",
       "updated_at": "2026-11-12T05:58:00+09:00",
-      "collected_at": "2026-11-12T23:30:53.969052+09:00",
+      "collected_at": "2026-11-13T06:43:34.292992+09:00",
       "field_evidence": [
        {
         "field_path": "/article_relevance",
@@ -12265,7 +12211,7 @@
      "source_revision": "61e2e93ff8e7f4aa6c7ee9fa",
      "published_at": "2026-11-12T05:58:00+09:00",
      "updated_at": "2026-11-12T05:58:00+09:00",
-     "collected_at": "2026-11-12T23:30:53.969052+09:00"
+     "collected_at": "2026-11-13T06:43:34.292992+09:00"
     },
     "events": [
      {
@@ -13309,7 +13255,7 @@
       "source_url": "https://www.newsis.com/view/NISX20261112_0003864924",
       "published_at": "2026-11-12T15:32:17+09:00",
       "updated_at": null,
-      "collected_at": "2026-11-12T23:30:58.499008+09:00",
+      "collected_at": "2026-11-13T06:43:38.440602+09:00",
       "field_evidence": [
        {
         "field_path": "/article_relevance",
@@ -13456,7 +13402,7 @@
       "source_url": "https://www.newsis.com/view/NISX20261112_0003864924",
       "published_at": "2026-11-12T15:32:17+09:00",
       "updated_at": null,
-      "collected_at": "2026-11-12T23:30:58.499008+09:00",
+      "collected_at": "2026-11-13T06:43:38.440602+09:00",
       "field_evidence": [
        {
         "field_path": "/article_relevance",
@@ -13576,7 +13522,7 @@
      "source_revision": "3f14812d33dcfded7472e4dd",
      "published_at": "2026-11-12T15:32:17+09:00",
      "updated_at": null,
-     "collected_at": "2026-11-12T23:30:58.499008+09:00"
+     "collected_at": "2026-11-13T06:43:38.440602+09:00"
     },
     "events": [],
     "review_reasons": []
@@ -13585,30 +13531,10 @@
   {
    "strikes": [
     {
-     "article_relevance": "related",
-     "transport_mode": "rail",
-     "affected_regions": [
-      {
-       "raw": "서울",
-       "normalized_name": "서울",
-       "region": "서울",
-       "reference_id": null,
-       "derivation": "article_explicit",
-       "reference_source": null
-      }
-     ],
-     "affected_routes": [
-      {
-       "raw": "서울역",
-       "normalized_name": "서울역",
-       "region": "서울",
-       "reference_id": null,
-       "derivation": "article_explicit",
-       "reference_source": null,
-       "direction": null,
-       "section": null
-      }
-     ],
+     "article_relevance": "unrelated",
+     "transport_mode": "unknown",
+     "affected_regions": [],
+     "affected_routes": [],
      "start": {
       "raw": null,
       "date": null,
@@ -13630,123 +13556,120 @@
      "strike_status": {
       "value": "unknown",
       "conditions": [],
-      "scope_raw": "[서울=뉴스핌] 이건주 기자 = 12일 오후 공항철도 서울역에 쟁의행위(파업)에 대한 정상운행 안내문이 붙여있다.",
+      "scope_raw": null,
       "effective_at": null
      },
      "service_status": [],
      "normal_service_exceptions": [],
      "alternative_services": [],
      "evidence_and_timestamps": {
-      "source_url": "https://www.newspim.com/news/view/20261112001439",
-      "published_at": "2026-11-12T17:58:00+09:00",
-      "updated_at": "2026-11-12T17:58:00+09:00",
-      "collected_at": "2026-11-12T23:30:59.994744+09:00",
+      "source_url": "https://www.hankyung.com/article/202611133984h",
+      "published_at": "2026-11-13T05:33:03+09:00",
+      "updated_at": null,
+      "collected_at": "2026-11-13T06:43:41.051804+09:00",
       "field_evidence": [
        {
         "field_path": "/article_relevance",
-        "quote": "[서울=뉴스핌] 이건주 기자 = 12일 오후 공항철도 서울역에 쟁의행위(파업)에 대한 정상운행 안내문이 붙여있다.",
+        "quote": "서울역과 인천국제공항을 왕복 운행하는 공항철도가 13일 정상 운행한다.",
         "source_part": "body",
         "effective_at": null,
         "derivation": "explicit",
-        "source_id": "64ef9ee5396363cfd76bf0b9",
-        "source_revision": "82763076c7ad841436c8095d",
+        "source_id": "0cf254dd4f2b3d8a6195a6fd",
+        "source_revision": "5c9941a38f000f77ad8b8511",
         "reference_source": null
        },
        {
         "field_path": "/transport_mode",
-        "quote": "[서울=뉴스핌] 이건주 기자 = 12일 오후 공항철도 서울역에 쟁의행위(파업)에 대한 정상운행 안내문이 붙여있다.",
+        "quote": "서울역과 인천국제공항을 왕복 운행하는 공항철도가 13일 정상 운행한다.",
         "source_part": "body",
         "effective_at": null,
         "derivation": "explicit",
-        "source_id": "64ef9ee5396363cfd76bf0b9",
-        "source_revision": "82763076c7ad841436c8095d",
+        "source_id": "0cf254dd4f2b3d8a6195a6fd",
+        "source_revision": "5c9941a38f000f77ad8b8511",
         "reference_source": null
        },
        {
         "field_path": "/affected_regions",
-        "quote": "[서울=뉴스핌] 이건주 기자 = 12일 오후 공항철도 서울역에 쟁의행위(파업)에 대한 정상운행 안내문이 붙여있다.",
+        "quote": "서울역과 인천국제공항을 왕복 운행하는 공항철도가 13일 정상 운행한다.",
         "source_part": "body",
         "effective_at": null,
         "derivation": "explicit",
-        "source_id": "64ef9ee5396363cfd76bf0b9",
-        "source_revision": "82763076c7ad841436c8095d",
+        "source_id": "0cf254dd4f2b3d8a6195a6fd",
+        "source_revision": "5c9941a38f000f77ad8b8511",
         "reference_source": null
        },
        {
         "field_path": "/affected_routes",
-        "quote": "[서울=뉴스핌] 이건주 기자 = 12일 오후 공항철도 서울역에 쟁의행위(파업)에 대한 정상운행 안내문이 붙여있다.",
+        "quote": "서울역과 인천국제공항을 왕복 운행하는 공항철도가 13일 정상 운행한다.",
         "source_part": "body",
         "effective_at": null,
         "derivation": "explicit",
-        "source_id": "64ef9ee5396363cfd76bf0b9",
-        "source_revision": "82763076c7ad841436c8095d",
+        "source_id": "0cf254dd4f2b3d8a6195a6fd",
+        "source_revision": "5c9941a38f000f77ad8b8511",
         "reference_source": null
        },
        {
         "field_path": "/strike_status",
-        "quote": "[서울=뉴스핌] 이건주 기자 = 12일 오후 공항철도 서울역에 쟁의행위(파업)에 대한 정상운행 안내문이 붙여있다.",
+        "quote": "서울역과 인천국제공항을 왕복 운행하는 공항철도가 13일 정상 운행한다.",
         "source_part": "body",
         "effective_at": null,
         "derivation": "explicit",
-        "source_id": "64ef9ee5396363cfd76bf0b9",
-        "source_revision": "82763076c7ad841436c8095d",
+        "source_id": "0cf254dd4f2b3d8a6195a6fd",
+        "source_revision": "5c9941a38f000f77ad8b8511",
         "reference_source": null
        },
        {
         "field_path": "/service_status",
-        "quote": "[서울=뉴스핌] 이건주 기자 = 12일 오후 공항철도 서울역에 쟁의행위(파업)에 대한 정상운행 안내문이 붙여있다.",
+        "quote": "서울역과 인천국제공항을 왕복 운행하는 공항철도가 13일 정상 운행한다.",
         "source_part": "body",
         "effective_at": null,
         "derivation": "explicit",
-        "source_id": "64ef9ee5396363cfd76bf0b9",
-        "source_revision": "82763076c7ad841436c8095d",
+        "source_id": "0cf254dd4f2b3d8a6195a6fd",
+        "source_revision": "5c9941a38f000f77ad8b8511",
         "reference_source": null
        },
        {
         "field_path": "/normal_service_exceptions",
-        "quote": "[서울=뉴스핌] 이건주 기자 = 12일 오후 공항철도 서울역에 쟁의행위(파업)에 대한 정상운행 안내문이 붙여있다.",
+        "quote": "서울역과 인천국제공항을 왕복 운행하는 공항철도가 13일 정상 운행한다.",
         "source_part": "body",
         "effective_at": null,
         "derivation": "explicit",
-        "source_id": "64ef9ee5396363cfd76bf0b9",
-        "source_revision": "82763076c7ad841436c8095d",
+        "source_id": "0cf254dd4f2b3d8a6195a6fd",
+        "source_revision": "5c9941a38f000f77ad8b8511",
         "reference_source": null
        },
        {
         "field_path": "/alternative_services",
-        "quote": "[서울=뉴스핌] 이건주 기자 = 12일 오후 공항철도 서울역에 쟁의행위(파업)에 대한 정상운행 안내문이 붙여있다.",
+        "quote": "서울역과 인천국제공항을 왕복 운행하는 공항철도가 13일 정상 운행한다.",
         "source_part": "body",
         "effective_at": null,
         "derivation": "explicit",
-        "source_id": "64ef9ee5396363cfd76bf0b9",
-        "source_revision": "82763076c7ad841436c8095d",
+        "source_id": "0cf254dd4f2b3d8a6195a6fd",
+        "source_revision": "5c9941a38f000f77ad8b8511",
         "reference_source": null
        },
        {
         "field_path": "/start",
-        "quote": "[서울=뉴스핌] 이건주 기자 = 12일 오후 공항철도 서울역에 쟁의행위(파업)에 대한 정상운행 안내문이 붙여있다.",
+        "quote": "서울역과 인천국제공항을 왕복 운행하는 공항철도가 13일 정상 운행한다.",
         "source_part": "body",
         "effective_at": null,
         "derivation": "explicit",
-        "source_id": "64ef9ee5396363cfd76bf0b9",
-        "source_revision": "82763076c7ad841436c8095d",
+        "source_id": "0cf254dd4f2b3d8a6195a6fd",
+        "source_revision": "5c9941a38f000f77ad8b8511",
         "reference_source": null
        },
        {
         "field_path": "/end",
-        "quote": "[서울=뉴스핌] 이건주 기자 = 12일 오후 공항철도 서울역에 쟁의행위(파업)에 대한 정상운행 안내문이 붙여있다.",
+        "quote": "서울역과 인천국제공항을 왕복 운행하는 공항철도가 13일 정상 운행한다.",
         "source_part": "body",
         "effective_at": null,
         "derivation": "explicit",
-        "source_id": "64ef9ee5396363cfd76bf0b9",
-        "source_revision": "82763076c7ad841436c8095d",
+        "source_id": "0cf254dd4f2b3d8a6195a6fd",
+        "source_revision": "5c9941a38f000f77ad8b8511",
         "reference_source": null
        }
       ],
-      "review_reasons": [
-       "UNSUPPORTED_OR_AMBIGUOUS_STATUS",
-       "DATE_UNCONFIRMED"
-      ]
+      "review_reasons": []
      }
     },
     {
@@ -13773,124 +13696,267 @@
       "open_ended": null
      },
      "strike_status": {
-      "value": "conditional",
-      "conditions": [
-       "공항철도 노조는 교섭이 결렬될 경우 13일 하루 경고 파업을 예정대로 강행한다는 방침으로, 실제 돌입 시 2007년 개통 이래 첫 파업이 된다."
-      ],
-      "scope_raw": "공항철도 노조는 교섭이 결렬될 경우 13일 하루 경고 파업을 예정대로 강행한다는 방침으로, 실제 돌입 시 2007년 개통 이래 첫 파업이 된다.",
+      "value": "scheduled",
+      "conditions": [],
+      "scope_raw": "앞서 민주노총 공공운수노조 공항철도지부는 지난 7월부터 10차례 교섭했지만 임금 인상과 인력 충원 등에 합의하지 못해 13일 하루 경고 파업에 들어간다고 예고 했었다.",
       "effective_at": null
      },
      "service_status": [],
      "normal_service_exceptions": [],
      "alternative_services": [],
      "evidence_and_timestamps": {
-      "source_url": "https://www.newspim.com/news/view/20261112001439",
-      "published_at": "2026-11-12T17:58:00+09:00",
-      "updated_at": "2026-11-12T17:58:00+09:00",
-      "collected_at": "2026-11-12T23:30:59.994744+09:00",
+      "source_url": "https://www.hankyung.com/article/202611133984h",
+      "published_at": "2026-11-13T05:33:03+09:00",
+      "updated_at": null,
+      "collected_at": "2026-11-13T06:43:41.051804+09:00",
       "field_evidence": [
        {
         "field_path": "/article_relevance",
-        "quote": "공항철도 노조는 교섭이 결렬될 경우 13일 하루 경고 파업을 예정대로 강행한다는 방침으로, 실제 돌입 시 2007년 개통 이래 첫 파업이 된다.",
+        "quote": "앞서 민주노총 공공운수노조 공항철도지부는 지난 7월부터 10차례 교섭했지만 임금 인상과 인력 충원 등에 합의하지 못해 13일 하루 경고 파업에 들어간다고 예고 했었다.",
         "source_part": "body",
         "effective_at": null,
         "derivation": "explicit",
-        "source_id": "64ef9ee5396363cfd76bf0b9",
-        "source_revision": "82763076c7ad841436c8095d",
+        "source_id": "0cf254dd4f2b3d8a6195a6fd",
+        "source_revision": "5c9941a38f000f77ad8b8511",
         "reference_source": null
        },
        {
         "field_path": "/transport_mode",
-        "quote": "공항철도 노조는 교섭이 결렬될 경우 13일 하루 경고 파업을 예정대로 강행한다는 방침으로, 실제 돌입 시 2007년 개통 이래 첫 파업이 된다.",
+        "quote": "앞서 민주노총 공공운수노조 공항철도지부는 지난 7월부터 10차례 교섭했지만 임금 인상과 인력 충원 등에 합의하지 못해 13일 하루 경고 파업에 들어간다고 예고 했었다.",
         "source_part": "body",
         "effective_at": null,
         "derivation": "explicit",
-        "source_id": "64ef9ee5396363cfd76bf0b9",
-        "source_revision": "82763076c7ad841436c8095d",
+        "source_id": "0cf254dd4f2b3d8a6195a6fd",
+        "source_revision": "5c9941a38f000f77ad8b8511",
         "reference_source": null
        },
        {
         "field_path": "/affected_regions",
-        "quote": "공항철도 노조는 교섭이 결렬될 경우 13일 하루 경고 파업을 예정대로 강행한다는 방침으로, 실제 돌입 시 2007년 개통 이래 첫 파업이 된다.",
+        "quote": "앞서 민주노총 공공운수노조 공항철도지부는 지난 7월부터 10차례 교섭했지만 임금 인상과 인력 충원 등에 합의하지 못해 13일 하루 경고 파업에 들어간다고 예고 했었다.",
         "source_part": "body",
         "effective_at": null,
         "derivation": "explicit",
-        "source_id": "64ef9ee5396363cfd76bf0b9",
-        "source_revision": "82763076c7ad841436c8095d",
+        "source_id": "0cf254dd4f2b3d8a6195a6fd",
+        "source_revision": "5c9941a38f000f77ad8b8511",
         "reference_source": null
        },
        {
         "field_path": "/affected_routes",
-        "quote": "공항철도 노조는 교섭이 결렬될 경우 13일 하루 경고 파업을 예정대로 강행한다는 방침으로, 실제 돌입 시 2007년 개통 이래 첫 파업이 된다.",
+        "quote": "앞서 민주노총 공공운수노조 공항철도지부는 지난 7월부터 10차례 교섭했지만 임금 인상과 인력 충원 등에 합의하지 못해 13일 하루 경고 파업에 들어간다고 예고 했었다.",
         "source_part": "body",
         "effective_at": null,
         "derivation": "explicit",
-        "source_id": "64ef9ee5396363cfd76bf0b9",
-        "source_revision": "82763076c7ad841436c8095d",
+        "source_id": "0cf254dd4f2b3d8a6195a6fd",
+        "source_revision": "5c9941a38f000f77ad8b8511",
         "reference_source": null
        },
        {
         "field_path": "/strike_status",
-        "quote": "공항철도 노조는 교섭이 결렬될 경우 13일 하루 경고 파업을 예정대로 강행한다는 방침으로, 실제 돌입 시 2007년 개통 이래 첫 파업이 된다.",
+        "quote": "앞서 민주노총 공공운수노조 공항철도지부는 지난 7월부터 10차례 교섭했지만 임금 인상과 인력 충원 등에 합의하지 못해 13일 하루 경고 파업에 들어간다고 예고 했었다.",
         "source_part": "body",
         "effective_at": null,
         "derivation": "explicit",
-        "source_id": "64ef9ee5396363cfd76bf0b9",
-        "source_revision": "82763076c7ad841436c8095d",
+        "source_id": "0cf254dd4f2b3d8a6195a6fd",
+        "source_revision": "5c9941a38f000f77ad8b8511",
         "reference_source": null
        },
        {
         "field_path": "/service_status",
-        "quote": "공항철도 노조는 교섭이 결렬될 경우 13일 하루 경고 파업을 예정대로 강행한다는 방침으로, 실제 돌입 시 2007년 개통 이래 첫 파업이 된다.",
+        "quote": "앞서 민주노총 공공운수노조 공항철도지부는 지난 7월부터 10차례 교섭했지만 임금 인상과 인력 충원 등에 합의하지 못해 13일 하루 경고 파업에 들어간다고 예고 했었다.",
         "source_part": "body",
         "effective_at": null,
         "derivation": "explicit",
-        "source_id": "64ef9ee5396363cfd76bf0b9",
-        "source_revision": "82763076c7ad841436c8095d",
+        "source_id": "0cf254dd4f2b3d8a6195a6fd",
+        "source_revision": "5c9941a38f000f77ad8b8511",
         "reference_source": null
        },
        {
         "field_path": "/normal_service_exceptions",
-        "quote": "공항철도 노조는 교섭이 결렬될 경우 13일 하루 경고 파업을 예정대로 강행한다는 방침으로, 실제 돌입 시 2007년 개통 이래 첫 파업이 된다.",
+        "quote": "앞서 민주노총 공공운수노조 공항철도지부는 지난 7월부터 10차례 교섭했지만 임금 인상과 인력 충원 등에 합의하지 못해 13일 하루 경고 파업에 들어간다고 예고 했었다.",
         "source_part": "body",
         "effective_at": null,
         "derivation": "explicit",
-        "source_id": "64ef9ee5396363cfd76bf0b9",
-        "source_revision": "82763076c7ad841436c8095d",
+        "source_id": "0cf254dd4f2b3d8a6195a6fd",
+        "source_revision": "5c9941a38f000f77ad8b8511",
         "reference_source": null
        },
        {
         "field_path": "/alternative_services",
-        "quote": "공항철도 노조는 교섭이 결렬될 경우 13일 하루 경고 파업을 예정대로 강행한다는 방침으로, 실제 돌입 시 2007년 개통 이래 첫 파업이 된다.",
+        "quote": "앞서 민주노총 공공운수노조 공항철도지부는 지난 7월부터 10차례 교섭했지만 임금 인상과 인력 충원 등에 합의하지 못해 13일 하루 경고 파업에 들어간다고 예고 했었다.",
         "source_part": "body",
         "effective_at": null,
         "derivation": "explicit",
-        "source_id": "64ef9ee5396363cfd76bf0b9",
-        "source_revision": "82763076c7ad841436c8095d",
+        "source_id": "0cf254dd4f2b3d8a6195a6fd",
+        "source_revision": "5c9941a38f000f77ad8b8511",
         "reference_source": null
        },
        {
         "field_path": "/start",
-        "quote": "공항철도 노조는 교섭이 결렬될 경우 13일 하루 경고 파업을 예정대로 강행한다는 방침으로, 실제 돌입 시 2007년 개통 이래 첫 파업이 된다.",
+        "quote": "앞서 민주노총 공공운수노조 공항철도지부는 지난 7월부터 10차례 교섭했지만 임금 인상과 인력 충원 등에 합의하지 못해 13일 하루 경고 파업에 들어간다고 예고 했었다.",
         "source_part": "body",
         "effective_at": null,
         "derivation": "explicit",
-        "source_id": "64ef9ee5396363cfd76bf0b9",
-        "source_revision": "82763076c7ad841436c8095d",
+        "source_id": "0cf254dd4f2b3d8a6195a6fd",
+        "source_revision": "5c9941a38f000f77ad8b8511",
         "reference_source": null
        },
        {
         "field_path": "/end",
-        "quote": "공항철도 노조는 교섭이 결렬될 경우 13일 하루 경고 파업을 예정대로 강행한다는 방침으로, 실제 돌입 시 2007년 개통 이래 첫 파업이 된다.",
+        "quote": "앞서 민주노총 공공운수노조 공항철도지부는 지난 7월부터 10차례 교섭했지만 임금 인상과 인력 충원 등에 합의하지 못해 13일 하루 경고 파업에 들어간다고 예고 했었다.",
         "source_part": "body",
         "effective_at": null,
         "derivation": "explicit",
-        "source_id": "64ef9ee5396363cfd76bf0b9",
-        "source_revision": "82763076c7ad841436c8095d",
+        "source_id": "0cf254dd4f2b3d8a6195a6fd",
+        "source_revision": "5c9941a38f000f77ad8b8511",
         "reference_source": null
        }
       ],
       "review_reasons": [
+       "DATE_UNCONFIRMED"
+      ]
+     }
+    },
+    {
+     "article_relevance": "related",
+     "transport_mode": "unknown",
+     "affected_regions": [],
+     "affected_routes": [],
+     "start": {
+      "raw": "첫차",
+      "date": null,
+      "time": null,
+      "timezone": "Asia/Seoul",
+      "basis": "first_service",
+      "assertion": "planned",
+      "open_ended": null
+     },
+     "end": {
+      "raw": null,
+      "date": null,
+      "time": null,
+      "timezone": "Asia/Seoul",
+      "basis": "unknown",
+      "assertion": "unknown",
+      "open_ended": null
+     },
+     "strike_status": {
+      "value": "unknown",
+      "conditions": [],
+      "scope_raw": "노사는 13일 오전 3시 30분에 2026년도 임금 교섭에서 잠정합의안을 도출하고 이날 하루 동안 첫차 운행부터 예정된 경고 파업 계획을 철회하기로 했다.",
+      "effective_at": null
+     },
+     "service_status": [],
+     "normal_service_exceptions": [],
+     "alternative_services": [],
+     "evidence_and_timestamps": {
+      "source_url": "https://www.hankyung.com/article/202611133984h",
+      "published_at": "2026-11-13T05:33:03+09:00",
+      "updated_at": null,
+      "collected_at": "2026-11-13T06:43:41.051804+09:00",
+      "field_evidence": [
+       {
+        "field_path": "/article_relevance",
+        "quote": "노사는 13일 오전 3시 30분에 2026년도 임금 교섭에서 잠정합의안을 도출하고 이날 하루 동안 첫차 운행부터 예정된 경고 파업 계획을 철회하기로 했다.",
+        "source_part": "body",
+        "effective_at": null,
+        "derivation": "explicit",
+        "source_id": "0cf254dd4f2b3d8a6195a6fd",
+        "source_revision": "5c9941a38f000f77ad8b8511",
+        "reference_source": null
+       },
+       {
+        "field_path": "/transport_mode",
+        "quote": "노사는 13일 오전 3시 30분에 2026년도 임금 교섭에서 잠정합의안을 도출하고 이날 하루 동안 첫차 운행부터 예정된 경고 파업 계획을 철회하기로 했다.",
+        "source_part": "body",
+        "effective_at": null,
+        "derivation": "explicit",
+        "source_id": "0cf254dd4f2b3d8a6195a6fd",
+        "source_revision": "5c9941a38f000f77ad8b8511",
+        "reference_source": null
+       },
+       {
+        "field_path": "/affected_regions",
+        "quote": "노사는 13일 오전 3시 30분에 2026년도 임금 교섭에서 잠정합의안을 도출하고 이날 하루 동안 첫차 운행부터 예정된 경고 파업 계획을 철회하기로 했다.",
+        "source_part": "body",
+        "effective_at": null,
+        "derivation": "explicit",
+        "source_id": "0cf254dd4f2b3d8a6195a6fd",
+        "source_revision": "5c9941a38f000f77ad8b8511",
+        "reference_source": null
+       },
+       {
+        "field_path": "/affected_routes",
+        "quote": "노사는 13일 오전 3시 30분에 2026년도 임금 교섭에서 잠정합의안을 도출하고 이날 하루 동안 첫차 운행부터 예정된 경고 파업 계획을 철회하기로 했다.",
+        "source_part": "body",
+        "effective_at": null,
+        "derivation": "explicit",
+        "source_id": "0cf254dd4f2b3d8a6195a6fd",
+        "source_revision": "5c9941a38f000f77ad8b8511",
+        "reference_source": null
+       },
+       {
+        "field_path": "/strike_status",
+        "quote": "노사는 13일 오전 3시 30분에 2026년도 임금 교섭에서 잠정합의안을 도출하고 이날 하루 동안 첫차 운행부터 예정된 경고 파업 계획을 철회하기로 했다.",
+        "source_part": "body",
+        "effective_at": null,
+        "derivation": "explicit",
+        "source_id": "0cf254dd4f2b3d8a6195a6fd",
+        "source_revision": "5c9941a38f000f77ad8b8511",
+        "reference_source": null
+       },
+       {
+        "field_path": "/service_status",
+        "quote": "노사는 13일 오전 3시 30분에 2026년도 임금 교섭에서 잠정합의안을 도출하고 이날 하루 동안 첫차 운행부터 예정된 경고 파업 계획을 철회하기로 했다.",
+        "source_part": "body",
+        "effective_at": null,
+        "derivation": "explicit",
+        "source_id": "0cf254dd4f2b3d8a6195a6fd",
+        "source_revision": "5c9941a38f000f77ad8b8511",
+        "reference_source": null
+       },
+       {
+        "field_path": "/normal_service_exceptions",
+        "quote": "노사는 13일 오전 3시 30분에 2026년도 임금 교섭에서 잠정합의안을 도출하고 이날 하루 동안 첫차 운행부터 예정된 경고 파업 계획을 철회하기로 했다.",
+        "source_part": "body",
+        "effective_at": null,
+        "derivation": "explicit",
+        "source_id": "0cf254dd4f2b3d8a6195a6fd",
+        "source_revision": "5c9941a38f000f77ad8b8511",
+        "reference_source": null
+       },
+       {
+        "field_path": "/alternative_services",
+        "quote": "노사는 13일 오전 3시 30분에 2026년도 임금 교섭에서 잠정합의안을 도출하고 이날 하루 동안 첫차 운행부터 예정된 경고 파업 계획을 철회하기로 했다.",
+        "source_part": "body",
+        "effective_at": null,
+        "derivation": "explicit",
+        "source_id": "0cf254dd4f2b3d8a6195a6fd",
+        "source_revision": "5c9941a38f000f77ad8b8511",
+        "reference_source": null
+       },
+       {
+        "field_path": "/start",
+        "quote": "노사는 13일 오전 3시 30분에 2026년도 임금 교섭에서 잠정합의안을 도출하고 이날 하루 동안 첫차 운행부터 예정된 경고 파업 계획을 철회하기로 했다.",
+        "source_part": "body",
+        "effective_at": null,
+        "derivation": "explicit",
+        "source_id": "0cf254dd4f2b3d8a6195a6fd",
+        "source_revision": "5c9941a38f000f77ad8b8511",
+        "reference_source": null
+       },
+       {
+        "field_path": "/end",
+        "quote": "노사는 13일 오전 3시 30분에 2026년도 임금 교섭에서 잠정합의안을 도출하고 이날 하루 동안 첫차 운행부터 예정된 경고 파업 계획을 철회하기로 했다.",
+        "source_part": "body",
+        "effective_at": null,
+        "derivation": "explicit",
+        "source_id": "0cf254dd4f2b3d8a6195a6fd",
+        "source_revision": "5c9941a38f000f77ad8b8511",
+        "reference_source": null
+       }
+      ],
+      "review_reasons": [
+       "UNSUPPORTED_OR_AMBIGUOUS_STATUS",
        "DATE_UNCONFIRMED"
       ]
      }
@@ -13901,12 +13967,12 @@
     "article_relevance": "unrelated",
     "processing_status": "success",
     "source": {
-     "source_id": "64ef9ee5396363cfd76bf0b9",
-     "source_url": "https://www.newspim.com/news/view/20261112001439",
-     "source_revision": "82763076c7ad841436c8095d",
-     "published_at": "2026-11-12T17:58:00+09:00",
-     "updated_at": "2026-11-12T17:58:00+09:00",
-     "collected_at": "2026-11-12T23:30:59.994744+09:00"
+     "source_id": "0cf254dd4f2b3d8a6195a6fd",
+     "source_url": "https://www.hankyung.com/article/202611133984h",
+     "source_revision": "5c9941a38f000f77ad8b8511",
+     "published_at": "2026-11-13T05:33:03+09:00",
+     "updated_at": null,
+     "collected_at": "2026-11-13T06:43:41.051804+09:00"
     },
     "events": [],
     "review_reasons": []
@@ -13950,7 +14016,7 @@
       "source_url": "https://www.newspim.com/news/view/20261109000918",
       "published_at": "2026-11-09T14:52:00+09:00",
       "updated_at": "2026-11-09T14:52:00+09:00",
-      "collected_at": "2026-11-12T23:31:02.640956+09:00",
+      "collected_at": "2026-11-13T06:43:46.870657+09:00",
       "field_evidence": [
        {
         "field_path": "/article_relevance",
@@ -14067,7 +14133,7 @@
      "source_revision": "69a4a1c9ccf732211d987651",
      "published_at": "2026-11-09T14:52:00+09:00",
      "updated_at": "2026-11-09T14:52:00+09:00",
-     "collected_at": "2026-11-12T23:31:02.640956+09:00"
+     "collected_at": "2026-11-13T06:43:46.870657+09:00"
     },
     "events": [
      {
@@ -14689,20 +14755,24 @@
  "transportReferences": [],
  "extractionFailures": [
   {
-   "source_url": "https://www.fnnews.com/news/202611111835154048",
-   "status": "validation_failed"
-  },
-  {
    "source_url": "https://www.newsis.com/view/NISI20261111_0002289287",
    "status": "validation_failed"
   },
   {
-   "source_url": "https://www.yna.co.kr/view/AKR20261111122400063?input=1195m",
+   "source_url": "https://www.fnnews.com/news/202611111835154048",
    "status": "validation_failed"
   },
   {
    "source_url": "https://www.seoul.co.kr/news/publicnews/local_govern/smc_movement/2026/11/12/20261112500350?wlog_tag3=naver",
    "status": "domain_blocked"
+  },
+  {
+   "source_url": "https://www.newsis.com/view/NISX20261113_0003866370",
+   "status": "body_fetch_failed"
+  },
+  {
+   "source_url": "https://www.nocutnews.co.kr/news/6605902?utm_source=naver&utm_medium=article&utm_campaign=20261112141709",
+   "status": "policy_unavailable"
   },
   {
    "source_url": "http://www.metroseoul.co.kr/article/20261112500088",
