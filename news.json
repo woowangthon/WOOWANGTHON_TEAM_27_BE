@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-13T22:48:38.423828+09:00",
+ "generatedAt": "2026-11-14T06:11:00.497548+09:00",
  "windowDays": 14,
  "queries": [
   "버스 파업",
@@ -17,7 +17,7 @@
    "url": "https://www.ncloud.com/product/applicationService/naverApiHub"
   }
  ],
- "articles": 292,
+ "articles": 296,
  "searchResults": [
   {
    "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8712674&ref=A",
@@ -445,6 +445,26 @@
    "query": "지하철 파업"
   },
   {
+   "url": "https://www.newsis.com/view/NISX20261113_0003867880",
+   "title": "[오늘의 주요일정]사회(11월14일 토요일)",
+   "query": "철도 파업"
+  },
+  {
+   "url": "https://www.gukjenews.com/news/articleView.html?idxno=3751787",
+   "title": "전국철도노조, 서울역서 5천여 명 결의대회…다음 달 10일 총파업 예고",
+   "query": "철도 파업"
+  },
+  {
+   "url": "https://www.ytn.co.kr/_ln/0102_202611132327011998",
+   "title": "철도노조, 오늘 오후 서울 도심서 총력 결의대회",
+   "query": "철도 파업"
+  },
+  {
+   "url": "https://www.ytn.co.kr/_ln/0102_202611132326548740",
+   "title": "철도노조, 오늘 오후 서울 도심서 총력 결의대회",
+   "query": "철도 파업"
+  },
+  {
    "url": "https://www.obsnews.co.kr/news/articleView.html?idxno=1543710",
    "title": "공항철도 노사 임금협상 타결…노조 파업계획 철회",
    "query": "철도 파업"
@@ -667,22 +687,22 @@
   {
    "url": "https://www.kyeongin.com/article/1774698",
    "title": "공항철도 13일 경고파업 철회… 노사 임금·단체협약 잠정합의",
-   "query": "철도 파업"
+   "query": "파업 예고 운행"
   },
   {
    "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8711741&ref=A",
    "title": "‘파업 예고’ 공항철도 협상 타결…열차 정상 운행",
-   "query": "철도 파업"
+   "query": "파업 예고 운행"
   },
   {
    "url": "https://www.etoday.co.kr/news/view/2647642",
    "title": "공항철도 노조 파업 철회…열차 정상 운행",
-   "query": "철도 파업"
+   "query": "파업 예고 운행"
   },
   {
    "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008843989&plink=ORI&cooper=NAVER",
    "title": "공항철도 노사 극적 타결…열차 정상 운행",
-   "query": "철도 파업"
+   "query": "파업 예고 운행"
   },
   {
    "url": "https://www.kukinews.com/article/view/kuk202611130005",
@@ -748,6 +768,11 @@
    "url": "https://www.smartbizn.com/news/articleView.html?idxno=159293",
    "title": "코레일·SR 통합하자마자 총파업···'철도 대란' 볼모 된 시민들",
    "query": "파업 예고 운행"
+  },
+  {
+   "url": "https://www.edaily.co.kr/News/Read?newsId=01285766645645720&mediaCodeNo=257&utm_source=naver&utm_medium=referral&utm_campaign=news_syndication&utm_content=original_article",
+   "title": "'비 오는 주말' 도심 곳곳서 마라톤·집회 열려 '혼잡'[사회in]",
+   "query": "집회 교통 통제"
   },
   {
    "url": "https://www.sisain.co.kr/news/articleView.html?idxno=58741",
@@ -830,13 +855,13 @@
    "query": "집회 교통 통제"
   },
   {
-   "url": "https://biz.heraldcorp.com/article/10929436?ref=naver",
-   "title": "“응급환자 이송 막힐라”…주말 도심 마라톤에 병원·결혼식장 비상",
+   "url": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202611080006&t=NN",
+   "title": "\"길 막히고 버스는 돌아가고\"…잇단 마라톤에 시민들 '부글'",
    "query": "집회 교통 통제"
   },
   {
-   "url": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202611080006&t=NN",
-   "title": "\"길 막히고 버스는 돌아가고\"…잇단 마라톤에 시민들 '부글'",
+   "url": "https://biz.heraldcorp.com/article/10929436?ref=naver",
+   "title": "“응급환자 이송 막힐라”…주말 도심 마라톤에 병원·결혼식장 비상",
    "query": "집회 교통 통제"
   },
   {
@@ -960,13 +985,13 @@
    "query": "집회 교통 통제"
   },
   {
-   "url": "https://www.newsclaim.co.kr/news/articleView.html?idxno=3081824",
-   "title": "전태일 56주기 앞 노동계 도심 집회",
+   "url": "https://www.dt.co.kr/article/12093654?ref=naver",
+   "title": "국힘 “특검검 규탄”·양대노총 “특구법 철회” 서울 곳곳 시위에 ‘...",
    "query": "집회 교통 통제"
   },
   {
-   "url": "https://www.dt.co.kr/article/12093654?ref=naver",
-   "title": "국힘 “특검검 규탄”·양대노총 “특구법 철회” 서울 곳곳 시위에 ‘...",
+   "url": "https://www.newsclaim.co.kr/news/articleView.html?idxno=3081824",
+   "title": "전태일 56주기 앞 노동계 도심 집회",
    "query": "집회 교통 통제"
   },
   {
@@ -985,9 +1010,9 @@
    "query": "집회 교통 통제"
   },
   {
-   "url": "http://www.yonhapnewstv.co.kr/news/MYH20261107133004M4x",
-   "title": "도심 곳곳에서 집회·마라톤…교통통제에 도로 혼잡",
-   "query": "집회 교통 통제"
+   "url": "https://www.topstarnews.net/news/articleView.html?idxno=16276181",
+   "title": "MBN 서울마라톤 개최, 15일 서울 광화문~잠실 대규모 교통통제… 통제 시...",
+   "query": "마라톤 도로 통제"
   },
   {
    "url": "https://ysmbc.co.kr/NewsArticle/1545675",
@@ -1225,11 +1250,6 @@
    "query": "마라톤 도로 통제"
   },
   {
-   "url": "https://www.m-economynews.com/news/article.html?no=72825",
-   "title": "15일 하프마라톤 대회로 종합운동장 일대 도로 통제",
-   "query": "마라톤 도로 통제"
-  },
-  {
    "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8712336&ref=A",
    "title": "[크랩] ‘민폐의 아이콘’ 된 마라톤 대회…못 막는 걸까, 안 막는 걸까...",
    "query": "축제 버스 우회"
@@ -1360,13 +1380,13 @@
    "query": "축제 버스 우회"
   },
   {
-   "url": "https://www.catholictimes.org/article/20261105500027",
-   "title": "2027 서울 WYD 폐막미사, 8월 8일 서울공항에서 봉헌",
+   "url": "https://news.cpbc.co.kr/article/1176845?division=NAVER",
+   "title": "서울 WYD, 월드컵경기장서 교황 맞는다…밤샘기도는 서울공항",
    "query": "축제 버스 우회"
   },
   {
-   "url": "https://news.cpbc.co.kr/article/1176845?division=NAVER",
-   "title": "서울 WYD, 월드컵경기장서 교황 맞는다…밤샘기도는 서울공항",
+   "url": "https://www.catholictimes.org/article/20261105500027",
+   "title": "2027 서울 WYD 폐막미사, 8월 8일 서울공항에서 봉헌",
    "query": "축제 버스 우회"
   },
   {
@@ -1482,6 +1502,23 @@
  ],
  "strikes": [
   {
+   "id": "9553fb68645e2b7e",
+   "mode": "rail",
+   "operator": "전국철도노조",
+   "regions": [
+    "전국"
+   ],
+   "status": "scheduled",
+   "quote": "다음 달 10일 총파업 예고",
+   "start": "2026-12-10",
+   "dateQuote": "다음 달 10일",
+   "articleTitle": "전국철도노조, 서울역서 5천여 명 결의대회…다음 달 10일 총파업 예고",
+   "url": "https://www.gukjenews.com/news/articleView.html?idxno=3751787",
+   "publishedAt": "2026-11-14T04:40:00.000",
+   "sourceCount": 4,
+   "model": "gemini-3.5-flash-lite"
+  },
+  {
    "id": "80bac0af34132519",
    "mode": "rail",
    "operator": "공항철도",
@@ -1565,23 +1602,6 @@
    "url": "https://www.abcn.kr/news/articleView.html?idxno=94450",
    "publishedAt": "2026-11-12T16:28:00.000",
    "sourceCount": 17,
-   "model": "gemini-3.5-flash-lite"
-  },
-  {
-   "id": "9b895971a741fbd7",
-   "mode": "rail",
-   "operator": "전국철도노동조합",
-   "regions": [
-    "전국"
-   ],
-   "status": "scheduled",
-   "quote": "전국철도노동조합이 11일 서울역 광장에서 12월 10일 오전 9시부터 무기한",
-   "start": "2026-12-10",
-   "dateQuote": "12월 10일 오전 9시부터",
-   "articleTitle": "석 달에 심리 한 번, 한덕수 구속은 20일 끝난다",
-   "url": "https://newscham.net/130158/",
-   "publishedAt": "2026-11-11T17:34:00.000",
-   "sourceCount": 1,
    "model": "gemini-3.5-flash-lite"
   },
   {
@@ -7515,7 +7535,185 @@
   },
   {
    "assertion": "planned",
-   "checked_at": "2026-11-13T22:48:32.654599+09:00",
+   "checked_at": "2026-11-14T06:10:36.885338+09:00",
+   "conflict": false,
+   "demo": false,
+   "disruption_confirmed": false,
+   "event_id": "4e66bd0b865810897b77487e",
+   "event_name": "전국철도노조",
+   "evidence": [
+    {
+     "derivation": "explicit",
+     "effective_at": null,
+     "field_path": "/article_relevance",
+     "quote": "세종대로 등 마로니에 공원→사랑채 동측 건너편, 윤 어게인 ▲오후 2시 전국철도노조, 동자동 서울역 12出~트윈시티남산 앞 全차로, 총파업 선포 결의대회 ▲오후 2시 전국교수노조, 종로2가, 탑골공원 앞, 2026년 전국교수 결의대회 ▲오후 2시 국본, 태평로1가 대한문 앞 인도, 박근혜 전 대통령 탄핵 무효 헌정복원 ▲오후 2시 자유고교연합, 강남대로 등 논현역 5出→교대역 3出, 공정수사 촉구 ▲오후 2시 청산리백야tv, 여의도동 민주당사 앞 이면도로, 경기도지사 제명 촉구 ▲오후 2시 노동자연대",
+     "reference_source": null,
+     "source_id": "6df1fbd2c7d67173e9395d00",
+     "source_part": "body",
+     "source_revision": "b7aa018389bf364fc0adc212"
+    },
+    {
+     "derivation": "explicit",
+     "effective_at": null,
+     "field_path": "/transport_mode",
+     "quote": "세종대로 등 마로니에 공원→사랑채 동측 건너편, 윤 어게인 ▲오후 2시 전국철도노조, 동자동 서울역 12出~트윈시티남산 앞 全차로, 총파업 선포 결의대회 ▲오후 2시 전국교수노조, 종로2가, 탑골공원 앞, 2026년 전국교수 결의대회 ▲오후 2시 국본, 태평로1가 대한문 앞 인도, 박근혜 전 대통령 탄핵 무효 헌정복원 ▲오후 2시 자유고교연합, 강남대로 등 논현역 5出→교대역 3出, 공정수사 촉구 ▲오후 2시 청산리백야tv, 여의도동 민주당사 앞 이면도로, 경기도지사 제명 촉구 ▲오후 2시 노동자연대",
+     "reference_source": null,
+     "source_id": "6df1fbd2c7d67173e9395d00",
+     "source_part": "body",
+     "source_revision": "b7aa018389bf364fc0adc212"
+    },
+    {
+     "derivation": "explicit",
+     "effective_at": null,
+     "field_path": "/affected_regions",
+     "quote": "세종대로 등 마로니에 공원→사랑채 동측 건너편, 윤 어게인 ▲오후 2시 전국철도노조, 동자동 서울역 12出~트윈시티남산 앞 全차로, 총파업 선포 결의대회 ▲오후 2시 전국교수노조, 종로2가, 탑골공원 앞, 2026년 전국교수 결의대회 ▲오후 2시 국본, 태평로1가 대한문 앞 인도, 박근혜 전 대통령 탄핵 무효 헌정복원 ▲오후 2시 자유고교연합, 강남대로 등 논현역 5出→교대역 3出, 공정수사 촉구 ▲오후 2시 청산리백야tv, 여의도동 민주당사 앞 이면도로, 경기도지사 제명 촉구 ▲오후 2시 노동자연대",
+     "reference_source": null,
+     "source_id": "6df1fbd2c7d67173e9395d00",
+     "source_part": "body",
+     "source_revision": "b7aa018389bf364fc0adc212"
+    },
+    {
+     "derivation": "explicit",
+     "effective_at": null,
+     "field_path": "/affected_routes",
+     "quote": "세종대로 등 마로니에 공원→사랑채 동측 건너편, 윤 어게인 ▲오후 2시 전국철도노조, 동자동 서울역 12出~트윈시티남산 앞 全차로, 총파업 선포 결의대회 ▲오후 2시 전국교수노조, 종로2가, 탑골공원 앞, 2026년 전국교수 결의대회 ▲오후 2시 국본, 태평로1가 대한문 앞 인도, 박근혜 전 대통령 탄핵 무효 헌정복원 ▲오후 2시 자유고교연합, 강남대로 등 논현역 5出→교대역 3出, 공정수사 촉구 ▲오후 2시 청산리백야tv, 여의도동 민주당사 앞 이면도로, 경기도지사 제명 촉구 ▲오후 2시 노동자연대",
+     "reference_source": null,
+     "source_id": "6df1fbd2c7d67173e9395d00",
+     "source_part": "body",
+     "source_revision": "b7aa018389bf364fc0adc212"
+    },
+    {
+     "derivation": "explicit",
+     "effective_at": null,
+     "field_path": "/strike_status",
+     "quote": "세종대로 등 마로니에 공원→사랑채 동측 건너편, 윤 어게인 ▲오후 2시 전국철도노조, 동자동 서울역 12出~트윈시티남산 앞 全차로, 총파업 선포 결의대회 ▲오후 2시 전국교수노조, 종로2가, 탑골공원 앞, 2026년 전국교수 결의대회 ▲오후 2시 국본, 태평로1가 대한문 앞 인도, 박근혜 전 대통령 탄핵 무효 헌정복원 ▲오후 2시 자유고교연합, 강남대로 등 논현역 5出→교대역 3出, 공정수사 촉구 ▲오후 2시 청산리백야tv, 여의도동 민주당사 앞 이면도로, 경기도지사 제명 촉구 ▲오후 2시 노동자연대",
+     "reference_source": null,
+     "source_id": "6df1fbd2c7d67173e9395d00",
+     "source_part": "body",
+     "source_revision": "b7aa018389bf364fc0adc212"
+    },
+    {
+     "derivation": "explicit",
+     "effective_at": null,
+     "field_path": "/service_status",
+     "quote": "세종대로 등 마로니에 공원→사랑채 동측 건너편, 윤 어게인 ▲오후 2시 전국철도노조, 동자동 서울역 12出~트윈시티남산 앞 全차로, 총파업 선포 결의대회 ▲오후 2시 전국교수노조, 종로2가, 탑골공원 앞, 2026년 전국교수 결의대회 ▲오후 2시 국본, 태평로1가 대한문 앞 인도, 박근혜 전 대통령 탄핵 무효 헌정복원 ▲오후 2시 자유고교연합, 강남대로 등 논현역 5出→교대역 3出, 공정수사 촉구 ▲오후 2시 청산리백야tv, 여의도동 민주당사 앞 이면도로, 경기도지사 제명 촉구 ▲오후 2시 노동자연대",
+     "reference_source": null,
+     "source_id": "6df1fbd2c7d67173e9395d00",
+     "source_part": "body",
+     "source_revision": "b7aa018389bf364fc0adc212"
+    },
+    {
+     "derivation": "explicit",
+     "effective_at": null,
+     "field_path": "/normal_service_exceptions",
+     "quote": "세종대로 등 마로니에 공원→사랑채 동측 건너편, 윤 어게인 ▲오후 2시 전국철도노조, 동자동 서울역 12出~트윈시티남산 앞 全차로, 총파업 선포 결의대회 ▲오후 2시 전국교수노조, 종로2가, 탑골공원 앞, 2026년 전국교수 결의대회 ▲오후 2시 국본, 태평로1가 대한문 앞 인도, 박근혜 전 대통령 탄핵 무효 헌정복원 ▲오후 2시 자유고교연합, 강남대로 등 논현역 5出→교대역 3出, 공정수사 촉구 ▲오후 2시 청산리백야tv, 여의도동 민주당사 앞 이면도로, 경기도지사 제명 촉구 ▲오후 2시 노동자연대",
+     "reference_source": null,
+     "source_id": "6df1fbd2c7d67173e9395d00",
+     "source_part": "body",
+     "source_revision": "b7aa018389bf364fc0adc212"
+    },
+    {
+     "derivation": "explicit",
+     "effective_at": null,
+     "field_path": "/alternative_services",
+     "quote": "세종대로 등 마로니에 공원→사랑채 동측 건너편, 윤 어게인 ▲오후 2시 전국철도노조, 동자동 서울역 12出~트윈시티남산 앞 全차로, 총파업 선포 결의대회 ▲오후 2시 전국교수노조, 종로2가, 탑골공원 앞, 2026년 전국교수 결의대회 ▲오후 2시 국본, 태평로1가 대한문 앞 인도, 박근혜 전 대통령 탄핵 무효 헌정복원 ▲오후 2시 자유고교연합, 강남대로 등 논현역 5出→교대역 3出, 공정수사 촉구 ▲오후 2시 청산리백야tv, 여의도동 민주당사 앞 이면도로, 경기도지사 제명 촉구 ▲오후 2시 노동자연대",
+     "reference_source": null,
+     "source_id": "6df1fbd2c7d67173e9395d00",
+     "source_part": "body",
+     "source_revision": "b7aa018389bf364fc0adc212"
+    },
+    {
+     "derivation": "explicit",
+     "effective_at": null,
+     "field_path": "/start",
+     "quote": "세종대로 등 마로니에 공원→사랑채 동측 건너편, 윤 어게인 ▲오후 2시 전국철도노조, 동자동 서울역 12出~트윈시티남산 앞 全차로, 총파업 선포 결의대회 ▲오후 2시 전국교수노조, 종로2가, 탑골공원 앞, 2026년 전국교수 결의대회 ▲오후 2시 국본, 태평로1가 대한문 앞 인도, 박근혜 전 대통령 탄핵 무효 헌정복원 ▲오후 2시 자유고교연합, 강남대로 등 논현역 5出→교대역 3出, 공정수사 촉구 ▲오후 2시 청산리백야tv, 여의도동 민주당사 앞 이면도로, 경기도지사 제명 촉구 ▲오후 2시 노동자연대",
+     "reference_source": null,
+     "source_id": "6df1fbd2c7d67173e9395d00",
+     "source_part": "body",
+     "source_revision": "b7aa018389bf364fc0adc212"
+    },
+    {
+     "derivation": "explicit",
+     "effective_at": null,
+     "field_path": "/end",
+     "quote": "세종대로 등 마로니에 공원→사랑채 동측 건너편, 윤 어게인 ▲오후 2시 전국철도노조, 동자동 서울역 12出~트윈시티남산 앞 全차로, 총파업 선포 결의대회 ▲오후 2시 전국교수노조, 종로2가, 탑골공원 앞, 2026년 전국교수 결의대회 ▲오후 2시 국본, 태평로1가 대한문 앞 인도, 박근혜 전 대통령 탄핵 무효 헌정복원 ▲오후 2시 자유고교연합, 강남대로 등 논현역 5出→교대역 3出, 공정수사 촉구 ▲오후 2시 청산리백야tv, 여의도동 민주당사 앞 이면도로, 경기도지사 제명 촉구 ▲오후 2시 노동자연대",
+     "reference_source": null,
+     "source_id": "6df1fbd2c7d67173e9395d00",
+     "source_part": "body",
+     "source_revision": "b7aa018389bf364fc0adc212"
+    }
+   ],
+   "exceptions": [],
+   "id": "0698db29baab927c9c4475da",
+   "modes": [
+    "rail"
+   ],
+   "period": {
+    "condition": null,
+    "end": {
+     "assertion": "planned",
+     "basis": "explicit",
+     "date": null,
+     "open_ended": false,
+     "raw": "오후 2시",
+     "time": "14:00",
+     "timezone": "Asia/Seoul"
+    },
+    "precision": "PARTIAL",
+    "start": {
+     "assertion": "planned",
+     "basis": "explicit",
+     "date": null,
+     "open_ended": null,
+     "raw": "오후 2시",
+     "time": "14:00",
+     "timezone": "Asia/Seoul"
+    }
+   },
+   "published_at": "2026-11-14T06:00:00+09:00",
+   "review_reasons": [
+    "UNSUPPORTED_OR_AMBIGUOUS_STATUS",
+    "DATE_UNCONFIRMED"
+   ],
+   "scope": [
+    {
+     "derivation": "article_explicit",
+     "normalized_name": "서울역",
+     "raw": "서울역",
+     "reference_id": null,
+     "reference_source": null,
+     "region": null
+    },
+    {
+     "derivation": "article_explicit",
+     "normalized_name": "논현역",
+     "raw": "논현역",
+     "reference_id": null,
+     "reference_source": null,
+     "region": null
+    },
+    {
+     "derivation": "article_explicit",
+     "normalized_name": "교대역",
+     "raw": "교대역",
+     "reference_id": null,
+     "reference_source": null,
+     "region": null
+    }
+   ],
+   "service_status": [],
+   "source_url": "https://www.newsis.com/view/NISX20261113_0003867880",
+   "status": "UNKNOWN",
+   "status_effective_at": null,
+   "strike_status": "unknown",
+   "type": "STRIKE",
+   "updated_at": null,
+   "version": 1,
+   "body_verified": true
+  },
+  {
+   "assertion": "planned",
+   "checked_at": "2026-11-14T06:10:55.492077+09:00",
    "conflict": false,
    "demo": false,
    "disruption_confirmed": false,
@@ -7705,7 +7903,7 @@
       "source_url": "https://www.newsis.com/view/NISX20261113_0003867649",
       "published_at": "2026-11-13T17:24:24+09:00",
       "updated_at": null,
-      "collected_at": "2026-11-13T22:48:07.831664+09:00",
+      "collected_at": "2026-11-14T06:10:31.760452+09:00",
       "field_evidence": [
        {
         "field_path": "/article_relevance",
@@ -7822,12 +8020,262 @@
      "source_revision": "d5a52337e59318f994fdb8fa",
      "published_at": "2026-11-13T17:24:24+09:00",
      "updated_at": null,
-     "collected_at": "2026-11-13T22:48:07.831664+09:00"
+     "collected_at": "2026-11-14T06:10:31.760452+09:00"
     },
     "events": [],
     "review_reasons": [
      "UNSUPPORTED_EVENT_CONTEXT"
     ]
+   }
+  },
+  {
+   "strikes": [
+    {
+     "article_relevance": "related",
+     "transport_mode": "rail",
+     "affected_regions": [],
+     "affected_routes": [
+      {
+       "raw": "서울역",
+       "normalized_name": "서울역",
+       "region": null,
+       "reference_id": null,
+       "derivation": "article_explicit",
+       "reference_source": null
+      },
+      {
+       "raw": "논현역",
+       "normalized_name": "논현역",
+       "region": null,
+       "reference_id": null,
+       "derivation": "article_explicit",
+       "reference_source": null
+      },
+      {
+       "raw": "교대역",
+       "normalized_name": "교대역",
+       "region": null,
+       "reference_id": null,
+       "derivation": "article_explicit",
+       "reference_source": null
+      }
+     ],
+     "start": {
+      "raw": "오후 2시",
+      "date": null,
+      "time": "14:00",
+      "timezone": "Asia/Seoul",
+      "basis": "explicit",
+      "assertion": "planned",
+      "open_ended": null
+     },
+     "end": {
+      "raw": "오후 2시",
+      "date": null,
+      "time": "14:00",
+      "timezone": "Asia/Seoul",
+      "basis": "explicit",
+      "assertion": "planned",
+      "open_ended": false
+     },
+     "strike_status": {
+      "value": "unknown",
+      "conditions": [],
+      "scope_raw": "세종대로 등 마로니에 공원→사랑채 동측 건너편, 윤 어게인 ▲오후 2시 전국철도노조, 동자동 서울역 12出~트윈시티남산 앞 全차로, 총파업 선포 결의대회 ▲오후 2시 전국교수노조, 종로2가, 탑골공원 앞, 2026년 전국교수 결의대회 ▲오후 2시 국본, 태평로1가 대한문 앞 인도, 박근혜 전 대통령 탄핵 무효 헌정복원 ▲오후 2시 자유고교연합, 강남대로 등 논현역 5出→교대역 3出, 공정수사 촉구 ▲오후 2시 청산리백야tv, 여의도동 민주당사 앞 이면도로, 경기도지사 제명 촉구 ▲오후 2시 노동자연대",
+      "effective_at": null
+     },
+     "service_status": [],
+     "normal_service_exceptions": [],
+     "alternative_services": [],
+     "evidence_and_timestamps": {
+      "source_url": "https://www.newsis.com/view/NISX20261113_0003867880",
+      "published_at": "2026-11-14T06:00:00+09:00",
+      "updated_at": null,
+      "collected_at": "2026-11-14T06:10:36.885338+09:00",
+      "field_evidence": [
+       {
+        "field_path": "/article_relevance",
+        "quote": "세종대로 등 마로니에 공원→사랑채 동측 건너편, 윤 어게인 ▲오후 2시 전국철도노조, 동자동 서울역 12出~트윈시티남산 앞 全차로, 총파업 선포 결의대회 ▲오후 2시 전국교수노조, 종로2가, 탑골공원 앞, 2026년 전국교수 결의대회 ▲오후 2시 국본, 태평로1가 대한문 앞 인도, 박근혜 전 대통령 탄핵 무효 헌정복원 ▲오후 2시 자유고교연합, 강남대로 등 논현역 5出→교대역 3出, 공정수사 촉구 ▲오후 2시 청산리백야tv, 여의도동 민주당사 앞 이면도로, 경기도지사 제명 촉구 ▲오후 2시 노동자연대",
+        "source_part": "body",
+        "effective_at": null,
+        "derivation": "explicit",
+        "source_id": "6df1fbd2c7d67173e9395d00",
+        "source_revision": "b7aa018389bf364fc0adc212",
+        "reference_source": null
+       },
+       {
+        "field_path": "/transport_mode",
+        "quote": "세종대로 등 마로니에 공원→사랑채 동측 건너편, 윤 어게인 ▲오후 2시 전국철도노조, 동자동 서울역 12出~트윈시티남산 앞 全차로, 총파업 선포 결의대회 ▲오후 2시 전국교수노조, 종로2가, 탑골공원 앞, 2026년 전국교수 결의대회 ▲오후 2시 국본, 태평로1가 대한문 앞 인도, 박근혜 전 대통령 탄핵 무효 헌정복원 ▲오후 2시 자유고교연합, 강남대로 등 논현역 5出→교대역 3出, 공정수사 촉구 ▲오후 2시 청산리백야tv, 여의도동 민주당사 앞 이면도로, 경기도지사 제명 촉구 ▲오후 2시 노동자연대",
+        "source_part": "body",
+        "effective_at": null,
+        "derivation": "explicit",
+        "source_id": "6df1fbd2c7d67173e9395d00",
+        "source_revision": "b7aa018389bf364fc0adc212",
+        "reference_source": null
+       },
+       {
+        "field_path": "/affected_regions",
+        "quote": "세종대로 등 마로니에 공원→사랑채 동측 건너편, 윤 어게인 ▲오후 2시 전국철도노조, 동자동 서울역 12出~트윈시티남산 앞 全차로, 총파업 선포 결의대회 ▲오후 2시 전국교수노조, 종로2가, 탑골공원 앞, 2026년 전국교수 결의대회 ▲오후 2시 국본, 태평로1가 대한문 앞 인도, 박근혜 전 대통령 탄핵 무효 헌정복원 ▲오후 2시 자유고교연합, 강남대로 등 논현역 5出→교대역 3出, 공정수사 촉구 ▲오후 2시 청산리백야tv, 여의도동 민주당사 앞 이면도로, 경기도지사 제명 촉구 ▲오후 2시 노동자연대",
+        "source_part": "body",
+        "effective_at": null,
+        "derivation": "explicit",
+        "source_id": "6df1fbd2c7d67173e9395d00",
+        "source_revision": "b7aa018389bf364fc0adc212",
+        "reference_source": null
+       },
+       {
+        "field_path": "/affected_routes",
+        "quote": "세종대로 등 마로니에 공원→사랑채 동측 건너편, 윤 어게인 ▲오후 2시 전국철도노조, 동자동 서울역 12出~트윈시티남산 앞 全차로, 총파업 선포 결의대회 ▲오후 2시 전국교수노조, 종로2가, 탑골공원 앞, 2026년 전국교수 결의대회 ▲오후 2시 국본, 태평로1가 대한문 앞 인도, 박근혜 전 대통령 탄핵 무효 헌정복원 ▲오후 2시 자유고교연합, 강남대로 등 논현역 5出→교대역 3出, 공정수사 촉구 ▲오후 2시 청산리백야tv, 여의도동 민주당사 앞 이면도로, 경기도지사 제명 촉구 ▲오후 2시 노동자연대",
+        "source_part": "body",
+        "effective_at": null,
+        "derivation": "explicit",
+        "source_id": "6df1fbd2c7d67173e9395d00",
+        "source_revision": "b7aa018389bf364fc0adc212",
+        "reference_source": null
+       },
+       {
+        "field_path": "/strike_status",
+        "quote": "세종대로 등 마로니에 공원→사랑채 동측 건너편, 윤 어게인 ▲오후 2시 전국철도노조, 동자동 서울역 12出~트윈시티남산 앞 全차로, 총파업 선포 결의대회 ▲오후 2시 전국교수노조, 종로2가, 탑골공원 앞, 2026년 전국교수 결의대회 ▲오후 2시 국본, 태평로1가 대한문 앞 인도, 박근혜 전 대통령 탄핵 무효 헌정복원 ▲오후 2시 자유고교연합, 강남대로 등 논현역 5出→교대역 3出, 공정수사 촉구 ▲오후 2시 청산리백야tv, 여의도동 민주당사 앞 이면도로, 경기도지사 제명 촉구 ▲오후 2시 노동자연대",
+        "source_part": "body",
+        "effective_at": null,
+        "derivation": "explicit",
+        "source_id": "6df1fbd2c7d67173e9395d00",
+        "source_revision": "b7aa018389bf364fc0adc212",
+        "reference_source": null
+       },
+       {
+        "field_path": "/service_status",
+        "quote": "세종대로 등 마로니에 공원→사랑채 동측 건너편, 윤 어게인 ▲오후 2시 전국철도노조, 동자동 서울역 12出~트윈시티남산 앞 全차로, 총파업 선포 결의대회 ▲오후 2시 전국교수노조, 종로2가, 탑골공원 앞, 2026년 전국교수 결의대회 ▲오후 2시 국본, 태평로1가 대한문 앞 인도, 박근혜 전 대통령 탄핵 무효 헌정복원 ▲오후 2시 자유고교연합, 강남대로 등 논현역 5出→교대역 3出, 공정수사 촉구 ▲오후 2시 청산리백야tv, 여의도동 민주당사 앞 이면도로, 경기도지사 제명 촉구 ▲오후 2시 노동자연대",
+        "source_part": "body",
+        "effective_at": null,
+        "derivation": "explicit",
+        "source_id": "6df1fbd2c7d67173e9395d00",
+        "source_revision": "b7aa018389bf364fc0adc212",
+        "reference_source": null
+       },
+       {
+        "field_path": "/normal_service_exceptions",
+        "quote": "세종대로 등 마로니에 공원→사랑채 동측 건너편, 윤 어게인 ▲오후 2시 전국철도노조, 동자동 서울역 12出~트윈시티남산 앞 全차로, 총파업 선포 결의대회 ▲오후 2시 전국교수노조, 종로2가, 탑골공원 앞, 2026년 전국교수 결의대회 ▲오후 2시 국본, 태평로1가 대한문 앞 인도, 박근혜 전 대통령 탄핵 무효 헌정복원 ▲오후 2시 자유고교연합, 강남대로 등 논현역 5出→교대역 3出, 공정수사 촉구 ▲오후 2시 청산리백야tv, 여의도동 민주당사 앞 이면도로, 경기도지사 제명 촉구 ▲오후 2시 노동자연대",
+        "source_part": "body",
+        "effective_at": null,
+        "derivation": "explicit",
+        "source_id": "6df1fbd2c7d67173e9395d00",
+        "source_revision": "b7aa018389bf364fc0adc212",
+        "reference_source": null
+       },
+       {
+        "field_path": "/alternative_services",
+        "quote": "세종대로 등 마로니에 공원→사랑채 동측 건너편, 윤 어게인 ▲오후 2시 전국철도노조, 동자동 서울역 12出~트윈시티남산 앞 全차로, 총파업 선포 결의대회 ▲오후 2시 전국교수노조, 종로2가, 탑골공원 앞, 2026년 전국교수 결의대회 ▲오후 2시 국본, 태평로1가 대한문 앞 인도, 박근혜 전 대통령 탄핵 무효 헌정복원 ▲오후 2시 자유고교연합, 강남대로 등 논현역 5出→교대역 3出, 공정수사 촉구 ▲오후 2시 청산리백야tv, 여의도동 민주당사 앞 이면도로, 경기도지사 제명 촉구 ▲오후 2시 노동자연대",
+        "source_part": "body",
+        "effective_at": null,
+        "derivation": "explicit",
+        "source_id": "6df1fbd2c7d67173e9395d00",
+        "source_revision": "b7aa018389bf364fc0adc212",
+        "reference_source": null
+       },
+       {
+        "field_path": "/start",
+        "quote": "세종대로 등 마로니에 공원→사랑채 동측 건너편, 윤 어게인 ▲오후 2시 전국철도노조, 동자동 서울역 12出~트윈시티남산 앞 全차로, 총파업 선포 결의대회 ▲오후 2시 전국교수노조, 종로2가, 탑골공원 앞, 2026년 전국교수 결의대회 ▲오후 2시 국본, 태평로1가 대한문 앞 인도, 박근혜 전 대통령 탄핵 무효 헌정복원 ▲오후 2시 자유고교연합, 강남대로 등 논현역 5出→교대역 3出, 공정수사 촉구 ▲오후 2시 청산리백야tv, 여의도동 민주당사 앞 이면도로, 경기도지사 제명 촉구 ▲오후 2시 노동자연대",
+        "source_part": "body",
+        "effective_at": null,
+        "derivation": "explicit",
+        "source_id": "6df1fbd2c7d67173e9395d00",
+        "source_revision": "b7aa018389bf364fc0adc212",
+        "reference_source": null
+       },
+       {
+        "field_path": "/end",
+        "quote": "세종대로 등 마로니에 공원→사랑채 동측 건너편, 윤 어게인 ▲오후 2시 전국철도노조, 동자동 서울역 12出~트윈시티남산 앞 全차로, 총파업 선포 결의대회 ▲오후 2시 전국교수노조, 종로2가, 탑골공원 앞, 2026년 전국교수 결의대회 ▲오후 2시 국본, 태평로1가 대한문 앞 인도, 박근혜 전 대통령 탄핵 무효 헌정복원 ▲오후 2시 자유고교연합, 강남대로 등 논현역 5出→교대역 3出, 공정수사 촉구 ▲오후 2시 청산리백야tv, 여의도동 민주당사 앞 이면도로, 경기도지사 제명 촉구 ▲오후 2시 노동자연대",
+        "source_part": "body",
+        "effective_at": null,
+        "derivation": "explicit",
+        "source_id": "6df1fbd2c7d67173e9395d00",
+        "source_revision": "b7aa018389bf364fc0adc212",
+        "reference_source": null
+       }
+      ],
+      "review_reasons": [
+       "UNSUPPORTED_OR_AMBIGUOUS_STATUS",
+       "DATE_UNCONFIRMED"
+      ]
+     }
+    }
+   ],
+   "events": {
+    "schema_version": "1.0",
+    "article_relevance": "related",
+    "processing_status": "success",
+    "source": {
+     "source_id": "6df1fbd2c7d67173e9395d00",
+     "source_url": "https://www.newsis.com/view/NISX20261113_0003867880",
+     "source_revision": "b7aa018389bf364fc0adc212",
+     "published_at": "2026-11-14T06:00:00+09:00",
+     "updated_at": null,
+     "collected_at": "2026-11-14T06:10:36.885338+09:00"
+    },
+    "events": [
+     {
+      "event_ref": "0",
+      "event_name": "사수 집회",
+      "event_type": "RALLY",
+      "event_status": "UNKNOWN",
+      "event_period": {
+       "start": {
+        "raw": "오전 7시",
+        "date": null,
+        "time": "07:00",
+        "timezone": "Asia/Seoul",
+        "basis": "explicit",
+        "assertion": "planned",
+        "open_ended": null
+       },
+       "end": {
+        "raw": "오전 7시",
+        "date": null,
+        "time": "07:00",
+        "timezone": "Asia/Seoul",
+        "basis": "explicit",
+        "assertion": "planned",
+        "open_ended": false
+       },
+       "precision": "UNKNOWN",
+       "condition": null
+      },
+      "event_locations": [
+       {
+        "raw": "신길역",
+        "normalized_name": "신길역",
+        "region": "서울",
+        "reference_id": null,
+        "derivation": "article_explicit",
+        "reference_source": null
+       },
+       {
+        "raw": "능인선",
+        "normalized_name": "능인선",
+        "region": "서울",
+        "reference_id": null,
+        "derivation": "article_explicit",
+        "reference_source": null
+       }
+      ],
+      "impacts": [],
+      "evidence": [
+       {
+        "field_path": "/event",
+        "quote": "[서울=뉴시스]신유림 기자 = ▲오전 7시 민주노총 건설노조 서경북부 건설기계지부, 신길동 포스코 건설현장 앞, 생존권 사수 집회 ▲오전 7시 국민의힘 영등포乙 당원 등, 신길동 신길역 1出 앞, VIP 재판 재개 촉구 ▲오전 8시 보건의료노조, 효자동 사랑채 동측 건너편, 대한적십자 회장 인준 거부 촉구 ▲오전 9시 전국언론노조 국제신문지부, 개포동 능인선원 앞, 파탄경영 책임 및 성실대회 촉구 ▲오전 11시 자녀교육권 부모연합, 후암동 서울시 교육청 앞 인도, 학교내 차별금지법 저지 국민대회 ▲오후 1시 자유통일당",
+        "source_part": "body",
+        "effective_at": null,
+        "derivation": "explicit",
+        "source_id": "6df1fbd2c7d67173e9395d00",
+        "source_revision": "b7aa018389bf364fc0adc212",
+        "reference_source": null
+       }
+      ],
+      "review_reasons": []
+     }
+    ],
+    "review_reasons": []
    }
   },
   {
@@ -7868,7 +8316,7 @@
       "source_url": "https://www.fnnews.com/news/202611101525402414",
       "published_at": "2026-11-10T15:41:44+09:00",
       "updated_at": "2026-11-10T15:41:44+09:00",
-      "collected_at": "2026-11-13T22:48:15.582864+09:00",
+      "collected_at": "2026-11-14T06:10:40.598107+09:00",
       "field_evidence": [
        {
         "field_path": "/article_relevance",
@@ -7985,7 +8433,7 @@
      "source_revision": "e4db1223ba466bbc3a5481ca",
      "published_at": "2026-11-10T15:41:44+09:00",
      "updated_at": "2026-11-10T15:41:44+09:00",
-     "collected_at": "2026-11-13T22:48:15.582864+09:00"
+     "collected_at": "2026-11-14T06:10:40.598107+09:00"
     },
     "events": [],
     "review_reasons": []
@@ -8029,7 +8477,7 @@
       "source_url": "https://www.yna.co.kr/view/AKR20261113065800009?input=1195m",
       "published_at": "2026-11-13T10:37:55+09:00",
       "updated_at": "2026-11-13T10:37:55+09:00",
-      "collected_at": "2026-11-13T22:48:22.667842+09:00",
+      "collected_at": "2026-11-14T06:10:48.663529+09:00",
       "field_evidence": [
        {
         "field_path": "/article_relevance",
@@ -8146,518 +8594,12 @@
      "source_revision": "8fbe5e38b5a3f2fbb60d2e51",
      "published_at": "2026-11-13T10:37:55+09:00",
      "updated_at": "2026-11-13T10:37:55+09:00",
-     "collected_at": "2026-11-13T22:48:22.667842+09:00"
+     "collected_at": "2026-11-14T06:10:48.663529+09:00"
     },
     "events": [],
     "review_reasons": [
      "UNSUPPORTED_EVENT_CONTEXT"
     ]
-   }
-  },
-  {
-   "strikes": [
-    {
-     "article_relevance": "related",
-     "transport_mode": "rail",
-     "affected_regions": [],
-     "affected_routes": [],
-     "start": {
-      "raw": "1시",
-      "date": null,
-      "time": "01:00",
-      "timezone": "Asia/Seoul",
-      "basis": "explicit",
-      "assertion": "planned",
-      "open_ended": null
-     },
-     "end": {
-      "raw": null,
-      "date": null,
-      "time": null,
-      "timezone": "Asia/Seoul",
-      "basis": "unknown",
-      "assertion": "unknown",
-      "open_ended": null
-     },
-     "strike_status": {
-      "value": "unknown",
-      "conditions": [],
-      "scope_raw": "연합뉴스 공항철도 노사가 13일 파업을 1시간 30분 가량 앞두고 극적으로 임금 협상을 타결했다. 이번 합의로 2007년 공항철도 개통 이래 첫 파업 우려가 해소됐다.",
-      "effective_at": null
-     },
-     "service_status": [],
-     "normal_service_exceptions": [],
-     "alternative_services": [],
-     "evidence_and_timestamps": {
-      "source_url": "https://www.khan.co.kr/article/202611130731001",
-      "published_at": "2026-11-13T07:31:00+09:00",
-      "updated_at": null,
-      "collected_at": "2026-11-13T22:48:30.239655+09:00",
-      "field_evidence": [
-       {
-        "field_path": "/article_relevance",
-        "quote": "연합뉴스 공항철도 노사가 13일 파업을 1시간 30분 가량 앞두고 극적으로 임금 협상을 타결했다.",
-        "source_part": "body",
-        "effective_at": null,
-        "derivation": "explicit",
-        "source_id": "8fa15ca162c69fd18bd1711d",
-        "source_revision": "308d7530c6436b4f70ac643c",
-        "reference_source": null
-       },
-       {
-        "field_path": "/article_relevance",
-        "quote": "이번 합의로 2007년 공항철도 개통 이래 첫 파업 우려가 해소됐다.",
-        "source_part": "body",
-        "effective_at": null,
-        "derivation": "explicit",
-        "source_id": "8fa15ca162c69fd18bd1711d",
-        "source_revision": "308d7530c6436b4f70ac643c",
-        "reference_source": null
-       },
-       {
-        "field_path": "/transport_mode",
-        "quote": "연합뉴스 공항철도 노사가 13일 파업을 1시간 30분 가량 앞두고 극적으로 임금 협상을 타결했다.",
-        "source_part": "body",
-        "effective_at": null,
-        "derivation": "explicit",
-        "source_id": "8fa15ca162c69fd18bd1711d",
-        "source_revision": "308d7530c6436b4f70ac643c",
-        "reference_source": null
-       },
-       {
-        "field_path": "/transport_mode",
-        "quote": "이번 합의로 2007년 공항철도 개통 이래 첫 파업 우려가 해소됐다.",
-        "source_part": "body",
-        "effective_at": null,
-        "derivation": "explicit",
-        "source_id": "8fa15ca162c69fd18bd1711d",
-        "source_revision": "308d7530c6436b4f70ac643c",
-        "reference_source": null
-       },
-       {
-        "field_path": "/affected_regions",
-        "quote": "연합뉴스 공항철도 노사가 13일 파업을 1시간 30분 가량 앞두고 극적으로 임금 협상을 타결했다.",
-        "source_part": "body",
-        "effective_at": null,
-        "derivation": "explicit",
-        "source_id": "8fa15ca162c69fd18bd1711d",
-        "source_revision": "308d7530c6436b4f70ac643c",
-        "reference_source": null
-       },
-       {
-        "field_path": "/affected_regions",
-        "quote": "이번 합의로 2007년 공항철도 개통 이래 첫 파업 우려가 해소됐다.",
-        "source_part": "body",
-        "effective_at": null,
-        "derivation": "explicit",
-        "source_id": "8fa15ca162c69fd18bd1711d",
-        "source_revision": "308d7530c6436b4f70ac643c",
-        "reference_source": null
-       },
-       {
-        "field_path": "/affected_routes",
-        "quote": "연합뉴스 공항철도 노사가 13일 파업을 1시간 30분 가량 앞두고 극적으로 임금 협상을 타결했다.",
-        "source_part": "body",
-        "effective_at": null,
-        "derivation": "explicit",
-        "source_id": "8fa15ca162c69fd18bd1711d",
-        "source_revision": "308d7530c6436b4f70ac643c",
-        "reference_source": null
-       },
-       {
-        "field_path": "/affected_routes",
-        "quote": "이번 합의로 2007년 공항철도 개통 이래 첫 파업 우려가 해소됐다.",
-        "source_part": "body",
-        "effective_at": null,
-        "derivation": "explicit",
-        "source_id": "8fa15ca162c69fd18bd1711d",
-        "source_revision": "308d7530c6436b4f70ac643c",
-        "reference_source": null
-       },
-       {
-        "field_path": "/strike_status",
-        "quote": "연합뉴스 공항철도 노사가 13일 파업을 1시간 30분 가량 앞두고 극적으로 임금 협상을 타결했다.",
-        "source_part": "body",
-        "effective_at": null,
-        "derivation": "explicit",
-        "source_id": "8fa15ca162c69fd18bd1711d",
-        "source_revision": "308d7530c6436b4f70ac643c",
-        "reference_source": null
-       },
-       {
-        "field_path": "/strike_status",
-        "quote": "이번 합의로 2007년 공항철도 개통 이래 첫 파업 우려가 해소됐다.",
-        "source_part": "body",
-        "effective_at": null,
-        "derivation": "explicit",
-        "source_id": "8fa15ca162c69fd18bd1711d",
-        "source_revision": "308d7530c6436b4f70ac643c",
-        "reference_source": null
-       },
-       {
-        "field_path": "/service_status",
-        "quote": "연합뉴스 공항철도 노사가 13일 파업을 1시간 30분 가량 앞두고 극적으로 임금 협상을 타결했다.",
-        "source_part": "body",
-        "effective_at": null,
-        "derivation": "explicit",
-        "source_id": "8fa15ca162c69fd18bd1711d",
-        "source_revision": "308d7530c6436b4f70ac643c",
-        "reference_source": null
-       },
-       {
-        "field_path": "/service_status",
-        "quote": "이번 합의로 2007년 공항철도 개통 이래 첫 파업 우려가 해소됐다.",
-        "source_part": "body",
-        "effective_at": null,
-        "derivation": "explicit",
-        "source_id": "8fa15ca162c69fd18bd1711d",
-        "source_revision": "308d7530c6436b4f70ac643c",
-        "reference_source": null
-       },
-       {
-        "field_path": "/normal_service_exceptions",
-        "quote": "연합뉴스 공항철도 노사가 13일 파업을 1시간 30분 가량 앞두고 극적으로 임금 협상을 타결했다.",
-        "source_part": "body",
-        "effective_at": null,
-        "derivation": "explicit",
-        "source_id": "8fa15ca162c69fd18bd1711d",
-        "source_revision": "308d7530c6436b4f70ac643c",
-        "reference_source": null
-       },
-       {
-        "field_path": "/normal_service_exceptions",
-        "quote": "이번 합의로 2007년 공항철도 개통 이래 첫 파업 우려가 해소됐다.",
-        "source_part": "body",
-        "effective_at": null,
-        "derivation": "explicit",
-        "source_id": "8fa15ca162c69fd18bd1711d",
-        "source_revision": "308d7530c6436b4f70ac643c",
-        "reference_source": null
-       },
-       {
-        "field_path": "/alternative_services",
-        "quote": "연합뉴스 공항철도 노사가 13일 파업을 1시간 30분 가량 앞두고 극적으로 임금 협상을 타결했다.",
-        "source_part": "body",
-        "effective_at": null,
-        "derivation": "explicit",
-        "source_id": "8fa15ca162c69fd18bd1711d",
-        "source_revision": "308d7530c6436b4f70ac643c",
-        "reference_source": null
-       },
-       {
-        "field_path": "/alternative_services",
-        "quote": "이번 합의로 2007년 공항철도 개통 이래 첫 파업 우려가 해소됐다.",
-        "source_part": "body",
-        "effective_at": null,
-        "derivation": "explicit",
-        "source_id": "8fa15ca162c69fd18bd1711d",
-        "source_revision": "308d7530c6436b4f70ac643c",
-        "reference_source": null
-       },
-       {
-        "field_path": "/start",
-        "quote": "연합뉴스 공항철도 노사가 13일 파업을 1시간 30분 가량 앞두고 극적으로 임금 협상을 타결했다.",
-        "source_part": "body",
-        "effective_at": null,
-        "derivation": "explicit",
-        "source_id": "8fa15ca162c69fd18bd1711d",
-        "source_revision": "308d7530c6436b4f70ac643c",
-        "reference_source": null
-       },
-       {
-        "field_path": "/start",
-        "quote": "이번 합의로 2007년 공항철도 개통 이래 첫 파업 우려가 해소됐다.",
-        "source_part": "body",
-        "effective_at": null,
-        "derivation": "explicit",
-        "source_id": "8fa15ca162c69fd18bd1711d",
-        "source_revision": "308d7530c6436b4f70ac643c",
-        "reference_source": null
-       },
-       {
-        "field_path": "/end",
-        "quote": "연합뉴스 공항철도 노사가 13일 파업을 1시간 30분 가량 앞두고 극적으로 임금 협상을 타결했다.",
-        "source_part": "body",
-        "effective_at": null,
-        "derivation": "explicit",
-        "source_id": "8fa15ca162c69fd18bd1711d",
-        "source_revision": "308d7530c6436b4f70ac643c",
-        "reference_source": null
-       },
-       {
-        "field_path": "/end",
-        "quote": "이번 합의로 2007년 공항철도 개통 이래 첫 파업 우려가 해소됐다.",
-        "source_part": "body",
-        "effective_at": null,
-        "derivation": "explicit",
-        "source_id": "8fa15ca162c69fd18bd1711d",
-        "source_revision": "308d7530c6436b4f70ac643c",
-        "reference_source": null
-       }
-      ],
-      "review_reasons": [
-       "UNSUPPORTED_OR_AMBIGUOUS_STATUS",
-       "DATE_UNCONFIRMED"
-      ]
-     }
-    },
-    {
-     "article_relevance": "unrelated",
-     "transport_mode": "unknown",
-     "affected_regions": [],
-     "affected_routes": [],
-     "start": {
-      "raw": null,
-      "date": null,
-      "time": null,
-      "timezone": "Asia/Seoul",
-      "basis": "unknown",
-      "assertion": "unknown",
-      "open_ended": null
-     },
-     "end": {
-      "raw": null,
-      "date": null,
-      "time": null,
-      "timezone": "Asia/Seoul",
-      "basis": "unknown",
-      "assertion": "unknown",
-      "open_ended": null
-     },
-     "strike_status": {
-      "value": "unknown",
-      "conditions": [],
-      "scope_raw": null,
-      "effective_at": null
-     },
-     "service_status": [],
-     "normal_service_exceptions": [],
-     "alternative_services": [],
-     "evidence_and_timestamps": {
-      "source_url": "https://www.khan.co.kr/article/202611130731001",
-      "published_at": "2026-11-13T07:31:00+09:00",
-      "updated_at": null,
-      "collected_at": "2026-11-13T22:48:30.239655+09:00",
-      "field_evidence": [
-       {
-        "field_path": "/article_relevance",
-        "quote": "노조는 협상 타결에 따라 이날 하루 동안 첫차 운행부터 예정된 경고 파업 계획을 철회하기로 했다.",
-        "source_part": "body",
-        "effective_at": null,
-        "derivation": "explicit",
-        "source_id": "8fa15ca162c69fd18bd1711d",
-        "source_revision": "308d7530c6436b4f70ac643c",
-        "reference_source": null
-       },
-       {
-        "field_path": "/article_relevance",
-        "quote": "지난 7월부터 이어진 본교섭 및 실무교섭에도 이견을 좁히지 못하다가 경고 파업을 목전에 두고 합의점을 찾았다.",
-        "source_part": "body",
-        "effective_at": null,
-        "derivation": "explicit",
-        "source_id": "8fa15ca162c69fd18bd1711d",
-        "source_revision": "308d7530c6436b4f70ac643c",
-        "reference_source": null
-       },
-       {
-        "field_path": "/transport_mode",
-        "quote": "노조는 협상 타결에 따라 이날 하루 동안 첫차 운행부터 예정된 경고 파업 계획을 철회하기로 했다.",
-        "source_part": "body",
-        "effective_at": null,
-        "derivation": "explicit",
-        "source_id": "8fa15ca162c69fd18bd1711d",
-        "source_revision": "308d7530c6436b4f70ac643c",
-        "reference_source": null
-       },
-       {
-        "field_path": "/transport_mode",
-        "quote": "지난 7월부터 이어진 본교섭 및 실무교섭에도 이견을 좁히지 못하다가 경고 파업을 목전에 두고 합의점을 찾았다.",
-        "source_part": "body",
-        "effective_at": null,
-        "derivation": "explicit",
-        "source_id": "8fa15ca162c69fd18bd1711d",
-        "source_revision": "308d7530c6436b4f70ac643c",
-        "reference_source": null
-       },
-       {
-        "field_path": "/affected_regions",
-        "quote": "노조는 협상 타결에 따라 이날 하루 동안 첫차 운행부터 예정된 경고 파업 계획을 철회하기로 했다.",
-        "source_part": "body",
-        "effective_at": null,
-        "derivation": "explicit",
-        "source_id": "8fa15ca162c69fd18bd1711d",
-        "source_revision": "308d7530c6436b4f70ac643c",
-        "reference_source": null
-       },
-       {
-        "field_path": "/affected_regions",
-        "quote": "지난 7월부터 이어진 본교섭 및 실무교섭에도 이견을 좁히지 못하다가 경고 파업을 목전에 두고 합의점을 찾았다.",
-        "source_part": "body",
-        "effective_at": null,
-        "derivation": "explicit",
-        "source_id": "8fa15ca162c69fd18bd1711d",
-        "source_revision": "308d7530c6436b4f70ac643c",
-        "reference_source": null
-       },
-       {
-        "field_path": "/affected_routes",
-        "quote": "노조는 협상 타결에 따라 이날 하루 동안 첫차 운행부터 예정된 경고 파업 계획을 철회하기로 했다.",
-        "source_part": "body",
-        "effective_at": null,
-        "derivation": "explicit",
-        "source_id": "8fa15ca162c69fd18bd1711d",
-        "source_revision": "308d7530c6436b4f70ac643c",
-        "reference_source": null
-       },
-       {
-        "field_path": "/affected_routes",
-        "quote": "지난 7월부터 이어진 본교섭 및 실무교섭에도 이견을 좁히지 못하다가 경고 파업을 목전에 두고 합의점을 찾았다.",
-        "source_part": "body",
-        "effective_at": null,
-        "derivation": "explicit",
-        "source_id": "8fa15ca162c69fd18bd1711d",
-        "source_revision": "308d7530c6436b4f70ac643c",
-        "reference_source": null
-       },
-       {
-        "field_path": "/strike_status",
-        "quote": "노조는 협상 타결에 따라 이날 하루 동안 첫차 운행부터 예정된 경고 파업 계획을 철회하기로 했다.",
-        "source_part": "body",
-        "effective_at": null,
-        "derivation": "explicit",
-        "source_id": "8fa15ca162c69fd18bd1711d",
-        "source_revision": "308d7530c6436b4f70ac643c",
-        "reference_source": null
-       },
-       {
-        "field_path": "/strike_status",
-        "quote": "지난 7월부터 이어진 본교섭 및 실무교섭에도 이견을 좁히지 못하다가 경고 파업을 목전에 두고 합의점을 찾았다.",
-        "source_part": "body",
-        "effective_at": null,
-        "derivation": "explicit",
-        "source_id": "8fa15ca162c69fd18bd1711d",
-        "source_revision": "308d7530c6436b4f70ac643c",
-        "reference_source": null
-       },
-       {
-        "field_path": "/service_status",
-        "quote": "노조는 협상 타결에 따라 이날 하루 동안 첫차 운행부터 예정된 경고 파업 계획을 철회하기로 했다.",
-        "source_part": "body",
-        "effective_at": null,
-        "derivation": "explicit",
-        "source_id": "8fa15ca162c69fd18bd1711d",
-        "source_revision": "308d7530c6436b4f70ac643c",
-        "reference_source": null
-       },
-       {
-        "field_path": "/service_status",
-        "quote": "지난 7월부터 이어진 본교섭 및 실무교섭에도 이견을 좁히지 못하다가 경고 파업을 목전에 두고 합의점을 찾았다.",
-        "source_part": "body",
-        "effective_at": null,
-        "derivation": "explicit",
-        "source_id": "8fa15ca162c69fd18bd1711d",
-        "source_revision": "308d7530c6436b4f70ac643c",
-        "reference_source": null
-       },
-       {
-        "field_path": "/normal_service_exceptions",
-        "quote": "노조는 협상 타결에 따라 이날 하루 동안 첫차 운행부터 예정된 경고 파업 계획을 철회하기로 했다.",
-        "source_part": "body",
-        "effective_at": null,
-        "derivation": "explicit",
-        "source_id": "8fa15ca162c69fd18bd1711d",
-        "source_revision": "308d7530c6436b4f70ac643c",
-        "reference_source": null
-       },
-       {
-        "field_path": "/normal_service_exceptions",
-        "quote": "지난 7월부터 이어진 본교섭 및 실무교섭에도 이견을 좁히지 못하다가 경고 파업을 목전에 두고 합의점을 찾았다.",
-        "source_part": "body",
-        "effective_at": null,
-        "derivation": "explicit",
-        "source_id": "8fa15ca162c69fd18bd1711d",
-        "source_revision": "308d7530c6436b4f70ac643c",
-        "reference_source": null
-       },
-       {
-        "field_path": "/alternative_services",
-        "quote": "노조는 협상 타결에 따라 이날 하루 동안 첫차 운행부터 예정된 경고 파업 계획을 철회하기로 했다.",
-        "source_part": "body",
-        "effective_at": null,
-        "derivation": "explicit",
-        "source_id": "8fa15ca162c69fd18bd1711d",
-        "source_revision": "308d7530c6436b4f70ac643c",
-        "reference_source": null
-       },
-       {
-        "field_path": "/alternative_services",
-        "quote": "지난 7월부터 이어진 본교섭 및 실무교섭에도 이견을 좁히지 못하다가 경고 파업을 목전에 두고 합의점을 찾았다.",
-        "source_part": "body",
-        "effective_at": null,
-        "derivation": "explicit",
-        "source_id": "8fa15ca162c69fd18bd1711d",
-        "source_revision": "308d7530c6436b4f70ac643c",
-        "reference_source": null
-       },
-       {
-        "field_path": "/start",
-        "quote": "노조는 협상 타결에 따라 이날 하루 동안 첫차 운행부터 예정된 경고 파업 계획을 철회하기로 했다.",
-        "source_part": "body",
-        "effective_at": null,
-        "derivation": "explicit",
-        "source_id": "8fa15ca162c69fd18bd1711d",
-        "source_revision": "308d7530c6436b4f70ac643c",
-        "reference_source": null
-       },
-       {
-        "field_path": "/start",
-        "quote": "지난 7월부터 이어진 본교섭 및 실무교섭에도 이견을 좁히지 못하다가 경고 파업을 목전에 두고 합의점을 찾았다.",
-        "source_part": "body",
-        "effective_at": null,
-        "derivation": "explicit",
-        "source_id": "8fa15ca162c69fd18bd1711d",
-        "source_revision": "308d7530c6436b4f70ac643c",
-        "reference_source": null
-       },
-       {
-        "field_path": "/end",
-        "quote": "노조는 협상 타결에 따라 이날 하루 동안 첫차 운행부터 예정된 경고 파업 계획을 철회하기로 했다.",
-        "source_part": "body",
-        "effective_at": null,
-        "derivation": "explicit",
-        "source_id": "8fa15ca162c69fd18bd1711d",
-        "source_revision": "308d7530c6436b4f70ac643c",
-        "reference_source": null
-       },
-       {
-        "field_path": "/end",
-        "quote": "지난 7월부터 이어진 본교섭 및 실무교섭에도 이견을 좁히지 못하다가 경고 파업을 목전에 두고 합의점을 찾았다.",
-        "source_part": "body",
-        "effective_at": null,
-        "derivation": "explicit",
-        "source_id": "8fa15ca162c69fd18bd1711d",
-        "source_revision": "308d7530c6436b4f70ac643c",
-        "reference_source": null
-       }
-      ],
-      "review_reasons": []
-     }
-    }
-   ],
-   "events": {
-    "schema_version": "1.0",
-    "article_relevance": "unrelated",
-    "processing_status": "success",
-    "source": {
-     "source_id": "8fa15ca162c69fd18bd1711d",
-     "source_url": "https://www.khan.co.kr/article/202611130731001",
-     "source_revision": "308d7530c6436b4f70ac643c",
-     "published_at": "2026-11-13T07:31:00+09:00",
-     "updated_at": null,
-     "collected_at": "2026-11-13T22:48:30.239655+09:00"
-    },
-    "events": [],
-    "review_reasons": []
    }
   },
   {
@@ -8698,7 +8640,7 @@
       "source_url": "https://www.hankyung.com/article/202611133984h",
       "published_at": "2026-11-13T05:33:03+09:00",
       "updated_at": null,
-      "collected_at": "2026-11-13T22:48:32.654599+09:00",
+      "collected_at": "2026-11-14T06:10:55.492077+09:00",
       "field_evidence": [
        {
         "field_path": "/article_relevance",
@@ -8840,7 +8782,7 @@
       "source_url": "https://www.hankyung.com/article/202611133984h",
       "published_at": "2026-11-13T05:33:03+09:00",
       "updated_at": null,
-      "collected_at": "2026-11-13T22:48:32.654599+09:00",
+      "collected_at": "2026-11-14T06:10:55.492077+09:00",
       "field_evidence": [
        {
         "field_path": "/article_relevance",
@@ -8984,7 +8926,7 @@
       "source_url": "https://www.hankyung.com/article/202611133984h",
       "published_at": "2026-11-13T05:33:03+09:00",
       "updated_at": null,
-      "collected_at": "2026-11-13T22:48:32.654599+09:00",
+      "collected_at": "2026-11-14T06:10:55.492077+09:00",
       "field_evidence": [
        {
         "field_path": "/article_relevance",
@@ -9101,7 +9043,7 @@
      "source_revision": "5c9941a38f000f77ad8b8511",
      "published_at": "2026-11-13T05:33:03+09:00",
      "updated_at": null,
-     "collected_at": "2026-11-13T22:48:32.654599+09:00"
+     "collected_at": "2026-11-14T06:10:55.492077+09:00"
     },
     "events": [],
     "review_reasons": []
@@ -9145,7 +9087,7 @@
       "source_url": "https://www.newspim.com/news/view/20261109000918",
       "published_at": "2026-11-09T14:52:00+09:00",
       "updated_at": "2026-11-09T14:52:00+09:00",
-      "collected_at": "2026-11-13T22:48:38.353019+09:00",
+      "collected_at": "2026-11-14T06:11:00.407175+09:00",
       "field_evidence": [
        {
         "field_path": "/article_relevance",
@@ -9262,7 +9204,7 @@
      "source_revision": "69a4a1c9ccf732211d987651",
      "published_at": "2026-11-09T14:52:00+09:00",
      "updated_at": "2026-11-09T14:52:00+09:00",
-     "collected_at": "2026-11-13T22:48:38.353019+09:00"
+     "collected_at": "2026-11-14T06:11:00.407175+09:00"
     },
     "events": [
      {
