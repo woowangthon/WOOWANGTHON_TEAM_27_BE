@@ -16,7 +16,7 @@ dependencies:
     version: ^0.3.0
     git:
       url: https://github.com/woowangthon/WOOWANGTHON_TEAM_27_AI.git
-      ref: main
+      ref: e3e41fb0e829c2216d034895b9fd148b19b2a8df
 
 dev_dependencies:
   lints: ^6.0.0
