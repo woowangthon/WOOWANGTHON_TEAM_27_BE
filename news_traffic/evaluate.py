@@ -2,6 +2,7 @@
 from datetime import timedelta
 from math import asin, cos, radians, sin, sqrt
 from .common import CONFIG, KST, dt
+from .geography import domestic_impact
 
 
 def distance(a, b):
@@ -39,12 +40,16 @@ def match_space(s, impact, config):
     trip_ids = set(t.get('facility_ids', []))
     if ids and trip_ids:
         if ids & trip_ids:
-            return 'ROUTE_MATCH'
+            matched = [x for x in scope if x.get('reference_id') in trip_ids]
+            if any(all(not x.get(k) or x[k] == t.get(k) for k in ('direction', 'section')) for x in matched):
+                return 'ROUTE_MATCH'
+            return 'UNKNOWN' if any(not t.get(k) for x in matched for k in ('direction', 'section') if x.get(k)) else 'NO_MATCH'
         if impact['type'] in ('STRIKE', 'BUS_DETOUR', 'STOP_SKIP', 'STATION_RESTRICTION'):
             return 'NO_MATCH'
     # Coordinates only enter through a separately verified reference adapter.
-    if s.get('verified_point') and impact.get('verified_point'):
-        if distance(s['verified_point'], impact['verified_point']) <= config['nearby_meters']:
+    radius = impact.get('affected_radius_m')
+    if s.get('verified_point') and impact.get('verified_point') and impact.get('area_reference_source') and isinstance(radius, (int, float)) and 0 < radius < float('inf'):
+        if distance(s['verified_point'], impact['verified_point']) <= radius:
             return 'NEARBY'
     regions = {x['region'] for x in scope if x.get('region')}
     if regions and s.get('region'):
@@ -58,7 +63,11 @@ def evaluate(s, impact, now, prior=None, config=CONFIG):
     mode = 'UNKNOWN' if s['trip']['mode'] == 'unknown' or not impact['modes'] else 'APPLICABLE' if s['trip']['mode'] in impact['modes'] else 'NOT_APPLICABLE'
     previous = prior and prior['decision'] in ('RECOMMEND', 'CAUTION', 'REFERENCE', 'NEEDS_REVIEW')
     decision, reason = 'NEEDS_REVIEW', 'INSUFFICIENT_MATCH_DATA'
-    if impact['status'] in ('WITHDRAWN', 'ENDED', 'NORMAL') and not impact.get('conflict'):
+    if not domestic_impact(impact):
+        decision, reason = 'IGNORE', 'DOMESTIC_SUBJECT_UNCONFIRMED'
+    elif impact['type'] == 'STRIKE' and (sp != 'ROUTE_MATCH' or mode != 'APPLICABLE'):
+        decision, reason = ('RESOLVED' if previous else 'IGNORE'), 'STRIKE_ROUTE_NOT_CONFIRMED'
+    elif impact['status'] in ('WITHDRAWN', 'ENDED', 'NORMAL') and not impact.get('conflict'):
         decision, reason = ('RESOLVED' if previous else 'IGNORE'), 'IMPACT_RELEASED'
     elif s['attendance'] == 'ONLINE' or dt(s['start']) <= dt(now):
         decision, reason = ('RESOLVED' if previous else 'IGNORE'), 'SCHEDULE_INELIGIBLE'

@@ -1,5 +1,5 @@
 # 실제 데이터를 주기적으로 수집해 이 저장소의 `data` 브랜치에 게시한다.
-# - 06:00 KST: 행사 전체 (서울 문화행사 · TourAPI 축제 · K-Startup 공고 · KOPIS 공연) + 교통 통제
+# - 06:00 KST: 행사 전체 (서울 문화행사 · TourAPI 축제 · KOPIS 공연) + 교통 통제
 # - 그 외 3시간마다: 교통 통제 (서울시 TOPIS) + 뉴스 파업 판독 (네이버 뉴스 → Gemini)
 #   ※ ITS는 해외 IP 차단으로 앱이 기기에서 직접 조회한다
 # 앱은 https://raw.githubusercontent.com/woowangthon/WOOWANGTHON_TEAM_27_BE/data/{events,traffic,news}.json 을 받는다.
@@ -26,6 +26,8 @@ jobs:
     runs-on: ubuntu-latest
     timeout-minutes: 30
     env:
+      # Enable only after conditions review and core/FE rollout (ops/SOTONG.md).
+      SOTONG_ENABLED: ${{ vars.SOTONG_ENABLED || 'false' }}
       TZ: Asia/Seoul # "오늘"과 수집 기간을 한국 시간 기준으로
       FULL: ${{ github.event_name != 'schedule' || github.event.schedule == '0 21 * * *' }}
       SEOUL_OPEN_API_KEY: ${{ secrets.SEOUL_OPEN_API_KEY }}
@@ -54,13 +56,41 @@ jobs:
           key: ai-cache-${{ github.run_id }}
           restore-keys: ai-cache-
 
-      - name: Collect events
+      - name: Restore durable contest ledger and previous events
+        id: contest-state
         if: env.FULL == 'true'
+        continue-on-error: true # Unverifiable restore skips events, traffic/news continue.
+        run: |
+          mkdir -p out
+          set +e
+          git ls-remote --exit-code --heads origin data >/tmp/contest-branch-ref
+          BRANCH_STATUS=$?
+          set -e
+          if [ "$BRANCH_STATUS" = 0 ]; then
+            git fetch --no-tags --depth=1 origin data
+            if git cat-file -e FETCH_HEAD:events.json 2>/dev/null; then
+              git show FETCH_HEAD:events.json > out/previous-events.json
+            fi
+            if git cat-file -e FETCH_HEAD:contests-state.json 2>/dev/null; then
+              git show FETCH_HEAD:contests-state.json > out/contests-state.json
+            fi
+          elif [ "$BRANCH_STATUS" != 2 ]; then
+            echo 'Cannot verify data branch; retain published events and ledger'
+            exit 1
+          fi
+
+      - name: Collect events
+        id: events
+        if: env.FULL == 'true' && steps.contest-state.outcome == 'success'
+        continue-on-error: true # Validation/preservation failure must not stop traffic/news.
         run: dart run bin/collect_events.dart --out=out/events.json
 
       - name: Validate events
-        if: env.FULL == 'true'
+        id: events-validation
+        if: steps.events.outcome == 'success'
+        continue-on-error: true
         run: |
+          dart run bin/validate_contests.dart out/events.json
           python3 - <<'PY'
           import json
           d = json.load(open("out/events.json"))
@@ -127,7 +157,10 @@ jobs:
           else
             mkdir /tmp/data && git -C /tmp/data init -b data && git -C /tmp/data remote add origin "$REMOTE"
           fi
-          [ -f out/events.json ] && cp out/events.json /tmp/data/events.json
+          if [ "${{ steps.events-validation.outcome }}" = success ]; then
+            cp out/events.json /tmp/data/events.json
+            cp out/contests-state.json /tmp/data/contests-state.json
+          fi
           if [ "${{ steps.traffic-state.outcome }}" = success ] && [ -f out/traffic-v2.json ]; then
             if dart run bin/publish_traffic.dart --dir=out --base=/tmp/data --legacy; then
             if [ -f out/traffic.json ]; then cp out/traffic.json /tmp/data/traffic.json; fi

@@ -82,13 +82,21 @@ packages:
     source: hosted
     version: "1.16.0"
   crypto:
-    dependency: transitive
+    dependency: "direct main"
     description:
       name: crypto
       sha256: e3626ae6270383c9e3a549f34c9e4cd26c09ae6a9adaab2bf4737a00340efdc4
       url: "https://pub.dev"
     source: hosted
     version: "3.0.8"
+  csslib:
+    dependency: transitive
+    description:
+      name: csslib
+      sha256: "09bad715f418841f976c77db72d5398dc1253c21fb9c0c7f0b0b985860b2d58e"
+      url: "https://pub.dev"
+    source: hosted
+    version: "1.0.2"
   ffi:
     dependency: transitive
     description:
@@ -121,6 +129,14 @@ packages:
       url: "https://pub.dev"
     source: hosted
     version: "2.2.0"
+  html:
+    dependency: "direct main"
+    description:
+      name: html
+      sha256: "6d1264f2dffa1b1101c25a91dff0dc2daee4c18e87cd8538729773c073dbf602"
+      url: "https://pub.dev"
+    source: hosted
+    version: "0.15.6"
   http:
     dependency: "direct main"
     description:
@@ -158,10 +174,10 @@ packages:
     description:
       path: "."
       ref: main
-      resolved-ref: ba8d283af6ce206d4da65e5d1941dedd3ad91cb9
+      resolved-ref: "7380e60f12bb77c69aa4f775c8b4eb9c8cd59656"
       url: "https://github.com/woowangthon/WOOWANGTHON_TEAM_27_AI.git"
     source: git
-    version: "0.2.0"
+    version: "0.3.0"
   lints:
     dependency: "direct dev"
     description:

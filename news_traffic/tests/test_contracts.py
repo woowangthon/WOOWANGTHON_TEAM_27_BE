@@ -231,12 +231,12 @@ class DecisionTests(unittest.TestCase):
         self.s['trip'].update(departure=None,arrival=None,facility_ids=[])
         self.s['verified_point']=[37.56,126.97];self.i['verified_point']=[37.561,126.97]
         self.assertEqual(self.decide()['time_match'],'WINDOW_MATCH')
-        self.assertEqual(self.decide()['decision'],'RECOMMEND')
+        self.assertEqual(self.decide()['decision'],'IGNORE')
         self.assertNotIn('2시간 일찍',self.decide()['message'])
 
     def test_D09_region_reference(self):
         self.s['trip']['facility_ids']=[]
-        self.assertEqual(self.decide()['decision'],'REFERENCE')
+        self.assertEqual(self.decide()['decision'],'IGNORE')
 
     def test_D13_missing_date_review(self):
         self.i['period']['start']['date']=None
@@ -257,7 +257,7 @@ class DecisionTests(unittest.TestCase):
         self.assertEqual(self.decide()['decision'],'IGNORE')
 
     def test_D19_missing_mode(self):
-        self.s['trip']['mode']='unknown';self.assertEqual(self.decide()['decision'],'CAUTION')
+        self.s['trip']['mode']='unknown';self.assertEqual(self.decide()['decision'],'IGNORE')
 
     def test_D20_conflict(self):
         self.i['conflict']=True;self.assertEqual(self.decide()['decision'],'NEEDS_REVIEW')

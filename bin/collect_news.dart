@@ -95,7 +95,7 @@ Future<void> main(List<String> args) async {
     for (final a in articles.values)
       if (cache[a.id]?['strike'] case final Map<String, dynamic> j) TransitStrike.fromJson(j),
   ];
-  final merged = StrikeExtractor.merge(strikes);
+  final merged = StrikeExtractor.merge(strikes.where((s) => s.isDomestic).toList());
   _saveCache(cache, keep: now.subtract(const Duration(days: 30)));
   final file = File(out)..createSync(recursive: true);
   file.writeAsStringSync(const JsonEncoder.withIndent(' ').convert({

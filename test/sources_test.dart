@@ -203,79 +203,6 @@ void main() {
     });
   });
 
-  group('KStartup', () {
-    Map<String, dynamic> row({String sn = '179739', String end = '20261113', String field = '행사ㆍ네트워크'}) => {
-          'aply_mthd_onli_rcpt_istc': null,
-          'aply_trgt': '일반기업,1인 창조기업',
-          'aply_trgt_ctnt': '• 아산시 소재 사업장을 보유한 기업',
-          'biz_aply_url': null,
-          'biz_enyy': '예비창업자,1년미만',
-          'biz_gdnc_url': 'forms.gle/ryHx22aymGc9yFUL8',
-          'biz_pbanc_nm': '2026 아산 투자유치 Build-Up 프로그램 참여기업 모집',
-          'detl_pg_url': 'https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=$sn',
-          'pbanc_ctnt': '아산 지역 유망기업의 투자 역량 강화를 지원합니다.',
-          'pbanc_ntrp_nm': '조슈아파트너스(주)',
-          'pbanc_rcpt_bgng_dt': '20261105',
-          'pbanc_rcpt_end_dt': end,
-          'pbanc_sn': int.parse(sn),
-          'rcrt_prgs_yn': 'Y',
-          'supt_biz_clsfc': field,
-          'supt_regin': '충남',
-        };
-
-    test('공고 → 주소 없는 행사, 마감 = 접수 종료', () {
-      final e = KStartup.parse(KStartup.rows({'data': [row()], 'matchCount': 1}).single)!;
-      expect(e.id, 'kstartup-179739');
-      expect(e.category, EventCategory.startupSupport);
-      expect(e.placeless, isTrue);
-      expect(e.deadline, DateTime(2026, 11, 13));
-      expect(e.start, DateTime(2026, 11, 5));
-      expect(e.city, '충남');
-      expect(e.venue, '조슈아파트너스(주)');
-      expect(e.tags, containsAll(['startup', 'networking']));
-      expect(e.registerUrl, 'https://forms.gle/ryHx22aymGc9yFUL8'); // sxemasiz havola tuzatildi
-      expect(e.url, contains('pbancSn=179739'));
-      // JSON을 거쳐도 placeless가 유지된다
-      expect(RadarEvent.fromJson(e.toJson()).placeless, isTrue);
-    });
-
-    test('키 오류 → SourceException', () {
-      expect(
-        () => KStartup.rows({
-          'OpenAPI_ServiceResponse': {
-            'cmmMsgHeader': {'returnAuthMsg': '등록되지 않은 서비스키'},
-          },
-        }),
-        throwsA(isA<SourceException>()),
-      );
-    });
-
-    test('InsightEngine: 공고는 "근처"가 아니고 마감 카드는 ≤ 3개', () {
-      final programs = [
-        for (var i = 0; i < 8; i++) KStartup.parse(row(sn: '${100 + i}', end: '2026111${i % 9}'))!,
-      ];
-      final plan = Plan(
-        id: 'p',
-        title: 'Asan',
-        start: DateTime(2026, 11, 10, 9),
-        end: DateTime(2026, 11, 10, 18),
-        locationText: '충남',
-        city: '충남',
-        location: const GeoPoint(36.6588, 126.6728), // 지역 중심 바로 위
-      );
-      final insights = const InsightEngine().build(
-        plans: [plan],
-        events: programs,
-        interests: {'startup'},
-        now: DateTime(2026, 11, 7),
-      );
-      expect(insights.where((i) => i.planId == 'p'), isEmpty);
-      final deadlines = insights.where((i) => i.kind == InsightKind.deadline).toList();
-      expect(deadlines, hasLength(3));
-      expect(deadlines.first.body.ko, contains('공고의 접수가'));
-    });
-  });
-
   group('tagsFor', () {
     test('짧은 라틴 단어는 단어 단위로만', () {
       expect(tagsFor(['AI와 함께하는 미래']), contains('ai'));
@@ -309,7 +236,7 @@ void main() {
     expect(card.body.ko, startsWith('11월 10일'));
   });
 
-  test('InsightEngine: 축제 근처 — 혼잡 참고 카드 하나', () {
+  test('InsightEngine: 행사 위치만으로는 혼잡 카드를 만들지 않는다', () {
     final plan = Plan(
       id: 'p2',
       title: 'Trip',
@@ -325,7 +252,7 @@ void main() {
           ..['HMPG_ADDR'] = 'https://x/view.do?cultcode=f$i')!,
     ];
     final insights = const InsightEngine().build(plans: [plan], events: events, interests: {}, now: DateTime(2026, 12, 20));
-    expect(insights.where((i) => i.id.startsWith('crowd:')), hasLength(1));
+    expect(insights.where((i) => i.id.startsWith('crowd:')), isEmpty);
   });
 
   test('InsightEngine: 일정 하나 주변에 행사 수십 개 → 카드 수 제한', () {

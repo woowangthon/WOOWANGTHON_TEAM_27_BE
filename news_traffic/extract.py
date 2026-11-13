@@ -7,6 +7,7 @@ from copy import deepcopy
 from datetime import date, timedelta
 from .common import CONFIG, KST, DomainError, digest, dt
 from .schemas import validate
+from .geography import domestic_subject
 
 MODES = {'버스': 'bus', '지하철': 'subway', '도시철도': 'subway', '철도': 'rail', '열차': 'rail', 'KTX': 'rail'}
 
@@ -168,7 +169,7 @@ def extract_strike_records(article, refs=()):
     records = []
     for (rs, mode, actor), ss in groups.items():
         text = ' '.join(ss)
-        related = '파업' in text
+        related = '파업' in text and domestic_subject(text)
         state = strike_state(text) if related else 'unknown'
         p = period(text, a, 'actual' if state in ('ongoing', 'ended') else 'planned')
         direct_text = ' '.join(re.split(r'반면|대체|증편', s)[0] for s in ss if '파업' in s)
@@ -225,17 +226,19 @@ IMPACT_PATTERNS = [
     ('BUS_DETOUR', r'버스.*우회', ['bus']),
     ('STOP_SKIP', r'무정차', ['bus']),
     ('STATION_RESTRICTION', r'출입구.*폐쇄|역.*이용 제한', ['walk']),
-    ('CONGESTION_FORECAST', r'(?:교통|보행).*혼잡.*(?:예상|전망)', []),
+    ('CONGESTION_FORECAST', r'(?:교통|차량|보행).*혼잡.*(?:예상|전망)', []),
 ]
 
 
 def extract_event_traffic(article, refs=()):
     a = prepare(article)
     ss = sentences(a['body'])
-    types = [('MARATHON', '마라톤'), ('RALLY', '집회'), ('FESTIVAL', '축제')]
+    types = [('MARATHON', '마라톤'), ('RALLY', '집회'), ('RALLY', '시위'), ('FESTIVAL', '축제')]
     typed = [(s, typ, token) for s in ss for typ, token in types if token in s]
     events = []
     for index, (s, typ, token) in enumerate(typed):
+        if not domestic_subject(s):
+            continue
         # A constrained named-event paragraph; independent paragraphs become independent candidates.
         name = re.search(r'([가-힣A-Za-z0-9]+\s*' + token + ')', s)
         name = name[1] if name else token
@@ -262,8 +265,12 @@ def extract_event_traffic(article, refs=()):
             if re.search(r'이에 따라|행사로|철거|해당 행사|이로 인해', follow):
                 linked.append(follow)
         for clause in linked:
+            if not domestic_subject(s + ' ' + clause):
+                continue
             for impact_type, pattern, modes in IMPACT_PATTERNS:
                 if not re.search(pattern, clause):
+                    continue
+                if impact_type == 'CONGESTION_FORECAST' and re.search(r'혼잡.*(?:없|않|아니)', clause):
                     continue
                 if re.search(r'통제(?:는|를|가)?\s*(?:없|하지 않)|정상 통행', clause) and impact_type == 'ROAD_CLOSURE':
                     continue

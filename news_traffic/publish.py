@@ -10,6 +10,7 @@ from pathlib import Path
 from .collect import Fetcher
 from .common import CONFIG, now
 from .store import Store
+from .geography import domestic_impact
 
 
 def select_results(results, limit):
@@ -42,6 +43,8 @@ def publish(feed, store, articles, refs=()):
     snapshot = store.snapshot('public-feed-only')
     impacts = []
     for impact in snapshot['impacts']:
+        if not domestic_impact(impact):
+            continue
         item = {**impact, 'body_verified': True}
         # Coordinates may ONLY enter through a separately supplied trusted reference.
         for scope in item['scope']:
@@ -50,6 +53,11 @@ def publish(feed, store, articles, refs=()):
             if ref and ref.get('point'):
                 item['verified_point'] = ref['point']
                 item['point_reference_source'] = ref['source']
+                # Only a reference for the affected scope may define its area.
+                radius = ref.get('affected_radius_m')
+                if isinstance(radius, (int, float)) and 0 < radius < float('inf'):
+                    item['affected_radius_m'] = radius
+                    item['area_reference_source'] = ref['source']
                 break
         impacts.append(item)
     return {**feed, 'generatedAt': now(), 'newsTrafficSchemaVersion': '1.0',

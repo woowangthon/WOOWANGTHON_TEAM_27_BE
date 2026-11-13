@@ -1,0 +1,33 @@
+{
+  "verifiedAt": "2026-11-12T03:32:09Z",
+  "access": "manual-public-html-check-not-openapi",
+  "reuseConditions": "unconfirmed",
+  "license": null,
+  "fixtures": ["75a49f54e62349c681559e0624e8a533", "1e7d47e2ad6b4669b97c94e3550f695d", "bc239c48e8be4a58b4b397526cc41d73", "f2754a2aa7aa4ad0863cc1cf7ae424f1"],
+  "entries": [
+    {"sourceId":"8037a14302ac4da2b612886023875e5d","title":"안산 4·16세월호참사 추모시설 명칭 공모전","organizer":"국무총리 · 4.16재단","periodLabel":"공모 기간","period":"2026.11.5.(목) 10:00 ~ 11.20.(금) 17:00","eligibility":"대한민국 국민 누구나(1인 1작품 응모가능)","method":"공모 방법: 포스터 QR코드 또는 아래 링크 접속","applyUrl":"https://416foundation.org/416park_name"},
+    {"sourceId":"c7d9657fec8c4697bf31fca832707b1b","title":"효성그룹과 함께 기록하는 화포천습지 생물다양성 사진 공모전","organizer":"김해시 · (사)김해화포천생태관광협회","periodLabel":"공모기간","period":"2026. 11. 5.(목) ~ 12. 4.(금) *18:00시까지","eligibility":"전 국민 누구나(개인에 한해 참여 가능)","method":"제출방법: 작품 및 구비서류 온라인(E-mail) 제출"},
+    {"sourceId":"0ce40f7915ea4508b0adb486129eef9c","title":"2026년 KEIT 대국민 혁신아이디어 공모전","organizer":"한국산업기술기획평가원","period":"2026. 11.4.(수) ~ 11.17.(화) 18시까지","eligibility":"대한민국 국민 누구나 (개인 또는 팀 단위) ※ 팀 단위로 참여할 시 최대 3명까지 가능","method":"참여방법: 참가신청서 및 제안서 작성 후 KEIT 국민제안함 PDF 게시","applyUrl":"https://www.keit.re.kr/menu.es?mid=a10606010000"},
+    {"sourceId":"f2db9e90960f47e2a8dbec3377cdf33e","title":"국립청주해양과학관 개관 기념 대국민 슬로건 공모전","organizer":"국립청주해양과학관","periodLabel":"공모기간","period":"2026. 11. 2.(월) ~ 11. 15.(일)","eligibility":"대한민국 국민 누구나 (1인 1작품 제한)","method":"접수방법: 포스터 내 QR 코드 스캔 또는 아래 링크 접속","applyUrl":"https://naver.me/xjY5ag3p"},
+    {"sourceId":"5db45c30918c49ea889097e1d0927caa","title":"2026년 제6회 진료정보교류 사업 우수사례 공모전","organizer":"한국보건의료정보원","periodLabel":"공모기간","period":"2026. 10. 30.~ 11. 16. / 18일간 ※ 마감일 내 도착한 건에 한하여 인정","eligibility":"진료정보교류 서비스 이용 경험이 있는 의료기관 종사자 및 국민","method":"공모방법: 공모 양식 작성 후 이메일 제출"},
+    {"sourceId":"10cd564877b04abcb22c35cf62054cb6","title":"국가무형유산 상설공연 창작 콘텐츠 개발을 위한 대국민 아이디어 발굴대회","organizer":"국가유산청 무형유산국 무형유산예능과","periodLabel":"공모 접수 기간","period":"2026. 11. 9. (월) 9:00 ~ 11. 18. (수) 17:00","eligibility":"대한민국 국민 누구나 (개인 또는 단체)","method":"접수방법: 네이버폼을 통해 신청서 작성 및 제출","applyUrl":"https://naver.me/xHE0wMoQ"},
+    {"sourceId":"0d570c051bd54ff5b1056d1b7ac891e1","title":"식중독 예방 숏폼 영상 공모전","organizer":"식품의약품안전처 식중독예방과","period":"2026. 10. 26.(월) ~ 11. 23.(월) 23:59까지","eligibility":"대한민국 국민 누구나(개인 또는 팀)","method":"제출방법: 영상 파일, 참가신청서, 동의서를 운영사무국 메일로 제출"},
+    {"sourceId":"a80de8d7090348d689cffb81b055a62d","title":"한국도로공사 AI 활용 아이디어 공모전","organizer":"한국도로공사","periodLabel":"공모기간","period":"2026. 10. 19.(월) ～ 11. 15.(일) [4주간]","eligibility":"대한민국 국민 누구나(개인 또는 3인 이내 팀)","method":"공모전 신청(국민생각함 한국도로공사 검색)","applyUrl":"https://www.epeople.go.kr/nep/thk/subj/SubjThinkList.npaid","note":"목록 종료일 11/16과 본문 11/15가 다름. 제출 안내와 함께 기재된 본문 공모기간을 사용하며 원문 재확인 필요."},
+    {"sourceId":"389795afacac4ec296a03cc53bba9a02","title":"서울특별시 행정서식, 뚝딱뚝딱! 개선 아이디어 공모전","organizer":"서울특별시 창의규제담당관","period":"2026. 10. 13. ~ 11. 20. (39일간) ※ 마감일 기준 23:59분 도달분까지 인정","eligibility":"행정서식 이용 경험이 있는 국민 누구나 (개인, 전국단위 공모). 개인 자격으로 응모, 팀 단위 제출 불가. 다수 제안 가능하나 개인당 시상 1건.","method":"접수방법: 원문 공고의 제출 안내 확인"},
+    {"sourceId":"da99e9a3053a4baa9203d03972465487","title":"2026 상주시 대표축제 대국민 아이디어 공모전","organizer":"경상북도 상주시","period":"2026. 10. 1.(목) ~ 2027. 1. 15.(금)","eligibility":"만 19세 이상 국민 누구나. 개인 또는 팀 단위 참가 가능. 축제 대행업체, 관광·문화 콘텐츠 기업, 관련 협회 등 법인·기관·단체 참가 가능하며 사업자등록증 등 증빙자료 제출.","method":"접수방법: 원문 및 공식 홈페이지 제출 안내 확인","applyUrl":"https://sangjufestival.com/","note":"목록 9/7 시작과 공고 9/4 시작을 접수기간으로 사용하지 않음. 본문 접수 시작 10/1."},
+    {"source":"contest-aim","sourceName":"매경 AI 광고 공모전 공식 사이트","sourceId":"aim-2026-3","sourceUrl":"https://aimk.ai/","title":"2026 제3회 매경 AI 광고 공모전","organizer":"매경미디어","period":"2026.11.09 ~ 2026.11.30","eligibility":"AI 영상 제작에 관심 있는 만 14세 이상. 학생부는 대학·대학원생과 중고생·24세 이하 청소년이 대상이며, 팀원 전원이 해당 자격을 갖추고 재학·휴학 또는 나이 증빙 필요. 일반 개인·팀 및 기업부 참가 가능.","method":"접수방법: 공식 페이지 접수하기 버튼에서 Google Form 제출","note":"기업부 참가비 20만원 별도. 학생부·일반부 참가비는 미확인. 마감 자정 표현의 경계가 불명확하여 날짜 정밀도만 저장.","price":"기업부 20만원 별도. 학생부·일반부는 원문 확인"},
+    {"source":"contest-hana","sourceName":"하나증권 공모전 공식 사이트","sourceId":"hana-2026-1","sourceUrl":"https://www.hanaw.com/contest/contest.html","title":"제1회 하나증권 청년 금융 아이디어 공모전","organizer":"하나증권","period":"2026.11.02 ~ 11.30 17:00","eligibility":"만 19세 이상이며 고등학교 졸업 이상 학력 필요. 대학 재학생·졸업예정자 포함, 전공 무관. 개인만 참가하며 팀은 불가. 1인 1주제 1아이디어. 본선 PT는 12월 23일 하나증권 본사에서 진행.","method":"접수방법: 하나증권 채용사이트에서 제출","applyUrl":"https://hanaw-hr.recruiter.co.kr/career/jobs/131271"},
+    {"source":"contest-kaeri","sourceName":"한국원자력연구원 공식 공고","sourceId":"kaeri-13142","sourceUrl":"https://www.kaeri.re.kr/board/view?linkId=13142&menuId=MENU00332","title":"내가 만난 원자력 연구원 방문·체험수기 공모전","organizer":"한국원자력연구원","period":"2026.10.15.(목)~11.30.(월)","eligibility":"한국원자력연구원 방문 또는 연구원의 프로그램·콘텐츠 체험 경험이 필요. 연령 제한 없이 국민 참여 가능. 개인당 1편, 만 14세 미만은 보호자 서명 필요.","method":"접수방법: 원문 지정 양식과 체험수기를 이메일 제출"}
+  ],
+  "heldForReview": [
+    {"sourceId":"16fb8760be314506a45bde167c52c146","reason":"상세 본문 비어 있음. 목록 기간으로 대체하지 않음"},
+    {"sourceId":"c73a0a9081bf48378808e142562daec6","reason":"본문에 마감 월일만 있어 연도와 접수 시작 확인 필요"},
+    {"sourceId":"181b62845d0646c08451ea3cd1ae0f42","reason":"상세 본문 비어 있음"},
+    {"sourceId":"cb6b485bacaa46c390875b3d298290e0","reason":"상세 본문 비어 있음"},
+    {"sourceId":"adc1f1357b9341c29b608ef08f46cc4e","reason":"상세 본문 비어 있음"},
+    {"sourceId":"0204a44add43499ca5e4e97707a72799","reason":"상세 본문 비어 있음"},
+    {"sourceId":"53afa5d61eea4cde934bddaa237329d2","reason":"참가 자격 확인 필요"},
+    {"sourceId":"694948da049e4ddca7d31503eb80a8e2","reason":"진행 중 목록과 본문 마감일 11/6 충돌. 연장 근거 미확인"}
+  ],
+  "excluded": ["명예감시원 모집", "KOREA LBS DAY", "위치정보 컨설팅 모집", "초중고 전용 포스터 공모전", "교원 대상 우수사례 공모전"]
+}

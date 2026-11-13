@@ -1,4 +1,4 @@
-// 공개 API에서 실제 행사를 수집해 앱이 읽는 JSON으로 저장한다.
+// 공공 API와 선택적 공개 HTML에서 실제 행사/공고를 수집해 앱이 읽는 JSON으로 저장한다.
 //
 //   dart run bin/collect_events.dart [--days=90] [--out=out/events.json]
 //
@@ -7,12 +7,12 @@
 //
 // 출처 (키는 환경 변수 또는 env.json):
 //   SEOUL_OPEN_API_KEY — 서울 열린데이터광장, 문화행사 (없으면 'sample' → 5행만)
-//   DATA_GO_KR_KEY     — 공공데이터포털 (Decoding 키): TourAPI 축제 (전국) + K-Startup 사업공고
+//   DATA_GO_KR_KEY     — 공공데이터포털 (Decoding 키): TourAPI 축제 (전국)
 //   KOPIS_API_KEY      — KOPIS 공연예술통합전산망: 서울 밖 공연 (서울은 문화행사 데이터와 중복)
 //   GEMINI_API_KEY     — 영어 이름/설명 + 더 정확한 태그 (캐시: cache/ai_en.json; --no-ai = 건너뛰기)
 //
-// 공식 공개 API만 사용한다. 이용 약관에서 스크래핑을 금지한 사이트(예: Dev-Event)는
-// 사용하지 않는다.
+// 기존 공식 API + 선택적인 소통24 공개 HTML 조회(공식 OpenAPI 아님).
+// 소통24 운영 수집은 SOTONG_ENABLED=true일 때만; 재이용 조건 별도 확인.
 import 'dart:convert';
 import 'dart:io';
 
@@ -83,26 +83,6 @@ Future<void> main(List<String> args) async {
     }
   }
 
-  // ── K-Startup 사업공고 (접수 중인 공고) ──
-  if (dataKey.isNotEmpty) {
-    try {
-      final found = await _collectKStartup(client, dataKey, today, until);
-      for (final e in found) {
-        events[e.id] = e;
-      }
-      sources.add({
-        'id': KStartup.source,
-        'name': KStartup.sourceName,
-        'url': 'https://www.data.go.kr/data/15125364/openapi.do',
-        'license': '공공누리',
-        'count': found.length,
-      });
-      stdout.writeln('✓ ${KStartup.sourceName}: ${found.length}건');
-    } catch (e) {
-      stderr.writeln('✗ ${KStartup.sourceName}: $e');
-    }
-  }
-
   // ── KOPIS 공연 (서울 밖 지역) ──
   final kopisKey = (env['KOPIS_API_KEY'] as String?)?.trim() ?? '';
   if (kopisKey.isEmpty) {
@@ -126,6 +106,35 @@ Future<void> main(List<String> args) async {
     }
   }
 
+  // Durable source ledger is restored from data branch before this command.
+  // A lost ledger must not silently bootstrap over an existing Sotong feed.
+  const statePath = 'out/contests-state.json';
+  final previousFeed = File('out/previous-events.json');
+  final previous = previousFeed.existsSync()
+      ? (jsonDecode(previousFeed.readAsStringSync()) as Map).cast<String,dynamic>() : <String,dynamic>{};
+  if (!File(statePath).existsSync() && ((previous['events'] as List?) ?? []).any((e)=>e['source']==SotongContest.source)) {
+    throw StateError('Previous Sotong feed exists without durable ledger; restore state before running');
+  }
+  var contestState = ContestState.load(statePath);
+  final sotongEnabled = Platform.environment['SOTONG_ENABLED'] == 'true';
+  Map<String,dynamic> contestMeta;
+  if (sotongEnabled) {
+    final result = await ContestCollector(SotongSession(client)).collect(contestState, now:now);
+    contestState = result.state;
+    contestMeta = result.metadata;
+  } else {
+    contestMeta = {'id':SotongContest.source,'name':SotongContest.name,
+      'url':SotongContest.initialUri.toString(),'status':'disabled','preservedPrevious':true,
+      'lastSuccessAt':contestState.lastSuccessAt,'access':'public-html-not-openapi',
+      'reuseConditions':'unconfirmed','license':null};
+  }
+  final contests = contestState.events(now);
+  for(final e in contests) { events[e.id]=e; }
+  contestMeta['count']=contests.length;
+  sources.add(contestMeta);
+  writeContestJson(statePath,contestState.toJson());
+  stdout.writeln('소통24: ${contestMeta['status']} / ${contests.length}건 / ${contestMeta['errors'] ?? []}');
+
   if (events.isEmpty) {
     client.close();
     stderr.writeln('행사를 하나도 찾지 못했다 — $_out을 변경하지 않는다.');
@@ -140,18 +149,21 @@ Future<void> main(List<String> args) async {
     stderr.writeln('! Gemini 건너뜀 (${geminiKey.isEmpty ? 'GEMINI_API_KEY 없음' : '--no-ai'}) — 캐시가 있으면 사용한다');
     list = _applyCache(list, _loadCache());
   } else {
-    list = await _enrich(client, geminiKey, list);
+    final normal = list.where((e)=>e.source!=SotongContest.source).toList();
+    list = [...await _enrich(client, geminiKey, normal), ...list.where((e)=>e.source==SotongContest.source)];
   }
   client.close();
 
-  final file = File(_out)..createSync(recursive: true);
-  file.writeAsStringSync(const JsonEncoder.withIndent(' ').convert({
+  final feed = mergeContestFeed(<String,dynamic>{
     'generatedAt': DateTime.now().toUtc().toIso8601String(), // Z 포함 — CI(UTC)와 휴대폰이 같은 시각으로 해석한다
     'windowDays': days,
     'sources': sources,
     'enrichedWith': geminiKey.isEmpty || args.contains('--no-ai') ? null : _models.first,
     'events': [for (final e in list) e.toJson()],
-  }));
+  }, contestState, contestMeta, now);
+  validateContestFeed(feed);
+  writeContestJson(_out, feed);
+  final file = File(_out);
   stdout.writeln('→ $_out: ${list.length}건 (${(file.lengthSync() / 1024).round()} KB)');
 }
 
@@ -308,23 +320,6 @@ Future<List<RadarEvent>> _collectTour(
     await Future<void>.delayed(const Duration(milliseconds: 250));
   }
   if (failed > 0) stdout.writeln('  (tafsiloti olinmagan: $failed ta)');
-  return out;
-}
-
-/// 오늘부터 [until]까지 마감되는, 접수 중인 공고.
-Future<List<RadarEvent>> _collectKStartup(http.Client client, String key, DateTime today, DateTime until) async {
-  final out = <RadarEvent>[];
-  for (var page = 1; page <= 5; page++) {
-    final res = await client.get(KStartup.listUri(key, page: page), headers: {'User-Agent': _userAgent});
-    if (res.statusCode != 200) throw SourceException('HTTP ${res.statusCode}');
-    final json = jsonDecode(utf8.decode(res.bodyBytes)) as Map<String, dynamic>;
-    final rows = KStartup.rows(json);
-    for (final r in rows) {
-      final e = KStartup.parse(r);
-      if (e != null && !e.deadline!.isBefore(today) && e.deadline!.isBefore(until)) out.add(e);
-    }
-    if (rows.isEmpty || page * 500 >= KStartup.matchCount(json)) break;
-  }
   return out;
 }
 

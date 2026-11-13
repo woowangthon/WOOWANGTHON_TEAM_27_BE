@@ -10,6 +10,8 @@
 
 동료가 하는 말은 **실제 정보**여야 합니다. 이 저장소는 공공 API에서 행사와 공식 도로 통제를 **주기적으로 수집·정규화·검증**해서 앱이 받을 JSON으로 게시하는 백엔드입니다.
 
+소통24 공모전 공개 HTML 수집·검토 preview·앱 연결은 [ops/SOTONG.md](ops/SOTONG.md)에 설명되어 있습니다. 공식 OpenAPI가 아니며, 이용 조건 확인 전 운영 수집은 기본 비활성입니다. 유료 AI 없이 수집·표시할 수 있습니다.
+
 ## 해결하는 문제
 
 | 문제 | BE의 해결 |
@@ -26,7 +28,6 @@
 ```
 ┌──────────────── GitHub Actions (Refresh data) ────────────────┐
 │ 매일 06:00 KST                                                 │
-│   서울 문화행사 · TourAPI 축제 · K-Startup 공고 · KOPIS 공연(서울 밖) │
 │     → 정규화 (카테고리·좌표·시간·키워드 태그)                        │
 │     → Gemini 영어 번역·태그 (새 행사만, liferadar_core.AiEnrich)    │
 │     → 검증 (20건 미만이면 게시하지 않음)                            │
@@ -51,7 +52,6 @@
 |---|---|---|---|
 | [서울 열린데이터광장 · 서울시 문화행사](https://data.seoul.go.kr/dataList/OA-15486/S/1/datasetView.do) | 공연·전시·축제·교육 | 303건 | 매일 |
 | [한국관광공사 TourAPI 4.0 · 축제·행사](https://www.data.go.kr/data/15101578/openapi.do) | 전국 축제 (상세 설명·요금 포함) | 75건 | 매일 |
-| [창업진흥원 K-Startup · 사업공고](https://www.data.go.kr/data/15125364/openapi.do) | 접수 중인 창업 지원 공고와 마감일 | 200건 | 매일 |
 | [KOPIS 공연예술통합전산망](https://www.kopis.or.kr) | **서울 밖** 콘서트·클래식·연극·뮤지컬·무용·국악 (서울은 문화행사 데이터와 중복이라 제외), 공연장 좌표·요금·출연진 | 가까운 날짜 순 250건 | 매일 |
 | [네이버 뉴스 검색 (NAVER API HUB)](https://www.ncloud.com/product/applicationService/naverApiHub) | "버스·지하철·철도 파업" 최근 14일 기사 → AI 판독 → 파업 사건 (11/9: 기사 150건 → 사건 14건, 예고·조건부 11건 / 11/8 실측: 인용 불일치 6건 차단) | 150건 | 3시간마다 |
 | [서울시 TOPIS · 실시간 돌발정보](https://topis.seoul.go.kr) (`AccInfo`) | 서울 시내 집회·행사·훈련·공사·기상 도로 통제 | 32건 | 3시간마다 |
@@ -136,7 +136,6 @@ dart run bin/collect_news.dart --out=out/news.json      # [--days=14]
 | 키 | 용도 | 발급 |
 |---|---|---|
 | `SEOUL_OPEN_API_KEY` | 서울 문화행사, TOPIS 돌발정보 | data.seoul.go.kr → 인증키 신청 |
-| `DATA_GO_KR_KEY` | TourAPI, K-Startup (Decoding 키) | data.go.kr → 활용신청 (자동 승인) |
 | `GEMINI_API_KEY` | 영어 번역·태그 | aistudio.google.com |
 | `ITS_API_KEY` | 전국 돌발상황 (ITS) | its.go.kr → 오픈 API → 인증키 신청 |
 | `NAVER_API_KEY_ID`, `NAVER_API_KEY` | 뉴스 검색 | NAVER API HUB (Naver Cloud) — 헤더 `X-NCP-APIGW-API-KEY-ID` / `X-NCP-APIGW-API-KEY` |
@@ -151,7 +150,6 @@ dart analyze --fatal-infos
 dart test
 ```
 
-23개 테스트 (CI): 출처별 실제 형식 응답 파싱(서울·TourAPI·K-Startup·KOPIS·TOPIS), 오류 코드 처리, lat/lng 뒤바뀜 보정, 무료 판정, 공고의 주소 없음 처리, 좌표 변환(EPSG:5181 → WGS84), 파싱 결과가 판단 엔진(`liferadar_core`)에서 올바른 카드를 만드는지 통합 확인.
 
 ## 구조
 
@@ -162,7 +160,6 @@ bin/
 └── collect_news.dart       # 뉴스 파업 판독 → out/news.json
 lib/src/
 ├── config.dart             # 키: 환경 변수 > env.json
-└── sources/                # seoul_culture, tour_festival, kstartup, kopis, seoul_traffic, tagger (ITS 파서는 liferadar_core)
 cache/                      # Gemini 캐시 — ai_en.json(번역), news_ai.json(뉴스 판독)
 .github/workflows/          # ci.yml, refresh-data.yml
 ```
@@ -188,7 +185,6 @@ cache/                      # Gemini 캐시 — ai_en.json(번역), news_ai.json
 
 | 날짜 | 내용 |
 |---|---|
-| 11/7 | 서울 문화행사·TourAPI·K-Startup 수집기, Gemini 영어 번역·태그 |
 | 11/8 | 매일 자동 게시(GitHub Actions), TOPIS·ITS 교통 통제, KOPIS 전국 공연, 네이버 뉴스 파업 판독, 팀 저장소 이전 |
 | 11/9 | `liferadar_core` 갱신 반영(AI 비서·자기소개 제안), 테스트 이름 한국어화 |
 
