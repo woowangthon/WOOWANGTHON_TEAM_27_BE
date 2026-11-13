@@ -48,18 +48,18 @@
 
 ## 데이터 출처
 
-| 출처 | 내용 | 규모 (11/9) | 갱신 |
+| 출처 | 내용 | 규모 (11/13) | 갱신 |
 |---|---|---|---|
-| [서울 열린데이터광장 · 서울시 문화행사](https://data.seoul.go.kr/dataList/OA-15486/S/1/datasetView.do) | 공연·전시·축제·교육 | 303건 | 매일 |
-| [한국관광공사 TourAPI 4.0 · 축제·행사](https://www.data.go.kr/data/15101578/openapi.do) | 전국 축제 (상세 설명·요금 포함) | 75건 | 매일 |
+| [서울 열린데이터광장 · 서울시 문화행사](https://data.seoul.go.kr/dataList/OA-15486/S/1/datasetView.do) | 공연·전시·축제·교육 | 327건 | 매일 |
+| [한국관광공사 TourAPI 4.0 · 축제·행사](https://www.data.go.kr/data/15101578/openapi.do) | 전국 축제 (상세 설명·요금 포함) | 81건 | 매일 |
 | [KOPIS 공연예술통합전산망](https://www.kopis.or.kr) | **서울 밖** 콘서트·클래식·연극·뮤지컬·무용·국악 (서울은 문화행사 데이터와 중복이라 제외), 공연장 좌표·요금·출연진 | 가까운 날짜 순 250건 | 매일 |
-| [네이버 뉴스 검색 (NAVER API HUB)](https://www.ncloud.com/product/applicationService/naverApiHub) | "버스·지하철·철도 파업" 최근 14일 기사 → AI 판독 → 파업 사건 (11/9: 기사 150건 → 사건 14건, 예고·조건부 11건 / 11/8 실측: 인용 불일치 6건 차단) | 150건 | 3시간마다 |
-| [서울시 TOPIS · 실시간 돌발정보](https://topis.seoul.go.kr) (`AccInfo`) | 서울 시내 집회·행사·훈련·공사·기상 도로 통제 | 32건 | 3시간마다 |
+| [네이버 뉴스 검색 (NAVER API HUB)](https://www.ncloud.com/product/applicationService/naverApiHub) | "버스·지하철·철도 파업" 최근 14일 기사 → AI 판독 → 파업 사건 (11/13: 기사 292건 → 파업 11건, 본문 근거가 있는 교통 영향 20건 / 11/8 실측: 인용 불일치 6건 차단) | 292건 | 3시간마다 |
+| [서울시 TOPIS · 실시간 돌발정보](https://topis.seoul.go.kr) (`AccInfo`) | 서울 시내 집회·행사·훈련·공사·기상 도로 통제 → 뉴스 교통 영향과 병합한 `traffic-v2.json` | 26건 (v2) | 3시간마다 |
 | [국가교통정보센터 ITS · 돌발상황정보](https://www.its.go.kr/opendata/) (`eventInfo`) | 전국 고속도로·국도·지방도의 공사·행사·기상·재난 (정체·사고·고장 제외) | 약 190건 (11/8) | 앱 실행 시 (아래 참고) |
 
 > **ITS는 해외 IP를 차단**해 GitHub Actions(미국 리전)에서는 응답이 없습니다. 그래서 ITS는 **앱이 한국 내 기기에서 직접 조회**하고(같은 파서 `liferadar_core.ItsTraffic`), 이 파이프라인은 한국에서 실행될 때만 ITS를 함께 수집합니다.
 
-**합계 (11/9 게시본)**: 행사 828건 — 공연 327 · 창업 지원 공고 200 · 교육 119 · 축제 100 · 전시 82. 매일 06:00 KST에 새로 수집하고, 하루에 몇 번 수동 실행해도 같은 행사는 다시 번역하지 않는다.
+**합계 (11/13 게시본)**: 앱이 쓰는 행사 658건 — 서울 문화행사 327 · KOPIS 250 · TourAPI 축제 81. K-Startup 연동은 11/12 제거했고([기록](ops/KSTARTUP_CONTESTS.md)), `events.json`에 남은 이전 공고 215건은 앱이 읽을 때 제외한다. 공모전은 앱의 주간 수집과 [소통24 공개 목록](ops/SOTONG.md)으로 따로 다룬다. 매일 06:00 KST에 새로 수집하고, 하루에 몇 번 수동 실행해도 같은 행사는 다시 번역하지 않는다.
 
 모두 **공공누리** 라이선스이며 앱 상세 화면에 출처를 표시합니다. 이용 약관이 스크래핑을 금지한 사이트는 사용하지 않습니다.
 
@@ -150,6 +150,8 @@ dart analyze --fatal-infos
 dart test
 ```
 
+75개 테스트 (11/14, GitHub Actions CI).
+
 
 ## 구조
 
@@ -187,12 +189,17 @@ cache/                      # Gemini 캐시 — ai_en.json(번역), news_ai.json
 |---|---|
 | 11/8 | 매일 자동 게시(GitHub Actions), TOPIS·ITS 교통 통제, KOPIS 전국 공연, 네이버 뉴스 파업 판독, 팀 저장소 이전 |
 | 11/9 | `liferadar_core` 갱신 반영(AI 비서·자기소개 제안), 테스트 이름 한국어화 |
+| 11/11 | (전영우) UTIC 교통 수집·스냅샷 병합(운영 비활성), `traffic-v2.json` 게시, 뉴스 본문 기반 교통 영향 추출 파이프라인 |
+| 11/13 | (전영우) 공모전 수집·국내 교통 뉴스 필터, 검토된 포털 공모전 세션 검증, 공통 코어 SHA 고정 |
+| 11/14 | 테스트 75개 통과 확인, README 최신화 |
 
 
-## UTIC v2 로컬 구현 (운영 비활성)
+## 교통 v2와 UTIC (전영우, 11/11)
 
-공용 교통 모델 0.2.0과 `traffic-v2.json`을 사용하는 경로를 추가했습니다. UTIC 실 API 통제 코드·CRS·시간·완전성은 미검증이며 실제 호출은 비활성화되어 있습니다. 기존 TOPIS/ITS 경로는 유지합니다.
+`traffic-v2.json`은 TOPIS 돌발정보와 뉴스 본문에서 근거와 함께 추출한 교통 영향을 병합하고, 철회된 통제를 함께 기록한다. 앱은 v2를 읽고, 구버전 앱을 위해 `traffic.json`도 계속 게시한다.
 
-실행 예제: `dart run bin/collect_traffic.dart --out=out/traffic.json`, 재수집 없는 게시: `dart run bin/publish_traffic.dart --dir=out`. 내구 상태는 `out/traffic-state.json`으로 복원/백업해야 합니다. 설정은 환경변수 > env.json > 기본값 순서입니다. `UTIC_ENABLED=false`가 기본이며 true여도 계약 차단 조건을 해제하지 않습니다. 실제 비밀키는 BE 고정 IP 수집 서버에서만 사용합니다. [상세 적용 절차와 차단 지점](ops/UTIC_ROLLOUT.md)을 확인하세요.
+실행 예: `dart run bin/collect_traffic.dart --out=out/traffic.json`, 재수집 없는 게시: `dart run bin/publish_traffic.dart --dir=out`. 상태는 `out/traffic-state.json`으로 복원·백업한다. 설정은 환경변수 > env.json > 기본값 순서.
 
-BE/FE의 로컬 AI path override 테스트와 배포용 원격 패키지 검증은 별개입니다. AI 0.2.0 게시 후 Git 참조를 실제 immutable SHA로 고정하고 override 없는 CI를 실행해야 합니다. 이번 작업은 push/배포하지 않았습니다.
+경찰청 UTIC 수집 코드는 있지만 **`UTIC_ENABLED=false`가 기본이며 운영에서 꺼져 있다** — 키는 발급됐고 고정 IP 등록을 기다리는 중이라 통제 코드·좌표계·시간을 실측 검증하지 못했다. 비밀키는 고정 IP 수집 서버에서만 쓴다. [적용 절차와 차단 지점](ops/UTIC_ROLLOUT.md).
+
+공통 코어(`liferadar_core`)는 게시된 커밋 SHA로 고정하고 CI에서 그대로 검증한다.
