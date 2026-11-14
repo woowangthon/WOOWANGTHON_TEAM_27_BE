@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-14T13:30:15.581740+09:00",
+ "generatedAt": "2026-11-14T21:53:08.049070+09:00",
  "windowDays": 14,
  "queries": [
   "버스 파업",
@@ -17,7 +17,7 @@
    "url": "https://www.ncloud.com/product/applicationService/naverApiHub"
   }
  ],
- "articles": 296,
+ "articles": 297,
  "searchResults": [
   {
    "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8712674&ref=A",
@@ -175,13 +175,13 @@
    "query": "버스 파업"
   },
   {
-   "url": "https://www.kihoilbo.co.kr/news/articleView.html?idxno=3040535",
-   "title": "[길 잃은 시내버스 공공관리제] 1.사실상 '돈 퍼주기'로 전락",
+   "url": "https://www.kihoilbo.co.kr/news/articleView.html?idxno=3040533",
+   "title": "[길 잃은 시내버스 공공관리제] 공공관리제 확대는커녕 현상 유지도 어...",
    "query": "버스 파업"
   },
   {
-   "url": "https://www.kihoilbo.co.kr/news/articleView.html?idxno=3040533",
-   "title": "[길 잃은 시내버스 공공관리제] 공공관리제 확대는커녕 현상 유지도 어...",
+   "url": "https://www.kihoilbo.co.kr/news/articleView.html?idxno=3040535",
+   "title": "[길 잃은 시내버스 공공관리제] 1.사실상 '돈 퍼주기'로 전락",
    "query": "버스 파업"
   },
   {
@@ -268,6 +268,16 @@
    "url": "https://www.shinailbo.co.kr/news/articleView.html?idxno=5080553",
    "title": "춘천 시내버스 노사, 파업 사과…안전운행·서비스 개선 공동 서약",
    "query": "버스 파업"
+  },
+  {
+   "url": "http://worknworld.kctu.org/news/articleView.html?idxno=510319",
+   "title": "철도노조, 총파업 준비 '투쟁명령 1호' 발령… \"12월 10일 무기한 총파업...",
+   "query": "지하철 파업"
+  },
+  {
+   "url": "https://www.newsis.com/view/NISX20261114_0003868135",
+   "title": "철도노조 총력결의대회…\"안전인력 충원, 승진독식 철폐하라\"",
+   "query": "지하철 파업"
   },
   {
    "url": "https://www.artinsight.co.kr/news/view.php?no=83286",
@@ -435,14 +445,129 @@
    "query": "지하철 파업"
   },
   {
-   "url": "https://www.pressian.com/pages/articles/2026111111493811262?utm_source=naver&utm_medium=search",
-   "title": "철도·지하철·학교 비정규직, 연달아 파업 예고…\"인력 확보\", \"교부금...",
-   "query": "지하철 파업"
+   "url": "https://www.kukinews.com/article/view/kuk202611140033",
+   "title": "철도노조 “12월10일 총파업”…철도 운행 차질 우려",
+   "query": "철도 파업"
   },
   {
-   "url": "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003283868&CMPT_CD=P0010&utm_source=naver&utm_medium=newsearch&utm_campaign=naver_news",
-   "title": "서울교통공사노조, 오는 25일 총파업 선언",
-   "query": "지하철 파업"
+   "url": "http://mbn.mk.co.kr/pages/news/newsView.php?category=mbn00003&news_seq_no=5230889",
+   "title": "철도노조 서울역 집회…내달 무기한 총파업 예고",
+   "query": "철도 파업"
+  },
+  {
+   "url": "https://www.etoday.co.kr/news/view/2648185",
+   "title": "철도노조, 내달 10일 총파업…안전인력 충원 요구",
+   "query": "철도 파업"
+  },
+  {
+   "url": "https://www.kgnews.co.kr/news/article.html?no=919508",
+   "title": "철도노조, 다음 달 10일 총파업 재예고…\"안전인력 충원해야\"",
+   "query": "철도 파업"
+  },
+  {
+   "url": "https://www.abcn.kr/news/articleView.html?idxno=94534",
+   "title": "\"12월 10일 무기한 총파업\"...철도노조 5000명 모여 결의대회",
+   "query": "철도 파업"
+  },
+  {
+   "url": "https://www.imaeil.com/page/view/2026111417131297761",
+   "title": "연말 철도대란 오나…철도노조 5000명 서울역 집결, 총파업 경고",
+   "query": "철도 파업"
+  },
+  {
+   "url": "https://www.jnilbo.com/news/articleView.html?idxno=90000082659",
+   "title": "철도노조 5천명 서울역 집결…\"12월 10일 총파업 돌입\" 재차 경고",
+   "query": "철도 파업"
+  },
+  {
+   "url": "https://www.daejonilbo.com/news/articleView.html?idxno=2313521",
+   "title": "철도노조, 12월 10일 총파업 재예고…\"안전인력 충원하라\"",
+   "query": "철도 파업"
+  },
+  {
+   "url": "https://www.chosun.com/national/transport-environment/2026/11/14/E27NBBBCJ5EGVNHKDGPESCQ3DQ/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
+   "title": "철도노조 “안전인력 충원·승진제도 개선하라”...12월 10일 총파업 예...",
+   "query": "철도 파업"
+  },
+  {
+   "url": "https://www.ppss.kr/news/articleView.html?idxno=320979",
+   "title": "철도노조, 12월 10일 무기한 총파업 예고…\"안전인력 충원·승진 차별 철...",
+   "query": "철도 파업"
+  },
+  {
+   "url": "https://www.news1.kr/society/incident-accident/6354072",
+   "title": "철도노조, 인력 충원·승진제도 개선 촉구…\"12월 10일 무기한 총파업\"",
+   "query": "철도 파업"
+  },
+  {
+   "url": "https://www.kado.net/news/articleView.html?idxno=2084758",
+   "title": "철도노조 \"12월 10일 총파업\"…안전인력 확충·승진제도 개선 촉구",
+   "query": "철도 파업"
+  },
+  {
+   "url": "https://www.sedaily.com/article/20114336?ref=naver",
+   "title": "철도노조, 내달 총파업 예고 도심 집회…쟁점은 ‘안전인력’",
+   "query": "철도 파업"
+  },
+  {
+   "url": "https://www.edaily.co.kr/News/Read?newsId=02738806645645720&mediaCodeNo=257&utm_source=naver&utm_medium=referral&utm_campaign=news_syndication&utm_content=original_article",
+   "title": "철도노조 수천명 빗속 집회 열어…내달 10일 총파업 재차 예고",
+   "query": "철도 파업"
+  },
+  {
+   "url": "https://www.nocutnews.co.kr/news/6606915?utm_source=naver&utm_medium=article&utm_campaign=20261114160234",
+   "title": "철도노조 총력결의…\"인력 감축 고집하면 12월 10일 총파업\"",
+   "query": "철도 파업"
+  },
+  {
+   "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8712905&ref=A",
+   "title": "철도노조, 서울 도심서 결의대회…다음 달 총파업 예고",
+   "query": "철도 파업"
+  },
+  {
+   "url": "http://mbn.mk.co.kr/pages/news/newsView.php?category=mbn00009&news_seq_no=5230852",
+   "title": "철도노조, 서울역서 공정한 승진·인력 충원 촉구…내달 총파업 예고",
+   "query": "철도 파업"
+  },
+  {
+   "url": "https://www.ytn.co.kr/_ln/0102_202611141556338010",
+   "title": "철도노조 결의대회 \"다음 달 총파업\"",
+   "query": "철도 파업"
+  },
+  {
+   "url": "https://www.mediapen.com/news/view/1137501",
+   "title": "철도노조, 서울역서 빗속 집회…내달 10일 총파업 예고",
+   "query": "철도 파업"
+  },
+  {
+   "url": "https://www.ngonews.kr/news/articleView.html?idxno=243158",
+   "title": "철도노조, 12월 10일 '총파업' 예고…\"안전인력 확충·승진 차별 개선하...",
+   "query": "철도 파업"
+  },
+  {
+   "url": "https://biz.heraldcorp.com/article/10937051?ref=naver",
+   "title": "철도노조, 서울역 앞 빗속 집회…“12월10일 총파업 돌입” [세상&]",
+   "query": "철도 파업"
+  },
+  {
+   "url": "https://www.kbmaeil.com/article/20261114500197",
+   "title": "철도노조 “12월 10일 총파업”…안전인력·승진제도 개선 요구",
+   "query": "철도 파업"
+  },
+  {
+   "url": "https://www.ajunews.com/view/20261114154431208",
+   "title": "철도노조, 내달 10일 총파업 재차예고…고속철 통합 후 첫 교통대란 우...",
+   "query": "철도 파업"
+  },
+  {
+   "url": "http://www.segyebiz.com/newsView/20261114505486?OutUrl=naver",
+   "title": "철도노조, 서울역서 빗속 집회... 다음 달 총파업 재차 예고",
+   "query": "철도 파업"
+  },
+  {
+   "url": "https://www.yna.co.kr/view/AKR20261114036400004?input=1195m",
+   "title": "철도노조 수천명 서울역 앞 빗속 집회…내달 총파업 재차 예고",
+   "query": "철도 파업"
   },
   {
    "url": "https://www.newsis.com/view/NISX20261113_0003867880",
@@ -557,132 +682,82 @@
   {
    "url": "https://www.mk.co.kr/article/12207760",
    "title": "“오늘 공항철도 못탈뻔 했다”…파업 1시간30분 남기고 극적타결",
-   "query": "철도 파업"
-  },
-  {
-   "url": "https://www.gokorea.kr/news/articleView.html?idxno=885385",
-   "title": "공항철도 파업 철회, 임금 인상 합의로 정상 운행 시작",
-   "query": "철도 파업"
+   "query": "파업 예고 운행"
   },
   {
    "url": "https://www.hani.co.kr/arti/area/capital/1287158.html",
    "title": "공항철도 노사, 파업 1시간30분 앞두고 임금 협상 타결",
-   "query": "철도 파업"
+   "query": "파업 예고 운행"
   },
   {
    "url": "http://www.incheonin.com/news/articleView.html?idxno=122245",
    "title": "공항철도 노사, 13일 새벽 보충협약 잠정합의로 파업 철회",
-   "query": "철도 파업"
+   "query": "파업 예고 운행"
   },
   {
    "url": "http://fpn119.co.kr/259376",
    "title": "11월 13일 오늘의 안전 상황",
-   "query": "철도 파업"
+   "query": "파업 예고 운행"
   },
   {
    "url": "https://www.webeconomy.co.kr/news/articleView.html?idxno=2374065",
    "title": "공항철도 , 경고파업 당일 새벽 임금교섭 극적 타결",
-   "query": "철도 파업"
+   "query": "파업 예고 운행"
   },
   {
    "url": "https://www.viva100.com/article/20261113500014",
    "title": "공항철도 노사, 파업 직전 극적 합의…첫차부터 정상 운행",
-   "query": "철도 파업"
+   "query": "파업 예고 운행"
   },
   {
    "url": "http://www.ikld.kr/news/articleView.html?idxno=344101",
    "title": "공항철도 노사, 임금교섭 극적 합의… 경고파업 철회",
-   "query": "철도 파업"
+   "query": "파업 예고 운행"
   },
   {
    "url": "https://www.hankookilbo.com/news/article/A2026111308220000972?did=NA",
    "title": "공항철도 노사 임금 협상 타결… 파업 1시간 30분 앞두고 철회",
-   "query": "철도 파업"
-  },
-  {
-   "url": "https://news.tvchosun.com/site/data/html_dir/2026/11/13/2026111390046.html",
-   "title": "11월 13일 뉴스퍼레이드 헤드라인",
-   "query": "철도 파업"
+   "query": "파업 예고 운행"
   },
   {
    "url": "https://www.dailian.co.kr/news/view/1714461/?sc=Naver",
    "title": "공항철도 파업 막았다…노사 13일 새벽 극적 합의",
-   "query": "철도 파업"
-  },
-  {
-   "url": "https://www.sidae.com/article/2026111307595653897",
-   "title": "공항철도 노사 임금협상 극적 타결…오늘 첫차부터 정상 운행",
-   "query": "철도 파업"
+   "query": "파업 예고 운행"
   },
   {
    "url": "https://www.kihoilbo.co.kr/news/articleView.html?idxno=3040834",
    "title": "공항철도 노사 임금협상 극적 타결…일반·직통열차 정상 운행",
-   "query": "철도 파업"
+   "query": "파업 예고 운행"
   },
   {
-   "url": "http://mbn.mk.co.kr/pages/news/newsView.php?category=mbn00009&news_seq_no=5230603",
-   "title": "공항철도 노사, 임금 협상 극적 타결…파업 1.5시간 전 철회",
-   "query": "철도 파업"
+   "url": "https://www.sidae.com/article/2026111307595653897",
+   "title": "공항철도 노사 임금협상 극적 타결…오늘 첫차부터 정상 운행",
+   "query": "파업 예고 운행"
   },
   {
    "url": "https://www.ngonews.kr/news/articleView.html?idxno=243085",
    "title": "공항철도 노사 임금협상 잠정합의…경고파업 철회, 열차 정상 운행",
-   "query": "철도 파업"
+   "query": "파업 예고 운행"
   },
   {
    "url": "https://news.tvchosun.com/site/data/html_dir/2026/11/13/2026111390075.html",
    "title": "공항철도, 오늘 첫차부터 정상 운행…노사 임금협상 극적 타결",
-   "query": "철도 파업"
+   "query": "파업 예고 운행"
   },
   {
    "url": "https://www.gukjenews.com/news/articleView.html?idxno=3750717",
    "title": "[속보] 공항철도 노사, 파업 1시간 30분 앞두고 극적 타결",
-   "query": "철도 파업"
-  },
-  {
-   "url": "https://www.khan.co.kr/article/202611130731001",
-   "title": "공항철도 노사, 임금협상 극적 타결···파업 철회",
-   "query": "철도 파업"
-  },
-  {
-   "url": "https://www.yna.co.kr/view/AKR20261113017100011?input=1195m",
-   "title": "[연합뉴스 이 시각 헤드라인] - 07:30",
-   "query": "철도 파업"
+   "query": "파업 예고 운행"
   },
   {
    "url": "https://www.news1.kr/local/incheon/6352670",
    "title": "공항철도 노사 임금교섭 새벽 극적 타결…파업 계획 철회",
-   "query": "철도 파업"
-  },
-  {
-   "url": "https://www.womennews.co.kr/news/articleView.html?idxno=284425",
-   "title": "공항철도 노사 임금협상 타결…노조, 파업계획 철회",
-   "query": "철도 파업"
-  },
-  {
-   "url": "https://biz.sbs.co.kr/article_hub/20000346142?division=NAVER",
-   "title": "공항철도 노사 임금협상 타결…노조 파업계획 철회",
-   "query": "철도 파업"
-  },
-  {
-   "url": "https://www.jasm.co.kr/news/view/325167/?sc=Naver",
-   "title": "공항철도 노사 임금협상 막판 새벽에 극적 타결",
-   "query": "철도 파업"
+   "query": "파업 예고 운행"
   },
   {
    "url": "https://www.chosun.com/national/national_general/2026/11/13/EKK6N7JW5NAZRGYULTGZWV4WGY/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
    "title": "공항철도 노사, 경고파업 앞두고 타결… 임금 인상, 안전 인력 확충",
-   "query": "철도 파업"
-  },
-  {
-   "url": "https://www.slist.kr/news/articleView.html?idxno=781273",
-   "title": "공항철도 노사 임금협상 극적 타결…1시간30분 앞두고 노조 철회",
-   "query": "철도 파업"
-  },
-  {
-   "url": "https://www.ikbc.co.kr/article/view/kbc202611130003",
-   "title": "공항철도 파업 1시간 30분 전 극적 타결…열차 정상 운행",
-   "query": "철도 파업"
+   "query": "파업 예고 운행"
   },
   {
    "url": "https://www.kyeongin.com/article/1774698",
@@ -727,46 +802,6 @@
   {
    "url": "https://www.ytn.co.kr/_ln/0102_202611130526341873",
    "title": "공항철도 임금협상 극적 타결...\"파업계획 철회\"",
-   "query": "파업 예고 운행"
-  },
-  {
-   "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8711708&ref=A",
-   "title": "공항철도 노사 협상, 첫차 운행 앞두고 타결…일반·직통열차 ‘정상 운...",
-   "query": "파업 예고 운행"
-  },
-  {
-   "url": "https://www.cwn.kr/news/articleView.html?idxno=61681",
-   "title": "공항철도 노조 13일 첫 파업 예고…일반열차 28.7% 감축",
-   "query": "파업 예고 운행"
-  },
-  {
-   "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8711470&ref=A",
-   "title": "공항철도 노조 13일 하루 경고파업 예고",
-   "query": "파업 예고 운행"
-  },
-  {
-   "url": "https://www.gukjenews.com/news/articleView.html?idxno=3750512",
-   "title": "공항철도 노조, 13일 경고파업 예고…개통 후 첫 파업 가능성",
-   "query": "파업 예고 운행"
-  },
-  {
-   "url": "https://www.obsnews.co.kr/news/articleView.html?idxno=1543576",
-   "title": "공항철도 노조 경고 파업 하루 앞…비상수송 체계 마련",
-   "query": "파업 예고 운행"
-  },
-  {
-   "url": "https://www.sentv.co.kr/article/view/sentv202611120130",
-   "title": "[이슈플러스] 김태승號 코레일, 통합 후 첫 총파업 위기…효율화·노사...",
-   "query": "파업 예고 운행"
-  },
-  {
-   "url": "https://www.ajunews.com/view/20261112171252296",
-   "title": "'산 넘어 산' 국토부 산하기관…코레일·LH 파업 위기HUG 수장 공백",
-   "query": "파업 예고 운행"
-  },
-  {
-   "url": "https://www.smartbizn.com/news/articleView.html?idxno=159293",
-   "title": "코레일·SR 통합하자마자 총파업···'철도 대란' 볼모 된 시민들",
    "query": "파업 예고 운행"
   },
   {
@@ -977,36 +1012,6 @@
   {
    "url": "https://www.jnilbo.com/news/articleView.html?idxno=90000080471",
    "title": "서울 곳곳 집회…양대노총 '특구법 철회'·국힘 '특검법 규탄'",
-   "query": "집회 교통 통제"
-  },
-  {
-   "url": "https://www.ytn.co.kr/_ln/0103_202611071617010738",
-   "title": "숭례문·여의도서 전국 노동자 대회...곳곳 교통통제",
-   "query": "집회 교통 통제"
-  },
-  {
-   "url": "https://www.dt.co.kr/article/12093654?ref=naver",
-   "title": "국힘 “특검검 규탄”·양대노총 “특구법 철회” 서울 곳곳 시위에 ‘...",
-   "query": "집회 교통 통제"
-  },
-  {
-   "url": "https://www.newsclaim.co.kr/news/articleView.html?idxno=3081824",
-   "title": "전태일 56주기 앞 노동계 도심 집회",
-   "query": "집회 교통 통제"
-  },
-  {
-   "url": "https://www.yna.co.kr/view/AKR20261107039200004?input=1195m",
-   "title": "서울 곳곳 집회…양대노총 '특구법 철회'·국힘 '특검법 규탄'",
-   "query": "집회 교통 통제"
-  },
-  {
-   "url": "http://www.breaknews.com/1249143",
-   "title": "국민의힘 “조작입법, 탄핵·재판재개...이재명 정권 사법리스크 투쟁\"",
-   "query": "집회 교통 통제"
-  },
-  {
-   "url": "http://www.yonhapnewstv.co.kr/news/MYH20261107140801w1c",
-   "title": "도심 곳곳 집회에 교통혼잡…내일도 서울서 마라톤",
    "query": "집회 교통 통제"
   },
   {
@@ -1248,6 +1253,11 @@
    "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008838988&plink=ORI&cooper=NAVER",
    "title": "고양시 15일 마라톤 대회로 종합운동장 일대 도로 통제",
    "query": "마라톤 도로 통제"
+  },
+  {
+   "url": "https://www.gukjenews.com/news/articleView.html?idxno=3752112",
+   "title": "2026 군산 불꽃축제 일정·주차 명당...불꽃놀이 시간은?",
+   "query": "축제 버스 우회"
   },
   {
    "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8712336&ref=A",
@@ -1493,30 +1503,59 @@
    "url": "https://www.mhns.co.kr/news/articleView.html?idxno=767124",
    "title": "주말마다 멈춰 선 서울 도심…오세훈 \"마라톤 코스 원점 재협의\"",
    "query": "축제 버스 우회"
-  },
-  {
-   "url": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202611021406164800196",
-   "title": "오세훈 “내년 마라톤 대회, 코스ㆍ일정 원점서 다시 협의”",
-   "query": "축제 버스 우회"
   }
  ],
  "strikes": [
   {
-   "id": "9553fb68645e2b7e",
+   "id": "0918290024b5a0d6",
    "mode": "rail",
-   "operator": "전국철도노조",
+   "operator": "철도노조",
    "regions": [
     "전국"
    ],
    "status": "scheduled",
-   "quote": "다음 달 10일 총파업 예고",
+   "quote": "다음 달 10일부터 무기한 총파업에 들어가겠다고 예고",
    "start": "2026-12-10",
    "dateQuote": "다음 달 10일",
-   "articleTitle": "전국철도노조, 서울역서 5천여 명 결의대회…다음 달 10일 총파업 예고",
-   "url": "https://www.gukjenews.com/news/articleView.html?idxno=3751787",
-   "publishedAt": "2026-11-14T04:40:00.000",
+   "articleTitle": "철도노조 서울역 집회…내달 무기한 총파업 예고",
+   "url": "http://mbn.mk.co.kr/pages/news/newsView.php?category=mbn00003&news_seq_no=5230889",
+   "publishedAt": "2026-11-14T19:33:00.000",
    "sourceCount": 4,
    "model": "gemini-3.5-flash-lite"
+  },
+  {
+   "id": "5cd9e5d4ecd577fe",
+   "mode": "rail",
+   "operator": "코레일",
+   "regions": [
+    "전국"
+   ],
+   "status": "scheduled",
+   "quote": "내달 10일 총파업 재차 예고",
+   "start": "2026-12-10",
+   "dateQuote": "내달 10일",
+   "articleTitle": "철도노조 수천명 빗속 집회 열어…내달 10일 총파업 재차 예고",
+   "url": "https://www.edaily.co.kr/News/Read?newsId=02738806645645720&mediaCodeNo=257&utm_source=naver&utm_medium=referral&utm_campaign=news_syndication&utm_content=original_article",
+   "publishedAt": "2026-11-14T16:03:00.000",
+   "sourceCount": 1,
+   "model": "gemini-3.1-flash-lite"
+  },
+  {
+   "id": "0fff1ad3bbb90325",
+   "mode": "rail",
+   "operator": "전국철도노동조합",
+   "regions": [
+    "전국"
+   ],
+   "status": "scheduled",
+   "quote": "다음 달 10일 총파업 시작을 예고했습니다",
+   "start": "2026-12-10",
+   "dateQuote": "다음 달 10일",
+   "articleTitle": "철도노조, 서울 도심서 결의대회…다음 달 총파업 예고",
+   "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8712905&ref=A",
+   "publishedAt": "2026-11-14T16:00:00.000",
+   "sourceCount": 11,
+   "model": "gemini-3.1-flash-lite"
   },
   {
    "id": "80bac0af34132519",
@@ -1533,24 +1572,7 @@
    "articleTitle": "공항철도 노사 임금협상 타결…노조 파업계획 철회",
    "url": "https://www.obsnews.co.kr/news/articleView.html?idxno=1543710",
    "publishedAt": "2026-11-13T20:08:00.000",
-   "sourceCount": 61,
-   "model": "gemini-3.5-flash-lite"
-  },
-  {
-   "id": "f7a3839d401cff87",
-   "mode": "rail",
-   "operator": "철도노조",
-   "regions": [
-    "전국"
-   ],
-   "status": "scheduled",
-   "quote": "내달 10일 무기한 총파업에 들어가겠다고 예고했다",
-   "start": "2026-12-10",
-   "dateQuote": "내달 10일",
-   "articleTitle": "[단독]몸집만 커진 통합코레일… 고속주행 중 고장 ‘아찔’",
-   "url": "https://www.munhwa.com/article/11631163?ref=naver",
-   "publishedAt": "2026-11-13T12:06:00.000",
-   "sourceCount": 1,
+   "sourceCount": 47,
    "model": "gemini-3.5-flash-lite"
   },
   {
@@ -1569,23 +1591,6 @@
    "model": "gemini-3.5-flash-lite"
   },
   {
-   "id": "3833e58742fe2f09",
-   "mode": "rail",
-   "operator": "코레일",
-   "regions": [
-    "전국"
-   ],
-   "status": "preparing",
-   "quote": "노사 교섭에 진전이 없으면 예고한 날짜에 총파업을 강행한다는",
-   "start": "2026-12-10",
-   "dateQuote": "내달 10일",
-   "articleTitle": "[이슈플러스] 김태승號 코레일, 통합 후 첫 총파업 위기…효율화·노사...",
-   "url": "https://www.sentv.co.kr/article/view/sentv202611120130",
-   "publishedAt": "2026-11-12T18:20:00.000",
-   "sourceCount": 3,
-   "model": "gemini-3.1-flash-lite"
-  },
-  {
    "id": "6c278bd786793c51",
    "mode": "subway",
    "operator": "서울교통공사",
@@ -1601,7 +1606,7 @@
    "articleTitle": "공항철도 첫 파업 나서나...13일 운행 축소 예고에 공항 이용객 비상",
    "url": "https://www.abcn.kr/news/articleView.html?idxno=94450",
    "publishedAt": "2026-11-12T16:28:00.000",
-   "sourceCount": 17,
+   "sourceCount": 16,
    "model": "gemini-3.5-flash-lite"
   },
   {
@@ -7535,158 +7540,6 @@
   },
   {
    "assertion": "planned",
-   "checked_at": "2026-11-14T10:27:17.579959+09:00",
-   "conflict": false,
-   "demo": false,
-   "disruption_confirmed": false,
-   "event_id": "c79fefede1e6214f37303b59",
-   "event_name": "공공운수노조",
-   "evidence": [
-    {
-     "derivation": "explicit",
-     "effective_at": null,
-     "field_path": "/article_relevance",
-     "quote": "앞서 민주노총 공공운수노조 공항철도지부는 지난 7월부터 10차례 교섭했지만 임금 인상과 인력 충원 등에 합의하지 못해 13일 하루 경고 파업에 들어간다고 예고 했었다.",
-     "reference_source": null,
-     "source_id": "0cf254dd4f2b3d8a6195a6fd",
-     "source_part": "body",
-     "source_revision": "5c9941a38f000f77ad8b8511"
-    },
-    {
-     "derivation": "explicit",
-     "effective_at": null,
-     "field_path": "/transport_mode",
-     "quote": "앞서 민주노총 공공운수노조 공항철도지부는 지난 7월부터 10차례 교섭했지만 임금 인상과 인력 충원 등에 합의하지 못해 13일 하루 경고 파업에 들어간다고 예고 했었다.",
-     "reference_source": null,
-     "source_id": "0cf254dd4f2b3d8a6195a6fd",
-     "source_part": "body",
-     "source_revision": "5c9941a38f000f77ad8b8511"
-    },
-    {
-     "derivation": "explicit",
-     "effective_at": null,
-     "field_path": "/affected_regions",
-     "quote": "앞서 민주노총 공공운수노조 공항철도지부는 지난 7월부터 10차례 교섭했지만 임금 인상과 인력 충원 등에 합의하지 못해 13일 하루 경고 파업에 들어간다고 예고 했었다.",
-     "reference_source": null,
-     "source_id": "0cf254dd4f2b3d8a6195a6fd",
-     "source_part": "body",
-     "source_revision": "5c9941a38f000f77ad8b8511"
-    },
-    {
-     "derivation": "explicit",
-     "effective_at": null,
-     "field_path": "/affected_routes",
-     "quote": "앞서 민주노총 공공운수노조 공항철도지부는 지난 7월부터 10차례 교섭했지만 임금 인상과 인력 충원 등에 합의하지 못해 13일 하루 경고 파업에 들어간다고 예고 했었다.",
-     "reference_source": null,
-     "source_id": "0cf254dd4f2b3d8a6195a6fd",
-     "source_part": "body",
-     "source_revision": "5c9941a38f000f77ad8b8511"
-    },
-    {
-     "derivation": "explicit",
-     "effective_at": null,
-     "field_path": "/strike_status",
-     "quote": "앞서 민주노총 공공운수노조 공항철도지부는 지난 7월부터 10차례 교섭했지만 임금 인상과 인력 충원 등에 합의하지 못해 13일 하루 경고 파업에 들어간다고 예고 했었다.",
-     "reference_source": null,
-     "source_id": "0cf254dd4f2b3d8a6195a6fd",
-     "source_part": "body",
-     "source_revision": "5c9941a38f000f77ad8b8511"
-    },
-    {
-     "derivation": "explicit",
-     "effective_at": null,
-     "field_path": "/service_status",
-     "quote": "앞서 민주노총 공공운수노조 공항철도지부는 지난 7월부터 10차례 교섭했지만 임금 인상과 인력 충원 등에 합의하지 못해 13일 하루 경고 파업에 들어간다고 예고 했었다.",
-     "reference_source": null,
-     "source_id": "0cf254dd4f2b3d8a6195a6fd",
-     "source_part": "body",
-     "source_revision": "5c9941a38f000f77ad8b8511"
-    },
-    {
-     "derivation": "explicit",
-     "effective_at": null,
-     "field_path": "/normal_service_exceptions",
-     "quote": "앞서 민주노총 공공운수노조 공항철도지부는 지난 7월부터 10차례 교섭했지만 임금 인상과 인력 충원 등에 합의하지 못해 13일 하루 경고 파업에 들어간다고 예고 했었다.",
-     "reference_source": null,
-     "source_id": "0cf254dd4f2b3d8a6195a6fd",
-     "source_part": "body",
-     "source_revision": "5c9941a38f000f77ad8b8511"
-    },
-    {
-     "derivation": "explicit",
-     "effective_at": null,
-     "field_path": "/alternative_services",
-     "quote": "앞서 민주노총 공공운수노조 공항철도지부는 지난 7월부터 10차례 교섭했지만 임금 인상과 인력 충원 등에 합의하지 못해 13일 하루 경고 파업에 들어간다고 예고 했었다.",
-     "reference_source": null,
-     "source_id": "0cf254dd4f2b3d8a6195a6fd",
-     "source_part": "body",
-     "source_revision": "5c9941a38f000f77ad8b8511"
-    },
-    {
-     "derivation": "explicit",
-     "effective_at": null,
-     "field_path": "/start",
-     "quote": "앞서 민주노총 공공운수노조 공항철도지부는 지난 7월부터 10차례 교섭했지만 임금 인상과 인력 충원 등에 합의하지 못해 13일 하루 경고 파업에 들어간다고 예고 했었다.",
-     "reference_source": null,
-     "source_id": "0cf254dd4f2b3d8a6195a6fd",
-     "source_part": "body",
-     "source_revision": "5c9941a38f000f77ad8b8511"
-    },
-    {
-     "derivation": "explicit",
-     "effective_at": null,
-     "field_path": "/end",
-     "quote": "앞서 민주노총 공공운수노조 공항철도지부는 지난 7월부터 10차례 교섭했지만 임금 인상과 인력 충원 등에 합의하지 못해 13일 하루 경고 파업에 들어간다고 예고 했었다.",
-     "reference_source": null,
-     "source_id": "0cf254dd4f2b3d8a6195a6fd",
-     "source_part": "body",
-     "source_revision": "5c9941a38f000f77ad8b8511"
-    }
-   ],
-   "exceptions": [],
-   "id": "ca67b56049e8d43555ae78aa",
-   "modes": [
-    "rail"
-   ],
-   "period": {
-    "condition": null,
-    "end": {
-     "assertion": "unknown",
-     "basis": "unknown",
-     "date": null,
-     "open_ended": null,
-     "raw": null,
-     "time": null,
-     "timezone": "Asia/Seoul"
-    },
-    "precision": "PARTIAL",
-    "start": {
-     "assertion": "unknown",
-     "basis": "unknown",
-     "date": null,
-     "open_ended": null,
-     "raw": null,
-     "time": null,
-     "timezone": "Asia/Seoul"
-    }
-   },
-   "published_at": "2026-11-13T05:33:03+09:00",
-   "review_reasons": [
-    "DATE_UNCONFIRMED"
-   ],
-   "scope": [],
-   "service_status": [],
-   "source_url": "https://www.hankyung.com/article/202611133984h",
-   "status": "ANNOUNCED",
-   "status_effective_at": null,
-   "strike_status": "scheduled",
-   "type": "STRIKE",
-   "updated_at": null,
-   "version": 1,
-   "body_verified": true
-  },
-  {
-   "assertion": "planned",
    "checked_at": "2026-11-14T13:29:56.149935+09:00",
    "conflict": false,
    "demo": false,
@@ -7862,6 +7715,708 @@
    "updated_at": null,
    "version": 1,
    "body_verified": true
+  },
+  {
+   "assertion": "planned",
+   "checked_at": "2026-11-14T21:52:44.216716+09:00",
+   "conflict": false,
+   "demo": false,
+   "disruption_confirmed": true,
+   "event_id": "dd8f53e0ecae0f9c8a7d0fd3",
+   "event_name": "철도노조",
+   "evidence": [
+    {
+     "derivation": "explicit",
+     "effective_at": null,
+     "field_path": "/article_relevance",
+     "quote": "전국철도노동조합(철도노조)이 인력 충원과 승진제도 개선 등을 요구하며 다음 달 10일 무기한 총파업에 돌입할 수 있다고 거듭 경고했다.",
+     "reference_source": null,
+     "source_id": "ccf9a8d9964aab7a587ddae4",
+     "source_part": "body",
+     "source_revision": "79344459f900a196bff2714a"
+    },
+    {
+     "derivation": "explicit",
+     "effective_at": null,
+     "field_path": "/article_relevance",
+     "quote": "철도노조는 \"한국철도공사가 진전된 안을 내놓지 않고 정부가 인력 통제와 감축을 고집한다면 12월 10일 오전 9시 총파업에 돌입할 수밖에 없다\"고 밝혔다.",
+     "reference_source": null,
+     "source_id": "ccf9a8d9964aab7a587ddae4",
+     "source_part": "body",
+     "source_revision": "79344459f900a196bff2714a"
+    },
+    {
+     "derivation": "explicit",
+     "effective_at": null,
+     "field_path": "/article_relevance",
+     "quote": "앞서 철도노조는 지난 11일 서울역 광장에서 기자회견을 열고 승진제도 개편과 수당 지급, 인력 확충 등의 요구가 받아들여지지 않을 경우 12월부터 무기한 총파업을 벌이겠다고 예고한 바 있다.",
+     "reference_source": null,
+     "source_id": "ccf9a8d9964aab7a587ddae4",
+     "source_part": "body",
+     "source_revision": "79344459f900a196bff2714a"
+    },
+    {
+     "derivation": "explicit",
+     "effective_at": null,
+     "field_path": "/transport_mode",
+     "quote": "전국철도노동조합(철도노조)이 인력 충원과 승진제도 개선 등을 요구하며 다음 달 10일 무기한 총파업에 돌입할 수 있다고 거듭 경고했다.",
+     "reference_source": null,
+     "source_id": "ccf9a8d9964aab7a587ddae4",
+     "source_part": "body",
+     "source_revision": "79344459f900a196bff2714a"
+    },
+    {
+     "derivation": "explicit",
+     "effective_at": null,
+     "field_path": "/transport_mode",
+     "quote": "철도노조는 \"한국철도공사가 진전된 안을 내놓지 않고 정부가 인력 통제와 감축을 고집한다면 12월 10일 오전 9시 총파업에 돌입할 수밖에 없다\"고 밝혔다.",
+     "reference_source": null,
+     "source_id": "ccf9a8d9964aab7a587ddae4",
+     "source_part": "body",
+     "source_revision": "79344459f900a196bff2714a"
+    },
+    {
+     "derivation": "explicit",
+     "effective_at": null,
+     "field_path": "/transport_mode",
+     "quote": "앞서 철도노조는 지난 11일 서울역 광장에서 기자회견을 열고 승진제도 개편과 수당 지급, 인력 확충 등의 요구가 받아들여지지 않을 경우 12월부터 무기한 총파업을 벌이겠다고 예고한 바 있다.",
+     "reference_source": null,
+     "source_id": "ccf9a8d9964aab7a587ddae4",
+     "source_part": "body",
+     "source_revision": "79344459f900a196bff2714a"
+    },
+    {
+     "derivation": "explicit",
+     "effective_at": null,
+     "field_path": "/affected_regions",
+     "quote": "전국철도노동조합(철도노조)이 인력 충원과 승진제도 개선 등을 요구하며 다음 달 10일 무기한 총파업에 돌입할 수 있다고 거듭 경고했다.",
+     "reference_source": null,
+     "source_id": "ccf9a8d9964aab7a587ddae4",
+     "source_part": "body",
+     "source_revision": "79344459f900a196bff2714a"
+    },
+    {
+     "derivation": "explicit",
+     "effective_at": null,
+     "field_path": "/affected_regions",
+     "quote": "철도노조는 \"한국철도공사가 진전된 안을 내놓지 않고 정부가 인력 통제와 감축을 고집한다면 12월 10일 오전 9시 총파업에 돌입할 수밖에 없다\"고 밝혔다.",
+     "reference_source": null,
+     "source_id": "ccf9a8d9964aab7a587ddae4",
+     "source_part": "body",
+     "source_revision": "79344459f900a196bff2714a"
+    },
+    {
+     "derivation": "explicit",
+     "effective_at": null,
+     "field_path": "/affected_regions",
+     "quote": "앞서 철도노조는 지난 11일 서울역 광장에서 기자회견을 열고 승진제도 개편과 수당 지급, 인력 확충 등의 요구가 받아들여지지 않을 경우 12월부터 무기한 총파업을 벌이겠다고 예고한 바 있다.",
+     "reference_source": null,
+     "source_id": "ccf9a8d9964aab7a587ddae4",
+     "source_part": "body",
+     "source_revision": "79344459f900a196bff2714a"
+    },
+    {
+     "derivation": "explicit",
+     "effective_at": null,
+     "field_path": "/affected_routes",
+     "quote": "전국철도노동조합(철도노조)이 인력 충원과 승진제도 개선 등을 요구하며 다음 달 10일 무기한 총파업에 돌입할 수 있다고 거듭 경고했다.",
+     "reference_source": null,
+     "source_id": "ccf9a8d9964aab7a587ddae4",
+     "source_part": "body",
+     "source_revision": "79344459f900a196bff2714a"
+    },
+    {
+     "derivation": "explicit",
+     "effective_at": null,
+     "field_path": "/affected_routes",
+     "quote": "철도노조는 \"한국철도공사가 진전된 안을 내놓지 않고 정부가 인력 통제와 감축을 고집한다면 12월 10일 오전 9시 총파업에 돌입할 수밖에 없다\"고 밝혔다.",
+     "reference_source": null,
+     "source_id": "ccf9a8d9964aab7a587ddae4",
+     "source_part": "body",
+     "source_revision": "79344459f900a196bff2714a"
+    },
+    {
+     "derivation": "explicit",
+     "effective_at": null,
+     "field_path": "/affected_routes",
+     "quote": "앞서 철도노조는 지난 11일 서울역 광장에서 기자회견을 열고 승진제도 개편과 수당 지급, 인력 확충 등의 요구가 받아들여지지 않을 경우 12월부터 무기한 총파업을 벌이겠다고 예고한 바 있다.",
+     "reference_source": null,
+     "source_id": "ccf9a8d9964aab7a587ddae4",
+     "source_part": "body",
+     "source_revision": "79344459f900a196bff2714a"
+    },
+    {
+     "derivation": "explicit",
+     "effective_at": null,
+     "field_path": "/strike_status",
+     "quote": "전국철도노동조합(철도노조)이 인력 충원과 승진제도 개선 등을 요구하며 다음 달 10일 무기한 총파업에 돌입할 수 있다고 거듭 경고했다.",
+     "reference_source": null,
+     "source_id": "ccf9a8d9964aab7a587ddae4",
+     "source_part": "body",
+     "source_revision": "79344459f900a196bff2714a"
+    },
+    {
+     "derivation": "explicit",
+     "effective_at": null,
+     "field_path": "/strike_status",
+     "quote": "철도노조는 \"한국철도공사가 진전된 안을 내놓지 않고 정부가 인력 통제와 감축을 고집한다면 12월 10일 오전 9시 총파업에 돌입할 수밖에 없다\"고 밝혔다.",
+     "reference_source": null,
+     "source_id": "ccf9a8d9964aab7a587ddae4",
+     "source_part": "body",
+     "source_revision": "79344459f900a196bff2714a"
+    },
+    {
+     "derivation": "explicit",
+     "effective_at": null,
+     "field_path": "/strike_status",
+     "quote": "앞서 철도노조는 지난 11일 서울역 광장에서 기자회견을 열고 승진제도 개편과 수당 지급, 인력 확충 등의 요구가 받아들여지지 않을 경우 12월부터 무기한 총파업을 벌이겠다고 예고한 바 있다.",
+     "reference_source": null,
+     "source_id": "ccf9a8d9964aab7a587ddae4",
+     "source_part": "body",
+     "source_revision": "79344459f900a196bff2714a"
+    },
+    {
+     "derivation": "explicit",
+     "effective_at": null,
+     "field_path": "/service_status",
+     "quote": "전국철도노동조합(철도노조)이 인력 충원과 승진제도 개선 등을 요구하며 다음 달 10일 무기한 총파업에 돌입할 수 있다고 거듭 경고했다.",
+     "reference_source": null,
+     "source_id": "ccf9a8d9964aab7a587ddae4",
+     "source_part": "body",
+     "source_revision": "79344459f900a196bff2714a"
+    },
+    {
+     "derivation": "explicit",
+     "effective_at": null,
+     "field_path": "/service_status",
+     "quote": "철도노조는 \"한국철도공사가 진전된 안을 내놓지 않고 정부가 인력 통제와 감축을 고집한다면 12월 10일 오전 9시 총파업에 돌입할 수밖에 없다\"고 밝혔다.",
+     "reference_source": null,
+     "source_id": "ccf9a8d9964aab7a587ddae4",
+     "source_part": "body",
+     "source_revision": "79344459f900a196bff2714a"
+    },
+    {
+     "derivation": "explicit",
+     "effective_at": null,
+     "field_path": "/service_status",
+     "quote": "앞서 철도노조는 지난 11일 서울역 광장에서 기자회견을 열고 승진제도 개편과 수당 지급, 인력 확충 등의 요구가 받아들여지지 않을 경우 12월부터 무기한 총파업을 벌이겠다고 예고한 바 있다.",
+     "reference_source": null,
+     "source_id": "ccf9a8d9964aab7a587ddae4",
+     "source_part": "body",
+     "source_revision": "79344459f900a196bff2714a"
+    },
+    {
+     "derivation": "explicit",
+     "effective_at": null,
+     "field_path": "/normal_service_exceptions",
+     "quote": "전국철도노동조합(철도노조)이 인력 충원과 승진제도 개선 등을 요구하며 다음 달 10일 무기한 총파업에 돌입할 수 있다고 거듭 경고했다.",
+     "reference_source": null,
+     "source_id": "ccf9a8d9964aab7a587ddae4",
+     "source_part": "body",
+     "source_revision": "79344459f900a196bff2714a"
+    },
+    {
+     "derivation": "explicit",
+     "effective_at": null,
+     "field_path": "/normal_service_exceptions",
+     "quote": "철도노조는 \"한국철도공사가 진전된 안을 내놓지 않고 정부가 인력 통제와 감축을 고집한다면 12월 10일 오전 9시 총파업에 돌입할 수밖에 없다\"고 밝혔다.",
+     "reference_source": null,
+     "source_id": "ccf9a8d9964aab7a587ddae4",
+     "source_part": "body",
+     "source_revision": "79344459f900a196bff2714a"
+    },
+    {
+     "derivation": "explicit",
+     "effective_at": null,
+     "field_path": "/normal_service_exceptions",
+     "quote": "앞서 철도노조는 지난 11일 서울역 광장에서 기자회견을 열고 승진제도 개편과 수당 지급, 인력 확충 등의 요구가 받아들여지지 않을 경우 12월부터 무기한 총파업을 벌이겠다고 예고한 바 있다.",
+     "reference_source": null,
+     "source_id": "ccf9a8d9964aab7a587ddae4",
+     "source_part": "body",
+     "source_revision": "79344459f900a196bff2714a"
+    },
+    {
+     "derivation": "explicit",
+     "effective_at": null,
+     "field_path": "/alternative_services",
+     "quote": "전국철도노동조합(철도노조)이 인력 충원과 승진제도 개선 등을 요구하며 다음 달 10일 무기한 총파업에 돌입할 수 있다고 거듭 경고했다.",
+     "reference_source": null,
+     "source_id": "ccf9a8d9964aab7a587ddae4",
+     "source_part": "body",
+     "source_revision": "79344459f900a196bff2714a"
+    },
+    {
+     "derivation": "explicit",
+     "effective_at": null,
+     "field_path": "/alternative_services",
+     "quote": "철도노조는 \"한국철도공사가 진전된 안을 내놓지 않고 정부가 인력 통제와 감축을 고집한다면 12월 10일 오전 9시 총파업에 돌입할 수밖에 없다\"고 밝혔다.",
+     "reference_source": null,
+     "source_id": "ccf9a8d9964aab7a587ddae4",
+     "source_part": "body",
+     "source_revision": "79344459f900a196bff2714a"
+    },
+    {
+     "derivation": "explicit",
+     "effective_at": null,
+     "field_path": "/alternative_services",
+     "quote": "앞서 철도노조는 지난 11일 서울역 광장에서 기자회견을 열고 승진제도 개편과 수당 지급, 인력 확충 등의 요구가 받아들여지지 않을 경우 12월부터 무기한 총파업을 벌이겠다고 예고한 바 있다.",
+     "reference_source": null,
+     "source_id": "ccf9a8d9964aab7a587ddae4",
+     "source_part": "body",
+     "source_revision": "79344459f900a196bff2714a"
+    },
+    {
+     "derivation": "explicit",
+     "effective_at": null,
+     "field_path": "/start",
+     "quote": "전국철도노동조합(철도노조)이 인력 충원과 승진제도 개선 등을 요구하며 다음 달 10일 무기한 총파업에 돌입할 수 있다고 거듭 경고했다.",
+     "reference_source": null,
+     "source_id": "ccf9a8d9964aab7a587ddae4",
+     "source_part": "body",
+     "source_revision": "79344459f900a196bff2714a"
+    },
+    {
+     "derivation": "explicit",
+     "effective_at": null,
+     "field_path": "/start",
+     "quote": "철도노조는 \"한국철도공사가 진전된 안을 내놓지 않고 정부가 인력 통제와 감축을 고집한다면 12월 10일 오전 9시 총파업에 돌입할 수밖에 없다\"고 밝혔다.",
+     "reference_source": null,
+     "source_id": "ccf9a8d9964aab7a587ddae4",
+     "source_part": "body",
+     "source_revision": "79344459f900a196bff2714a"
+    },
+    {
+     "derivation": "explicit",
+     "effective_at": null,
+     "field_path": "/start",
+     "quote": "앞서 철도노조는 지난 11일 서울역 광장에서 기자회견을 열고 승진제도 개편과 수당 지급, 인력 확충 등의 요구가 받아들여지지 않을 경우 12월부터 무기한 총파업을 벌이겠다고 예고한 바 있다.",
+     "reference_source": null,
+     "source_id": "ccf9a8d9964aab7a587ddae4",
+     "source_part": "body",
+     "source_revision": "79344459f900a196bff2714a"
+    },
+    {
+     "derivation": "explicit",
+     "effective_at": null,
+     "field_path": "/end",
+     "quote": "전국철도노동조합(철도노조)이 인력 충원과 승진제도 개선 등을 요구하며 다음 달 10일 무기한 총파업에 돌입할 수 있다고 거듭 경고했다.",
+     "reference_source": null,
+     "source_id": "ccf9a8d9964aab7a587ddae4",
+     "source_part": "body",
+     "source_revision": "79344459f900a196bff2714a"
+    },
+    {
+     "derivation": "explicit",
+     "effective_at": null,
+     "field_path": "/end",
+     "quote": "철도노조는 \"한국철도공사가 진전된 안을 내놓지 않고 정부가 인력 통제와 감축을 고집한다면 12월 10일 오전 9시 총파업에 돌입할 수밖에 없다\"고 밝혔다.",
+     "reference_source": null,
+     "source_id": "ccf9a8d9964aab7a587ddae4",
+     "source_part": "body",
+     "source_revision": "79344459f900a196bff2714a"
+    },
+    {
+     "derivation": "explicit",
+     "effective_at": null,
+     "field_path": "/end",
+     "quote": "앞서 철도노조는 지난 11일 서울역 광장에서 기자회견을 열고 승진제도 개편과 수당 지급, 인력 확충 등의 요구가 받아들여지지 않을 경우 12월부터 무기한 총파업을 벌이겠다고 예고한 바 있다.",
+     "reference_source": null,
+     "source_id": "ccf9a8d9964aab7a587ddae4",
+     "source_part": "body",
+     "source_revision": "79344459f900a196bff2714a"
+    }
+   ],
+   "exceptions": [],
+   "id": "16cf7af9596cc1fe1c37a221",
+   "modes": [
+    "rail"
+   ],
+   "period": {
+    "condition": null,
+    "end": {
+     "assertion": "unknown",
+     "basis": "unknown",
+     "date": null,
+     "open_ended": true,
+     "raw": "무기한",
+     "time": null,
+     "timezone": "Asia/Seoul"
+    },
+    "precision": "PARTIAL",
+    "start": {
+     "assertion": "planned",
+     "basis": "explicit",
+     "date": null,
+     "open_ended": null,
+     "raw": "오전 9시",
+     "time": "09:00",
+     "timezone": "Asia/Seoul"
+    }
+   },
+   "published_at": null,
+   "review_reasons": [
+    "DATE_UNCONFIRMED"
+   ],
+   "scope": [
+    {
+     "derivation": "article_explicit",
+     "normalized_name": "개선",
+     "raw": "개선",
+     "reference_id": null,
+     "reference_source": null,
+     "region": null
+    },
+    {
+     "derivation": "article_explicit",
+     "normalized_name": "서울역",
+     "raw": "서울역",
+     "reference_id": null,
+     "reference_source": null,
+     "region": null
+    }
+   ],
+   "service_status": [
+    {
+     "assertion": "actual",
+     "metrics": [],
+     "period": {
+      "condition": null,
+      "end": {
+       "assertion": "unknown",
+       "basis": "unknown",
+       "date": null,
+       "open_ended": null,
+       "raw": null,
+       "time": null,
+       "timezone": "Asia/Seoul"
+      },
+      "precision": "UNKNOWN",
+      "start": {
+       "assertion": "actual",
+       "basis": "explicit",
+       "date": null,
+       "open_ended": null,
+       "raw": "오전 9시",
+       "time": "09:00",
+       "timezone": "Asia/Seoul"
+      }
+     },
+     "raw": "철도노조는 \"한국철도공사가 진전된 안을 내놓지 않고 정부가 인력 통제와 감축을 고집한다면 12월 10일 오전 9시 총파업에 돌입할 수밖에 없다\"고 밝혔다.",
+     "scope": [],
+     "value": "reduced"
+    }
+   ],
+   "source_url": "https://www.imaeil.com/page/view/2026111417131297761",
+   "status": "ANNOUNCED",
+   "status_effective_at": null,
+   "strike_status": "scheduled",
+   "type": "STRIKE",
+   "updated_at": null,
+   "version": 1,
+   "body_verified": true
+  },
+  {
+   "assertion": "planned",
+   "checked_at": "2026-11-14T21:52:44.216716+09:00",
+   "conflict": false,
+   "demo": false,
+   "disruption_confirmed": false,
+   "event_id": "d6e3b69f287c837cbf9fd5ff",
+   "event_name": "파업 사건",
+   "evidence": [
+    {
+     "derivation": "explicit",
+     "effective_at": null,
+     "field_path": "/article_relevance",
+     "quote": "이날 대규모 결의대회에서도 기존 입장을 재확인하면서 정부와 코레일의 대응에 따라 다음 달 10일 오전 9시부터 파업에 들어갈 수 있음을 분명히 했다.",
+     "reference_source": null,
+     "source_id": "ccf9a8d9964aab7a587ddae4",
+     "source_part": "body",
+     "source_revision": "79344459f900a196bff2714a"
+    },
+    {
+     "derivation": "explicit",
+     "effective_at": null,
+     "field_path": "/transport_mode",
+     "quote": "이날 대규모 결의대회에서도 기존 입장을 재확인하면서 정부와 코레일의 대응에 따라 다음 달 10일 오전 9시부터 파업에 들어갈 수 있음을 분명히 했다.",
+     "reference_source": null,
+     "source_id": "ccf9a8d9964aab7a587ddae4",
+     "source_part": "body",
+     "source_revision": "79344459f900a196bff2714a"
+    },
+    {
+     "derivation": "explicit",
+     "effective_at": null,
+     "field_path": "/affected_regions",
+     "quote": "이날 대규모 결의대회에서도 기존 입장을 재확인하면서 정부와 코레일의 대응에 따라 다음 달 10일 오전 9시부터 파업에 들어갈 수 있음을 분명히 했다.",
+     "reference_source": null,
+     "source_id": "ccf9a8d9964aab7a587ddae4",
+     "source_part": "body",
+     "source_revision": "79344459f900a196bff2714a"
+    },
+    {
+     "derivation": "explicit",
+     "effective_at": null,
+     "field_path": "/affected_routes",
+     "quote": "이날 대규모 결의대회에서도 기존 입장을 재확인하면서 정부와 코레일의 대응에 따라 다음 달 10일 오전 9시부터 파업에 들어갈 수 있음을 분명히 했다.",
+     "reference_source": null,
+     "source_id": "ccf9a8d9964aab7a587ddae4",
+     "source_part": "body",
+     "source_revision": "79344459f900a196bff2714a"
+    },
+    {
+     "derivation": "explicit",
+     "effective_at": null,
+     "field_path": "/strike_status",
+     "quote": "이날 대규모 결의대회에서도 기존 입장을 재확인하면서 정부와 코레일의 대응에 따라 다음 달 10일 오전 9시부터 파업에 들어갈 수 있음을 분명히 했다.",
+     "reference_source": null,
+     "source_id": "ccf9a8d9964aab7a587ddae4",
+     "source_part": "body",
+     "source_revision": "79344459f900a196bff2714a"
+    },
+    {
+     "derivation": "explicit",
+     "effective_at": null,
+     "field_path": "/service_status",
+     "quote": "이날 대규모 결의대회에서도 기존 입장을 재확인하면서 정부와 코레일의 대응에 따라 다음 달 10일 오전 9시부터 파업에 들어갈 수 있음을 분명히 했다.",
+     "reference_source": null,
+     "source_id": "ccf9a8d9964aab7a587ddae4",
+     "source_part": "body",
+     "source_revision": "79344459f900a196bff2714a"
+    },
+    {
+     "derivation": "explicit",
+     "effective_at": null,
+     "field_path": "/normal_service_exceptions",
+     "quote": "이날 대규모 결의대회에서도 기존 입장을 재확인하면서 정부와 코레일의 대응에 따라 다음 달 10일 오전 9시부터 파업에 들어갈 수 있음을 분명히 했다.",
+     "reference_source": null,
+     "source_id": "ccf9a8d9964aab7a587ddae4",
+     "source_part": "body",
+     "source_revision": "79344459f900a196bff2714a"
+    },
+    {
+     "derivation": "explicit",
+     "effective_at": null,
+     "field_path": "/alternative_services",
+     "quote": "이날 대규모 결의대회에서도 기존 입장을 재확인하면서 정부와 코레일의 대응에 따라 다음 달 10일 오전 9시부터 파업에 들어갈 수 있음을 분명히 했다.",
+     "reference_source": null,
+     "source_id": "ccf9a8d9964aab7a587ddae4",
+     "source_part": "body",
+     "source_revision": "79344459f900a196bff2714a"
+    },
+    {
+     "derivation": "explicit",
+     "effective_at": null,
+     "field_path": "/start",
+     "quote": "이날 대규모 결의대회에서도 기존 입장을 재확인하면서 정부와 코레일의 대응에 따라 다음 달 10일 오전 9시부터 파업에 들어갈 수 있음을 분명히 했다.",
+     "reference_source": null,
+     "source_id": "ccf9a8d9964aab7a587ddae4",
+     "source_part": "body",
+     "source_revision": "79344459f900a196bff2714a"
+    },
+    {
+     "derivation": "explicit",
+     "effective_at": null,
+     "field_path": "/end",
+     "quote": "이날 대규모 결의대회에서도 기존 입장을 재확인하면서 정부와 코레일의 대응에 따라 다음 달 10일 오전 9시부터 파업에 들어갈 수 있음을 분명히 했다.",
+     "reference_source": null,
+     "source_id": "ccf9a8d9964aab7a587ddae4",
+     "source_part": "body",
+     "source_revision": "79344459f900a196bff2714a"
+    }
+   ],
+   "exceptions": [],
+   "id": "d3f2af4514ca43498de2930c",
+   "modes": [],
+   "period": {
+    "condition": null,
+    "end": {
+     "assertion": "unknown",
+     "basis": "unknown",
+     "date": null,
+     "open_ended": null,
+     "raw": null,
+     "time": null,
+     "timezone": "Asia/Seoul"
+    },
+    "precision": "PARTIAL",
+    "start": {
+     "assertion": "planned",
+     "basis": "explicit",
+     "date": null,
+     "open_ended": null,
+     "raw": "오전 9시",
+     "time": "09:00",
+     "timezone": "Asia/Seoul"
+    }
+   },
+   "published_at": null,
+   "review_reasons": [
+    "UNSUPPORTED_OR_AMBIGUOUS_STATUS",
+    "DATE_UNCONFIRMED"
+   ],
+   "scope": [],
+   "service_status": [],
+   "source_url": "https://www.imaeil.com/page/view/2026111417131297761",
+   "status": "UNKNOWN",
+   "status_effective_at": null,
+   "strike_status": "unknown",
+   "type": "STRIKE",
+   "updated_at": null,
+   "version": 1,
+   "body_verified": true
+  },
+  {
+   "assertion": "planned",
+   "checked_at": "2026-11-14T21:53:05.792716+09:00",
+   "conflict": false,
+   "demo": false,
+   "disruption_confirmed": false,
+   "event_id": "c79fefede1e6214f37303b59",
+   "event_name": "공공운수노조",
+   "evidence": [
+    {
+     "derivation": "explicit",
+     "effective_at": null,
+     "field_path": "/article_relevance",
+     "quote": "앞서 민주노총 공공운수노조 공항철도지부는 지난 7월부터 10차례 교섭했지만 임금 인상과 인력 충원 등에 합의하지 못해 13일 하루 경고 파업에 들어간다고 예고 했었다.",
+     "reference_source": null,
+     "source_id": "0cf254dd4f2b3d8a6195a6fd",
+     "source_part": "body",
+     "source_revision": "5c9941a38f000f77ad8b8511"
+    },
+    {
+     "derivation": "explicit",
+     "effective_at": null,
+     "field_path": "/transport_mode",
+     "quote": "앞서 민주노총 공공운수노조 공항철도지부는 지난 7월부터 10차례 교섭했지만 임금 인상과 인력 충원 등에 합의하지 못해 13일 하루 경고 파업에 들어간다고 예고 했었다.",
+     "reference_source": null,
+     "source_id": "0cf254dd4f2b3d8a6195a6fd",
+     "source_part": "body",
+     "source_revision": "5c9941a38f000f77ad8b8511"
+    },
+    {
+     "derivation": "explicit",
+     "effective_at": null,
+     "field_path": "/affected_regions",
+     "quote": "앞서 민주노총 공공운수노조 공항철도지부는 지난 7월부터 10차례 교섭했지만 임금 인상과 인력 충원 등에 합의하지 못해 13일 하루 경고 파업에 들어간다고 예고 했었다.",
+     "reference_source": null,
+     "source_id": "0cf254dd4f2b3d8a6195a6fd",
+     "source_part": "body",
+     "source_revision": "5c9941a38f000f77ad8b8511"
+    },
+    {
+     "derivation": "explicit",
+     "effective_at": null,
+     "field_path": "/affected_routes",
+     "quote": "앞서 민주노총 공공운수노조 공항철도지부는 지난 7월부터 10차례 교섭했지만 임금 인상과 인력 충원 등에 합의하지 못해 13일 하루 경고 파업에 들어간다고 예고 했었다.",
+     "reference_source": null,
+     "source_id": "0cf254dd4f2b3d8a6195a6fd",
+     "source_part": "body",
+     "source_revision": "5c9941a38f000f77ad8b8511"
+    },
+    {
+     "derivation": "explicit",
+     "effective_at": null,
+     "field_path": "/strike_status",
+     "quote": "앞서 민주노총 공공운수노조 공항철도지부는 지난 7월부터 10차례 교섭했지만 임금 인상과 인력 충원 등에 합의하지 못해 13일 하루 경고 파업에 들어간다고 예고 했었다.",
+     "reference_source": null,
+     "source_id": "0cf254dd4f2b3d8a6195a6fd",
+     "source_part": "body",
+     "source_revision": "5c9941a38f000f77ad8b8511"
+    },
+    {
+     "derivation": "explicit",
+     "effective_at": null,
+     "field_path": "/service_status",
+     "quote": "앞서 민주노총 공공운수노조 공항철도지부는 지난 7월부터 10차례 교섭했지만 임금 인상과 인력 충원 등에 합의하지 못해 13일 하루 경고 파업에 들어간다고 예고 했었다.",
+     "reference_source": null,
+     "source_id": "0cf254dd4f2b3d8a6195a6fd",
+     "source_part": "body",
+     "source_revision": "5c9941a38f000f77ad8b8511"
+    },
+    {
+     "derivation": "explicit",
+     "effective_at": null,
+     "field_path": "/normal_service_exceptions",
+     "quote": "앞서 민주노총 공공운수노조 공항철도지부는 지난 7월부터 10차례 교섭했지만 임금 인상과 인력 충원 등에 합의하지 못해 13일 하루 경고 파업에 들어간다고 예고 했었다.",
+     "reference_source": null,
+     "source_id": "0cf254dd4f2b3d8a6195a6fd",
+     "source_part": "body",
+     "source_revision": "5c9941a38f000f77ad8b8511"
+    },
+    {
+     "derivation": "explicit",
+     "effective_at": null,
+     "field_path": "/alternative_services",
+     "quote": "앞서 민주노총 공공운수노조 공항철도지부는 지난 7월부터 10차례 교섭했지만 임금 인상과 인력 충원 등에 합의하지 못해 13일 하루 경고 파업에 들어간다고 예고 했었다.",
+     "reference_source": null,
+     "source_id": "0cf254dd4f2b3d8a6195a6fd",
+     "source_part": "body",
+     "source_revision": "5c9941a38f000f77ad8b8511"
+    },
+    {
+     "derivation": "explicit",
+     "effective_at": null,
+     "field_path": "/start",
+     "quote": "앞서 민주노총 공공운수노조 공항철도지부는 지난 7월부터 10차례 교섭했지만 임금 인상과 인력 충원 등에 합의하지 못해 13일 하루 경고 파업에 들어간다고 예고 했었다.",
+     "reference_source": null,
+     "source_id": "0cf254dd4f2b3d8a6195a6fd",
+     "source_part": "body",
+     "source_revision": "5c9941a38f000f77ad8b8511"
+    },
+    {
+     "derivation": "explicit",
+     "effective_at": null,
+     "field_path": "/end",
+     "quote": "앞서 민주노총 공공운수노조 공항철도지부는 지난 7월부터 10차례 교섭했지만 임금 인상과 인력 충원 등에 합의하지 못해 13일 하루 경고 파업에 들어간다고 예고 했었다.",
+     "reference_source": null,
+     "source_id": "0cf254dd4f2b3d8a6195a6fd",
+     "source_part": "body",
+     "source_revision": "5c9941a38f000f77ad8b8511"
+    }
+   ],
+   "exceptions": [],
+   "id": "ca67b56049e8d43555ae78aa",
+   "modes": [
+    "rail"
+   ],
+   "period": {
+    "condition": null,
+    "end": {
+     "assertion": "unknown",
+     "basis": "unknown",
+     "date": null,
+     "open_ended": null,
+     "raw": null,
+     "time": null,
+     "timezone": "Asia/Seoul"
+    },
+    "precision": "PARTIAL",
+    "start": {
+     "assertion": "unknown",
+     "basis": "unknown",
+     "date": null,
+     "open_ended": null,
+     "raw": null,
+     "time": null,
+     "timezone": "Asia/Seoul"
+    }
+   },
+   "published_at": "2026-11-13T05:33:03+09:00",
+   "review_reasons": [
+    "DATE_UNCONFIRMED"
+   ],
+   "scope": [],
+   "service_status": [],
+   "source_url": "https://www.hankyung.com/article/202611133984h",
+   "status": "ANNOUNCED",
+   "status_effective_at": null,
+   "strike_status": "scheduled",
+   "type": "STRIKE",
+   "updated_at": null,
+   "version": 1,
+   "body_verified": true
   }
  ],
  "extractions": [
@@ -7903,7 +8458,7 @@
       "source_url": "https://www.newsis.com/view/NISX20261113_0003867649",
       "published_at": "2026-11-13T17:24:24+09:00",
       "updated_at": null,
-      "collected_at": "2026-11-14T13:29:54.330719+09:00",
+      "collected_at": "2026-11-14T21:52:36.939615+09:00",
       "field_evidence": [
        {
         "field_path": "/article_relevance",
@@ -8020,7 +8575,7 @@
      "source_revision": "d5a52337e59318f994fdb8fa",
      "published_at": "2026-11-13T17:24:24+09:00",
      "updated_at": null,
-     "collected_at": "2026-11-14T13:29:54.330719+09:00"
+     "collected_at": "2026-11-14T21:52:36.939615+09:00"
     },
     "events": [],
     "review_reasons": [
@@ -8031,10 +8586,179 @@
   {
    "strikes": [
     {
+     "article_relevance": "unrelated",
+     "transport_mode": "unknown",
+     "affected_regions": [],
+     "affected_routes": [],
+     "start": {
+      "raw": null,
+      "date": null,
+      "time": null,
+      "timezone": "Asia/Seoul",
+      "basis": "unknown",
+      "assertion": "unknown",
+      "open_ended": null
+     },
+     "end": {
+      "raw": null,
+      "date": null,
+      "time": null,
+      "timezone": "Asia/Seoul",
+      "basis": "unknown",
+      "assertion": "unknown",
+      "open_ended": null
+     },
+     "strike_status": {
+      "value": "unknown",
+      "conditions": [],
+      "scope_raw": null,
+      "effective_at": null
+     },
+     "service_status": [],
+     "normal_service_exceptions": [],
+     "alternative_services": [],
+     "evidence_and_timestamps": {
+      "source_url": "https://www.newsis.com/view/NISX20261114_0003868135",
+      "published_at": "2026-11-14T15:42:23+09:00",
+      "updated_at": null,
+      "collected_at": "2026-11-14T21:52:39.006830+09:00",
+      "field_evidence": [
+       {
+        "field_path": "/article_relevance",
+        "quote": "[서울=뉴시스] 김용중 기자 = 14일 오후 서울 용산구 서울역 인근에서 열린 전국철도노동조합 총력결의대회에서 우비를 입은 참가자들이 주먹을 쥐고 구호를 외치고 있다. 2026.11.14. [email protected]",
+        "source_part": "body",
+        "effective_at": null,
+        "derivation": "explicit",
+        "source_id": "12b92deafa94cca6585cebb6",
+        "source_revision": "4d776344140d5072dcee4499",
+        "reference_source": null
+       },
+       {
+        "field_path": "/transport_mode",
+        "quote": "[서울=뉴시스] 김용중 기자 = 14일 오후 서울 용산구 서울역 인근에서 열린 전국철도노동조합 총력결의대회에서 우비를 입은 참가자들이 주먹을 쥐고 구호를 외치고 있다. 2026.11.14. [email protected]",
+        "source_part": "body",
+        "effective_at": null,
+        "derivation": "explicit",
+        "source_id": "12b92deafa94cca6585cebb6",
+        "source_revision": "4d776344140d5072dcee4499",
+        "reference_source": null
+       },
+       {
+        "field_path": "/affected_regions",
+        "quote": "[서울=뉴시스] 김용중 기자 = 14일 오후 서울 용산구 서울역 인근에서 열린 전국철도노동조합 총력결의대회에서 우비를 입은 참가자들이 주먹을 쥐고 구호를 외치고 있다. 2026.11.14. [email protected]",
+        "source_part": "body",
+        "effective_at": null,
+        "derivation": "explicit",
+        "source_id": "12b92deafa94cca6585cebb6",
+        "source_revision": "4d776344140d5072dcee4499",
+        "reference_source": null
+       },
+       {
+        "field_path": "/affected_routes",
+        "quote": "[서울=뉴시스] 김용중 기자 = 14일 오후 서울 용산구 서울역 인근에서 열린 전국철도노동조합 총력결의대회에서 우비를 입은 참가자들이 주먹을 쥐고 구호를 외치고 있다. 2026.11.14. [email protected]",
+        "source_part": "body",
+        "effective_at": null,
+        "derivation": "explicit",
+        "source_id": "12b92deafa94cca6585cebb6",
+        "source_revision": "4d776344140d5072dcee4499",
+        "reference_source": null
+       },
+       {
+        "field_path": "/strike_status",
+        "quote": "[서울=뉴시스] 김용중 기자 = 14일 오후 서울 용산구 서울역 인근에서 열린 전국철도노동조합 총력결의대회에서 우비를 입은 참가자들이 주먹을 쥐고 구호를 외치고 있다. 2026.11.14. [email protected]",
+        "source_part": "body",
+        "effective_at": null,
+        "derivation": "explicit",
+        "source_id": "12b92deafa94cca6585cebb6",
+        "source_revision": "4d776344140d5072dcee4499",
+        "reference_source": null
+       },
+       {
+        "field_path": "/service_status",
+        "quote": "[서울=뉴시스] 김용중 기자 = 14일 오후 서울 용산구 서울역 인근에서 열린 전국철도노동조합 총력결의대회에서 우비를 입은 참가자들이 주먹을 쥐고 구호를 외치고 있다. 2026.11.14. [email protected]",
+        "source_part": "body",
+        "effective_at": null,
+        "derivation": "explicit",
+        "source_id": "12b92deafa94cca6585cebb6",
+        "source_revision": "4d776344140d5072dcee4499",
+        "reference_source": null
+       },
+       {
+        "field_path": "/normal_service_exceptions",
+        "quote": "[서울=뉴시스] 김용중 기자 = 14일 오후 서울 용산구 서울역 인근에서 열린 전국철도노동조합 총력결의대회에서 우비를 입은 참가자들이 주먹을 쥐고 구호를 외치고 있다. 2026.11.14. [email protected]",
+        "source_part": "body",
+        "effective_at": null,
+        "derivation": "explicit",
+        "source_id": "12b92deafa94cca6585cebb6",
+        "source_revision": "4d776344140d5072dcee4499",
+        "reference_source": null
+       },
+       {
+        "field_path": "/alternative_services",
+        "quote": "[서울=뉴시스] 김용중 기자 = 14일 오후 서울 용산구 서울역 인근에서 열린 전국철도노동조합 총력결의대회에서 우비를 입은 참가자들이 주먹을 쥐고 구호를 외치고 있다. 2026.11.14. [email protected]",
+        "source_part": "body",
+        "effective_at": null,
+        "derivation": "explicit",
+        "source_id": "12b92deafa94cca6585cebb6",
+        "source_revision": "4d776344140d5072dcee4499",
+        "reference_source": null
+       },
+       {
+        "field_path": "/start",
+        "quote": "[서울=뉴시스] 김용중 기자 = 14일 오후 서울 용산구 서울역 인근에서 열린 전국철도노동조합 총력결의대회에서 우비를 입은 참가자들이 주먹을 쥐고 구호를 외치고 있다. 2026.11.14. [email protected]",
+        "source_part": "body",
+        "effective_at": null,
+        "derivation": "explicit",
+        "source_id": "12b92deafa94cca6585cebb6",
+        "source_revision": "4d776344140d5072dcee4499",
+        "reference_source": null
+       },
+       {
+        "field_path": "/end",
+        "quote": "[서울=뉴시스] 김용중 기자 = 14일 오후 서울 용산구 서울역 인근에서 열린 전국철도노동조합 총력결의대회에서 우비를 입은 참가자들이 주먹을 쥐고 구호를 외치고 있다. 2026.11.14. [email protected]",
+        "source_part": "body",
+        "effective_at": null,
+        "derivation": "explicit",
+        "source_id": "12b92deafa94cca6585cebb6",
+        "source_revision": "4d776344140d5072dcee4499",
+        "reference_source": null
+       }
+      ],
+      "review_reasons": []
+     }
+    }
+   ],
+   "events": {
+    "schema_version": "1.0",
+    "article_relevance": "unrelated",
+    "processing_status": "success",
+    "source": {
+     "source_id": "12b92deafa94cca6585cebb6",
+     "source_url": "https://www.newsis.com/view/NISX20261114_0003868135",
+     "source_revision": "4d776344140d5072dcee4499",
+     "published_at": "2026-11-14T15:42:23+09:00",
+     "updated_at": null,
+     "collected_at": "2026-11-14T21:52:39.006830+09:00"
+    },
+    "events": [],
+    "review_reasons": []
+   }
+  },
+  {
+   "strikes": [
+    {
      "article_relevance": "related",
      "transport_mode": "rail",
      "affected_regions": [],
      "affected_routes": [
+      {
+       "raw": "개선",
+       "normalized_name": "개선",
+       "region": null,
+       "reference_id": null,
+       "derivation": "article_explicit",
+       "reference_source": null
+      },
       {
        "raw": "서울역",
        "normalized_name": "서울역",
@@ -8042,155 +8766,515 @@
        "reference_id": null,
        "derivation": "article_explicit",
        "reference_source": null
-      },
-      {
-       "raw": "논현역",
-       "normalized_name": "논현역",
-       "region": null,
-       "reference_id": null,
-       "derivation": "article_explicit",
-       "reference_source": null
-      },
-      {
-       "raw": "교대역",
-       "normalized_name": "교대역",
-       "region": null,
-       "reference_id": null,
-       "derivation": "article_explicit",
-       "reference_source": null
       }
      ],
      "start": {
-      "raw": "오후 2시",
+      "raw": "오전 9시",
       "date": null,
-      "time": "14:00",
+      "time": "09:00",
       "timezone": "Asia/Seoul",
       "basis": "explicit",
       "assertion": "planned",
       "open_ended": null
      },
      "end": {
-      "raw": "오후 2시",
+      "raw": "무기한",
       "date": null,
-      "time": "14:00",
+      "time": null,
+      "timezone": "Asia/Seoul",
+      "basis": "unknown",
+      "assertion": "unknown",
+      "open_ended": true
+     },
+     "strike_status": {
+      "value": "scheduled",
+      "conditions": [
+       "앞서 철도노조는 지난 11일 서울역 광장에서 기자회견을 열고 승진제도 개편과 수당 지급, 인력 확충 등의 요구가 받아들여지지 않을 경우 12월부터 무기한 총파업을 벌이겠다고 예고한 바 있다."
+      ],
+      "scope_raw": "전국철도노동조합(철도노조)이 인력 충원과 승진제도 개선 등을 요구하며 다음 달 10일 무기한 총파업에 돌입할 수 있다고 거듭 경고했다. 철도노조는 \"한국철도공사가 진전된 안을 내놓지 않고 정부가 인력 통제와 감축을 고집한다면 12월 10일 오전 9시 총파업에 돌입할 수밖에 없다\"고 밝혔다. 앞서 철도노조는 지난 11일 서울역 광장에서 기자회견을 열고 승진제도 개편과 수당 지급, 인력 확충 등의 요구가 받아들여지지 않을 경우 12월부터 무기한 총파업을 벌이겠다고 예고한 바 있다.",
+      "effective_at": null
+     },
+     "service_status": [
+      {
+       "value": "reduced",
+       "assertion": "actual",
+       "raw": "철도노조는 \"한국철도공사가 진전된 안을 내놓지 않고 정부가 인력 통제와 감축을 고집한다면 12월 10일 오전 9시 총파업에 돌입할 수밖에 없다\"고 밝혔다.",
+       "scope": [],
+       "period": {
+        "start": {
+         "raw": "오전 9시",
+         "date": null,
+         "time": "09:00",
+         "timezone": "Asia/Seoul",
+         "basis": "explicit",
+         "assertion": "actual",
+         "open_ended": null
+        },
+        "end": {
+         "raw": null,
+         "date": null,
+         "time": null,
+         "timezone": "Asia/Seoul",
+         "basis": "unknown",
+         "assertion": "unknown",
+         "open_ended": null
+        },
+        "precision": "UNKNOWN",
+        "condition": null
+       },
+       "metrics": []
+      }
+     ],
+     "normal_service_exceptions": [],
+     "alternative_services": [],
+     "evidence_and_timestamps": {
+      "source_url": "https://www.imaeil.com/page/view/2026111417131297761",
+      "published_at": null,
+      "updated_at": null,
+      "collected_at": "2026-11-14T21:52:44.216716+09:00",
+      "field_evidence": [
+       {
+        "field_path": "/article_relevance",
+        "quote": "전국철도노동조합(철도노조)이 인력 충원과 승진제도 개선 등을 요구하며 다음 달 10일 무기한 총파업에 돌입할 수 있다고 거듭 경고했다.",
+        "source_part": "body",
+        "effective_at": null,
+        "derivation": "explicit",
+        "source_id": "ccf9a8d9964aab7a587ddae4",
+        "source_revision": "79344459f900a196bff2714a",
+        "reference_source": null
+       },
+       {
+        "field_path": "/article_relevance",
+        "quote": "철도노조는 \"한국철도공사가 진전된 안을 내놓지 않고 정부가 인력 통제와 감축을 고집한다면 12월 10일 오전 9시 총파업에 돌입할 수밖에 없다\"고 밝혔다.",
+        "source_part": "body",
+        "effective_at": null,
+        "derivation": "explicit",
+        "source_id": "ccf9a8d9964aab7a587ddae4",
+        "source_revision": "79344459f900a196bff2714a",
+        "reference_source": null
+       },
+       {
+        "field_path": "/article_relevance",
+        "quote": "앞서 철도노조는 지난 11일 서울역 광장에서 기자회견을 열고 승진제도 개편과 수당 지급, 인력 확충 등의 요구가 받아들여지지 않을 경우 12월부터 무기한 총파업을 벌이겠다고 예고한 바 있다.",
+        "source_part": "body",
+        "effective_at": null,
+        "derivation": "explicit",
+        "source_id": "ccf9a8d9964aab7a587ddae4",
+        "source_revision": "79344459f900a196bff2714a",
+        "reference_source": null
+       },
+       {
+        "field_path": "/transport_mode",
+        "quote": "전국철도노동조합(철도노조)이 인력 충원과 승진제도 개선 등을 요구하며 다음 달 10일 무기한 총파업에 돌입할 수 있다고 거듭 경고했다.",
+        "source_part": "body",
+        "effective_at": null,
+        "derivation": "explicit",
+        "source_id": "ccf9a8d9964aab7a587ddae4",
+        "source_revision": "79344459f900a196bff2714a",
+        "reference_source": null
+       },
+       {
+        "field_path": "/transport_mode",
+        "quote": "철도노조는 \"한국철도공사가 진전된 안을 내놓지 않고 정부가 인력 통제와 감축을 고집한다면 12월 10일 오전 9시 총파업에 돌입할 수밖에 없다\"고 밝혔다.",
+        "source_part": "body",
+        "effective_at": null,
+        "derivation": "explicit",
+        "source_id": "ccf9a8d9964aab7a587ddae4",
+        "source_revision": "79344459f900a196bff2714a",
+        "reference_source": null
+       },
+       {
+        "field_path": "/transport_mode",
+        "quote": "앞서 철도노조는 지난 11일 서울역 광장에서 기자회견을 열고 승진제도 개편과 수당 지급, 인력 확충 등의 요구가 받아들여지지 않을 경우 12월부터 무기한 총파업을 벌이겠다고 예고한 바 있다.",
+        "source_part": "body",
+        "effective_at": null,
+        "derivation": "explicit",
+        "source_id": "ccf9a8d9964aab7a587ddae4",
+        "source_revision": "79344459f900a196bff2714a",
+        "reference_source": null
+       },
+       {
+        "field_path": "/affected_regions",
+        "quote": "전국철도노동조합(철도노조)이 인력 충원과 승진제도 개선 등을 요구하며 다음 달 10일 무기한 총파업에 돌입할 수 있다고 거듭 경고했다.",
+        "source_part": "body",
+        "effective_at": null,
+        "derivation": "explicit",
+        "source_id": "ccf9a8d9964aab7a587ddae4",
+        "source_revision": "79344459f900a196bff2714a",
+        "reference_source": null
+       },
+       {
+        "field_path": "/affected_regions",
+        "quote": "철도노조는 \"한국철도공사가 진전된 안을 내놓지 않고 정부가 인력 통제와 감축을 고집한다면 12월 10일 오전 9시 총파업에 돌입할 수밖에 없다\"고 밝혔다.",
+        "source_part": "body",
+        "effective_at": null,
+        "derivation": "explicit",
+        "source_id": "ccf9a8d9964aab7a587ddae4",
+        "source_revision": "79344459f900a196bff2714a",
+        "reference_source": null
+       },
+       {
+        "field_path": "/affected_regions",
+        "quote": "앞서 철도노조는 지난 11일 서울역 광장에서 기자회견을 열고 승진제도 개편과 수당 지급, 인력 확충 등의 요구가 받아들여지지 않을 경우 12월부터 무기한 총파업을 벌이겠다고 예고한 바 있다.",
+        "source_part": "body",
+        "effective_at": null,
+        "derivation": "explicit",
+        "source_id": "ccf9a8d9964aab7a587ddae4",
+        "source_revision": "79344459f900a196bff2714a",
+        "reference_source": null
+       },
+       {
+        "field_path": "/affected_routes",
+        "quote": "전국철도노동조합(철도노조)이 인력 충원과 승진제도 개선 등을 요구하며 다음 달 10일 무기한 총파업에 돌입할 수 있다고 거듭 경고했다.",
+        "source_part": "body",
+        "effective_at": null,
+        "derivation": "explicit",
+        "source_id": "ccf9a8d9964aab7a587ddae4",
+        "source_revision": "79344459f900a196bff2714a",
+        "reference_source": null
+       },
+       {
+        "field_path": "/affected_routes",
+        "quote": "철도노조는 \"한국철도공사가 진전된 안을 내놓지 않고 정부가 인력 통제와 감축을 고집한다면 12월 10일 오전 9시 총파업에 돌입할 수밖에 없다\"고 밝혔다.",
+        "source_part": "body",
+        "effective_at": null,
+        "derivation": "explicit",
+        "source_id": "ccf9a8d9964aab7a587ddae4",
+        "source_revision": "79344459f900a196bff2714a",
+        "reference_source": null
+       },
+       {
+        "field_path": "/affected_routes",
+        "quote": "앞서 철도노조는 지난 11일 서울역 광장에서 기자회견을 열고 승진제도 개편과 수당 지급, 인력 확충 등의 요구가 받아들여지지 않을 경우 12월부터 무기한 총파업을 벌이겠다고 예고한 바 있다.",
+        "source_part": "body",
+        "effective_at": null,
+        "derivation": "explicit",
+        "source_id": "ccf9a8d9964aab7a587ddae4",
+        "source_revision": "79344459f900a196bff2714a",
+        "reference_source": null
+       },
+       {
+        "field_path": "/strike_status",
+        "quote": "전국철도노동조합(철도노조)이 인력 충원과 승진제도 개선 등을 요구하며 다음 달 10일 무기한 총파업에 돌입할 수 있다고 거듭 경고했다.",
+        "source_part": "body",
+        "effective_at": null,
+        "derivation": "explicit",
+        "source_id": "ccf9a8d9964aab7a587ddae4",
+        "source_revision": "79344459f900a196bff2714a",
+        "reference_source": null
+       },
+       {
+        "field_path": "/strike_status",
+        "quote": "철도노조는 \"한국철도공사가 진전된 안을 내놓지 않고 정부가 인력 통제와 감축을 고집한다면 12월 10일 오전 9시 총파업에 돌입할 수밖에 없다\"고 밝혔다.",
+        "source_part": "body",
+        "effective_at": null,
+        "derivation": "explicit",
+        "source_id": "ccf9a8d9964aab7a587ddae4",
+        "source_revision": "79344459f900a196bff2714a",
+        "reference_source": null
+       },
+       {
+        "field_path": "/strike_status",
+        "quote": "앞서 철도노조는 지난 11일 서울역 광장에서 기자회견을 열고 승진제도 개편과 수당 지급, 인력 확충 등의 요구가 받아들여지지 않을 경우 12월부터 무기한 총파업을 벌이겠다고 예고한 바 있다.",
+        "source_part": "body",
+        "effective_at": null,
+        "derivation": "explicit",
+        "source_id": "ccf9a8d9964aab7a587ddae4",
+        "source_revision": "79344459f900a196bff2714a",
+        "reference_source": null
+       },
+       {
+        "field_path": "/service_status",
+        "quote": "전국철도노동조합(철도노조)이 인력 충원과 승진제도 개선 등을 요구하며 다음 달 10일 무기한 총파업에 돌입할 수 있다고 거듭 경고했다.",
+        "source_part": "body",
+        "effective_at": null,
+        "derivation": "explicit",
+        "source_id": "ccf9a8d9964aab7a587ddae4",
+        "source_revision": "79344459f900a196bff2714a",
+        "reference_source": null
+       },
+       {
+        "field_path": "/service_status",
+        "quote": "철도노조는 \"한국철도공사가 진전된 안을 내놓지 않고 정부가 인력 통제와 감축을 고집한다면 12월 10일 오전 9시 총파업에 돌입할 수밖에 없다\"고 밝혔다.",
+        "source_part": "body",
+        "effective_at": null,
+        "derivation": "explicit",
+        "source_id": "ccf9a8d9964aab7a587ddae4",
+        "source_revision": "79344459f900a196bff2714a",
+        "reference_source": null
+       },
+       {
+        "field_path": "/service_status",
+        "quote": "앞서 철도노조는 지난 11일 서울역 광장에서 기자회견을 열고 승진제도 개편과 수당 지급, 인력 확충 등의 요구가 받아들여지지 않을 경우 12월부터 무기한 총파업을 벌이겠다고 예고한 바 있다.",
+        "source_part": "body",
+        "effective_at": null,
+        "derivation": "explicit",
+        "source_id": "ccf9a8d9964aab7a587ddae4",
+        "source_revision": "79344459f900a196bff2714a",
+        "reference_source": null
+       },
+       {
+        "field_path": "/normal_service_exceptions",
+        "quote": "전국철도노동조합(철도노조)이 인력 충원과 승진제도 개선 등을 요구하며 다음 달 10일 무기한 총파업에 돌입할 수 있다고 거듭 경고했다.",
+        "source_part": "body",
+        "effective_at": null,
+        "derivation": "explicit",
+        "source_id": "ccf9a8d9964aab7a587ddae4",
+        "source_revision": "79344459f900a196bff2714a",
+        "reference_source": null
+       },
+       {
+        "field_path": "/normal_service_exceptions",
+        "quote": "철도노조는 \"한국철도공사가 진전된 안을 내놓지 않고 정부가 인력 통제와 감축을 고집한다면 12월 10일 오전 9시 총파업에 돌입할 수밖에 없다\"고 밝혔다.",
+        "source_part": "body",
+        "effective_at": null,
+        "derivation": "explicit",
+        "source_id": "ccf9a8d9964aab7a587ddae4",
+        "source_revision": "79344459f900a196bff2714a",
+        "reference_source": null
+       },
+       {
+        "field_path": "/normal_service_exceptions",
+        "quote": "앞서 철도노조는 지난 11일 서울역 광장에서 기자회견을 열고 승진제도 개편과 수당 지급, 인력 확충 등의 요구가 받아들여지지 않을 경우 12월부터 무기한 총파업을 벌이겠다고 예고한 바 있다.",
+        "source_part": "body",
+        "effective_at": null,
+        "derivation": "explicit",
+        "source_id": "ccf9a8d9964aab7a587ddae4",
+        "source_revision": "79344459f900a196bff2714a",
+        "reference_source": null
+       },
+       {
+        "field_path": "/alternative_services",
+        "quote": "전국철도노동조합(철도노조)이 인력 충원과 승진제도 개선 등을 요구하며 다음 달 10일 무기한 총파업에 돌입할 수 있다고 거듭 경고했다.",
+        "source_part": "body",
+        "effective_at": null,
+        "derivation": "explicit",
+        "source_id": "ccf9a8d9964aab7a587ddae4",
+        "source_revision": "79344459f900a196bff2714a",
+        "reference_source": null
+       },
+       {
+        "field_path": "/alternative_services",
+        "quote": "철도노조는 \"한국철도공사가 진전된 안을 내놓지 않고 정부가 인력 통제와 감축을 고집한다면 12월 10일 오전 9시 총파업에 돌입할 수밖에 없다\"고 밝혔다.",
+        "source_part": "body",
+        "effective_at": null,
+        "derivation": "explicit",
+        "source_id": "ccf9a8d9964aab7a587ddae4",
+        "source_revision": "79344459f900a196bff2714a",
+        "reference_source": null
+       },
+       {
+        "field_path": "/alternative_services",
+        "quote": "앞서 철도노조는 지난 11일 서울역 광장에서 기자회견을 열고 승진제도 개편과 수당 지급, 인력 확충 등의 요구가 받아들여지지 않을 경우 12월부터 무기한 총파업을 벌이겠다고 예고한 바 있다.",
+        "source_part": "body",
+        "effective_at": null,
+        "derivation": "explicit",
+        "source_id": "ccf9a8d9964aab7a587ddae4",
+        "source_revision": "79344459f900a196bff2714a",
+        "reference_source": null
+       },
+       {
+        "field_path": "/start",
+        "quote": "전국철도노동조합(철도노조)이 인력 충원과 승진제도 개선 등을 요구하며 다음 달 10일 무기한 총파업에 돌입할 수 있다고 거듭 경고했다.",
+        "source_part": "body",
+        "effective_at": null,
+        "derivation": "explicit",
+        "source_id": "ccf9a8d9964aab7a587ddae4",
+        "source_revision": "79344459f900a196bff2714a",
+        "reference_source": null
+       },
+       {
+        "field_path": "/start",
+        "quote": "철도노조는 \"한국철도공사가 진전된 안을 내놓지 않고 정부가 인력 통제와 감축을 고집한다면 12월 10일 오전 9시 총파업에 돌입할 수밖에 없다\"고 밝혔다.",
+        "source_part": "body",
+        "effective_at": null,
+        "derivation": "explicit",
+        "source_id": "ccf9a8d9964aab7a587ddae4",
+        "source_revision": "79344459f900a196bff2714a",
+        "reference_source": null
+       },
+       {
+        "field_path": "/start",
+        "quote": "앞서 철도노조는 지난 11일 서울역 광장에서 기자회견을 열고 승진제도 개편과 수당 지급, 인력 확충 등의 요구가 받아들여지지 않을 경우 12월부터 무기한 총파업을 벌이겠다고 예고한 바 있다.",
+        "source_part": "body",
+        "effective_at": null,
+        "derivation": "explicit",
+        "source_id": "ccf9a8d9964aab7a587ddae4",
+        "source_revision": "79344459f900a196bff2714a",
+        "reference_source": null
+       },
+       {
+        "field_path": "/end",
+        "quote": "전국철도노동조합(철도노조)이 인력 충원과 승진제도 개선 등을 요구하며 다음 달 10일 무기한 총파업에 돌입할 수 있다고 거듭 경고했다.",
+        "source_part": "body",
+        "effective_at": null,
+        "derivation": "explicit",
+        "source_id": "ccf9a8d9964aab7a587ddae4",
+        "source_revision": "79344459f900a196bff2714a",
+        "reference_source": null
+       },
+       {
+        "field_path": "/end",
+        "quote": "철도노조는 \"한국철도공사가 진전된 안을 내놓지 않고 정부가 인력 통제와 감축을 고집한다면 12월 10일 오전 9시 총파업에 돌입할 수밖에 없다\"고 밝혔다.",
+        "source_part": "body",
+        "effective_at": null,
+        "derivation": "explicit",
+        "source_id": "ccf9a8d9964aab7a587ddae4",
+        "source_revision": "79344459f900a196bff2714a",
+        "reference_source": null
+       },
+       {
+        "field_path": "/end",
+        "quote": "앞서 철도노조는 지난 11일 서울역 광장에서 기자회견을 열고 승진제도 개편과 수당 지급, 인력 확충 등의 요구가 받아들여지지 않을 경우 12월부터 무기한 총파업을 벌이겠다고 예고한 바 있다.",
+        "source_part": "body",
+        "effective_at": null,
+        "derivation": "explicit",
+        "source_id": "ccf9a8d9964aab7a587ddae4",
+        "source_revision": "79344459f900a196bff2714a",
+        "reference_source": null
+       }
+      ],
+      "review_reasons": [
+       "DATE_UNCONFIRMED"
+      ]
+     }
+    },
+    {
+     "article_relevance": "related",
+     "transport_mode": "unknown",
+     "affected_regions": [],
+     "affected_routes": [],
+     "start": {
+      "raw": "오전 9시",
+      "date": null,
+      "time": "09:00",
       "timezone": "Asia/Seoul",
       "basis": "explicit",
       "assertion": "planned",
-      "open_ended": false
+      "open_ended": null
+     },
+     "end": {
+      "raw": null,
+      "date": null,
+      "time": null,
+      "timezone": "Asia/Seoul",
+      "basis": "unknown",
+      "assertion": "unknown",
+      "open_ended": null
      },
      "strike_status": {
       "value": "unknown",
       "conditions": [],
-      "scope_raw": "세종대로 등 마로니에 공원→사랑채 동측 건너편, 윤 어게인 ▲오후 2시 전국철도노조, 동자동 서울역 12出~트윈시티남산 앞 全차로, 총파업 선포 결의대회 ▲오후 2시 전국교수노조, 종로2가, 탑골공원 앞, 2026년 전국교수 결의대회 ▲오후 2시 국본, 태평로1가 대한문 앞 인도, 박근혜 전 대통령 탄핵 무효 헌정복원 ▲오후 2시 자유고교연합, 강남대로 등 논현역 5出→교대역 3出, 공정수사 촉구 ▲오후 2시 청산리백야tv, 여의도동 민주당사 앞 이면도로, 경기도지사 제명 촉구 ▲오후 2시 노동자연대",
+      "scope_raw": "이날 대규모 결의대회에서도 기존 입장을 재확인하면서 정부와 코레일의 대응에 따라 다음 달 10일 오전 9시부터 파업에 들어갈 수 있음을 분명히 했다.",
       "effective_at": null
      },
      "service_status": [],
      "normal_service_exceptions": [],
      "alternative_services": [],
      "evidence_and_timestamps": {
-      "source_url": "https://www.newsis.com/view/NISX20261113_0003867880",
-      "published_at": "2026-11-14T06:00:00+09:00",
+      "source_url": "https://www.imaeil.com/page/view/2026111417131297761",
+      "published_at": null,
       "updated_at": null,
-      "collected_at": "2026-11-14T13:29:56.149935+09:00",
+      "collected_at": "2026-11-14T21:52:44.216716+09:00",
       "field_evidence": [
        {
         "field_path": "/article_relevance",
-        "quote": "세종대로 등 마로니에 공원→사랑채 동측 건너편, 윤 어게인 ▲오후 2시 전국철도노조, 동자동 서울역 12出~트윈시티남산 앞 全차로, 총파업 선포 결의대회 ▲오후 2시 전국교수노조, 종로2가, 탑골공원 앞, 2026년 전국교수 결의대회 ▲오후 2시 국본, 태평로1가 대한문 앞 인도, 박근혜 전 대통령 탄핵 무효 헌정복원 ▲오후 2시 자유고교연합, 강남대로 등 논현역 5出→교대역 3出, 공정수사 촉구 ▲오후 2시 청산리백야tv, 여의도동 민주당사 앞 이면도로, 경기도지사 제명 촉구 ▲오후 2시 노동자연대",
+        "quote": "이날 대규모 결의대회에서도 기존 입장을 재확인하면서 정부와 코레일의 대응에 따라 다음 달 10일 오전 9시부터 파업에 들어갈 수 있음을 분명히 했다.",
         "source_part": "body",
         "effective_at": null,
         "derivation": "explicit",
-        "source_id": "6df1fbd2c7d67173e9395d00",
-        "source_revision": "b7aa018389bf364fc0adc212",
+        "source_id": "ccf9a8d9964aab7a587ddae4",
+        "source_revision": "79344459f900a196bff2714a",
         "reference_source": null
        },
        {
         "field_path": "/transport_mode",
-        "quote": "세종대로 등 마로니에 공원→사랑채 동측 건너편, 윤 어게인 ▲오후 2시 전국철도노조, 동자동 서울역 12出~트윈시티남산 앞 全차로, 총파업 선포 결의대회 ▲오후 2시 전국교수노조, 종로2가, 탑골공원 앞, 2026년 전국교수 결의대회 ▲오후 2시 국본, 태평로1가 대한문 앞 인도, 박근혜 전 대통령 탄핵 무효 헌정복원 ▲오후 2시 자유고교연합, 강남대로 등 논현역 5出→교대역 3出, 공정수사 촉구 ▲오후 2시 청산리백야tv, 여의도동 민주당사 앞 이면도로, 경기도지사 제명 촉구 ▲오후 2시 노동자연대",
+        "quote": "이날 대규모 결의대회에서도 기존 입장을 재확인하면서 정부와 코레일의 대응에 따라 다음 달 10일 오전 9시부터 파업에 들어갈 수 있음을 분명히 했다.",
         "source_part": "body",
         "effective_at": null,
         "derivation": "explicit",
-        "source_id": "6df1fbd2c7d67173e9395d00",
-        "source_revision": "b7aa018389bf364fc0adc212",
+        "source_id": "ccf9a8d9964aab7a587ddae4",
+        "source_revision": "79344459f900a196bff2714a",
         "reference_source": null
        },
        {
         "field_path": "/affected_regions",
-        "quote": "세종대로 등 마로니에 공원→사랑채 동측 건너편, 윤 어게인 ▲오후 2시 전국철도노조, 동자동 서울역 12出~트윈시티남산 앞 全차로, 총파업 선포 결의대회 ▲오후 2시 전국교수노조, 종로2가, 탑골공원 앞, 2026년 전국교수 결의대회 ▲오후 2시 국본, 태평로1가 대한문 앞 인도, 박근혜 전 대통령 탄핵 무효 헌정복원 ▲오후 2시 자유고교연합, 강남대로 등 논현역 5出→교대역 3出, 공정수사 촉구 ▲오후 2시 청산리백야tv, 여의도동 민주당사 앞 이면도로, 경기도지사 제명 촉구 ▲오후 2시 노동자연대",
+        "quote": "이날 대규모 결의대회에서도 기존 입장을 재확인하면서 정부와 코레일의 대응에 따라 다음 달 10일 오전 9시부터 파업에 들어갈 수 있음을 분명히 했다.",
         "source_part": "body",
         "effective_at": null,
         "derivation": "explicit",
-        "source_id": "6df1fbd2c7d67173e9395d00",
-        "source_revision": "b7aa018389bf364fc0adc212",
+        "source_id": "ccf9a8d9964aab7a587ddae4",
+        "source_revision": "79344459f900a196bff2714a",
         "reference_source": null
        },
        {
         "field_path": "/affected_routes",
-        "quote": "세종대로 등 마로니에 공원→사랑채 동측 건너편, 윤 어게인 ▲오후 2시 전국철도노조, 동자동 서울역 12出~트윈시티남산 앞 全차로, 총파업 선포 결의대회 ▲오후 2시 전국교수노조, 종로2가, 탑골공원 앞, 2026년 전국교수 결의대회 ▲오후 2시 국본, 태평로1가 대한문 앞 인도, 박근혜 전 대통령 탄핵 무효 헌정복원 ▲오후 2시 자유고교연합, 강남대로 등 논현역 5出→교대역 3出, 공정수사 촉구 ▲오후 2시 청산리백야tv, 여의도동 민주당사 앞 이면도로, 경기도지사 제명 촉구 ▲오후 2시 노동자연대",
+        "quote": "이날 대규모 결의대회에서도 기존 입장을 재확인하면서 정부와 코레일의 대응에 따라 다음 달 10일 오전 9시부터 파업에 들어갈 수 있음을 분명히 했다.",
         "source_part": "body",
         "effective_at": null,
         "derivation": "explicit",
-        "source_id": "6df1fbd2c7d67173e9395d00",
-        "source_revision": "b7aa018389bf364fc0adc212",
+        "source_id": "ccf9a8d9964aab7a587ddae4",
+        "source_revision": "79344459f900a196bff2714a",
         "reference_source": null
        },
        {
         "field_path": "/strike_status",
-        "quote": "세종대로 등 마로니에 공원→사랑채 동측 건너편, 윤 어게인 ▲오후 2시 전국철도노조, 동자동 서울역 12出~트윈시티남산 앞 全차로, 총파업 선포 결의대회 ▲오후 2시 전국교수노조, 종로2가, 탑골공원 앞, 2026년 전국교수 결의대회 ▲오후 2시 국본, 태평로1가 대한문 앞 인도, 박근혜 전 대통령 탄핵 무효 헌정복원 ▲오후 2시 자유고교연합, 강남대로 등 논현역 5出→교대역 3出, 공정수사 촉구 ▲오후 2시 청산리백야tv, 여의도동 민주당사 앞 이면도로, 경기도지사 제명 촉구 ▲오후 2시 노동자연대",
+        "quote": "이날 대규모 결의대회에서도 기존 입장을 재확인하면서 정부와 코레일의 대응에 따라 다음 달 10일 오전 9시부터 파업에 들어갈 수 있음을 분명히 했다.",
         "source_part": "body",
         "effective_at": null,
         "derivation": "explicit",
-        "source_id": "6df1fbd2c7d67173e9395d00",
-        "source_revision": "b7aa018389bf364fc0adc212",
+        "source_id": "ccf9a8d9964aab7a587ddae4",
+        "source_revision": "79344459f900a196bff2714a",
         "reference_source": null
        },
        {
         "field_path": "/service_status",
-        "quote": "세종대로 등 마로니에 공원→사랑채 동측 건너편, 윤 어게인 ▲오후 2시 전국철도노조, 동자동 서울역 12出~트윈시티남산 앞 全차로, 총파업 선포 결의대회 ▲오후 2시 전국교수노조, 종로2가, 탑골공원 앞, 2026년 전국교수 결의대회 ▲오후 2시 국본, 태평로1가 대한문 앞 인도, 박근혜 전 대통령 탄핵 무효 헌정복원 ▲오후 2시 자유고교연합, 강남대로 등 논현역 5出→교대역 3出, 공정수사 촉구 ▲오후 2시 청산리백야tv, 여의도동 민주당사 앞 이면도로, 경기도지사 제명 촉구 ▲오후 2시 노동자연대",
+        "quote": "이날 대규모 결의대회에서도 기존 입장을 재확인하면서 정부와 코레일의 대응에 따라 다음 달 10일 오전 9시부터 파업에 들어갈 수 있음을 분명히 했다.",
         "source_part": "body",
         "effective_at": null,
         "derivation": "explicit",
-        "source_id": "6df1fbd2c7d67173e9395d00",
-        "source_revision": "b7aa018389bf364fc0adc212",
+        "source_id": "ccf9a8d9964aab7a587ddae4",
+        "source_revision": "79344459f900a196bff2714a",
         "reference_source": null
        },
        {
         "field_path": "/normal_service_exceptions",
-        "quote": "세종대로 등 마로니에 공원→사랑채 동측 건너편, 윤 어게인 ▲오후 2시 전국철도노조, 동자동 서울역 12出~트윈시티남산 앞 全차로, 총파업 선포 결의대회 ▲오후 2시 전국교수노조, 종로2가, 탑골공원 앞, 2026년 전국교수 결의대회 ▲오후 2시 국본, 태평로1가 대한문 앞 인도, 박근혜 전 대통령 탄핵 무효 헌정복원 ▲오후 2시 자유고교연합, 강남대로 등 논현역 5出→교대역 3出, 공정수사 촉구 ▲오후 2시 청산리백야tv, 여의도동 민주당사 앞 이면도로, 경기도지사 제명 촉구 ▲오후 2시 노동자연대",
+        "quote": "이날 대규모 결의대회에서도 기존 입장을 재확인하면서 정부와 코레일의 대응에 따라 다음 달 10일 오전 9시부터 파업에 들어갈 수 있음을 분명히 했다.",
         "source_part": "body",
         "effective_at": null,
         "derivation": "explicit",
-        "source_id": "6df1fbd2c7d67173e9395d00",
-        "source_revision": "b7aa018389bf364fc0adc212",
+        "source_id": "ccf9a8d9964aab7a587ddae4",
+        "source_revision": "79344459f900a196bff2714a",
         "reference_source": null
        },
        {
         "field_path": "/alternative_services",
-        "quote": "세종대로 등 마로니에 공원→사랑채 동측 건너편, 윤 어게인 ▲오후 2시 전국철도노조, 동자동 서울역 12出~트윈시티남산 앞 全차로, 총파업 선포 결의대회 ▲오후 2시 전국교수노조, 종로2가, 탑골공원 앞, 2026년 전국교수 결의대회 ▲오후 2시 국본, 태평로1가 대한문 앞 인도, 박근혜 전 대통령 탄핵 무효 헌정복원 ▲오후 2시 자유고교연합, 강남대로 등 논현역 5出→교대역 3出, 공정수사 촉구 ▲오후 2시 청산리백야tv, 여의도동 민주당사 앞 이면도로, 경기도지사 제명 촉구 ▲오후 2시 노동자연대",
+        "quote": "이날 대규모 결의대회에서도 기존 입장을 재확인하면서 정부와 코레일의 대응에 따라 다음 달 10일 오전 9시부터 파업에 들어갈 수 있음을 분명히 했다.",
         "source_part": "body",
         "effective_at": null,
         "derivation": "explicit",
-        "source_id": "6df1fbd2c7d67173e9395d00",
-        "source_revision": "b7aa018389bf364fc0adc212",
+        "source_id": "ccf9a8d9964aab7a587ddae4",
+        "source_revision": "79344459f900a196bff2714a",
         "reference_source": null
        },
        {
         "field_path": "/start",
-        "quote": "세종대로 등 마로니에 공원→사랑채 동측 건너편, 윤 어게인 ▲오후 2시 전국철도노조, 동자동 서울역 12出~트윈시티남산 앞 全차로, 총파업 선포 결의대회 ▲오후 2시 전국교수노조, 종로2가, 탑골공원 앞, 2026년 전국교수 결의대회 ▲오후 2시 국본, 태평로1가 대한문 앞 인도, 박근혜 전 대통령 탄핵 무효 헌정복원 ▲오후 2시 자유고교연합, 강남대로 등 논현역 5出→교대역 3出, 공정수사 촉구 ▲오후 2시 청산리백야tv, 여의도동 민주당사 앞 이면도로, 경기도지사 제명 촉구 ▲오후 2시 노동자연대",
+        "quote": "이날 대규모 결의대회에서도 기존 입장을 재확인하면서 정부와 코레일의 대응에 따라 다음 달 10일 오전 9시부터 파업에 들어갈 수 있음을 분명히 했다.",
         "source_part": "body",
         "effective_at": null,
         "derivation": "explicit",
-        "source_id": "6df1fbd2c7d67173e9395d00",
-        "source_revision": "b7aa018389bf364fc0adc212",
+        "source_id": "ccf9a8d9964aab7a587ddae4",
+        "source_revision": "79344459f900a196bff2714a",
         "reference_source": null
        },
        {
         "field_path": "/end",
-        "quote": "세종대로 등 마로니에 공원→사랑채 동측 건너편, 윤 어게인 ▲오후 2시 전국철도노조, 동자동 서울역 12出~트윈시티남산 앞 全차로, 총파업 선포 결의대회 ▲오후 2시 전국교수노조, 종로2가, 탑골공원 앞, 2026년 전국교수 결의대회 ▲오후 2시 국본, 태평로1가 대한문 앞 인도, 박근혜 전 대통령 탄핵 무효 헌정복원 ▲오후 2시 자유고교연합, 강남대로 등 논현역 5出→교대역 3出, 공정수사 촉구 ▲오후 2시 청산리백야tv, 여의도동 민주당사 앞 이면도로, 경기도지사 제명 촉구 ▲오후 2시 노동자연대",
+        "quote": "이날 대규모 결의대회에서도 기존 입장을 재확인하면서 정부와 코레일의 대응에 따라 다음 달 10일 오전 9시부터 파업에 들어갈 수 있음을 분명히 했다.",
         "source_part": "body",
         "effective_at": null,
         "derivation": "explicit",
-        "source_id": "6df1fbd2c7d67173e9395d00",
-        "source_revision": "b7aa018389bf364fc0adc212",
+        "source_id": "ccf9a8d9964aab7a587ddae4",
+        "source_revision": "79344459f900a196bff2714a",
         "reference_source": null
        }
       ],
@@ -8203,78 +9287,17 @@
    ],
    "events": {
     "schema_version": "1.0",
-    "article_relevance": "related",
+    "article_relevance": "unrelated",
     "processing_status": "success",
     "source": {
-     "source_id": "6df1fbd2c7d67173e9395d00",
-     "source_url": "https://www.newsis.com/view/NISX20261113_0003867880",
-     "source_revision": "b7aa018389bf364fc0adc212",
-     "published_at": "2026-11-14T06:00:00+09:00",
+     "source_id": "ccf9a8d9964aab7a587ddae4",
+     "source_url": "https://www.imaeil.com/page/view/2026111417131297761",
+     "source_revision": "79344459f900a196bff2714a",
+     "published_at": null,
      "updated_at": null,
-     "collected_at": "2026-11-14T13:29:56.149935+09:00"
+     "collected_at": "2026-11-14T21:52:44.216716+09:00"
     },
-    "events": [
-     {
-      "event_ref": "0",
-      "event_name": "사수 집회",
-      "event_type": "RALLY",
-      "event_status": "UNKNOWN",
-      "event_period": {
-       "start": {
-        "raw": "오전 7시",
-        "date": null,
-        "time": "07:00",
-        "timezone": "Asia/Seoul",
-        "basis": "explicit",
-        "assertion": "planned",
-        "open_ended": null
-       },
-       "end": {
-        "raw": "오전 7시",
-        "date": null,
-        "time": "07:00",
-        "timezone": "Asia/Seoul",
-        "basis": "explicit",
-        "assertion": "planned",
-        "open_ended": false
-       },
-       "precision": "UNKNOWN",
-       "condition": null
-      },
-      "event_locations": [
-       {
-        "raw": "신길역",
-        "normalized_name": "신길역",
-        "region": "서울",
-        "reference_id": null,
-        "derivation": "article_explicit",
-        "reference_source": null
-       },
-       {
-        "raw": "능인선",
-        "normalized_name": "능인선",
-        "region": "서울",
-        "reference_id": null,
-        "derivation": "article_explicit",
-        "reference_source": null
-       }
-      ],
-      "impacts": [],
-      "evidence": [
-       {
-        "field_path": "/event",
-        "quote": "[서울=뉴시스]신유림 기자 = ▲오전 7시 민주노총 건설노조 서경북부 건설기계지부, 신길동 포스코 건설현장 앞, 생존권 사수 집회 ▲오전 7시 국민의힘 영등포乙 당원 등, 신길동 신길역 1出 앞, VIP 재판 재개 촉구 ▲오전 8시 보건의료노조, 효자동 사랑채 동측 건너편, 대한적십자 회장 인준 거부 촉구 ▲오전 9시 전국언론노조 국제신문지부, 개포동 능인선원 앞, 파탄경영 책임 및 성실대회 촉구 ▲오전 11시 자녀교육권 부모연합, 후암동 서울시 교육청 앞 인도, 학교내 차별금지법 저지 국민대회 ▲오후 1시 자유통일당",
-        "source_part": "body",
-        "effective_at": null,
-        "derivation": "explicit",
-        "source_id": "6df1fbd2c7d67173e9395d00",
-        "source_revision": "b7aa018389bf364fc0adc212",
-        "reference_source": null
-       }
-      ],
-      "review_reasons": []
-     }
-    ],
+    "events": [],
     "review_reasons": []
    }
   },
@@ -8316,7 +9339,7 @@
       "source_url": "https://www.fnnews.com/news/202611101525402414",
       "published_at": "2026-11-10T15:41:44+09:00",
       "updated_at": "2026-11-10T15:41:44+09:00",
-      "collected_at": "2026-11-14T13:30:02.589892+09:00",
+      "collected_at": "2026-11-14T21:52:47.994751+09:00",
       "field_evidence": [
        {
         "field_path": "/article_relevance",
@@ -8433,7 +9456,7 @@
      "source_revision": "e4db1223ba466bbc3a5481ca",
      "published_at": "2026-11-10T15:41:44+09:00",
      "updated_at": "2026-11-10T15:41:44+09:00",
-     "collected_at": "2026-11-14T13:30:02.589892+09:00"
+     "collected_at": "2026-11-14T21:52:47.994751+09:00"
     },
     "events": [],
     "review_reasons": []
@@ -8477,7 +9500,7 @@
       "source_url": "https://www.newspim.com/news/view/20261113001135",
       "published_at": "2026-11-14T07:00:00+09:00",
       "updated_at": "2026-11-14T09:07:00+09:00",
-      "collected_at": "2026-11-14T13:30:06.179334+09:00",
+      "collected_at": "2026-11-14T21:52:52.922591+09:00",
       "field_evidence": [
        {
         "field_path": "/article_relevance",
@@ -8594,7 +9617,7 @@
      "source_revision": "3452d940cd7d9991eaaed8e6",
      "published_at": "2026-11-14T07:00:00+09:00",
      "updated_at": "2026-11-14T09:07:00+09:00",
-     "collected_at": "2026-11-14T13:30:06.179334+09:00"
+     "collected_at": "2026-11-14T21:52:52.922591+09:00"
     },
     "events": [
      {
@@ -9057,7 +10080,7 @@
       "source_url": "https://www.yna.co.kr/view/AKR20261113065800009?input=1195m",
       "published_at": "2026-11-13T10:37:55+09:00",
       "updated_at": "2026-11-13T10:37:55+09:00",
-      "collected_at": "2026-11-14T13:30:09.848632+09:00",
+      "collected_at": "2026-11-14T21:52:58.054336+09:00",
       "field_evidence": [
        {
         "field_path": "/article_relevance",
@@ -9174,7 +10197,7 @@
      "source_revision": "8fbe5e38b5a3f2fbb60d2e51",
      "published_at": "2026-11-13T10:37:55+09:00",
      "updated_at": "2026-11-13T10:37:55+09:00",
-     "collected_at": "2026-11-14T13:30:09.848632+09:00"
+     "collected_at": "2026-11-14T21:52:58.054336+09:00"
     },
     "events": [],
     "review_reasons": [
@@ -9217,10 +10240,457 @@
      "normal_service_exceptions": [],
      "alternative_services": [],
      "evidence_and_timestamps": {
+      "source_url": "https://www.hankyung.com/article/202611133984h",
+      "published_at": "2026-11-13T05:33:03+09:00",
+      "updated_at": null,
+      "collected_at": "2026-11-14T21:53:05.792716+09:00",
+      "field_evidence": [
+       {
+        "field_path": "/article_relevance",
+        "quote": "서울역과 인천국제공항을 왕복 운행하는 공항철도가 13일 정상 운행한다.",
+        "source_part": "body",
+        "effective_at": null,
+        "derivation": "explicit",
+        "source_id": "0cf254dd4f2b3d8a6195a6fd",
+        "source_revision": "5c9941a38f000f77ad8b8511",
+        "reference_source": null
+       },
+       {
+        "field_path": "/transport_mode",
+        "quote": "서울역과 인천국제공항을 왕복 운행하는 공항철도가 13일 정상 운행한다.",
+        "source_part": "body",
+        "effective_at": null,
+        "derivation": "explicit",
+        "source_id": "0cf254dd4f2b3d8a6195a6fd",
+        "source_revision": "5c9941a38f000f77ad8b8511",
+        "reference_source": null
+       },
+       {
+        "field_path": "/affected_regions",
+        "quote": "서울역과 인천국제공항을 왕복 운행하는 공항철도가 13일 정상 운행한다.",
+        "source_part": "body",
+        "effective_at": null,
+        "derivation": "explicit",
+        "source_id": "0cf254dd4f2b3d8a6195a6fd",
+        "source_revision": "5c9941a38f000f77ad8b8511",
+        "reference_source": null
+       },
+       {
+        "field_path": "/affected_routes",
+        "quote": "서울역과 인천국제공항을 왕복 운행하는 공항철도가 13일 정상 운행한다.",
+        "source_part": "body",
+        "effective_at": null,
+        "derivation": "explicit",
+        "source_id": "0cf254dd4f2b3d8a6195a6fd",
+        "source_revision": "5c9941a38f000f77ad8b8511",
+        "reference_source": null
+       },
+       {
+        "field_path": "/strike_status",
+        "quote": "서울역과 인천국제공항을 왕복 운행하는 공항철도가 13일 정상 운행한다.",
+        "source_part": "body",
+        "effective_at": null,
+        "derivation": "explicit",
+        "source_id": "0cf254dd4f2b3d8a6195a6fd",
+        "source_revision": "5c9941a38f000f77ad8b8511",
+        "reference_source": null
+       },
+       {
+        "field_path": "/service_status",
+        "quote": "서울역과 인천국제공항을 왕복 운행하는 공항철도가 13일 정상 운행한다.",
+        "source_part": "body",
+        "effective_at": null,
+        "derivation": "explicit",
+        "source_id": "0cf254dd4f2b3d8a6195a6fd",
+        "source_revision": "5c9941a38f000f77ad8b8511",
+        "reference_source": null
+       },
+       {
+        "field_path": "/normal_service_exceptions",
+        "quote": "서울역과 인천국제공항을 왕복 운행하는 공항철도가 13일 정상 운행한다.",
+        "source_part": "body",
+        "effective_at": null,
+        "derivation": "explicit",
+        "source_id": "0cf254dd4f2b3d8a6195a6fd",
+        "source_revision": "5c9941a38f000f77ad8b8511",
+        "reference_source": null
+       },
+       {
+        "field_path": "/alternative_services",
+        "quote": "서울역과 인천국제공항을 왕복 운행하는 공항철도가 13일 정상 운행한다.",
+        "source_part": "body",
+        "effective_at": null,
+        "derivation": "explicit",
+        "source_id": "0cf254dd4f2b3d8a6195a6fd",
+        "source_revision": "5c9941a38f000f77ad8b8511",
+        "reference_source": null
+       },
+       {
+        "field_path": "/start",
+        "quote": "서울역과 인천국제공항을 왕복 운행하는 공항철도가 13일 정상 운행한다.",
+        "source_part": "body",
+        "effective_at": null,
+        "derivation": "explicit",
+        "source_id": "0cf254dd4f2b3d8a6195a6fd",
+        "source_revision": "5c9941a38f000f77ad8b8511",
+        "reference_source": null
+       },
+       {
+        "field_path": "/end",
+        "quote": "서울역과 인천국제공항을 왕복 운행하는 공항철도가 13일 정상 운행한다.",
+        "source_part": "body",
+        "effective_at": null,
+        "derivation": "explicit",
+        "source_id": "0cf254dd4f2b3d8a6195a6fd",
+        "source_revision": "5c9941a38f000f77ad8b8511",
+        "reference_source": null
+       }
+      ],
+      "review_reasons": []
+     }
+    },
+    {
+     "article_relevance": "related",
+     "transport_mode": "rail",
+     "affected_regions": [],
+     "affected_routes": [],
+     "start": {
+      "raw": null,
+      "date": null,
+      "time": null,
+      "timezone": "Asia/Seoul",
+      "basis": "unknown",
+      "assertion": "unknown",
+      "open_ended": null
+     },
+     "end": {
+      "raw": null,
+      "date": null,
+      "time": null,
+      "timezone": "Asia/Seoul",
+      "basis": "unknown",
+      "assertion": "unknown",
+      "open_ended": null
+     },
+     "strike_status": {
+      "value": "scheduled",
+      "conditions": [],
+      "scope_raw": "앞서 민주노총 공공운수노조 공항철도지부는 지난 7월부터 10차례 교섭했지만 임금 인상과 인력 충원 등에 합의하지 못해 13일 하루 경고 파업에 들어간다고 예고 했었다.",
+      "effective_at": null
+     },
+     "service_status": [],
+     "normal_service_exceptions": [],
+     "alternative_services": [],
+     "evidence_and_timestamps": {
+      "source_url": "https://www.hankyung.com/article/202611133984h",
+      "published_at": "2026-11-13T05:33:03+09:00",
+      "updated_at": null,
+      "collected_at": "2026-11-14T21:53:05.792716+09:00",
+      "field_evidence": [
+       {
+        "field_path": "/article_relevance",
+        "quote": "앞서 민주노총 공공운수노조 공항철도지부는 지난 7월부터 10차례 교섭했지만 임금 인상과 인력 충원 등에 합의하지 못해 13일 하루 경고 파업에 들어간다고 예고 했었다.",
+        "source_part": "body",
+        "effective_at": null,
+        "derivation": "explicit",
+        "source_id": "0cf254dd4f2b3d8a6195a6fd",
+        "source_revision": "5c9941a38f000f77ad8b8511",
+        "reference_source": null
+       },
+       {
+        "field_path": "/transport_mode",
+        "quote": "앞서 민주노총 공공운수노조 공항철도지부는 지난 7월부터 10차례 교섭했지만 임금 인상과 인력 충원 등에 합의하지 못해 13일 하루 경고 파업에 들어간다고 예고 했었다.",
+        "source_part": "body",
+        "effective_at": null,
+        "derivation": "explicit",
+        "source_id": "0cf254dd4f2b3d8a6195a6fd",
+        "source_revision": "5c9941a38f000f77ad8b8511",
+        "reference_source": null
+       },
+       {
+        "field_path": "/affected_regions",
+        "quote": "앞서 민주노총 공공운수노조 공항철도지부는 지난 7월부터 10차례 교섭했지만 임금 인상과 인력 충원 등에 합의하지 못해 13일 하루 경고 파업에 들어간다고 예고 했었다.",
+        "source_part": "body",
+        "effective_at": null,
+        "derivation": "explicit",
+        "source_id": "0cf254dd4f2b3d8a6195a6fd",
+        "source_revision": "5c9941a38f000f77ad8b8511",
+        "reference_source": null
+       },
+       {
+        "field_path": "/affected_routes",
+        "quote": "앞서 민주노총 공공운수노조 공항철도지부는 지난 7월부터 10차례 교섭했지만 임금 인상과 인력 충원 등에 합의하지 못해 13일 하루 경고 파업에 들어간다고 예고 했었다.",
+        "source_part": "body",
+        "effective_at": null,
+        "derivation": "explicit",
+        "source_id": "0cf254dd4f2b3d8a6195a6fd",
+        "source_revision": "5c9941a38f000f77ad8b8511",
+        "reference_source": null
+       },
+       {
+        "field_path": "/strike_status",
+        "quote": "앞서 민주노총 공공운수노조 공항철도지부는 지난 7월부터 10차례 교섭했지만 임금 인상과 인력 충원 등에 합의하지 못해 13일 하루 경고 파업에 들어간다고 예고 했었다.",
+        "source_part": "body",
+        "effective_at": null,
+        "derivation": "explicit",
+        "source_id": "0cf254dd4f2b3d8a6195a6fd",
+        "source_revision": "5c9941a38f000f77ad8b8511",
+        "reference_source": null
+       },
+       {
+        "field_path": "/service_status",
+        "quote": "앞서 민주노총 공공운수노조 공항철도지부는 지난 7월부터 10차례 교섭했지만 임금 인상과 인력 충원 등에 합의하지 못해 13일 하루 경고 파업에 들어간다고 예고 했었다.",
+        "source_part": "body",
+        "effective_at": null,
+        "derivation": "explicit",
+        "source_id": "0cf254dd4f2b3d8a6195a6fd",
+        "source_revision": "5c9941a38f000f77ad8b8511",
+        "reference_source": null
+       },
+       {
+        "field_path": "/normal_service_exceptions",
+        "quote": "앞서 민주노총 공공운수노조 공항철도지부는 지난 7월부터 10차례 교섭했지만 임금 인상과 인력 충원 등에 합의하지 못해 13일 하루 경고 파업에 들어간다고 예고 했었다.",
+        "source_part": "body",
+        "effective_at": null,
+        "derivation": "explicit",
+        "source_id": "0cf254dd4f2b3d8a6195a6fd",
+        "source_revision": "5c9941a38f000f77ad8b8511",
+        "reference_source": null
+       },
+       {
+        "field_path": "/alternative_services",
+        "quote": "앞서 민주노총 공공운수노조 공항철도지부는 지난 7월부터 10차례 교섭했지만 임금 인상과 인력 충원 등에 합의하지 못해 13일 하루 경고 파업에 들어간다고 예고 했었다.",
+        "source_part": "body",
+        "effective_at": null,
+        "derivation": "explicit",
+        "source_id": "0cf254dd4f2b3d8a6195a6fd",
+        "source_revision": "5c9941a38f000f77ad8b8511",
+        "reference_source": null
+       },
+       {
+        "field_path": "/start",
+        "quote": "앞서 민주노총 공공운수노조 공항철도지부는 지난 7월부터 10차례 교섭했지만 임금 인상과 인력 충원 등에 합의하지 못해 13일 하루 경고 파업에 들어간다고 예고 했었다.",
+        "source_part": "body",
+        "effective_at": null,
+        "derivation": "explicit",
+        "source_id": "0cf254dd4f2b3d8a6195a6fd",
+        "source_revision": "5c9941a38f000f77ad8b8511",
+        "reference_source": null
+       },
+       {
+        "field_path": "/end",
+        "quote": "앞서 민주노총 공공운수노조 공항철도지부는 지난 7월부터 10차례 교섭했지만 임금 인상과 인력 충원 등에 합의하지 못해 13일 하루 경고 파업에 들어간다고 예고 했었다.",
+        "source_part": "body",
+        "effective_at": null,
+        "derivation": "explicit",
+        "source_id": "0cf254dd4f2b3d8a6195a6fd",
+        "source_revision": "5c9941a38f000f77ad8b8511",
+        "reference_source": null
+       }
+      ],
+      "review_reasons": [
+       "DATE_UNCONFIRMED"
+      ]
+     }
+    },
+    {
+     "article_relevance": "unrelated",
+     "transport_mode": "unknown",
+     "affected_regions": [],
+     "affected_routes": [],
+     "start": {
+      "raw": null,
+      "date": null,
+      "time": null,
+      "timezone": "Asia/Seoul",
+      "basis": "unknown",
+      "assertion": "unknown",
+      "open_ended": null
+     },
+     "end": {
+      "raw": null,
+      "date": null,
+      "time": null,
+      "timezone": "Asia/Seoul",
+      "basis": "unknown",
+      "assertion": "unknown",
+      "open_ended": null
+     },
+     "strike_status": {
+      "value": "unknown",
+      "conditions": [],
+      "scope_raw": null,
+      "effective_at": null
+     },
+     "service_status": [],
+     "normal_service_exceptions": [],
+     "alternative_services": [],
+     "evidence_and_timestamps": {
+      "source_url": "https://www.hankyung.com/article/202611133984h",
+      "published_at": "2026-11-13T05:33:03+09:00",
+      "updated_at": null,
+      "collected_at": "2026-11-14T21:53:05.792716+09:00",
+      "field_evidence": [
+       {
+        "field_path": "/article_relevance",
+        "quote": "노사는 13일 오전 3시 30분에 2026년도 임금 교섭에서 잠정합의안을 도출하고 이날 하루 동안 첫차 운행부터 예정된 경고 파업 계획을 철회하기로 했다.",
+        "source_part": "body",
+        "effective_at": null,
+        "derivation": "explicit",
+        "source_id": "0cf254dd4f2b3d8a6195a6fd",
+        "source_revision": "5c9941a38f000f77ad8b8511",
+        "reference_source": null
+       },
+       {
+        "field_path": "/transport_mode",
+        "quote": "노사는 13일 오전 3시 30분에 2026년도 임금 교섭에서 잠정합의안을 도출하고 이날 하루 동안 첫차 운행부터 예정된 경고 파업 계획을 철회하기로 했다.",
+        "source_part": "body",
+        "effective_at": null,
+        "derivation": "explicit",
+        "source_id": "0cf254dd4f2b3d8a6195a6fd",
+        "source_revision": "5c9941a38f000f77ad8b8511",
+        "reference_source": null
+       },
+       {
+        "field_path": "/affected_regions",
+        "quote": "노사는 13일 오전 3시 30분에 2026년도 임금 교섭에서 잠정합의안을 도출하고 이날 하루 동안 첫차 운행부터 예정된 경고 파업 계획을 철회하기로 했다.",
+        "source_part": "body",
+        "effective_at": null,
+        "derivation": "explicit",
+        "source_id": "0cf254dd4f2b3d8a6195a6fd",
+        "source_revision": "5c9941a38f000f77ad8b8511",
+        "reference_source": null
+       },
+       {
+        "field_path": "/affected_routes",
+        "quote": "노사는 13일 오전 3시 30분에 2026년도 임금 교섭에서 잠정합의안을 도출하고 이날 하루 동안 첫차 운행부터 예정된 경고 파업 계획을 철회하기로 했다.",
+        "source_part": "body",
+        "effective_at": null,
+        "derivation": "explicit",
+        "source_id": "0cf254dd4f2b3d8a6195a6fd",
+        "source_revision": "5c9941a38f000f77ad8b8511",
+        "reference_source": null
+       },
+       {
+        "field_path": "/strike_status",
+        "quote": "노사는 13일 오전 3시 30분에 2026년도 임금 교섭에서 잠정합의안을 도출하고 이날 하루 동안 첫차 운행부터 예정된 경고 파업 계획을 철회하기로 했다.",
+        "source_part": "body",
+        "effective_at": null,
+        "derivation": "explicit",
+        "source_id": "0cf254dd4f2b3d8a6195a6fd",
+        "source_revision": "5c9941a38f000f77ad8b8511",
+        "reference_source": null
+       },
+       {
+        "field_path": "/service_status",
+        "quote": "노사는 13일 오전 3시 30분에 2026년도 임금 교섭에서 잠정합의안을 도출하고 이날 하루 동안 첫차 운행부터 예정된 경고 파업 계획을 철회하기로 했다.",
+        "source_part": "body",
+        "effective_at": null,
+        "derivation": "explicit",
+        "source_id": "0cf254dd4f2b3d8a6195a6fd",
+        "source_revision": "5c9941a38f000f77ad8b8511",
+        "reference_source": null
+       },
+       {
+        "field_path": "/normal_service_exceptions",
+        "quote": "노사는 13일 오전 3시 30분에 2026년도 임금 교섭에서 잠정합의안을 도출하고 이날 하루 동안 첫차 운행부터 예정된 경고 파업 계획을 철회하기로 했다.",
+        "source_part": "body",
+        "effective_at": null,
+        "derivation": "explicit",
+        "source_id": "0cf254dd4f2b3d8a6195a6fd",
+        "source_revision": "5c9941a38f000f77ad8b8511",
+        "reference_source": null
+       },
+       {
+        "field_path": "/alternative_services",
+        "quote": "노사는 13일 오전 3시 30분에 2026년도 임금 교섭에서 잠정합의안을 도출하고 이날 하루 동안 첫차 운행부터 예정된 경고 파업 계획을 철회하기로 했다.",
+        "source_part": "body",
+        "effective_at": null,
+        "derivation": "explicit",
+        "source_id": "0cf254dd4f2b3d8a6195a6fd",
+        "source_revision": "5c9941a38f000f77ad8b8511",
+        "reference_source": null
+       },
+       {
+        "field_path": "/start",
+        "quote": "노사는 13일 오전 3시 30분에 2026년도 임금 교섭에서 잠정합의안을 도출하고 이날 하루 동안 첫차 운행부터 예정된 경고 파업 계획을 철회하기로 했다.",
+        "source_part": "body",
+        "effective_at": null,
+        "derivation": "explicit",
+        "source_id": "0cf254dd4f2b3d8a6195a6fd",
+        "source_revision": "5c9941a38f000f77ad8b8511",
+        "reference_source": null
+       },
+       {
+        "field_path": "/end",
+        "quote": "노사는 13일 오전 3시 30분에 2026년도 임금 교섭에서 잠정합의안을 도출하고 이날 하루 동안 첫차 운행부터 예정된 경고 파업 계획을 철회하기로 했다.",
+        "source_part": "body",
+        "effective_at": null,
+        "derivation": "explicit",
+        "source_id": "0cf254dd4f2b3d8a6195a6fd",
+        "source_revision": "5c9941a38f000f77ad8b8511",
+        "reference_source": null
+       }
+      ],
+      "review_reasons": []
+     }
+    }
+   ],
+   "events": {
+    "schema_version": "1.0",
+    "article_relevance": "unrelated",
+    "processing_status": "success",
+    "source": {
+     "source_id": "0cf254dd4f2b3d8a6195a6fd",
+     "source_url": "https://www.hankyung.com/article/202611133984h",
+     "source_revision": "5c9941a38f000f77ad8b8511",
+     "published_at": "2026-11-13T05:33:03+09:00",
+     "updated_at": null,
+     "collected_at": "2026-11-14T21:53:05.792716+09:00"
+    },
+    "events": [],
+    "review_reasons": []
+   }
+  },
+  {
+   "strikes": [
+    {
+     "article_relevance": "unrelated",
+     "transport_mode": "unknown",
+     "affected_regions": [],
+     "affected_routes": [],
+     "start": {
+      "raw": null,
+      "date": null,
+      "time": null,
+      "timezone": "Asia/Seoul",
+      "basis": "unknown",
+      "assertion": "unknown",
+      "open_ended": null
+     },
+     "end": {
+      "raw": null,
+      "date": null,
+      "time": null,
+      "timezone": "Asia/Seoul",
+      "basis": "unknown",
+      "assertion": "unknown",
+      "open_ended": null
+     },
+     "strike_status": {
+      "value": "unknown",
+      "conditions": [],
+      "scope_raw": null,
+      "effective_at": null
+     },
+     "service_status": [],
+     "normal_service_exceptions": [],
+     "alternative_services": [],
+     "evidence_and_timestamps": {
       "source_url": "https://www.newspim.com/news/view/20261109000918",
       "published_at": "2026-11-09T14:52:00+09:00",
       "updated_at": "2026-11-09T14:52:00+09:00",
-      "collected_at": "2026-11-14T13:30:15.512539+09:00",
+      "collected_at": "2026-11-14T21:53:07.958593+09:00",
       "field_evidence": [
        {
         "field_path": "/article_relevance",
@@ -9337,7 +10807,7 @@
      "source_revision": "69a4a1c9ccf732211d987651",
      "published_at": "2026-11-09T14:52:00+09:00",
      "updated_at": "2026-11-09T14:52:00+09:00",
-     "collected_at": "2026-11-14T13:30:15.512539+09:00"
+     "collected_at": "2026-11-14T21:53:07.958593+09:00"
     },
     "events": [
      {
@@ -9402,14 +10872,6 @@
  "transportReferences": [],
  "extractionFailures": [
   {
-   "source_url": "https://www.fnnews.com/news/202611131042338454",
-   "status": "validation_failed"
-  },
-  {
-   "source_url": "https://www.nocutnews.co.kr/news/6606711?utm_source=naver&utm_medium=article&utm_campaign=20261113155822",
-   "status": "policy_unavailable"
-  },
-  {
    "source_url": "https://www.newsis.com/view/NISX20261113_0003866370",
    "status": "body_fetch_failed"
   },
@@ -9418,11 +10880,11 @@
    "status": "url_blocked"
   },
   {
-   "source_url": "https://www.seoul.co.kr/news/publicnews/local_govern/smc_movement/2026/11/12/20261112500350?wlog_tag3=naver",
-   "status": "domain_blocked"
+   "source_url": "https://www.nocutnews.co.kr/news/6606711?utm_source=naver&utm_medium=article&utm_campaign=20261113155822",
+   "status": "policy_unavailable"
   },
   {
-   "source_url": "https://www.hankyung.com/article/202611133984h",
+   "source_url": "https://www.nocutnews.co.kr/news/6606915?utm_source=naver&utm_medium=article&utm_campaign=20261114160234",
    "status": "policy_unavailable"
   }
  ]
