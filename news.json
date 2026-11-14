@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-14T21:53:08.049070+09:00",
+ "generatedAt": "2026-11-15T04:41:37.309974+09:00",
  "windowDays": 14,
  "queries": [
   "버스 파업",
@@ -555,13 +555,13 @@
    "query": "철도 파업"
   },
   {
-   "url": "https://www.ajunews.com/view/20261114154431208",
-   "title": "철도노조, 내달 10일 총파업 재차예고…고속철 통합 후 첫 교통대란 우...",
+   "url": "http://www.segyebiz.com/newsView/20261114505486?OutUrl=naver",
+   "title": "철도노조, 서울역서 빗속 집회... 다음 달 총파업 재차 예고",
    "query": "철도 파업"
   },
   {
-   "url": "http://www.segyebiz.com/newsView/20261114505486?OutUrl=naver",
-   "title": "철도노조, 서울역서 빗속 집회... 다음 달 총파업 재차 예고",
+   "url": "https://www.ajunews.com/view/20261114154431208",
+   "title": "철도노조, 내달 10일 총파업 재차예고…고속철 통합 후 첫 교통대란 우...",
    "query": "철도 파업"
   },
   {
@@ -890,13 +890,13 @@
    "query": "집회 교통 통제"
   },
   {
-   "url": "https://biz.heraldcorp.com/article/10929436?ref=naver",
-   "title": "“응급환자 이송 막힐라”…주말 도심 마라톤에 병원·결혼식장 비상",
+   "url": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202611080006&t=NN",
+   "title": "\"길 막히고 버스는 돌아가고\"…잇단 마라톤에 시민들 '부글'",
    "query": "집회 교통 통제"
   },
   {
-   "url": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202611080006&t=NN",
-   "title": "\"길 막히고 버스는 돌아가고\"…잇단 마라톤에 시민들 '부글'",
+   "url": "https://biz.heraldcorp.com/article/10929436?ref=naver",
+   "title": "“응급환자 이송 막힐라”…주말 도심 마라톤에 병원·결혼식장 비상",
    "query": "집회 교통 통제"
   },
   {
@@ -7718,7 +7718,7 @@
   },
   {
    "assertion": "planned",
-   "checked_at": "2026-11-14T21:52:44.216716+09:00",
+   "checked_at": "2026-11-15T04:41:15.950768+09:00",
    "conflict": false,
    "demo": false,
    "disruption_confirmed": true,
@@ -8117,7 +8117,7 @@
   },
   {
    "assertion": "planned",
-   "checked_at": "2026-11-14T21:52:44.216716+09:00",
+   "checked_at": "2026-11-15T04:41:15.950768+09:00",
    "conflict": false,
    "demo": false,
    "disruption_confirmed": false,
@@ -8268,7 +8268,7 @@
   },
   {
    "assertion": "planned",
-   "checked_at": "2026-11-14T21:53:05.792716+09:00",
+   "checked_at": "2026-11-15T04:41:35.506848+09:00",
    "conflict": false,
    "demo": false,
    "disruption_confirmed": false,
@@ -8458,7 +8458,7 @@
       "source_url": "https://www.newsis.com/view/NISX20261113_0003867649",
       "published_at": "2026-11-13T17:24:24+09:00",
       "updated_at": null,
-      "collected_at": "2026-11-14T21:52:36.939615+09:00",
+      "collected_at": "2026-11-15T04:41:09.743331+09:00",
       "field_evidence": [
        {
         "field_path": "/article_relevance",
@@ -8575,7 +8575,7 @@
      "source_revision": "d5a52337e59318f994fdb8fa",
      "published_at": "2026-11-13T17:24:24+09:00",
      "updated_at": null,
-     "collected_at": "2026-11-14T21:52:36.939615+09:00"
+     "collected_at": "2026-11-15T04:41:09.743331+09:00"
     },
     "events": [],
     "review_reasons": [
@@ -8621,7 +8621,7 @@
       "source_url": "https://www.newsis.com/view/NISX20261114_0003868135",
       "published_at": "2026-11-14T15:42:23+09:00",
       "updated_at": null,
-      "collected_at": "2026-11-14T21:52:39.006830+09:00",
+      "collected_at": "2026-11-15T04:41:11.630003+09:00",
       "field_evidence": [
        {
         "field_path": "/article_relevance",
@@ -8738,7 +8738,7 @@
      "source_revision": "4d776344140d5072dcee4499",
      "published_at": "2026-11-14T15:42:23+09:00",
      "updated_at": null,
-     "collected_at": "2026-11-14T21:52:39.006830+09:00"
+     "collected_at": "2026-11-15T04:41:11.630003+09:00"
     },
     "events": [],
     "review_reasons": []
@@ -8831,7 +8831,7 @@
       "source_url": "https://www.imaeil.com/page/view/2026111417131297761",
       "published_at": null,
       "updated_at": null,
-      "collected_at": "2026-11-14T21:52:44.216716+09:00",
+      "collected_at": "2026-11-15T04:41:15.950768+09:00",
       "field_evidence": [
        {
         "field_path": "/article_relevance",
@@ -9175,7 +9175,7 @@
       "source_url": "https://www.imaeil.com/page/view/2026111417131297761",
       "published_at": null,
       "updated_at": null,
-      "collected_at": "2026-11-14T21:52:44.216716+09:00",
+      "collected_at": "2026-11-15T04:41:15.950768+09:00",
       "field_evidence": [
        {
         "field_path": "/article_relevance",
@@ -9295,7 +9295,7 @@
      "source_revision": "79344459f900a196bff2714a",
      "published_at": null,
      "updated_at": null,
-     "collected_at": "2026-11-14T21:52:44.216716+09:00"
+     "collected_at": "2026-11-15T04:41:15.950768+09:00"
     },
     "events": [],
     "review_reasons": []
@@ -9339,7 +9339,7 @@
       "source_url": "https://www.fnnews.com/news/202611101525402414",
       "published_at": "2026-11-10T15:41:44+09:00",
       "updated_at": "2026-11-10T15:41:44+09:00",
-      "collected_at": "2026-11-14T21:52:47.994751+09:00",
+      "collected_at": "2026-11-15T04:41:19.595302+09:00",
       "field_evidence": [
        {
         "field_path": "/article_relevance",
@@ -9456,7 +9456,7 @@
      "source_revision": "e4db1223ba466bbc3a5481ca",
      "published_at": "2026-11-10T15:41:44+09:00",
      "updated_at": "2026-11-10T15:41:44+09:00",
-     "collected_at": "2026-11-14T21:52:47.994751+09:00"
+     "collected_at": "2026-11-15T04:41:19.595302+09:00"
     },
     "events": [],
     "review_reasons": []
@@ -9500,7 +9500,7 @@
       "source_url": "https://www.newspim.com/news/view/20261113001135",
       "published_at": "2026-11-14T07:00:00+09:00",
       "updated_at": "2026-11-14T09:07:00+09:00",
-      "collected_at": "2026-11-14T21:52:52.922591+09:00",
+      "collected_at": "2026-11-15T04:41:24.063405+09:00",
       "field_evidence": [
        {
         "field_path": "/article_relevance",
@@ -9617,7 +9617,7 @@
      "source_revision": "3452d940cd7d9991eaaed8e6",
      "published_at": "2026-11-14T07:00:00+09:00",
      "updated_at": "2026-11-14T09:07:00+09:00",
-     "collected_at": "2026-11-14T21:52:52.922591+09:00"
+     "collected_at": "2026-11-15T04:41:24.063405+09:00"
     },
     "events": [
      {
@@ -10080,7 +10080,7 @@
       "source_url": "https://www.yna.co.kr/view/AKR20261113065800009?input=1195m",
       "published_at": "2026-11-13T10:37:55+09:00",
       "updated_at": "2026-11-13T10:37:55+09:00",
-      "collected_at": "2026-11-14T21:52:58.054336+09:00",
+      "collected_at": "2026-11-15T04:41:28.693647+09:00",
       "field_evidence": [
        {
         "field_path": "/article_relevance",
@@ -10197,7 +10197,7 @@
      "source_revision": "8fbe5e38b5a3f2fbb60d2e51",
      "published_at": "2026-11-13T10:37:55+09:00",
      "updated_at": "2026-11-13T10:37:55+09:00",
-     "collected_at": "2026-11-14T21:52:58.054336+09:00"
+     "collected_at": "2026-11-15T04:41:28.693647+09:00"
     },
     "events": [],
     "review_reasons": [
@@ -10243,7 +10243,7 @@
       "source_url": "https://www.hankyung.com/article/202611133984h",
       "published_at": "2026-11-13T05:33:03+09:00",
       "updated_at": null,
-      "collected_at": "2026-11-14T21:53:05.792716+09:00",
+      "collected_at": "2026-11-15T04:41:35.506848+09:00",
       "field_evidence": [
        {
         "field_path": "/article_relevance",
@@ -10385,7 +10385,7 @@
       "source_url": "https://www.hankyung.com/article/202611133984h",
       "published_at": "2026-11-13T05:33:03+09:00",
       "updated_at": null,
-      "collected_at": "2026-11-14T21:53:05.792716+09:00",
+      "collected_at": "2026-11-15T04:41:35.506848+09:00",
       "field_evidence": [
        {
         "field_path": "/article_relevance",
@@ -10529,7 +10529,7 @@
       "source_url": "https://www.hankyung.com/article/202611133984h",
       "published_at": "2026-11-13T05:33:03+09:00",
       "updated_at": null,
-      "collected_at": "2026-11-14T21:53:05.792716+09:00",
+      "collected_at": "2026-11-15T04:41:35.506848+09:00",
       "field_evidence": [
        {
         "field_path": "/article_relevance",
@@ -10646,7 +10646,7 @@
      "source_revision": "5c9941a38f000f77ad8b8511",
      "published_at": "2026-11-13T05:33:03+09:00",
      "updated_at": null,
-     "collected_at": "2026-11-14T21:53:05.792716+09:00"
+     "collected_at": "2026-11-15T04:41:35.506848+09:00"
     },
     "events": [],
     "review_reasons": []
@@ -10690,7 +10690,7 @@
       "source_url": "https://www.newspim.com/news/view/20261109000918",
       "published_at": "2026-11-09T14:52:00+09:00",
       "updated_at": "2026-11-09T14:52:00+09:00",
-      "collected_at": "2026-11-14T21:53:07.958593+09:00",
+      "collected_at": "2026-11-15T04:41:37.217813+09:00",
       "field_evidence": [
        {
         "field_path": "/article_relevance",
@@ -10807,7 +10807,7 @@
      "source_revision": "69a4a1c9ccf732211d987651",
      "published_at": "2026-11-09T14:52:00+09:00",
      "updated_at": "2026-11-09T14:52:00+09:00",
-     "collected_at": "2026-11-14T21:53:07.958593+09:00"
+     "collected_at": "2026-11-15T04:41:37.217813+09:00"
     },
     "events": [
      {
