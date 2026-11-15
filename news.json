@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-15T13:15:53.869500+09:00",
+ "generatedAt": "2026-11-15T22:19:41.812227+09:00",
  "windowDays": 14,
  "queries": [
   "버스 파업",
@@ -17,7 +17,7 @@
    "url": "https://www.ncloud.com/product/applicationService/naverApiHub"
   }
  ],
- "articles": 297,
+ "articles": 298,
  "searchResults": [
   {
    "url": "https://biz.heraldcorp.com/article/10937456?ref=naver",
@@ -270,6 +270,21 @@
    "query": "버스 파업"
   },
   {
+   "url": "https://www.laborplus.co.kr/news/articleView.html?idxno=41815",
+   "title": "[위클립] 11월 2주",
+   "query": "지하철 파업"
+  },
+  {
+   "url": "https://www.wikitree.co.kr/articles/1174753",
+   "title": "‘한동훈 의원 장인’ 진형구 전 대전고검장 별세… 향년 81세",
+   "query": "지하철 파업"
+  },
+  {
+   "url": "https://www.gukjenews.com/news/articleView.html?idxno=3752404",
+   "title": "\"36살인데 독립 못 해\"… 스페인 주거비 봉기가 한국에 던지는 질문",
+   "query": "지하철 파업"
+  },
+  {
    "url": "http://www.hansbiz.co.kr/news/articleView.html?idxno=883368",
    "title": "한동훈 빙부상, 보수 조문정치 무대 되나…친한·친윤 집결 주목",
    "query": "지하철 파업"
@@ -435,19 +450,9 @@
    "query": "지하철 파업"
   },
   {
-   "url": "https://www.newsworks.co.kr/news/articleView.html?idxno=902721",
-   "title": "철도노조 \"내달 10일부터 무기한 총파업\"…서울지하철 25일 파업 예고",
-   "query": "지하철 파업"
-  },
-  {
-   "url": "https://www.sidae.com/article/2026111114160786274",
-   "title": "철도노조, 12월 10일부터 무기한 총파업 예고…\"안전인력 충원 촉구\"",
-   "query": "지하철 파업"
-  },
-  {
-   "url": "https://www.news1.kr/local/busan-gyeongnam/6350466",
-   "title": "부산지하철 노사, 원·하청 교섭안 잠정 합의…12일 체결식",
-   "query": "지하철 파업"
+   "url": "https://www.kgnews.co.kr/news/article.html?no=919610",
+   "title": "철도노조, 정부 인력 감축 기조 정면 비판…내달 10일 오전 9시 총파업 ...",
+   "query": "철도 파업"
   },
   {
    "url": "https://www.kukinews.com/article/view/kuk202611140033",
@@ -560,13 +565,13 @@
    "query": "철도 파업"
   },
   {
-   "url": "https://www.ajunews.com/view/20261114154431208",
-   "title": "철도노조, 내달 10일 총파업 재차예고…고속철 통합 후 첫 교통대란 우...",
+   "url": "http://www.segyebiz.com/newsView/20261114505486?OutUrl=naver",
+   "title": "철도노조, 서울역서 빗속 집회... 다음 달 총파업 재차 예고",
    "query": "철도 파업"
   },
   {
-   "url": "http://www.segyebiz.com/newsView/20261114505486?OutUrl=naver",
-   "title": "철도노조, 서울역서 빗속 집회... 다음 달 총파업 재차 예고",
+   "url": "https://www.ajunews.com/view/20261114154431208",
+   "title": "철도노조, 내달 10일 총파업 재차예고…고속철 통합 후 첫 교통대란 우...",
    "query": "철도 파업"
   },
   {
@@ -672,12 +677,12 @@
   {
    "url": "http://www.iminju.net/news/articleView.html?idxno=172418",
    "title": "공항철도 노사, 파업 당일 임단협 극적 합의…예고 파업 철회",
-   "query": "철도 파업"
+   "query": "파업 예고 운행"
   },
   {
    "url": "https://www.shinailbo.co.kr/news/articleView.html?idxno=5083030",
    "title": "공항철도 노사 교섭 극적 타결…노조 '경고 파업 철회'",
-   "query": "철도 파업"
+   "query": "파업 예고 운행"
   },
   {
    "url": "https://www.mk.co.kr/article/12207760",
@@ -890,13 +895,13 @@
    "query": "집회 교통 통제"
   },
   {
-   "url": "https://biz.heraldcorp.com/article/10929436?ref=naver",
-   "title": "“응급환자 이송 막힐라”…주말 도심 마라톤에 병원·결혼식장 비상",
+   "url": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202611080006&t=NN",
+   "title": "\"길 막히고 버스는 돌아가고\"…잇단 마라톤에 시민들 '부글'",
    "query": "집회 교통 통제"
   },
   {
-   "url": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202611080006&t=NN",
-   "title": "\"길 막히고 버스는 돌아가고\"…잇단 마라톤에 시민들 '부글'",
+   "url": "https://biz.heraldcorp.com/article/10929436?ref=naver",
+   "title": "“응급환자 이송 막힐라”…주말 도심 마라톤에 병원·결혼식장 비상",
    "query": "집회 교통 통제"
   },
   {
@@ -1000,19 +1005,39 @@
    "query": "집회 교통 통제"
   },
   {
-   "url": "http://www.inews24.com/view/2023705",
-   "title": "서울 도심 곳곳 집회…국힘 '특검법 규탄'·양대노총 '특구법 철회' [종...",
+   "url": "https://www.ytn.co.kr/_ln/0103_202611071651150128",
+   "title": "숭례문·여의도서 전국 노동자 대회...곳곳 교통통제",
    "query": "집회 교통 통제"
   },
   {
-   "url": "https://www.ytn.co.kr/_ln/0103_202611071651150128",
-   "title": "숭례문·여의도서 전국 노동자 대회...곳곳 교통통제",
+   "url": "http://www.inews24.com/view/2023705",
+   "title": "서울 도심 곳곳 집회…국힘 '특검법 규탄'·양대노총 '특구법 철회' [종...",
    "query": "집회 교통 통제"
   },
   {
    "url": "https://www.jnilbo.com/news/articleView.html?idxno=90000080471",
    "title": "서울 곳곳 집회…양대노총 '특구법 철회'·국힘 '특검법 규탄'",
    "query": "집회 교통 통제"
+  },
+  {
+   "url": "http://weekly.chosun.com/news/articleView.html?idxno=57093",
+   "title": "쉬운 통제, 느슨한 책임… 도심 마라톤이 진정한 축제가 되려면 [도시 속...",
+   "query": "마라톤 도로 통제"
+  },
+  {
+   "url": "https://www.mk.co.kr/article/12209278",
+   "title": "청명한 가을 수놓은 3만 러너 … 안전·화합 빛난 명품 대회",
+   "query": "마라톤 도로 통제"
+  },
+  {
+   "url": "http://weekly.chosun.com/news/articleView.html?idxno=57092",
+   "title": "AI 있기 전 서울에는 '인간 AI'가 있었다…'120다산콜재단' 송주범 이사...",
+   "query": "마라톤 도로 통제"
+  },
+  {
+   "url": "https://www.spotvnews.co.kr/news/articleView.html?idxno=1019942",
+   "title": "너른 들녘과 민통선에서 평화의 의미 다시 느껴…손기정평화마라톤, 임...",
+   "query": "마라톤 도로 통제"
   },
   {
    "url": "https://www.newspim.com/news/view/20261113001135",
@@ -1235,24 +1260,9 @@
    "query": "마라톤 도로 통제"
   },
   {
-   "url": "http://www.weeklytoday.com/news/articleView.html?idxno=801603",
-   "title": "[위클리오늘] 고양시, 15일 하프마라톤 도로 통제",
-   "query": "마라톤 도로 통제"
-  },
-  {
-   "url": "https://www.newsclaim.co.kr/news/articleView.html?idxno=3082023",
-   "title": "고양시 15일 하프마라톤 개최… 주요 도로 교통통제",
-   "query": "마라톤 도로 통제"
-  },
-  {
-   "url": "http://www.hansbiz.co.kr/news/articleView.html?idxno=881536",
-   "title": "러너 89% 서울 도심 마라톤 축소 찬성",
-   "query": "마라톤 도로 통제"
-  },
-  {
-   "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008838988&plink=ORI&cooper=NAVER",
-   "title": "고양시 15일 마라톤 대회로 종합운동장 일대 도로 통제",
-   "query": "마라톤 도로 통제"
+   "url": "http://www.jeonmin.co.kr/news/articleView.html?idxno=450475",
+   "title": "330년 전 조선으로의 시간여행… 전주 도심 수놓은 '태조어진 봉안행렬...",
+   "query": "축제 버스 우회"
   },
   {
    "url": "https://www.gukjenews.com/news/articleView.html?idxno=3752112",
@@ -1498,11 +1508,6 @@
    "url": "https://www.edaily.co.kr/News/Read?newsId=03460406645641784&mediaCodeNo=257&utm_source=naver&utm_medium=referral&utm_campaign=news_syndication&utm_content=original_article",
    "title": "오세훈 \"도심 마라톤 코스·일정 원점 재협의…시민 불편 무겁게 받아들...",
    "query": "축제 버스 우회"
-  },
-  {
-   "url": "https://www.mhns.co.kr/news/articleView.html?idxno=767124",
-   "title": "주말마다 멈춰 선 서울 도심…오세훈 \"마라톤 코스 원점 재협의\"",
-   "query": "축제 버스 우회"
   }
  ],
  "strikes": [
@@ -1606,7 +1611,7 @@
    "articleTitle": "공항철도 첫 파업 나서나...13일 운행 축소 예고에 공항 이용객 비상",
    "url": "https://www.abcn.kr/news/articleView.html?idxno=94450",
    "publishedAt": "2026-11-12T16:28:00.000",
-   "sourceCount": 16,
+   "sourceCount": 15,
    "model": "gemini-3.5-flash-lite"
   },
   {
@@ -1621,21 +1626,6 @@
    "articleTitle": "부산도시철도 노사, 첫 원·하청 단체교섭 잠정 타결",
    "url": "https://www.busan.com/view/busan/view.php?code=2026111114054938161",
    "publishedAt": "2026-11-11T15:08:00.000",
-   "sourceCount": 1,
-   "model": "gemini-3.5-flash-lite"
-  },
-  {
-   "id": "a01c3f139127b4b9",
-   "mode": "subway",
-   "operator": "부산지하철",
-   "regions": [
-    "부산"
-   ],
-   "status": "withdrawn",
-   "quote": "총파업을 철회했다",
-   "articleTitle": "부산지하철 노사, 원·하청 교섭안 잠정 합의…12일 체결식",
-   "url": "https://www.news1.kr/local/busan-gyeongnam/6350466",
-   "publishedAt": "2026-11-11T13:57:00.000",
    "sourceCount": 1,
    "model": "gemini-3.5-flash-lite"
   },
@@ -6959,170 +6949,6 @@
   },
   {
    "assertion": "planned",
-   "checked_at": "2026-11-13T10:52:30.459046+09:00",
-   "conflict": false,
-   "demo": false,
-   "event_id": "fbb1148ad9af271f6d637c55",
-   "event_identity_scope": [
-    "source:52f94177ed10762167f5dcdf"
-   ],
-   "event_name": "주말마다 마라톤",
-   "event_status": "UNKNOWN",
-   "evidence": [
-    {
-     "derivation": "explicit",
-     "effective_at": null,
-     "field_path": "/impacts",
-     "quote": "온라인 커뮤니티 실제 서울 도심에서는 주말마다 마라톤 대회가 열리면서 도로 통제와 대중교통 우회 문제가 반복되고 있다.",
-     "reference_source": null,
-     "source_id": "52f94177ed10762167f5dcdf",
-     "source_part": "body",
-     "source_revision": "bb24709c50eafec59dfad17c"
-    },
-    {
-     "derivation": "normalized",
-     "effective_at": null,
-     "field_path": "/period/date",
-     "quote": "온라인 커뮤니티 실제 서울 도심에서는 주말마다 마라톤 대회가 열리면서 도로 통제와 대중교통 우회 문제가 반복되고 있다.",
-     "reference_source": null,
-     "source_id": "52f94177ed10762167f5dcdf",
-     "source_part": "body",
-     "source_revision": "bb24709c50eafec59dfad17c"
-    }
-   ],
-   "exceptions": [],
-   "id": "c55dcbb4d0b7df4df7c57402",
-   "modes": [
-    "car",
-    "taxi",
-    "bus"
-   ],
-   "period": {
-    "condition": null,
-    "end": {
-     "assertion": "unknown",
-     "basis": "unknown",
-     "date": null,
-     "open_ended": null,
-     "raw": null,
-     "time": null,
-     "timezone": "Asia/Seoul"
-    },
-    "precision": "UNKNOWN",
-    "start": {
-     "assertion": "unknown",
-     "basis": "unknown",
-     "date": null,
-     "open_ended": null,
-     "raw": null,
-     "time": null,
-     "timezone": "Asia/Seoul"
-    }
-   },
-   "published_at": "2026-11-12T05:58:00+09:00",
-   "residual_control": false,
-   "review_reasons": [],
-   "scope": [
-    {
-     "derivation": "article_explicit",
-     "normalized_name": "서울",
-     "raw": "서울",
-     "reference_id": null,
-     "reference_source": null,
-     "region": "서울"
-    }
-   ],
-   "source_url": "https://www.seoul.co.kr/news/society/2026/11/12/20261112500004?wlog_tag3=naver",
-   "status": "CONDITIONAL",
-   "type": "ROAD_CLOSURE",
-   "updated_at": "2026-11-12T05:58:00+09:00",
-   "version": 1,
-   "body_verified": true
-  },
-  {
-   "assertion": "planned",
-   "checked_at": "2026-11-13T10:52:30.459046+09:00",
-   "conflict": false,
-   "demo": false,
-   "event_id": "ca00efde526c080151323364",
-   "event_identity_scope": [
-    "제주"
-   ],
-   "event_name": "도심 마라톤",
-   "event_status": "UNKNOWN",
-   "evidence": [
-    {
-     "derivation": "explicit",
-     "effective_at": null,
-     "field_path": "/impacts",
-     "quote": "제주 차도 러너 욕설 영상 공개, 논란 확산 배려 없는 도로 이용과 안전 문제 지적 도심 마라톤 교통 통제·시민 불편 재조명 Copyright ⓒ 서울신문 All rights reserved.",
-     "reference_source": null,
-     "source_id": "52f94177ed10762167f5dcdf",
-     "source_part": "body",
-     "source_revision": "bb24709c50eafec59dfad17c"
-    },
-    {
-     "derivation": "normalized",
-     "effective_at": null,
-     "field_path": "/period/date",
-     "quote": "제주 차도 러너 욕설 영상 공개, 논란 확산 배려 없는 도로 이용과 안전 문제 지적 도심 마라톤 교통 통제·시민 불편 재조명 Copyright ⓒ 서울신문 All rights reserved.",
-     "reference_source": null,
-     "source_id": "52f94177ed10762167f5dcdf",
-     "source_part": "body",
-     "source_revision": "bb24709c50eafec59dfad17c"
-    }
-   ],
-   "exceptions": [],
-   "id": "10fa09f4f545ceb79f27e94e",
-   "modes": [
-    "car",
-    "taxi",
-    "bus"
-   ],
-   "period": {
-    "condition": null,
-    "end": {
-     "assertion": "unknown",
-     "basis": "unknown",
-     "date": null,
-     "open_ended": null,
-     "raw": null,
-     "time": null,
-     "timezone": "Asia/Seoul"
-    },
-    "precision": "UNKNOWN",
-    "start": {
-     "assertion": "unknown",
-     "basis": "unknown",
-     "date": null,
-     "open_ended": null,
-     "raw": null,
-     "time": null,
-     "timezone": "Asia/Seoul"
-    }
-   },
-   "published_at": "2026-11-12T05:58:00+09:00",
-   "residual_control": false,
-   "review_reasons": [],
-   "scope": [
-    {
-     "derivation": "article_explicit",
-     "normalized_name": "제주",
-     "raw": "제주",
-     "reference_id": null,
-     "reference_source": null,
-     "region": "제주"
-    }
-   ],
-   "source_url": "https://www.seoul.co.kr/news/society/2026/11/12/20261112500004?wlog_tag3=naver",
-   "status": "ANNOUNCED",
-   "type": "ROAD_CLOSURE",
-   "updated_at": "2026-11-12T05:58:00+09:00",
-   "version": 1,
-   "body_verified": true
-  },
-  {
-   "assertion": "planned",
    "checked_at": "2026-11-13T13:33:20.860732+09:00",
    "conflict": false,
    "demo": false,
@@ -7718,7 +7544,7 @@
   },
   {
    "assertion": "planned",
-   "checked_at": "2026-11-15T13:15:30.568001+09:00",
+   "checked_at": "2026-11-15T22:19:17.329555+09:00",
    "conflict": false,
    "demo": false,
    "disruption_confirmed": true,
@@ -8117,7 +7943,7 @@
   },
   {
    "assertion": "planned",
-   "checked_at": "2026-11-15T13:15:30.568001+09:00",
+   "checked_at": "2026-11-15T22:19:17.329555+09:00",
    "conflict": false,
    "demo": false,
    "disruption_confirmed": false,
@@ -8268,7 +8094,7 @@
   },
   {
    "assertion": "planned",
-   "checked_at": "2026-11-15T13:15:51.867082+09:00",
+   "checked_at": "2026-11-15T22:19:39.274855+09:00",
    "conflict": false,
    "demo": false,
    "disruption_confirmed": false,
@@ -8458,7 +8284,7 @@
       "source_url": "https://www.newsis.com/view/NISX20261113_0003867649",
       "published_at": "2026-11-13T17:24:24+09:00",
       "updated_at": null,
-      "collected_at": "2026-11-15T13:15:17.465216+09:00",
+      "collected_at": "2026-11-15T22:19:10.670113+09:00",
       "field_evidence": [
        {
         "field_path": "/article_relevance",
@@ -8575,7 +8401,7 @@
      "source_revision": "d5a52337e59318f994fdb8fa",
      "published_at": "2026-11-13T17:24:24+09:00",
      "updated_at": null,
-     "collected_at": "2026-11-15T13:15:17.465216+09:00"
+     "collected_at": "2026-11-15T22:19:10.670113+09:00"
     },
     "events": [],
     "review_reasons": [
@@ -8621,7 +8447,7 @@
       "source_url": "https://www.newsis.com/view/NISX20261114_0003868135",
       "published_at": "2026-11-14T15:42:23+09:00",
       "updated_at": null,
-      "collected_at": "2026-11-15T13:15:19.255211+09:00",
+      "collected_at": "2026-11-15T22:19:11.769547+09:00",
       "field_evidence": [
        {
         "field_path": "/article_relevance",
@@ -8738,7 +8564,7 @@
      "source_revision": "4d776344140d5072dcee4499",
      "published_at": "2026-11-14T15:42:23+09:00",
      "updated_at": null,
-     "collected_at": "2026-11-15T13:15:19.255211+09:00"
+     "collected_at": "2026-11-15T22:19:11.769547+09:00"
     },
     "events": [],
     "review_reasons": []
@@ -8831,7 +8657,7 @@
       "source_url": "https://www.imaeil.com/page/view/2026111417131297761",
       "published_at": null,
       "updated_at": null,
-      "collected_at": "2026-11-15T13:15:30.568001+09:00",
+      "collected_at": "2026-11-15T22:19:17.329555+09:00",
       "field_evidence": [
        {
         "field_path": "/article_relevance",
@@ -9175,7 +9001,7 @@
       "source_url": "https://www.imaeil.com/page/view/2026111417131297761",
       "published_at": null,
       "updated_at": null,
-      "collected_at": "2026-11-15T13:15:30.568001+09:00",
+      "collected_at": "2026-11-15T22:19:17.329555+09:00",
       "field_evidence": [
        {
         "field_path": "/article_relevance",
@@ -9295,7 +9121,7 @@
      "source_revision": "79344459f900a196bff2714a",
      "published_at": null,
      "updated_at": null,
-     "collected_at": "2026-11-15T13:15:30.568001+09:00"
+     "collected_at": "2026-11-15T22:19:17.329555+09:00"
     },
     "events": [],
     "review_reasons": []
@@ -9339,7 +9165,7 @@
       "source_url": "https://www.fnnews.com/news/202611101525402414",
       "published_at": "2026-11-10T15:41:44+09:00",
       "updated_at": "2026-11-10T15:41:44+09:00",
-      "collected_at": "2026-11-15T13:15:34.510614+09:00",
+      "collected_at": "2026-11-15T22:19:22.059335+09:00",
       "field_evidence": [
        {
         "field_path": "/article_relevance",
@@ -9456,7 +9282,7 @@
      "source_revision": "e4db1223ba466bbc3a5481ca",
      "published_at": "2026-11-10T15:41:44+09:00",
      "updated_at": "2026-11-10T15:41:44+09:00",
-     "collected_at": "2026-11-15T13:15:34.510614+09:00"
+     "collected_at": "2026-11-15T22:19:22.059335+09:00"
     },
     "events": [],
     "review_reasons": []
@@ -9500,7 +9326,7 @@
       "source_url": "https://www.newspim.com/news/view/20261113001135",
       "published_at": "2026-11-14T07:00:00+09:00",
       "updated_at": "2026-11-14T09:07:00+09:00",
-      "collected_at": "2026-11-15T13:15:39.226426+09:00",
+      "collected_at": "2026-11-15T22:19:26.566682+09:00",
       "field_evidence": [
        {
         "field_path": "/article_relevance",
@@ -9617,7 +9443,7 @@
      "source_revision": "3452d940cd7d9991eaaed8e6",
      "published_at": "2026-11-14T07:00:00+09:00",
      "updated_at": "2026-11-14T09:07:00+09:00",
-     "collected_at": "2026-11-15T13:15:39.226426+09:00"
+     "collected_at": "2026-11-15T22:19:26.566682+09:00"
     },
     "events": [
      {
@@ -10080,7 +9906,7 @@
       "source_url": "https://www.yna.co.kr/view/AKR20261113065800009?input=1195m",
       "published_at": "2026-11-13T10:37:55+09:00",
       "updated_at": "2026-11-13T10:37:55+09:00",
-      "collected_at": "2026-11-15T13:15:44.354827+09:00",
+      "collected_at": "2026-11-15T22:19:32.038799+09:00",
       "field_evidence": [
        {
         "field_path": "/article_relevance",
@@ -10197,7 +10023,7 @@
      "source_revision": "8fbe5e38b5a3f2fbb60d2e51",
      "published_at": "2026-11-13T10:37:55+09:00",
      "updated_at": "2026-11-13T10:37:55+09:00",
-     "collected_at": "2026-11-15T13:15:44.354827+09:00"
+     "collected_at": "2026-11-15T22:19:32.038799+09:00"
     },
     "events": [],
     "review_reasons": [
@@ -10243,7 +10069,7 @@
       "source_url": "https://www.hankyung.com/article/202611133984h",
       "published_at": "2026-11-13T05:33:03+09:00",
       "updated_at": null,
-      "collected_at": "2026-11-15T13:15:51.867082+09:00",
+      "collected_at": "2026-11-15T22:19:39.274855+09:00",
       "field_evidence": [
        {
         "field_path": "/article_relevance",
@@ -10385,7 +10211,7 @@
       "source_url": "https://www.hankyung.com/article/202611133984h",
       "published_at": "2026-11-13T05:33:03+09:00",
       "updated_at": null,
-      "collected_at": "2026-11-15T13:15:51.867082+09:00",
+      "collected_at": "2026-11-15T22:19:39.274855+09:00",
       "field_evidence": [
        {
         "field_path": "/article_relevance",
@@ -10529,7 +10355,7 @@
       "source_url": "https://www.hankyung.com/article/202611133984h",
       "published_at": "2026-11-13T05:33:03+09:00",
       "updated_at": null,
-      "collected_at": "2026-11-15T13:15:51.867082+09:00",
+      "collected_at": "2026-11-15T22:19:39.274855+09:00",
       "field_evidence": [
        {
         "field_path": "/article_relevance",
@@ -10646,7 +10472,7 @@
      "source_revision": "5c9941a38f000f77ad8b8511",
      "published_at": "2026-11-13T05:33:03+09:00",
      "updated_at": null,
-     "collected_at": "2026-11-15T13:15:51.867082+09:00"
+     "collected_at": "2026-11-15T22:19:39.274855+09:00"
     },
     "events": [],
     "review_reasons": []
@@ -10690,7 +10516,7 @@
       "source_url": "https://www.newspim.com/news/view/20261109000918",
       "published_at": "2026-11-09T14:52:00+09:00",
       "updated_at": "2026-11-09T14:52:00+09:00",
-      "collected_at": "2026-11-15T13:15:53.815949+09:00",
+      "collected_at": "2026-11-15T22:19:41.736381+09:00",
       "field_evidence": [
        {
         "field_path": "/article_relevance",
@@ -10807,7 +10633,7 @@
      "source_revision": "69a4a1c9ccf732211d987651",
      "published_at": "2026-11-09T14:52:00+09:00",
      "updated_at": "2026-11-09T14:52:00+09:00",
-     "collected_at": "2026-11-15T13:15:53.815949+09:00"
+     "collected_at": "2026-11-15T22:19:41.736381+09:00"
     },
     "events": [
      {
