@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-15T04:41:37.309974+09:00",
+ "generatedAt": "2026-11-15T09:58:51.913416+09:00",
  "windowDays": 14,
  "queries": [
   "버스 파업",
@@ -175,13 +175,13 @@
    "query": "버스 파업"
   },
   {
-   "url": "https://www.kihoilbo.co.kr/news/articleView.html?idxno=3040533",
-   "title": "[길 잃은 시내버스 공공관리제] 공공관리제 확대는커녕 현상 유지도 어...",
+   "url": "https://www.kihoilbo.co.kr/news/articleView.html?idxno=3040535",
+   "title": "[길 잃은 시내버스 공공관리제] 1.사실상 '돈 퍼주기'로 전락",
    "query": "버스 파업"
   },
   {
-   "url": "https://www.kihoilbo.co.kr/news/articleView.html?idxno=3040535",
-   "title": "[길 잃은 시내버스 공공관리제] 1.사실상 '돈 퍼주기'로 전락",
+   "url": "https://www.kihoilbo.co.kr/news/articleView.html?idxno=3040533",
+   "title": "[길 잃은 시내버스 공공관리제] 공공관리제 확대는커녕 현상 유지도 어...",
    "query": "버스 파업"
   },
   {
@@ -725,13 +725,13 @@
    "query": "파업 예고 운행"
   },
   {
-   "url": "https://www.kihoilbo.co.kr/news/articleView.html?idxno=3040834",
-   "title": "공항철도 노사 임금협상 극적 타결…일반·직통열차 정상 운행",
+   "url": "https://www.sidae.com/article/2026111307595653897",
+   "title": "공항철도 노사 임금협상 극적 타결…오늘 첫차부터 정상 운행",
    "query": "파업 예고 운행"
   },
   {
-   "url": "https://www.sidae.com/article/2026111307595653897",
-   "title": "공항철도 노사 임금협상 극적 타결…오늘 첫차부터 정상 운행",
+   "url": "https://www.kihoilbo.co.kr/news/articleView.html?idxno=3040834",
+   "title": "공항철도 노사 임금협상 극적 타결…일반·직통열차 정상 운행",
    "query": "파업 예고 운행"
   },
   {
@@ -1390,13 +1390,13 @@
    "query": "축제 버스 우회"
   },
   {
-   "url": "https://www.catholictimes.org/article/20261105500027",
-   "title": "2027 서울 WYD 폐막미사, 8월 8일 서울공항에서 봉헌",
+   "url": "https://news.cpbc.co.kr/article/1176845?division=NAVER",
+   "title": "서울 WYD, 월드컵경기장서 교황 맞는다…밤샘기도는 서울공항",
    "query": "축제 버스 우회"
   },
   {
-   "url": "https://news.cpbc.co.kr/article/1176845?division=NAVER",
-   "title": "서울 WYD, 월드컵경기장서 교황 맞는다…밤샘기도는 서울공항",
+   "url": "https://www.catholictimes.org/article/20261105500027",
+   "title": "2027 서울 WYD 폐막미사, 8월 8일 서울공항에서 봉헌",
    "query": "축제 버스 우회"
   },
   {
@@ -7718,7 +7718,7 @@
   },
   {
    "assertion": "planned",
-   "checked_at": "2026-11-15T04:41:15.950768+09:00",
+   "checked_at": "2026-11-15T09:58:30.460556+09:00",
    "conflict": false,
    "demo": false,
    "disruption_confirmed": true,
@@ -8117,7 +8117,7 @@
   },
   {
    "assertion": "planned",
-   "checked_at": "2026-11-15T04:41:15.950768+09:00",
+   "checked_at": "2026-11-15T09:58:30.460556+09:00",
    "conflict": false,
    "demo": false,
    "disruption_confirmed": false,
@@ -8268,7 +8268,7 @@
   },
   {
    "assertion": "planned",
-   "checked_at": "2026-11-15T04:41:35.506848+09:00",
+   "checked_at": "2026-11-15T09:58:50.131271+09:00",
    "conflict": false,
    "demo": false,
    "disruption_confirmed": false,
@@ -8458,7 +8458,7 @@
       "source_url": "https://www.newsis.com/view/NISX20261113_0003867649",
       "published_at": "2026-11-13T17:24:24+09:00",
       "updated_at": null,
-      "collected_at": "2026-11-15T04:41:09.743331+09:00",
+      "collected_at": "2026-11-15T09:58:24.624648+09:00",
       "field_evidence": [
        {
         "field_path": "/article_relevance",
@@ -8575,7 +8575,7 @@
      "source_revision": "d5a52337e59318f994fdb8fa",
      "published_at": "2026-11-13T17:24:24+09:00",
      "updated_at": null,
-     "collected_at": "2026-11-15T04:41:09.743331+09:00"
+     "collected_at": "2026-11-15T09:58:24.624648+09:00"
     },
     "events": [],
     "review_reasons": [
@@ -8621,7 +8621,7 @@
       "source_url": "https://www.newsis.com/view/NISX20261114_0003868135",
       "published_at": "2026-11-14T15:42:23+09:00",
       "updated_at": null,
-      "collected_at": "2026-11-15T04:41:11.630003+09:00",
+      "collected_at": "2026-11-15T09:58:26.391607+09:00",
       "field_evidence": [
        {
         "field_path": "/article_relevance",
@@ -8738,7 +8738,7 @@
      "source_revision": "4d776344140d5072dcee4499",
      "published_at": "2026-11-14T15:42:23+09:00",
      "updated_at": null,
-     "collected_at": "2026-11-15T04:41:11.630003+09:00"
+     "collected_at": "2026-11-15T09:58:26.391607+09:00"
     },
     "events": [],
     "review_reasons": []
@@ -8831,7 +8831,7 @@
       "source_url": "https://www.imaeil.com/page/view/2026111417131297761",
       "published_at": null,
       "updated_at": null,
-      "collected_at": "2026-11-15T04:41:15.950768+09:00",
+      "collected_at": "2026-11-15T09:58:30.460556+09:00",
       "field_evidence": [
        {
         "field_path": "/article_relevance",
@@ -9175,7 +9175,7 @@
       "source_url": "https://www.imaeil.com/page/view/2026111417131297761",
       "published_at": null,
       "updated_at": null,
-      "collected_at": "2026-11-15T04:41:15.950768+09:00",
+      "collected_at": "2026-11-15T09:58:30.460556+09:00",
       "field_evidence": [
        {
         "field_path": "/article_relevance",
@@ -9295,7 +9295,7 @@
      "source_revision": "79344459f900a196bff2714a",
      "published_at": null,
      "updated_at": null,
-     "collected_at": "2026-11-15T04:41:15.950768+09:00"
+     "collected_at": "2026-11-15T09:58:30.460556+09:00"
     },
     "events": [],
     "review_reasons": []
@@ -9339,7 +9339,7 @@
       "source_url": "https://www.fnnews.com/news/202611101525402414",
       "published_at": "2026-11-10T15:41:44+09:00",
       "updated_at": "2026-11-10T15:41:44+09:00",
-      "collected_at": "2026-11-15T04:41:19.595302+09:00",
+      "collected_at": "2026-11-15T09:58:34.218553+09:00",
       "field_evidence": [
        {
         "field_path": "/article_relevance",
@@ -9456,7 +9456,7 @@
      "source_revision": "e4db1223ba466bbc3a5481ca",
      "published_at": "2026-11-10T15:41:44+09:00",
      "updated_at": "2026-11-10T15:41:44+09:00",
-     "collected_at": "2026-11-15T04:41:19.595302+09:00"
+     "collected_at": "2026-11-15T09:58:34.218553+09:00"
     },
     "events": [],
     "review_reasons": []
@@ -9500,7 +9500,7 @@
       "source_url": "https://www.newspim.com/news/view/20261113001135",
       "published_at": "2026-11-14T07:00:00+09:00",
       "updated_at": "2026-11-14T09:07:00+09:00",
-      "collected_at": "2026-11-15T04:41:24.063405+09:00",
+      "collected_at": "2026-11-15T09:58:38.951300+09:00",
       "field_evidence": [
        {
         "field_path": "/article_relevance",
@@ -9617,7 +9617,7 @@
      "source_revision": "3452d940cd7d9991eaaed8e6",
      "published_at": "2026-11-14T07:00:00+09:00",
      "updated_at": "2026-11-14T09:07:00+09:00",
-     "collected_at": "2026-11-15T04:41:24.063405+09:00"
+     "collected_at": "2026-11-15T09:58:38.951300+09:00"
     },
     "events": [
      {
@@ -10080,7 +10080,7 @@
       "source_url": "https://www.yna.co.kr/view/AKR20261113065800009?input=1195m",
       "published_at": "2026-11-13T10:37:55+09:00",
       "updated_at": "2026-11-13T10:37:55+09:00",
-      "collected_at": "2026-11-15T04:41:28.693647+09:00",
+      "collected_at": "2026-11-15T09:58:43.698578+09:00",
       "field_evidence": [
        {
         "field_path": "/article_relevance",
@@ -10197,7 +10197,7 @@
      "source_revision": "8fbe5e38b5a3f2fbb60d2e51",
      "published_at": "2026-11-13T10:37:55+09:00",
      "updated_at": "2026-11-13T10:37:55+09:00",
-     "collected_at": "2026-11-15T04:41:28.693647+09:00"
+     "collected_at": "2026-11-15T09:58:43.698578+09:00"
     },
     "events": [],
     "review_reasons": [
@@ -10243,7 +10243,7 @@
       "source_url": "https://www.hankyung.com/article/202611133984h",
       "published_at": "2026-11-13T05:33:03+09:00",
       "updated_at": null,
-      "collected_at": "2026-11-15T04:41:35.506848+09:00",
+      "collected_at": "2026-11-15T09:58:50.131271+09:00",
       "field_evidence": [
        {
         "field_path": "/article_relevance",
@@ -10385,7 +10385,7 @@
       "source_url": "https://www.hankyung.com/article/202611133984h",
       "published_at": "2026-11-13T05:33:03+09:00",
       "updated_at": null,
-      "collected_at": "2026-11-15T04:41:35.506848+09:00",
+      "collected_at": "2026-11-15T09:58:50.131271+09:00",
       "field_evidence": [
        {
         "field_path": "/article_relevance",
@@ -10529,7 +10529,7 @@
       "source_url": "https://www.hankyung.com/article/202611133984h",
       "published_at": "2026-11-13T05:33:03+09:00",
       "updated_at": null,
-      "collected_at": "2026-11-15T04:41:35.506848+09:00",
+      "collected_at": "2026-11-15T09:58:50.131271+09:00",
       "field_evidence": [
        {
         "field_path": "/article_relevance",
@@ -10646,7 +10646,7 @@
      "source_revision": "5c9941a38f000f77ad8b8511",
      "published_at": "2026-11-13T05:33:03+09:00",
      "updated_at": null,
-     "collected_at": "2026-11-15T04:41:35.506848+09:00"
+     "collected_at": "2026-11-15T09:58:50.131271+09:00"
     },
     "events": [],
     "review_reasons": []
@@ -10690,7 +10690,7 @@
       "source_url": "https://www.newspim.com/news/view/20261109000918",
       "published_at": "2026-11-09T14:52:00+09:00",
       "updated_at": "2026-11-09T14:52:00+09:00",
-      "collected_at": "2026-11-15T04:41:37.217813+09:00",
+      "collected_at": "2026-11-15T09:58:51.818875+09:00",
       "field_evidence": [
        {
         "field_path": "/article_relevance",
@@ -10807,7 +10807,7 @@
      "source_revision": "69a4a1c9ccf732211d987651",
      "published_at": "2026-11-09T14:52:00+09:00",
      "updated_at": "2026-11-09T14:52:00+09:00",
-     "collected_at": "2026-11-15T04:41:37.217813+09:00"
+     "collected_at": "2026-11-15T09:58:51.818875+09:00"
     },
     "events": [
      {
