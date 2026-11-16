@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-16T05:07:47.480480+09:00",
+ "generatedAt": "2026-11-16T09:57:21.186752+09:00",
  "windowDays": 14,
  "queries": [
   "버스 파업",
@@ -17,8 +17,13 @@
    "url": "https://www.ncloud.com/product/applicationService/naverApiHub"
   }
  ],
- "articles": 298,
+ "articles": 297,
  "searchResults": [
+  {
+   "url": "https://www.labortoday.co.kr/news/articleView.html?idxno=237741",
+   "title": "전국 철도·지하철 줄파업 왜? 인력부족에 안전까지 '흔들'",
+   "query": "버스 파업"
+  },
   {
    "url": "https://biz.heraldcorp.com/article/10937456?ref=naver",
    "title": "‘닥터X’, 19.5%→15.2%…5·18·의료계 논란에 꺾였나",
@@ -185,13 +190,13 @@
    "query": "버스 파업"
   },
   {
-   "url": "https://www.kihoilbo.co.kr/news/articleView.html?idxno=3040535",
-   "title": "[길 잃은 시내버스 공공관리제] 1.사실상 '돈 퍼주기'로 전락",
+   "url": "https://www.kihoilbo.co.kr/news/articleView.html?idxno=3040533",
+   "title": "[길 잃은 시내버스 공공관리제] 공공관리제 확대는커녕 현상 유지도 어...",
    "query": "버스 파업"
   },
   {
-   "url": "https://www.kihoilbo.co.kr/news/articleView.html?idxno=3040533",
-   "title": "[길 잃은 시내버스 공공관리제] 공공관리제 확대는커녕 현상 유지도 어...",
+   "url": "https://www.kihoilbo.co.kr/news/articleView.html?idxno=3040535",
+   "title": "[길 잃은 시내버스 공공관리제] 1.사실상 '돈 퍼주기'로 전락",
    "query": "버스 파업"
   },
   {
@@ -262,11 +267,6 @@
   {
    "url": "https://www.news1.kr/world/europe/6346672",
    "title": "\"임금 올려라\"\"데이터센터 안돼\"…유럽 전역 시위·파업 물결(종합)",
-   "query": "버스 파업"
-  },
-  {
-   "url": "https://www.dt.co.kr/article/12093716?ref=naver",
-   "title": "[SEOUL NOW] 오세훈표 주택·교통 도마 오른 행감 1주차… 한강버스 검증...",
    "query": "버스 파업"
   },
   {
@@ -445,9 +445,14 @@
    "query": "지하철 파업"
   },
   {
-   "url": "http://worknworld.kctu.org/news/articleView.html?idxno=510299",
-   "title": "철도노조, 12월 10일 무기한 총파업 선포… \"안전인력 충원·공정한 승진...",
-   "query": "지하철 파업"
+   "url": "https://www.ksg.co.kr/news/main_newsView.jsp?pNum=148502",
+   "title": "유럽·북미 항만 노사 갈등 표면화…물류 차질 우려",
+   "query": "철도 파업"
+  },
+  {
+   "url": "https://www.ilyosisa.co.kr/news/article.html?no=258892",
+   "title": "<김삼기의 시사펀치> 검찰공화국 비판하더니, 특검공화국 가나",
+   "query": "철도 파업"
   },
   {
    "url": "https://www.kgnews.co.kr/news/article.html?no=919610",
@@ -540,13 +545,13 @@
    "query": "철도 파업"
   },
   {
-   "url": "https://www.mediapen.com/news/view/1137501",
-   "title": "철도노조, 서울역서 빗속 집회…내달 10일 총파업 예고",
+   "url": "https://www.ytn.co.kr/_ln/0102_202611141556338010",
+   "title": "철도노조 결의대회 \"다음 달 총파업\"",
    "query": "철도 파업"
   },
   {
-   "url": "https://www.ytn.co.kr/_ln/0102_202611141556338010",
-   "title": "철도노조 결의대회 \"다음 달 총파업\"",
+   "url": "https://www.mediapen.com/news/view/1137501",
+   "title": "철도노조, 서울역서 빗속 집회…내달 10일 총파업 예고",
    "query": "철도 파업"
   },
   {
@@ -565,13 +570,13 @@
    "query": "철도 파업"
   },
   {
-   "url": "http://www.segyebiz.com/newsView/20261114505486?OutUrl=naver",
-   "title": "철도노조, 서울역서 빗속 집회... 다음 달 총파업 재차 예고",
+   "url": "https://www.ajunews.com/view/20261114154431208",
+   "title": "철도노조, 내달 10일 총파업 재차예고…고속철 통합 후 첫 교통대란 우...",
    "query": "철도 파업"
   },
   {
-   "url": "https://www.ajunews.com/view/20261114154431208",
-   "title": "철도노조, 내달 10일 총파업 재차예고…고속철 통합 후 첫 교통대란 우...",
+   "url": "http://www.segyebiz.com/newsView/20261114505486?OutUrl=naver",
+   "title": "철도노조, 서울역서 빗속 집회... 다음 달 총파업 재차 예고",
    "query": "철도 파업"
   },
   {
@@ -662,17 +667,12 @@
   {
    "url": "https://www.fnnews.com/news/202611131042338454",
    "title": "공항철도 출근길 교통대란 피했다…인력 충원·직원 처우 개선 합의",
-   "query": "철도 파업"
-  },
-  {
-   "url": "http://www.sisunnews.co.kr/news/articleView.html?idxno=249640",
-   "title": "공항철도 노사 임금협상 극적 타결… 노조 파업계획 철회 外 [오늘의 주...",
-   "query": "철도 파업"
+   "query": "파업 예고 운행"
   },
   {
    "url": "https://news.ifm.kr/news/articleView.html?idxno=484326",
    "title": "공항철도 노사, 파업 전 협상 극적 타결…열차 정상 운행",
-   "query": "철도 파업"
+   "query": "파업 예고 운행"
   },
   {
    "url": "http://www.iminju.net/news/articleView.html?idxno=172418",
@@ -802,11 +802,6 @@
   {
    "url": "https://www.hankyung.com/article/202611133984h",
    "title": "공항철도 노조 파업 철회…13일 정상 운행",
-   "query": "파업 예고 운행"
-  },
-  {
-   "url": "https://www.ytn.co.kr/_ln/0102_202611130526341873",
-   "title": "공항철도 임금협상 극적 타결...\"파업계획 철회\"",
    "query": "파업 예고 운행"
   },
   {
@@ -1018,6 +1013,11 @@
    "url": "https://www.jnilbo.com/news/articleView.html?idxno=90000080471",
    "title": "서울 곳곳 집회…양대노총 '특구법 철회'·국힘 '특검법 규탄'",
    "query": "집회 교통 통제"
+  },
+  {
+   "url": "https://www.upkoreanews.kr/news/articleView.html?idxno=101176",
+   "title": "잦은 마라톤 대회…통제구간 인접 종교시설 종교활동 불편호소",
+   "query": "마라톤 도로 통제"
   },
   {
    "url": "https://www.segye.com/newsView/20261116500289?OutUrl=naver",
@@ -1252,11 +1252,6 @@
   {
    "url": "https://www.jeonmae.co.kr/news/articleView.html?idxno=1310142",
    "title": "고양특례시, 15일 하프마라톤 주요 도로 통제",
-   "query": "마라톤 도로 통제"
-  },
-  {
-   "url": "https://www.newsis.com/view/NISX20261110_0003862259",
-   "title": "고양시 \"마라톤 대회 교통 통제 구간 확인하세요\"",
    "query": "마라톤 도로 통제"
   },
   {
@@ -1512,6 +1507,25 @@
  ],
  "strikes": [
   {
+   "id": "7e1f4e20e6bfa3f2",
+   "mode": "subway",
+   "operator": "서울교통공사",
+   "regions": [
+    "서울",
+    "수도권",
+    "전국"
+   ],
+   "status": "scheduled",
+   "quote": "오는 25일부터",
+   "start": "2026-11-25",
+   "dateQuote": "오는 25일부터",
+   "articleTitle": "전국 철도·지하철 줄파업 왜? 인력부족에 안전까지 '흔들'",
+   "url": "https://www.labortoday.co.kr/news/articleView.html?idxno=237741",
+   "publishedAt": "2026-11-16T06:34:00.000",
+   "sourceCount": 16,
+   "model": "gemini-3.5-flash-lite"
+  },
+  {
    "id": "0918290024b5a0d6",
    "mode": "rail",
    "operator": "철도노조",
@@ -1577,7 +1591,7 @@
    "articleTitle": "공항철도 노사 임금협상 타결…노조 파업계획 철회",
    "url": "https://www.obsnews.co.kr/news/articleView.html?idxno=1543710",
    "publishedAt": "2026-11-13T20:08:00.000",
-   "sourceCount": 45,
+   "sourceCount": 43,
    "model": "gemini-3.5-flash-lite"
   },
   {
@@ -1593,25 +1607,6 @@
    "url": "http://www.newstown.co.kr/news/articleView.html?idxno=721775",
    "publishedAt": "2026-11-12T20:52:00.000",
    "sourceCount": 1,
-   "model": "gemini-3.5-flash-lite"
-  },
-  {
-   "id": "6c278bd786793c51",
-   "mode": "subway",
-   "operator": "서울교통공사",
-   "regions": [
-    "서울",
-    "수도권",
-    "인천"
-   ],
-   "status": "scheduled",
-   "quote": "오는 25일 총파업을 예고한 상태",
-   "start": "2026-11-25",
-   "dateQuote": "11월 25일",
-   "articleTitle": "공항철도 첫 파업 나서나...13일 운행 축소 예고에 공항 이용객 비상",
-   "url": "https://www.abcn.kr/news/articleView.html?idxno=94450",
-   "publishedAt": "2026-11-12T16:28:00.000",
-   "sourceCount": 15,
    "model": "gemini-3.5-flash-lite"
   },
   {
@@ -7544,7 +7539,159 @@
   },
   {
    "assertion": "planned",
-   "checked_at": "2026-11-16T05:07:26.984600+09:00",
+   "checked_at": "2026-11-16T05:07:45.390169+09:00",
+   "conflict": false,
+   "demo": false,
+   "disruption_confirmed": false,
+   "event_id": "c79fefede1e6214f37303b59",
+   "event_name": "공공운수노조",
+   "evidence": [
+    {
+     "derivation": "explicit",
+     "effective_at": null,
+     "field_path": "/article_relevance",
+     "quote": "앞서 민주노총 공공운수노조 공항철도지부는 지난 7월부터 10차례 교섭했지만 임금 인상과 인력 충원 등에 합의하지 못해 13일 하루 경고 파업에 들어간다고 예고 했었다.",
+     "reference_source": null,
+     "source_id": "0cf254dd4f2b3d8a6195a6fd",
+     "source_part": "body",
+     "source_revision": "5c9941a38f000f77ad8b8511"
+    },
+    {
+     "derivation": "explicit",
+     "effective_at": null,
+     "field_path": "/transport_mode",
+     "quote": "앞서 민주노총 공공운수노조 공항철도지부는 지난 7월부터 10차례 교섭했지만 임금 인상과 인력 충원 등에 합의하지 못해 13일 하루 경고 파업에 들어간다고 예고 했었다.",
+     "reference_source": null,
+     "source_id": "0cf254dd4f2b3d8a6195a6fd",
+     "source_part": "body",
+     "source_revision": "5c9941a38f000f77ad8b8511"
+    },
+    {
+     "derivation": "explicit",
+     "effective_at": null,
+     "field_path": "/affected_regions",
+     "quote": "앞서 민주노총 공공운수노조 공항철도지부는 지난 7월부터 10차례 교섭했지만 임금 인상과 인력 충원 등에 합의하지 못해 13일 하루 경고 파업에 들어간다고 예고 했었다.",
+     "reference_source": null,
+     "source_id": "0cf254dd4f2b3d8a6195a6fd",
+     "source_part": "body",
+     "source_revision": "5c9941a38f000f77ad8b8511"
+    },
+    {
+     "derivation": "explicit",
+     "effective_at": null,
+     "field_path": "/affected_routes",
+     "quote": "앞서 민주노총 공공운수노조 공항철도지부는 지난 7월부터 10차례 교섭했지만 임금 인상과 인력 충원 등에 합의하지 못해 13일 하루 경고 파업에 들어간다고 예고 했었다.",
+     "reference_source": null,
+     "source_id": "0cf254dd4f2b3d8a6195a6fd",
+     "source_part": "body",
+     "source_revision": "5c9941a38f000f77ad8b8511"
+    },
+    {
+     "derivation": "explicit",
+     "effective_at": null,
+     "field_path": "/strike_status",
+     "quote": "앞서 민주노총 공공운수노조 공항철도지부는 지난 7월부터 10차례 교섭했지만 임금 인상과 인력 충원 등에 합의하지 못해 13일 하루 경고 파업에 들어간다고 예고 했었다.",
+     "reference_source": null,
+     "source_id": "0cf254dd4f2b3d8a6195a6fd",
+     "source_part": "body",
+     "source_revision": "5c9941a38f000f77ad8b8511"
+    },
+    {
+     "derivation": "explicit",
+     "effective_at": null,
+     "field_path": "/service_status",
+     "quote": "앞서 민주노총 공공운수노조 공항철도지부는 지난 7월부터 10차례 교섭했지만 임금 인상과 인력 충원 등에 합의하지 못해 13일 하루 경고 파업에 들어간다고 예고 했었다.",
+     "reference_source": null,
+     "source_id": "0cf254dd4f2b3d8a6195a6fd",
+     "source_part": "body",
+     "source_revision": "5c9941a38f000f77ad8b8511"
+    },
+    {
+     "derivation": "explicit",
+     "effective_at": null,
+     "field_path": "/normal_service_exceptions",
+     "quote": "앞서 민주노총 공공운수노조 공항철도지부는 지난 7월부터 10차례 교섭했지만 임금 인상과 인력 충원 등에 합의하지 못해 13일 하루 경고 파업에 들어간다고 예고 했었다.",
+     "reference_source": null,
+     "source_id": "0cf254dd4f2b3d8a6195a6fd",
+     "source_part": "body",
+     "source_revision": "5c9941a38f000f77ad8b8511"
+    },
+    {
+     "derivation": "explicit",
+     "effective_at": null,
+     "field_path": "/alternative_services",
+     "quote": "앞서 민주노총 공공운수노조 공항철도지부는 지난 7월부터 10차례 교섭했지만 임금 인상과 인력 충원 등에 합의하지 못해 13일 하루 경고 파업에 들어간다고 예고 했었다.",
+     "reference_source": null,
+     "source_id": "0cf254dd4f2b3d8a6195a6fd",
+     "source_part": "body",
+     "source_revision": "5c9941a38f000f77ad8b8511"
+    },
+    {
+     "derivation": "explicit",
+     "effective_at": null,
+     "field_path": "/start",
+     "quote": "앞서 민주노총 공공운수노조 공항철도지부는 지난 7월부터 10차례 교섭했지만 임금 인상과 인력 충원 등에 합의하지 못해 13일 하루 경고 파업에 들어간다고 예고 했었다.",
+     "reference_source": null,
+     "source_id": "0cf254dd4f2b3d8a6195a6fd",
+     "source_part": "body",
+     "source_revision": "5c9941a38f000f77ad8b8511"
+    },
+    {
+     "derivation": "explicit",
+     "effective_at": null,
+     "field_path": "/end",
+     "quote": "앞서 민주노총 공공운수노조 공항철도지부는 지난 7월부터 10차례 교섭했지만 임금 인상과 인력 충원 등에 합의하지 못해 13일 하루 경고 파업에 들어간다고 예고 했었다.",
+     "reference_source": null,
+     "source_id": "0cf254dd4f2b3d8a6195a6fd",
+     "source_part": "body",
+     "source_revision": "5c9941a38f000f77ad8b8511"
+    }
+   ],
+   "exceptions": [],
+   "id": "ca67b56049e8d43555ae78aa",
+   "modes": [
+    "rail"
+   ],
+   "period": {
+    "condition": null,
+    "end": {
+     "assertion": "unknown",
+     "basis": "unknown",
+     "date": null,
+     "open_ended": null,
+     "raw": null,
+     "time": null,
+     "timezone": "Asia/Seoul"
+    },
+    "precision": "PARTIAL",
+    "start": {
+     "assertion": "unknown",
+     "basis": "unknown",
+     "date": null,
+     "open_ended": null,
+     "raw": null,
+     "time": null,
+     "timezone": "Asia/Seoul"
+    }
+   },
+   "published_at": "2026-11-13T05:33:03+09:00",
+   "review_reasons": [
+    "DATE_UNCONFIRMED"
+   ],
+   "scope": [],
+   "service_status": [],
+   "source_url": "https://www.hankyung.com/article/202611133984h",
+   "status": "ANNOUNCED",
+   "status_effective_at": null,
+   "strike_status": "scheduled",
+   "type": "STRIKE",
+   "updated_at": null,
+   "version": 1,
+   "body_verified": true
+  },
+  {
+   "assertion": "planned",
+   "checked_at": "2026-11-16T09:57:00.615556+09:00",
    "conflict": false,
    "demo": false,
    "disruption_confirmed": true,
@@ -7943,7 +8090,7 @@
   },
   {
    "assertion": "planned",
-   "checked_at": "2026-11-16T05:07:26.984600+09:00",
+   "checked_at": "2026-11-16T09:57:00.615556+09:00",
    "conflict": false,
    "demo": false,
    "disruption_confirmed": false,
@@ -8091,158 +8238,6 @@
    "updated_at": null,
    "version": 1,
    "body_verified": true
-  },
-  {
-   "assertion": "planned",
-   "checked_at": "2026-11-16T05:07:45.390169+09:00",
-   "conflict": false,
-   "demo": false,
-   "disruption_confirmed": false,
-   "event_id": "c79fefede1e6214f37303b59",
-   "event_name": "공공운수노조",
-   "evidence": [
-    {
-     "derivation": "explicit",
-     "effective_at": null,
-     "field_path": "/article_relevance",
-     "quote": "앞서 민주노총 공공운수노조 공항철도지부는 지난 7월부터 10차례 교섭했지만 임금 인상과 인력 충원 등에 합의하지 못해 13일 하루 경고 파업에 들어간다고 예고 했었다.",
-     "reference_source": null,
-     "source_id": "0cf254dd4f2b3d8a6195a6fd",
-     "source_part": "body",
-     "source_revision": "5c9941a38f000f77ad8b8511"
-    },
-    {
-     "derivation": "explicit",
-     "effective_at": null,
-     "field_path": "/transport_mode",
-     "quote": "앞서 민주노총 공공운수노조 공항철도지부는 지난 7월부터 10차례 교섭했지만 임금 인상과 인력 충원 등에 합의하지 못해 13일 하루 경고 파업에 들어간다고 예고 했었다.",
-     "reference_source": null,
-     "source_id": "0cf254dd4f2b3d8a6195a6fd",
-     "source_part": "body",
-     "source_revision": "5c9941a38f000f77ad8b8511"
-    },
-    {
-     "derivation": "explicit",
-     "effective_at": null,
-     "field_path": "/affected_regions",
-     "quote": "앞서 민주노총 공공운수노조 공항철도지부는 지난 7월부터 10차례 교섭했지만 임금 인상과 인력 충원 등에 합의하지 못해 13일 하루 경고 파업에 들어간다고 예고 했었다.",
-     "reference_source": null,
-     "source_id": "0cf254dd4f2b3d8a6195a6fd",
-     "source_part": "body",
-     "source_revision": "5c9941a38f000f77ad8b8511"
-    },
-    {
-     "derivation": "explicit",
-     "effective_at": null,
-     "field_path": "/affected_routes",
-     "quote": "앞서 민주노총 공공운수노조 공항철도지부는 지난 7월부터 10차례 교섭했지만 임금 인상과 인력 충원 등에 합의하지 못해 13일 하루 경고 파업에 들어간다고 예고 했었다.",
-     "reference_source": null,
-     "source_id": "0cf254dd4f2b3d8a6195a6fd",
-     "source_part": "body",
-     "source_revision": "5c9941a38f000f77ad8b8511"
-    },
-    {
-     "derivation": "explicit",
-     "effective_at": null,
-     "field_path": "/strike_status",
-     "quote": "앞서 민주노총 공공운수노조 공항철도지부는 지난 7월부터 10차례 교섭했지만 임금 인상과 인력 충원 등에 합의하지 못해 13일 하루 경고 파업에 들어간다고 예고 했었다.",
-     "reference_source": null,
-     "source_id": "0cf254dd4f2b3d8a6195a6fd",
-     "source_part": "body",
-     "source_revision": "5c9941a38f000f77ad8b8511"
-    },
-    {
-     "derivation": "explicit",
-     "effective_at": null,
-     "field_path": "/service_status",
-     "quote": "앞서 민주노총 공공운수노조 공항철도지부는 지난 7월부터 10차례 교섭했지만 임금 인상과 인력 충원 등에 합의하지 못해 13일 하루 경고 파업에 들어간다고 예고 했었다.",
-     "reference_source": null,
-     "source_id": "0cf254dd4f2b3d8a6195a6fd",
-     "source_part": "body",
-     "source_revision": "5c9941a38f000f77ad8b8511"
-    },
-    {
-     "derivation": "explicit",
-     "effective_at": null,
-     "field_path": "/normal_service_exceptions",
-     "quote": "앞서 민주노총 공공운수노조 공항철도지부는 지난 7월부터 10차례 교섭했지만 임금 인상과 인력 충원 등에 합의하지 못해 13일 하루 경고 파업에 들어간다고 예고 했었다.",
-     "reference_source": null,
-     "source_id": "0cf254dd4f2b3d8a6195a6fd",
-     "source_part": "body",
-     "source_revision": "5c9941a38f000f77ad8b8511"
-    },
-    {
-     "derivation": "explicit",
-     "effective_at": null,
-     "field_path": "/alternative_services",
-     "quote": "앞서 민주노총 공공운수노조 공항철도지부는 지난 7월부터 10차례 교섭했지만 임금 인상과 인력 충원 등에 합의하지 못해 13일 하루 경고 파업에 들어간다고 예고 했었다.",
-     "reference_source": null,
-     "source_id": "0cf254dd4f2b3d8a6195a6fd",
-     "source_part": "body",
-     "source_revision": "5c9941a38f000f77ad8b8511"
-    },
-    {
-     "derivation": "explicit",
-     "effective_at": null,
-     "field_path": "/start",
-     "quote": "앞서 민주노총 공공운수노조 공항철도지부는 지난 7월부터 10차례 교섭했지만 임금 인상과 인력 충원 등에 합의하지 못해 13일 하루 경고 파업에 들어간다고 예고 했었다.",
-     "reference_source": null,
-     "source_id": "0cf254dd4f2b3d8a6195a6fd",
-     "source_part": "body",
-     "source_revision": "5c9941a38f000f77ad8b8511"
-    },
-    {
-     "derivation": "explicit",
-     "effective_at": null,
-     "field_path": "/end",
-     "quote": "앞서 민주노총 공공운수노조 공항철도지부는 지난 7월부터 10차례 교섭했지만 임금 인상과 인력 충원 등에 합의하지 못해 13일 하루 경고 파업에 들어간다고 예고 했었다.",
-     "reference_source": null,
-     "source_id": "0cf254dd4f2b3d8a6195a6fd",
-     "source_part": "body",
-     "source_revision": "5c9941a38f000f77ad8b8511"
-    }
-   ],
-   "exceptions": [],
-   "id": "ca67b56049e8d43555ae78aa",
-   "modes": [
-    "rail"
-   ],
-   "period": {
-    "condition": null,
-    "end": {
-     "assertion": "unknown",
-     "basis": "unknown",
-     "date": null,
-     "open_ended": null,
-     "raw": null,
-     "time": null,
-     "timezone": "Asia/Seoul"
-    },
-    "precision": "PARTIAL",
-    "start": {
-     "assertion": "unknown",
-     "basis": "unknown",
-     "date": null,
-     "open_ended": null,
-     "raw": null,
-     "time": null,
-     "timezone": "Asia/Seoul"
-    }
-   },
-   "published_at": "2026-11-13T05:33:03+09:00",
-   "review_reasons": [
-    "DATE_UNCONFIRMED"
-   ],
-   "scope": [],
-   "service_status": [],
-   "source_url": "https://www.hankyung.com/article/202611133984h",
-   "status": "ANNOUNCED",
-   "status_effective_at": null,
-   "strike_status": "scheduled",
-   "type": "STRIKE",
-   "updated_at": null,
-   "version": 1,
-   "body_verified": true
   }
  ],
  "extractions": [
@@ -8284,7 +8279,7 @@
       "source_url": "https://www.newsis.com/view/NISX20261113_0003867649",
       "published_at": "2026-11-13T17:24:24+09:00",
       "updated_at": null,
-      "collected_at": "2026-11-16T05:07:21.190362+09:00",
+      "collected_at": "2026-11-16T09:56:54.955467+09:00",
       "field_evidence": [
        {
         "field_path": "/article_relevance",
@@ -8401,7 +8396,7 @@
      "source_revision": "d5a52337e59318f994fdb8fa",
      "published_at": "2026-11-13T17:24:24+09:00",
      "updated_at": null,
-     "collected_at": "2026-11-16T05:07:21.190362+09:00"
+     "collected_at": "2026-11-16T09:56:54.955467+09:00"
     },
     "events": [],
     "review_reasons": [
@@ -8447,7 +8442,7 @@
       "source_url": "https://www.newsis.com/view/NISX20261114_0003868135",
       "published_at": "2026-11-14T15:42:23+09:00",
       "updated_at": null,
-      "collected_at": "2026-11-16T05:07:23.039326+09:00",
+      "collected_at": "2026-11-16T09:56:56.751350+09:00",
       "field_evidence": [
        {
         "field_path": "/article_relevance",
@@ -8564,7 +8559,7 @@
      "source_revision": "4d776344140d5072dcee4499",
      "published_at": "2026-11-14T15:42:23+09:00",
      "updated_at": null,
-     "collected_at": "2026-11-16T05:07:23.039326+09:00"
+     "collected_at": "2026-11-16T09:56:56.751350+09:00"
     },
     "events": [],
     "review_reasons": []
@@ -8657,7 +8652,7 @@
       "source_url": "https://www.imaeil.com/page/view/2026111417131297761",
       "published_at": null,
       "updated_at": null,
-      "collected_at": "2026-11-16T05:07:26.984600+09:00",
+      "collected_at": "2026-11-16T09:57:00.615556+09:00",
       "field_evidence": [
        {
         "field_path": "/article_relevance",
@@ -9001,7 +8996,7 @@
       "source_url": "https://www.imaeil.com/page/view/2026111417131297761",
       "published_at": null,
       "updated_at": null,
-      "collected_at": "2026-11-16T05:07:26.984600+09:00",
+      "collected_at": "2026-11-16T09:57:00.615556+09:00",
       "field_evidence": [
        {
         "field_path": "/article_relevance",
@@ -9121,7 +9116,7 @@
      "source_revision": "79344459f900a196bff2714a",
      "published_at": null,
      "updated_at": null,
-     "collected_at": "2026-11-16T05:07:26.984600+09:00"
+     "collected_at": "2026-11-16T09:57:00.615556+09:00"
     },
     "events": [],
     "review_reasons": []
@@ -9165,7 +9160,7 @@
       "source_url": "https://www.fnnews.com/news/202611101525402414",
       "published_at": "2026-11-10T15:41:44+09:00",
       "updated_at": "2026-11-10T15:41:44+09:00",
-      "collected_at": "2026-11-16T05:07:30.570516+09:00",
+      "collected_at": "2026-11-16T09:57:05.466665+09:00",
       "field_evidence": [
        {
         "field_path": "/article_relevance",
@@ -9282,7 +9277,7 @@
      "source_revision": "e4db1223ba466bbc3a5481ca",
      "published_at": "2026-11-10T15:41:44+09:00",
      "updated_at": "2026-11-10T15:41:44+09:00",
-     "collected_at": "2026-11-16T05:07:30.570516+09:00"
+     "collected_at": "2026-11-16T09:57:05.466665+09:00"
     },
     "events": [],
     "review_reasons": []
@@ -9326,7 +9321,7 @@
       "source_url": "https://www.newspim.com/news/view/20261113001135",
       "published_at": "2026-11-14T07:00:00+09:00",
       "updated_at": "2026-11-14T09:07:00+09:00",
-      "collected_at": "2026-11-16T05:07:34.647814+09:00",
+      "collected_at": "2026-11-16T09:57:09.612585+09:00",
       "field_evidence": [
        {
         "field_path": "/article_relevance",
@@ -9443,7 +9438,7 @@
      "source_revision": "3452d940cd7d9991eaaed8e6",
      "published_at": "2026-11-14T07:00:00+09:00",
      "updated_at": "2026-11-14T09:07:00+09:00",
-     "collected_at": "2026-11-16T05:07:34.647814+09:00"
+     "collected_at": "2026-11-16T09:57:09.612585+09:00"
     },
     "events": [
      {
@@ -9906,7 +9901,7 @@
       "source_url": "https://www.yna.co.kr/view/AKR20261113065800009?input=1195m",
       "published_at": "2026-11-13T10:37:55+09:00",
       "updated_at": "2026-11-13T10:37:55+09:00",
-      "collected_at": "2026-11-16T05:07:39.517614+09:00",
+      "collected_at": "2026-11-16T09:57:13.906918+09:00",
       "field_evidence": [
        {
         "field_path": "/article_relevance",
@@ -10023,7 +10018,7 @@
      "source_revision": "8fbe5e38b5a3f2fbb60d2e51",
      "published_at": "2026-11-13T10:37:55+09:00",
      "updated_at": "2026-11-13T10:37:55+09:00",
-     "collected_at": "2026-11-16T05:07:39.517614+09:00"
+     "collected_at": "2026-11-16T09:57:13.906918+09:00"
     },
     "events": [],
     "review_reasons": [
@@ -10066,457 +10061,10 @@
      "normal_service_exceptions": [],
      "alternative_services": [],
      "evidence_and_timestamps": {
-      "source_url": "https://www.hankyung.com/article/202611133984h",
-      "published_at": "2026-11-13T05:33:03+09:00",
-      "updated_at": null,
-      "collected_at": "2026-11-16T05:07:45.390169+09:00",
-      "field_evidence": [
-       {
-        "field_path": "/article_relevance",
-        "quote": "서울역과 인천국제공항을 왕복 운행하는 공항철도가 13일 정상 운행한다.",
-        "source_part": "body",
-        "effective_at": null,
-        "derivation": "explicit",
-        "source_id": "0cf254dd4f2b3d8a6195a6fd",
-        "source_revision": "5c9941a38f000f77ad8b8511",
-        "reference_source": null
-       },
-       {
-        "field_path": "/transport_mode",
-        "quote": "서울역과 인천국제공항을 왕복 운행하는 공항철도가 13일 정상 운행한다.",
-        "source_part": "body",
-        "effective_at": null,
-        "derivation": "explicit",
-        "source_id": "0cf254dd4f2b3d8a6195a6fd",
-        "source_revision": "5c9941a38f000f77ad8b8511",
-        "reference_source": null
-       },
-       {
-        "field_path": "/affected_regions",
-        "quote": "서울역과 인천국제공항을 왕복 운행하는 공항철도가 13일 정상 운행한다.",
-        "source_part": "body",
-        "effective_at": null,
-        "derivation": "explicit",
-        "source_id": "0cf254dd4f2b3d8a6195a6fd",
-        "source_revision": "5c9941a38f000f77ad8b8511",
-        "reference_source": null
-       },
-       {
-        "field_path": "/affected_routes",
-        "quote": "서울역과 인천국제공항을 왕복 운행하는 공항철도가 13일 정상 운행한다.",
-        "source_part": "body",
-        "effective_at": null,
-        "derivation": "explicit",
-        "source_id": "0cf254dd4f2b3d8a6195a6fd",
-        "source_revision": "5c9941a38f000f77ad8b8511",
-        "reference_source": null
-       },
-       {
-        "field_path": "/strike_status",
-        "quote": "서울역과 인천국제공항을 왕복 운행하는 공항철도가 13일 정상 운행한다.",
-        "source_part": "body",
-        "effective_at": null,
-        "derivation": "explicit",
-        "source_id": "0cf254dd4f2b3d8a6195a6fd",
-        "source_revision": "5c9941a38f000f77ad8b8511",
-        "reference_source": null
-       },
-       {
-        "field_path": "/service_status",
-        "quote": "서울역과 인천국제공항을 왕복 운행하는 공항철도가 13일 정상 운행한다.",
-        "source_part": "body",
-        "effective_at": null,
-        "derivation": "explicit",
-        "source_id": "0cf254dd4f2b3d8a6195a6fd",
-        "source_revision": "5c9941a38f000f77ad8b8511",
-        "reference_source": null
-       },
-       {
-        "field_path": "/normal_service_exceptions",
-        "quote": "서울역과 인천국제공항을 왕복 운행하는 공항철도가 13일 정상 운행한다.",
-        "source_part": "body",
-        "effective_at": null,
-        "derivation": "explicit",
-        "source_id": "0cf254dd4f2b3d8a6195a6fd",
-        "source_revision": "5c9941a38f000f77ad8b8511",
-        "reference_source": null
-       },
-       {
-        "field_path": "/alternative_services",
-        "quote": "서울역과 인천국제공항을 왕복 운행하는 공항철도가 13일 정상 운행한다.",
-        "source_part": "body",
-        "effective_at": null,
-        "derivation": "explicit",
-        "source_id": "0cf254dd4f2b3d8a6195a6fd",
-        "source_revision": "5c9941a38f000f77ad8b8511",
-        "reference_source": null
-       },
-       {
-        "field_path": "/start",
-        "quote": "서울역과 인천국제공항을 왕복 운행하는 공항철도가 13일 정상 운행한다.",
-        "source_part": "body",
-        "effective_at": null,
-        "derivation": "explicit",
-        "source_id": "0cf254dd4f2b3d8a6195a6fd",
-        "source_revision": "5c9941a38f000f77ad8b8511",
-        "reference_source": null
-       },
-       {
-        "field_path": "/end",
-        "quote": "서울역과 인천국제공항을 왕복 운행하는 공항철도가 13일 정상 운행한다.",
-        "source_part": "body",
-        "effective_at": null,
-        "derivation": "explicit",
-        "source_id": "0cf254dd4f2b3d8a6195a6fd",
-        "source_revision": "5c9941a38f000f77ad8b8511",
-        "reference_source": null
-       }
-      ],
-      "review_reasons": []
-     }
-    },
-    {
-     "article_relevance": "related",
-     "transport_mode": "rail",
-     "affected_regions": [],
-     "affected_routes": [],
-     "start": {
-      "raw": null,
-      "date": null,
-      "time": null,
-      "timezone": "Asia/Seoul",
-      "basis": "unknown",
-      "assertion": "unknown",
-      "open_ended": null
-     },
-     "end": {
-      "raw": null,
-      "date": null,
-      "time": null,
-      "timezone": "Asia/Seoul",
-      "basis": "unknown",
-      "assertion": "unknown",
-      "open_ended": null
-     },
-     "strike_status": {
-      "value": "scheduled",
-      "conditions": [],
-      "scope_raw": "앞서 민주노총 공공운수노조 공항철도지부는 지난 7월부터 10차례 교섭했지만 임금 인상과 인력 충원 등에 합의하지 못해 13일 하루 경고 파업에 들어간다고 예고 했었다.",
-      "effective_at": null
-     },
-     "service_status": [],
-     "normal_service_exceptions": [],
-     "alternative_services": [],
-     "evidence_and_timestamps": {
-      "source_url": "https://www.hankyung.com/article/202611133984h",
-      "published_at": "2026-11-13T05:33:03+09:00",
-      "updated_at": null,
-      "collected_at": "2026-11-16T05:07:45.390169+09:00",
-      "field_evidence": [
-       {
-        "field_path": "/article_relevance",
-        "quote": "앞서 민주노총 공공운수노조 공항철도지부는 지난 7월부터 10차례 교섭했지만 임금 인상과 인력 충원 등에 합의하지 못해 13일 하루 경고 파업에 들어간다고 예고 했었다.",
-        "source_part": "body",
-        "effective_at": null,
-        "derivation": "explicit",
-        "source_id": "0cf254dd4f2b3d8a6195a6fd",
-        "source_revision": "5c9941a38f000f77ad8b8511",
-        "reference_source": null
-       },
-       {
-        "field_path": "/transport_mode",
-        "quote": "앞서 민주노총 공공운수노조 공항철도지부는 지난 7월부터 10차례 교섭했지만 임금 인상과 인력 충원 등에 합의하지 못해 13일 하루 경고 파업에 들어간다고 예고 했었다.",
-        "source_part": "body",
-        "effective_at": null,
-        "derivation": "explicit",
-        "source_id": "0cf254dd4f2b3d8a6195a6fd",
-        "source_revision": "5c9941a38f000f77ad8b8511",
-        "reference_source": null
-       },
-       {
-        "field_path": "/affected_regions",
-        "quote": "앞서 민주노총 공공운수노조 공항철도지부는 지난 7월부터 10차례 교섭했지만 임금 인상과 인력 충원 등에 합의하지 못해 13일 하루 경고 파업에 들어간다고 예고 했었다.",
-        "source_part": "body",
-        "effective_at": null,
-        "derivation": "explicit",
-        "source_id": "0cf254dd4f2b3d8a6195a6fd",
-        "source_revision": "5c9941a38f000f77ad8b8511",
-        "reference_source": null
-       },
-       {
-        "field_path": "/affected_routes",
-        "quote": "앞서 민주노총 공공운수노조 공항철도지부는 지난 7월부터 10차례 교섭했지만 임금 인상과 인력 충원 등에 합의하지 못해 13일 하루 경고 파업에 들어간다고 예고 했었다.",
-        "source_part": "body",
-        "effective_at": null,
-        "derivation": "explicit",
-        "source_id": "0cf254dd4f2b3d8a6195a6fd",
-        "source_revision": "5c9941a38f000f77ad8b8511",
-        "reference_source": null
-       },
-       {
-        "field_path": "/strike_status",
-        "quote": "앞서 민주노총 공공운수노조 공항철도지부는 지난 7월부터 10차례 교섭했지만 임금 인상과 인력 충원 등에 합의하지 못해 13일 하루 경고 파업에 들어간다고 예고 했었다.",
-        "source_part": "body",
-        "effective_at": null,
-        "derivation": "explicit",
-        "source_id": "0cf254dd4f2b3d8a6195a6fd",
-        "source_revision": "5c9941a38f000f77ad8b8511",
-        "reference_source": null
-       },
-       {
-        "field_path": "/service_status",
-        "quote": "앞서 민주노총 공공운수노조 공항철도지부는 지난 7월부터 10차례 교섭했지만 임금 인상과 인력 충원 등에 합의하지 못해 13일 하루 경고 파업에 들어간다고 예고 했었다.",
-        "source_part": "body",
-        "effective_at": null,
-        "derivation": "explicit",
-        "source_id": "0cf254dd4f2b3d8a6195a6fd",
-        "source_revision": "5c9941a38f000f77ad8b8511",
-        "reference_source": null
-       },
-       {
-        "field_path": "/normal_service_exceptions",
-        "quote": "앞서 민주노총 공공운수노조 공항철도지부는 지난 7월부터 10차례 교섭했지만 임금 인상과 인력 충원 등에 합의하지 못해 13일 하루 경고 파업에 들어간다고 예고 했었다.",
-        "source_part": "body",
-        "effective_at": null,
-        "derivation": "explicit",
-        "source_id": "0cf254dd4f2b3d8a6195a6fd",
-        "source_revision": "5c9941a38f000f77ad8b8511",
-        "reference_source": null
-       },
-       {
-        "field_path": "/alternative_services",
-        "quote": "앞서 민주노총 공공운수노조 공항철도지부는 지난 7월부터 10차례 교섭했지만 임금 인상과 인력 충원 등에 합의하지 못해 13일 하루 경고 파업에 들어간다고 예고 했었다.",
-        "source_part": "body",
-        "effective_at": null,
-        "derivation": "explicit",
-        "source_id": "0cf254dd4f2b3d8a6195a6fd",
-        "source_revision": "5c9941a38f000f77ad8b8511",
-        "reference_source": null
-       },
-       {
-        "field_path": "/start",
-        "quote": "앞서 민주노총 공공운수노조 공항철도지부는 지난 7월부터 10차례 교섭했지만 임금 인상과 인력 충원 등에 합의하지 못해 13일 하루 경고 파업에 들어간다고 예고 했었다.",
-        "source_part": "body",
-        "effective_at": null,
-        "derivation": "explicit",
-        "source_id": "0cf254dd4f2b3d8a6195a6fd",
-        "source_revision": "5c9941a38f000f77ad8b8511",
-        "reference_source": null
-       },
-       {
-        "field_path": "/end",
-        "quote": "앞서 민주노총 공공운수노조 공항철도지부는 지난 7월부터 10차례 교섭했지만 임금 인상과 인력 충원 등에 합의하지 못해 13일 하루 경고 파업에 들어간다고 예고 했었다.",
-        "source_part": "body",
-        "effective_at": null,
-        "derivation": "explicit",
-        "source_id": "0cf254dd4f2b3d8a6195a6fd",
-        "source_revision": "5c9941a38f000f77ad8b8511",
-        "reference_source": null
-       }
-      ],
-      "review_reasons": [
-       "DATE_UNCONFIRMED"
-      ]
-     }
-    },
-    {
-     "article_relevance": "unrelated",
-     "transport_mode": "unknown",
-     "affected_regions": [],
-     "affected_routes": [],
-     "start": {
-      "raw": null,
-      "date": null,
-      "time": null,
-      "timezone": "Asia/Seoul",
-      "basis": "unknown",
-      "assertion": "unknown",
-      "open_ended": null
-     },
-     "end": {
-      "raw": null,
-      "date": null,
-      "time": null,
-      "timezone": "Asia/Seoul",
-      "basis": "unknown",
-      "assertion": "unknown",
-      "open_ended": null
-     },
-     "strike_status": {
-      "value": "unknown",
-      "conditions": [],
-      "scope_raw": null,
-      "effective_at": null
-     },
-     "service_status": [],
-     "normal_service_exceptions": [],
-     "alternative_services": [],
-     "evidence_and_timestamps": {
-      "source_url": "https://www.hankyung.com/article/202611133984h",
-      "published_at": "2026-11-13T05:33:03+09:00",
-      "updated_at": null,
-      "collected_at": "2026-11-16T05:07:45.390169+09:00",
-      "field_evidence": [
-       {
-        "field_path": "/article_relevance",
-        "quote": "노사는 13일 오전 3시 30분에 2026년도 임금 교섭에서 잠정합의안을 도출하고 이날 하루 동안 첫차 운행부터 예정된 경고 파업 계획을 철회하기로 했다.",
-        "source_part": "body",
-        "effective_at": null,
-        "derivation": "explicit",
-        "source_id": "0cf254dd4f2b3d8a6195a6fd",
-        "source_revision": "5c9941a38f000f77ad8b8511",
-        "reference_source": null
-       },
-       {
-        "field_path": "/transport_mode",
-        "quote": "노사는 13일 오전 3시 30분에 2026년도 임금 교섭에서 잠정합의안을 도출하고 이날 하루 동안 첫차 운행부터 예정된 경고 파업 계획을 철회하기로 했다.",
-        "source_part": "body",
-        "effective_at": null,
-        "derivation": "explicit",
-        "source_id": "0cf254dd4f2b3d8a6195a6fd",
-        "source_revision": "5c9941a38f000f77ad8b8511",
-        "reference_source": null
-       },
-       {
-        "field_path": "/affected_regions",
-        "quote": "노사는 13일 오전 3시 30분에 2026년도 임금 교섭에서 잠정합의안을 도출하고 이날 하루 동안 첫차 운행부터 예정된 경고 파업 계획을 철회하기로 했다.",
-        "source_part": "body",
-        "effective_at": null,
-        "derivation": "explicit",
-        "source_id": "0cf254dd4f2b3d8a6195a6fd",
-        "source_revision": "5c9941a38f000f77ad8b8511",
-        "reference_source": null
-       },
-       {
-        "field_path": "/affected_routes",
-        "quote": "노사는 13일 오전 3시 30분에 2026년도 임금 교섭에서 잠정합의안을 도출하고 이날 하루 동안 첫차 운행부터 예정된 경고 파업 계획을 철회하기로 했다.",
-        "source_part": "body",
-        "effective_at": null,
-        "derivation": "explicit",
-        "source_id": "0cf254dd4f2b3d8a6195a6fd",
-        "source_revision": "5c9941a38f000f77ad8b8511",
-        "reference_source": null
-       },
-       {
-        "field_path": "/strike_status",
-        "quote": "노사는 13일 오전 3시 30분에 2026년도 임금 교섭에서 잠정합의안을 도출하고 이날 하루 동안 첫차 운행부터 예정된 경고 파업 계획을 철회하기로 했다.",
-        "source_part": "body",
-        "effective_at": null,
-        "derivation": "explicit",
-        "source_id": "0cf254dd4f2b3d8a6195a6fd",
-        "source_revision": "5c9941a38f000f77ad8b8511",
-        "reference_source": null
-       },
-       {
-        "field_path": "/service_status",
-        "quote": "노사는 13일 오전 3시 30분에 2026년도 임금 교섭에서 잠정합의안을 도출하고 이날 하루 동안 첫차 운행부터 예정된 경고 파업 계획을 철회하기로 했다.",
-        "source_part": "body",
-        "effective_at": null,
-        "derivation": "explicit",
-        "source_id": "0cf254dd4f2b3d8a6195a6fd",
-        "source_revision": "5c9941a38f000f77ad8b8511",
-        "reference_source": null
-       },
-       {
-        "field_path": "/normal_service_exceptions",
-        "quote": "노사는 13일 오전 3시 30분에 2026년도 임금 교섭에서 잠정합의안을 도출하고 이날 하루 동안 첫차 운행부터 예정된 경고 파업 계획을 철회하기로 했다.",
-        "source_part": "body",
-        "effective_at": null,
-        "derivation": "explicit",
-        "source_id": "0cf254dd4f2b3d8a6195a6fd",
-        "source_revision": "5c9941a38f000f77ad8b8511",
-        "reference_source": null
-       },
-       {
-        "field_path": "/alternative_services",
-        "quote": "노사는 13일 오전 3시 30분에 2026년도 임금 교섭에서 잠정합의안을 도출하고 이날 하루 동안 첫차 운행부터 예정된 경고 파업 계획을 철회하기로 했다.",
-        "source_part": "body",
-        "effective_at": null,
-        "derivation": "explicit",
-        "source_id": "0cf254dd4f2b3d8a6195a6fd",
-        "source_revision": "5c9941a38f000f77ad8b8511",
-        "reference_source": null
-       },
-       {
-        "field_path": "/start",
-        "quote": "노사는 13일 오전 3시 30분에 2026년도 임금 교섭에서 잠정합의안을 도출하고 이날 하루 동안 첫차 운행부터 예정된 경고 파업 계획을 철회하기로 했다.",
-        "source_part": "body",
-        "effective_at": null,
-        "derivation": "explicit",
-        "source_id": "0cf254dd4f2b3d8a6195a6fd",
-        "source_revision": "5c9941a38f000f77ad8b8511",
-        "reference_source": null
-       },
-       {
-        "field_path": "/end",
-        "quote": "노사는 13일 오전 3시 30분에 2026년도 임금 교섭에서 잠정합의안을 도출하고 이날 하루 동안 첫차 운행부터 예정된 경고 파업 계획을 철회하기로 했다.",
-        "source_part": "body",
-        "effective_at": null,
-        "derivation": "explicit",
-        "source_id": "0cf254dd4f2b3d8a6195a6fd",
-        "source_revision": "5c9941a38f000f77ad8b8511",
-        "reference_source": null
-       }
-      ],
-      "review_reasons": []
-     }
-    }
-   ],
-   "events": {
-    "schema_version": "1.0",
-    "article_relevance": "unrelated",
-    "processing_status": "success",
-    "source": {
-     "source_id": "0cf254dd4f2b3d8a6195a6fd",
-     "source_url": "https://www.hankyung.com/article/202611133984h",
-     "source_revision": "5c9941a38f000f77ad8b8511",
-     "published_at": "2026-11-13T05:33:03+09:00",
-     "updated_at": null,
-     "collected_at": "2026-11-16T05:07:45.390169+09:00"
-    },
-    "events": [],
-    "review_reasons": []
-   }
-  },
-  {
-   "strikes": [
-    {
-     "article_relevance": "unrelated",
-     "transport_mode": "unknown",
-     "affected_regions": [],
-     "affected_routes": [],
-     "start": {
-      "raw": null,
-      "date": null,
-      "time": null,
-      "timezone": "Asia/Seoul",
-      "basis": "unknown",
-      "assertion": "unknown",
-      "open_ended": null
-     },
-     "end": {
-      "raw": null,
-      "date": null,
-      "time": null,
-      "timezone": "Asia/Seoul",
-      "basis": "unknown",
-      "assertion": "unknown",
-      "open_ended": null
-     },
-     "strike_status": {
-      "value": "unknown",
-      "conditions": [],
-      "scope_raw": null,
-      "effective_at": null
-     },
-     "service_status": [],
-     "normal_service_exceptions": [],
-     "alternative_services": [],
-     "evidence_and_timestamps": {
       "source_url": "https://www.newspim.com/news/view/20261109000918",
       "published_at": "2026-11-09T14:52:00+09:00",
       "updated_at": "2026-11-09T14:52:00+09:00",
-      "collected_at": "2026-11-16T05:07:47.392801+09:00",
+      "collected_at": "2026-11-16T09:57:21.088970+09:00",
       "field_evidence": [
        {
         "field_path": "/article_relevance",
@@ -10633,7 +10181,7 @@
      "source_revision": "69a4a1c9ccf732211d987651",
      "published_at": "2026-11-09T14:52:00+09:00",
      "updated_at": "2026-11-09T14:52:00+09:00",
-     "collected_at": "2026-11-16T05:07:47.392801+09:00"
+     "collected_at": "2026-11-16T09:57:21.088970+09:00"
     },
     "events": [
      {
@@ -10698,8 +10246,8 @@
  "transportReferences": [],
  "extractionFailures": [
   {
-   "source_url": "https://www.newsis.com/view/NISX20261113_0003866370",
-   "status": "body_fetch_failed"
+   "source_url": "https://www.fnnews.com/news/202611131042338454",
+   "status": "validation_failed"
   },
   {
    "source_url": "http://www.metroseoul.co.kr/article/20261112500088",
@@ -10712,6 +10260,10 @@
   {
    "source_url": "https://www.nocutnews.co.kr/news/6606915?utm_source=naver&utm_medium=article&utm_campaign=20261114160234",
    "status": "policy_unavailable"
+  },
+  {
+   "source_url": "https://www.newsis.com/view/NISX20261113_0003866370",
+   "status": "body_fetch_failed"
   }
  ]
 }
