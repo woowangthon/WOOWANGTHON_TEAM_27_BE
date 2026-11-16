@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-16T23:31:15.726269+09:00",
+ "generatedAt": "2026-11-17T08:41:03.345972+09:00",
  "windowDays": 14,
  "queries": [
   "버스 파업",
@@ -17,8 +17,18 @@
    "url": "https://www.ncloud.com/product/applicationService/naverApiHub"
   }
  ],
- "articles": 286,
+ "articles": 285,
  "searchResults": [
+  {
+   "url": "https://www.hankookilbo.com/news/article/A2026111415170004621?did=NA",
+   "title": "[가만한 당신] 이주농업노동자들의 '드래곤 레이디'",
+   "query": "버스 파업"
+  },
+  {
+   "url": "https://www.news2day.co.kr/article/20261116500395",
+   "title": "한화오션 하청노조 간부 3명 단식투쟁 돌입…원청교섭 확대 요구",
+   "query": "버스 파업"
+  },
   {
    "url": "http://www.finomy.com/news/articleView.html?idxno=266831",
    "title": "한화오션 노사, 교섭 범위 '공방'···하청노조 단식 돌입",
@@ -260,14 +270,9 @@
    "query": "버스 파업"
   },
   {
-   "url": "https://www.newspim.com/news/view/20261110001113",
-   "title": "서울 지하철 멈추나...협상 결렬 시 25일부터 노조 무기한 파업",
-   "query": "버스 파업"
-  },
-  {
-   "url": "https://www.ajunews.com/view/20261110143739405",
-   "title": "\"사람 줄이면서 안전 강화?\"…서울교통공사 노조, 25일 파업 예고",
-   "query": "버스 파업"
+   "url": "https://www.joongang.co.kr/article/25479168",
+   "title": "체코, 다시 벨벳혁명",
+   "query": "지하철 파업"
   },
   {
    "url": "https://www.kgnews.co.kr/news/article.html?no=919796",
@@ -440,11 +445,6 @@
    "query": "지하철 파업"
   },
   {
-   "url": "https://www.huffingtonpost.kr/article/261995",
-   "title": "철도노조 “12월10일부터 무기한 총파업”, 서울 지하철도 25일부터 파업...",
-   "query": "지하철 파업"
-  },
-  {
    "url": "https://www.asiatoday.co.kr/kn/view.php?key=20261116010006161",
    "title": "SR 노조도 “교섭 결렬 땐 파업”…통합 서두른 고속철도 ‘비상’",
    "query": "철도 파업"
@@ -560,13 +560,13 @@
    "query": "철도 파업"
   },
   {
-   "url": "https://www.mediapen.com/news/view/1137501",
-   "title": "철도노조, 서울역서 빗속 집회…내달 10일 총파업 예고",
+   "url": "https://www.ytn.co.kr/_ln/0102_202611141556338010",
+   "title": "철도노조 결의대회 \"다음 달 총파업\"",
    "query": "철도 파업"
   },
   {
-   "url": "https://www.ytn.co.kr/_ln/0102_202611141556338010",
-   "title": "철도노조 결의대회 \"다음 달 총파업\"",
+   "url": "https://www.mediapen.com/news/view/1137501",
+   "title": "철도노조, 서울역서 빗속 집회…내달 10일 총파업 예고",
    "query": "철도 파업"
   },
   {
@@ -740,13 +740,13 @@
    "query": "파업 예고 운행"
   },
   {
-   "url": "https://www.sidae.com/article/2026111307595653897",
-   "title": "공항철도 노사 임금협상 극적 타결…오늘 첫차부터 정상 운행",
+   "url": "https://www.kihoilbo.co.kr/news/articleView.html?idxno=3040834",
+   "title": "공항철도 노사 임금협상 극적 타결…일반·직통열차 정상 운행",
    "query": "파업 예고 운행"
   },
   {
-   "url": "https://www.kihoilbo.co.kr/news/articleView.html?idxno=3040834",
-   "title": "공항철도 노사 임금협상 극적 타결…일반·직통열차 정상 운행",
+   "url": "https://www.sidae.com/article/2026111307595653897",
+   "title": "공항철도 노사 임금협상 극적 타결…오늘 첫차부터 정상 운행",
    "query": "파업 예고 운행"
   },
   {
@@ -995,19 +995,29 @@
    "query": "집회 교통 통제"
   },
   {
-   "url": "https://www.ytn.co.kr/_ln/0103_202611071651150128",
-   "title": "숭례문·여의도서 전국 노동자 대회...곳곳 교통통제",
+   "url": "http://www.inews24.com/view/2023705",
+   "title": "서울 도심 곳곳 집회…국힘 '특검법 규탄'·양대노총 '특구법 철회' [종...",
    "query": "집회 교통 통제"
   },
   {
-   "url": "http://www.inews24.com/view/2023705",
-   "title": "서울 도심 곳곳 집회…국힘 '특검법 규탄'·양대노총 '특구법 철회' [종...",
+   "url": "https://www.ytn.co.kr/_ln/0103_202611071651150128",
+   "title": "숭례문·여의도서 전국 노동자 대회...곳곳 교통통제",
    "query": "집회 교통 통제"
   },
   {
    "url": "https://www.jnilbo.com/news/articleView.html?idxno=90000080471",
    "title": "서울 곳곳 집회…양대노총 '특구법 철회'·국힘 '특검법 규탄'",
    "query": "집회 교통 통제"
+  },
+  {
+   "url": "https://www.donga.com/news/Society/article/all/20261117/135035073/2",
+   "title": "2㎞마다 구급차 1대 배치… 모범운전자 250명이 안전 관리",
+   "query": "마라톤 도로 통제"
+  },
+  {
+   "url": "https://www.donga.com/news/Society/article/all/20261117/135035075/2",
+   "title": "청라하늘대교 넘어… 22일 ‘바다 위’ 달린다",
+   "query": "마라톤 도로 통제"
   },
   {
    "url": "http://www.incheonin.com/news/articleView.html?idxno=122320",
@@ -1250,16 +1260,6 @@
    "query": "마라톤 도로 통제"
   },
   {
-   "url": "https://www.segye.com/newsView/20261110512660?OutUrl=naver",
-   "title": "‘뛰러 왔는데 걷기만?’…러너 10명 중 9명 도심 마라톤 축소 찬성",
-   "query": "마라톤 도로 통제"
-  },
-  {
-   "url": "https://www.ggilbo.com/news/articleView.html?idxno=1192301",
-   "title": "새해 첫날 맨몸으로…선양 맨몸마라톤 11회째",
-   "query": "마라톤 도로 통제"
-  },
-  {
    "url": "https://www.ekn.kr/web/view.php?key=20261116026020442",
    "title": "[패트롤] 고양시-광명시-시흥시-양평군-하남시",
    "query": "축제 버스 우회"
@@ -1410,13 +1410,13 @@
    "query": "축제 버스 우회"
   },
   {
-   "url": "https://news.cpbc.co.kr/article/1176845?division=NAVER",
-   "title": "서울 WYD, 월드컵경기장서 교황 맞는다…밤샘기도는 서울공항",
+   "url": "https://www.catholictimes.org/article/20261105500027",
+   "title": "2027 서울 WYD 폐막미사, 8월 8일 서울공항에서 봉헌",
    "query": "축제 버스 우회"
   },
   {
-   "url": "https://www.catholictimes.org/article/20261105500027",
-   "title": "2027 서울 WYD 폐막미사, 8월 8일 서울공항에서 봉헌",
+   "url": "https://news.cpbc.co.kr/article/1176845?division=NAVER",
+   "title": "서울 WYD, 월드컵경기장서 교황 맞는다…밤샘기도는 서울공항",
    "query": "축제 버스 우회"
   },
   {
@@ -1443,31 +1443,24 @@
    "url": "http://www.yonhapnewstv.co.kr/news/MYH20261103130705nEN",
    "title": "[핫클릭] 도심 마라톤 교통 혼잡 논란…시민 피로감 폭발",
    "query": "축제 버스 우회"
-  },
-  {
-   "url": "https://www.segye.com/newsView/20261102511353?OutUrl=naver",
-   "title": "달리는 이들에게는 축제, 주민은 고통…美서는 15년 만에 코스 바꾸기도",
-   "query": "축제 버스 우회"
   }
  ],
  "strikes": [
   {
-   "id": "7e1f4e20e6bfa3f2",
+   "id": "e57ab38d5ddb76d7",
    "mode": "subway",
    "operator": "서울교통공사",
    "regions": [
-    "서울",
-    "수도권",
-    "전국"
+    "서울"
    ],
    "status": "scheduled",
-   "quote": "오는 25일부터",
+   "quote": "총파업을 예고한 서울교통공사 노동조합",
    "start": "2026-11-25",
    "dateQuote": "오는 25일부터",
-   "articleTitle": "전국 철도·지하철 줄파업 왜? 인력부족에 안전까지 '흔들'",
-   "url": "https://www.labortoday.co.kr/news/articleView.html?idxno=237741",
-   "publishedAt": "2026-11-16T06:34:00.000",
-   "sourceCount": 13,
+   "articleTitle": "파업 예고한 서울 지하철 노조 \"17일 총회…투쟁의지 결집\"",
+   "url": "https://www.newsis.com/view/NISX20261116_0003870171",
+   "publishedAt": "2026-11-16T16:15:00.000",
+   "sourceCount": 11,
    "model": "gemini-3.5-flash-lite"
   },
   {
@@ -7606,7 +7599,7 @@
   },
   {
    "assertion": "planned",
-   "checked_at": "2026-11-16T23:30:54.753167+09:00",
+   "checked_at": "2026-11-17T08:40:43.905252+09:00",
    "conflict": false,
    "demo": false,
    "disruption_confirmed": true,
@@ -8005,7 +7998,7 @@
   },
   {
    "assertion": "planned",
-   "checked_at": "2026-11-16T23:30:54.753167+09:00",
+   "checked_at": "2026-11-17T08:40:43.905252+09:00",
    "conflict": false,
    "demo": false,
    "disruption_confirmed": false,
@@ -8194,7 +8187,7 @@
       "source_url": "https://www.yna.co.kr/view/AKR20261116113500052?input=1195m",
       "published_at": "2026-11-16T14:59:40+09:00",
       "updated_at": "2026-11-16T14:59:40+09:00",
-      "collected_at": "2026-11-16T23:30:45.133460+09:00",
+      "collected_at": "2026-11-17T08:40:37.234259+09:00",
       "field_evidence": [
        {
         "field_path": "/article_relevance",
@@ -8311,7 +8304,7 @@
      "source_revision": "864a12498bab209b3f3be267",
      "published_at": "2026-11-16T14:59:40+09:00",
      "updated_at": "2026-11-16T14:59:40+09:00",
-     "collected_at": "2026-11-16T23:30:45.133460+09:00"
+     "collected_at": "2026-11-17T08:40:37.234259+09:00"
     },
     "events": [],
     "review_reasons": []
@@ -8355,7 +8348,7 @@
       "source_url": "https://www.newsis.com/view/NISX20261116_0003870171",
       "published_at": "2026-11-16T17:20:24+09:00",
       "updated_at": null,
-      "collected_at": "2026-11-16T23:30:47.933595+09:00",
+      "collected_at": "2026-11-17T08:40:39.837731+09:00",
       "field_evidence": [
        {
         "field_path": "/article_relevance",
@@ -8472,7 +8465,7 @@
      "source_revision": "83f82b927f5ea71b62290ec8",
      "published_at": "2026-11-16T17:20:24+09:00",
      "updated_at": null,
-     "collected_at": "2026-11-16T23:30:47.933595+09:00"
+     "collected_at": "2026-11-17T08:40:39.837731+09:00"
     },
     "events": [],
     "review_reasons": []
@@ -8565,7 +8558,7 @@
       "source_url": "https://www.imaeil.com/page/view/2026111417131297761",
       "published_at": null,
       "updated_at": null,
-      "collected_at": "2026-11-16T23:30:54.753167+09:00",
+      "collected_at": "2026-11-17T08:40:43.905252+09:00",
       "field_evidence": [
        {
         "field_path": "/article_relevance",
@@ -8909,7 +8902,7 @@
       "source_url": "https://www.imaeil.com/page/view/2026111417131297761",
       "published_at": null,
       "updated_at": null,
-      "collected_at": "2026-11-16T23:30:54.753167+09:00",
+      "collected_at": "2026-11-17T08:40:43.905252+09:00",
       "field_evidence": [
        {
         "field_path": "/article_relevance",
@@ -9029,7 +9022,7 @@
      "source_revision": "79344459f900a196bff2714a",
      "published_at": null,
      "updated_at": null,
-     "collected_at": "2026-11-16T23:30:54.753167+09:00"
+     "collected_at": "2026-11-17T08:40:43.905252+09:00"
     },
     "events": [],
     "review_reasons": []
@@ -9073,7 +9066,7 @@
       "source_url": "https://www.fnnews.com/news/202611101525402414",
       "published_at": "2026-11-10T15:41:44+09:00",
       "updated_at": "2026-11-10T15:41:44+09:00",
-      "collected_at": "2026-11-16T23:30:59.825262+09:00",
+      "collected_at": "2026-11-17T08:40:49.029422+09:00",
       "field_evidence": [
        {
         "field_path": "/article_relevance",
@@ -9190,7 +9183,7 @@
      "source_revision": "e4db1223ba466bbc3a5481ca",
      "published_at": "2026-11-10T15:41:44+09:00",
      "updated_at": "2026-11-10T15:41:44+09:00",
-     "collected_at": "2026-11-16T23:30:59.825262+09:00"
+     "collected_at": "2026-11-17T08:40:49.029422+09:00"
     },
     "events": [],
     "review_reasons": []
@@ -9234,7 +9227,7 @@
       "source_url": "https://www.newspim.com/news/view/20261113001135",
       "published_at": "2026-11-14T07:00:00+09:00",
       "updated_at": "2026-11-14T09:07:00+09:00",
-      "collected_at": "2026-11-16T23:31:04.552880+09:00",
+      "collected_at": "2026-11-17T08:40:53.731704+09:00",
       "field_evidence": [
        {
         "field_path": "/article_relevance",
@@ -9351,7 +9344,7 @@
      "source_revision": "3452d940cd7d9991eaaed8e6",
      "published_at": "2026-11-14T07:00:00+09:00",
      "updated_at": "2026-11-14T09:07:00+09:00",
-     "collected_at": "2026-11-16T23:31:04.552880+09:00"
+     "collected_at": "2026-11-17T08:40:53.731704+09:00"
     },
     "events": [
      {
@@ -9814,7 +9807,7 @@
       "source_url": "https://www.newsis.com/view/NISX20261113_0003867649",
       "published_at": "2026-11-13T17:24:24+09:00",
       "updated_at": null,
-      "collected_at": "2026-11-16T23:31:05.626970+09:00",
+      "collected_at": "2026-11-17T08:40:55.139196+09:00",
       "field_evidence": [
        {
         "field_path": "/article_relevance",
@@ -9931,7 +9924,7 @@
      "source_revision": "d5a52337e59318f994fdb8fa",
      "published_at": "2026-11-13T17:24:24+09:00",
      "updated_at": null,
-     "collected_at": "2026-11-16T23:31:05.626970+09:00"
+     "collected_at": "2026-11-17T08:40:55.139196+09:00"
     },
     "events": [],
     "review_reasons": [
@@ -9977,7 +9970,7 @@
       "source_url": "https://www.newsis.com/view/NISX20261114_0003868135",
       "published_at": "2026-11-14T15:42:23+09:00",
       "updated_at": null,
-      "collected_at": "2026-11-16T23:31:07.619094+09:00",
+      "collected_at": "2026-11-17T08:40:56.320652+09:00",
       "field_evidence": [
        {
         "field_path": "/article_relevance",
@@ -10094,7 +10087,7 @@
      "source_revision": "4d776344140d5072dcee4499",
      "published_at": "2026-11-14T15:42:23+09:00",
      "updated_at": null,
-     "collected_at": "2026-11-16T23:31:07.619094+09:00"
+     "collected_at": "2026-11-17T08:40:56.320652+09:00"
     },
     "events": [],
     "review_reasons": []
@@ -10138,7 +10131,7 @@
       "source_url": "https://www.newspim.com/news/view/20261109000918",
       "published_at": "2026-11-09T14:52:00+09:00",
       "updated_at": "2026-11-09T14:52:00+09:00",
-      "collected_at": "2026-11-16T23:31:12.232510+09:00",
+      "collected_at": "2026-11-17T08:41:01.377057+09:00",
       "field_evidence": [
        {
         "field_path": "/article_relevance",
@@ -10255,7 +10248,7 @@
      "source_revision": "69a4a1c9ccf732211d987651",
      "published_at": "2026-11-09T14:52:00+09:00",
      "updated_at": "2026-11-09T14:52:00+09:00",
-     "collected_at": "2026-11-16T23:31:12.232510+09:00"
+     "collected_at": "2026-11-17T08:41:01.377057+09:00"
     },
     "events": [
      {
