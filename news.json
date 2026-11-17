@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-17T08:41:03.345972+09:00",
+ "generatedAt": "2026-11-17T12:38:16.416747+09:00",
  "windowDays": 14,
  "queries": [
   "버스 파업",
@@ -17,8 +17,28 @@
    "url": "https://www.ncloud.com/product/applicationService/naverApiHub"
   }
  ],
- "articles": 285,
+ "articles": 283,
  "searchResults": [
+  {
+   "url": "https://www.newspim.com/news/view/20261117000638",
+   "title": "유주동 시의원, 노사민정협의회 운영 부실…임금체계 갈등 해결 못해 비...",
+   "query": "버스 파업"
+  },
+  {
+   "url": "https://www.pointdaily.co.kr/news/articleView.html?idxno=326268",
+   "title": "유주동 서울시의원, \"노사민정협의회 6년간 회의 1회… 운영 정상화해야...",
+   "query": "버스 파업"
+  },
+  {
+   "url": "https://kpenews.com/View.aspx?No=4315718",
+   "title": "통합 대한항공 D-30..운임 규제·보잉 지연·조종사 서열 '삼중 시험대'",
+   "query": "버스 파업"
+  },
+  {
+   "url": "https://www.seoul.co.kr/news/publicnews/local_govern/smc_movement/2026/11/17/20261117500039?wlog_tag3=naver",
+   "title": "유주동 서울시의원 “6년간 서면회의 1번뿐”… 시장이 위원장인 노사민...",
+   "query": "버스 파업"
+  },
   {
    "url": "https://www.hankookilbo.com/news/article/A2026111415170004621?did=NA",
    "title": "[가만한 당신] 이주농업노동자들의 '드래곤 레이디'",
@@ -250,24 +270,34 @@
    "query": "버스 파업"
   },
   {
-   "url": "https://www.kihoilbo.co.kr/news/articleView.html?idxno=3040533",
-   "title": "[길 잃은 시내버스 공공관리제] 1-2. 공공관리제 확대는커녕 현상 유지...",
-   "query": "버스 파업"
+   "url": "https://www.newspim.com/news/view/20261117000730",
+   "title": "파업 예고한 서울 지하철 노조 조합원 총회",
+   "query": "지하철 파업"
   },
   {
-   "url": "https://www.wikitree.co.kr/articles/1173465",
-   "title": "출퇴근길 어쩌나…서울 지하철, '이날'부터 무기한 총파업 예고됐다",
-   "query": "버스 파업"
+   "url": "https://magazine.hankyung.com/business/article/202611171644b",
+   "title": "인력감축 철회·임금 인상 안하면 무기한 총파업",
+   "query": "지하철 파업"
   },
   {
-   "url": "http://www.inews24.com/view/2024621",
-   "title": "서울지하철 1·2노조, 25일부터 '총파업' 예고",
-   "query": "버스 파업"
+   "url": "https://www.news1.kr/society/incident-accident/6356418",
+   "title": "서울 지하철 25일 전면 무기한 총파업 예고…\"인력 감축 철회, 임금 인상...",
+   "query": "지하철 파업"
   },
   {
-   "url": "https://www.mt.co.kr/policy/2026/11/10/2026111014101537583",
-   "title": "\"육아휴직 대체인력도 못 뽑게 해\"…서울지하철 노조, 25일 총파업 예고",
-   "query": "버스 파업"
+   "url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=504955",
+   "title": "서울교통공사 노조, 25일 총파업 예고…인력감축 철회 촉구",
+   "query": "지하철 파업"
+  },
+  {
+   "url": "https://www.slist.kr/news/articleView.html?idxno=782434",
+   "title": "서울 지하철 노조, 25일 무기한 파업 예고…\"인력감축 철회·임금 3.5% 인...",
+   "query": "지하철 파업"
+  },
+  {
+   "url": "https://www.yna.co.kr/view/AKR20261117078100004?input=1195m",
+   "title": "'25일 서울 지하철 총파업' 예고한 노조 \"인력감축 철회·임금 인상\"",
+   "query": "지하철 파업"
   },
   {
    "url": "https://www.joongang.co.kr/article/25479168",
@@ -420,31 +450,6 @@
    "query": "지하철 파업"
   },
   {
-   "url": "https://www.news1.kr/world/europe/6351163",
-   "title": "스페인 노동자 400만 총파업 돌입…유로존 위기 이후 14년만",
-   "query": "지하철 파업"
-  },
-  {
-   "url": "https://www.edaily.co.kr/News/Read?newsId=01108646645645064&mediaCodeNo=257&utm_source=naver&utm_medium=referral&utm_campaign=news_syndication&utm_content=original_article",
-   "title": "월세가 청년 월급의 99%…스페인, 주택난에 14년 만의 총파업",
-   "query": "지하철 파업"
-  },
-  {
-   "url": "https://www.electimes.com/news/articleView.html?idxno=374667",
-   "title": "철도·지하철 노사 갈등 고조…연말 파업·준법투쟁 예고",
-   "query": "지하철 파업"
-  },
-  {
-   "url": "https://www.khan.co.kr/article/202611112103015",
-   "title": "철도·지하철·학교 급식까지…공공부문 ‘연말 줄파업’ 예고",
-   "query": "지하철 파업"
-  },
-  {
-   "url": "https://newscham.net/130158/",
-   "title": "석 달에 심리 한 번, 한덕수 구속은 20일 끝난다",
-   "query": "지하철 파업"
-  },
-  {
    "url": "https://www.asiatoday.co.kr/kn/view.php?key=20261116010006161",
    "title": "SR 노조도 “교섭 결렬 땐 파업”…통합 서두른 고속철도 ‘비상’",
    "query": "철도 파업"
@@ -540,13 +545,13 @@
    "query": "철도 파업"
   },
   {
-   "url": "https://www.edaily.co.kr/News/Read?newsId=02738806645645720&mediaCodeNo=257&utm_source=naver&utm_medium=referral&utm_campaign=news_syndication&utm_content=original_article",
-   "title": "철도노조 수천명 빗속 집회 열어…내달 10일 총파업 재차 예고",
+   "url": "https://www.nocutnews.co.kr/news/6606915?utm_source=naver&utm_medium=article&utm_campaign=20261114160234",
+   "title": "철도노조 총력결의…\"인력 감축 고집하면 12월 10일 총파업\"",
    "query": "철도 파업"
   },
   {
-   "url": "https://www.nocutnews.co.kr/news/6606915?utm_source=naver&utm_medium=article&utm_campaign=20261114160234",
-   "title": "철도노조 총력결의…\"인력 감축 고집하면 12월 10일 총파업\"",
+   "url": "https://www.edaily.co.kr/News/Read?newsId=02738806645645720&mediaCodeNo=257&utm_source=naver&utm_medium=referral&utm_campaign=news_syndication&utm_content=original_article",
+   "title": "철도노조 수천명 빗속 집회 열어…내달 10일 총파업 재차 예고",
    "query": "철도 파업"
   },
   {
@@ -657,7 +662,7 @@
   {
    "url": "http://www.incheonnews.com/news/articleView.html?idxno=443041",
    "title": "공항철도 2007년 개통 후 첫 파업 위기 넘겨...임금 4.9% 인상･첫 근속...",
-   "query": "철도 파업"
+   "query": "파업 예고 운행"
   },
   {
    "url": "https://www.newsclaim.co.kr/news/articleView.html?idxno=3082571",
@@ -782,21 +787,6 @@
   {
    "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8711741&ref=A",
    "title": "‘파업 예고’ 공항철도 협상 타결…열차 정상 운행",
-   "query": "파업 예고 운행"
-  },
-  {
-   "url": "https://www.etoday.co.kr/news/view/2647642",
-   "title": "공항철도 노조 파업 철회…열차 정상 운행",
-   "query": "파업 예고 운행"
-  },
-  {
-   "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008843989&plink=ORI&cooper=NAVER",
-   "title": "공항철도 노사 극적 타결…열차 정상 운행",
-   "query": "파업 예고 운행"
-  },
-  {
-   "url": "https://www.kukinews.com/article/view/kuk202611130005",
-   "title": "공항철도 노사 임금협상 극적 타결…노조 파업 철회",
    "query": "파업 예고 운행"
   },
   {
@@ -1008,6 +998,21 @@
    "url": "https://www.jnilbo.com/news/articleView.html?idxno=90000080471",
    "title": "서울 곳곳 집회…양대노총 '특구법 철회'·국힘 '특검법 규탄'",
    "query": "집회 교통 통제"
+  },
+  {
+   "url": "https://www.incheontoday.com/news/articleView.html?idxno=326480",
+   "title": "도로 10시간 막는데 열흘 전 통보···영종 주민 \"인천마라톤 일방 추진...",
+   "query": "마라톤 도로 통제"
+  },
+  {
+   "url": "https://www.siminsori.com/news/articleView.html?idxno=402420",
+   "title": "[데스크칼럼] 2026 인천마라톤, 청라하늘대교를 넘어 시민의 마음까지",
+   "query": "마라톤 도로 통제"
+  },
+  {
+   "url": "https://www.siminsori.com/news/articleView.html?idxno=402417",
+   "title": "영종총연 \"인천마라톤 주민 사전협의 없이 추진\"…교통통제·지역경제 ...",
+   "query": "마라톤 도로 통제"
   },
   {
    "url": "https://www.donga.com/news/Society/article/all/20261117/135035073/2",
@@ -1245,21 +1250,6 @@
    "query": "마라톤 도로 통제"
   },
   {
-   "url": "https://news.bbsi.co.kr/news/articleView.html?idxno=4117788",
-   "title": "고양시, 15일 가민런코리아 하프마라톤 개최…주요 도로 교통 통제",
-   "query": "마라톤 도로 통제"
-  },
-  {
-   "url": "https://www.sedaily.com/article/20112693?ref=naver",
-   "title": "“뭐야, 이번 주말도?” 도로 꽉 막더니 결국…러너 10명 중 9명 등돌렸...",
-   "query": "마라톤 도로 통제"
-  },
-  {
-   "url": "https://www.lawissue.co.kr/view.php?ud=202611101807019857204ead0791_12",
-   "title": "인피니트 오퍼튜니티·동서남북, 러너 508명 설문…89% \"서울 도심 마라...",
-   "query": "마라톤 도로 통제"
-  },
-  {
    "url": "https://www.ekn.kr/web/view.php?key=20261116026020442",
    "title": "[패트롤] 고양시-광명시-시흥시-양평군-하남시",
    "query": "축제 버스 우회"
@@ -1410,13 +1400,13 @@
    "query": "축제 버스 우회"
   },
   {
-   "url": "https://www.catholictimes.org/article/20261105500027",
-   "title": "2027 서울 WYD 폐막미사, 8월 8일 서울공항에서 봉헌",
+   "url": "https://news.cpbc.co.kr/article/1176845?division=NAVER",
+   "title": "서울 WYD, 월드컵경기장서 교황 맞는다…밤샘기도는 서울공항",
    "query": "축제 버스 우회"
   },
   {
-   "url": "https://news.cpbc.co.kr/article/1176845?division=NAVER",
-   "title": "서울 WYD, 월드컵경기장서 교황 맞는다…밤샘기도는 서울공항",
+   "url": "https://www.catholictimes.org/article/20261105500027",
+   "title": "2027 서울 WYD 폐막미사, 8월 8일 서울공항에서 봉헌",
    "query": "축제 버스 우회"
   },
   {
@@ -1447,20 +1437,35 @@
  ],
  "strikes": [
   {
-   "id": "e57ab38d5ddb76d7",
+   "id": "dfdc327cc5842966",
    "mode": "subway",
    "operator": "서울교통공사",
    "regions": [
     "서울"
    ],
    "status": "scheduled",
-   "quote": "총파업을 예고한 서울교통공사 노동조합",
+   "quote": "파업 예고한 서울 지하철 노조",
    "start": "2026-11-25",
-   "dateQuote": "오는 25일부터",
-   "articleTitle": "파업 예고한 서울 지하철 노조 \"17일 총회…투쟁의지 결집\"",
-   "url": "https://www.newsis.com/view/NISX20261116_0003870171",
-   "publishedAt": "2026-11-16T16:15:00.000",
-   "sourceCount": 11,
+   "dateQuote": "오는 25일",
+   "articleTitle": "파업 예고한 서울 지하철 노조 조합원 총회",
+   "url": "https://www.newspim.com/news/view/20261117000730",
+   "publishedAt": "2026-11-17T12:17:00.000",
+   "sourceCount": 14,
+   "model": "gemini-3.5-flash-lite"
+  },
+  {
+   "id": "552a3889fd19d64f",
+   "mode": "bus",
+   "operator": "",
+   "regions": [
+    "서울"
+   ],
+   "status": "historical",
+   "quote": "시내버스 파업 및 재파업 위기",
+   "articleTitle": "유주동 서울시의원, \"노사민정협의회 6년간 회의 1회… 운영 정상화해야...",
+   "url": "https://www.pointdaily.co.kr/news/articleView.html?idxno=326268",
+   "publishedAt": "2026-11-17T10:50:00.000",
+   "sourceCount": 2,
    "model": "gemini-3.5-flash-lite"
   },
   {
@@ -1511,7 +1516,7 @@
    "articleTitle": "철도노조, 서울 도심서 결의대회…다음 달 총파업 예고",
    "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8712905&ref=A",
    "publishedAt": "2026-11-14T16:00:00.000",
-   "sourceCount": 11,
+   "sourceCount": 10,
    "model": "gemini-3.1-flash-lite"
   },
   {
@@ -1529,7 +1534,7 @@
    "articleTitle": "공항철도 노사 임금협상 타결…노조 파업계획 철회",
    "url": "https://www.obsnews.co.kr/news/articleView.html?idxno=1543710",
    "publishedAt": "2026-11-13T20:08:00.000",
-   "sourceCount": 39,
+   "sourceCount": 36,
    "model": "gemini-3.5-flash-lite"
   },
   {
@@ -7599,7 +7604,7 @@
   },
   {
    "assertion": "planned",
-   "checked_at": "2026-11-17T08:40:43.905252+09:00",
+   "checked_at": "2026-11-17T12:37:53.212394+09:00",
    "conflict": false,
    "demo": false,
    "disruption_confirmed": true,
@@ -7998,7 +8003,7 @@
   },
   {
    "assertion": "planned",
-   "checked_at": "2026-11-17T08:40:43.905252+09:00",
+   "checked_at": "2026-11-17T12:37:53.212394+09:00",
    "conflict": false,
    "demo": false,
    "disruption_confirmed": false,
@@ -8184,109 +8189,109 @@
      "normal_service_exceptions": [],
      "alternative_services": [],
      "evidence_and_timestamps": {
-      "source_url": "https://www.yna.co.kr/view/AKR20261116113500052?input=1195m",
-      "published_at": "2026-11-16T14:59:40+09:00",
-      "updated_at": "2026-11-16T14:59:40+09:00",
-      "collected_at": "2026-11-17T08:40:37.234259+09:00",
+      "source_url": "https://www.newspim.com/news/view/20261117000638",
+      "published_at": "2026-11-17T11:34:00+09:00",
+      "updated_at": "2026-11-17T11:34:00+09:00",
+      "collected_at": "2026-11-17T12:37:47.319038+09:00",
       "field_evidence": [
        {
         "field_path": "/article_relevance",
-        "quote": "공투위는 \"고공투쟁이 끝이 아니라 시작이었듯 단식투쟁도 끝이 아닌 시작\"이라며 \"이 경고를 한화오션이 무시한다면 공동 파업투쟁 등 또 다른 투쟁을 감행할 것\"이라고 밝혔다.",
+        "quote": "그 사이 대법원 통상임금 판결 이후 임금체계 갈등, 올해 시내버스 파업과 9월 재파업 위기, 개정 노조법 시행, 서소문고가 붕괴로 세 명이 숨진 노동안전 문제, 지방노동감독관 도입까지 시급한 노동현안이 끊이지 않았지만 협의회가 의제로 올린 것은 하나도 없다는 것이다.",
         "source_part": "body",
         "effective_at": null,
         "derivation": "explicit",
-        "source_id": "f8b2187839e29d8189d59132",
-        "source_revision": "864a12498bab209b3f3be267",
+        "source_id": "081bd0c6c4d5d5a6611fd1fa",
+        "source_revision": "acf49610b874560b84453bb5",
         "reference_source": null
        },
        {
         "field_path": "/transport_mode",
-        "quote": "공투위는 \"고공투쟁이 끝이 아니라 시작이었듯 단식투쟁도 끝이 아닌 시작\"이라며 \"이 경고를 한화오션이 무시한다면 공동 파업투쟁 등 또 다른 투쟁을 감행할 것\"이라고 밝혔다.",
+        "quote": "그 사이 대법원 통상임금 판결 이후 임금체계 갈등, 올해 시내버스 파업과 9월 재파업 위기, 개정 노조법 시행, 서소문고가 붕괴로 세 명이 숨진 노동안전 문제, 지방노동감독관 도입까지 시급한 노동현안이 끊이지 않았지만 협의회가 의제로 올린 것은 하나도 없다는 것이다.",
         "source_part": "body",
         "effective_at": null,
         "derivation": "explicit",
-        "source_id": "f8b2187839e29d8189d59132",
-        "source_revision": "864a12498bab209b3f3be267",
+        "source_id": "081bd0c6c4d5d5a6611fd1fa",
+        "source_revision": "acf49610b874560b84453bb5",
         "reference_source": null
        },
        {
         "field_path": "/affected_regions",
-        "quote": "공투위는 \"고공투쟁이 끝이 아니라 시작이었듯 단식투쟁도 끝이 아닌 시작\"이라며 \"이 경고를 한화오션이 무시한다면 공동 파업투쟁 등 또 다른 투쟁을 감행할 것\"이라고 밝혔다.",
+        "quote": "그 사이 대법원 통상임금 판결 이후 임금체계 갈등, 올해 시내버스 파업과 9월 재파업 위기, 개정 노조법 시행, 서소문고가 붕괴로 세 명이 숨진 노동안전 문제, 지방노동감독관 도입까지 시급한 노동현안이 끊이지 않았지만 협의회가 의제로 올린 것은 하나도 없다는 것이다.",
         "source_part": "body",
         "effective_at": null,
         "derivation": "explicit",
-        "source_id": "f8b2187839e29d8189d59132",
-        "source_revision": "864a12498bab209b3f3be267",
+        "source_id": "081bd0c6c4d5d5a6611fd1fa",
+        "source_revision": "acf49610b874560b84453bb5",
         "reference_source": null
        },
        {
         "field_path": "/affected_routes",
-        "quote": "공투위는 \"고공투쟁이 끝이 아니라 시작이었듯 단식투쟁도 끝이 아닌 시작\"이라며 \"이 경고를 한화오션이 무시한다면 공동 파업투쟁 등 또 다른 투쟁을 감행할 것\"이라고 밝혔다.",
+        "quote": "그 사이 대법원 통상임금 판결 이후 임금체계 갈등, 올해 시내버스 파업과 9월 재파업 위기, 개정 노조법 시행, 서소문고가 붕괴로 세 명이 숨진 노동안전 문제, 지방노동감독관 도입까지 시급한 노동현안이 끊이지 않았지만 협의회가 의제로 올린 것은 하나도 없다는 것이다.",
         "source_part": "body",
         "effective_at": null,
         "derivation": "explicit",
-        "source_id": "f8b2187839e29d8189d59132",
-        "source_revision": "864a12498bab209b3f3be267",
+        "source_id": "081bd0c6c4d5d5a6611fd1fa",
+        "source_revision": "acf49610b874560b84453bb5",
         "reference_source": null
        },
        {
         "field_path": "/strike_status",
-        "quote": "공투위는 \"고공투쟁이 끝이 아니라 시작이었듯 단식투쟁도 끝이 아닌 시작\"이라며 \"이 경고를 한화오션이 무시한다면 공동 파업투쟁 등 또 다른 투쟁을 감행할 것\"이라고 밝혔다.",
+        "quote": "그 사이 대법원 통상임금 판결 이후 임금체계 갈등, 올해 시내버스 파업과 9월 재파업 위기, 개정 노조법 시행, 서소문고가 붕괴로 세 명이 숨진 노동안전 문제, 지방노동감독관 도입까지 시급한 노동현안이 끊이지 않았지만 협의회가 의제로 올린 것은 하나도 없다는 것이다.",
         "source_part": "body",
         "effective_at": null,
         "derivation": "explicit",
-        "source_id": "f8b2187839e29d8189d59132",
-        "source_revision": "864a12498bab209b3f3be267",
+        "source_id": "081bd0c6c4d5d5a6611fd1fa",
+        "source_revision": "acf49610b874560b84453bb5",
         "reference_source": null
        },
        {
         "field_path": "/service_status",
-        "quote": "공투위는 \"고공투쟁이 끝이 아니라 시작이었듯 단식투쟁도 끝이 아닌 시작\"이라며 \"이 경고를 한화오션이 무시한다면 공동 파업투쟁 등 또 다른 투쟁을 감행할 것\"이라고 밝혔다.",
+        "quote": "그 사이 대법원 통상임금 판결 이후 임금체계 갈등, 올해 시내버스 파업과 9월 재파업 위기, 개정 노조법 시행, 서소문고가 붕괴로 세 명이 숨진 노동안전 문제, 지방노동감독관 도입까지 시급한 노동현안이 끊이지 않았지만 협의회가 의제로 올린 것은 하나도 없다는 것이다.",
         "source_part": "body",
         "effective_at": null,
         "derivation": "explicit",
-        "source_id": "f8b2187839e29d8189d59132",
-        "source_revision": "864a12498bab209b3f3be267",
+        "source_id": "081bd0c6c4d5d5a6611fd1fa",
+        "source_revision": "acf49610b874560b84453bb5",
         "reference_source": null
        },
        {
         "field_path": "/normal_service_exceptions",
-        "quote": "공투위는 \"고공투쟁이 끝이 아니라 시작이었듯 단식투쟁도 끝이 아닌 시작\"이라며 \"이 경고를 한화오션이 무시한다면 공동 파업투쟁 등 또 다른 투쟁을 감행할 것\"이라고 밝혔다.",
+        "quote": "그 사이 대법원 통상임금 판결 이후 임금체계 갈등, 올해 시내버스 파업과 9월 재파업 위기, 개정 노조법 시행, 서소문고가 붕괴로 세 명이 숨진 노동안전 문제, 지방노동감독관 도입까지 시급한 노동현안이 끊이지 않았지만 협의회가 의제로 올린 것은 하나도 없다는 것이다.",
         "source_part": "body",
         "effective_at": null,
         "derivation": "explicit",
-        "source_id": "f8b2187839e29d8189d59132",
-        "source_revision": "864a12498bab209b3f3be267",
+        "source_id": "081bd0c6c4d5d5a6611fd1fa",
+        "source_revision": "acf49610b874560b84453bb5",
         "reference_source": null
        },
        {
         "field_path": "/alternative_services",
-        "quote": "공투위는 \"고공투쟁이 끝이 아니라 시작이었듯 단식투쟁도 끝이 아닌 시작\"이라며 \"이 경고를 한화오션이 무시한다면 공동 파업투쟁 등 또 다른 투쟁을 감행할 것\"이라고 밝혔다.",
+        "quote": "그 사이 대법원 통상임금 판결 이후 임금체계 갈등, 올해 시내버스 파업과 9월 재파업 위기, 개정 노조법 시행, 서소문고가 붕괴로 세 명이 숨진 노동안전 문제, 지방노동감독관 도입까지 시급한 노동현안이 끊이지 않았지만 협의회가 의제로 올린 것은 하나도 없다는 것이다.",
         "source_part": "body",
         "effective_at": null,
         "derivation": "explicit",
-        "source_id": "f8b2187839e29d8189d59132",
-        "source_revision": "864a12498bab209b3f3be267",
+        "source_id": "081bd0c6c4d5d5a6611fd1fa",
+        "source_revision": "acf49610b874560b84453bb5",
         "reference_source": null
        },
        {
         "field_path": "/start",
-        "quote": "공투위는 \"고공투쟁이 끝이 아니라 시작이었듯 단식투쟁도 끝이 아닌 시작\"이라며 \"이 경고를 한화오션이 무시한다면 공동 파업투쟁 등 또 다른 투쟁을 감행할 것\"이라고 밝혔다.",
+        "quote": "그 사이 대법원 통상임금 판결 이후 임금체계 갈등, 올해 시내버스 파업과 9월 재파업 위기, 개정 노조법 시행, 서소문고가 붕괴로 세 명이 숨진 노동안전 문제, 지방노동감독관 도입까지 시급한 노동현안이 끊이지 않았지만 협의회가 의제로 올린 것은 하나도 없다는 것이다.",
         "source_part": "body",
         "effective_at": null,
         "derivation": "explicit",
-        "source_id": "f8b2187839e29d8189d59132",
-        "source_revision": "864a12498bab209b3f3be267",
+        "source_id": "081bd0c6c4d5d5a6611fd1fa",
+        "source_revision": "acf49610b874560b84453bb5",
         "reference_source": null
        },
        {
         "field_path": "/end",
-        "quote": "공투위는 \"고공투쟁이 끝이 아니라 시작이었듯 단식투쟁도 끝이 아닌 시작\"이라며 \"이 경고를 한화오션이 무시한다면 공동 파업투쟁 등 또 다른 투쟁을 감행할 것\"이라고 밝혔다.",
+        "quote": "그 사이 대법원 통상임금 판결 이후 임금체계 갈등, 올해 시내버스 파업과 9월 재파업 위기, 개정 노조법 시행, 서소문고가 붕괴로 세 명이 숨진 노동안전 문제, 지방노동감독관 도입까지 시급한 노동현안이 끊이지 않았지만 협의회가 의제로 올린 것은 하나도 없다는 것이다.",
         "source_part": "body",
         "effective_at": null,
         "derivation": "explicit",
-        "source_id": "f8b2187839e29d8189d59132",
-        "source_revision": "864a12498bab209b3f3be267",
+        "source_id": "081bd0c6c4d5d5a6611fd1fa",
+        "source_revision": "acf49610b874560b84453bb5",
         "reference_source": null
        }
       ],
@@ -8299,12 +8304,12 @@
     "article_relevance": "unrelated",
     "processing_status": "success",
     "source": {
-     "source_id": "f8b2187839e29d8189d59132",
-     "source_url": "https://www.yna.co.kr/view/AKR20261116113500052?input=1195m",
-     "source_revision": "864a12498bab209b3f3be267",
-     "published_at": "2026-11-16T14:59:40+09:00",
-     "updated_at": "2026-11-16T14:59:40+09:00",
-     "collected_at": "2026-11-17T08:40:37.234259+09:00"
+     "source_id": "081bd0c6c4d5d5a6611fd1fa",
+     "source_url": "https://www.newspim.com/news/view/20261117000638",
+     "source_revision": "acf49610b874560b84453bb5",
+     "published_at": "2026-11-17T11:34:00+09:00",
+     "updated_at": "2026-11-17T11:34:00+09:00",
+     "collected_at": "2026-11-17T12:37:47.319038+09:00"
     },
     "events": [],
     "review_reasons": []
@@ -8345,109 +8350,109 @@
      "normal_service_exceptions": [],
      "alternative_services": [],
      "evidence_and_timestamps": {
-      "source_url": "https://www.newsis.com/view/NISX20261116_0003870171",
-      "published_at": "2026-11-16T17:20:24+09:00",
-      "updated_at": null,
-      "collected_at": "2026-11-17T08:40:39.837731+09:00",
+      "source_url": "https://www.newspim.com/news/view/20261117000730",
+      "published_at": "2026-11-17T12:17:00+09:00",
+      "updated_at": "2026-11-17T12:17:00+09:00",
+      "collected_at": "2026-11-17T12:37:49.133913+09:00",
       "field_evidence": [
        {
         "field_path": "/article_relevance",
-        "quote": "[서울=뉴시스] 최동준 기자 = 서울교통공사노동조합이 10일 서울 중구 서울시의회 앞에서 현장간부결의대회를 열고 구조조정 저지, 안전인력 충원, 제도개선 등을 촉구하고 있다. 2026.11.10. [email protected]",
+        "quote": "[서울=뉴스핌] 이건주 기자 = 17일 오전 서울 중구 세종대로에서 열린 '서울교통공사 노동조합 조합원 총회'에서 조합원들이 구호를 외치고 있다. 2026.11.17 kunjoo@newspim.com",
         "source_part": "body",
         "effective_at": null,
         "derivation": "explicit",
-        "source_id": "10ef49c59781accc229ebe99",
-        "source_revision": "83f82b927f5ea71b62290ec8",
+        "source_id": "518ca74400d510e4d4907cdb",
+        "source_revision": "bfc311f7f35431f874dfdbd4",
         "reference_source": null
        },
        {
         "field_path": "/transport_mode",
-        "quote": "[서울=뉴시스] 최동준 기자 = 서울교통공사노동조합이 10일 서울 중구 서울시의회 앞에서 현장간부결의대회를 열고 구조조정 저지, 안전인력 충원, 제도개선 등을 촉구하고 있다. 2026.11.10. [email protected]",
+        "quote": "[서울=뉴스핌] 이건주 기자 = 17일 오전 서울 중구 세종대로에서 열린 '서울교통공사 노동조합 조합원 총회'에서 조합원들이 구호를 외치고 있다. 2026.11.17 kunjoo@newspim.com",
         "source_part": "body",
         "effective_at": null,
         "derivation": "explicit",
-        "source_id": "10ef49c59781accc229ebe99",
-        "source_revision": "83f82b927f5ea71b62290ec8",
+        "source_id": "518ca74400d510e4d4907cdb",
+        "source_revision": "bfc311f7f35431f874dfdbd4",
         "reference_source": null
        },
        {
         "field_path": "/affected_regions",
-        "quote": "[서울=뉴시스] 최동준 기자 = 서울교통공사노동조합이 10일 서울 중구 서울시의회 앞에서 현장간부결의대회를 열고 구조조정 저지, 안전인력 충원, 제도개선 등을 촉구하고 있다. 2026.11.10. [email protected]",
+        "quote": "[서울=뉴스핌] 이건주 기자 = 17일 오전 서울 중구 세종대로에서 열린 '서울교통공사 노동조합 조합원 총회'에서 조합원들이 구호를 외치고 있다. 2026.11.17 kunjoo@newspim.com",
         "source_part": "body",
         "effective_at": null,
         "derivation": "explicit",
-        "source_id": "10ef49c59781accc229ebe99",
-        "source_revision": "83f82b927f5ea71b62290ec8",
+        "source_id": "518ca74400d510e4d4907cdb",
+        "source_revision": "bfc311f7f35431f874dfdbd4",
         "reference_source": null
        },
        {
         "field_path": "/affected_routes",
-        "quote": "[서울=뉴시스] 최동준 기자 = 서울교통공사노동조합이 10일 서울 중구 서울시의회 앞에서 현장간부결의대회를 열고 구조조정 저지, 안전인력 충원, 제도개선 등을 촉구하고 있다. 2026.11.10. [email protected]",
+        "quote": "[서울=뉴스핌] 이건주 기자 = 17일 오전 서울 중구 세종대로에서 열린 '서울교통공사 노동조합 조합원 총회'에서 조합원들이 구호를 외치고 있다. 2026.11.17 kunjoo@newspim.com",
         "source_part": "body",
         "effective_at": null,
         "derivation": "explicit",
-        "source_id": "10ef49c59781accc229ebe99",
-        "source_revision": "83f82b927f5ea71b62290ec8",
+        "source_id": "518ca74400d510e4d4907cdb",
+        "source_revision": "bfc311f7f35431f874dfdbd4",
         "reference_source": null
        },
        {
         "field_path": "/strike_status",
-        "quote": "[서울=뉴시스] 최동준 기자 = 서울교통공사노동조합이 10일 서울 중구 서울시의회 앞에서 현장간부결의대회를 열고 구조조정 저지, 안전인력 충원, 제도개선 등을 촉구하고 있다. 2026.11.10. [email protected]",
+        "quote": "[서울=뉴스핌] 이건주 기자 = 17일 오전 서울 중구 세종대로에서 열린 '서울교통공사 노동조합 조합원 총회'에서 조합원들이 구호를 외치고 있다. 2026.11.17 kunjoo@newspim.com",
         "source_part": "body",
         "effective_at": null,
         "derivation": "explicit",
-        "source_id": "10ef49c59781accc229ebe99",
-        "source_revision": "83f82b927f5ea71b62290ec8",
+        "source_id": "518ca74400d510e4d4907cdb",
+        "source_revision": "bfc311f7f35431f874dfdbd4",
         "reference_source": null
        },
        {
         "field_path": "/service_status",
-        "quote": "[서울=뉴시스] 최동준 기자 = 서울교통공사노동조합이 10일 서울 중구 서울시의회 앞에서 현장간부결의대회를 열고 구조조정 저지, 안전인력 충원, 제도개선 등을 촉구하고 있다. 2026.11.10. [email protected]",
+        "quote": "[서울=뉴스핌] 이건주 기자 = 17일 오전 서울 중구 세종대로에서 열린 '서울교통공사 노동조합 조합원 총회'에서 조합원들이 구호를 외치고 있다. 2026.11.17 kunjoo@newspim.com",
         "source_part": "body",
         "effective_at": null,
         "derivation": "explicit",
-        "source_id": "10ef49c59781accc229ebe99",
-        "source_revision": "83f82b927f5ea71b62290ec8",
+        "source_id": "518ca74400d510e4d4907cdb",
+        "source_revision": "bfc311f7f35431f874dfdbd4",
         "reference_source": null
        },
        {
         "field_path": "/normal_service_exceptions",
-        "quote": "[서울=뉴시스] 최동준 기자 = 서울교통공사노동조합이 10일 서울 중구 서울시의회 앞에서 현장간부결의대회를 열고 구조조정 저지, 안전인력 충원, 제도개선 등을 촉구하고 있다. 2026.11.10. [email protected]",
+        "quote": "[서울=뉴스핌] 이건주 기자 = 17일 오전 서울 중구 세종대로에서 열린 '서울교통공사 노동조합 조합원 총회'에서 조합원들이 구호를 외치고 있다. 2026.11.17 kunjoo@newspim.com",
         "source_part": "body",
         "effective_at": null,
         "derivation": "explicit",
-        "source_id": "10ef49c59781accc229ebe99",
-        "source_revision": "83f82b927f5ea71b62290ec8",
+        "source_id": "518ca74400d510e4d4907cdb",
+        "source_revision": "bfc311f7f35431f874dfdbd4",
         "reference_source": null
        },
        {
         "field_path": "/alternative_services",
-        "quote": "[서울=뉴시스] 최동준 기자 = 서울교통공사노동조합이 10일 서울 중구 서울시의회 앞에서 현장간부결의대회를 열고 구조조정 저지, 안전인력 충원, 제도개선 등을 촉구하고 있다. 2026.11.10. [email protected]",
+        "quote": "[서울=뉴스핌] 이건주 기자 = 17일 오전 서울 중구 세종대로에서 열린 '서울교통공사 노동조합 조합원 총회'에서 조합원들이 구호를 외치고 있다. 2026.11.17 kunjoo@newspim.com",
         "source_part": "body",
         "effective_at": null,
         "derivation": "explicit",
-        "source_id": "10ef49c59781accc229ebe99",
-        "source_revision": "83f82b927f5ea71b62290ec8",
+        "source_id": "518ca74400d510e4d4907cdb",
+        "source_revision": "bfc311f7f35431f874dfdbd4",
         "reference_source": null
        },
        {
         "field_path": "/start",
-        "quote": "[서울=뉴시스] 최동준 기자 = 서울교통공사노동조합이 10일 서울 중구 서울시의회 앞에서 현장간부결의대회를 열고 구조조정 저지, 안전인력 충원, 제도개선 등을 촉구하고 있다. 2026.11.10. [email protected]",
+        "quote": "[서울=뉴스핌] 이건주 기자 = 17일 오전 서울 중구 세종대로에서 열린 '서울교통공사 노동조합 조합원 총회'에서 조합원들이 구호를 외치고 있다. 2026.11.17 kunjoo@newspim.com",
         "source_part": "body",
         "effective_at": null,
         "derivation": "explicit",
-        "source_id": "10ef49c59781accc229ebe99",
-        "source_revision": "83f82b927f5ea71b62290ec8",
+        "source_id": "518ca74400d510e4d4907cdb",
+        "source_revision": "bfc311f7f35431f874dfdbd4",
         "reference_source": null
        },
        {
         "field_path": "/end",
-        "quote": "[서울=뉴시스] 최동준 기자 = 서울교통공사노동조합이 10일 서울 중구 서울시의회 앞에서 현장간부결의대회를 열고 구조조정 저지, 안전인력 충원, 제도개선 등을 촉구하고 있다. 2026.11.10. [email protected]",
+        "quote": "[서울=뉴스핌] 이건주 기자 = 17일 오전 서울 중구 세종대로에서 열린 '서울교통공사 노동조합 조합원 총회'에서 조합원들이 구호를 외치고 있다. 2026.11.17 kunjoo@newspim.com",
         "source_part": "body",
         "effective_at": null,
         "derivation": "explicit",
-        "source_id": "10ef49c59781accc229ebe99",
-        "source_revision": "83f82b927f5ea71b62290ec8",
+        "source_id": "518ca74400d510e4d4907cdb",
+        "source_revision": "bfc311f7f35431f874dfdbd4",
         "reference_source": null
        }
       ],
@@ -8460,12 +8465,12 @@
     "article_relevance": "unrelated",
     "processing_status": "success",
     "source": {
-     "source_id": "10ef49c59781accc229ebe99",
-     "source_url": "https://www.newsis.com/view/NISX20261116_0003870171",
-     "source_revision": "83f82b927f5ea71b62290ec8",
-     "published_at": "2026-11-16T17:20:24+09:00",
-     "updated_at": null,
-     "collected_at": "2026-11-17T08:40:39.837731+09:00"
+     "source_id": "518ca74400d510e4d4907cdb",
+     "source_url": "https://www.newspim.com/news/view/20261117000730",
+     "source_revision": "bfc311f7f35431f874dfdbd4",
+     "published_at": "2026-11-17T12:17:00+09:00",
+     "updated_at": "2026-11-17T12:17:00+09:00",
+     "collected_at": "2026-11-17T12:37:49.133913+09:00"
     },
     "events": [],
     "review_reasons": []
@@ -8558,7 +8563,7 @@
       "source_url": "https://www.imaeil.com/page/view/2026111417131297761",
       "published_at": null,
       "updated_at": null,
-      "collected_at": "2026-11-17T08:40:43.905252+09:00",
+      "collected_at": "2026-11-17T12:37:53.212394+09:00",
       "field_evidence": [
        {
         "field_path": "/article_relevance",
@@ -8902,7 +8907,7 @@
       "source_url": "https://www.imaeil.com/page/view/2026111417131297761",
       "published_at": null,
       "updated_at": null,
-      "collected_at": "2026-11-17T08:40:43.905252+09:00",
+      "collected_at": "2026-11-17T12:37:53.212394+09:00",
       "field_evidence": [
        {
         "field_path": "/article_relevance",
@@ -9022,7 +9027,7 @@
      "source_revision": "79344459f900a196bff2714a",
      "published_at": null,
      "updated_at": null,
-     "collected_at": "2026-11-17T08:40:43.905252+09:00"
+     "collected_at": "2026-11-17T12:37:53.212394+09:00"
     },
     "events": [],
     "review_reasons": []
@@ -9066,7 +9071,7 @@
       "source_url": "https://www.fnnews.com/news/202611101525402414",
       "published_at": "2026-11-10T15:41:44+09:00",
       "updated_at": "2026-11-10T15:41:44+09:00",
-      "collected_at": "2026-11-17T08:40:49.029422+09:00",
+      "collected_at": "2026-11-17T12:37:58.166929+09:00",
       "field_evidence": [
        {
         "field_path": "/article_relevance",
@@ -9183,7 +9188,7 @@
      "source_revision": "e4db1223ba466bbc3a5481ca",
      "published_at": "2026-11-10T15:41:44+09:00",
      "updated_at": "2026-11-10T15:41:44+09:00",
-     "collected_at": "2026-11-17T08:40:49.029422+09:00"
+     "collected_at": "2026-11-17T12:37:58.166929+09:00"
     },
     "events": [],
     "review_reasons": []
@@ -9227,7 +9232,7 @@
       "source_url": "https://www.newspim.com/news/view/20261113001135",
       "published_at": "2026-11-14T07:00:00+09:00",
       "updated_at": "2026-11-14T09:07:00+09:00",
-      "collected_at": "2026-11-17T08:40:53.731704+09:00",
+      "collected_at": "2026-11-17T12:38:00.612138+09:00",
       "field_evidence": [
        {
         "field_path": "/article_relevance",
@@ -9344,7 +9349,7 @@
      "source_revision": "3452d940cd7d9991eaaed8e6",
      "published_at": "2026-11-14T07:00:00+09:00",
      "updated_at": "2026-11-14T09:07:00+09:00",
-     "collected_at": "2026-11-17T08:40:53.731704+09:00"
+     "collected_at": "2026-11-17T12:38:00.612138+09:00"
     },
     "events": [
      {
@@ -9804,334 +9809,10 @@
      "normal_service_exceptions": [],
      "alternative_services": [],
      "evidence_and_timestamps": {
-      "source_url": "https://www.newsis.com/view/NISX20261113_0003867649",
-      "published_at": "2026-11-13T17:24:24+09:00",
-      "updated_at": null,
-      "collected_at": "2026-11-17T08:40:55.139196+09:00",
-      "field_evidence": [
-       {
-        "field_path": "/article_relevance",
-        "quote": "[샌프란시스코=AP/뉴시스] 인공지능(AI)에 반대하는 사람들이 29일(현지 시간) 미 캘리포니아주 샌프란시스코에서 열리는 오픈AI 연례 개발자 행사 '데브데이(DevDay) 2026' 행사장 밖에서 시위하고 있다. 2026.09.30.",
-        "source_part": "body",
-        "effective_at": null,
-        "derivation": "explicit",
-        "source_id": "97b306cc3674bb850fa46c14",
-        "source_revision": "d5a52337e59318f994fdb8fa",
-        "reference_source": null
-       },
-       {
-        "field_path": "/transport_mode",
-        "quote": "[샌프란시스코=AP/뉴시스] 인공지능(AI)에 반대하는 사람들이 29일(현지 시간) 미 캘리포니아주 샌프란시스코에서 열리는 오픈AI 연례 개발자 행사 '데브데이(DevDay) 2026' 행사장 밖에서 시위하고 있다. 2026.09.30.",
-        "source_part": "body",
-        "effective_at": null,
-        "derivation": "explicit",
-        "source_id": "97b306cc3674bb850fa46c14",
-        "source_revision": "d5a52337e59318f994fdb8fa",
-        "reference_source": null
-       },
-       {
-        "field_path": "/affected_regions",
-        "quote": "[샌프란시스코=AP/뉴시스] 인공지능(AI)에 반대하는 사람들이 29일(현지 시간) 미 캘리포니아주 샌프란시스코에서 열리는 오픈AI 연례 개발자 행사 '데브데이(DevDay) 2026' 행사장 밖에서 시위하고 있다. 2026.09.30.",
-        "source_part": "body",
-        "effective_at": null,
-        "derivation": "explicit",
-        "source_id": "97b306cc3674bb850fa46c14",
-        "source_revision": "d5a52337e59318f994fdb8fa",
-        "reference_source": null
-       },
-       {
-        "field_path": "/affected_routes",
-        "quote": "[샌프란시스코=AP/뉴시스] 인공지능(AI)에 반대하는 사람들이 29일(현지 시간) 미 캘리포니아주 샌프란시스코에서 열리는 오픈AI 연례 개발자 행사 '데브데이(DevDay) 2026' 행사장 밖에서 시위하고 있다. 2026.09.30.",
-        "source_part": "body",
-        "effective_at": null,
-        "derivation": "explicit",
-        "source_id": "97b306cc3674bb850fa46c14",
-        "source_revision": "d5a52337e59318f994fdb8fa",
-        "reference_source": null
-       },
-       {
-        "field_path": "/strike_status",
-        "quote": "[샌프란시스코=AP/뉴시스] 인공지능(AI)에 반대하는 사람들이 29일(현지 시간) 미 캘리포니아주 샌프란시스코에서 열리는 오픈AI 연례 개발자 행사 '데브데이(DevDay) 2026' 행사장 밖에서 시위하고 있다. 2026.09.30.",
-        "source_part": "body",
-        "effective_at": null,
-        "derivation": "explicit",
-        "source_id": "97b306cc3674bb850fa46c14",
-        "source_revision": "d5a52337e59318f994fdb8fa",
-        "reference_source": null
-       },
-       {
-        "field_path": "/service_status",
-        "quote": "[샌프란시스코=AP/뉴시스] 인공지능(AI)에 반대하는 사람들이 29일(현지 시간) 미 캘리포니아주 샌프란시스코에서 열리는 오픈AI 연례 개발자 행사 '데브데이(DevDay) 2026' 행사장 밖에서 시위하고 있다. 2026.09.30.",
-        "source_part": "body",
-        "effective_at": null,
-        "derivation": "explicit",
-        "source_id": "97b306cc3674bb850fa46c14",
-        "source_revision": "d5a52337e59318f994fdb8fa",
-        "reference_source": null
-       },
-       {
-        "field_path": "/normal_service_exceptions",
-        "quote": "[샌프란시스코=AP/뉴시스] 인공지능(AI)에 반대하는 사람들이 29일(현지 시간) 미 캘리포니아주 샌프란시스코에서 열리는 오픈AI 연례 개발자 행사 '데브데이(DevDay) 2026' 행사장 밖에서 시위하고 있다. 2026.09.30.",
-        "source_part": "body",
-        "effective_at": null,
-        "derivation": "explicit",
-        "source_id": "97b306cc3674bb850fa46c14",
-        "source_revision": "d5a52337e59318f994fdb8fa",
-        "reference_source": null
-       },
-       {
-        "field_path": "/alternative_services",
-        "quote": "[샌프란시스코=AP/뉴시스] 인공지능(AI)에 반대하는 사람들이 29일(현지 시간) 미 캘리포니아주 샌프란시스코에서 열리는 오픈AI 연례 개발자 행사 '데브데이(DevDay) 2026' 행사장 밖에서 시위하고 있다. 2026.09.30.",
-        "source_part": "body",
-        "effective_at": null,
-        "derivation": "explicit",
-        "source_id": "97b306cc3674bb850fa46c14",
-        "source_revision": "d5a52337e59318f994fdb8fa",
-        "reference_source": null
-       },
-       {
-        "field_path": "/start",
-        "quote": "[샌프란시스코=AP/뉴시스] 인공지능(AI)에 반대하는 사람들이 29일(현지 시간) 미 캘리포니아주 샌프란시스코에서 열리는 오픈AI 연례 개발자 행사 '데브데이(DevDay) 2026' 행사장 밖에서 시위하고 있다. 2026.09.30.",
-        "source_part": "body",
-        "effective_at": null,
-        "derivation": "explicit",
-        "source_id": "97b306cc3674bb850fa46c14",
-        "source_revision": "d5a52337e59318f994fdb8fa",
-        "reference_source": null
-       },
-       {
-        "field_path": "/end",
-        "quote": "[샌프란시스코=AP/뉴시스] 인공지능(AI)에 반대하는 사람들이 29일(현지 시간) 미 캘리포니아주 샌프란시스코에서 열리는 오픈AI 연례 개발자 행사 '데브데이(DevDay) 2026' 행사장 밖에서 시위하고 있다. 2026.09.30.",
-        "source_part": "body",
-        "effective_at": null,
-        "derivation": "explicit",
-        "source_id": "97b306cc3674bb850fa46c14",
-        "source_revision": "d5a52337e59318f994fdb8fa",
-        "reference_source": null
-       }
-      ],
-      "review_reasons": []
-     }
-    }
-   ],
-   "events": {
-    "schema_version": "1.0",
-    "article_relevance": "unknown",
-    "processing_status": "needs_review",
-    "source": {
-     "source_id": "97b306cc3674bb850fa46c14",
-     "source_url": "https://www.newsis.com/view/NISX20261113_0003867649",
-     "source_revision": "d5a52337e59318f994fdb8fa",
-     "published_at": "2026-11-13T17:24:24+09:00",
-     "updated_at": null,
-     "collected_at": "2026-11-17T08:40:55.139196+09:00"
-    },
-    "events": [],
-    "review_reasons": [
-     "UNSUPPORTED_EVENT_CONTEXT"
-    ]
-   }
-  },
-  {
-   "strikes": [
-    {
-     "article_relevance": "unrelated",
-     "transport_mode": "unknown",
-     "affected_regions": [],
-     "affected_routes": [],
-     "start": {
-      "raw": null,
-      "date": null,
-      "time": null,
-      "timezone": "Asia/Seoul",
-      "basis": "unknown",
-      "assertion": "unknown",
-      "open_ended": null
-     },
-     "end": {
-      "raw": null,
-      "date": null,
-      "time": null,
-      "timezone": "Asia/Seoul",
-      "basis": "unknown",
-      "assertion": "unknown",
-      "open_ended": null
-     },
-     "strike_status": {
-      "value": "unknown",
-      "conditions": [],
-      "scope_raw": null,
-      "effective_at": null
-     },
-     "service_status": [],
-     "normal_service_exceptions": [],
-     "alternative_services": [],
-     "evidence_and_timestamps": {
-      "source_url": "https://www.newsis.com/view/NISX20261114_0003868135",
-      "published_at": "2026-11-14T15:42:23+09:00",
-      "updated_at": null,
-      "collected_at": "2026-11-17T08:40:56.320652+09:00",
-      "field_evidence": [
-       {
-        "field_path": "/article_relevance",
-        "quote": "[서울=뉴시스] 김용중 기자 = 14일 오후 서울 용산구 서울역 인근에서 열린 전국철도노동조합 총력결의대회에서 우비를 입은 참가자들이 주먹을 쥐고 구호를 외치고 있다. 2026.11.14. [email protected]",
-        "source_part": "body",
-        "effective_at": null,
-        "derivation": "explicit",
-        "source_id": "12b92deafa94cca6585cebb6",
-        "source_revision": "4d776344140d5072dcee4499",
-        "reference_source": null
-       },
-       {
-        "field_path": "/transport_mode",
-        "quote": "[서울=뉴시스] 김용중 기자 = 14일 오후 서울 용산구 서울역 인근에서 열린 전국철도노동조합 총력결의대회에서 우비를 입은 참가자들이 주먹을 쥐고 구호를 외치고 있다. 2026.11.14. [email protected]",
-        "source_part": "body",
-        "effective_at": null,
-        "derivation": "explicit",
-        "source_id": "12b92deafa94cca6585cebb6",
-        "source_revision": "4d776344140d5072dcee4499",
-        "reference_source": null
-       },
-       {
-        "field_path": "/affected_regions",
-        "quote": "[서울=뉴시스] 김용중 기자 = 14일 오후 서울 용산구 서울역 인근에서 열린 전국철도노동조합 총력결의대회에서 우비를 입은 참가자들이 주먹을 쥐고 구호를 외치고 있다. 2026.11.14. [email protected]",
-        "source_part": "body",
-        "effective_at": null,
-        "derivation": "explicit",
-        "source_id": "12b92deafa94cca6585cebb6",
-        "source_revision": "4d776344140d5072dcee4499",
-        "reference_source": null
-       },
-       {
-        "field_path": "/affected_routes",
-        "quote": "[서울=뉴시스] 김용중 기자 = 14일 오후 서울 용산구 서울역 인근에서 열린 전국철도노동조합 총력결의대회에서 우비를 입은 참가자들이 주먹을 쥐고 구호를 외치고 있다. 2026.11.14. [email protected]",
-        "source_part": "body",
-        "effective_at": null,
-        "derivation": "explicit",
-        "source_id": "12b92deafa94cca6585cebb6",
-        "source_revision": "4d776344140d5072dcee4499",
-        "reference_source": null
-       },
-       {
-        "field_path": "/strike_status",
-        "quote": "[서울=뉴시스] 김용중 기자 = 14일 오후 서울 용산구 서울역 인근에서 열린 전국철도노동조합 총력결의대회에서 우비를 입은 참가자들이 주먹을 쥐고 구호를 외치고 있다. 2026.11.14. [email protected]",
-        "source_part": "body",
-        "effective_at": null,
-        "derivation": "explicit",
-        "source_id": "12b92deafa94cca6585cebb6",
-        "source_revision": "4d776344140d5072dcee4499",
-        "reference_source": null
-       },
-       {
-        "field_path": "/service_status",
-        "quote": "[서울=뉴시스] 김용중 기자 = 14일 오후 서울 용산구 서울역 인근에서 열린 전국철도노동조합 총력결의대회에서 우비를 입은 참가자들이 주먹을 쥐고 구호를 외치고 있다. 2026.11.14. [email protected]",
-        "source_part": "body",
-        "effective_at": null,
-        "derivation": "explicit",
-        "source_id": "12b92deafa94cca6585cebb6",
-        "source_revision": "4d776344140d5072dcee4499",
-        "reference_source": null
-       },
-       {
-        "field_path": "/normal_service_exceptions",
-        "quote": "[서울=뉴시스] 김용중 기자 = 14일 오후 서울 용산구 서울역 인근에서 열린 전국철도노동조합 총력결의대회에서 우비를 입은 참가자들이 주먹을 쥐고 구호를 외치고 있다. 2026.11.14. [email protected]",
-        "source_part": "body",
-        "effective_at": null,
-        "derivation": "explicit",
-        "source_id": "12b92deafa94cca6585cebb6",
-        "source_revision": "4d776344140d5072dcee4499",
-        "reference_source": null
-       },
-       {
-        "field_path": "/alternative_services",
-        "quote": "[서울=뉴시스] 김용중 기자 = 14일 오후 서울 용산구 서울역 인근에서 열린 전국철도노동조합 총력결의대회에서 우비를 입은 참가자들이 주먹을 쥐고 구호를 외치고 있다. 2026.11.14. [email protected]",
-        "source_part": "body",
-        "effective_at": null,
-        "derivation": "explicit",
-        "source_id": "12b92deafa94cca6585cebb6",
-        "source_revision": "4d776344140d5072dcee4499",
-        "reference_source": null
-       },
-       {
-        "field_path": "/start",
-        "quote": "[서울=뉴시스] 김용중 기자 = 14일 오후 서울 용산구 서울역 인근에서 열린 전국철도노동조합 총력결의대회에서 우비를 입은 참가자들이 주먹을 쥐고 구호를 외치고 있다. 2026.11.14. [email protected]",
-        "source_part": "body",
-        "effective_at": null,
-        "derivation": "explicit",
-        "source_id": "12b92deafa94cca6585cebb6",
-        "source_revision": "4d776344140d5072dcee4499",
-        "reference_source": null
-       },
-       {
-        "field_path": "/end",
-        "quote": "[서울=뉴시스] 김용중 기자 = 14일 오후 서울 용산구 서울역 인근에서 열린 전국철도노동조합 총력결의대회에서 우비를 입은 참가자들이 주먹을 쥐고 구호를 외치고 있다. 2026.11.14. [email protected]",
-        "source_part": "body",
-        "effective_at": null,
-        "derivation": "explicit",
-        "source_id": "12b92deafa94cca6585cebb6",
-        "source_revision": "4d776344140d5072dcee4499",
-        "reference_source": null
-       }
-      ],
-      "review_reasons": []
-     }
-    }
-   ],
-   "events": {
-    "schema_version": "1.0",
-    "article_relevance": "unrelated",
-    "processing_status": "success",
-    "source": {
-     "source_id": "12b92deafa94cca6585cebb6",
-     "source_url": "https://www.newsis.com/view/NISX20261114_0003868135",
-     "source_revision": "4d776344140d5072dcee4499",
-     "published_at": "2026-11-14T15:42:23+09:00",
-     "updated_at": null,
-     "collected_at": "2026-11-17T08:40:56.320652+09:00"
-    },
-    "events": [],
-    "review_reasons": []
-   }
-  },
-  {
-   "strikes": [
-    {
-     "article_relevance": "unrelated",
-     "transport_mode": "unknown",
-     "affected_regions": [],
-     "affected_routes": [],
-     "start": {
-      "raw": null,
-      "date": null,
-      "time": null,
-      "timezone": "Asia/Seoul",
-      "basis": "unknown",
-      "assertion": "unknown",
-      "open_ended": null
-     },
-     "end": {
-      "raw": null,
-      "date": null,
-      "time": null,
-      "timezone": "Asia/Seoul",
-      "basis": "unknown",
-      "assertion": "unknown",
-      "open_ended": null
-     },
-     "strike_status": {
-      "value": "unknown",
-      "conditions": [],
-      "scope_raw": null,
-      "effective_at": null
-     },
-     "service_status": [],
-     "normal_service_exceptions": [],
-     "alternative_services": [],
-     "evidence_and_timestamps": {
       "source_url": "https://www.newspim.com/news/view/20261109000918",
       "published_at": "2026-11-09T14:52:00+09:00",
       "updated_at": "2026-11-09T14:52:00+09:00",
-      "collected_at": "2026-11-17T08:41:01.377057+09:00",
+      "collected_at": "2026-11-17T12:38:13.544479+09:00",
       "field_evidence": [
        {
         "field_path": "/article_relevance",
@@ -10248,7 +9929,7 @@
      "source_revision": "69a4a1c9ccf732211d987651",
      "published_at": "2026-11-09T14:52:00+09:00",
      "updated_at": "2026-11-09T14:52:00+09:00",
-     "collected_at": "2026-11-17T08:41:01.377057+09:00"
+     "collected_at": "2026-11-17T12:38:13.544479+09:00"
     },
     "events": [
      {
@@ -10317,8 +9998,16 @@
    "status": "validation_failed"
   },
   {
+   "source_url": "https://www.yna.co.kr/view/AKR20261117078100004?input=1195m",
+   "status": "validation_failed"
+  },
+  {
    "source_url": "http://www.metroseoul.co.kr/article/20261112500088",
    "status": "url_blocked"
+  },
+  {
+   "source_url": "https://www.seoul.co.kr/news/publicnews/local_govern/smc_movement/2026/11/17/20261117500039?wlog_tag3=naver",
+   "status": "domain_blocked"
   },
   {
    "source_url": "https://www.nocutnews.co.kr/news/6606915?utm_source=naver&utm_medium=article&utm_campaign=20261114160234",
