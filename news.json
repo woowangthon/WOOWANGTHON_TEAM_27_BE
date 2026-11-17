@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-17T15:01:47.619163+09:00",
+ "generatedAt": "2026-11-18T00:44:07.194936+09:00",
  "windowDays": 14,
  "queries": [
   "버스 파업",
@@ -17,8 +17,78 @@
    "url": "https://www.ncloud.com/product/applicationService/naverApiHub"
   }
  ],
- "articles": 282,
+ "articles": 259,
  "searchResults": [
+  {
+   "url": "https://www.dailycar.co.kr/content/news.html?type=view&autoId=63163",
+   "title": "[김필수 칼럼] 국내 전기차 시장의 마지막 보루..중고가 전기차만 남았...",
+   "query": "버스 파업"
+  },
+  {
+   "url": "http://www.00news.co.kr/news/articleView.html?idxno=108156",
+   "title": "서울 지하철 25일 무기한 총파업 예고 '초비상'",
+   "query": "버스 파업"
+  },
+  {
+   "url": "https://www.discoverynews.kr/news/articleView.html?idxno=1107111",
+   "title": "서울시의회 유주동 의원, 서울시 노사민정협의회 운영 부실 지적… \"6년...",
+   "query": "버스 파업"
+  },
+  {
+   "url": "https://www.kihoilbo.co.kr/news/articleView.html?idxno=3041272",
+   "title": "[길 잃은 시내버스 공공관리제] 5-1. 막대한 재정 부담 떠안으면서 임금...",
+   "query": "버스 파업"
+  },
+  {
+   "url": "https://www.kihoilbo.co.kr/news/articleView.html?idxno=3041276",
+   "title": "[길 잃은 시내버스 공공관리제] 5. 공공관리제로 예방 못 한 파업… 대비...",
+   "query": "버스 파업"
+  },
+  {
+   "url": "https://www.kukinews.com/article/view/kuk202611170202",
+   "title": "연말 다가오는데 임단협은 제자리…중화학업계 ‘겨울 투쟁’ 우려",
+   "query": "버스 파업"
+  },
+  {
+   "url": "http://www.economytalk.kr/news/articleView.html?idxno=425367",
+   "title": "서울교통공사 25일 파업 예고…인력 감축 갈등 뒤엔 '구조적 적자'",
+   "query": "버스 파업"
+  },
+  {
+   "url": "https://www.dt.co.kr/article/12095708?ref=naver",
+   "title": "서울지하철 25일 총파업 예고…“안전인력 충원·임금 인상”",
+   "query": "버스 파업"
+  },
+  {
+   "url": "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003285792&CMPT_CD=P0010&utm_source=naver&utm_medium=newsearch&utm_campaign=naver_news",
+   "title": "서교공노조 \"구조조정, 안전인력 등 현안 해결, 서울시가 나서라\"",
+   "query": "버스 파업"
+  },
+  {
+   "url": "https://www.ajunews.com/view/20261117144443265",
+   "title": "서울교통공사 노조 \"안전 인력 충원하라…감축은 위험한 도박\"",
+   "query": "버스 파업"
+  },
+  {
+   "url": "https://www.dailian.co.kr/news/view/1716113/?sc=Naver",
+   "title": "노란봉투법 시행 후폭풍…한화오션 하청노조, 단식 이어 공동파업 경고",
+   "query": "버스 파업"
+  },
+  {
+   "url": "http://worknworld.kctu.org/news/articleView.html?idxno=510332",
+   "title": "서울교통공사노조 \"구조조정 중단·안전인력 충원\" 촉구… 25일 총파업 ...",
+   "query": "버스 파업"
+  },
+  {
+   "url": "https://www.newspim.com/news/view/20261117001008",
+   "title": "서울 지하철 임금협상 평행선…노조, 25일 무기한 총파업 예고",
+   "query": "버스 파업"
+  },
+  {
+   "url": "https://www.newsis.com/view/NISX20261117_0003871652",
+   "title": "서울 지하철 노조 \"2500명 인력 부족…생명 담보 위험한 도박\"",
+   "query": "버스 파업"
+  },
   {
    "url": "https://www.edaily.co.kr/News/Read?newsId=03857286645646704&mediaCodeNo=257&utm_source=naver&utm_medium=referral&utm_campaign=news_syndication&utm_content=original_article",
    "title": "`지하철 파업` 벼랑 끝 대치…\"인력 줄인다\" vs \"늘려야\"",
@@ -200,74 +270,29 @@
    "query": "버스 파업"
   },
   {
-   "url": "https://www.segye.com/newsView/20261112515531?OutUrl=naver",
-   "title": "400만 스페인 노동자, 주택난에 분노…14년 만에 총파업",
-   "query": "버스 파업"
+   "url": "https://www.ajunews.com/view/20261117144937276",
+   "title": "서울교통공사 노조, 25일 무기한 총파업 예고…\"인력 감축 철회하라\"",
+   "query": "지하철 파업"
   },
   {
-   "url": "https://www.kmib.co.kr/article/20261112501649",
-   "title": "‘주택난’에 분노…스페인 대규모 시위, 70여명 체포",
-   "query": "버스 파업"
+   "url": "https://www.sidae.com/article/2026111714063893497",
+   "title": "서울 지하철 25일 총파업 예고…출근길 비상",
+   "query": "지하철 파업"
   },
   {
-   "url": "https://www.asiatoday.co.kr/kn/view.php?key=20261112010004623",
-   "title": "유가 폭등에 뿔난 칠레 트럭운전사들…무기한 파업 장기화 조짐",
-   "query": "버스 파업"
+   "url": "http://www.queen.co.kr/news/articleView.html?idxno=466466",
+   "title": "서울 지하철 25일 전면 무기한 총파업 예고 … \"인력 감축 철회, 3.5% 임...",
+   "query": "지하철 파업"
   },
   {
-   "url": "https://view.asiae.co.kr/article/2026111208202666471",
-   "title": "스페인, 14년만 노동자 총파업…주거위기에 분노",
-   "query": "버스 파업"
+   "url": "https://www.redaily.co.kr/news/articleView.html?idxno=18233",
+   "title": "철도·지하철 총파업 예고…GTX-A도 20일부터 준법운행",
+   "query": "지하철 파업"
   },
   {
-   "url": "https://www.gokorea.kr/news/articleView.html?idxno=885212",
-   "title": "스페인 전역 파업, 주택난과 총선 앞둔 산체스 총리의 시험대",
-   "query": "버스 파업"
-  },
-  {
-   "url": "https://biz.heraldcorp.com/article/10934345?ref=naver",
-   "title": "분노한 스페인 노동자들…주택난에 14년 만에 총파업",
-   "query": "버스 파업"
-  },
-  {
-   "url": "http://www.yonhapnewstv.co.kr/news/AKR202611120556540QE",
-   "title": "주택난에 분노한 스페인 노동자들, 14년 만 총파업",
-   "query": "버스 파업"
-  },
-  {
-   "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8710563&ref=A",
-   "title": "‘주택난에 분노’ 스페인 노동자들, 14년 만에 총파업",
-   "query": "버스 파업"
-  },
-  {
-   "url": "https://www.yna.co.kr/view/AKR20261111176951098?input=1195m",
-   "title": "주택난에 분노한 스페인 노동자들, 14년 만에 총파업(종합)",
-   "query": "버스 파업"
-  },
-  {
-   "url": "https://www.gukjenews.com/news/articleView.html?idxno=3749382",
-   "title": "\"출근길 어쩌나\"… 서울 지하철 1~8호선 '무기한 총파업' 선언",
-   "query": "버스 파업"
-  },
-  {
-   "url": "https://www.newsis.com/view/NISI20261111_0002289287",
-   "title": "스페인 노동계, 임대료 상승에 24시간 총파업",
-   "query": "버스 파업"
-  },
-  {
-   "url": "https://www.pennmike.com/news/articleView.html?idxno=131551",
-   "title": "철도노조, 12월 무기한 총파업 예고...KTX·SRT 연말에 어떡하나",
-   "query": "버스 파업"
-  },
-  {
-   "url": "http://worknworld.kctu.org/news/articleView.html?idxno=510296",
-   "title": "[기고] 10월은 가고 남은 것은 희미해 보이지만",
-   "query": "버스 파업"
-  },
-  {
-   "url": "https://www.labortoday.co.kr/news/articleView.html?idxno=237671",
-   "title": "서울지하철노조 25일 전면파업 예고",
-   "query": "버스 파업"
+   "url": "https://www.mt.co.kr/policy/2026/11/17/2026111714211773968",
+   "title": "25일 무기한 총파업 돌입 예고…서울 지하철 노조\"인력감축 철회해야\"",
+   "query": "지하철 파업"
   },
   {
    "url": "https://www.newscj.com/news/articleView.html?idxno=3449425",
@@ -395,6 +420,16 @@
    "query": "지하철 파업"
   },
   {
+   "url": "https://www.segye.com/newsView/20261112515531?OutUrl=naver",
+   "title": "400만 스페인 노동자, 주택난에 분노…14년 만에 총파업",
+   "query": "지하철 파업"
+  },
+  {
+   "url": "https://www.kmib.co.kr/article/20261112501649",
+   "title": "‘주택난’에 분노…스페인 대규모 시위, 70여명 체포",
+   "query": "지하철 파업"
+  },
+  {
    "url": "https://www.kmib.co.kr/article/20261112501567",
    "title": "지하철·KTX에 공항까지 줄파업 예고…연말 국민들 발 묶이나",
    "query": "지하철 파업"
@@ -405,69 +440,19 @@
    "query": "지하철 파업"
   },
   {
-   "url": "https://www.abcn.kr/news/articleView.html?idxno=94450",
-   "title": "공항철도 첫 파업 나서나...13일 운행 축소 예고에 공항 이용객 비상",
-   "query": "지하철 파업"
+   "url": "http://kor.theasian.asia/archives/421392",
+   "title": "[아시아 오늘의 역사·11.18] 한국 최초 우표 발행(1884)·포드 미 대통령...",
+   "query": "철도 파업"
   },
   {
-   "url": "https://www.dailyt.co.kr/newsView/dlt202611120038",
-   "title": "109억 원대 임대료 체납에 공실 155곳… 서울교통공사, 곪아가는 부대사...",
-   "query": "지하철 파업"
+   "url": "https://www.newsis.com/view/NISX20261117_0003871716",
+   "title": "스페인 29일 조기 총선 앞두고 우파 돌풍…산체스 정권 최대 위기",
+   "query": "철도 파업"
   },
   {
-   "url": "https://www.jasm.co.kr/news/view/325095/?sc=Naver",
-   "title": "내일 새벽 공항철도 개통 후 첫 파업하나",
-   "query": "지하철 파업"
-  },
-  {
-   "url": "http://www.newstomato.com/ReadNews.aspx?no=1320184&inflow=N",
-   "title": "'안전인력 충원' 호소하는 철도 현장…정부·서울시 '요지부동'",
-   "query": "지하철 파업"
-  },
-  {
-   "url": "https://www.newsis.com/view/NISX20261112_0003864924",
-   "title": "철도·지하철·공항 멈추나…공공부문 줄줄이 파업 예고",
-   "query": "지하철 파업"
-  },
-  {
-   "url": "https://www.edaily.co.kr/News/Read?newsId=03719526645645064&mediaCodeNo=257&utm_source=naver&utm_medium=referral&utm_campaign=news_syndication&utm_content=original_article",
-   "title": "\"월급의 99% 월세…36살에 캥거루\" 400만명 총파업 '이 나라'",
-   "query": "지하철 파업"
-  },
-  {
-   "url": "https://www.newspim.com/news/view/20261112001059",
-   "title": "유기훈 시의원 \"교통공사, 지하철 상가 임대료 체납 109억원…장기 체납...",
-   "query": "지하철 파업"
-  },
-  {
-   "url": "https://www.gokorea.kr/news/articleView.html?idxno=885276",
-   "title": "공항철도 노조 첫 파업 임박, 출퇴근길 비상 대응 주목",
-   "query": "지하철 파업"
-  },
-  {
-   "url": "https://www.newscj.com/news/articleView.html?idxno=3448124",
-   "title": "스페인서 14년 만에 총파업… 400만명 주거난 항의",
-   "query": "지하철 파업"
-  },
-  {
-   "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008842690&plink=ORI&cooper=NAVER",
-   "title": "공항철도 개통 후 첫 파업하나…노조 경고파업 'D-1일'",
-   "query": "지하철 파업"
-  },
-  {
-   "url": "https://www.yna.co.kr/view/AKR20261112076100065?input=1195m",
-   "title": "공항철도 개통 후 첫 파업하나…노조 경고파업 'D-1일'",
-   "query": "지하철 파업"
-  },
-  {
-   "url": "https://www.etoday.co.kr/news/view/2647265",
-   "title": "집값 폭등에 뿔났다⋯스페인 400만명 총파업",
-   "query": "지하철 파업"
-  },
-  {
-   "url": "https://view.asiae.co.kr/article/2026111209335979811",
-   "title": "8조 부채 서울교통공사, 하루 이자만 3억7000만원… 노조는 파업 예고",
-   "query": "지하철 파업"
+   "url": "https://www.news1.kr/world/europe/6356971",
+   "title": "佛공공노조, 임금인상 요구 전국 파업 예고…30만명 시위 예고",
+   "query": "철도 파업"
   },
   {
    "url": "https://www.newsfreezone.co.kr/news/articleView.html?idxno=719706",
@@ -570,13 +555,13 @@
    "query": "철도 파업"
   },
   {
-   "url": "https://www.nocutnews.co.kr/news/6606915?utm_source=naver&utm_medium=article&utm_campaign=20261114160234",
-   "title": "철도노조 총력결의…\"인력 감축 고집하면 12월 10일 총파업\"",
+   "url": "https://www.edaily.co.kr/News/Read?newsId=02738806645645720&mediaCodeNo=257&utm_source=naver&utm_medium=referral&utm_campaign=news_syndication&utm_content=original_article",
+   "title": "철도노조 수천명 빗속 집회 열어…내달 10일 총파업 재차 예고",
    "query": "철도 파업"
   },
   {
-   "url": "https://www.edaily.co.kr/News/Read?newsId=02738806645645720&mediaCodeNo=257&utm_source=naver&utm_medium=referral&utm_campaign=news_syndication&utm_content=original_article",
-   "title": "철도노조 수천명 빗속 집회 열어…내달 10일 총파업 재차 예고",
+   "url": "https://www.nocutnews.co.kr/news/6606915?utm_source=naver&utm_medium=article&utm_campaign=20261114160234",
+   "title": "철도노조 총력결의…\"인력 감축 고집하면 12월 10일 총파업\"",
    "query": "철도 파업"
   },
   {
@@ -630,53 +615,18 @@
    "query": "철도 파업"
   },
   {
-   "url": "https://www.newsis.com/view/NISX20261113_0003867880",
-   "title": "[오늘의 주요일정]사회(11월14일 토요일)",
-   "query": "철도 파업"
-  },
-  {
-   "url": "https://www.gukjenews.com/news/articleView.html?idxno=3751787",
-   "title": "전국철도노조, 서울역서 5천여 명 결의대회…다음 달 10일 총파업 예고",
-   "query": "철도 파업"
-  },
-  {
-   "url": "https://www.ytn.co.kr/_ln/0102_202611132327011998",
-   "title": "철도노조, 오늘 오후 서울 도심서 총력 결의대회",
-   "query": "철도 파업"
-  },
-  {
-   "url": "https://www.ytn.co.kr/_ln/0102_202611132326548740",
-   "title": "철도노조, 오늘 오후 서울 도심서 총력 결의대회",
-   "query": "철도 파업"
-  },
-  {
-   "url": "https://www.obsnews.co.kr/news/articleView.html?idxno=1543710",
-   "title": "공항철도 노사 임금협상 타결…노조 파업계획 철회",
-   "query": "철도 파업"
+   "url": "https://www.etoday.co.kr/news/view/2649239",
+   "title": "\"안전 인력 충원하라\"⋯서울교통공사노조, 20일 준법투쟁·25일 총파업 ...",
+   "query": "파업 예고 운행"
   },
   {
    "url": "https://www.news2day.co.kr/article/20261113500255",
    "title": "[JOB리포트] 공항철도 첫 파업 피했다…‘안전인력 21명’ 확충은 어떻...",
-   "query": "철도 파업"
-  },
-  {
-   "url": "https://newscham.net/130172/",
-   "title": "젠슨 황이 물러나자 800조가 한때 사라졌다",
-   "query": "철도 파업"
+   "query": "파업 예고 운행"
   },
   {
    "url": "https://www.laborplus.co.kr/news/articleView.html?idxno=41809",
    "title": "공항철도 노사, 파업 1시간 반 앞두고 임협 잠정 합의",
-   "query": "철도 파업"
-  },
-  {
-   "url": "https://vop.co.kr/A00001697590.html",
-   "title": "민주당의 압승? 웃는 건 월가와 억만장자들이다",
-   "query": "철도 파업"
-  },
-  {
-   "url": "https://www.etoday.co.kr/news/view/2649239",
-   "title": "\"안전 인력 충원하라\"⋯서울교통공사노조, 20일 준법투쟁·25일 총파업 ...",
    "query": "파업 예고 운행"
   },
   {
@@ -727,66 +677,6 @@
   {
    "url": "https://www.hani.co.kr/arti/area/capital/1287158.html",
    "title": "공항철도 노사, 파업 1시간30분 앞두고 임금 협상 타결",
-   "query": "파업 예고 운행"
-  },
-  {
-   "url": "http://www.incheonin.com/news/articleView.html?idxno=122245",
-   "title": "공항철도 노사, 13일 새벽 보충협약 잠정합의로 파업 철회",
-   "query": "파업 예고 운행"
-  },
-  {
-   "url": "http://fpn119.co.kr/259376",
-   "title": "11월 13일 오늘의 안전 상황",
-   "query": "파업 예고 운행"
-  },
-  {
-   "url": "https://www.webeconomy.co.kr/news/articleView.html?idxno=2374065",
-   "title": "공항철도 , 경고파업 당일 새벽 임금교섭 극적 타결",
-   "query": "파업 예고 운행"
-  },
-  {
-   "url": "https://www.viva100.com/article/20261113500014",
-   "title": "공항철도 노사, 파업 직전 극적 합의…첫차부터 정상 운행",
-   "query": "파업 예고 운행"
-  },
-  {
-   "url": "http://www.ikld.kr/news/articleView.html?idxno=344101",
-   "title": "공항철도 노사, 임금교섭 극적 합의… 경고파업 철회",
-   "query": "파업 예고 운행"
-  },
-  {
-   "url": "https://www.hankookilbo.com/news/article/A2026111308220000972?did=NA",
-   "title": "공항철도 노사 임금 협상 타결… 파업 1시간 30분 앞두고 철회",
-   "query": "파업 예고 운행"
-  },
-  {
-   "url": "https://www.dailian.co.kr/news/view/1714461/?sc=Naver",
-   "title": "공항철도 파업 막았다…노사 13일 새벽 극적 합의",
-   "query": "파업 예고 운행"
-  },
-  {
-   "url": "https://www.sidae.com/article/2026111307595653897",
-   "title": "공항철도 노사 임금협상 극적 타결…오늘 첫차부터 정상 운행",
-   "query": "파업 예고 운행"
-  },
-  {
-   "url": "https://www.kihoilbo.co.kr/news/articleView.html?idxno=3040834",
-   "title": "공항철도 노사 임금협상 극적 타결…일반·직통열차 정상 운행",
-   "query": "파업 예고 운행"
-  },
-  {
-   "url": "https://www.ngonews.kr/news/articleView.html?idxno=243085",
-   "title": "공항철도 노사 임금협상 잠정합의…경고파업 철회, 열차 정상 운행",
-   "query": "파업 예고 운행"
-  },
-  {
-   "url": "https://news.tvchosun.com/site/data/html_dir/2026/11/13/2026111390075.html",
-   "title": "공항철도, 오늘 첫차부터 정상 운행…노사 임금협상 극적 타결",
-   "query": "파업 예고 운행"
-  },
-  {
-   "url": "https://www.gukjenews.com/news/articleView.html?idxno=3750717",
-   "title": "[속보] 공항철도 노사, 파업 1시간 30분 앞두고 극적 타결",
    "query": "파업 예고 운행"
   },
   {
@@ -875,13 +765,13 @@
    "query": "집회 교통 통제"
   },
   {
-   "url": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202611080006&t=NN",
-   "title": "\"길 막히고 버스는 돌아가고\"…잇단 마라톤에 시민들 '부글'",
+   "url": "https://biz.heraldcorp.com/article/10929436?ref=naver",
+   "title": "“응급환자 이송 막힐라”…주말 도심 마라톤에 병원·결혼식장 비상",
    "query": "집회 교통 통제"
   },
   {
-   "url": "https://biz.heraldcorp.com/article/10929436?ref=naver",
-   "title": "“응급환자 이송 막힐라”…주말 도심 마라톤에 병원·결혼식장 비상",
+   "url": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202611080006&t=NN",
+   "title": "\"길 막히고 버스는 돌아가고\"…잇단 마라톤에 시민들 '부글'",
    "query": "집회 교통 통제"
   },
   {
@@ -998,6 +888,11 @@
    "url": "https://www.jnilbo.com/news/articleView.html?idxno=90000080471",
    "title": "서울 곳곳 집회…양대노총 '특구법 철회'·국힘 '특검법 규탄'",
    "query": "집회 교통 통제"
+  },
+  {
+   "url": "https://news.ifm.kr/news/articleView.html?idxno=484687",
+   "title": "\"사전협의 없어\"…국제공인 마라톤에 영종 주민 '부글'",
+   "query": "마라톤 도로 통제"
   },
   {
    "url": "http://www.incheonin.com/news/articleView.html?idxno=122342",
@@ -1245,11 +1140,6 @@
    "query": "마라톤 도로 통제"
   },
   {
-   "url": "http://www.joseilbo.com/news/news_read.php?uid=579370&class=33&grp=",
-   "title": "\"러닝이 벼슬인가\" 도로 점령에 욕설까지, 러너들도 등 돌린 '민폐 러닝...",
-   "query": "마라톤 도로 통제"
-  },
-  {
    "url": "https://www.ekn.kr/web/view.php?key=20261116026020442",
    "title": "[패트롤] 고양시-광명시-시흥시-양평군-하남시",
    "query": "축제 버스 우회"
@@ -1423,29 +1313,42 @@
    "url": "https://view.asiae.co.kr/article/2026110410334776639",
    "title": "\"꼭 도로서 뛰어야해? VR 쓰고 실내서 달리면 되잖아\" 마라톤 풍자에 누...",
    "query": "축제 버스 우회"
-  },
-  {
-   "url": "https://www.hani.co.kr/arti/opinion/editorial/1285601.html",
-   "title": "[사설] 도심 마라톤 대회, 시민 불편 최소화할 ‘운용의 묘’ 찾길",
-   "query": "축제 버스 우회"
   }
  ],
  "strikes": [
   {
-   "id": "645966527a2d7200",
+   "id": "0794b95c73dd09fe",
    "mode": "subway",
    "operator": "서울교통공사",
    "regions": [
+    "서울",
+    "수도권"
+   ],
+   "status": "scheduled",
+   "quote": "서울 지하철 25일 무기한 총파업 예고",
+   "start": "2026-11-25",
+   "dateQuote": "25일",
+   "articleTitle": "서울 지하철 25일 무기한 총파업 예고 '초비상'",
+   "url": "http://www.00news.co.kr/news/articleView.html?idxno=108156",
+   "publishedAt": "2026-11-17T22:32:00.000",
+   "sourceCount": 25,
+   "model": "gemini-3.5-flash-lite"
+  },
+  {
+   "id": "77667c7c97bbda62",
+   "mode": "subway",
+   "operator": "서울 지하철",
+   "regions": [
     "서울"
    ],
-   "status": "conditional",
-   "quote": "오는 25일까지 책임 있는 교섭과 실질적인 대책이 마련되지 않을 경우 총파업에 돌입할 것",
+   "status": "scheduled",
+   "quote": "서울 지하철 25일 총파업 예고",
    "start": "2026-11-25",
-   "dateQuote": "오는 25일까지",
-   "articleTitle": "[포토] 구조조정 중단 촉구하는 서울교통공사노조",
-   "url": "https://www.newscj.com/news/articleView.html?idxno=3449425",
-   "publishedAt": "2026-11-17T14:04:00.000",
-   "sourceCount": 20,
+   "dateQuote": "25일",
+   "articleTitle": "서울 지하철 25일 총파업 예고…출근길 비상",
+   "url": "https://www.sidae.com/article/2026111714063893497",
+   "publishedAt": "2026-11-17T15:28:00.000",
+   "sourceCount": 2,
    "model": "gemini-3.1-flash-lite"
   },
   {
@@ -1528,11 +1431,11 @@
    "articleTitle": "철도노조, 서울 도심서 결의대회…다음 달 총파업 예고",
    "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8712905&ref=A",
    "publishedAt": "2026-11-14T16:00:00.000",
-   "sourceCount": 10,
+   "sourceCount": 7,
    "model": "gemini-3.1-flash-lite"
   },
   {
-   "id": "80bac0af34132519",
+   "id": "75533f182c318432",
    "mode": "rail",
    "operator": "공항철도",
    "regions": [
@@ -1540,13 +1443,13 @@
     "서울"
    ],
    "status": "withdrawn",
-   "quote": "노조 파업계획 철회",
+   "quote": "예고한 경고파업을 철회했고",
    "start": "2026-11-13",
    "dateQuote": "13일",
-   "articleTitle": "공항철도 노사 임금협상 타결…노조 파업계획 철회",
-   "url": "https://www.obsnews.co.kr/news/articleView.html?idxno=1543710",
-   "publishedAt": "2026-11-13T20:08:00.000",
-   "sourceCount": 31,
+   "articleTitle": "[JOB리포트] 공항철도 첫 파업 피했다…‘안전인력 21명’ 확충은 어떻...",
+   "url": "https://www.news2day.co.kr/article/20261113500255",
+   "publishedAt": "2026-11-13T18:46:00.000",
+   "sourceCount": 12,
    "model": "gemini-3.5-flash-lite"
   },
   {
@@ -1561,38 +1464,6 @@
    "articleTitle": "부산교통공사 원·하청 첫 단협…임금·인력 문제 풀리나",
    "url": "http://www.newstown.co.kr/news/articleView.html?idxno=721775",
    "publishedAt": "2026-11-12T20:52:00.000",
-   "sourceCount": 1,
-   "model": "gemini-3.5-flash-lite"
-  },
-  {
-   "id": "e4d31d68487bbdf6",
-   "mode": "rail",
-   "operator": "한국철도공사",
-   "regions": [
-    "전국"
-   ],
-   "status": "scheduled",
-   "quote": "철도노조가 내달 '무기한 파업' 돌입을 본격 예고했다",
-   "articleTitle": "철도노조, 12월 무기한 총파업 예고...KTX·SRT 연말에 어떡하나",
-   "url": "https://www.pennmike.com/news/articleView.html?idxno=131551",
-   "publishedAt": "2026-11-11T13:46:00.000",
-   "sourceCount": 1,
-   "model": "gemini-3.5-flash-lite"
-  },
-  {
-   "id": "918f899072128736",
-   "mode": "subway",
-   "operator": "서울지하철노조",
-   "regions": [
-    "서울"
-   ],
-   "status": "scheduled",
-   "quote": "서울지하철노조 25일 전면파업 예고",
-   "start": "2026-11-25",
-   "dateQuote": "25일 전면파업",
-   "articleTitle": "서울지하철노조 25일 전면파업 예고",
-   "url": "https://www.labortoday.co.kr/news/articleView.html?idxno=237671",
-   "publishedAt": "2026-11-11T06:34:00.000",
    "sourceCount": 1,
    "model": "gemini-3.5-flash-lite"
   }
@@ -7616,7 +7487,604 @@
   },
   {
    "assertion": "planned",
-   "checked_at": "2026-11-17T15:01:24.396932+09:00",
+   "checked_at": "2026-11-18T00:43:44.329208+09:00",
+   "conflict": false,
+   "demo": false,
+   "disruption_confirmed": true,
+   "event_id": "b68d485b1b91f3e50e228432",
+   "event_name": "서울교통공사",
+   "evidence": [
+    {
+     "derivation": "explicit",
+     "effective_at": null,
+     "field_path": "/article_relevance",
+     "quote": "[서울=뉴스핌] 이경화 기자 = 서울지하철 1~8호선을 운영하는 서울교통공사 노동조합이 서울시와 공사에 인력감축 계획 철회와 임금 인상을 요구하며, 오는 25일부터 파업에 나선다고 예고했다.",
+     "reference_source": null,
+     "source_id": "f6270768a16a420dba9e82ba",
+     "source_part": "body",
+     "source_revision": "d97b512c2eba86a347945829"
+    },
+    {
+     "derivation": "explicit",
+     "effective_at": null,
+     "field_path": "/transport_mode",
+     "quote": "[서울=뉴스핌] 이경화 기자 = 서울지하철 1~8호선을 운영하는 서울교통공사 노동조합이 서울시와 공사에 인력감축 계획 철회와 임금 인상을 요구하며, 오는 25일부터 파업에 나선다고 예고했다.",
+     "reference_source": null,
+     "source_id": "f6270768a16a420dba9e82ba",
+     "source_part": "body",
+     "source_revision": "d97b512c2eba86a347945829"
+    },
+    {
+     "derivation": "explicit",
+     "effective_at": null,
+     "field_path": "/affected_regions",
+     "quote": "[서울=뉴스핌] 이경화 기자 = 서울지하철 1~8호선을 운영하는 서울교통공사 노동조합이 서울시와 공사에 인력감축 계획 철회와 임금 인상을 요구하며, 오는 25일부터 파업에 나선다고 예고했다.",
+     "reference_source": null,
+     "source_id": "f6270768a16a420dba9e82ba",
+     "source_part": "body",
+     "source_revision": "d97b512c2eba86a347945829"
+    },
+    {
+     "derivation": "explicit",
+     "effective_at": null,
+     "field_path": "/affected_routes",
+     "quote": "[서울=뉴스핌] 이경화 기자 = 서울지하철 1~8호선을 운영하는 서울교통공사 노동조합이 서울시와 공사에 인력감축 계획 철회와 임금 인상을 요구하며, 오는 25일부터 파업에 나선다고 예고했다.",
+     "reference_source": null,
+     "source_id": "f6270768a16a420dba9e82ba",
+     "source_part": "body",
+     "source_revision": "d97b512c2eba86a347945829"
+    },
+    {
+     "derivation": "explicit",
+     "effective_at": null,
+     "field_path": "/strike_status",
+     "quote": "[서울=뉴스핌] 이경화 기자 = 서울지하철 1~8호선을 운영하는 서울교통공사 노동조합이 서울시와 공사에 인력감축 계획 철회와 임금 인상을 요구하며, 오는 25일부터 파업에 나선다고 예고했다.",
+     "reference_source": null,
+     "source_id": "f6270768a16a420dba9e82ba",
+     "source_part": "body",
+     "source_revision": "d97b512c2eba86a347945829"
+    },
+    {
+     "derivation": "explicit",
+     "effective_at": null,
+     "field_path": "/service_status",
+     "quote": "[서울=뉴스핌] 이경화 기자 = 서울지하철 1~8호선을 운영하는 서울교통공사 노동조합이 서울시와 공사에 인력감축 계획 철회와 임금 인상을 요구하며, 오는 25일부터 파업에 나선다고 예고했다.",
+     "reference_source": null,
+     "source_id": "f6270768a16a420dba9e82ba",
+     "source_part": "body",
+     "source_revision": "d97b512c2eba86a347945829"
+    },
+    {
+     "derivation": "explicit",
+     "effective_at": null,
+     "field_path": "/normal_service_exceptions",
+     "quote": "[서울=뉴스핌] 이경화 기자 = 서울지하철 1~8호선을 운영하는 서울교통공사 노동조합이 서울시와 공사에 인력감축 계획 철회와 임금 인상을 요구하며, 오는 25일부터 파업에 나선다고 예고했다.",
+     "reference_source": null,
+     "source_id": "f6270768a16a420dba9e82ba",
+     "source_part": "body",
+     "source_revision": "d97b512c2eba86a347945829"
+    },
+    {
+     "derivation": "explicit",
+     "effective_at": null,
+     "field_path": "/alternative_services",
+     "quote": "[서울=뉴스핌] 이경화 기자 = 서울지하철 1~8호선을 운영하는 서울교통공사 노동조합이 서울시와 공사에 인력감축 계획 철회와 임금 인상을 요구하며, 오는 25일부터 파업에 나선다고 예고했다.",
+     "reference_source": null,
+     "source_id": "f6270768a16a420dba9e82ba",
+     "source_part": "body",
+     "source_revision": "d97b512c2eba86a347945829"
+    },
+    {
+     "derivation": "explicit",
+     "effective_at": null,
+     "field_path": "/start",
+     "quote": "[서울=뉴스핌] 이경화 기자 = 서울지하철 1~8호선을 운영하는 서울교통공사 노동조합이 서울시와 공사에 인력감축 계획 철회와 임금 인상을 요구하며, 오는 25일부터 파업에 나선다고 예고했다.",
+     "reference_source": null,
+     "source_id": "f6270768a16a420dba9e82ba",
+     "source_part": "body",
+     "source_revision": "d97b512c2eba86a347945829"
+    },
+    {
+     "derivation": "explicit",
+     "effective_at": null,
+     "field_path": "/end",
+     "quote": "[서울=뉴스핌] 이경화 기자 = 서울지하철 1~8호선을 운영하는 서울교통공사 노동조합이 서울시와 공사에 인력감축 계획 철회와 임금 인상을 요구하며, 오는 25일부터 파업에 나선다고 예고했다.",
+     "reference_source": null,
+     "source_id": "f6270768a16a420dba9e82ba",
+     "source_part": "body",
+     "source_revision": "d97b512c2eba86a347945829"
+    }
+   ],
+   "exceptions": [],
+   "id": "b9203b06e3b536c656ccd65e",
+   "modes": [
+    "subway"
+   ],
+   "period": {
+    "condition": null,
+    "end": {
+     "assertion": "unknown",
+     "basis": "unknown",
+     "date": null,
+     "open_ended": null,
+     "raw": null,
+     "time": null,
+     "timezone": "Asia/Seoul"
+    },
+    "precision": "PARTIAL",
+    "start": {
+     "assertion": "unknown",
+     "basis": "unknown",
+     "date": null,
+     "open_ended": null,
+     "raw": null,
+     "time": null,
+     "timezone": "Asia/Seoul"
+    }
+   },
+   "published_at": "2026-11-17T15:04:00+09:00",
+   "review_reasons": [
+    "DATE_UNCONFIRMED"
+   ],
+   "scope": [
+    {
+     "derivation": "article_explicit",
+     "normalized_name": "8호선",
+     "raw": "8호선",
+     "reference_id": null,
+     "reference_source": null,
+     "region": "서울"
+    },
+    {
+     "derivation": "article_explicit",
+     "normalized_name": "나선",
+     "raw": "나선",
+     "reference_id": null,
+     "reference_source": null,
+     "region": "서울"
+    }
+   ],
+   "service_status": [
+    {
+     "assertion": "actual",
+     "metrics": [],
+     "period": {
+      "condition": null,
+      "end": {
+       "assertion": "unknown",
+       "basis": "unknown",
+       "date": null,
+       "open_ended": null,
+       "raw": null,
+       "time": null,
+       "timezone": "Asia/Seoul"
+      },
+      "precision": "UNKNOWN",
+      "start": {
+       "assertion": "unknown",
+       "basis": "unknown",
+       "date": null,
+       "open_ended": null,
+       "raw": null,
+       "time": null,
+       "timezone": "Asia/Seoul"
+      }
+     },
+     "raw": "[서울=뉴스핌] 이경화 기자 = 서울지하철 1~8호선을 운영하는 서울교통공사 노동조합이 서울시와 공사에 인력감축 계획 철회와 임금 인상을 요구하며, 오는 25일부터 파업에 나선다고 예고했다.",
+     "scope": [
+      {
+       "derivation": "article_explicit",
+       "normalized_name": "8호선",
+       "raw": "8호선",
+       "reference_id": null,
+       "reference_source": null,
+       "region": "서울"
+      },
+      {
+       "derivation": "article_explicit",
+       "normalized_name": "나선",
+       "raw": "나선",
+       "reference_id": null,
+       "reference_source": null,
+       "region": "서울"
+      }
+     ],
+     "value": "reduced"
+    }
+   ],
+   "source_url": "https://www.newspim.com/news/view/20261117001008",
+   "status": "ANNOUNCED",
+   "status_effective_at": null,
+   "strike_status": "scheduled",
+   "type": "STRIKE",
+   "updated_at": "2026-11-17T15:30:00+09:00",
+   "version": 1,
+   "body_verified": true
+  },
+  {
+   "assertion": "planned",
+   "checked_at": "2026-11-18T00:43:44.329208+09:00",
+   "conflict": false,
+   "demo": false,
+   "disruption_confirmed": true,
+   "event_id": "b140da79235da693ff8ded3f",
+   "event_name": "서울교통공사",
+   "evidence": [
+    {
+     "derivation": "explicit",
+     "effective_at": null,
+     "field_path": "/article_relevance",
+     "quote": "서울교통공사 노조는 17일 오전 서울시청 앞 세종대로에서 3000여명의 조합원이 참여한 가운데 조합원 총회를 열고, 구조조정 저지와 안전 인력 충원, 임금인상 등 핵심 요구 관철을 위한 총파업 준비 태세에 들어갔다.",
+     "reference_source": null,
+     "source_id": "f6270768a16a420dba9e82ba",
+     "source_part": "body",
+     "source_revision": "d97b512c2eba86a347945829"
+    },
+    {
+     "derivation": "explicit",
+     "effective_at": null,
+     "field_path": "/article_relevance",
+     "quote": "노조는 2212명 인력감축 계획을 전면 철회하고, 현장 안전 인력 1313명을 충원하라고 요구했다.",
+     "reference_source": null,
+     "source_id": "f6270768a16a420dba9e82ba",
+     "source_part": "body",
+     "source_revision": "d97b512c2eba86a347945829"
+    },
+    {
+     "derivation": "explicit",
+     "effective_at": null,
+     "field_path": "/article_relevance",
+     "quote": "그는 \"공사와 서울시가 전향적인 입장 변화를 보이지 않으면, 25일부터 무기한 전면 총파업을 시작할 것\"이라며 \"안전인력을 충원하고, 일터와 시민의 안전을 끝까지 지켜내겠다\"고 말했다.",
+     "reference_source": null,
+     "source_id": "f6270768a16a420dba9e82ba",
+     "source_part": "body",
+     "source_revision": "d97b512c2eba86a347945829"
+    },
+    {
+     "derivation": "explicit",
+     "effective_at": null,
+     "field_path": "/transport_mode",
+     "quote": "서울교통공사 노조는 17일 오전 서울시청 앞 세종대로에서 3000여명의 조합원이 참여한 가운데 조합원 총회를 열고, 구조조정 저지와 안전 인력 충원, 임금인상 등 핵심 요구 관철을 위한 총파업 준비 태세에 들어갔다.",
+     "reference_source": null,
+     "source_id": "f6270768a16a420dba9e82ba",
+     "source_part": "body",
+     "source_revision": "d97b512c2eba86a347945829"
+    },
+    {
+     "derivation": "explicit",
+     "effective_at": null,
+     "field_path": "/transport_mode",
+     "quote": "노조는 2212명 인력감축 계획을 전면 철회하고, 현장 안전 인력 1313명을 충원하라고 요구했다.",
+     "reference_source": null,
+     "source_id": "f6270768a16a420dba9e82ba",
+     "source_part": "body",
+     "source_revision": "d97b512c2eba86a347945829"
+    },
+    {
+     "derivation": "explicit",
+     "effective_at": null,
+     "field_path": "/transport_mode",
+     "quote": "그는 \"공사와 서울시가 전향적인 입장 변화를 보이지 않으면, 25일부터 무기한 전면 총파업을 시작할 것\"이라며 \"안전인력을 충원하고, 일터와 시민의 안전을 끝까지 지켜내겠다\"고 말했다.",
+     "reference_source": null,
+     "source_id": "f6270768a16a420dba9e82ba",
+     "source_part": "body",
+     "source_revision": "d97b512c2eba86a347945829"
+    },
+    {
+     "derivation": "explicit",
+     "effective_at": null,
+     "field_path": "/affected_regions",
+     "quote": "서울교통공사 노조는 17일 오전 서울시청 앞 세종대로에서 3000여명의 조합원이 참여한 가운데 조합원 총회를 열고, 구조조정 저지와 안전 인력 충원, 임금인상 등 핵심 요구 관철을 위한 총파업 준비 태세에 들어갔다.",
+     "reference_source": null,
+     "source_id": "f6270768a16a420dba9e82ba",
+     "source_part": "body",
+     "source_revision": "d97b512c2eba86a347945829"
+    },
+    {
+     "derivation": "explicit",
+     "effective_at": null,
+     "field_path": "/affected_regions",
+     "quote": "노조는 2212명 인력감축 계획을 전면 철회하고, 현장 안전 인력 1313명을 충원하라고 요구했다.",
+     "reference_source": null,
+     "source_id": "f6270768a16a420dba9e82ba",
+     "source_part": "body",
+     "source_revision": "d97b512c2eba86a347945829"
+    },
+    {
+     "derivation": "explicit",
+     "effective_at": null,
+     "field_path": "/affected_regions",
+     "quote": "그는 \"공사와 서울시가 전향적인 입장 변화를 보이지 않으면, 25일부터 무기한 전면 총파업을 시작할 것\"이라며 \"안전인력을 충원하고, 일터와 시민의 안전을 끝까지 지켜내겠다\"고 말했다.",
+     "reference_source": null,
+     "source_id": "f6270768a16a420dba9e82ba",
+     "source_part": "body",
+     "source_revision": "d97b512c2eba86a347945829"
+    },
+    {
+     "derivation": "explicit",
+     "effective_at": null,
+     "field_path": "/affected_routes",
+     "quote": "서울교통공사 노조는 17일 오전 서울시청 앞 세종대로에서 3000여명의 조합원이 참여한 가운데 조합원 총회를 열고, 구조조정 저지와 안전 인력 충원, 임금인상 등 핵심 요구 관철을 위한 총파업 준비 태세에 들어갔다.",
+     "reference_source": null,
+     "source_id": "f6270768a16a420dba9e82ba",
+     "source_part": "body",
+     "source_revision": "d97b512c2eba86a347945829"
+    },
+    {
+     "derivation": "explicit",
+     "effective_at": null,
+     "field_path": "/affected_routes",
+     "quote": "노조는 2212명 인력감축 계획을 전면 철회하고, 현장 안전 인력 1313명을 충원하라고 요구했다.",
+     "reference_source": null,
+     "source_id": "f6270768a16a420dba9e82ba",
+     "source_part": "body",
+     "source_revision": "d97b512c2eba86a347945829"
+    },
+    {
+     "derivation": "explicit",
+     "effective_at": null,
+     "field_path": "/affected_routes",
+     "quote": "그는 \"공사와 서울시가 전향적인 입장 변화를 보이지 않으면, 25일부터 무기한 전면 총파업을 시작할 것\"이라며 \"안전인력을 충원하고, 일터와 시민의 안전을 끝까지 지켜내겠다\"고 말했다.",
+     "reference_source": null,
+     "source_id": "f6270768a16a420dba9e82ba",
+     "source_part": "body",
+     "source_revision": "d97b512c2eba86a347945829"
+    },
+    {
+     "derivation": "explicit",
+     "effective_at": null,
+     "field_path": "/strike_status",
+     "quote": "서울교통공사 노조는 17일 오전 서울시청 앞 세종대로에서 3000여명의 조합원이 참여한 가운데 조합원 총회를 열고, 구조조정 저지와 안전 인력 충원, 임금인상 등 핵심 요구 관철을 위한 총파업 준비 태세에 들어갔다.",
+     "reference_source": null,
+     "source_id": "f6270768a16a420dba9e82ba",
+     "source_part": "body",
+     "source_revision": "d97b512c2eba86a347945829"
+    },
+    {
+     "derivation": "explicit",
+     "effective_at": null,
+     "field_path": "/strike_status",
+     "quote": "노조는 2212명 인력감축 계획을 전면 철회하고, 현장 안전 인력 1313명을 충원하라고 요구했다.",
+     "reference_source": null,
+     "source_id": "f6270768a16a420dba9e82ba",
+     "source_part": "body",
+     "source_revision": "d97b512c2eba86a347945829"
+    },
+    {
+     "derivation": "explicit",
+     "effective_at": null,
+     "field_path": "/strike_status",
+     "quote": "그는 \"공사와 서울시가 전향적인 입장 변화를 보이지 않으면, 25일부터 무기한 전면 총파업을 시작할 것\"이라며 \"안전인력을 충원하고, 일터와 시민의 안전을 끝까지 지켜내겠다\"고 말했다.",
+     "reference_source": null,
+     "source_id": "f6270768a16a420dba9e82ba",
+     "source_part": "body",
+     "source_revision": "d97b512c2eba86a347945829"
+    },
+    {
+     "derivation": "explicit",
+     "effective_at": null,
+     "field_path": "/service_status",
+     "quote": "서울교통공사 노조는 17일 오전 서울시청 앞 세종대로에서 3000여명의 조합원이 참여한 가운데 조합원 총회를 열고, 구조조정 저지와 안전 인력 충원, 임금인상 등 핵심 요구 관철을 위한 총파업 준비 태세에 들어갔다.",
+     "reference_source": null,
+     "source_id": "f6270768a16a420dba9e82ba",
+     "source_part": "body",
+     "source_revision": "d97b512c2eba86a347945829"
+    },
+    {
+     "derivation": "explicit",
+     "effective_at": null,
+     "field_path": "/service_status",
+     "quote": "노조는 2212명 인력감축 계획을 전면 철회하고, 현장 안전 인력 1313명을 충원하라고 요구했다.",
+     "reference_source": null,
+     "source_id": "f6270768a16a420dba9e82ba",
+     "source_part": "body",
+     "source_revision": "d97b512c2eba86a347945829"
+    },
+    {
+     "derivation": "explicit",
+     "effective_at": null,
+     "field_path": "/service_status",
+     "quote": "그는 \"공사와 서울시가 전향적인 입장 변화를 보이지 않으면, 25일부터 무기한 전면 총파업을 시작할 것\"이라며 \"안전인력을 충원하고, 일터와 시민의 안전을 끝까지 지켜내겠다\"고 말했다.",
+     "reference_source": null,
+     "source_id": "f6270768a16a420dba9e82ba",
+     "source_part": "body",
+     "source_revision": "d97b512c2eba86a347945829"
+    },
+    {
+     "derivation": "explicit",
+     "effective_at": null,
+     "field_path": "/normal_service_exceptions",
+     "quote": "서울교통공사 노조는 17일 오전 서울시청 앞 세종대로에서 3000여명의 조합원이 참여한 가운데 조합원 총회를 열고, 구조조정 저지와 안전 인력 충원, 임금인상 등 핵심 요구 관철을 위한 총파업 준비 태세에 들어갔다.",
+     "reference_source": null,
+     "source_id": "f6270768a16a420dba9e82ba",
+     "source_part": "body",
+     "source_revision": "d97b512c2eba86a347945829"
+    },
+    {
+     "derivation": "explicit",
+     "effective_at": null,
+     "field_path": "/normal_service_exceptions",
+     "quote": "노조는 2212명 인력감축 계획을 전면 철회하고, 현장 안전 인력 1313명을 충원하라고 요구했다.",
+     "reference_source": null,
+     "source_id": "f6270768a16a420dba9e82ba",
+     "source_part": "body",
+     "source_revision": "d97b512c2eba86a347945829"
+    },
+    {
+     "derivation": "explicit",
+     "effective_at": null,
+     "field_path": "/normal_service_exceptions",
+     "quote": "그는 \"공사와 서울시가 전향적인 입장 변화를 보이지 않으면, 25일부터 무기한 전면 총파업을 시작할 것\"이라며 \"안전인력을 충원하고, 일터와 시민의 안전을 끝까지 지켜내겠다\"고 말했다.",
+     "reference_source": null,
+     "source_id": "f6270768a16a420dba9e82ba",
+     "source_part": "body",
+     "source_revision": "d97b512c2eba86a347945829"
+    },
+    {
+     "derivation": "explicit",
+     "effective_at": null,
+     "field_path": "/alternative_services",
+     "quote": "서울교통공사 노조는 17일 오전 서울시청 앞 세종대로에서 3000여명의 조합원이 참여한 가운데 조합원 총회를 열고, 구조조정 저지와 안전 인력 충원, 임금인상 등 핵심 요구 관철을 위한 총파업 준비 태세에 들어갔다.",
+     "reference_source": null,
+     "source_id": "f6270768a16a420dba9e82ba",
+     "source_part": "body",
+     "source_revision": "d97b512c2eba86a347945829"
+    },
+    {
+     "derivation": "explicit",
+     "effective_at": null,
+     "field_path": "/alternative_services",
+     "quote": "노조는 2212명 인력감축 계획을 전면 철회하고, 현장 안전 인력 1313명을 충원하라고 요구했다.",
+     "reference_source": null,
+     "source_id": "f6270768a16a420dba9e82ba",
+     "source_part": "body",
+     "source_revision": "d97b512c2eba86a347945829"
+    },
+    {
+     "derivation": "explicit",
+     "effective_at": null,
+     "field_path": "/alternative_services",
+     "quote": "그는 \"공사와 서울시가 전향적인 입장 변화를 보이지 않으면, 25일부터 무기한 전면 총파업을 시작할 것\"이라며 \"안전인력을 충원하고, 일터와 시민의 안전을 끝까지 지켜내겠다\"고 말했다.",
+     "reference_source": null,
+     "source_id": "f6270768a16a420dba9e82ba",
+     "source_part": "body",
+     "source_revision": "d97b512c2eba86a347945829"
+    },
+    {
+     "derivation": "explicit",
+     "effective_at": null,
+     "field_path": "/start",
+     "quote": "서울교통공사 노조는 17일 오전 서울시청 앞 세종대로에서 3000여명의 조합원이 참여한 가운데 조합원 총회를 열고, 구조조정 저지와 안전 인력 충원, 임금인상 등 핵심 요구 관철을 위한 총파업 준비 태세에 들어갔다.",
+     "reference_source": null,
+     "source_id": "f6270768a16a420dba9e82ba",
+     "source_part": "body",
+     "source_revision": "d97b512c2eba86a347945829"
+    },
+    {
+     "derivation": "explicit",
+     "effective_at": null,
+     "field_path": "/start",
+     "quote": "노조는 2212명 인력감축 계획을 전면 철회하고, 현장 안전 인력 1313명을 충원하라고 요구했다.",
+     "reference_source": null,
+     "source_id": "f6270768a16a420dba9e82ba",
+     "source_part": "body",
+     "source_revision": "d97b512c2eba86a347945829"
+    },
+    {
+     "derivation": "explicit",
+     "effective_at": null,
+     "field_path": "/start",
+     "quote": "그는 \"공사와 서울시가 전향적인 입장 변화를 보이지 않으면, 25일부터 무기한 전면 총파업을 시작할 것\"이라며 \"안전인력을 충원하고, 일터와 시민의 안전을 끝까지 지켜내겠다\"고 말했다.",
+     "reference_source": null,
+     "source_id": "f6270768a16a420dba9e82ba",
+     "source_part": "body",
+     "source_revision": "d97b512c2eba86a347945829"
+    },
+    {
+     "derivation": "explicit",
+     "effective_at": null,
+     "field_path": "/end",
+     "quote": "서울교통공사 노조는 17일 오전 서울시청 앞 세종대로에서 3000여명의 조합원이 참여한 가운데 조합원 총회를 열고, 구조조정 저지와 안전 인력 충원, 임금인상 등 핵심 요구 관철을 위한 총파업 준비 태세에 들어갔다.",
+     "reference_source": null,
+     "source_id": "f6270768a16a420dba9e82ba",
+     "source_part": "body",
+     "source_revision": "d97b512c2eba86a347945829"
+    },
+    {
+     "derivation": "explicit",
+     "effective_at": null,
+     "field_path": "/end",
+     "quote": "노조는 2212명 인력감축 계획을 전면 철회하고, 현장 안전 인력 1313명을 충원하라고 요구했다.",
+     "reference_source": null,
+     "source_id": "f6270768a16a420dba9e82ba",
+     "source_part": "body",
+     "source_revision": "d97b512c2eba86a347945829"
+    },
+    {
+     "derivation": "explicit",
+     "effective_at": null,
+     "field_path": "/end",
+     "quote": "그는 \"공사와 서울시가 전향적인 입장 변화를 보이지 않으면, 25일부터 무기한 전면 총파업을 시작할 것\"이라며 \"안전인력을 충원하고, 일터와 시민의 안전을 끝까지 지켜내겠다\"고 말했다.",
+     "reference_source": null,
+     "source_id": "f6270768a16a420dba9e82ba",
+     "source_part": "body",
+     "source_revision": "d97b512c2eba86a347945829"
+    }
+   ],
+   "exceptions": [],
+   "id": "536b96897b34d41c91513427",
+   "modes": [],
+   "period": {
+    "condition": null,
+    "end": {
+     "assertion": "unknown",
+     "basis": "unknown",
+     "date": null,
+     "open_ended": true,
+     "raw": "무기한",
+     "time": null,
+     "timezone": "Asia/Seoul"
+    },
+    "precision": "PARTIAL",
+    "start": {
+     "assertion": "unknown",
+     "basis": "unknown",
+     "date": null,
+     "open_ended": null,
+     "raw": null,
+     "time": null,
+     "timezone": "Asia/Seoul"
+    }
+   },
+   "published_at": "2026-11-17T15:04:00+09:00",
+   "review_reasons": [
+    "UNSUPPORTED_OR_AMBIGUOUS_STATUS",
+    "DATE_UNCONFIRMED"
+   ],
+   "scope": [],
+   "service_status": [
+    {
+     "assertion": "actual",
+     "metrics": [],
+     "period": {
+      "condition": null,
+      "end": {
+       "assertion": "unknown",
+       "basis": "unknown",
+       "date": null,
+       "open_ended": null,
+       "raw": null,
+       "time": null,
+       "timezone": "Asia/Seoul"
+      },
+      "precision": "UNKNOWN",
+      "start": {
+       "assertion": "unknown",
+       "basis": "unknown",
+       "date": null,
+       "open_ended": null,
+       "raw": null,
+       "time": null,
+       "timezone": "Asia/Seoul"
+      }
+     },
+     "raw": "노조는 2212명 인력감축 계획을 전면 철회하고, 현장 안전 인력 1313명을 충원하라고 요구했다.",
+     "scope": [],
+     "value": "reduced"
+    }
+   ],
+   "source_url": "https://www.newspim.com/news/view/20261117001008",
+   "status": "UNKNOWN",
+   "status_effective_at": null,
+   "strike_status": "unknown",
+   "type": "STRIKE",
+   "updated_at": "2026-11-17T15:30:00+09:00",
+   "version": 1,
+   "body_verified": true
+  },
+  {
+   "assertion": "planned",
+   "checked_at": "2026-11-18T00:44:04.029127+09:00",
    "conflict": false,
    "demo": false,
    "disruption_confirmed": true,
@@ -8015,7 +8483,7 @@
   },
   {
    "assertion": "planned",
-   "checked_at": "2026-11-17T15:01:24.396932+09:00",
+   "checked_at": "2026-11-18T00:44:04.029127+09:00",
    "conflict": false,
    "demo": false,
    "disruption_confirmed": false,
@@ -8169,10 +8637,36 @@
   {
    "strikes": [
     {
-     "article_relevance": "unrelated",
-     "transport_mode": "unknown",
-     "affected_regions": [],
-     "affected_routes": [],
+     "article_relevance": "related",
+     "transport_mode": "subway",
+     "affected_regions": [
+      {
+       "raw": "서울",
+       "normalized_name": "서울",
+       "region": "서울",
+       "reference_id": null,
+       "derivation": "article_explicit",
+       "reference_source": null
+      }
+     ],
+     "affected_routes": [
+      {
+       "raw": "8호선",
+       "normalized_name": "8호선",
+       "region": "서울",
+       "reference_id": null,
+       "derivation": "article_explicit",
+       "reference_source": null
+      },
+      {
+       "raw": "나선",
+       "normalized_name": "나선",
+       "region": "서울",
+       "reference_id": null,
+       "derivation": "article_explicit",
+       "reference_source": null
+      }
+     ],
      "start": {
       "raw": null,
       "date": null,
@@ -8192,122 +8686,548 @@
       "open_ended": null
      },
      "strike_status": {
-      "value": "unknown",
+      "value": "scheduled",
       "conditions": [],
-      "scope_raw": null,
+      "scope_raw": "[서울=뉴스핌] 이경화 기자 = 서울지하철 1~8호선을 운영하는 서울교통공사 노동조합이 서울시와 공사에 인력감축 계획 철회와 임금 인상을 요구하며, 오는 25일부터 파업에 나선다고 예고했다.",
       "effective_at": null
      },
-     "service_status": [],
+     "service_status": [
+      {
+       "value": "reduced",
+       "assertion": "actual",
+       "raw": "[서울=뉴스핌] 이경화 기자 = 서울지하철 1~8호선을 운영하는 서울교통공사 노동조합이 서울시와 공사에 인력감축 계획 철회와 임금 인상을 요구하며, 오는 25일부터 파업에 나선다고 예고했다.",
+       "scope": [
+        {
+         "raw": "8호선",
+         "normalized_name": "8호선",
+         "region": "서울",
+         "reference_id": null,
+         "derivation": "article_explicit",
+         "reference_source": null
+        },
+        {
+         "raw": "나선",
+         "normalized_name": "나선",
+         "region": "서울",
+         "reference_id": null,
+         "derivation": "article_explicit",
+         "reference_source": null
+        }
+       ],
+       "period": {
+        "start": {
+         "raw": null,
+         "date": null,
+         "time": null,
+         "timezone": "Asia/Seoul",
+         "basis": "unknown",
+         "assertion": "unknown",
+         "open_ended": null
+        },
+        "end": {
+         "raw": null,
+         "date": null,
+         "time": null,
+         "timezone": "Asia/Seoul",
+         "basis": "unknown",
+         "assertion": "unknown",
+         "open_ended": null
+        },
+        "precision": "UNKNOWN",
+        "condition": null
+       },
+       "metrics": []
+      }
+     ],
      "normal_service_exceptions": [],
      "alternative_services": [],
      "evidence_and_timestamps": {
-      "source_url": "https://www.newspim.com/news/view/20261117000638",
-      "published_at": "2026-11-17T11:34:00+09:00",
-      "updated_at": "2026-11-17T11:34:00+09:00",
-      "collected_at": "2026-11-17T15:01:18.234769+09:00",
+      "source_url": "https://www.newspim.com/news/view/20261117001008",
+      "published_at": "2026-11-17T15:04:00+09:00",
+      "updated_at": "2026-11-17T15:30:00+09:00",
+      "collected_at": "2026-11-18T00:43:44.329208+09:00",
       "field_evidence": [
        {
         "field_path": "/article_relevance",
-        "quote": "그 사이 대법원 통상임금 판결 이후 임금체계 갈등, 올해 시내버스 파업과 9월 재파업 위기, 개정 노조법 시행, 서소문고가 붕괴로 세 명이 숨진 노동안전 문제, 지방노동감독관 도입까지 시급한 노동현안이 끊이지 않았지만 협의회가 의제로 올린 것은 하나도 없다는 것이다.",
+        "quote": "[서울=뉴스핌] 이경화 기자 = 서울지하철 1~8호선을 운영하는 서울교통공사 노동조합이 서울시와 공사에 인력감축 계획 철회와 임금 인상을 요구하며, 오는 25일부터 파업에 나선다고 예고했다.",
         "source_part": "body",
         "effective_at": null,
         "derivation": "explicit",
-        "source_id": "081bd0c6c4d5d5a6611fd1fa",
-        "source_revision": "acf49610b874560b84453bb5",
+        "source_id": "f6270768a16a420dba9e82ba",
+        "source_revision": "d97b512c2eba86a347945829",
         "reference_source": null
        },
        {
         "field_path": "/transport_mode",
-        "quote": "그 사이 대법원 통상임금 판결 이후 임금체계 갈등, 올해 시내버스 파업과 9월 재파업 위기, 개정 노조법 시행, 서소문고가 붕괴로 세 명이 숨진 노동안전 문제, 지방노동감독관 도입까지 시급한 노동현안이 끊이지 않았지만 협의회가 의제로 올린 것은 하나도 없다는 것이다.",
+        "quote": "[서울=뉴스핌] 이경화 기자 = 서울지하철 1~8호선을 운영하는 서울교통공사 노동조합이 서울시와 공사에 인력감축 계획 철회와 임금 인상을 요구하며, 오는 25일부터 파업에 나선다고 예고했다.",
         "source_part": "body",
         "effective_at": null,
         "derivation": "explicit",
-        "source_id": "081bd0c6c4d5d5a6611fd1fa",
-        "source_revision": "acf49610b874560b84453bb5",
+        "source_id": "f6270768a16a420dba9e82ba",
+        "source_revision": "d97b512c2eba86a347945829",
         "reference_source": null
        },
        {
         "field_path": "/affected_regions",
-        "quote": "그 사이 대법원 통상임금 판결 이후 임금체계 갈등, 올해 시내버스 파업과 9월 재파업 위기, 개정 노조법 시행, 서소문고가 붕괴로 세 명이 숨진 노동안전 문제, 지방노동감독관 도입까지 시급한 노동현안이 끊이지 않았지만 협의회가 의제로 올린 것은 하나도 없다는 것이다.",
+        "quote": "[서울=뉴스핌] 이경화 기자 = 서울지하철 1~8호선을 운영하는 서울교통공사 노동조합이 서울시와 공사에 인력감축 계획 철회와 임금 인상을 요구하며, 오는 25일부터 파업에 나선다고 예고했다.",
         "source_part": "body",
         "effective_at": null,
         "derivation": "explicit",
-        "source_id": "081bd0c6c4d5d5a6611fd1fa",
-        "source_revision": "acf49610b874560b84453bb5",
+        "source_id": "f6270768a16a420dba9e82ba",
+        "source_revision": "d97b512c2eba86a347945829",
         "reference_source": null
        },
        {
         "field_path": "/affected_routes",
-        "quote": "그 사이 대법원 통상임금 판결 이후 임금체계 갈등, 올해 시내버스 파업과 9월 재파업 위기, 개정 노조법 시행, 서소문고가 붕괴로 세 명이 숨진 노동안전 문제, 지방노동감독관 도입까지 시급한 노동현안이 끊이지 않았지만 협의회가 의제로 올린 것은 하나도 없다는 것이다.",
+        "quote": "[서울=뉴스핌] 이경화 기자 = 서울지하철 1~8호선을 운영하는 서울교통공사 노동조합이 서울시와 공사에 인력감축 계획 철회와 임금 인상을 요구하며, 오는 25일부터 파업에 나선다고 예고했다.",
         "source_part": "body",
         "effective_at": null,
         "derivation": "explicit",
-        "source_id": "081bd0c6c4d5d5a6611fd1fa",
-        "source_revision": "acf49610b874560b84453bb5",
+        "source_id": "f6270768a16a420dba9e82ba",
+        "source_revision": "d97b512c2eba86a347945829",
         "reference_source": null
        },
        {
         "field_path": "/strike_status",
-        "quote": "그 사이 대법원 통상임금 판결 이후 임금체계 갈등, 올해 시내버스 파업과 9월 재파업 위기, 개정 노조법 시행, 서소문고가 붕괴로 세 명이 숨진 노동안전 문제, 지방노동감독관 도입까지 시급한 노동현안이 끊이지 않았지만 협의회가 의제로 올린 것은 하나도 없다는 것이다.",
+        "quote": "[서울=뉴스핌] 이경화 기자 = 서울지하철 1~8호선을 운영하는 서울교통공사 노동조합이 서울시와 공사에 인력감축 계획 철회와 임금 인상을 요구하며, 오는 25일부터 파업에 나선다고 예고했다.",
         "source_part": "body",
         "effective_at": null,
         "derivation": "explicit",
-        "source_id": "081bd0c6c4d5d5a6611fd1fa",
-        "source_revision": "acf49610b874560b84453bb5",
+        "source_id": "f6270768a16a420dba9e82ba",
+        "source_revision": "d97b512c2eba86a347945829",
         "reference_source": null
        },
        {
         "field_path": "/service_status",
-        "quote": "그 사이 대법원 통상임금 판결 이후 임금체계 갈등, 올해 시내버스 파업과 9월 재파업 위기, 개정 노조법 시행, 서소문고가 붕괴로 세 명이 숨진 노동안전 문제, 지방노동감독관 도입까지 시급한 노동현안이 끊이지 않았지만 협의회가 의제로 올린 것은 하나도 없다는 것이다.",
+        "quote": "[서울=뉴스핌] 이경화 기자 = 서울지하철 1~8호선을 운영하는 서울교통공사 노동조합이 서울시와 공사에 인력감축 계획 철회와 임금 인상을 요구하며, 오는 25일부터 파업에 나선다고 예고했다.",
         "source_part": "body",
         "effective_at": null,
         "derivation": "explicit",
-        "source_id": "081bd0c6c4d5d5a6611fd1fa",
-        "source_revision": "acf49610b874560b84453bb5",
+        "source_id": "f6270768a16a420dba9e82ba",
+        "source_revision": "d97b512c2eba86a347945829",
         "reference_source": null
        },
        {
         "field_path": "/normal_service_exceptions",
-        "quote": "그 사이 대법원 통상임금 판결 이후 임금체계 갈등, 올해 시내버스 파업과 9월 재파업 위기, 개정 노조법 시행, 서소문고가 붕괴로 세 명이 숨진 노동안전 문제, 지방노동감독관 도입까지 시급한 노동현안이 끊이지 않았지만 협의회가 의제로 올린 것은 하나도 없다는 것이다.",
+        "quote": "[서울=뉴스핌] 이경화 기자 = 서울지하철 1~8호선을 운영하는 서울교통공사 노동조합이 서울시와 공사에 인력감축 계획 철회와 임금 인상을 요구하며, 오는 25일부터 파업에 나선다고 예고했다.",
         "source_part": "body",
         "effective_at": null,
         "derivation": "explicit",
-        "source_id": "081bd0c6c4d5d5a6611fd1fa",
-        "source_revision": "acf49610b874560b84453bb5",
+        "source_id": "f6270768a16a420dba9e82ba",
+        "source_revision": "d97b512c2eba86a347945829",
         "reference_source": null
        },
        {
         "field_path": "/alternative_services",
-        "quote": "그 사이 대법원 통상임금 판결 이후 임금체계 갈등, 올해 시내버스 파업과 9월 재파업 위기, 개정 노조법 시행, 서소문고가 붕괴로 세 명이 숨진 노동안전 문제, 지방노동감독관 도입까지 시급한 노동현안이 끊이지 않았지만 협의회가 의제로 올린 것은 하나도 없다는 것이다.",
+        "quote": "[서울=뉴스핌] 이경화 기자 = 서울지하철 1~8호선을 운영하는 서울교통공사 노동조합이 서울시와 공사에 인력감축 계획 철회와 임금 인상을 요구하며, 오는 25일부터 파업에 나선다고 예고했다.",
         "source_part": "body",
         "effective_at": null,
         "derivation": "explicit",
-        "source_id": "081bd0c6c4d5d5a6611fd1fa",
-        "source_revision": "acf49610b874560b84453bb5",
+        "source_id": "f6270768a16a420dba9e82ba",
+        "source_revision": "d97b512c2eba86a347945829",
         "reference_source": null
        },
        {
         "field_path": "/start",
-        "quote": "그 사이 대법원 통상임금 판결 이후 임금체계 갈등, 올해 시내버스 파업과 9월 재파업 위기, 개정 노조법 시행, 서소문고가 붕괴로 세 명이 숨진 노동안전 문제, 지방노동감독관 도입까지 시급한 노동현안이 끊이지 않았지만 협의회가 의제로 올린 것은 하나도 없다는 것이다.",
+        "quote": "[서울=뉴스핌] 이경화 기자 = 서울지하철 1~8호선을 운영하는 서울교통공사 노동조합이 서울시와 공사에 인력감축 계획 철회와 임금 인상을 요구하며, 오는 25일부터 파업에 나선다고 예고했다.",
         "source_part": "body",
         "effective_at": null,
         "derivation": "explicit",
-        "source_id": "081bd0c6c4d5d5a6611fd1fa",
-        "source_revision": "acf49610b874560b84453bb5",
+        "source_id": "f6270768a16a420dba9e82ba",
+        "source_revision": "d97b512c2eba86a347945829",
         "reference_source": null
        },
        {
         "field_path": "/end",
-        "quote": "그 사이 대법원 통상임금 판결 이후 임금체계 갈등, 올해 시내버스 파업과 9월 재파업 위기, 개정 노조법 시행, 서소문고가 붕괴로 세 명이 숨진 노동안전 문제, 지방노동감독관 도입까지 시급한 노동현안이 끊이지 않았지만 협의회가 의제로 올린 것은 하나도 없다는 것이다.",
+        "quote": "[서울=뉴스핌] 이경화 기자 = 서울지하철 1~8호선을 운영하는 서울교통공사 노동조합이 서울시와 공사에 인력감축 계획 철회와 임금 인상을 요구하며, 오는 25일부터 파업에 나선다고 예고했다.",
         "source_part": "body",
         "effective_at": null,
         "derivation": "explicit",
-        "source_id": "081bd0c6c4d5d5a6611fd1fa",
-        "source_revision": "acf49610b874560b84453bb5",
+        "source_id": "f6270768a16a420dba9e82ba",
+        "source_revision": "d97b512c2eba86a347945829",
         "reference_source": null
        }
       ],
-      "review_reasons": []
+      "review_reasons": [
+       "DATE_UNCONFIRMED"
+      ]
+     }
+    },
+    {
+     "article_relevance": "related",
+     "transport_mode": "unknown",
+     "affected_regions": [],
+     "affected_routes": [],
+     "start": {
+      "raw": null,
+      "date": null,
+      "time": null,
+      "timezone": "Asia/Seoul",
+      "basis": "unknown",
+      "assertion": "unknown",
+      "open_ended": null
+     },
+     "end": {
+      "raw": "무기한",
+      "date": null,
+      "time": null,
+      "timezone": "Asia/Seoul",
+      "basis": "unknown",
+      "assertion": "unknown",
+      "open_ended": true
+     },
+     "strike_status": {
+      "value": "unknown",
+      "conditions": [
+       "그는 \"공사와 서울시가 전향적인 입장 변화를 보이지 않으면, 25일부터 무기한 전면 총파업을 시작할 것\"이라며 \"안전인력을 충원하고, 일터와 시민의 안전을 끝까지 지켜내겠다\"고 말했다."
+      ],
+      "scope_raw": "서울교통공사 노조는 17일 오전 서울시청 앞 세종대로에서 3000여명의 조합원이 참여한 가운데 조합원 총회를 열고, 구조조정 저지와 안전 인력 충원, 임금인상 등 핵심 요구 관철을 위한 총파업 준비 태세에 들어갔다. 노조는 2212명 인력감축 계획을 전면 철회하고, 현장 안전 인력 1313명을 충원하라고 요구했다. 그는 \"공사와 서울시가 전향적인 입장 변화를 보이지 않으면, 25일부터 무기한 전면 총파업을 시작할 것\"이라며 \"안전인력을 충원하고, 일터와 시민의 안전을 끝까지 지켜내겠다\"고 말했다.",
+      "effective_at": null
+     },
+     "service_status": [
+      {
+       "value": "reduced",
+       "assertion": "actual",
+       "raw": "노조는 2212명 인력감축 계획을 전면 철회하고, 현장 안전 인력 1313명을 충원하라고 요구했다.",
+       "scope": [],
+       "period": {
+        "start": {
+         "raw": null,
+         "date": null,
+         "time": null,
+         "timezone": "Asia/Seoul",
+         "basis": "unknown",
+         "assertion": "unknown",
+         "open_ended": null
+        },
+        "end": {
+         "raw": null,
+         "date": null,
+         "time": null,
+         "timezone": "Asia/Seoul",
+         "basis": "unknown",
+         "assertion": "unknown",
+         "open_ended": null
+        },
+        "precision": "UNKNOWN",
+        "condition": null
+       },
+       "metrics": []
+      }
+     ],
+     "normal_service_exceptions": [],
+     "alternative_services": [],
+     "evidence_and_timestamps": {
+      "source_url": "https://www.newspim.com/news/view/20261117001008",
+      "published_at": "2026-11-17T15:04:00+09:00",
+      "updated_at": "2026-11-17T15:30:00+09:00",
+      "collected_at": "2026-11-18T00:43:44.329208+09:00",
+      "field_evidence": [
+       {
+        "field_path": "/article_relevance",
+        "quote": "서울교통공사 노조는 17일 오전 서울시청 앞 세종대로에서 3000여명의 조합원이 참여한 가운데 조합원 총회를 열고, 구조조정 저지와 안전 인력 충원, 임금인상 등 핵심 요구 관철을 위한 총파업 준비 태세에 들어갔다.",
+        "source_part": "body",
+        "effective_at": null,
+        "derivation": "explicit",
+        "source_id": "f6270768a16a420dba9e82ba",
+        "source_revision": "d97b512c2eba86a347945829",
+        "reference_source": null
+       },
+       {
+        "field_path": "/article_relevance",
+        "quote": "노조는 2212명 인력감축 계획을 전면 철회하고, 현장 안전 인력 1313명을 충원하라고 요구했다.",
+        "source_part": "body",
+        "effective_at": null,
+        "derivation": "explicit",
+        "source_id": "f6270768a16a420dba9e82ba",
+        "source_revision": "d97b512c2eba86a347945829",
+        "reference_source": null
+       },
+       {
+        "field_path": "/article_relevance",
+        "quote": "그는 \"공사와 서울시가 전향적인 입장 변화를 보이지 않으면, 25일부터 무기한 전면 총파업을 시작할 것\"이라며 \"안전인력을 충원하고, 일터와 시민의 안전을 끝까지 지켜내겠다\"고 말했다.",
+        "source_part": "body",
+        "effective_at": null,
+        "derivation": "explicit",
+        "source_id": "f6270768a16a420dba9e82ba",
+        "source_revision": "d97b512c2eba86a347945829",
+        "reference_source": null
+       },
+       {
+        "field_path": "/transport_mode",
+        "quote": "서울교통공사 노조는 17일 오전 서울시청 앞 세종대로에서 3000여명의 조합원이 참여한 가운데 조합원 총회를 열고, 구조조정 저지와 안전 인력 충원, 임금인상 등 핵심 요구 관철을 위한 총파업 준비 태세에 들어갔다.",
+        "source_part": "body",
+        "effective_at": null,
+        "derivation": "explicit",
+        "source_id": "f6270768a16a420dba9e82ba",
+        "source_revision": "d97b512c2eba86a347945829",
+        "reference_source": null
+       },
+       {
+        "field_path": "/transport_mode",
+        "quote": "노조는 2212명 인력감축 계획을 전면 철회하고, 현장 안전 인력 1313명을 충원하라고 요구했다.",
+        "source_part": "body",
+        "effective_at": null,
+        "derivation": "explicit",
+        "source_id": "f6270768a16a420dba9e82ba",
+        "source_revision": "d97b512c2eba86a347945829",
+        "reference_source": null
+       },
+       {
+        "field_path": "/transport_mode",
+        "quote": "그는 \"공사와 서울시가 전향적인 입장 변화를 보이지 않으면, 25일부터 무기한 전면 총파업을 시작할 것\"이라며 \"안전인력을 충원하고, 일터와 시민의 안전을 끝까지 지켜내겠다\"고 말했다.",
+        "source_part": "body",
+        "effective_at": null,
+        "derivation": "explicit",
+        "source_id": "f6270768a16a420dba9e82ba",
+        "source_revision": "d97b512c2eba86a347945829",
+        "reference_source": null
+       },
+       {
+        "field_path": "/affected_regions",
+        "quote": "서울교통공사 노조는 17일 오전 서울시청 앞 세종대로에서 3000여명의 조합원이 참여한 가운데 조합원 총회를 열고, 구조조정 저지와 안전 인력 충원, 임금인상 등 핵심 요구 관철을 위한 총파업 준비 태세에 들어갔다.",
+        "source_part": "body",
+        "effective_at": null,
+        "derivation": "explicit",
+        "source_id": "f6270768a16a420dba9e82ba",
+        "source_revision": "d97b512c2eba86a347945829",
+        "reference_source": null
+       },
+       {
+        "field_path": "/affected_regions",
+        "quote": "노조는 2212명 인력감축 계획을 전면 철회하고, 현장 안전 인력 1313명을 충원하라고 요구했다.",
+        "source_part": "body",
+        "effective_at": null,
+        "derivation": "explicit",
+        "source_id": "f6270768a16a420dba9e82ba",
+        "source_revision": "d97b512c2eba86a347945829",
+        "reference_source": null
+       },
+       {
+        "field_path": "/affected_regions",
+        "quote": "그는 \"공사와 서울시가 전향적인 입장 변화를 보이지 않으면, 25일부터 무기한 전면 총파업을 시작할 것\"이라며 \"안전인력을 충원하고, 일터와 시민의 안전을 끝까지 지켜내겠다\"고 말했다.",
+        "source_part": "body",
+        "effective_at": null,
+        "derivation": "explicit",
+        "source_id": "f6270768a16a420dba9e82ba",
+        "source_revision": "d97b512c2eba86a347945829",
+        "reference_source": null
+       },
+       {
+        "field_path": "/affected_routes",
+        "quote": "서울교통공사 노조는 17일 오전 서울시청 앞 세종대로에서 3000여명의 조합원이 참여한 가운데 조합원 총회를 열고, 구조조정 저지와 안전 인력 충원, 임금인상 등 핵심 요구 관철을 위한 총파업 준비 태세에 들어갔다.",
+        "source_part": "body",
+        "effective_at": null,
+        "derivation": "explicit",
+        "source_id": "f6270768a16a420dba9e82ba",
+        "source_revision": "d97b512c2eba86a347945829",
+        "reference_source": null
+       },
+       {
+        "field_path": "/affected_routes",
+        "quote": "노조는 2212명 인력감축 계획을 전면 철회하고, 현장 안전 인력 1313명을 충원하라고 요구했다.",
+        "source_part": "body",
+        "effective_at": null,
+        "derivation": "explicit",
+        "source_id": "f6270768a16a420dba9e82ba",
+        "source_revision": "d97b512c2eba86a347945829",
+        "reference_source": null
+       },
+       {
+        "field_path": "/affected_routes",
+        "quote": "그는 \"공사와 서울시가 전향적인 입장 변화를 보이지 않으면, 25일부터 무기한 전면 총파업을 시작할 것\"이라며 \"안전인력을 충원하고, 일터와 시민의 안전을 끝까지 지켜내겠다\"고 말했다.",
+        "source_part": "body",
+        "effective_at": null,
+        "derivation": "explicit",
+        "source_id": "f6270768a16a420dba9e82ba",
+        "source_revision": "d97b512c2eba86a347945829",
+        "reference_source": null
+       },
+       {
+        "field_path": "/strike_status",
+        "quote": "서울교통공사 노조는 17일 오전 서울시청 앞 세종대로에서 3000여명의 조합원이 참여한 가운데 조합원 총회를 열고, 구조조정 저지와 안전 인력 충원, 임금인상 등 핵심 요구 관철을 위한 총파업 준비 태세에 들어갔다.",
+        "source_part": "body",
+        "effective_at": null,
+        "derivation": "explicit",
+        "source_id": "f6270768a16a420dba9e82ba",
+        "source_revision": "d97b512c2eba86a347945829",
+        "reference_source": null
+       },
+       {
+        "field_path": "/strike_status",
+        "quote": "노조는 2212명 인력감축 계획을 전면 철회하고, 현장 안전 인력 1313명을 충원하라고 요구했다.",
+        "source_part": "body",
+        "effective_at": null,
+        "derivation": "explicit",
+        "source_id": "f6270768a16a420dba9e82ba",
+        "source_revision": "d97b512c2eba86a347945829",
+        "reference_source": null
+       },
+       {
+        "field_path": "/strike_status",
+        "quote": "그는 \"공사와 서울시가 전향적인 입장 변화를 보이지 않으면, 25일부터 무기한 전면 총파업을 시작할 것\"이라며 \"안전인력을 충원하고, 일터와 시민의 안전을 끝까지 지켜내겠다\"고 말했다.",
+        "source_part": "body",
+        "effective_at": null,
+        "derivation": "explicit",
+        "source_id": "f6270768a16a420dba9e82ba",
+        "source_revision": "d97b512c2eba86a347945829",
+        "reference_source": null
+       },
+       {
+        "field_path": "/service_status",
+        "quote": "서울교통공사 노조는 17일 오전 서울시청 앞 세종대로에서 3000여명의 조합원이 참여한 가운데 조합원 총회를 열고, 구조조정 저지와 안전 인력 충원, 임금인상 등 핵심 요구 관철을 위한 총파업 준비 태세에 들어갔다.",
+        "source_part": "body",
+        "effective_at": null,
+        "derivation": "explicit",
+        "source_id": "f6270768a16a420dba9e82ba",
+        "source_revision": "d97b512c2eba86a347945829",
+        "reference_source": null
+       },
+       {
+        "field_path": "/service_status",
+        "quote": "노조는 2212명 인력감축 계획을 전면 철회하고, 현장 안전 인력 1313명을 충원하라고 요구했다.",
+        "source_part": "body",
+        "effective_at": null,
+        "derivation": "explicit",
+        "source_id": "f6270768a16a420dba9e82ba",
+        "source_revision": "d97b512c2eba86a347945829",
+        "reference_source": null
+       },
+       {
+        "field_path": "/service_status",
+        "quote": "그는 \"공사와 서울시가 전향적인 입장 변화를 보이지 않으면, 25일부터 무기한 전면 총파업을 시작할 것\"이라며 \"안전인력을 충원하고, 일터와 시민의 안전을 끝까지 지켜내겠다\"고 말했다.",
+        "source_part": "body",
+        "effective_at": null,
+        "derivation": "explicit",
+        "source_id": "f6270768a16a420dba9e82ba",
+        "source_revision": "d97b512c2eba86a347945829",
+        "reference_source": null
+       },
+       {
+        "field_path": "/normal_service_exceptions",
+        "quote": "서울교통공사 노조는 17일 오전 서울시청 앞 세종대로에서 3000여명의 조합원이 참여한 가운데 조합원 총회를 열고, 구조조정 저지와 안전 인력 충원, 임금인상 등 핵심 요구 관철을 위한 총파업 준비 태세에 들어갔다.",
+        "source_part": "body",
+        "effective_at": null,
+        "derivation": "explicit",
+        "source_id": "f6270768a16a420dba9e82ba",
+        "source_revision": "d97b512c2eba86a347945829",
+        "reference_source": null
+       },
+       {
+        "field_path": "/normal_service_exceptions",
+        "quote": "노조는 2212명 인력감축 계획을 전면 철회하고, 현장 안전 인력 1313명을 충원하라고 요구했다.",
+        "source_part": "body",
+        "effective_at": null,
+        "derivation": "explicit",
+        "source_id": "f6270768a16a420dba9e82ba",
+        "source_revision": "d97b512c2eba86a347945829",
+        "reference_source": null
+       },
+       {
+        "field_path": "/normal_service_exceptions",
+        "quote": "그는 \"공사와 서울시가 전향적인 입장 변화를 보이지 않으면, 25일부터 무기한 전면 총파업을 시작할 것\"이라며 \"안전인력을 충원하고, 일터와 시민의 안전을 끝까지 지켜내겠다\"고 말했다.",
+        "source_part": "body",
+        "effective_at": null,
+        "derivation": "explicit",
+        "source_id": "f6270768a16a420dba9e82ba",
+        "source_revision": "d97b512c2eba86a347945829",
+        "reference_source": null
+       },
+       {
+        "field_path": "/alternative_services",
+        "quote": "서울교통공사 노조는 17일 오전 서울시청 앞 세종대로에서 3000여명의 조합원이 참여한 가운데 조합원 총회를 열고, 구조조정 저지와 안전 인력 충원, 임금인상 등 핵심 요구 관철을 위한 총파업 준비 태세에 들어갔다.",
+        "source_part": "body",
+        "effective_at": null,
+        "derivation": "explicit",
+        "source_id": "f6270768a16a420dba9e82ba",
+        "source_revision": "d97b512c2eba86a347945829",
+        "reference_source": null
+       },
+       {
+        "field_path": "/alternative_services",
+        "quote": "노조는 2212명 인력감축 계획을 전면 철회하고, 현장 안전 인력 1313명을 충원하라고 요구했다.",
+        "source_part": "body",
+        "effective_at": null,
+        "derivation": "explicit",
+        "source_id": "f6270768a16a420dba9e82ba",
+        "source_revision": "d97b512c2eba86a347945829",
+        "reference_source": null
+       },
+       {
+        "field_path": "/alternative_services",
+        "quote": "그는 \"공사와 서울시가 전향적인 입장 변화를 보이지 않으면, 25일부터 무기한 전면 총파업을 시작할 것\"이라며 \"안전인력을 충원하고, 일터와 시민의 안전을 끝까지 지켜내겠다\"고 말했다.",
+        "source_part": "body",
+        "effective_at": null,
+        "derivation": "explicit",
+        "source_id": "f6270768a16a420dba9e82ba",
+        "source_revision": "d97b512c2eba86a347945829",
+        "reference_source": null
+       },
+       {
+        "field_path": "/start",
+        "quote": "서울교통공사 노조는 17일 오전 서울시청 앞 세종대로에서 3000여명의 조합원이 참여한 가운데 조합원 총회를 열고, 구조조정 저지와 안전 인력 충원, 임금인상 등 핵심 요구 관철을 위한 총파업 준비 태세에 들어갔다.",
+        "source_part": "body",
+        "effective_at": null,
+        "derivation": "explicit",
+        "source_id": "f6270768a16a420dba9e82ba",
+        "source_revision": "d97b512c2eba86a347945829",
+        "reference_source": null
+       },
+       {
+        "field_path": "/start",
+        "quote": "노조는 2212명 인력감축 계획을 전면 철회하고, 현장 안전 인력 1313명을 충원하라고 요구했다.",
+        "source_part": "body",
+        "effective_at": null,
+        "derivation": "explicit",
+        "source_id": "f6270768a16a420dba9e82ba",
+        "source_revision": "d97b512c2eba86a347945829",
+        "reference_source": null
+       },
+       {
+        "field_path": "/start",
+        "quote": "그는 \"공사와 서울시가 전향적인 입장 변화를 보이지 않으면, 25일부터 무기한 전면 총파업을 시작할 것\"이라며 \"안전인력을 충원하고, 일터와 시민의 안전을 끝까지 지켜내겠다\"고 말했다.",
+        "source_part": "body",
+        "effective_at": null,
+        "derivation": "explicit",
+        "source_id": "f6270768a16a420dba9e82ba",
+        "source_revision": "d97b512c2eba86a347945829",
+        "reference_source": null
+       },
+       {
+        "field_path": "/end",
+        "quote": "서울교통공사 노조는 17일 오전 서울시청 앞 세종대로에서 3000여명의 조합원이 참여한 가운데 조합원 총회를 열고, 구조조정 저지와 안전 인력 충원, 임금인상 등 핵심 요구 관철을 위한 총파업 준비 태세에 들어갔다.",
+        "source_part": "body",
+        "effective_at": null,
+        "derivation": "explicit",
+        "source_id": "f6270768a16a420dba9e82ba",
+        "source_revision": "d97b512c2eba86a347945829",
+        "reference_source": null
+       },
+       {
+        "field_path": "/end",
+        "quote": "노조는 2212명 인력감축 계획을 전면 철회하고, 현장 안전 인력 1313명을 충원하라고 요구했다.",
+        "source_part": "body",
+        "effective_at": null,
+        "derivation": "explicit",
+        "source_id": "f6270768a16a420dba9e82ba",
+        "source_revision": "d97b512c2eba86a347945829",
+        "reference_source": null
+       },
+       {
+        "field_path": "/end",
+        "quote": "그는 \"공사와 서울시가 전향적인 입장 변화를 보이지 않으면, 25일부터 무기한 전면 총파업을 시작할 것\"이라며 \"안전인력을 충원하고, 일터와 시민의 안전을 끝까지 지켜내겠다\"고 말했다.",
+        "source_part": "body",
+        "effective_at": null,
+        "derivation": "explicit",
+        "source_id": "f6270768a16a420dba9e82ba",
+        "source_revision": "d97b512c2eba86a347945829",
+        "reference_source": null
+       }
+      ],
+      "review_reasons": [
+       "UNSUPPORTED_OR_AMBIGUOUS_STATUS",
+       "DATE_UNCONFIRMED"
+      ]
      }
     }
    ],
@@ -8316,12 +9236,12 @@
     "article_relevance": "unrelated",
     "processing_status": "success",
     "source": {
-     "source_id": "081bd0c6c4d5d5a6611fd1fa",
-     "source_url": "https://www.newspim.com/news/view/20261117000638",
-     "source_revision": "acf49610b874560b84453bb5",
-     "published_at": "2026-11-17T11:34:00+09:00",
-     "updated_at": "2026-11-17T11:34:00+09:00",
-     "collected_at": "2026-11-17T15:01:18.234769+09:00"
+     "source_id": "f6270768a16a420dba9e82ba",
+     "source_url": "https://www.newspim.com/news/view/20261117001008",
+     "source_revision": "d97b512c2eba86a347945829",
+     "published_at": "2026-11-17T15:04:00+09:00",
+     "updated_at": "2026-11-17T15:30:00+09:00",
+     "collected_at": "2026-11-18T00:43:44.329208+09:00"
     },
     "events": [],
     "review_reasons": []
@@ -8365,7 +9285,7 @@
       "source_url": "https://www.newspim.com/news/view/20261117000730",
       "published_at": "2026-11-17T12:17:00+09:00",
       "updated_at": "2026-11-17T12:17:00+09:00",
-      "collected_at": "2026-11-17T15:01:20.357899+09:00",
+      "collected_at": "2026-11-18T00:43:46.318891+09:00",
       "field_evidence": [
        {
         "field_path": "/article_relevance",
@@ -8482,7 +9402,490 @@
      "source_revision": "bfc311f7f35431f874dfdbd4",
      "published_at": "2026-11-17T12:17:00+09:00",
      "updated_at": "2026-11-17T12:17:00+09:00",
-     "collected_at": "2026-11-17T15:01:20.357899+09:00"
+     "collected_at": "2026-11-18T00:43:46.318891+09:00"
+    },
+    "events": [],
+    "review_reasons": []
+   }
+  },
+  {
+   "strikes": [
+    {
+     "article_relevance": "unrelated",
+     "transport_mode": "unknown",
+     "affected_regions": [],
+     "affected_routes": [],
+     "start": {
+      "raw": null,
+      "date": null,
+      "time": null,
+      "timezone": "Asia/Seoul",
+      "basis": "unknown",
+      "assertion": "unknown",
+      "open_ended": null
+     },
+     "end": {
+      "raw": null,
+      "date": null,
+      "time": null,
+      "timezone": "Asia/Seoul",
+      "basis": "unknown",
+      "assertion": "unknown",
+      "open_ended": null
+     },
+     "strike_status": {
+      "value": "unknown",
+      "conditions": [],
+      "scope_raw": null,
+      "effective_at": null
+     },
+     "service_status": [],
+     "normal_service_exceptions": [],
+     "alternative_services": [],
+     "evidence_and_timestamps": {
+      "source_url": "https://www.newsis.com/view/NISX20261117_0003871716",
+      "published_at": "2026-11-17T19:08:24+09:00",
+      "updated_at": null,
+      "collected_at": "2026-11-18T00:43:49.889738+09:00",
+      "field_evidence": [
+       {
+        "field_path": "/article_relevance",
+        "quote": "[마드리드=AP/뉴시스] 16일(현지 시간) 영국 일간 가디언은 오는 29일 예정돼 있는 스페인 조기 총선에서 민주화 이후 처음으로 극우 정당이 중앙정부에 진출하는 결과가 나올지 관심이 쏠리고 있다고 전했다. 사진은 지난 15일 스페인 마드리드 인근 알코르콘에서 열린 조기 총선 유세 현장에서 페드로 산체스 스페인 총리 겸 사회당 후보가 연설하고 있는 모습. 2026.11.17",
+        "source_part": "body",
+        "effective_at": null,
+        "derivation": "explicit",
+        "source_id": "fe598ac20f381aaca95be041",
+        "source_revision": "942100cb38afa2b547684519",
+        "reference_source": null
+       },
+       {
+        "field_path": "/transport_mode",
+        "quote": "[마드리드=AP/뉴시스] 16일(현지 시간) 영국 일간 가디언은 오는 29일 예정돼 있는 스페인 조기 총선에서 민주화 이후 처음으로 극우 정당이 중앙정부에 진출하는 결과가 나올지 관심이 쏠리고 있다고 전했다. 사진은 지난 15일 스페인 마드리드 인근 알코르콘에서 열린 조기 총선 유세 현장에서 페드로 산체스 스페인 총리 겸 사회당 후보가 연설하고 있는 모습. 2026.11.17",
+        "source_part": "body",
+        "effective_at": null,
+        "derivation": "explicit",
+        "source_id": "fe598ac20f381aaca95be041",
+        "source_revision": "942100cb38afa2b547684519",
+        "reference_source": null
+       },
+       {
+        "field_path": "/affected_regions",
+        "quote": "[마드리드=AP/뉴시스] 16일(현지 시간) 영국 일간 가디언은 오는 29일 예정돼 있는 스페인 조기 총선에서 민주화 이후 처음으로 극우 정당이 중앙정부에 진출하는 결과가 나올지 관심이 쏠리고 있다고 전했다. 사진은 지난 15일 스페인 마드리드 인근 알코르콘에서 열린 조기 총선 유세 현장에서 페드로 산체스 스페인 총리 겸 사회당 후보가 연설하고 있는 모습. 2026.11.17",
+        "source_part": "body",
+        "effective_at": null,
+        "derivation": "explicit",
+        "source_id": "fe598ac20f381aaca95be041",
+        "source_revision": "942100cb38afa2b547684519",
+        "reference_source": null
+       },
+       {
+        "field_path": "/affected_routes",
+        "quote": "[마드리드=AP/뉴시스] 16일(현지 시간) 영국 일간 가디언은 오는 29일 예정돼 있는 스페인 조기 총선에서 민주화 이후 처음으로 극우 정당이 중앙정부에 진출하는 결과가 나올지 관심이 쏠리고 있다고 전했다. 사진은 지난 15일 스페인 마드리드 인근 알코르콘에서 열린 조기 총선 유세 현장에서 페드로 산체스 스페인 총리 겸 사회당 후보가 연설하고 있는 모습. 2026.11.17",
+        "source_part": "body",
+        "effective_at": null,
+        "derivation": "explicit",
+        "source_id": "fe598ac20f381aaca95be041",
+        "source_revision": "942100cb38afa2b547684519",
+        "reference_source": null
+       },
+       {
+        "field_path": "/strike_status",
+        "quote": "[마드리드=AP/뉴시스] 16일(현지 시간) 영국 일간 가디언은 오는 29일 예정돼 있는 스페인 조기 총선에서 민주화 이후 처음으로 극우 정당이 중앙정부에 진출하는 결과가 나올지 관심이 쏠리고 있다고 전했다. 사진은 지난 15일 스페인 마드리드 인근 알코르콘에서 열린 조기 총선 유세 현장에서 페드로 산체스 스페인 총리 겸 사회당 후보가 연설하고 있는 모습. 2026.11.17",
+        "source_part": "body",
+        "effective_at": null,
+        "derivation": "explicit",
+        "source_id": "fe598ac20f381aaca95be041",
+        "source_revision": "942100cb38afa2b547684519",
+        "reference_source": null
+       },
+       {
+        "field_path": "/service_status",
+        "quote": "[마드리드=AP/뉴시스] 16일(현지 시간) 영국 일간 가디언은 오는 29일 예정돼 있는 스페인 조기 총선에서 민주화 이후 처음으로 극우 정당이 중앙정부에 진출하는 결과가 나올지 관심이 쏠리고 있다고 전했다. 사진은 지난 15일 스페인 마드리드 인근 알코르콘에서 열린 조기 총선 유세 현장에서 페드로 산체스 스페인 총리 겸 사회당 후보가 연설하고 있는 모습. 2026.11.17",
+        "source_part": "body",
+        "effective_at": null,
+        "derivation": "explicit",
+        "source_id": "fe598ac20f381aaca95be041",
+        "source_revision": "942100cb38afa2b547684519",
+        "reference_source": null
+       },
+       {
+        "field_path": "/normal_service_exceptions",
+        "quote": "[마드리드=AP/뉴시스] 16일(현지 시간) 영국 일간 가디언은 오는 29일 예정돼 있는 스페인 조기 총선에서 민주화 이후 처음으로 극우 정당이 중앙정부에 진출하는 결과가 나올지 관심이 쏠리고 있다고 전했다. 사진은 지난 15일 스페인 마드리드 인근 알코르콘에서 열린 조기 총선 유세 현장에서 페드로 산체스 스페인 총리 겸 사회당 후보가 연설하고 있는 모습. 2026.11.17",
+        "source_part": "body",
+        "effective_at": null,
+        "derivation": "explicit",
+        "source_id": "fe598ac20f381aaca95be041",
+        "source_revision": "942100cb38afa2b547684519",
+        "reference_source": null
+       },
+       {
+        "field_path": "/alternative_services",
+        "quote": "[마드리드=AP/뉴시스] 16일(현지 시간) 영국 일간 가디언은 오는 29일 예정돼 있는 스페인 조기 총선에서 민주화 이후 처음으로 극우 정당이 중앙정부에 진출하는 결과가 나올지 관심이 쏠리고 있다고 전했다. 사진은 지난 15일 스페인 마드리드 인근 알코르콘에서 열린 조기 총선 유세 현장에서 페드로 산체스 스페인 총리 겸 사회당 후보가 연설하고 있는 모습. 2026.11.17",
+        "source_part": "body",
+        "effective_at": null,
+        "derivation": "explicit",
+        "source_id": "fe598ac20f381aaca95be041",
+        "source_revision": "942100cb38afa2b547684519",
+        "reference_source": null
+       },
+       {
+        "field_path": "/start",
+        "quote": "[마드리드=AP/뉴시스] 16일(현지 시간) 영국 일간 가디언은 오는 29일 예정돼 있는 스페인 조기 총선에서 민주화 이후 처음으로 극우 정당이 중앙정부에 진출하는 결과가 나올지 관심이 쏠리고 있다고 전했다. 사진은 지난 15일 스페인 마드리드 인근 알코르콘에서 열린 조기 총선 유세 현장에서 페드로 산체스 스페인 총리 겸 사회당 후보가 연설하고 있는 모습. 2026.11.17",
+        "source_part": "body",
+        "effective_at": null,
+        "derivation": "explicit",
+        "source_id": "fe598ac20f381aaca95be041",
+        "source_revision": "942100cb38afa2b547684519",
+        "reference_source": null
+       },
+       {
+        "field_path": "/end",
+        "quote": "[마드리드=AP/뉴시스] 16일(현지 시간) 영국 일간 가디언은 오는 29일 예정돼 있는 스페인 조기 총선에서 민주화 이후 처음으로 극우 정당이 중앙정부에 진출하는 결과가 나올지 관심이 쏠리고 있다고 전했다. 사진은 지난 15일 스페인 마드리드 인근 알코르콘에서 열린 조기 총선 유세 현장에서 페드로 산체스 스페인 총리 겸 사회당 후보가 연설하고 있는 모습. 2026.11.17",
+        "source_part": "body",
+        "effective_at": null,
+        "derivation": "explicit",
+        "source_id": "fe598ac20f381aaca95be041",
+        "source_revision": "942100cb38afa2b547684519",
+        "reference_source": null
+       }
+      ],
+      "review_reasons": []
+     }
+    }
+   ],
+   "events": {
+    "schema_version": "1.0",
+    "article_relevance": "unrelated",
+    "processing_status": "success",
+    "source": {
+     "source_id": "fe598ac20f381aaca95be041",
+     "source_url": "https://www.newsis.com/view/NISX20261117_0003871716",
+     "source_revision": "942100cb38afa2b547684519",
+     "published_at": "2026-11-17T19:08:24+09:00",
+     "updated_at": null,
+     "collected_at": "2026-11-18T00:43:49.889738+09:00"
+    },
+    "events": [],
+    "review_reasons": []
+   }
+  },
+  {
+   "strikes": [
+    {
+     "article_relevance": "unrelated",
+     "transport_mode": "unknown",
+     "affected_regions": [],
+     "affected_routes": [],
+     "start": {
+      "raw": null,
+      "date": null,
+      "time": null,
+      "timezone": "Asia/Seoul",
+      "basis": "unknown",
+      "assertion": "unknown",
+      "open_ended": null
+     },
+     "end": {
+      "raw": null,
+      "date": null,
+      "time": null,
+      "timezone": "Asia/Seoul",
+      "basis": "unknown",
+      "assertion": "unknown",
+      "open_ended": null
+     },
+     "strike_status": {
+      "value": "unknown",
+      "conditions": [],
+      "scope_raw": null,
+      "effective_at": null
+     },
+     "service_status": [],
+     "normal_service_exceptions": [],
+     "alternative_services": [],
+     "evidence_and_timestamps": {
+      "source_url": "https://www.fnnews.com/news/202611101525402414",
+      "published_at": "2026-11-10T15:41:44+09:00",
+      "updated_at": "2026-11-10T15:41:44+09:00",
+      "collected_at": "2026-11-18T00:43:54.733524+09:00",
+      "field_evidence": [
+       {
+        "field_path": "/article_relevance",
+        "quote": "사회 사회일반 \"시험 시작 1분 전 극적 도착\"…수험생 꿈 지킨 27년 교통 베테랑 [넘버112] 이동혁 기자 파이낸셜뉴스 입력 2026.11.10 15:41 수정 2026.11.10 15:41 기사 듣기 구글 검색 선호 매체 추가 현양서 서울서초서 교통안전2팀 경위 인터뷰 시험장 잘못 찾은 여학생 순찰차로 긴급 이송 버스에 치여 한 달 입원…27년간 도로 지켜 10년 전 도운 시민과 명절마다 안부 주고받아 \"고된 업무지만 사명감으로 버티는 것이 경찰\" [파이낸셜뉴스] \"시험 시작까지 15분밖에 남지 않았는데 시험장을 잘못 찾아온 여학생이 있었다. 순찰차에 태워 사이렌을 울리며 달린 끝에 시험 시작 1분 전에 겨우 도착했다.\" 서울 서초경찰서 교통안전2팀 현양서 경위(57·사진)는 10일 파이낸셜뉴스와 만나 대학수학능력시험을 앞두고 가장 기억에 남는 순간으로 시험장을 잘못 찾아온 수험생을 도왔던 일을 꼽았다. 당시 한 여학생은 시험 시작을 불과 15분 앞두고 서울고등학교를 찾았지만 실제 시험장은 약 4㎞ 떨어진 은광여자고등학교였다. 현 경위는 학생을 순찰차에 태워 사이렌을 울리며 달린 끝에 시험 시작 1분 전 가까스로 시험장에 도착했다. 그는 \"15분 안에 도착하기 어려운 거리였지만 다행히 늦지 않게 학생을 데려다줄 수 있었다\"며 당시 상황을 떠올렸다. 수험생 위해 새벽부터 도로로 오는 19일 치러지는 수능에서도 현 경위는 수험생들의 안전한 이동을 위해 이른 새벽부터 도로에 나선다. 평소보다 이른 오전 5시30분께 출근해 사전 교육을 받은 뒤 주요 교차로와 시험장 주변에서 교통 혼잡을 관리할 예정이다. 그는 \"시험장 정문에는 수험생과 응원 인파가 몰리는 만큼 차량을 조금 떨어진 곳에 정차하도록 안내한다\"며 \"시험장을 잘못 찾거나 지각 위기에 놓인 수험생이 있으면 사이카(경찰 오토바이)나 순찰차로 이동을 돕는다\"고 설명했다. 현 경위가 경찰 제복을 처음 입은 것은 지난 1998년 6월이다. 군에서 5년간 부사관으로 복무한 뒤 직장생활을 하던 그는 제복에 대한 동경으로 경찰의 길을 선택했다. 입직 1년 만인 1999년 교통 부서로 자리를 옮긴 뒤 기동대와 파출소 근무 등을 제외하면 경찰 생활 대부분을 도로 위에서 보냈다. 정년퇴임을 3년 앞둔 그는 올해로 경찰 생활 29년 차이자 교통 업무 27년 차를 맞았다. 오랜 기간 도로를 지켜온 만큼 위험한 순간도 적지 않았다. 차량이 오가는 도로에서 교통 통제와 음주운전 단속 등을 수행하다 보면 사고 위험에 노출되는 일이 잦기 때문이다. 현 경위 역시 경사 시절 근무 중 버스에 치여 한 달가량 입원한 경험이 있다. 그는 \"겨울철 빙판길에서 차량을 추격하다 사고를 당한 동료들도 적지 않다\"고 전했다. 도로 위 작은 선행이 10년 인연으로 불규칙한 근무도 어려움 중 하나다. 주야간 4교대 근무에 더해 주말 마라톤 대회나 각종 집회가 열리면 추가로 현장에 투입된다. 퇴근이 늦어지거나 쉬는 날 가족과의 약속을 취소하는 일도 허다하다. 그럼에도 현 경위가 27년간 교통 현장을 지켜온 원동력은 시민들의 따뜻한 감사 인사다. 특히 10년 가까이 인연을 이어오고 있는 한 시민과의 만남은 지금도 잊지 못할 기억으로 남아 있다. 지난 2016년 양재역 사거리에서 순찰하던 현 경위는 도로 한복판에서 고장 난 외제차를 밀고 있는 백발의 노인을 발견했다. 곧바로 순찰차를 세우고 달려가 노인과 함께 차량을 20~30m가량 밀어 안전한 곳으로 옮겼다. 차량을 옮기는 동안 온몸이 땀으로 흠뻑 젖을 정도였지만 무사히 도움을 줄 수 있었다는 사실에 보람을 느꼈다고 한다. 그는 \"그분이 경찰관에게 이런 도움을 받아본 적이 없다며 무척 고마워하셨다\"며 \"전화번호를 알려드렸는데 지금까지도 명절마다 안부를 묻고 추울 때면 따뜻하게 입고 다니라고 말씀하신다. 마치 아버지처럼 챙겨주시는 모습이 가장 기억에 남는다\"고 말했다. 현 경위는 경찰을 꿈꾸는 수험생들에게 무엇보다 사명감이 중요하다고 강조했다. 그는 \"경찰관은 외롭고 힘들 때도 많고 칭찬을 많이 듣는 직업도 아니다\"라면서도 \"사명감이 있다면 충분히 도전해 볼 만한 직업\"이라고 말했다. 이어 \"수험생 모두에게 행운이 깃들어 노력한 만큼 좋은 결과를 얻었으면 좋겠다\"고 응원의 메시지를 전했다. [email protected] 이동혁 기자 ※  저작권자 © 파이낸셜뉴스, 무단전재-재배포 금지",
+        "source_part": "body",
+        "effective_at": null,
+        "derivation": "explicit",
+        "source_id": "55acc2698b4fa02764c211bc",
+        "source_revision": "e4db1223ba466bbc3a5481ca",
+        "reference_source": null
+       },
+       {
+        "field_path": "/transport_mode",
+        "quote": "사회 사회일반 \"시험 시작 1분 전 극적 도착\"…수험생 꿈 지킨 27년 교통 베테랑 [넘버112] 이동혁 기자 파이낸셜뉴스 입력 2026.11.10 15:41 수정 2026.11.10 15:41 기사 듣기 구글 검색 선호 매체 추가 현양서 서울서초서 교통안전2팀 경위 인터뷰 시험장 잘못 찾은 여학생 순찰차로 긴급 이송 버스에 치여 한 달 입원…27년간 도로 지켜 10년 전 도운 시민과 명절마다 안부 주고받아 \"고된 업무지만 사명감으로 버티는 것이 경찰\" [파이낸셜뉴스] \"시험 시작까지 15분밖에 남지 않았는데 시험장을 잘못 찾아온 여학생이 있었다. 순찰차에 태워 사이렌을 울리며 달린 끝에 시험 시작 1분 전에 겨우 도착했다.\" 서울 서초경찰서 교통안전2팀 현양서 경위(57·사진)는 10일 파이낸셜뉴스와 만나 대학수학능력시험을 앞두고 가장 기억에 남는 순간으로 시험장을 잘못 찾아온 수험생을 도왔던 일을 꼽았다. 당시 한 여학생은 시험 시작을 불과 15분 앞두고 서울고등학교를 찾았지만 실제 시험장은 약 4㎞ 떨어진 은광여자고등학교였다. 현 경위는 학생을 순찰차에 태워 사이렌을 울리며 달린 끝에 시험 시작 1분 전 가까스로 시험장에 도착했다. 그는 \"15분 안에 도착하기 어려운 거리였지만 다행히 늦지 않게 학생을 데려다줄 수 있었다\"며 당시 상황을 떠올렸다. 수험생 위해 새벽부터 도로로 오는 19일 치러지는 수능에서도 현 경위는 수험생들의 안전한 이동을 위해 이른 새벽부터 도로에 나선다. 평소보다 이른 오전 5시30분께 출근해 사전 교육을 받은 뒤 주요 교차로와 시험장 주변에서 교통 혼잡을 관리할 예정이다. 그는 \"시험장 정문에는 수험생과 응원 인파가 몰리는 만큼 차량을 조금 떨어진 곳에 정차하도록 안내한다\"며 \"시험장을 잘못 찾거나 지각 위기에 놓인 수험생이 있으면 사이카(경찰 오토바이)나 순찰차로 이동을 돕는다\"고 설명했다. 현 경위가 경찰 제복을 처음 입은 것은 지난 1998년 6월이다. 군에서 5년간 부사관으로 복무한 뒤 직장생활을 하던 그는 제복에 대한 동경으로 경찰의 길을 선택했다. 입직 1년 만인 1999년 교통 부서로 자리를 옮긴 뒤 기동대와 파출소 근무 등을 제외하면 경찰 생활 대부분을 도로 위에서 보냈다. 정년퇴임을 3년 앞둔 그는 올해로 경찰 생활 29년 차이자 교통 업무 27년 차를 맞았다. 오랜 기간 도로를 지켜온 만큼 위험한 순간도 적지 않았다. 차량이 오가는 도로에서 교통 통제와 음주운전 단속 등을 수행하다 보면 사고 위험에 노출되는 일이 잦기 때문이다. 현 경위 역시 경사 시절 근무 중 버스에 치여 한 달가량 입원한 경험이 있다. 그는 \"겨울철 빙판길에서 차량을 추격하다 사고를 당한 동료들도 적지 않다\"고 전했다. 도로 위 작은 선행이 10년 인연으로 불규칙한 근무도 어려움 중 하나다. 주야간 4교대 근무에 더해 주말 마라톤 대회나 각종 집회가 열리면 추가로 현장에 투입된다. 퇴근이 늦어지거나 쉬는 날 가족과의 약속을 취소하는 일도 허다하다. 그럼에도 현 경위가 27년간 교통 현장을 지켜온 원동력은 시민들의 따뜻한 감사 인사다. 특히 10년 가까이 인연을 이어오고 있는 한 시민과의 만남은 지금도 잊지 못할 기억으로 남아 있다. 지난 2016년 양재역 사거리에서 순찰하던 현 경위는 도로 한복판에서 고장 난 외제차를 밀고 있는 백발의 노인을 발견했다. 곧바로 순찰차를 세우고 달려가 노인과 함께 차량을 20~30m가량 밀어 안전한 곳으로 옮겼다. 차량을 옮기는 동안 온몸이 땀으로 흠뻑 젖을 정도였지만 무사히 도움을 줄 수 있었다는 사실에 보람을 느꼈다고 한다. 그는 \"그분이 경찰관에게 이런 도움을 받아본 적이 없다며 무척 고마워하셨다\"며 \"전화번호를 알려드렸는데 지금까지도 명절마다 안부를 묻고 추울 때면 따뜻하게 입고 다니라고 말씀하신다. 마치 아버지처럼 챙겨주시는 모습이 가장 기억에 남는다\"고 말했다. 현 경위는 경찰을 꿈꾸는 수험생들에게 무엇보다 사명감이 중요하다고 강조했다. 그는 \"경찰관은 외롭고 힘들 때도 많고 칭찬을 많이 듣는 직업도 아니다\"라면서도 \"사명감이 있다면 충분히 도전해 볼 만한 직업\"이라고 말했다. 이어 \"수험생 모두에게 행운이 깃들어 노력한 만큼 좋은 결과를 얻었으면 좋겠다\"고 응원의 메시지를 전했다. [email protected] 이동혁 기자 ※  저작권자 © 파이낸셜뉴스, 무단전재-재배포 금지",
+        "source_part": "body",
+        "effective_at": null,
+        "derivation": "explicit",
+        "source_id": "55acc2698b4fa02764c211bc",
+        "source_revision": "e4db1223ba466bbc3a5481ca",
+        "reference_source": null
+       },
+       {
+        "field_path": "/affected_regions",
+        "quote": "사회 사회일반 \"시험 시작 1분 전 극적 도착\"…수험생 꿈 지킨 27년 교통 베테랑 [넘버112] 이동혁 기자 파이낸셜뉴스 입력 2026.11.10 15:41 수정 2026.11.10 15:41 기사 듣기 구글 검색 선호 매체 추가 현양서 서울서초서 교통안전2팀 경위 인터뷰 시험장 잘못 찾은 여학생 순찰차로 긴급 이송 버스에 치여 한 달 입원…27년간 도로 지켜 10년 전 도운 시민과 명절마다 안부 주고받아 \"고된 업무지만 사명감으로 버티는 것이 경찰\" [파이낸셜뉴스] \"시험 시작까지 15분밖에 남지 않았는데 시험장을 잘못 찾아온 여학생이 있었다. 순찰차에 태워 사이렌을 울리며 달린 끝에 시험 시작 1분 전에 겨우 도착했다.\" 서울 서초경찰서 교통안전2팀 현양서 경위(57·사진)는 10일 파이낸셜뉴스와 만나 대학수학능력시험을 앞두고 가장 기억에 남는 순간으로 시험장을 잘못 찾아온 수험생을 도왔던 일을 꼽았다. 당시 한 여학생은 시험 시작을 불과 15분 앞두고 서울고등학교를 찾았지만 실제 시험장은 약 4㎞ 떨어진 은광여자고등학교였다. 현 경위는 학생을 순찰차에 태워 사이렌을 울리며 달린 끝에 시험 시작 1분 전 가까스로 시험장에 도착했다. 그는 \"15분 안에 도착하기 어려운 거리였지만 다행히 늦지 않게 학생을 데려다줄 수 있었다\"며 당시 상황을 떠올렸다. 수험생 위해 새벽부터 도로로 오는 19일 치러지는 수능에서도 현 경위는 수험생들의 안전한 이동을 위해 이른 새벽부터 도로에 나선다. 평소보다 이른 오전 5시30분께 출근해 사전 교육을 받은 뒤 주요 교차로와 시험장 주변에서 교통 혼잡을 관리할 예정이다. 그는 \"시험장 정문에는 수험생과 응원 인파가 몰리는 만큼 차량을 조금 떨어진 곳에 정차하도록 안내한다\"며 \"시험장을 잘못 찾거나 지각 위기에 놓인 수험생이 있으면 사이카(경찰 오토바이)나 순찰차로 이동을 돕는다\"고 설명했다. 현 경위가 경찰 제복을 처음 입은 것은 지난 1998년 6월이다. 군에서 5년간 부사관으로 복무한 뒤 직장생활을 하던 그는 제복에 대한 동경으로 경찰의 길을 선택했다. 입직 1년 만인 1999년 교통 부서로 자리를 옮긴 뒤 기동대와 파출소 근무 등을 제외하면 경찰 생활 대부분을 도로 위에서 보냈다. 정년퇴임을 3년 앞둔 그는 올해로 경찰 생활 29년 차이자 교통 업무 27년 차를 맞았다. 오랜 기간 도로를 지켜온 만큼 위험한 순간도 적지 않았다. 차량이 오가는 도로에서 교통 통제와 음주운전 단속 등을 수행하다 보면 사고 위험에 노출되는 일이 잦기 때문이다. 현 경위 역시 경사 시절 근무 중 버스에 치여 한 달가량 입원한 경험이 있다. 그는 \"겨울철 빙판길에서 차량을 추격하다 사고를 당한 동료들도 적지 않다\"고 전했다. 도로 위 작은 선행이 10년 인연으로 불규칙한 근무도 어려움 중 하나다. 주야간 4교대 근무에 더해 주말 마라톤 대회나 각종 집회가 열리면 추가로 현장에 투입된다. 퇴근이 늦어지거나 쉬는 날 가족과의 약속을 취소하는 일도 허다하다. 그럼에도 현 경위가 27년간 교통 현장을 지켜온 원동력은 시민들의 따뜻한 감사 인사다. 특히 10년 가까이 인연을 이어오고 있는 한 시민과의 만남은 지금도 잊지 못할 기억으로 남아 있다. 지난 2016년 양재역 사거리에서 순찰하던 현 경위는 도로 한복판에서 고장 난 외제차를 밀고 있는 백발의 노인을 발견했다. 곧바로 순찰차를 세우고 달려가 노인과 함께 차량을 20~30m가량 밀어 안전한 곳으로 옮겼다. 차량을 옮기는 동안 온몸이 땀으로 흠뻑 젖을 정도였지만 무사히 도움을 줄 수 있었다는 사실에 보람을 느꼈다고 한다. 그는 \"그분이 경찰관에게 이런 도움을 받아본 적이 없다며 무척 고마워하셨다\"며 \"전화번호를 알려드렸는데 지금까지도 명절마다 안부를 묻고 추울 때면 따뜻하게 입고 다니라고 말씀하신다. 마치 아버지처럼 챙겨주시는 모습이 가장 기억에 남는다\"고 말했다. 현 경위는 경찰을 꿈꾸는 수험생들에게 무엇보다 사명감이 중요하다고 강조했다. 그는 \"경찰관은 외롭고 힘들 때도 많고 칭찬을 많이 듣는 직업도 아니다\"라면서도 \"사명감이 있다면 충분히 도전해 볼 만한 직업\"이라고 말했다. 이어 \"수험생 모두에게 행운이 깃들어 노력한 만큼 좋은 결과를 얻었으면 좋겠다\"고 응원의 메시지를 전했다. [email protected] 이동혁 기자 ※  저작권자 © 파이낸셜뉴스, 무단전재-재배포 금지",
+        "source_part": "body",
+        "effective_at": null,
+        "derivation": "explicit",
+        "source_id": "55acc2698b4fa02764c211bc",
+        "source_revision": "e4db1223ba466bbc3a5481ca",
+        "reference_source": null
+       },
+       {
+        "field_path": "/affected_routes",
+        "quote": "사회 사회일반 \"시험 시작 1분 전 극적 도착\"…수험생 꿈 지킨 27년 교통 베테랑 [넘버112] 이동혁 기자 파이낸셜뉴스 입력 2026.11.10 15:41 수정 2026.11.10 15:41 기사 듣기 구글 검색 선호 매체 추가 현양서 서울서초서 교통안전2팀 경위 인터뷰 시험장 잘못 찾은 여학생 순찰차로 긴급 이송 버스에 치여 한 달 입원…27년간 도로 지켜 10년 전 도운 시민과 명절마다 안부 주고받아 \"고된 업무지만 사명감으로 버티는 것이 경찰\" [파이낸셜뉴스] \"시험 시작까지 15분밖에 남지 않았는데 시험장을 잘못 찾아온 여학생이 있었다. 순찰차에 태워 사이렌을 울리며 달린 끝에 시험 시작 1분 전에 겨우 도착했다.\" 서울 서초경찰서 교통안전2팀 현양서 경위(57·사진)는 10일 파이낸셜뉴스와 만나 대학수학능력시험을 앞두고 가장 기억에 남는 순간으로 시험장을 잘못 찾아온 수험생을 도왔던 일을 꼽았다. 당시 한 여학생은 시험 시작을 불과 15분 앞두고 서울고등학교를 찾았지만 실제 시험장은 약 4㎞ 떨어진 은광여자고등학교였다. 현 경위는 학생을 순찰차에 태워 사이렌을 울리며 달린 끝에 시험 시작 1분 전 가까스로 시험장에 도착했다. 그는 \"15분 안에 도착하기 어려운 거리였지만 다행히 늦지 않게 학생을 데려다줄 수 있었다\"며 당시 상황을 떠올렸다. 수험생 위해 새벽부터 도로로 오는 19일 치러지는 수능에서도 현 경위는 수험생들의 안전한 이동을 위해 이른 새벽부터 도로에 나선다. 평소보다 이른 오전 5시30분께 출근해 사전 교육을 받은 뒤 주요 교차로와 시험장 주변에서 교통 혼잡을 관리할 예정이다. 그는 \"시험장 정문에는 수험생과 응원 인파가 몰리는 만큼 차량을 조금 떨어진 곳에 정차하도록 안내한다\"며 \"시험장을 잘못 찾거나 지각 위기에 놓인 수험생이 있으면 사이카(경찰 오토바이)나 순찰차로 이동을 돕는다\"고 설명했다. 현 경위가 경찰 제복을 처음 입은 것은 지난 1998년 6월이다. 군에서 5년간 부사관으로 복무한 뒤 직장생활을 하던 그는 제복에 대한 동경으로 경찰의 길을 선택했다. 입직 1년 만인 1999년 교통 부서로 자리를 옮긴 뒤 기동대와 파출소 근무 등을 제외하면 경찰 생활 대부분을 도로 위에서 보냈다. 정년퇴임을 3년 앞둔 그는 올해로 경찰 생활 29년 차이자 교통 업무 27년 차를 맞았다. 오랜 기간 도로를 지켜온 만큼 위험한 순간도 적지 않았다. 차량이 오가는 도로에서 교통 통제와 음주운전 단속 등을 수행하다 보면 사고 위험에 노출되는 일이 잦기 때문이다. 현 경위 역시 경사 시절 근무 중 버스에 치여 한 달가량 입원한 경험이 있다. 그는 \"겨울철 빙판길에서 차량을 추격하다 사고를 당한 동료들도 적지 않다\"고 전했다. 도로 위 작은 선행이 10년 인연으로 불규칙한 근무도 어려움 중 하나다. 주야간 4교대 근무에 더해 주말 마라톤 대회나 각종 집회가 열리면 추가로 현장에 투입된다. 퇴근이 늦어지거나 쉬는 날 가족과의 약속을 취소하는 일도 허다하다. 그럼에도 현 경위가 27년간 교통 현장을 지켜온 원동력은 시민들의 따뜻한 감사 인사다. 특히 10년 가까이 인연을 이어오고 있는 한 시민과의 만남은 지금도 잊지 못할 기억으로 남아 있다. 지난 2016년 양재역 사거리에서 순찰하던 현 경위는 도로 한복판에서 고장 난 외제차를 밀고 있는 백발의 노인을 발견했다. 곧바로 순찰차를 세우고 달려가 노인과 함께 차량을 20~30m가량 밀어 안전한 곳으로 옮겼다. 차량을 옮기는 동안 온몸이 땀으로 흠뻑 젖을 정도였지만 무사히 도움을 줄 수 있었다는 사실에 보람을 느꼈다고 한다. 그는 \"그분이 경찰관에게 이런 도움을 받아본 적이 없다며 무척 고마워하셨다\"며 \"전화번호를 알려드렸는데 지금까지도 명절마다 안부를 묻고 추울 때면 따뜻하게 입고 다니라고 말씀하신다. 마치 아버지처럼 챙겨주시는 모습이 가장 기억에 남는다\"고 말했다. 현 경위는 경찰을 꿈꾸는 수험생들에게 무엇보다 사명감이 중요하다고 강조했다. 그는 \"경찰관은 외롭고 힘들 때도 많고 칭찬을 많이 듣는 직업도 아니다\"라면서도 \"사명감이 있다면 충분히 도전해 볼 만한 직업\"이라고 말했다. 이어 \"수험생 모두에게 행운이 깃들어 노력한 만큼 좋은 결과를 얻었으면 좋겠다\"고 응원의 메시지를 전했다. [email protected] 이동혁 기자 ※  저작권자 © 파이낸셜뉴스, 무단전재-재배포 금지",
+        "source_part": "body",
+        "effective_at": null,
+        "derivation": "explicit",
+        "source_id": "55acc2698b4fa02764c211bc",
+        "source_revision": "e4db1223ba466bbc3a5481ca",
+        "reference_source": null
+       },
+       {
+        "field_path": "/strike_status",
+        "quote": "사회 사회일반 \"시험 시작 1분 전 극적 도착\"…수험생 꿈 지킨 27년 교통 베테랑 [넘버112] 이동혁 기자 파이낸셜뉴스 입력 2026.11.10 15:41 수정 2026.11.10 15:41 기사 듣기 구글 검색 선호 매체 추가 현양서 서울서초서 교통안전2팀 경위 인터뷰 시험장 잘못 찾은 여학생 순찰차로 긴급 이송 버스에 치여 한 달 입원…27년간 도로 지켜 10년 전 도운 시민과 명절마다 안부 주고받아 \"고된 업무지만 사명감으로 버티는 것이 경찰\" [파이낸셜뉴스] \"시험 시작까지 15분밖에 남지 않았는데 시험장을 잘못 찾아온 여학생이 있었다. 순찰차에 태워 사이렌을 울리며 달린 끝에 시험 시작 1분 전에 겨우 도착했다.\" 서울 서초경찰서 교통안전2팀 현양서 경위(57·사진)는 10일 파이낸셜뉴스와 만나 대학수학능력시험을 앞두고 가장 기억에 남는 순간으로 시험장을 잘못 찾아온 수험생을 도왔던 일을 꼽았다. 당시 한 여학생은 시험 시작을 불과 15분 앞두고 서울고등학교를 찾았지만 실제 시험장은 약 4㎞ 떨어진 은광여자고등학교였다. 현 경위는 학생을 순찰차에 태워 사이렌을 울리며 달린 끝에 시험 시작 1분 전 가까스로 시험장에 도착했다. 그는 \"15분 안에 도착하기 어려운 거리였지만 다행히 늦지 않게 학생을 데려다줄 수 있었다\"며 당시 상황을 떠올렸다. 수험생 위해 새벽부터 도로로 오는 19일 치러지는 수능에서도 현 경위는 수험생들의 안전한 이동을 위해 이른 새벽부터 도로에 나선다. 평소보다 이른 오전 5시30분께 출근해 사전 교육을 받은 뒤 주요 교차로와 시험장 주변에서 교통 혼잡을 관리할 예정이다. 그는 \"시험장 정문에는 수험생과 응원 인파가 몰리는 만큼 차량을 조금 떨어진 곳에 정차하도록 안내한다\"며 \"시험장을 잘못 찾거나 지각 위기에 놓인 수험생이 있으면 사이카(경찰 오토바이)나 순찰차로 이동을 돕는다\"고 설명했다. 현 경위가 경찰 제복을 처음 입은 것은 지난 1998년 6월이다. 군에서 5년간 부사관으로 복무한 뒤 직장생활을 하던 그는 제복에 대한 동경으로 경찰의 길을 선택했다. 입직 1년 만인 1999년 교통 부서로 자리를 옮긴 뒤 기동대와 파출소 근무 등을 제외하면 경찰 생활 대부분을 도로 위에서 보냈다. 정년퇴임을 3년 앞둔 그는 올해로 경찰 생활 29년 차이자 교통 업무 27년 차를 맞았다. 오랜 기간 도로를 지켜온 만큼 위험한 순간도 적지 않았다. 차량이 오가는 도로에서 교통 통제와 음주운전 단속 등을 수행하다 보면 사고 위험에 노출되는 일이 잦기 때문이다. 현 경위 역시 경사 시절 근무 중 버스에 치여 한 달가량 입원한 경험이 있다. 그는 \"겨울철 빙판길에서 차량을 추격하다 사고를 당한 동료들도 적지 않다\"고 전했다. 도로 위 작은 선행이 10년 인연으로 불규칙한 근무도 어려움 중 하나다. 주야간 4교대 근무에 더해 주말 마라톤 대회나 각종 집회가 열리면 추가로 현장에 투입된다. 퇴근이 늦어지거나 쉬는 날 가족과의 약속을 취소하는 일도 허다하다. 그럼에도 현 경위가 27년간 교통 현장을 지켜온 원동력은 시민들의 따뜻한 감사 인사다. 특히 10년 가까이 인연을 이어오고 있는 한 시민과의 만남은 지금도 잊지 못할 기억으로 남아 있다. 지난 2016년 양재역 사거리에서 순찰하던 현 경위는 도로 한복판에서 고장 난 외제차를 밀고 있는 백발의 노인을 발견했다. 곧바로 순찰차를 세우고 달려가 노인과 함께 차량을 20~30m가량 밀어 안전한 곳으로 옮겼다. 차량을 옮기는 동안 온몸이 땀으로 흠뻑 젖을 정도였지만 무사히 도움을 줄 수 있었다는 사실에 보람을 느꼈다고 한다. 그는 \"그분이 경찰관에게 이런 도움을 받아본 적이 없다며 무척 고마워하셨다\"며 \"전화번호를 알려드렸는데 지금까지도 명절마다 안부를 묻고 추울 때면 따뜻하게 입고 다니라고 말씀하신다. 마치 아버지처럼 챙겨주시는 모습이 가장 기억에 남는다\"고 말했다. 현 경위는 경찰을 꿈꾸는 수험생들에게 무엇보다 사명감이 중요하다고 강조했다. 그는 \"경찰관은 외롭고 힘들 때도 많고 칭찬을 많이 듣는 직업도 아니다\"라면서도 \"사명감이 있다면 충분히 도전해 볼 만한 직업\"이라고 말했다. 이어 \"수험생 모두에게 행운이 깃들어 노력한 만큼 좋은 결과를 얻었으면 좋겠다\"고 응원의 메시지를 전했다. [email protected] 이동혁 기자 ※  저작권자 © 파이낸셜뉴스, 무단전재-재배포 금지",
+        "source_part": "body",
+        "effective_at": null,
+        "derivation": "explicit",
+        "source_id": "55acc2698b4fa02764c211bc",
+        "source_revision": "e4db1223ba466bbc3a5481ca",
+        "reference_source": null
+       },
+       {
+        "field_path": "/service_status",
+        "quote": "사회 사회일반 \"시험 시작 1분 전 극적 도착\"…수험생 꿈 지킨 27년 교통 베테랑 [넘버112] 이동혁 기자 파이낸셜뉴스 입력 2026.11.10 15:41 수정 2026.11.10 15:41 기사 듣기 구글 검색 선호 매체 추가 현양서 서울서초서 교통안전2팀 경위 인터뷰 시험장 잘못 찾은 여학생 순찰차로 긴급 이송 버스에 치여 한 달 입원…27년간 도로 지켜 10년 전 도운 시민과 명절마다 안부 주고받아 \"고된 업무지만 사명감으로 버티는 것이 경찰\" [파이낸셜뉴스] \"시험 시작까지 15분밖에 남지 않았는데 시험장을 잘못 찾아온 여학생이 있었다. 순찰차에 태워 사이렌을 울리며 달린 끝에 시험 시작 1분 전에 겨우 도착했다.\" 서울 서초경찰서 교통안전2팀 현양서 경위(57·사진)는 10일 파이낸셜뉴스와 만나 대학수학능력시험을 앞두고 가장 기억에 남는 순간으로 시험장을 잘못 찾아온 수험생을 도왔던 일을 꼽았다. 당시 한 여학생은 시험 시작을 불과 15분 앞두고 서울고등학교를 찾았지만 실제 시험장은 약 4㎞ 떨어진 은광여자고등학교였다. 현 경위는 학생을 순찰차에 태워 사이렌을 울리며 달린 끝에 시험 시작 1분 전 가까스로 시험장에 도착했다. 그는 \"15분 안에 도착하기 어려운 거리였지만 다행히 늦지 않게 학생을 데려다줄 수 있었다\"며 당시 상황을 떠올렸다. 수험생 위해 새벽부터 도로로 오는 19일 치러지는 수능에서도 현 경위는 수험생들의 안전한 이동을 위해 이른 새벽부터 도로에 나선다. 평소보다 이른 오전 5시30분께 출근해 사전 교육을 받은 뒤 주요 교차로와 시험장 주변에서 교통 혼잡을 관리할 예정이다. 그는 \"시험장 정문에는 수험생과 응원 인파가 몰리는 만큼 차량을 조금 떨어진 곳에 정차하도록 안내한다\"며 \"시험장을 잘못 찾거나 지각 위기에 놓인 수험생이 있으면 사이카(경찰 오토바이)나 순찰차로 이동을 돕는다\"고 설명했다. 현 경위가 경찰 제복을 처음 입은 것은 지난 1998년 6월이다. 군에서 5년간 부사관으로 복무한 뒤 직장생활을 하던 그는 제복에 대한 동경으로 경찰의 길을 선택했다. 입직 1년 만인 1999년 교통 부서로 자리를 옮긴 뒤 기동대와 파출소 근무 등을 제외하면 경찰 생활 대부분을 도로 위에서 보냈다. 정년퇴임을 3년 앞둔 그는 올해로 경찰 생활 29년 차이자 교통 업무 27년 차를 맞았다. 오랜 기간 도로를 지켜온 만큼 위험한 순간도 적지 않았다. 차량이 오가는 도로에서 교통 통제와 음주운전 단속 등을 수행하다 보면 사고 위험에 노출되는 일이 잦기 때문이다. 현 경위 역시 경사 시절 근무 중 버스에 치여 한 달가량 입원한 경험이 있다. 그는 \"겨울철 빙판길에서 차량을 추격하다 사고를 당한 동료들도 적지 않다\"고 전했다. 도로 위 작은 선행이 10년 인연으로 불규칙한 근무도 어려움 중 하나다. 주야간 4교대 근무에 더해 주말 마라톤 대회나 각종 집회가 열리면 추가로 현장에 투입된다. 퇴근이 늦어지거나 쉬는 날 가족과의 약속을 취소하는 일도 허다하다. 그럼에도 현 경위가 27년간 교통 현장을 지켜온 원동력은 시민들의 따뜻한 감사 인사다. 특히 10년 가까이 인연을 이어오고 있는 한 시민과의 만남은 지금도 잊지 못할 기억으로 남아 있다. 지난 2016년 양재역 사거리에서 순찰하던 현 경위는 도로 한복판에서 고장 난 외제차를 밀고 있는 백발의 노인을 발견했다. 곧바로 순찰차를 세우고 달려가 노인과 함께 차량을 20~30m가량 밀어 안전한 곳으로 옮겼다. 차량을 옮기는 동안 온몸이 땀으로 흠뻑 젖을 정도였지만 무사히 도움을 줄 수 있었다는 사실에 보람을 느꼈다고 한다. 그는 \"그분이 경찰관에게 이런 도움을 받아본 적이 없다며 무척 고마워하셨다\"며 \"전화번호를 알려드렸는데 지금까지도 명절마다 안부를 묻고 추울 때면 따뜻하게 입고 다니라고 말씀하신다. 마치 아버지처럼 챙겨주시는 모습이 가장 기억에 남는다\"고 말했다. 현 경위는 경찰을 꿈꾸는 수험생들에게 무엇보다 사명감이 중요하다고 강조했다. 그는 \"경찰관은 외롭고 힘들 때도 많고 칭찬을 많이 듣는 직업도 아니다\"라면서도 \"사명감이 있다면 충분히 도전해 볼 만한 직업\"이라고 말했다. 이어 \"수험생 모두에게 행운이 깃들어 노력한 만큼 좋은 결과를 얻었으면 좋겠다\"고 응원의 메시지를 전했다. [email protected] 이동혁 기자 ※  저작권자 © 파이낸셜뉴스, 무단전재-재배포 금지",
+        "source_part": "body",
+        "effective_at": null,
+        "derivation": "explicit",
+        "source_id": "55acc2698b4fa02764c211bc",
+        "source_revision": "e4db1223ba466bbc3a5481ca",
+        "reference_source": null
+       },
+       {
+        "field_path": "/normal_service_exceptions",
+        "quote": "사회 사회일반 \"시험 시작 1분 전 극적 도착\"…수험생 꿈 지킨 27년 교통 베테랑 [넘버112] 이동혁 기자 파이낸셜뉴스 입력 2026.11.10 15:41 수정 2026.11.10 15:41 기사 듣기 구글 검색 선호 매체 추가 현양서 서울서초서 교통안전2팀 경위 인터뷰 시험장 잘못 찾은 여학생 순찰차로 긴급 이송 버스에 치여 한 달 입원…27년간 도로 지켜 10년 전 도운 시민과 명절마다 안부 주고받아 \"고된 업무지만 사명감으로 버티는 것이 경찰\" [파이낸셜뉴스] \"시험 시작까지 15분밖에 남지 않았는데 시험장을 잘못 찾아온 여학생이 있었다. 순찰차에 태워 사이렌을 울리며 달린 끝에 시험 시작 1분 전에 겨우 도착했다.\" 서울 서초경찰서 교통안전2팀 현양서 경위(57·사진)는 10일 파이낸셜뉴스와 만나 대학수학능력시험을 앞두고 가장 기억에 남는 순간으로 시험장을 잘못 찾아온 수험생을 도왔던 일을 꼽았다. 당시 한 여학생은 시험 시작을 불과 15분 앞두고 서울고등학교를 찾았지만 실제 시험장은 약 4㎞ 떨어진 은광여자고등학교였다. 현 경위는 학생을 순찰차에 태워 사이렌을 울리며 달린 끝에 시험 시작 1분 전 가까스로 시험장에 도착했다. 그는 \"15분 안에 도착하기 어려운 거리였지만 다행히 늦지 않게 학생을 데려다줄 수 있었다\"며 당시 상황을 떠올렸다. 수험생 위해 새벽부터 도로로 오는 19일 치러지는 수능에서도 현 경위는 수험생들의 안전한 이동을 위해 이른 새벽부터 도로에 나선다. 평소보다 이른 오전 5시30분께 출근해 사전 교육을 받은 뒤 주요 교차로와 시험장 주변에서 교통 혼잡을 관리할 예정이다. 그는 \"시험장 정문에는 수험생과 응원 인파가 몰리는 만큼 차량을 조금 떨어진 곳에 정차하도록 안내한다\"며 \"시험장을 잘못 찾거나 지각 위기에 놓인 수험생이 있으면 사이카(경찰 오토바이)나 순찰차로 이동을 돕는다\"고 설명했다. 현 경위가 경찰 제복을 처음 입은 것은 지난 1998년 6월이다. 군에서 5년간 부사관으로 복무한 뒤 직장생활을 하던 그는 제복에 대한 동경으로 경찰의 길을 선택했다. 입직 1년 만인 1999년 교통 부서로 자리를 옮긴 뒤 기동대와 파출소 근무 등을 제외하면 경찰 생활 대부분을 도로 위에서 보냈다. 정년퇴임을 3년 앞둔 그는 올해로 경찰 생활 29년 차이자 교통 업무 27년 차를 맞았다. 오랜 기간 도로를 지켜온 만큼 위험한 순간도 적지 않았다. 차량이 오가는 도로에서 교통 통제와 음주운전 단속 등을 수행하다 보면 사고 위험에 노출되는 일이 잦기 때문이다. 현 경위 역시 경사 시절 근무 중 버스에 치여 한 달가량 입원한 경험이 있다. 그는 \"겨울철 빙판길에서 차량을 추격하다 사고를 당한 동료들도 적지 않다\"고 전했다. 도로 위 작은 선행이 10년 인연으로 불규칙한 근무도 어려움 중 하나다. 주야간 4교대 근무에 더해 주말 마라톤 대회나 각종 집회가 열리면 추가로 현장에 투입된다. 퇴근이 늦어지거나 쉬는 날 가족과의 약속을 취소하는 일도 허다하다. 그럼에도 현 경위가 27년간 교통 현장을 지켜온 원동력은 시민들의 따뜻한 감사 인사다. 특히 10년 가까이 인연을 이어오고 있는 한 시민과의 만남은 지금도 잊지 못할 기억으로 남아 있다. 지난 2016년 양재역 사거리에서 순찰하던 현 경위는 도로 한복판에서 고장 난 외제차를 밀고 있는 백발의 노인을 발견했다. 곧바로 순찰차를 세우고 달려가 노인과 함께 차량을 20~30m가량 밀어 안전한 곳으로 옮겼다. 차량을 옮기는 동안 온몸이 땀으로 흠뻑 젖을 정도였지만 무사히 도움을 줄 수 있었다는 사실에 보람을 느꼈다고 한다. 그는 \"그분이 경찰관에게 이런 도움을 받아본 적이 없다며 무척 고마워하셨다\"며 \"전화번호를 알려드렸는데 지금까지도 명절마다 안부를 묻고 추울 때면 따뜻하게 입고 다니라고 말씀하신다. 마치 아버지처럼 챙겨주시는 모습이 가장 기억에 남는다\"고 말했다. 현 경위는 경찰을 꿈꾸는 수험생들에게 무엇보다 사명감이 중요하다고 강조했다. 그는 \"경찰관은 외롭고 힘들 때도 많고 칭찬을 많이 듣는 직업도 아니다\"라면서도 \"사명감이 있다면 충분히 도전해 볼 만한 직업\"이라고 말했다. 이어 \"수험생 모두에게 행운이 깃들어 노력한 만큼 좋은 결과를 얻었으면 좋겠다\"고 응원의 메시지를 전했다. [email protected] 이동혁 기자 ※  저작권자 © 파이낸셜뉴스, 무단전재-재배포 금지",
+        "source_part": "body",
+        "effective_at": null,
+        "derivation": "explicit",
+        "source_id": "55acc2698b4fa02764c211bc",
+        "source_revision": "e4db1223ba466bbc3a5481ca",
+        "reference_source": null
+       },
+       {
+        "field_path": "/alternative_services",
+        "quote": "사회 사회일반 \"시험 시작 1분 전 극적 도착\"…수험생 꿈 지킨 27년 교통 베테랑 [넘버112] 이동혁 기자 파이낸셜뉴스 입력 2026.11.10 15:41 수정 2026.11.10 15:41 기사 듣기 구글 검색 선호 매체 추가 현양서 서울서초서 교통안전2팀 경위 인터뷰 시험장 잘못 찾은 여학생 순찰차로 긴급 이송 버스에 치여 한 달 입원…27년간 도로 지켜 10년 전 도운 시민과 명절마다 안부 주고받아 \"고된 업무지만 사명감으로 버티는 것이 경찰\" [파이낸셜뉴스] \"시험 시작까지 15분밖에 남지 않았는데 시험장을 잘못 찾아온 여학생이 있었다. 순찰차에 태워 사이렌을 울리며 달린 끝에 시험 시작 1분 전에 겨우 도착했다.\" 서울 서초경찰서 교통안전2팀 현양서 경위(57·사진)는 10일 파이낸셜뉴스와 만나 대학수학능력시험을 앞두고 가장 기억에 남는 순간으로 시험장을 잘못 찾아온 수험생을 도왔던 일을 꼽았다. 당시 한 여학생은 시험 시작을 불과 15분 앞두고 서울고등학교를 찾았지만 실제 시험장은 약 4㎞ 떨어진 은광여자고등학교였다. 현 경위는 학생을 순찰차에 태워 사이렌을 울리며 달린 끝에 시험 시작 1분 전 가까스로 시험장에 도착했다. 그는 \"15분 안에 도착하기 어려운 거리였지만 다행히 늦지 않게 학생을 데려다줄 수 있었다\"며 당시 상황을 떠올렸다. 수험생 위해 새벽부터 도로로 오는 19일 치러지는 수능에서도 현 경위는 수험생들의 안전한 이동을 위해 이른 새벽부터 도로에 나선다. 평소보다 이른 오전 5시30분께 출근해 사전 교육을 받은 뒤 주요 교차로와 시험장 주변에서 교통 혼잡을 관리할 예정이다. 그는 \"시험장 정문에는 수험생과 응원 인파가 몰리는 만큼 차량을 조금 떨어진 곳에 정차하도록 안내한다\"며 \"시험장을 잘못 찾거나 지각 위기에 놓인 수험생이 있으면 사이카(경찰 오토바이)나 순찰차로 이동을 돕는다\"고 설명했다. 현 경위가 경찰 제복을 처음 입은 것은 지난 1998년 6월이다. 군에서 5년간 부사관으로 복무한 뒤 직장생활을 하던 그는 제복에 대한 동경으로 경찰의 길을 선택했다. 입직 1년 만인 1999년 교통 부서로 자리를 옮긴 뒤 기동대와 파출소 근무 등을 제외하면 경찰 생활 대부분을 도로 위에서 보냈다. 정년퇴임을 3년 앞둔 그는 올해로 경찰 생활 29년 차이자 교통 업무 27년 차를 맞았다. 오랜 기간 도로를 지켜온 만큼 위험한 순간도 적지 않았다. 차량이 오가는 도로에서 교통 통제와 음주운전 단속 등을 수행하다 보면 사고 위험에 노출되는 일이 잦기 때문이다. 현 경위 역시 경사 시절 근무 중 버스에 치여 한 달가량 입원한 경험이 있다. 그는 \"겨울철 빙판길에서 차량을 추격하다 사고를 당한 동료들도 적지 않다\"고 전했다. 도로 위 작은 선행이 10년 인연으로 불규칙한 근무도 어려움 중 하나다. 주야간 4교대 근무에 더해 주말 마라톤 대회나 각종 집회가 열리면 추가로 현장에 투입된다. 퇴근이 늦어지거나 쉬는 날 가족과의 약속을 취소하는 일도 허다하다. 그럼에도 현 경위가 27년간 교통 현장을 지켜온 원동력은 시민들의 따뜻한 감사 인사다. 특히 10년 가까이 인연을 이어오고 있는 한 시민과의 만남은 지금도 잊지 못할 기억으로 남아 있다. 지난 2016년 양재역 사거리에서 순찰하던 현 경위는 도로 한복판에서 고장 난 외제차를 밀고 있는 백발의 노인을 발견했다. 곧바로 순찰차를 세우고 달려가 노인과 함께 차량을 20~30m가량 밀어 안전한 곳으로 옮겼다. 차량을 옮기는 동안 온몸이 땀으로 흠뻑 젖을 정도였지만 무사히 도움을 줄 수 있었다는 사실에 보람을 느꼈다고 한다. 그는 \"그분이 경찰관에게 이런 도움을 받아본 적이 없다며 무척 고마워하셨다\"며 \"전화번호를 알려드렸는데 지금까지도 명절마다 안부를 묻고 추울 때면 따뜻하게 입고 다니라고 말씀하신다. 마치 아버지처럼 챙겨주시는 모습이 가장 기억에 남는다\"고 말했다. 현 경위는 경찰을 꿈꾸는 수험생들에게 무엇보다 사명감이 중요하다고 강조했다. 그는 \"경찰관은 외롭고 힘들 때도 많고 칭찬을 많이 듣는 직업도 아니다\"라면서도 \"사명감이 있다면 충분히 도전해 볼 만한 직업\"이라고 말했다. 이어 \"수험생 모두에게 행운이 깃들어 노력한 만큼 좋은 결과를 얻었으면 좋겠다\"고 응원의 메시지를 전했다. [email protected] 이동혁 기자 ※  저작권자 © 파이낸셜뉴스, 무단전재-재배포 금지",
+        "source_part": "body",
+        "effective_at": null,
+        "derivation": "explicit",
+        "source_id": "55acc2698b4fa02764c211bc",
+        "source_revision": "e4db1223ba466bbc3a5481ca",
+        "reference_source": null
+       },
+       {
+        "field_path": "/start",
+        "quote": "사회 사회일반 \"시험 시작 1분 전 극적 도착\"…수험생 꿈 지킨 27년 교통 베테랑 [넘버112] 이동혁 기자 파이낸셜뉴스 입력 2026.11.10 15:41 수정 2026.11.10 15:41 기사 듣기 구글 검색 선호 매체 추가 현양서 서울서초서 교통안전2팀 경위 인터뷰 시험장 잘못 찾은 여학생 순찰차로 긴급 이송 버스에 치여 한 달 입원…27년간 도로 지켜 10년 전 도운 시민과 명절마다 안부 주고받아 \"고된 업무지만 사명감으로 버티는 것이 경찰\" [파이낸셜뉴스] \"시험 시작까지 15분밖에 남지 않았는데 시험장을 잘못 찾아온 여학생이 있었다. 순찰차에 태워 사이렌을 울리며 달린 끝에 시험 시작 1분 전에 겨우 도착했다.\" 서울 서초경찰서 교통안전2팀 현양서 경위(57·사진)는 10일 파이낸셜뉴스와 만나 대학수학능력시험을 앞두고 가장 기억에 남는 순간으로 시험장을 잘못 찾아온 수험생을 도왔던 일을 꼽았다. 당시 한 여학생은 시험 시작을 불과 15분 앞두고 서울고등학교를 찾았지만 실제 시험장은 약 4㎞ 떨어진 은광여자고등학교였다. 현 경위는 학생을 순찰차에 태워 사이렌을 울리며 달린 끝에 시험 시작 1분 전 가까스로 시험장에 도착했다. 그는 \"15분 안에 도착하기 어려운 거리였지만 다행히 늦지 않게 학생을 데려다줄 수 있었다\"며 당시 상황을 떠올렸다. 수험생 위해 새벽부터 도로로 오는 19일 치러지는 수능에서도 현 경위는 수험생들의 안전한 이동을 위해 이른 새벽부터 도로에 나선다. 평소보다 이른 오전 5시30분께 출근해 사전 교육을 받은 뒤 주요 교차로와 시험장 주변에서 교통 혼잡을 관리할 예정이다. 그는 \"시험장 정문에는 수험생과 응원 인파가 몰리는 만큼 차량을 조금 떨어진 곳에 정차하도록 안내한다\"며 \"시험장을 잘못 찾거나 지각 위기에 놓인 수험생이 있으면 사이카(경찰 오토바이)나 순찰차로 이동을 돕는다\"고 설명했다. 현 경위가 경찰 제복을 처음 입은 것은 지난 1998년 6월이다. 군에서 5년간 부사관으로 복무한 뒤 직장생활을 하던 그는 제복에 대한 동경으로 경찰의 길을 선택했다. 입직 1년 만인 1999년 교통 부서로 자리를 옮긴 뒤 기동대와 파출소 근무 등을 제외하면 경찰 생활 대부분을 도로 위에서 보냈다. 정년퇴임을 3년 앞둔 그는 올해로 경찰 생활 29년 차이자 교통 업무 27년 차를 맞았다. 오랜 기간 도로를 지켜온 만큼 위험한 순간도 적지 않았다. 차량이 오가는 도로에서 교통 통제와 음주운전 단속 등을 수행하다 보면 사고 위험에 노출되는 일이 잦기 때문이다. 현 경위 역시 경사 시절 근무 중 버스에 치여 한 달가량 입원한 경험이 있다. 그는 \"겨울철 빙판길에서 차량을 추격하다 사고를 당한 동료들도 적지 않다\"고 전했다. 도로 위 작은 선행이 10년 인연으로 불규칙한 근무도 어려움 중 하나다. 주야간 4교대 근무에 더해 주말 마라톤 대회나 각종 집회가 열리면 추가로 현장에 투입된다. 퇴근이 늦어지거나 쉬는 날 가족과의 약속을 취소하는 일도 허다하다. 그럼에도 현 경위가 27년간 교통 현장을 지켜온 원동력은 시민들의 따뜻한 감사 인사다. 특히 10년 가까이 인연을 이어오고 있는 한 시민과의 만남은 지금도 잊지 못할 기억으로 남아 있다. 지난 2016년 양재역 사거리에서 순찰하던 현 경위는 도로 한복판에서 고장 난 외제차를 밀고 있는 백발의 노인을 발견했다. 곧바로 순찰차를 세우고 달려가 노인과 함께 차량을 20~30m가량 밀어 안전한 곳으로 옮겼다. 차량을 옮기는 동안 온몸이 땀으로 흠뻑 젖을 정도였지만 무사히 도움을 줄 수 있었다는 사실에 보람을 느꼈다고 한다. 그는 \"그분이 경찰관에게 이런 도움을 받아본 적이 없다며 무척 고마워하셨다\"며 \"전화번호를 알려드렸는데 지금까지도 명절마다 안부를 묻고 추울 때면 따뜻하게 입고 다니라고 말씀하신다. 마치 아버지처럼 챙겨주시는 모습이 가장 기억에 남는다\"고 말했다. 현 경위는 경찰을 꿈꾸는 수험생들에게 무엇보다 사명감이 중요하다고 강조했다. 그는 \"경찰관은 외롭고 힘들 때도 많고 칭찬을 많이 듣는 직업도 아니다\"라면서도 \"사명감이 있다면 충분히 도전해 볼 만한 직업\"이라고 말했다. 이어 \"수험생 모두에게 행운이 깃들어 노력한 만큼 좋은 결과를 얻었으면 좋겠다\"고 응원의 메시지를 전했다. [email protected] 이동혁 기자 ※  저작권자 © 파이낸셜뉴스, 무단전재-재배포 금지",
+        "source_part": "body",
+        "effective_at": null,
+        "derivation": "explicit",
+        "source_id": "55acc2698b4fa02764c211bc",
+        "source_revision": "e4db1223ba466bbc3a5481ca",
+        "reference_source": null
+       },
+       {
+        "field_path": "/end",
+        "quote": "사회 사회일반 \"시험 시작 1분 전 극적 도착\"…수험생 꿈 지킨 27년 교통 베테랑 [넘버112] 이동혁 기자 파이낸셜뉴스 입력 2026.11.10 15:41 수정 2026.11.10 15:41 기사 듣기 구글 검색 선호 매체 추가 현양서 서울서초서 교통안전2팀 경위 인터뷰 시험장 잘못 찾은 여학생 순찰차로 긴급 이송 버스에 치여 한 달 입원…27년간 도로 지켜 10년 전 도운 시민과 명절마다 안부 주고받아 \"고된 업무지만 사명감으로 버티는 것이 경찰\" [파이낸셜뉴스] \"시험 시작까지 15분밖에 남지 않았는데 시험장을 잘못 찾아온 여학생이 있었다. 순찰차에 태워 사이렌을 울리며 달린 끝에 시험 시작 1분 전에 겨우 도착했다.\" 서울 서초경찰서 교통안전2팀 현양서 경위(57·사진)는 10일 파이낸셜뉴스와 만나 대학수학능력시험을 앞두고 가장 기억에 남는 순간으로 시험장을 잘못 찾아온 수험생을 도왔던 일을 꼽았다. 당시 한 여학생은 시험 시작을 불과 15분 앞두고 서울고등학교를 찾았지만 실제 시험장은 약 4㎞ 떨어진 은광여자고등학교였다. 현 경위는 학생을 순찰차에 태워 사이렌을 울리며 달린 끝에 시험 시작 1분 전 가까스로 시험장에 도착했다. 그는 \"15분 안에 도착하기 어려운 거리였지만 다행히 늦지 않게 학생을 데려다줄 수 있었다\"며 당시 상황을 떠올렸다. 수험생 위해 새벽부터 도로로 오는 19일 치러지는 수능에서도 현 경위는 수험생들의 안전한 이동을 위해 이른 새벽부터 도로에 나선다. 평소보다 이른 오전 5시30분께 출근해 사전 교육을 받은 뒤 주요 교차로와 시험장 주변에서 교통 혼잡을 관리할 예정이다. 그는 \"시험장 정문에는 수험생과 응원 인파가 몰리는 만큼 차량을 조금 떨어진 곳에 정차하도록 안내한다\"며 \"시험장을 잘못 찾거나 지각 위기에 놓인 수험생이 있으면 사이카(경찰 오토바이)나 순찰차로 이동을 돕는다\"고 설명했다. 현 경위가 경찰 제복을 처음 입은 것은 지난 1998년 6월이다. 군에서 5년간 부사관으로 복무한 뒤 직장생활을 하던 그는 제복에 대한 동경으로 경찰의 길을 선택했다. 입직 1년 만인 1999년 교통 부서로 자리를 옮긴 뒤 기동대와 파출소 근무 등을 제외하면 경찰 생활 대부분을 도로 위에서 보냈다. 정년퇴임을 3년 앞둔 그는 올해로 경찰 생활 29년 차이자 교통 업무 27년 차를 맞았다. 오랜 기간 도로를 지켜온 만큼 위험한 순간도 적지 않았다. 차량이 오가는 도로에서 교통 통제와 음주운전 단속 등을 수행하다 보면 사고 위험에 노출되는 일이 잦기 때문이다. 현 경위 역시 경사 시절 근무 중 버스에 치여 한 달가량 입원한 경험이 있다. 그는 \"겨울철 빙판길에서 차량을 추격하다 사고를 당한 동료들도 적지 않다\"고 전했다. 도로 위 작은 선행이 10년 인연으로 불규칙한 근무도 어려움 중 하나다. 주야간 4교대 근무에 더해 주말 마라톤 대회나 각종 집회가 열리면 추가로 현장에 투입된다. 퇴근이 늦어지거나 쉬는 날 가족과의 약속을 취소하는 일도 허다하다. 그럼에도 현 경위가 27년간 교통 현장을 지켜온 원동력은 시민들의 따뜻한 감사 인사다. 특히 10년 가까이 인연을 이어오고 있는 한 시민과의 만남은 지금도 잊지 못할 기억으로 남아 있다. 지난 2016년 양재역 사거리에서 순찰하던 현 경위는 도로 한복판에서 고장 난 외제차를 밀고 있는 백발의 노인을 발견했다. 곧바로 순찰차를 세우고 달려가 노인과 함께 차량을 20~30m가량 밀어 안전한 곳으로 옮겼다. 차량을 옮기는 동안 온몸이 땀으로 흠뻑 젖을 정도였지만 무사히 도움을 줄 수 있었다는 사실에 보람을 느꼈다고 한다. 그는 \"그분이 경찰관에게 이런 도움을 받아본 적이 없다며 무척 고마워하셨다\"며 \"전화번호를 알려드렸는데 지금까지도 명절마다 안부를 묻고 추울 때면 따뜻하게 입고 다니라고 말씀하신다. 마치 아버지처럼 챙겨주시는 모습이 가장 기억에 남는다\"고 말했다. 현 경위는 경찰을 꿈꾸는 수험생들에게 무엇보다 사명감이 중요하다고 강조했다. 그는 \"경찰관은 외롭고 힘들 때도 많고 칭찬을 많이 듣는 직업도 아니다\"라면서도 \"사명감이 있다면 충분히 도전해 볼 만한 직업\"이라고 말했다. 이어 \"수험생 모두에게 행운이 깃들어 노력한 만큼 좋은 결과를 얻었으면 좋겠다\"고 응원의 메시지를 전했다. [email protected] 이동혁 기자 ※  저작권자 © 파이낸셜뉴스, 무단전재-재배포 금지",
+        "source_part": "body",
+        "effective_at": null,
+        "derivation": "explicit",
+        "source_id": "55acc2698b4fa02764c211bc",
+        "source_revision": "e4db1223ba466bbc3a5481ca",
+        "reference_source": null
+       }
+      ],
+      "review_reasons": []
+     }
+    }
+   ],
+   "events": {
+    "schema_version": "1.0",
+    "article_relevance": "unrelated",
+    "processing_status": "success",
+    "source": {
+     "source_id": "55acc2698b4fa02764c211bc",
+     "source_url": "https://www.fnnews.com/news/202611101525402414",
+     "source_revision": "e4db1223ba466bbc3a5481ca",
+     "published_at": "2026-11-10T15:41:44+09:00",
+     "updated_at": "2026-11-10T15:41:44+09:00",
+     "collected_at": "2026-11-18T00:43:54.733524+09:00"
+    },
+    "events": [],
+    "review_reasons": []
+   }
+  },
+  {
+   "strikes": [
+    {
+     "article_relevance": "unrelated",
+     "transport_mode": "unknown",
+     "affected_regions": [],
+     "affected_routes": [],
+     "start": {
+      "raw": null,
+      "date": null,
+      "time": null,
+      "timezone": "Asia/Seoul",
+      "basis": "unknown",
+      "assertion": "unknown",
+      "open_ended": null
+     },
+     "end": {
+      "raw": null,
+      "date": null,
+      "time": null,
+      "timezone": "Asia/Seoul",
+      "basis": "unknown",
+      "assertion": "unknown",
+      "open_ended": null
+     },
+     "strike_status": {
+      "value": "unknown",
+      "conditions": [],
+      "scope_raw": null,
+      "effective_at": null
+     },
+     "service_status": [],
+     "normal_service_exceptions": [],
+     "alternative_services": [],
+     "evidence_and_timestamps": {
+      "source_url": "https://www.newsis.com/view/NISX20261117_0003871652",
+      "published_at": "2026-11-17T15:04:30+09:00",
+      "updated_at": null,
+      "collected_at": "2026-11-18T00:43:57.220806+09:00",
+      "field_evidence": [
+       {
+        "field_path": "/article_relevance",
+        "quote": "[서울=뉴시스] 최동준 기자 = 서울교통공사노동조합이 17일 서울 중구 세종대로에서 조합원 총회를 열고 구조조정 저지, 안전인력 충원, 온전한 임금인상 등을 촉구하고 있다. 2026.11.17. [email protected]",
+        "source_part": "body",
+        "effective_at": null,
+        "derivation": "explicit",
+        "source_id": "046c4001e6325ad1eb4c37c8",
+        "source_revision": "a19421a42aa2c51dc9b1796d",
+        "reference_source": null
+       },
+       {
+        "field_path": "/transport_mode",
+        "quote": "[서울=뉴시스] 최동준 기자 = 서울교통공사노동조합이 17일 서울 중구 세종대로에서 조합원 총회를 열고 구조조정 저지, 안전인력 충원, 온전한 임금인상 등을 촉구하고 있다. 2026.11.17. [email protected]",
+        "source_part": "body",
+        "effective_at": null,
+        "derivation": "explicit",
+        "source_id": "046c4001e6325ad1eb4c37c8",
+        "source_revision": "a19421a42aa2c51dc9b1796d",
+        "reference_source": null
+       },
+       {
+        "field_path": "/affected_regions",
+        "quote": "[서울=뉴시스] 최동준 기자 = 서울교통공사노동조합이 17일 서울 중구 세종대로에서 조합원 총회를 열고 구조조정 저지, 안전인력 충원, 온전한 임금인상 등을 촉구하고 있다. 2026.11.17. [email protected]",
+        "source_part": "body",
+        "effective_at": null,
+        "derivation": "explicit",
+        "source_id": "046c4001e6325ad1eb4c37c8",
+        "source_revision": "a19421a42aa2c51dc9b1796d",
+        "reference_source": null
+       },
+       {
+        "field_path": "/affected_routes",
+        "quote": "[서울=뉴시스] 최동준 기자 = 서울교통공사노동조합이 17일 서울 중구 세종대로에서 조합원 총회를 열고 구조조정 저지, 안전인력 충원, 온전한 임금인상 등을 촉구하고 있다. 2026.11.17. [email protected]",
+        "source_part": "body",
+        "effective_at": null,
+        "derivation": "explicit",
+        "source_id": "046c4001e6325ad1eb4c37c8",
+        "source_revision": "a19421a42aa2c51dc9b1796d",
+        "reference_source": null
+       },
+       {
+        "field_path": "/strike_status",
+        "quote": "[서울=뉴시스] 최동준 기자 = 서울교통공사노동조합이 17일 서울 중구 세종대로에서 조합원 총회를 열고 구조조정 저지, 안전인력 충원, 온전한 임금인상 등을 촉구하고 있다. 2026.11.17. [email protected]",
+        "source_part": "body",
+        "effective_at": null,
+        "derivation": "explicit",
+        "source_id": "046c4001e6325ad1eb4c37c8",
+        "source_revision": "a19421a42aa2c51dc9b1796d",
+        "reference_source": null
+       },
+       {
+        "field_path": "/service_status",
+        "quote": "[서울=뉴시스] 최동준 기자 = 서울교통공사노동조합이 17일 서울 중구 세종대로에서 조합원 총회를 열고 구조조정 저지, 안전인력 충원, 온전한 임금인상 등을 촉구하고 있다. 2026.11.17. [email protected]",
+        "source_part": "body",
+        "effective_at": null,
+        "derivation": "explicit",
+        "source_id": "046c4001e6325ad1eb4c37c8",
+        "source_revision": "a19421a42aa2c51dc9b1796d",
+        "reference_source": null
+       },
+       {
+        "field_path": "/normal_service_exceptions",
+        "quote": "[서울=뉴시스] 최동준 기자 = 서울교통공사노동조합이 17일 서울 중구 세종대로에서 조합원 총회를 열고 구조조정 저지, 안전인력 충원, 온전한 임금인상 등을 촉구하고 있다. 2026.11.17. [email protected]",
+        "source_part": "body",
+        "effective_at": null,
+        "derivation": "explicit",
+        "source_id": "046c4001e6325ad1eb4c37c8",
+        "source_revision": "a19421a42aa2c51dc9b1796d",
+        "reference_source": null
+       },
+       {
+        "field_path": "/alternative_services",
+        "quote": "[서울=뉴시스] 최동준 기자 = 서울교통공사노동조합이 17일 서울 중구 세종대로에서 조합원 총회를 열고 구조조정 저지, 안전인력 충원, 온전한 임금인상 등을 촉구하고 있다. 2026.11.17. [email protected]",
+        "source_part": "body",
+        "effective_at": null,
+        "derivation": "explicit",
+        "source_id": "046c4001e6325ad1eb4c37c8",
+        "source_revision": "a19421a42aa2c51dc9b1796d",
+        "reference_source": null
+       },
+       {
+        "field_path": "/start",
+        "quote": "[서울=뉴시스] 최동준 기자 = 서울교통공사노동조합이 17일 서울 중구 세종대로에서 조합원 총회를 열고 구조조정 저지, 안전인력 충원, 온전한 임금인상 등을 촉구하고 있다. 2026.11.17. [email protected]",
+        "source_part": "body",
+        "effective_at": null,
+        "derivation": "explicit",
+        "source_id": "046c4001e6325ad1eb4c37c8",
+        "source_revision": "a19421a42aa2c51dc9b1796d",
+        "reference_source": null
+       },
+       {
+        "field_path": "/end",
+        "quote": "[서울=뉴시스] 최동준 기자 = 서울교통공사노동조합이 17일 서울 중구 세종대로에서 조합원 총회를 열고 구조조정 저지, 안전인력 충원, 온전한 임금인상 등을 촉구하고 있다. 2026.11.17. [email protected]",
+        "source_part": "body",
+        "effective_at": null,
+        "derivation": "explicit",
+        "source_id": "046c4001e6325ad1eb4c37c8",
+        "source_revision": "a19421a42aa2c51dc9b1796d",
+        "reference_source": null
+       }
+      ],
+      "review_reasons": []
+     }
+    }
+   ],
+   "events": {
+    "schema_version": "1.0",
+    "article_relevance": "unrelated",
+    "processing_status": "success",
+    "source": {
+     "source_id": "046c4001e6325ad1eb4c37c8",
+     "source_url": "https://www.newsis.com/view/NISX20261117_0003871652",
+     "source_revision": "a19421a42aa2c51dc9b1796d",
+     "published_at": "2026-11-17T15:04:30+09:00",
+     "updated_at": null,
+     "collected_at": "2026-11-18T00:43:57.220806+09:00"
     },
     "events": [],
     "review_reasons": []
@@ -8575,7 +9978,7 @@
       "source_url": "https://www.imaeil.com/page/view/2026111417131297761",
       "published_at": null,
       "updated_at": null,
-      "collected_at": "2026-11-17T15:01:24.396932+09:00",
+      "collected_at": "2026-11-18T00:44:04.029127+09:00",
       "field_evidence": [
        {
         "field_path": "/article_relevance",
@@ -8919,7 +10322,7 @@
       "source_url": "https://www.imaeil.com/page/view/2026111417131297761",
       "published_at": null,
       "updated_at": null,
-      "collected_at": "2026-11-17T15:01:24.396932+09:00",
+      "collected_at": "2026-11-18T00:44:04.029127+09:00",
       "field_evidence": [
        {
         "field_path": "/article_relevance",
@@ -9039,168 +10442,7 @@
      "source_revision": "79344459f900a196bff2714a",
      "published_at": null,
      "updated_at": null,
-     "collected_at": "2026-11-17T15:01:24.396932+09:00"
-    },
-    "events": [],
-    "review_reasons": []
-   }
-  },
-  {
-   "strikes": [
-    {
-     "article_relevance": "unrelated",
-     "transport_mode": "unknown",
-     "affected_regions": [],
-     "affected_routes": [],
-     "start": {
-      "raw": null,
-      "date": null,
-      "time": null,
-      "timezone": "Asia/Seoul",
-      "basis": "unknown",
-      "assertion": "unknown",
-      "open_ended": null
-     },
-     "end": {
-      "raw": null,
-      "date": null,
-      "time": null,
-      "timezone": "Asia/Seoul",
-      "basis": "unknown",
-      "assertion": "unknown",
-      "open_ended": null
-     },
-     "strike_status": {
-      "value": "unknown",
-      "conditions": [],
-      "scope_raw": null,
-      "effective_at": null
-     },
-     "service_status": [],
-     "normal_service_exceptions": [],
-     "alternative_services": [],
-     "evidence_and_timestamps": {
-      "source_url": "https://www.fnnews.com/news/202611101525402414",
-      "published_at": "2026-11-10T15:41:44+09:00",
-      "updated_at": "2026-11-10T15:41:44+09:00",
-      "collected_at": "2026-11-17T15:01:29.399615+09:00",
-      "field_evidence": [
-       {
-        "field_path": "/article_relevance",
-        "quote": "사회 사회일반 \"시험 시작 1분 전 극적 도착\"…수험생 꿈 지킨 27년 교통 베테랑 [넘버112] 이동혁 기자 파이낸셜뉴스 입력 2026.11.10 15:41 수정 2026.11.10 15:41 기사 듣기 구글 검색 선호 매체 추가 현양서 서울서초서 교통안전2팀 경위 인터뷰 시험장 잘못 찾은 여학생 순찰차로 긴급 이송 버스에 치여 한 달 입원…27년간 도로 지켜 10년 전 도운 시민과 명절마다 안부 주고받아 \"고된 업무지만 사명감으로 버티는 것이 경찰\" [파이낸셜뉴스] \"시험 시작까지 15분밖에 남지 않았는데 시험장을 잘못 찾아온 여학생이 있었다. 순찰차에 태워 사이렌을 울리며 달린 끝에 시험 시작 1분 전에 겨우 도착했다.\" 서울 서초경찰서 교통안전2팀 현양서 경위(57·사진)는 10일 파이낸셜뉴스와 만나 대학수학능력시험을 앞두고 가장 기억에 남는 순간으로 시험장을 잘못 찾아온 수험생을 도왔던 일을 꼽았다. 당시 한 여학생은 시험 시작을 불과 15분 앞두고 서울고등학교를 찾았지만 실제 시험장은 약 4㎞ 떨어진 은광여자고등학교였다. 현 경위는 학생을 순찰차에 태워 사이렌을 울리며 달린 끝에 시험 시작 1분 전 가까스로 시험장에 도착했다. 그는 \"15분 안에 도착하기 어려운 거리였지만 다행히 늦지 않게 학생을 데려다줄 수 있었다\"며 당시 상황을 떠올렸다. 수험생 위해 새벽부터 도로로 오는 19일 치러지는 수능에서도 현 경위는 수험생들의 안전한 이동을 위해 이른 새벽부터 도로에 나선다. 평소보다 이른 오전 5시30분께 출근해 사전 교육을 받은 뒤 주요 교차로와 시험장 주변에서 교통 혼잡을 관리할 예정이다. 그는 \"시험장 정문에는 수험생과 응원 인파가 몰리는 만큼 차량을 조금 떨어진 곳에 정차하도록 안내한다\"며 \"시험장을 잘못 찾거나 지각 위기에 놓인 수험생이 있으면 사이카(경찰 오토바이)나 순찰차로 이동을 돕는다\"고 설명했다. 현 경위가 경찰 제복을 처음 입은 것은 지난 1998년 6월이다. 군에서 5년간 부사관으로 복무한 뒤 직장생활을 하던 그는 제복에 대한 동경으로 경찰의 길을 선택했다. 입직 1년 만인 1999년 교통 부서로 자리를 옮긴 뒤 기동대와 파출소 근무 등을 제외하면 경찰 생활 대부분을 도로 위에서 보냈다. 정년퇴임을 3년 앞둔 그는 올해로 경찰 생활 29년 차이자 교통 업무 27년 차를 맞았다. 오랜 기간 도로를 지켜온 만큼 위험한 순간도 적지 않았다. 차량이 오가는 도로에서 교통 통제와 음주운전 단속 등을 수행하다 보면 사고 위험에 노출되는 일이 잦기 때문이다. 현 경위 역시 경사 시절 근무 중 버스에 치여 한 달가량 입원한 경험이 있다. 그는 \"겨울철 빙판길에서 차량을 추격하다 사고를 당한 동료들도 적지 않다\"고 전했다. 도로 위 작은 선행이 10년 인연으로 불규칙한 근무도 어려움 중 하나다. 주야간 4교대 근무에 더해 주말 마라톤 대회나 각종 집회가 열리면 추가로 현장에 투입된다. 퇴근이 늦어지거나 쉬는 날 가족과의 약속을 취소하는 일도 허다하다. 그럼에도 현 경위가 27년간 교통 현장을 지켜온 원동력은 시민들의 따뜻한 감사 인사다. 특히 10년 가까이 인연을 이어오고 있는 한 시민과의 만남은 지금도 잊지 못할 기억으로 남아 있다. 지난 2016년 양재역 사거리에서 순찰하던 현 경위는 도로 한복판에서 고장 난 외제차를 밀고 있는 백발의 노인을 발견했다. 곧바로 순찰차를 세우고 달려가 노인과 함께 차량을 20~30m가량 밀어 안전한 곳으로 옮겼다. 차량을 옮기는 동안 온몸이 땀으로 흠뻑 젖을 정도였지만 무사히 도움을 줄 수 있었다는 사실에 보람을 느꼈다고 한다. 그는 \"그분이 경찰관에게 이런 도움을 받아본 적이 없다며 무척 고마워하셨다\"며 \"전화번호를 알려드렸는데 지금까지도 명절마다 안부를 묻고 추울 때면 따뜻하게 입고 다니라고 말씀하신다. 마치 아버지처럼 챙겨주시는 모습이 가장 기억에 남는다\"고 말했다. 현 경위는 경찰을 꿈꾸는 수험생들에게 무엇보다 사명감이 중요하다고 강조했다. 그는 \"경찰관은 외롭고 힘들 때도 많고 칭찬을 많이 듣는 직업도 아니다\"라면서도 \"사명감이 있다면 충분히 도전해 볼 만한 직업\"이라고 말했다. 이어 \"수험생 모두에게 행운이 깃들어 노력한 만큼 좋은 결과를 얻었으면 좋겠다\"고 응원의 메시지를 전했다. [email protected] 이동혁 기자 ※  저작권자 © 파이낸셜뉴스, 무단전재-재배포 금지",
-        "source_part": "body",
-        "effective_at": null,
-        "derivation": "explicit",
-        "source_id": "55acc2698b4fa02764c211bc",
-        "source_revision": "e4db1223ba466bbc3a5481ca",
-        "reference_source": null
-       },
-       {
-        "field_path": "/transport_mode",
-        "quote": "사회 사회일반 \"시험 시작 1분 전 극적 도착\"…수험생 꿈 지킨 27년 교통 베테랑 [넘버112] 이동혁 기자 파이낸셜뉴스 입력 2026.11.10 15:41 수정 2026.11.10 15:41 기사 듣기 구글 검색 선호 매체 추가 현양서 서울서초서 교통안전2팀 경위 인터뷰 시험장 잘못 찾은 여학생 순찰차로 긴급 이송 버스에 치여 한 달 입원…27년간 도로 지켜 10년 전 도운 시민과 명절마다 안부 주고받아 \"고된 업무지만 사명감으로 버티는 것이 경찰\" [파이낸셜뉴스] \"시험 시작까지 15분밖에 남지 않았는데 시험장을 잘못 찾아온 여학생이 있었다. 순찰차에 태워 사이렌을 울리며 달린 끝에 시험 시작 1분 전에 겨우 도착했다.\" 서울 서초경찰서 교통안전2팀 현양서 경위(57·사진)는 10일 파이낸셜뉴스와 만나 대학수학능력시험을 앞두고 가장 기억에 남는 순간으로 시험장을 잘못 찾아온 수험생을 도왔던 일을 꼽았다. 당시 한 여학생은 시험 시작을 불과 15분 앞두고 서울고등학교를 찾았지만 실제 시험장은 약 4㎞ 떨어진 은광여자고등학교였다. 현 경위는 학생을 순찰차에 태워 사이렌을 울리며 달린 끝에 시험 시작 1분 전 가까스로 시험장에 도착했다. 그는 \"15분 안에 도착하기 어려운 거리였지만 다행히 늦지 않게 학생을 데려다줄 수 있었다\"며 당시 상황을 떠올렸다. 수험생 위해 새벽부터 도로로 오는 19일 치러지는 수능에서도 현 경위는 수험생들의 안전한 이동을 위해 이른 새벽부터 도로에 나선다. 평소보다 이른 오전 5시30분께 출근해 사전 교육을 받은 뒤 주요 교차로와 시험장 주변에서 교통 혼잡을 관리할 예정이다. 그는 \"시험장 정문에는 수험생과 응원 인파가 몰리는 만큼 차량을 조금 떨어진 곳에 정차하도록 안내한다\"며 \"시험장을 잘못 찾거나 지각 위기에 놓인 수험생이 있으면 사이카(경찰 오토바이)나 순찰차로 이동을 돕는다\"고 설명했다. 현 경위가 경찰 제복을 처음 입은 것은 지난 1998년 6월이다. 군에서 5년간 부사관으로 복무한 뒤 직장생활을 하던 그는 제복에 대한 동경으로 경찰의 길을 선택했다. 입직 1년 만인 1999년 교통 부서로 자리를 옮긴 뒤 기동대와 파출소 근무 등을 제외하면 경찰 생활 대부분을 도로 위에서 보냈다. 정년퇴임을 3년 앞둔 그는 올해로 경찰 생활 29년 차이자 교통 업무 27년 차를 맞았다. 오랜 기간 도로를 지켜온 만큼 위험한 순간도 적지 않았다. 차량이 오가는 도로에서 교통 통제와 음주운전 단속 등을 수행하다 보면 사고 위험에 노출되는 일이 잦기 때문이다. 현 경위 역시 경사 시절 근무 중 버스에 치여 한 달가량 입원한 경험이 있다. 그는 \"겨울철 빙판길에서 차량을 추격하다 사고를 당한 동료들도 적지 않다\"고 전했다. 도로 위 작은 선행이 10년 인연으로 불규칙한 근무도 어려움 중 하나다. 주야간 4교대 근무에 더해 주말 마라톤 대회나 각종 집회가 열리면 추가로 현장에 투입된다. 퇴근이 늦어지거나 쉬는 날 가족과의 약속을 취소하는 일도 허다하다. 그럼에도 현 경위가 27년간 교통 현장을 지켜온 원동력은 시민들의 따뜻한 감사 인사다. 특히 10년 가까이 인연을 이어오고 있는 한 시민과의 만남은 지금도 잊지 못할 기억으로 남아 있다. 지난 2016년 양재역 사거리에서 순찰하던 현 경위는 도로 한복판에서 고장 난 외제차를 밀고 있는 백발의 노인을 발견했다. 곧바로 순찰차를 세우고 달려가 노인과 함께 차량을 20~30m가량 밀어 안전한 곳으로 옮겼다. 차량을 옮기는 동안 온몸이 땀으로 흠뻑 젖을 정도였지만 무사히 도움을 줄 수 있었다는 사실에 보람을 느꼈다고 한다. 그는 \"그분이 경찰관에게 이런 도움을 받아본 적이 없다며 무척 고마워하셨다\"며 \"전화번호를 알려드렸는데 지금까지도 명절마다 안부를 묻고 추울 때면 따뜻하게 입고 다니라고 말씀하신다. 마치 아버지처럼 챙겨주시는 모습이 가장 기억에 남는다\"고 말했다. 현 경위는 경찰을 꿈꾸는 수험생들에게 무엇보다 사명감이 중요하다고 강조했다. 그는 \"경찰관은 외롭고 힘들 때도 많고 칭찬을 많이 듣는 직업도 아니다\"라면서도 \"사명감이 있다면 충분히 도전해 볼 만한 직업\"이라고 말했다. 이어 \"수험생 모두에게 행운이 깃들어 노력한 만큼 좋은 결과를 얻었으면 좋겠다\"고 응원의 메시지를 전했다. [email protected] 이동혁 기자 ※  저작권자 © 파이낸셜뉴스, 무단전재-재배포 금지",
-        "source_part": "body",
-        "effective_at": null,
-        "derivation": "explicit",
-        "source_id": "55acc2698b4fa02764c211bc",
-        "source_revision": "e4db1223ba466bbc3a5481ca",
-        "reference_source": null
-       },
-       {
-        "field_path": "/affected_regions",
-        "quote": "사회 사회일반 \"시험 시작 1분 전 극적 도착\"…수험생 꿈 지킨 27년 교통 베테랑 [넘버112] 이동혁 기자 파이낸셜뉴스 입력 2026.11.10 15:41 수정 2026.11.10 15:41 기사 듣기 구글 검색 선호 매체 추가 현양서 서울서초서 교통안전2팀 경위 인터뷰 시험장 잘못 찾은 여학생 순찰차로 긴급 이송 버스에 치여 한 달 입원…27년간 도로 지켜 10년 전 도운 시민과 명절마다 안부 주고받아 \"고된 업무지만 사명감으로 버티는 것이 경찰\" [파이낸셜뉴스] \"시험 시작까지 15분밖에 남지 않았는데 시험장을 잘못 찾아온 여학생이 있었다. 순찰차에 태워 사이렌을 울리며 달린 끝에 시험 시작 1분 전에 겨우 도착했다.\" 서울 서초경찰서 교통안전2팀 현양서 경위(57·사진)는 10일 파이낸셜뉴스와 만나 대학수학능력시험을 앞두고 가장 기억에 남는 순간으로 시험장을 잘못 찾아온 수험생을 도왔던 일을 꼽았다. 당시 한 여학생은 시험 시작을 불과 15분 앞두고 서울고등학교를 찾았지만 실제 시험장은 약 4㎞ 떨어진 은광여자고등학교였다. 현 경위는 학생을 순찰차에 태워 사이렌을 울리며 달린 끝에 시험 시작 1분 전 가까스로 시험장에 도착했다. 그는 \"15분 안에 도착하기 어려운 거리였지만 다행히 늦지 않게 학생을 데려다줄 수 있었다\"며 당시 상황을 떠올렸다. 수험생 위해 새벽부터 도로로 오는 19일 치러지는 수능에서도 현 경위는 수험생들의 안전한 이동을 위해 이른 새벽부터 도로에 나선다. 평소보다 이른 오전 5시30분께 출근해 사전 교육을 받은 뒤 주요 교차로와 시험장 주변에서 교통 혼잡을 관리할 예정이다. 그는 \"시험장 정문에는 수험생과 응원 인파가 몰리는 만큼 차량을 조금 떨어진 곳에 정차하도록 안내한다\"며 \"시험장을 잘못 찾거나 지각 위기에 놓인 수험생이 있으면 사이카(경찰 오토바이)나 순찰차로 이동을 돕는다\"고 설명했다. 현 경위가 경찰 제복을 처음 입은 것은 지난 1998년 6월이다. 군에서 5년간 부사관으로 복무한 뒤 직장생활을 하던 그는 제복에 대한 동경으로 경찰의 길을 선택했다. 입직 1년 만인 1999년 교통 부서로 자리를 옮긴 뒤 기동대와 파출소 근무 등을 제외하면 경찰 생활 대부분을 도로 위에서 보냈다. 정년퇴임을 3년 앞둔 그는 올해로 경찰 생활 29년 차이자 교통 업무 27년 차를 맞았다. 오랜 기간 도로를 지켜온 만큼 위험한 순간도 적지 않았다. 차량이 오가는 도로에서 교통 통제와 음주운전 단속 등을 수행하다 보면 사고 위험에 노출되는 일이 잦기 때문이다. 현 경위 역시 경사 시절 근무 중 버스에 치여 한 달가량 입원한 경험이 있다. 그는 \"겨울철 빙판길에서 차량을 추격하다 사고를 당한 동료들도 적지 않다\"고 전했다. 도로 위 작은 선행이 10년 인연으로 불규칙한 근무도 어려움 중 하나다. 주야간 4교대 근무에 더해 주말 마라톤 대회나 각종 집회가 열리면 추가로 현장에 투입된다. 퇴근이 늦어지거나 쉬는 날 가족과의 약속을 취소하는 일도 허다하다. 그럼에도 현 경위가 27년간 교통 현장을 지켜온 원동력은 시민들의 따뜻한 감사 인사다. 특히 10년 가까이 인연을 이어오고 있는 한 시민과의 만남은 지금도 잊지 못할 기억으로 남아 있다. 지난 2016년 양재역 사거리에서 순찰하던 현 경위는 도로 한복판에서 고장 난 외제차를 밀고 있는 백발의 노인을 발견했다. 곧바로 순찰차를 세우고 달려가 노인과 함께 차량을 20~30m가량 밀어 안전한 곳으로 옮겼다. 차량을 옮기는 동안 온몸이 땀으로 흠뻑 젖을 정도였지만 무사히 도움을 줄 수 있었다는 사실에 보람을 느꼈다고 한다. 그는 \"그분이 경찰관에게 이런 도움을 받아본 적이 없다며 무척 고마워하셨다\"며 \"전화번호를 알려드렸는데 지금까지도 명절마다 안부를 묻고 추울 때면 따뜻하게 입고 다니라고 말씀하신다. 마치 아버지처럼 챙겨주시는 모습이 가장 기억에 남는다\"고 말했다. 현 경위는 경찰을 꿈꾸는 수험생들에게 무엇보다 사명감이 중요하다고 강조했다. 그는 \"경찰관은 외롭고 힘들 때도 많고 칭찬을 많이 듣는 직업도 아니다\"라면서도 \"사명감이 있다면 충분히 도전해 볼 만한 직업\"이라고 말했다. 이어 \"수험생 모두에게 행운이 깃들어 노력한 만큼 좋은 결과를 얻었으면 좋겠다\"고 응원의 메시지를 전했다. [email protected] 이동혁 기자 ※  저작권자 © 파이낸셜뉴스, 무단전재-재배포 금지",
-        "source_part": "body",
-        "effective_at": null,
-        "derivation": "explicit",
-        "source_id": "55acc2698b4fa02764c211bc",
-        "source_revision": "e4db1223ba466bbc3a5481ca",
-        "reference_source": null
-       },
-       {
-        "field_path": "/affected_routes",
-        "quote": "사회 사회일반 \"시험 시작 1분 전 극적 도착\"…수험생 꿈 지킨 27년 교통 베테랑 [넘버112] 이동혁 기자 파이낸셜뉴스 입력 2026.11.10 15:41 수정 2026.11.10 15:41 기사 듣기 구글 검색 선호 매체 추가 현양서 서울서초서 교통안전2팀 경위 인터뷰 시험장 잘못 찾은 여학생 순찰차로 긴급 이송 버스에 치여 한 달 입원…27년간 도로 지켜 10년 전 도운 시민과 명절마다 안부 주고받아 \"고된 업무지만 사명감으로 버티는 것이 경찰\" [파이낸셜뉴스] \"시험 시작까지 15분밖에 남지 않았는데 시험장을 잘못 찾아온 여학생이 있었다. 순찰차에 태워 사이렌을 울리며 달린 끝에 시험 시작 1분 전에 겨우 도착했다.\" 서울 서초경찰서 교통안전2팀 현양서 경위(57·사진)는 10일 파이낸셜뉴스와 만나 대학수학능력시험을 앞두고 가장 기억에 남는 순간으로 시험장을 잘못 찾아온 수험생을 도왔던 일을 꼽았다. 당시 한 여학생은 시험 시작을 불과 15분 앞두고 서울고등학교를 찾았지만 실제 시험장은 약 4㎞ 떨어진 은광여자고등학교였다. 현 경위는 학생을 순찰차에 태워 사이렌을 울리며 달린 끝에 시험 시작 1분 전 가까스로 시험장에 도착했다. 그는 \"15분 안에 도착하기 어려운 거리였지만 다행히 늦지 않게 학생을 데려다줄 수 있었다\"며 당시 상황을 떠올렸다. 수험생 위해 새벽부터 도로로 오는 19일 치러지는 수능에서도 현 경위는 수험생들의 안전한 이동을 위해 이른 새벽부터 도로에 나선다. 평소보다 이른 오전 5시30분께 출근해 사전 교육을 받은 뒤 주요 교차로와 시험장 주변에서 교통 혼잡을 관리할 예정이다. 그는 \"시험장 정문에는 수험생과 응원 인파가 몰리는 만큼 차량을 조금 떨어진 곳에 정차하도록 안내한다\"며 \"시험장을 잘못 찾거나 지각 위기에 놓인 수험생이 있으면 사이카(경찰 오토바이)나 순찰차로 이동을 돕는다\"고 설명했다. 현 경위가 경찰 제복을 처음 입은 것은 지난 1998년 6월이다. 군에서 5년간 부사관으로 복무한 뒤 직장생활을 하던 그는 제복에 대한 동경으로 경찰의 길을 선택했다. 입직 1년 만인 1999년 교통 부서로 자리를 옮긴 뒤 기동대와 파출소 근무 등을 제외하면 경찰 생활 대부분을 도로 위에서 보냈다. 정년퇴임을 3년 앞둔 그는 올해로 경찰 생활 29년 차이자 교통 업무 27년 차를 맞았다. 오랜 기간 도로를 지켜온 만큼 위험한 순간도 적지 않았다. 차량이 오가는 도로에서 교통 통제와 음주운전 단속 등을 수행하다 보면 사고 위험에 노출되는 일이 잦기 때문이다. 현 경위 역시 경사 시절 근무 중 버스에 치여 한 달가량 입원한 경험이 있다. 그는 \"겨울철 빙판길에서 차량을 추격하다 사고를 당한 동료들도 적지 않다\"고 전했다. 도로 위 작은 선행이 10년 인연으로 불규칙한 근무도 어려움 중 하나다. 주야간 4교대 근무에 더해 주말 마라톤 대회나 각종 집회가 열리면 추가로 현장에 투입된다. 퇴근이 늦어지거나 쉬는 날 가족과의 약속을 취소하는 일도 허다하다. 그럼에도 현 경위가 27년간 교통 현장을 지켜온 원동력은 시민들의 따뜻한 감사 인사다. 특히 10년 가까이 인연을 이어오고 있는 한 시민과의 만남은 지금도 잊지 못할 기억으로 남아 있다. 지난 2016년 양재역 사거리에서 순찰하던 현 경위는 도로 한복판에서 고장 난 외제차를 밀고 있는 백발의 노인을 발견했다. 곧바로 순찰차를 세우고 달려가 노인과 함께 차량을 20~30m가량 밀어 안전한 곳으로 옮겼다. 차량을 옮기는 동안 온몸이 땀으로 흠뻑 젖을 정도였지만 무사히 도움을 줄 수 있었다는 사실에 보람을 느꼈다고 한다. 그는 \"그분이 경찰관에게 이런 도움을 받아본 적이 없다며 무척 고마워하셨다\"며 \"전화번호를 알려드렸는데 지금까지도 명절마다 안부를 묻고 추울 때면 따뜻하게 입고 다니라고 말씀하신다. 마치 아버지처럼 챙겨주시는 모습이 가장 기억에 남는다\"고 말했다. 현 경위는 경찰을 꿈꾸는 수험생들에게 무엇보다 사명감이 중요하다고 강조했다. 그는 \"경찰관은 외롭고 힘들 때도 많고 칭찬을 많이 듣는 직업도 아니다\"라면서도 \"사명감이 있다면 충분히 도전해 볼 만한 직업\"이라고 말했다. 이어 \"수험생 모두에게 행운이 깃들어 노력한 만큼 좋은 결과를 얻었으면 좋겠다\"고 응원의 메시지를 전했다. [email protected] 이동혁 기자 ※  저작권자 © 파이낸셜뉴스, 무단전재-재배포 금지",
-        "source_part": "body",
-        "effective_at": null,
-        "derivation": "explicit",
-        "source_id": "55acc2698b4fa02764c211bc",
-        "source_revision": "e4db1223ba466bbc3a5481ca",
-        "reference_source": null
-       },
-       {
-        "field_path": "/strike_status",
-        "quote": "사회 사회일반 \"시험 시작 1분 전 극적 도착\"…수험생 꿈 지킨 27년 교통 베테랑 [넘버112] 이동혁 기자 파이낸셜뉴스 입력 2026.11.10 15:41 수정 2026.11.10 15:41 기사 듣기 구글 검색 선호 매체 추가 현양서 서울서초서 교통안전2팀 경위 인터뷰 시험장 잘못 찾은 여학생 순찰차로 긴급 이송 버스에 치여 한 달 입원…27년간 도로 지켜 10년 전 도운 시민과 명절마다 안부 주고받아 \"고된 업무지만 사명감으로 버티는 것이 경찰\" [파이낸셜뉴스] \"시험 시작까지 15분밖에 남지 않았는데 시험장을 잘못 찾아온 여학생이 있었다. 순찰차에 태워 사이렌을 울리며 달린 끝에 시험 시작 1분 전에 겨우 도착했다.\" 서울 서초경찰서 교통안전2팀 현양서 경위(57·사진)는 10일 파이낸셜뉴스와 만나 대학수학능력시험을 앞두고 가장 기억에 남는 순간으로 시험장을 잘못 찾아온 수험생을 도왔던 일을 꼽았다. 당시 한 여학생은 시험 시작을 불과 15분 앞두고 서울고등학교를 찾았지만 실제 시험장은 약 4㎞ 떨어진 은광여자고등학교였다. 현 경위는 학생을 순찰차에 태워 사이렌을 울리며 달린 끝에 시험 시작 1분 전 가까스로 시험장에 도착했다. 그는 \"15분 안에 도착하기 어려운 거리였지만 다행히 늦지 않게 학생을 데려다줄 수 있었다\"며 당시 상황을 떠올렸다. 수험생 위해 새벽부터 도로로 오는 19일 치러지는 수능에서도 현 경위는 수험생들의 안전한 이동을 위해 이른 새벽부터 도로에 나선다. 평소보다 이른 오전 5시30분께 출근해 사전 교육을 받은 뒤 주요 교차로와 시험장 주변에서 교통 혼잡을 관리할 예정이다. 그는 \"시험장 정문에는 수험생과 응원 인파가 몰리는 만큼 차량을 조금 떨어진 곳에 정차하도록 안내한다\"며 \"시험장을 잘못 찾거나 지각 위기에 놓인 수험생이 있으면 사이카(경찰 오토바이)나 순찰차로 이동을 돕는다\"고 설명했다. 현 경위가 경찰 제복을 처음 입은 것은 지난 1998년 6월이다. 군에서 5년간 부사관으로 복무한 뒤 직장생활을 하던 그는 제복에 대한 동경으로 경찰의 길을 선택했다. 입직 1년 만인 1999년 교통 부서로 자리를 옮긴 뒤 기동대와 파출소 근무 등을 제외하면 경찰 생활 대부분을 도로 위에서 보냈다. 정년퇴임을 3년 앞둔 그는 올해로 경찰 생활 29년 차이자 교통 업무 27년 차를 맞았다. 오랜 기간 도로를 지켜온 만큼 위험한 순간도 적지 않았다. 차량이 오가는 도로에서 교통 통제와 음주운전 단속 등을 수행하다 보면 사고 위험에 노출되는 일이 잦기 때문이다. 현 경위 역시 경사 시절 근무 중 버스에 치여 한 달가량 입원한 경험이 있다. 그는 \"겨울철 빙판길에서 차량을 추격하다 사고를 당한 동료들도 적지 않다\"고 전했다. 도로 위 작은 선행이 10년 인연으로 불규칙한 근무도 어려움 중 하나다. 주야간 4교대 근무에 더해 주말 마라톤 대회나 각종 집회가 열리면 추가로 현장에 투입된다. 퇴근이 늦어지거나 쉬는 날 가족과의 약속을 취소하는 일도 허다하다. 그럼에도 현 경위가 27년간 교통 현장을 지켜온 원동력은 시민들의 따뜻한 감사 인사다. 특히 10년 가까이 인연을 이어오고 있는 한 시민과의 만남은 지금도 잊지 못할 기억으로 남아 있다. 지난 2016년 양재역 사거리에서 순찰하던 현 경위는 도로 한복판에서 고장 난 외제차를 밀고 있는 백발의 노인을 발견했다. 곧바로 순찰차를 세우고 달려가 노인과 함께 차량을 20~30m가량 밀어 안전한 곳으로 옮겼다. 차량을 옮기는 동안 온몸이 땀으로 흠뻑 젖을 정도였지만 무사히 도움을 줄 수 있었다는 사실에 보람을 느꼈다고 한다. 그는 \"그분이 경찰관에게 이런 도움을 받아본 적이 없다며 무척 고마워하셨다\"며 \"전화번호를 알려드렸는데 지금까지도 명절마다 안부를 묻고 추울 때면 따뜻하게 입고 다니라고 말씀하신다. 마치 아버지처럼 챙겨주시는 모습이 가장 기억에 남는다\"고 말했다. 현 경위는 경찰을 꿈꾸는 수험생들에게 무엇보다 사명감이 중요하다고 강조했다. 그는 \"경찰관은 외롭고 힘들 때도 많고 칭찬을 많이 듣는 직업도 아니다\"라면서도 \"사명감이 있다면 충분히 도전해 볼 만한 직업\"이라고 말했다. 이어 \"수험생 모두에게 행운이 깃들어 노력한 만큼 좋은 결과를 얻었으면 좋겠다\"고 응원의 메시지를 전했다. [email protected] 이동혁 기자 ※  저작권자 © 파이낸셜뉴스, 무단전재-재배포 금지",
-        "source_part": "body",
-        "effective_at": null,
-        "derivation": "explicit",
-        "source_id": "55acc2698b4fa02764c211bc",
-        "source_revision": "e4db1223ba466bbc3a5481ca",
-        "reference_source": null
-       },
-       {
-        "field_path": "/service_status",
-        "quote": "사회 사회일반 \"시험 시작 1분 전 극적 도착\"…수험생 꿈 지킨 27년 교통 베테랑 [넘버112] 이동혁 기자 파이낸셜뉴스 입력 2026.11.10 15:41 수정 2026.11.10 15:41 기사 듣기 구글 검색 선호 매체 추가 현양서 서울서초서 교통안전2팀 경위 인터뷰 시험장 잘못 찾은 여학생 순찰차로 긴급 이송 버스에 치여 한 달 입원…27년간 도로 지켜 10년 전 도운 시민과 명절마다 안부 주고받아 \"고된 업무지만 사명감으로 버티는 것이 경찰\" [파이낸셜뉴스] \"시험 시작까지 15분밖에 남지 않았는데 시험장을 잘못 찾아온 여학생이 있었다. 순찰차에 태워 사이렌을 울리며 달린 끝에 시험 시작 1분 전에 겨우 도착했다.\" 서울 서초경찰서 교통안전2팀 현양서 경위(57·사진)는 10일 파이낸셜뉴스와 만나 대학수학능력시험을 앞두고 가장 기억에 남는 순간으로 시험장을 잘못 찾아온 수험생을 도왔던 일을 꼽았다. 당시 한 여학생은 시험 시작을 불과 15분 앞두고 서울고등학교를 찾았지만 실제 시험장은 약 4㎞ 떨어진 은광여자고등학교였다. 현 경위는 학생을 순찰차에 태워 사이렌을 울리며 달린 끝에 시험 시작 1분 전 가까스로 시험장에 도착했다. 그는 \"15분 안에 도착하기 어려운 거리였지만 다행히 늦지 않게 학생을 데려다줄 수 있었다\"며 당시 상황을 떠올렸다. 수험생 위해 새벽부터 도로로 오는 19일 치러지는 수능에서도 현 경위는 수험생들의 안전한 이동을 위해 이른 새벽부터 도로에 나선다. 평소보다 이른 오전 5시30분께 출근해 사전 교육을 받은 뒤 주요 교차로와 시험장 주변에서 교통 혼잡을 관리할 예정이다. 그는 \"시험장 정문에는 수험생과 응원 인파가 몰리는 만큼 차량을 조금 떨어진 곳에 정차하도록 안내한다\"며 \"시험장을 잘못 찾거나 지각 위기에 놓인 수험생이 있으면 사이카(경찰 오토바이)나 순찰차로 이동을 돕는다\"고 설명했다. 현 경위가 경찰 제복을 처음 입은 것은 지난 1998년 6월이다. 군에서 5년간 부사관으로 복무한 뒤 직장생활을 하던 그는 제복에 대한 동경으로 경찰의 길을 선택했다. 입직 1년 만인 1999년 교통 부서로 자리를 옮긴 뒤 기동대와 파출소 근무 등을 제외하면 경찰 생활 대부분을 도로 위에서 보냈다. 정년퇴임을 3년 앞둔 그는 올해로 경찰 생활 29년 차이자 교통 업무 27년 차를 맞았다. 오랜 기간 도로를 지켜온 만큼 위험한 순간도 적지 않았다. 차량이 오가는 도로에서 교통 통제와 음주운전 단속 등을 수행하다 보면 사고 위험에 노출되는 일이 잦기 때문이다. 현 경위 역시 경사 시절 근무 중 버스에 치여 한 달가량 입원한 경험이 있다. 그는 \"겨울철 빙판길에서 차량을 추격하다 사고를 당한 동료들도 적지 않다\"고 전했다. 도로 위 작은 선행이 10년 인연으로 불규칙한 근무도 어려움 중 하나다. 주야간 4교대 근무에 더해 주말 마라톤 대회나 각종 집회가 열리면 추가로 현장에 투입된다. 퇴근이 늦어지거나 쉬는 날 가족과의 약속을 취소하는 일도 허다하다. 그럼에도 현 경위가 27년간 교통 현장을 지켜온 원동력은 시민들의 따뜻한 감사 인사다. 특히 10년 가까이 인연을 이어오고 있는 한 시민과의 만남은 지금도 잊지 못할 기억으로 남아 있다. 지난 2016년 양재역 사거리에서 순찰하던 현 경위는 도로 한복판에서 고장 난 외제차를 밀고 있는 백발의 노인을 발견했다. 곧바로 순찰차를 세우고 달려가 노인과 함께 차량을 20~30m가량 밀어 안전한 곳으로 옮겼다. 차량을 옮기는 동안 온몸이 땀으로 흠뻑 젖을 정도였지만 무사히 도움을 줄 수 있었다는 사실에 보람을 느꼈다고 한다. 그는 \"그분이 경찰관에게 이런 도움을 받아본 적이 없다며 무척 고마워하셨다\"며 \"전화번호를 알려드렸는데 지금까지도 명절마다 안부를 묻고 추울 때면 따뜻하게 입고 다니라고 말씀하신다. 마치 아버지처럼 챙겨주시는 모습이 가장 기억에 남는다\"고 말했다. 현 경위는 경찰을 꿈꾸는 수험생들에게 무엇보다 사명감이 중요하다고 강조했다. 그는 \"경찰관은 외롭고 힘들 때도 많고 칭찬을 많이 듣는 직업도 아니다\"라면서도 \"사명감이 있다면 충분히 도전해 볼 만한 직업\"이라고 말했다. 이어 \"수험생 모두에게 행운이 깃들어 노력한 만큼 좋은 결과를 얻었으면 좋겠다\"고 응원의 메시지를 전했다. [email protected] 이동혁 기자 ※  저작권자 © 파이낸셜뉴스, 무단전재-재배포 금지",
-        "source_part": "body",
-        "effective_at": null,
-        "derivation": "explicit",
-        "source_id": "55acc2698b4fa02764c211bc",
-        "source_revision": "e4db1223ba466bbc3a5481ca",
-        "reference_source": null
-       },
-       {
-        "field_path": "/normal_service_exceptions",
-        "quote": "사회 사회일반 \"시험 시작 1분 전 극적 도착\"…수험생 꿈 지킨 27년 교통 베테랑 [넘버112] 이동혁 기자 파이낸셜뉴스 입력 2026.11.10 15:41 수정 2026.11.10 15:41 기사 듣기 구글 검색 선호 매체 추가 현양서 서울서초서 교통안전2팀 경위 인터뷰 시험장 잘못 찾은 여학생 순찰차로 긴급 이송 버스에 치여 한 달 입원…27년간 도로 지켜 10년 전 도운 시민과 명절마다 안부 주고받아 \"고된 업무지만 사명감으로 버티는 것이 경찰\" [파이낸셜뉴스] \"시험 시작까지 15분밖에 남지 않았는데 시험장을 잘못 찾아온 여학생이 있었다. 순찰차에 태워 사이렌을 울리며 달린 끝에 시험 시작 1분 전에 겨우 도착했다.\" 서울 서초경찰서 교통안전2팀 현양서 경위(57·사진)는 10일 파이낸셜뉴스와 만나 대학수학능력시험을 앞두고 가장 기억에 남는 순간으로 시험장을 잘못 찾아온 수험생을 도왔던 일을 꼽았다. 당시 한 여학생은 시험 시작을 불과 15분 앞두고 서울고등학교를 찾았지만 실제 시험장은 약 4㎞ 떨어진 은광여자고등학교였다. 현 경위는 학생을 순찰차에 태워 사이렌을 울리며 달린 끝에 시험 시작 1분 전 가까스로 시험장에 도착했다. 그는 \"15분 안에 도착하기 어려운 거리였지만 다행히 늦지 않게 학생을 데려다줄 수 있었다\"며 당시 상황을 떠올렸다. 수험생 위해 새벽부터 도로로 오는 19일 치러지는 수능에서도 현 경위는 수험생들의 안전한 이동을 위해 이른 새벽부터 도로에 나선다. 평소보다 이른 오전 5시30분께 출근해 사전 교육을 받은 뒤 주요 교차로와 시험장 주변에서 교통 혼잡을 관리할 예정이다. 그는 \"시험장 정문에는 수험생과 응원 인파가 몰리는 만큼 차량을 조금 떨어진 곳에 정차하도록 안내한다\"며 \"시험장을 잘못 찾거나 지각 위기에 놓인 수험생이 있으면 사이카(경찰 오토바이)나 순찰차로 이동을 돕는다\"고 설명했다. 현 경위가 경찰 제복을 처음 입은 것은 지난 1998년 6월이다. 군에서 5년간 부사관으로 복무한 뒤 직장생활을 하던 그는 제복에 대한 동경으로 경찰의 길을 선택했다. 입직 1년 만인 1999년 교통 부서로 자리를 옮긴 뒤 기동대와 파출소 근무 등을 제외하면 경찰 생활 대부분을 도로 위에서 보냈다. 정년퇴임을 3년 앞둔 그는 올해로 경찰 생활 29년 차이자 교통 업무 27년 차를 맞았다. 오랜 기간 도로를 지켜온 만큼 위험한 순간도 적지 않았다. 차량이 오가는 도로에서 교통 통제와 음주운전 단속 등을 수행하다 보면 사고 위험에 노출되는 일이 잦기 때문이다. 현 경위 역시 경사 시절 근무 중 버스에 치여 한 달가량 입원한 경험이 있다. 그는 \"겨울철 빙판길에서 차량을 추격하다 사고를 당한 동료들도 적지 않다\"고 전했다. 도로 위 작은 선행이 10년 인연으로 불규칙한 근무도 어려움 중 하나다. 주야간 4교대 근무에 더해 주말 마라톤 대회나 각종 집회가 열리면 추가로 현장에 투입된다. 퇴근이 늦어지거나 쉬는 날 가족과의 약속을 취소하는 일도 허다하다. 그럼에도 현 경위가 27년간 교통 현장을 지켜온 원동력은 시민들의 따뜻한 감사 인사다. 특히 10년 가까이 인연을 이어오고 있는 한 시민과의 만남은 지금도 잊지 못할 기억으로 남아 있다. 지난 2016년 양재역 사거리에서 순찰하던 현 경위는 도로 한복판에서 고장 난 외제차를 밀고 있는 백발의 노인을 발견했다. 곧바로 순찰차를 세우고 달려가 노인과 함께 차량을 20~30m가량 밀어 안전한 곳으로 옮겼다. 차량을 옮기는 동안 온몸이 땀으로 흠뻑 젖을 정도였지만 무사히 도움을 줄 수 있었다는 사실에 보람을 느꼈다고 한다. 그는 \"그분이 경찰관에게 이런 도움을 받아본 적이 없다며 무척 고마워하셨다\"며 \"전화번호를 알려드렸는데 지금까지도 명절마다 안부를 묻고 추울 때면 따뜻하게 입고 다니라고 말씀하신다. 마치 아버지처럼 챙겨주시는 모습이 가장 기억에 남는다\"고 말했다. 현 경위는 경찰을 꿈꾸는 수험생들에게 무엇보다 사명감이 중요하다고 강조했다. 그는 \"경찰관은 외롭고 힘들 때도 많고 칭찬을 많이 듣는 직업도 아니다\"라면서도 \"사명감이 있다면 충분히 도전해 볼 만한 직업\"이라고 말했다. 이어 \"수험생 모두에게 행운이 깃들어 노력한 만큼 좋은 결과를 얻었으면 좋겠다\"고 응원의 메시지를 전했다. [email protected] 이동혁 기자 ※  저작권자 © 파이낸셜뉴스, 무단전재-재배포 금지",
-        "source_part": "body",
-        "effective_at": null,
-        "derivation": "explicit",
-        "source_id": "55acc2698b4fa02764c211bc",
-        "source_revision": "e4db1223ba466bbc3a5481ca",
-        "reference_source": null
-       },
-       {
-        "field_path": "/alternative_services",
-        "quote": "사회 사회일반 \"시험 시작 1분 전 극적 도착\"…수험생 꿈 지킨 27년 교통 베테랑 [넘버112] 이동혁 기자 파이낸셜뉴스 입력 2026.11.10 15:41 수정 2026.11.10 15:41 기사 듣기 구글 검색 선호 매체 추가 현양서 서울서초서 교통안전2팀 경위 인터뷰 시험장 잘못 찾은 여학생 순찰차로 긴급 이송 버스에 치여 한 달 입원…27년간 도로 지켜 10년 전 도운 시민과 명절마다 안부 주고받아 \"고된 업무지만 사명감으로 버티는 것이 경찰\" [파이낸셜뉴스] \"시험 시작까지 15분밖에 남지 않았는데 시험장을 잘못 찾아온 여학생이 있었다. 순찰차에 태워 사이렌을 울리며 달린 끝에 시험 시작 1분 전에 겨우 도착했다.\" 서울 서초경찰서 교통안전2팀 현양서 경위(57·사진)는 10일 파이낸셜뉴스와 만나 대학수학능력시험을 앞두고 가장 기억에 남는 순간으로 시험장을 잘못 찾아온 수험생을 도왔던 일을 꼽았다. 당시 한 여학생은 시험 시작을 불과 15분 앞두고 서울고등학교를 찾았지만 실제 시험장은 약 4㎞ 떨어진 은광여자고등학교였다. 현 경위는 학생을 순찰차에 태워 사이렌을 울리며 달린 끝에 시험 시작 1분 전 가까스로 시험장에 도착했다. 그는 \"15분 안에 도착하기 어려운 거리였지만 다행히 늦지 않게 학생을 데려다줄 수 있었다\"며 당시 상황을 떠올렸다. 수험생 위해 새벽부터 도로로 오는 19일 치러지는 수능에서도 현 경위는 수험생들의 안전한 이동을 위해 이른 새벽부터 도로에 나선다. 평소보다 이른 오전 5시30분께 출근해 사전 교육을 받은 뒤 주요 교차로와 시험장 주변에서 교통 혼잡을 관리할 예정이다. 그는 \"시험장 정문에는 수험생과 응원 인파가 몰리는 만큼 차량을 조금 떨어진 곳에 정차하도록 안내한다\"며 \"시험장을 잘못 찾거나 지각 위기에 놓인 수험생이 있으면 사이카(경찰 오토바이)나 순찰차로 이동을 돕는다\"고 설명했다. 현 경위가 경찰 제복을 처음 입은 것은 지난 1998년 6월이다. 군에서 5년간 부사관으로 복무한 뒤 직장생활을 하던 그는 제복에 대한 동경으로 경찰의 길을 선택했다. 입직 1년 만인 1999년 교통 부서로 자리를 옮긴 뒤 기동대와 파출소 근무 등을 제외하면 경찰 생활 대부분을 도로 위에서 보냈다. 정년퇴임을 3년 앞둔 그는 올해로 경찰 생활 29년 차이자 교통 업무 27년 차를 맞았다. 오랜 기간 도로를 지켜온 만큼 위험한 순간도 적지 않았다. 차량이 오가는 도로에서 교통 통제와 음주운전 단속 등을 수행하다 보면 사고 위험에 노출되는 일이 잦기 때문이다. 현 경위 역시 경사 시절 근무 중 버스에 치여 한 달가량 입원한 경험이 있다. 그는 \"겨울철 빙판길에서 차량을 추격하다 사고를 당한 동료들도 적지 않다\"고 전했다. 도로 위 작은 선행이 10년 인연으로 불규칙한 근무도 어려움 중 하나다. 주야간 4교대 근무에 더해 주말 마라톤 대회나 각종 집회가 열리면 추가로 현장에 투입된다. 퇴근이 늦어지거나 쉬는 날 가족과의 약속을 취소하는 일도 허다하다. 그럼에도 현 경위가 27년간 교통 현장을 지켜온 원동력은 시민들의 따뜻한 감사 인사다. 특히 10년 가까이 인연을 이어오고 있는 한 시민과의 만남은 지금도 잊지 못할 기억으로 남아 있다. 지난 2016년 양재역 사거리에서 순찰하던 현 경위는 도로 한복판에서 고장 난 외제차를 밀고 있는 백발의 노인을 발견했다. 곧바로 순찰차를 세우고 달려가 노인과 함께 차량을 20~30m가량 밀어 안전한 곳으로 옮겼다. 차량을 옮기는 동안 온몸이 땀으로 흠뻑 젖을 정도였지만 무사히 도움을 줄 수 있었다는 사실에 보람을 느꼈다고 한다. 그는 \"그분이 경찰관에게 이런 도움을 받아본 적이 없다며 무척 고마워하셨다\"며 \"전화번호를 알려드렸는데 지금까지도 명절마다 안부를 묻고 추울 때면 따뜻하게 입고 다니라고 말씀하신다. 마치 아버지처럼 챙겨주시는 모습이 가장 기억에 남는다\"고 말했다. 현 경위는 경찰을 꿈꾸는 수험생들에게 무엇보다 사명감이 중요하다고 강조했다. 그는 \"경찰관은 외롭고 힘들 때도 많고 칭찬을 많이 듣는 직업도 아니다\"라면서도 \"사명감이 있다면 충분히 도전해 볼 만한 직업\"이라고 말했다. 이어 \"수험생 모두에게 행운이 깃들어 노력한 만큼 좋은 결과를 얻었으면 좋겠다\"고 응원의 메시지를 전했다. [email protected] 이동혁 기자 ※  저작권자 © 파이낸셜뉴스, 무단전재-재배포 금지",
-        "source_part": "body",
-        "effective_at": null,
-        "derivation": "explicit",
-        "source_id": "55acc2698b4fa02764c211bc",
-        "source_revision": "e4db1223ba466bbc3a5481ca",
-        "reference_source": null
-       },
-       {
-        "field_path": "/start",
-        "quote": "사회 사회일반 \"시험 시작 1분 전 극적 도착\"…수험생 꿈 지킨 27년 교통 베테랑 [넘버112] 이동혁 기자 파이낸셜뉴스 입력 2026.11.10 15:41 수정 2026.11.10 15:41 기사 듣기 구글 검색 선호 매체 추가 현양서 서울서초서 교통안전2팀 경위 인터뷰 시험장 잘못 찾은 여학생 순찰차로 긴급 이송 버스에 치여 한 달 입원…27년간 도로 지켜 10년 전 도운 시민과 명절마다 안부 주고받아 \"고된 업무지만 사명감으로 버티는 것이 경찰\" [파이낸셜뉴스] \"시험 시작까지 15분밖에 남지 않았는데 시험장을 잘못 찾아온 여학생이 있었다. 순찰차에 태워 사이렌을 울리며 달린 끝에 시험 시작 1분 전에 겨우 도착했다.\" 서울 서초경찰서 교통안전2팀 현양서 경위(57·사진)는 10일 파이낸셜뉴스와 만나 대학수학능력시험을 앞두고 가장 기억에 남는 순간으로 시험장을 잘못 찾아온 수험생을 도왔던 일을 꼽았다. 당시 한 여학생은 시험 시작을 불과 15분 앞두고 서울고등학교를 찾았지만 실제 시험장은 약 4㎞ 떨어진 은광여자고등학교였다. 현 경위는 학생을 순찰차에 태워 사이렌을 울리며 달린 끝에 시험 시작 1분 전 가까스로 시험장에 도착했다. 그는 \"15분 안에 도착하기 어려운 거리였지만 다행히 늦지 않게 학생을 데려다줄 수 있었다\"며 당시 상황을 떠올렸다. 수험생 위해 새벽부터 도로로 오는 19일 치러지는 수능에서도 현 경위는 수험생들의 안전한 이동을 위해 이른 새벽부터 도로에 나선다. 평소보다 이른 오전 5시30분께 출근해 사전 교육을 받은 뒤 주요 교차로와 시험장 주변에서 교통 혼잡을 관리할 예정이다. 그는 \"시험장 정문에는 수험생과 응원 인파가 몰리는 만큼 차량을 조금 떨어진 곳에 정차하도록 안내한다\"며 \"시험장을 잘못 찾거나 지각 위기에 놓인 수험생이 있으면 사이카(경찰 오토바이)나 순찰차로 이동을 돕는다\"고 설명했다. 현 경위가 경찰 제복을 처음 입은 것은 지난 1998년 6월이다. 군에서 5년간 부사관으로 복무한 뒤 직장생활을 하던 그는 제복에 대한 동경으로 경찰의 길을 선택했다. 입직 1년 만인 1999년 교통 부서로 자리를 옮긴 뒤 기동대와 파출소 근무 등을 제외하면 경찰 생활 대부분을 도로 위에서 보냈다. 정년퇴임을 3년 앞둔 그는 올해로 경찰 생활 29년 차이자 교통 업무 27년 차를 맞았다. 오랜 기간 도로를 지켜온 만큼 위험한 순간도 적지 않았다. 차량이 오가는 도로에서 교통 통제와 음주운전 단속 등을 수행하다 보면 사고 위험에 노출되는 일이 잦기 때문이다. 현 경위 역시 경사 시절 근무 중 버스에 치여 한 달가량 입원한 경험이 있다. 그는 \"겨울철 빙판길에서 차량을 추격하다 사고를 당한 동료들도 적지 않다\"고 전했다. 도로 위 작은 선행이 10년 인연으로 불규칙한 근무도 어려움 중 하나다. 주야간 4교대 근무에 더해 주말 마라톤 대회나 각종 집회가 열리면 추가로 현장에 투입된다. 퇴근이 늦어지거나 쉬는 날 가족과의 약속을 취소하는 일도 허다하다. 그럼에도 현 경위가 27년간 교통 현장을 지켜온 원동력은 시민들의 따뜻한 감사 인사다. 특히 10년 가까이 인연을 이어오고 있는 한 시민과의 만남은 지금도 잊지 못할 기억으로 남아 있다. 지난 2016년 양재역 사거리에서 순찰하던 현 경위는 도로 한복판에서 고장 난 외제차를 밀고 있는 백발의 노인을 발견했다. 곧바로 순찰차를 세우고 달려가 노인과 함께 차량을 20~30m가량 밀어 안전한 곳으로 옮겼다. 차량을 옮기는 동안 온몸이 땀으로 흠뻑 젖을 정도였지만 무사히 도움을 줄 수 있었다는 사실에 보람을 느꼈다고 한다. 그는 \"그분이 경찰관에게 이런 도움을 받아본 적이 없다며 무척 고마워하셨다\"며 \"전화번호를 알려드렸는데 지금까지도 명절마다 안부를 묻고 추울 때면 따뜻하게 입고 다니라고 말씀하신다. 마치 아버지처럼 챙겨주시는 모습이 가장 기억에 남는다\"고 말했다. 현 경위는 경찰을 꿈꾸는 수험생들에게 무엇보다 사명감이 중요하다고 강조했다. 그는 \"경찰관은 외롭고 힘들 때도 많고 칭찬을 많이 듣는 직업도 아니다\"라면서도 \"사명감이 있다면 충분히 도전해 볼 만한 직업\"이라고 말했다. 이어 \"수험생 모두에게 행운이 깃들어 노력한 만큼 좋은 결과를 얻었으면 좋겠다\"고 응원의 메시지를 전했다. [email protected] 이동혁 기자 ※  저작권자 © 파이낸셜뉴스, 무단전재-재배포 금지",
-        "source_part": "body",
-        "effective_at": null,
-        "derivation": "explicit",
-        "source_id": "55acc2698b4fa02764c211bc",
-        "source_revision": "e4db1223ba466bbc3a5481ca",
-        "reference_source": null
-       },
-       {
-        "field_path": "/end",
-        "quote": "사회 사회일반 \"시험 시작 1분 전 극적 도착\"…수험생 꿈 지킨 27년 교통 베테랑 [넘버112] 이동혁 기자 파이낸셜뉴스 입력 2026.11.10 15:41 수정 2026.11.10 15:41 기사 듣기 구글 검색 선호 매체 추가 현양서 서울서초서 교통안전2팀 경위 인터뷰 시험장 잘못 찾은 여학생 순찰차로 긴급 이송 버스에 치여 한 달 입원…27년간 도로 지켜 10년 전 도운 시민과 명절마다 안부 주고받아 \"고된 업무지만 사명감으로 버티는 것이 경찰\" [파이낸셜뉴스] \"시험 시작까지 15분밖에 남지 않았는데 시험장을 잘못 찾아온 여학생이 있었다. 순찰차에 태워 사이렌을 울리며 달린 끝에 시험 시작 1분 전에 겨우 도착했다.\" 서울 서초경찰서 교통안전2팀 현양서 경위(57·사진)는 10일 파이낸셜뉴스와 만나 대학수학능력시험을 앞두고 가장 기억에 남는 순간으로 시험장을 잘못 찾아온 수험생을 도왔던 일을 꼽았다. 당시 한 여학생은 시험 시작을 불과 15분 앞두고 서울고등학교를 찾았지만 실제 시험장은 약 4㎞ 떨어진 은광여자고등학교였다. 현 경위는 학생을 순찰차에 태워 사이렌을 울리며 달린 끝에 시험 시작 1분 전 가까스로 시험장에 도착했다. 그는 \"15분 안에 도착하기 어려운 거리였지만 다행히 늦지 않게 학생을 데려다줄 수 있었다\"며 당시 상황을 떠올렸다. 수험생 위해 새벽부터 도로로 오는 19일 치러지는 수능에서도 현 경위는 수험생들의 안전한 이동을 위해 이른 새벽부터 도로에 나선다. 평소보다 이른 오전 5시30분께 출근해 사전 교육을 받은 뒤 주요 교차로와 시험장 주변에서 교통 혼잡을 관리할 예정이다. 그는 \"시험장 정문에는 수험생과 응원 인파가 몰리는 만큼 차량을 조금 떨어진 곳에 정차하도록 안내한다\"며 \"시험장을 잘못 찾거나 지각 위기에 놓인 수험생이 있으면 사이카(경찰 오토바이)나 순찰차로 이동을 돕는다\"고 설명했다. 현 경위가 경찰 제복을 처음 입은 것은 지난 1998년 6월이다. 군에서 5년간 부사관으로 복무한 뒤 직장생활을 하던 그는 제복에 대한 동경으로 경찰의 길을 선택했다. 입직 1년 만인 1999년 교통 부서로 자리를 옮긴 뒤 기동대와 파출소 근무 등을 제외하면 경찰 생활 대부분을 도로 위에서 보냈다. 정년퇴임을 3년 앞둔 그는 올해로 경찰 생활 29년 차이자 교통 업무 27년 차를 맞았다. 오랜 기간 도로를 지켜온 만큼 위험한 순간도 적지 않았다. 차량이 오가는 도로에서 교통 통제와 음주운전 단속 등을 수행하다 보면 사고 위험에 노출되는 일이 잦기 때문이다. 현 경위 역시 경사 시절 근무 중 버스에 치여 한 달가량 입원한 경험이 있다. 그는 \"겨울철 빙판길에서 차량을 추격하다 사고를 당한 동료들도 적지 않다\"고 전했다. 도로 위 작은 선행이 10년 인연으로 불규칙한 근무도 어려움 중 하나다. 주야간 4교대 근무에 더해 주말 마라톤 대회나 각종 집회가 열리면 추가로 현장에 투입된다. 퇴근이 늦어지거나 쉬는 날 가족과의 약속을 취소하는 일도 허다하다. 그럼에도 현 경위가 27년간 교통 현장을 지켜온 원동력은 시민들의 따뜻한 감사 인사다. 특히 10년 가까이 인연을 이어오고 있는 한 시민과의 만남은 지금도 잊지 못할 기억으로 남아 있다. 지난 2016년 양재역 사거리에서 순찰하던 현 경위는 도로 한복판에서 고장 난 외제차를 밀고 있는 백발의 노인을 발견했다. 곧바로 순찰차를 세우고 달려가 노인과 함께 차량을 20~30m가량 밀어 안전한 곳으로 옮겼다. 차량을 옮기는 동안 온몸이 땀으로 흠뻑 젖을 정도였지만 무사히 도움을 줄 수 있었다는 사실에 보람을 느꼈다고 한다. 그는 \"그분이 경찰관에게 이런 도움을 받아본 적이 없다며 무척 고마워하셨다\"며 \"전화번호를 알려드렸는데 지금까지도 명절마다 안부를 묻고 추울 때면 따뜻하게 입고 다니라고 말씀하신다. 마치 아버지처럼 챙겨주시는 모습이 가장 기억에 남는다\"고 말했다. 현 경위는 경찰을 꿈꾸는 수험생들에게 무엇보다 사명감이 중요하다고 강조했다. 그는 \"경찰관은 외롭고 힘들 때도 많고 칭찬을 많이 듣는 직업도 아니다\"라면서도 \"사명감이 있다면 충분히 도전해 볼 만한 직업\"이라고 말했다. 이어 \"수험생 모두에게 행운이 깃들어 노력한 만큼 좋은 결과를 얻었으면 좋겠다\"고 응원의 메시지를 전했다. [email protected] 이동혁 기자 ※  저작권자 © 파이낸셜뉴스, 무단전재-재배포 금지",
-        "source_part": "body",
-        "effective_at": null,
-        "derivation": "explicit",
-        "source_id": "55acc2698b4fa02764c211bc",
-        "source_revision": "e4db1223ba466bbc3a5481ca",
-        "reference_source": null
-       }
-      ],
-      "review_reasons": []
-     }
-    }
-   ],
-   "events": {
-    "schema_version": "1.0",
-    "article_relevance": "unrelated",
-    "processing_status": "success",
-    "source": {
-     "source_id": "55acc2698b4fa02764c211bc",
-     "source_url": "https://www.fnnews.com/news/202611101525402414",
-     "source_revision": "e4db1223ba466bbc3a5481ca",
-     "published_at": "2026-11-10T15:41:44+09:00",
-     "updated_at": "2026-11-10T15:41:44+09:00",
-     "collected_at": "2026-11-17T15:01:29.399615+09:00"
+     "collected_at": "2026-11-18T00:44:04.029127+09:00"
     },
     "events": [],
     "review_reasons": []
@@ -9244,7 +10486,7 @@
       "source_url": "https://www.newspim.com/news/view/20261109000918",
       "published_at": "2026-11-09T14:52:00+09:00",
       "updated_at": "2026-11-09T14:52:00+09:00",
-      "collected_at": "2026-11-17T15:01:45.094843+09:00",
+      "collected_at": "2026-11-18T00:44:05.418457+09:00",
       "field_evidence": [
        {
         "field_path": "/article_relevance",
@@ -9361,7 +10603,7 @@
      "source_revision": "69a4a1c9ccf732211d987651",
      "published_at": "2026-11-09T14:52:00+09:00",
      "updated_at": "2026-11-09T14:52:00+09:00",
-     "collected_at": "2026-11-17T15:01:45.094843+09:00"
+     "collected_at": "2026-11-18T00:44:05.418457+09:00"
     },
     "events": [
      {
@@ -9460,7 +10702,7 @@
       "source_url": "https://www.newspim.com/news/view/20261113001135",
       "published_at": "2026-11-14T07:00:00+09:00",
       "updated_at": "2026-11-14T09:07:00+09:00",
-      "collected_at": "2026-11-17T15:01:47.512894+09:00",
+      "collected_at": "2026-11-18T00:44:07.115469+09:00",
       "field_evidence": [
        {
         "field_path": "/article_relevance",
@@ -9577,7 +10819,7 @@
      "source_revision": "3452d940cd7d9991eaaed8e6",
      "published_at": "2026-11-14T07:00:00+09:00",
      "updated_at": "2026-11-14T09:07:00+09:00",
-     "collected_at": "2026-11-17T15:01:47.512894+09:00"
+     "collected_at": "2026-11-18T00:44:07.115469+09:00"
     },
     "events": [
      {
@@ -10020,14 +11262,6 @@
   {
    "source_url": "http://www.metroseoul.co.kr/article/20261112500088",
    "status": "url_blocked"
-  },
-  {
-   "source_url": "https://www.seoul.co.kr/news/publicnews/local_govern/smc_movement/2026/11/17/20261117500039?wlog_tag3=naver",
-   "status": "domain_blocked"
-  },
-  {
-   "source_url": "https://www.nocutnews.co.kr/news/6606915?utm_source=naver&utm_medium=article&utm_campaign=20261114160234",
-   "status": "policy_unavailable"
   }
  ]
 }
