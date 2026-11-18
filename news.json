@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-18T20:00:35.350482+09:00",
+ "generatedAt": "2026-11-19T04:52:25.673242+09:00",
  "windowDays": 14,
  "queries": [
   "버스 파업",
@@ -17,7 +17,7 @@
    "url": "https://www.ncloud.com/product/applicationService/naverApiHub"
   }
  ],
- "articles": 252,
+ "articles": 251,
  "searchResults": [
   {
    "url": "https://www.incheonilbo.com/news/articleView.html?idxno=1337165",
@@ -45,13 +45,13 @@
    "query": "버스 파업"
   },
   {
-   "url": "https://www.kihoilbo.co.kr/news/articleView.html?idxno=3041272",
-   "title": "[길 잃은 시내버스 공공관리제] 5-1. 막대한 재정 부담 떠안으면서 임금...",
+   "url": "https://www.kihoilbo.co.kr/news/articleView.html?idxno=3041276",
+   "title": "[길 잃은 시내버스 공공관리제] 5. 공공관리제로 예방 못 한 파업… 대비...",
    "query": "버스 파업"
   },
   {
-   "url": "https://www.kihoilbo.co.kr/news/articleView.html?idxno=3041276",
-   "title": "[길 잃은 시내버스 공공관리제] 5. 공공관리제로 예방 못 한 파업… 대비...",
+   "url": "https://www.kihoilbo.co.kr/news/articleView.html?idxno=3041272",
+   "title": "[길 잃은 시내버스 공공관리제] 5-1. 막대한 재정 부담 떠안으면서 임금...",
    "query": "버스 파업"
   },
   {
@@ -270,6 +270,11 @@
    "query": "버스 파업"
   },
   {
+   "url": "http://www.yonhapnewstv.co.kr/news/MYH20261118211522A0l",
+   "title": "철도·지하철 노조, 20일부터 준법투쟁 예고",
+   "query": "지하철 파업"
+  },
+  {
    "url": "https://biz.heraldcorp.com/article/10941777?ref=naver",
    "title": "수능 다음날 지하철 지연운행 ‘주의’…노조, 20일부터 ‘안전운행 투...",
    "query": "지하철 파업"
@@ -330,13 +335,13 @@
    "query": "지하철 파업"
   },
   {
-   "url": "https://www.labortoday.co.kr/news/articleView.html?idxno=237792",
-   "title": "파업 예고한 코레일테크 노동자가 청와대 찾은 까닭은",
+   "url": "https://www.labortoday.co.kr/news/articleView.html?idxno=237796",
+   "title": "결의대회 연 서울교통공사노조, 파업 전운 고조",
    "query": "지하철 파업"
   },
   {
-   "url": "https://www.labortoday.co.kr/news/articleView.html?idxno=237796",
-   "title": "결의대회 연 서울교통공사노조, 파업 전운 고조",
+   "url": "https://www.labortoday.co.kr/news/articleView.html?idxno=237792",
+   "title": "파업 예고한 코레일테크 노동자가 청와대 찾은 까닭은",
    "query": "지하철 파업"
   },
   {
@@ -460,11 +465,6 @@
    "query": "지하철 파업"
   },
   {
-   "url": "https://www.newsis.com/view/NISX20261114_0003868135",
-   "title": "철도노조 총력결의대회…\"안전인력 충원, 승진독식 철폐하라\"",
-   "query": "지하철 파업"
-  },
-  {
    "url": "https://www.kihoilbo.co.kr/news/articleView.html?idxno=3041320",
    "title": "우리나라 첫 대형 공장 설립… '성냥 제조업' 중심 도시로",
    "query": "철도 파업"
@@ -570,13 +570,13 @@
    "query": "철도 파업"
   },
   {
-   "url": "https://www.chosun.com/national/transport-environment/2026/11/14/E27NBBBCJ5EGVNHKDGPESCQ3DQ/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
-   "title": "철도노조 “안전인력 충원·승진제도 개선하라”...12월 10일 총파업 예...",
-   "query": "철도 파업"
-  },
-  {
    "url": "https://www.etoday.co.kr/news/view/2649239",
    "title": "\"안전 인력 충원하라\"⋯서울교통공사노조, 20일 준법투쟁·25일 총파업 ...",
+   "query": "파업 예고 운행"
+  },
+  {
+   "url": "https://www.chosun.com/national/transport-environment/2026/11/14/E27NBBBCJ5EGVNHKDGPESCQ3DQ/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
+   "title": "철도노조 “안전인력 충원·승진제도 개선하라”...12월 10일 총파업 예...",
    "query": "파업 예고 운행"
   },
   {
@@ -600,13 +600,13 @@
    "query": "파업 예고 운행"
   },
   {
-   "url": "https://www.ajunews.com/view/20261114154431208",
-   "title": "철도노조, 내달 10일 총파업 재차예고…고속철 통합 후 첫 교통대란 우...",
+   "url": "http://www.segyebiz.com/newsView/20261114505486?OutUrl=naver",
+   "title": "철도노조, 서울역서 빗속 집회... 다음 달 총파업 재차 예고",
    "query": "파업 예고 운행"
   },
   {
-   "url": "http://www.segyebiz.com/newsView/20261114505486?OutUrl=naver",
-   "title": "철도노조, 서울역서 빗속 집회... 다음 달 총파업 재차 예고",
+   "url": "https://www.ajunews.com/view/20261114154431208",
+   "title": "철도노조, 내달 10일 총파업 재차예고…고속철 통합 후 첫 교통대란 우...",
    "query": "파업 예고 운행"
   },
   {
@@ -632,11 +632,6 @@
   {
    "url": "https://www.kyeonggi.com/article/20261113580244",
    "title": "공항철도 노사, 파업 직전 임금교섭 잠정합의…열차 정상 운행",
-   "query": "파업 예고 운행"
-  },
-  {
-   "url": "https://www.munhwa.com/article/11631163?ref=naver",
-   "title": "[단독]몸집만 커진 통합코레일… 고속주행 중 고장 ‘아찔’",
    "query": "파업 예고 운행"
   },
   {
@@ -770,13 +765,13 @@
    "query": "집회 교통 통제"
   },
   {
-   "url": "https://biz.heraldcorp.com/article/10929436?ref=naver",
-   "title": "“응급환자 이송 막힐라”…주말 도심 마라톤에 병원·결혼식장 비상",
+   "url": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202611080006&t=NN",
+   "title": "\"길 막히고 버스는 돌아가고\"…잇단 마라톤에 시민들 '부글'",
    "query": "집회 교통 통제"
   },
   {
-   "url": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202611080006&t=NN",
-   "title": "\"길 막히고 버스는 돌아가고\"…잇단 마라톤에 시민들 '부글'",
+   "url": "https://biz.heraldcorp.com/article/10929436?ref=naver",
+   "title": "“응급환자 이송 막힐라”…주말 도심 마라톤에 병원·결혼식장 비상",
    "query": "집회 교통 통제"
   },
   {
@@ -863,6 +858,31 @@
    "url": "https://www.newspim.com/news/view/20261107000088",
    "title": "野 '특검법 규탄'·노동계 '초광역특구법 철회'…도심 집회에 교통 혼잡",
    "query": "집회 교통 통제"
+  },
+  {
+   "url": "https://www.stnsports.co.kr/news/articleView.html?idxno=325707",
+   "title": "인천 유일 풀코스마라톤 대회 '2026 인천마라톤' 개최…2만여 건각 질주",
+   "query": "마라톤 도로 통제"
+  },
+  {
+   "url": "http://www.weeklytoday.com/news/articleView.html?idxno=802537",
+   "title": "[위클리오늘] 대구, 마라톤으로 세계 기록 향해 도심 달린다…3만2000명...",
+   "query": "마라톤 도로 통제"
+  },
+  {
+   "url": "https://www.idaegu.co.kr/news/articleView.html?idxno=565811",
+   "title": "내년 대구마라톤 준비 본격화...코스 '도심 순환형' 전면 개편",
+   "query": "마라톤 도로 통제"
+  },
+  {
+   "url": "http://www.breaknews.com/1252079",
+   "title": "2027 대구마라톤, 도심 순환 코스로 개편…3만 2천 명 참가",
+   "query": "마라톤 도로 통제"
+  },
+  {
+   "url": "https://www.kyongbuk.co.kr/news/articleView.html?idxno=4091353",
+   "title": "2027 대구마라톤, 국채보상운동기념공원서 출발…도심 순환 코스 개편",
+   "query": "마라톤 도로 통제"
   },
   {
    "url": "https://www.sentv.co.kr/article/view/sentv202611180214",
@@ -1090,31 +1110,6 @@
    "query": "마라톤 도로 통제"
   },
   {
-   "url": "https://www.newspim.com/news/view/20261113001135",
-   "title": "또 주말 서울 마라톤…시민들 불만↑",
-   "query": "마라톤 도로 통제"
-  },
-  {
-   "url": "https://www.topstarnews.net/news/articleView.html?idxno=16276181",
-   "title": "MBN 서울마라톤 개최, 15일 서울 광화문~잠실 대규모 교통통제… 통제 시...",
-   "query": "마라톤 도로 통제"
-  },
-  {
-   "url": "https://ysmbc.co.kr/NewsArticle/1545675",
-   "title": "내일(14) '순천 남승룡마라톤'‥도로 통제",
-   "query": "마라톤 도로 통제"
-  },
-  {
-   "url": "https://www.idjnews.kr/news/articleView.html?idxno=303959",
-   "title": "[당진에 묻다] 현수막 = 유권무죄",
-   "query": "마라톤 도로 통제"
-  },
-  {
-   "url": "https://ysmbc.co.kr/NewsArticle/1545580",
-   "title": "내일(14) '순천 남승룡마라톤'‥도로 통제",
-   "query": "마라톤 도로 통제"
-  },
-  {
    "url": "https://www.tournews21.com/news/articleView.html?idxno=148774",
    "title": "인천시, '2026 인천마라톤' 개최… 세계 33개국 2만여 명 도심·바다 가...",
    "query": "축제 버스 우회"
@@ -1282,6 +1277,75 @@
  ],
  "strikes": [
   {
+   "id": "293458995d02cf47",
+   "mode": "subway",
+   "operator": "서울지하철, GTX-A, 코레일",
+   "regions": [
+    "서울",
+    "전국"
+   ],
+   "status": "conditional",
+   "quote": "사측의 응답이 없으면 오는 25일부터 순차적으로 무기한 총파업에 들어갈 방침입니다.",
+   "start": "2026-11-25",
+   "dateQuote": "오는 25일부터",
+   "articleTitle": "철도·지하철 노조, 20일부터 준법투쟁 예고",
+   "url": "http://www.yonhapnewstv.co.kr/news/MYH20261118211522A0l",
+   "publishedAt": "2026-11-18T21:16:00.000",
+   "sourceCount": 1,
+   "model": "gemini-3.1-flash-lite"
+  },
+  {
+   "id": "6cdbd4979a30a73d",
+   "mode": "subway",
+   "operator": "서울교통공사, 철도노조",
+   "regions": [
+    "서울",
+    "전국"
+   ],
+   "status": "conditional",
+   "quote": "요구가 받아들여지지 않을 경우 서울교통공사노조는 25일 주간근무부터 무기한 총파업에 돌입하고",
+   "start": "2026-11-25",
+   "dateQuote": "25일",
+   "articleTitle": "철도·지하철 3개 노조, 20일부터 공동 안전운행 투쟁 선포",
+   "url": "http://worknworld.kctu.org/news/articleView.html?idxno=510344",
+   "publishedAt": "2026-11-18T18:18:00.000",
+   "sourceCount": 3,
+   "model": "gemini-3.1-flash-lite"
+  },
+  {
+   "id": "0fda2c7330680a69",
+   "mode": "rail",
+   "operator": "코레일테크",
+   "regions": [
+    "전국"
+   ],
+   "status": "preparing",
+   "quote": "정부와 코레일테크가 해결책을 제시하지 않는다면, 5,400여 철도환경·기술노동자의 정당한 권리를 지키기 위한 총파업 투쟁을 불가피하다",
+   "articleTitle": "코레일테크 노동자, 휴일수당 지급으로 임금인상 안된다니...파업 예고",
+   "url": "http://news.inochong.org/detail.php?number=6689&thread=22r07",
+   "publishedAt": "2026-11-18T15:06:00.000",
+   "sourceCount": 3,
+   "model": "gemini-3.1-flash-lite"
+  },
+  {
+   "id": "228e3da0524ca08a",
+   "mode": "subway",
+   "operator": "서울지하철, 철도",
+   "regions": [
+    "서울",
+    "전국"
+   ],
+   "status": "conditional",
+   "quote": "서울지하철은 오는 25일 주간부터, 철도는 내달 10일 오전부터 총파업을 예고한 상태다.",
+   "start": "2026-11-25",
+   "dateQuote": "25일",
+   "articleTitle": "철도·지하철 3개 노조, 공동투쟁 돌입…\"무응답 시 총파업\"",
+   "url": "http://www.iminju.net/news/articleView.html?idxno=172664",
+   "publishedAt": "2026-11-18T12:28:00.000",
+   "sourceCount": 2,
+   "model": "gemini-3.1-flash-lite"
+  },
+  {
    "id": "e7a20922285753c4",
    "mode": "subway",
    "operator": "서울지하철",
@@ -1313,21 +1377,6 @@
    "url": "https://www.labortoday.co.kr/news/articleView.html?idxno=237796",
    "publishedAt": "2026-11-18T06:34:00.000",
    "sourceCount": 27,
-   "model": "gemini-3.5-flash-lite"
-  },
-  {
-   "id": "7f1283c05ba00876",
-   "mode": "rail",
-   "operator": "코레일테크",
-   "regions": [
-    "전국"
-   ],
-   "status": "preparing",
-   "quote": "다음달 파업을 할 태세다",
-   "articleTitle": "파업 예고한 코레일테크 노동자가 청와대 찾은 까닭은",
-   "url": "https://www.labortoday.co.kr/news/articleView.html?idxno=237792",
-   "publishedAt": "2026-11-18T06:34:00.000",
-   "sourceCount": 1,
    "model": "gemini-3.5-flash-lite"
   },
   {
@@ -1376,7 +1425,7 @@
    "articleTitle": "철도노조 서울역 집회…내달 무기한 총파업 예고",
    "url": "http://mbn.mk.co.kr/pages/news/newsView.php?category=mbn00003&news_seq_no=5230889",
    "publishedAt": "2026-11-14T19:33:00.000",
-   "sourceCount": 4,
+   "sourceCount": 3,
    "model": "gemini-3.5-flash-lite"
   },
   {
@@ -7434,7 +7483,7 @@
   },
   {
    "assertion": "planned",
-   "checked_at": "2026-11-18T20:00:20.770058+09:00",
+   "checked_at": "2026-11-19T04:52:13.914781+09:00",
    "conflict": false,
    "demo": false,
    "disruption_confirmed": true,
@@ -7650,7 +7699,7 @@
   },
   {
    "assertion": "planned",
-   "checked_at": "2026-11-18T20:00:20.770058+09:00",
+   "checked_at": "2026-11-19T04:52:13.914781+09:00",
    "conflict": false,
    "demo": false,
    "disruption_confirmed": true,
@@ -8031,7 +8080,7 @@
   },
   {
    "assertion": "planned",
-   "checked_at": "2026-11-18T20:00:27.607198+09:00",
+   "checked_at": "2026-11-19T04:52:19.024768+09:00",
    "conflict": false,
    "demo": false,
    "disruption_confirmed": true,
@@ -8430,7 +8479,7 @@
   },
   {
    "assertion": "planned",
-   "checked_at": "2026-11-18T20:00:27.607198+09:00",
+   "checked_at": "2026-11-19T04:52:19.024768+09:00",
    "conflict": false,
    "demo": false,
    "disruption_confirmed": false,
@@ -8619,7 +8668,7 @@
       "source_url": "https://www.newsis.com/view/NISX20261117_0003871652",
       "published_at": "2026-11-17T15:04:30+09:00",
       "updated_at": null,
-      "collected_at": "2026-11-18T20:00:01.380249+09:00",
+      "collected_at": "2026-11-19T04:51:59.634933+09:00",
       "field_evidence": [
        {
         "field_path": "/article_relevance",
@@ -8736,7 +8785,7 @@
      "source_revision": "a19421a42aa2c51dc9b1796d",
      "published_at": "2026-11-17T15:04:30+09:00",
      "updated_at": null,
-     "collected_at": "2026-11-18T20:00:01.380249+09:00"
+     "collected_at": "2026-11-19T04:51:59.634933+09:00"
     },
     "events": [],
     "review_reasons": []
@@ -8780,7 +8829,7 @@
       "source_url": "https://www.newspim.com/news/view/20261118001222",
       "published_at": "2026-11-18T16:28:00+09:00",
       "updated_at": "2026-11-18T16:28:00+09:00",
-      "collected_at": "2026-11-18T20:00:07.401770+09:00",
+      "collected_at": "2026-11-19T04:52:03.933602+09:00",
       "field_evidence": [
        {
         "field_path": "/article_relevance",
@@ -8897,7 +8946,7 @@
      "source_revision": "dc2662720bb01c39dcc8927f",
      "published_at": "2026-11-18T16:28:00+09:00",
      "updated_at": "2026-11-18T16:28:00+09:00",
-     "collected_at": "2026-11-18T20:00:07.401770+09:00"
+     "collected_at": "2026-11-19T04:52:03.933602+09:00"
     },
     "events": [],
     "review_reasons": []
@@ -8941,7 +8990,7 @@
       "source_url": "https://www.newsis.com/view/NISX20261117_0003871716",
       "published_at": "2026-11-17T19:08:24+09:00",
       "updated_at": null,
-      "collected_at": "2026-11-18T20:00:08.228706+09:00",
+      "collected_at": "2026-11-19T04:52:04.522333+09:00",
       "field_evidence": [
        {
         "field_path": "/article_relevance",
@@ -9058,7 +9107,7 @@
      "source_revision": "942100cb38afa2b547684519",
      "published_at": "2026-11-17T19:08:24+09:00",
      "updated_at": null,
-     "collected_at": "2026-11-18T20:00:08.228706+09:00"
+     "collected_at": "2026-11-19T04:52:04.522333+09:00"
     },
     "events": [],
     "review_reasons": []
@@ -9102,7 +9151,7 @@
       "source_url": "https://www.yna.co.kr/view/AKR20261118007000079?input=1195m",
       "published_at": "2026-11-18T03:43:59+09:00",
       "updated_at": "2026-11-18T09:34:21+09:00",
-      "collected_at": "2026-11-18T20:00:12.553468+09:00",
+      "collected_at": "2026-11-19T04:52:08.498366+09:00",
       "field_evidence": [
        {
         "field_path": "/article_relevance",
@@ -9219,7 +9268,7 @@
      "source_revision": "803fca1dcdf7c4adcd01d505",
      "published_at": "2026-11-18T03:43:59+09:00",
      "updated_at": "2026-11-18T09:34:21+09:00",
-     "collected_at": "2026-11-18T20:00:12.553468+09:00"
+     "collected_at": "2026-11-19T04:52:08.498366+09:00"
     },
     "events": [],
     "review_reasons": [
@@ -9338,7 +9387,7 @@
       "source_url": "https://www.newspim.com/news/view/20261117001008",
       "published_at": "2026-11-17T15:04:00+09:00",
       "updated_at": "2026-11-17T15:30:00+09:00",
-      "collected_at": "2026-11-18T20:00:20.770058+09:00",
+      "collected_at": "2026-11-19T04:52:13.914781+09:00",
       "field_evidence": [
        {
         "field_path": "/article_relevance",
@@ -9514,7 +9563,7 @@
       "source_url": "https://www.newspim.com/news/view/20261117001008",
       "published_at": "2026-11-17T15:04:00+09:00",
       "updated_at": "2026-11-17T15:30:00+09:00",
-      "collected_at": "2026-11-18T20:00:20.770058+09:00",
+      "collected_at": "2026-11-19T04:52:13.914781+09:00",
       "field_evidence": [
        {
         "field_path": "/article_relevance",
@@ -9834,7 +9883,7 @@
      "source_revision": "d97b512c2eba86a347945829",
      "published_at": "2026-11-17T15:04:00+09:00",
      "updated_at": "2026-11-17T15:30:00+09:00",
-     "collected_at": "2026-11-18T20:00:20.770058+09:00"
+     "collected_at": "2026-11-19T04:52:13.914781+09:00"
     },
     "events": [],
     "review_reasons": []
@@ -9927,7 +9976,7 @@
       "source_url": "https://www.imaeil.com/page/view/2026111417131297761",
       "published_at": null,
       "updated_at": null,
-      "collected_at": "2026-11-18T20:00:27.607198+09:00",
+      "collected_at": "2026-11-19T04:52:19.024768+09:00",
       "field_evidence": [
        {
         "field_path": "/article_relevance",
@@ -10271,7 +10320,7 @@
       "source_url": "https://www.imaeil.com/page/view/2026111417131297761",
       "published_at": null,
       "updated_at": null,
-      "collected_at": "2026-11-18T20:00:27.607198+09:00",
+      "collected_at": "2026-11-19T04:52:19.024768+09:00",
       "field_evidence": [
        {
         "field_path": "/article_relevance",
@@ -10391,7 +10440,7 @@
      "source_revision": "79344459f900a196bff2714a",
      "published_at": null,
      "updated_at": null,
-     "collected_at": "2026-11-18T20:00:27.607198+09:00"
+     "collected_at": "2026-11-19T04:52:19.024768+09:00"
     },
     "events": [],
     "review_reasons": []
@@ -10435,7 +10484,7 @@
       "source_url": "https://www.newspim.com/news/view/20261117000638",
       "published_at": "2026-11-17T11:34:00+09:00",
       "updated_at": "2026-11-17T11:34:00+09:00",
-      "collected_at": "2026-11-18T20:00:35.248234+09:00",
+      "collected_at": "2026-11-19T04:52:25.462717+09:00",
       "field_evidence": [
        {
         "field_path": "/article_relevance",
@@ -10552,7 +10601,7 @@
      "source_revision": "acf49610b874560b84453bb5",
      "published_at": "2026-11-17T11:34:00+09:00",
      "updated_at": "2026-11-17T11:34:00+09:00",
-     "collected_at": "2026-11-18T20:00:35.248234+09:00"
+     "collected_at": "2026-11-19T04:52:25.462717+09:00"
     },
     "events": [],
     "review_reasons": []
