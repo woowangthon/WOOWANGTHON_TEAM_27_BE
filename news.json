@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-18T09:23:23.424169+09:00",
+ "generatedAt": "2026-11-18T11:47:55.230433+09:00",
  "windowDays": 14,
  "queries": [
   "버스 파업",
@@ -17,7 +17,7 @@
    "url": "https://www.ncloud.com/product/applicationService/naverApiHub"
   }
  ],
- "articles": 262,
+ "articles": 257,
  "searchResults": [
   {
    "url": "https://www.labortoday.co.kr/news/articleView.html?idxno=237795",
@@ -40,13 +40,13 @@
    "query": "버스 파업"
   },
   {
-   "url": "https://www.kihoilbo.co.kr/news/articleView.html?idxno=3041272",
-   "title": "[길 잃은 시내버스 공공관리제] 5-1. 막대한 재정 부담 떠안으면서 임금...",
+   "url": "https://www.kihoilbo.co.kr/news/articleView.html?idxno=3041276",
+   "title": "[길 잃은 시내버스 공공관리제] 5. 공공관리제로 예방 못 한 파업… 대비...",
    "query": "버스 파업"
   },
   {
-   "url": "https://www.kihoilbo.co.kr/news/articleView.html?idxno=3041276",
-   "title": "[길 잃은 시내버스 공공관리제] 5. 공공관리제로 예방 못 한 파업… 대비...",
+   "url": "https://www.kihoilbo.co.kr/news/articleView.html?idxno=3041272",
+   "title": "[길 잃은 시내버스 공공관리제] 5-1. 막대한 재정 부담 떠안으면서 임금...",
    "query": "버스 파업"
   },
   {
@@ -85,13 +85,13 @@
    "query": "버스 파업"
   },
   {
-   "url": "https://www.newspim.com/news/view/20261117001008",
-   "title": "서울 지하철 임금협상 평행선…노조, 25일 무기한 총파업 예고",
+   "url": "https://www.newsis.com/view/NISX20261117_0003871652",
+   "title": "서울 지하철 노조 \"2500명 인력 부족…생명 담보 위험한 도박\"",
    "query": "버스 파업"
   },
   {
-   "url": "https://www.newsis.com/view/NISX20261117_0003871652",
-   "title": "서울 지하철 노조 \"2500명 인력 부족…생명 담보 위험한 도박\"",
+   "url": "https://www.newspim.com/news/view/20261117001008",
+   "title": "서울 지하철 임금협상 평행선…노조, 25일 무기한 총파업 예고",
    "query": "버스 파업"
   },
   {
@@ -270,13 +270,33 @@
    "query": "버스 파업"
   },
   {
-   "url": "https://www.labortoday.co.kr/news/articleView.html?idxno=237792",
-   "title": "파업 예고한 코레일테크 노동자가 청와대 찾은 까닭은",
+   "url": "https://www.yna.co.kr/view/AKR20261118090900004?input=1195m",
+   "title": "철도·지하철 3개 노조, 총파업 전 '안전운행 투쟁' 선포",
+   "query": "지하철 파업"
+  },
+  {
+   "url": "https://imnews.imbc.com/news/2026/society/article/6866581_36918.html",
+   "title": "철도·지하철 3개 노조, 총파업 전 준법투쟁‥\"사람이 있어야 열차도 제...",
+   "query": "지하철 파업"
+  },
+  {
+   "url": "https://www.newsis.com/view/NISX20261118_0003872439",
+   "title": "철도·지하철 3개 노조 공동투쟁 돌입…내달 총파업 예고",
+   "query": "지하철 파업"
+  },
+  {
+   "url": "https://www.news1.kr/society/incident-accident/6357667",
+   "title": "철도·지하철 노조, '안전운행' 돌입 선포…작업수칙·운행규정 준수",
    "query": "지하철 파업"
   },
   {
    "url": "https://www.labortoday.co.kr/news/articleView.html?idxno=237796",
    "title": "결의대회 연 서울교통공사노조, 파업 전운 고조",
+   "query": "지하철 파업"
+  },
+  {
+   "url": "https://www.labortoday.co.kr/news/articleView.html?idxno=237792",
+   "title": "파업 예고한 코레일테크 노동자가 청와대 찾은 까닭은",
    "query": "지하철 파업"
   },
   {
@@ -425,26 +445,6 @@
    "query": "지하철 파업"
   },
   {
-   "url": "https://www.seoul.co.kr/news/publicnews/local_govern/smc_movement/2026/11/12/20261112500350?wlog_tag3=naver",
-   "title": "유기훈 서울시의원 “서울교통공사 상가 임대료 체납 109억원… 재정 누...",
-   "query": "지하철 파업"
-  },
-  {
-   "url": "https://www.kmib.co.kr/article/20261112502011",
-   "title": "87세 노인의 죽음이 불붙인 ‘분노’…스페인, 14년 만의 총파업",
-   "query": "지하철 파업"
-  },
-  {
-   "url": "https://www.segye.com/newsView/20261112515531?OutUrl=naver",
-   "title": "400만 스페인 노동자, 주택난에 분노…14년 만에 총파업",
-   "query": "지하철 파업"
-  },
-  {
-   "url": "https://www.kmib.co.kr/article/20261112501649",
-   "title": "‘주택난’에 분노…스페인 대규모 시위, 70여명 체포",
-   "query": "지하철 파업"
-  },
-  {
    "url": "https://www.news1.kr/world/europe/6357365",
    "title": "프랑스 공공부문 파업 시위에 14만6000명…5일 집회보다 75% 급감",
    "query": "철도 파업"
@@ -565,13 +565,13 @@
    "query": "철도 파업"
   },
   {
-   "url": "https://www.nocutnews.co.kr/news/6606915?utm_source=naver&utm_medium=article&utm_campaign=20261114160234",
-   "title": "철도노조 총력결의…\"인력 감축 고집하면 12월 10일 총파업\"",
+   "url": "https://www.edaily.co.kr/News/Read?newsId=02738806645645720&mediaCodeNo=257&utm_source=naver&utm_medium=referral&utm_campaign=news_syndication&utm_content=original_article",
+   "title": "철도노조 수천명 빗속 집회 열어…내달 10일 총파업 재차 예고",
    "query": "철도 파업"
   },
   {
-   "url": "https://www.edaily.co.kr/News/Read?newsId=02738806645645720&mediaCodeNo=257&utm_source=naver&utm_medium=referral&utm_campaign=news_syndication&utm_content=original_article",
-   "title": "철도노조 수천명 빗속 집회 열어…내달 10일 총파업 재차 예고",
+   "url": "https://www.nocutnews.co.kr/news/6606915?utm_source=naver&utm_medium=article&utm_campaign=20261114160234",
+   "title": "철도노조 총력결의…\"인력 감축 고집하면 12월 10일 총파업\"",
    "query": "철도 파업"
   },
   {
@@ -595,33 +595,23 @@
    "query": "철도 파업"
   },
   {
-   "url": "https://www.ngonews.kr/news/articleView.html?idxno=243158",
-   "title": "철도노조, 12월 10일 '총파업' 예고…\"안전인력 확충·승진 차별 개선하...",
-   "query": "철도 파업"
-  },
-  {
-   "url": "https://biz.heraldcorp.com/article/10937051?ref=naver",
-   "title": "철도노조, 서울역 앞 빗속 집회…“12월10일 총파업 돌입” [세상&]",
-   "query": "철도 파업"
-  },
-  {
-   "url": "https://www.kbmaeil.com/article/20261114500197",
-   "title": "철도노조 “12월 10일 총파업”…안전인력·승진제도 개선 요구",
-   "query": "철도 파업"
-  },
-  {
-   "url": "https://www.ajunews.com/view/20261114154431208",
-   "title": "철도노조, 내달 10일 총파업 재차예고…고속철 통합 후 첫 교통대란 우...",
-   "query": "철도 파업"
-  },
-  {
    "url": "https://www.etoday.co.kr/news/view/2649239",
    "title": "\"안전 인력 충원하라\"⋯서울교통공사노조, 20일 준법투쟁·25일 총파업 ...",
    "query": "파업 예고 운행"
   },
   {
+   "url": "https://www.ngonews.kr/news/articleView.html?idxno=243158",
+   "title": "철도노조, 12월 10일 '총파업' 예고…\"안전인력 확충·승진 차별 개선하...",
+   "query": "파업 예고 운행"
+  },
+  {
    "url": "http://www.segyebiz.com/newsView/20261114505486?OutUrl=naver",
    "title": "철도노조, 서울역서 빗속 집회... 다음 달 총파업 재차 예고",
+   "query": "파업 예고 운행"
+  },
+  {
+   "url": "https://www.ajunews.com/view/20261114154431208",
+   "title": "철도노조, 내달 10일 총파업 재차예고…고속철 통합 후 첫 교통대란 우...",
    "query": "파업 예고 운행"
   },
   {
@@ -670,19 +660,9 @@
    "query": "파업 예고 운행"
   },
   {
-   "url": "https://www.shinailbo.co.kr/news/articleView.html?idxno=5083030",
-   "title": "공항철도 노사 교섭 극적 타결…노조 '경고 파업 철회'",
-   "query": "파업 예고 운행"
-  },
-  {
-   "url": "https://www.mk.co.kr/article/12207760",
-   "title": "“오늘 공항철도 못탈뻔 했다”…파업 1시간30분 남기고 극적타결",
-   "query": "파업 예고 운행"
-  },
-  {
-   "url": "https://www.hani.co.kr/arti/area/capital/1287158.html",
-   "title": "공항철도 노사, 파업 1시간30분 앞두고 임금 협상 타결",
-   "query": "파업 예고 운행"
+   "url": "https://newscham.net/130186/",
+   "title": "파시즘에 맞서는 경제학, 자본주의 개혁으로 충분한가",
+   "query": "집회 교통 통제"
   },
   {
    "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008850734&plink=ORI&cooper=NAVER",
@@ -697,6 +677,11 @@
   {
    "url": "https://newscham.net/130177/",
    "title": "불타는 제네시스, 입 다문 현대차",
+   "query": "집회 교통 통제"
+  },
+  {
+   "url": "https://www.kbmaeil.com/article/20261114500197",
+   "title": "철도노조 “12월 10일 총파업”…안전인력·승진제도 개선 요구",
    "query": "집회 교통 통제"
   },
   {
@@ -785,13 +770,13 @@
    "query": "집회 교통 통제"
   },
   {
-   "url": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202611080006&t=NN",
-   "title": "\"길 막히고 버스는 돌아가고\"…잇단 마라톤에 시민들 '부글'",
+   "url": "https://biz.heraldcorp.com/article/10929436?ref=naver",
+   "title": "“응급환자 이송 막힐라”…주말 도심 마라톤에 병원·결혼식장 비상",
    "query": "집회 교통 통제"
   },
   {
-   "url": "https://biz.heraldcorp.com/article/10929436?ref=naver",
-   "title": "“응급환자 이송 막힐라”…주말 도심 마라톤에 병원·결혼식장 비상",
+   "url": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202611080006&t=NN",
+   "title": "\"길 막히고 버스는 돌아가고\"…잇단 마라톤에 시민들 '부글'",
    "query": "집회 교통 통제"
   },
   {
@@ -895,9 +880,29 @@
    "query": "집회 교통 통제"
   },
   {
-   "url": "http://www.inews24.com/view/2023705",
-   "title": "서울 도심 곳곳 집회…국힘 '특검법 규탄'·양대노총 '특구법 철회' [종...",
-   "query": "집회 교통 통제"
+   "url": "https://www.newsfreezone.co.kr/news/articleView.html?idxno=719960",
+   "title": "22일 인천아시아드 주경기장·영종구·서해구 일원서 개최",
+   "query": "마라톤 도로 통제"
+  },
+  {
+   "url": "https://www.ngonews.kr/news/articleView.html?idxno=243490",
+   "title": "국내외 2만 명 인천서 달린다…'2026 인천마라톤' 22일 개최",
+   "query": "마라톤 도로 통제"
+  },
+  {
+   "url": "https://www.discoverynews.kr/news/articleView.html?idxno=1107135",
+   "title": "인천마라톤 2만명 달린다…22일 영종·서해구 교통통제",
+   "query": "마라톤 도로 통제"
+  },
+  {
+   "url": "https://www.viva100.com/article/20261118500340",
+   "title": "2만명 달리는 인천마라톤…영종~청라 도로 8시간 통제",
+   "query": "마라톤 도로 통제"
+  },
+  {
+   "url": "https://www.sedaily.com/article/20115741?ref=naver",
+   "title": "2026 인천마라톤 22일 개최…33개국 2만 명 질주",
+   "query": "마라톤 도로 통제"
   },
   {
    "url": "https://www.businesskorea.co.kr/news/articleView.html?idxno=281559",
@@ -1125,31 +1130,6 @@
    "query": "마라톤 도로 통제"
   },
   {
-   "url": "https://www.kukinews.com/article/view/kuk202611110100",
-   "title": "김광철 서울시의원 “마라톤 연 170건 넘는데 서울시는 34건만 파악”…...",
-   "query": "마라톤 도로 통제"
-  },
-  {
-   "url": "https://www.seoul.co.kr/news/publicnews/local_govern/smc_movement/2026/11/11/20261111500156?wlog_tag3=naver",
-   "title": "김광철 서울시의원 “마라톤 공화국 서울, 체계적 관리는 실종”… 6대...",
-   "query": "마라톤 도로 통제"
-  },
-  {
-   "url": "https://biz.heraldcorp.com/article/10933664?ref=naver",
-   "title": "도로 막은 러너에 살짝 경적 울렸더니…“피해 가면 되잖아, XX야” 되레...",
-   "query": "마라톤 도로 통제"
-  },
-  {
-   "url": "https://www.ekn.kr/web/view.php?key=20261111022398207",
-   "title": "[패트롤] 고양시-김포시-남양주시-양주시-파주시",
-   "query": "마라톤 도로 통제"
-  },
-  {
-   "url": "https://news.tvchosun.com/site/data/html_dir/2026/11/11/2026111190092.html",
-   "title": "\"너가 피해라, XX\" 경적에 욕설…달리는 도로의 무법자?",
-   "query": "마라톤 도로 통제"
-  },
-  {
    "url": "https://www.tournews21.com/news/articleView.html?idxno=148774",
    "title": "인천시, '2026 인천마라톤' 개최… 세계 33개국 2만여 명 도심·바다 가...",
    "query": "축제 버스 우회"
@@ -1323,14 +1303,26 @@
    "url": "https://www.joongang.co.kr/article/25475666",
    "title": "잠수교는 보행교로, 잠실대교는 모닝런…한강이 바꾼 서울시민 일상",
    "query": "축제 버스 우회"
-  },
-  {
-   "url": "https://view.asiae.co.kr/article/2026110410334776639",
-   "title": "\"꼭 도로서 뛰어야해? VR 쓰고 실내서 달리면 되잖아\" 마라톤 풍자에 누...",
-   "query": "축제 버스 우회"
   }
  ],
  "strikes": [
+  {
+   "id": "e7a20922285753c4",
+   "mode": "subway",
+   "operator": "서울지하철",
+   "regions": [
+    "서울"
+   ],
+   "status": "scheduled",
+   "quote": "서울지하철 노조는 25일 주간 근무부터",
+   "start": "2026-11-25",
+   "dateQuote": "25일 주간 근무부터",
+   "articleTitle": "철도·지하철 3개 노조 공동투쟁 돌입…내달 총파업 예고",
+   "url": "https://www.newsis.com/view/NISX20261118_0003872439",
+   "publishedAt": "2026-11-18T11:03:00.000",
+   "sourceCount": 2,
+   "model": "gemini-3.5-flash-lite"
+  },
   {
    "id": "83128a0c5fa00ec2",
    "mode": "subway",
@@ -1341,7 +1333,7 @@
    "status": "scheduled",
    "quote": "파업에 돌입한다",
    "start": "2026-11-25",
-   "dateQuote": "25일",
+   "dateQuote": "오는 25일부터",
    "articleTitle": "결의대회 연 서울교통공사노조, 파업 전운 고조",
    "url": "https://www.labortoday.co.kr/news/articleView.html?idxno=237796",
    "publishedAt": "2026-11-18T06:34:00.000",
@@ -1362,23 +1354,6 @@
    "publishedAt": "2026-11-18T06:34:00.000",
    "sourceCount": 1,
    "model": "gemini-3.5-flash-lite"
-  },
-  {
-   "id": "77667c7c97bbda62",
-   "mode": "subway",
-   "operator": "서울 지하철",
-   "regions": [
-    "서울"
-   ],
-   "status": "scheduled",
-   "quote": "서울 지하철 25일 총파업 예고",
-   "start": "2026-11-25",
-   "dateQuote": "25일",
-   "articleTitle": "서울 지하철 25일 총파업 예고…출근길 비상",
-   "url": "https://www.sidae.com/article/2026111714063893497",
-   "publishedAt": "2026-11-17T15:28:00.000",
-   "sourceCount": 1,
-   "model": "gemini-3.1-flash-lite"
   },
   {
    "id": "74628230ef89a526",
@@ -1478,7 +1453,7 @@
    "articleTitle": "[JOB리포트] 공항철도 첫 파업 피했다…‘안전인력 21명’ 확충은 어떻...",
    "url": "https://www.news2day.co.kr/article/20261113500255",
    "publishedAt": "2026-11-13T18:46:00.000",
-   "sourceCount": 12,
+   "sourceCount": 9,
    "model": "gemini-3.5-flash-lite"
   },
   {
@@ -7516,7 +7491,7 @@
   },
   {
    "assertion": "planned",
-   "checked_at": "2026-11-18T09:23:03.317229+09:00",
+   "checked_at": "2026-11-18T11:47:48.712604+09:00",
    "conflict": false,
    "demo": false,
    "disruption_confirmed": true,
@@ -7732,7 +7707,7 @@
   },
   {
    "assertion": "planned",
-   "checked_at": "2026-11-18T09:23:03.317229+09:00",
+   "checked_at": "2026-11-18T11:47:48.712604+09:00",
    "conflict": false,
    "demo": false,
    "disruption_confirmed": true,
@@ -8113,7 +8088,7 @@
   },
   {
    "assertion": "planned",
-   "checked_at": "2026-11-18T09:23:21.282828+09:00",
+   "checked_at": "2026-11-18T11:47:52.579403+09:00",
    "conflict": false,
    "demo": false,
    "disruption_confirmed": true,
@@ -8512,7 +8487,7 @@
   },
   {
    "assertion": "planned",
-   "checked_at": "2026-11-18T09:23:21.282828+09:00",
+   "checked_at": "2026-11-18T11:47:52.579403+09:00",
    "conflict": false,
    "demo": false,
    "disruption_confirmed": false,
@@ -8666,6 +8641,491 @@
   {
    "strikes": [
     {
+     "article_relevance": "unrelated",
+     "transport_mode": "unknown",
+     "affected_regions": [],
+     "affected_routes": [],
+     "start": {
+      "raw": null,
+      "date": null,
+      "time": null,
+      "timezone": "Asia/Seoul",
+      "basis": "unknown",
+      "assertion": "unknown",
+      "open_ended": null
+     },
+     "end": {
+      "raw": null,
+      "date": null,
+      "time": null,
+      "timezone": "Asia/Seoul",
+      "basis": "unknown",
+      "assertion": "unknown",
+      "open_ended": null
+     },
+     "strike_status": {
+      "value": "unknown",
+      "conditions": [],
+      "scope_raw": null,
+      "effective_at": null
+     },
+     "service_status": [],
+     "normal_service_exceptions": [],
+     "alternative_services": [],
+     "evidence_and_timestamps": {
+      "source_url": "https://www.newsis.com/view/NISX20261117_0003871652",
+      "published_at": "2026-11-17T15:04:30+09:00",
+      "updated_at": null,
+      "collected_at": "2026-11-18T11:47:35.107838+09:00",
+      "field_evidence": [
+       {
+        "field_path": "/article_relevance",
+        "quote": "[서울=뉴시스] 최동준 기자 = 서울교통공사노동조합이 17일 서울 중구 세종대로에서 조합원 총회를 열고 구조조정 저지, 안전인력 충원, 온전한 임금인상 등을 촉구하고 있다. 2026.11.17. [email protected]",
+        "source_part": "body",
+        "effective_at": null,
+        "derivation": "explicit",
+        "source_id": "046c4001e6325ad1eb4c37c8",
+        "source_revision": "a19421a42aa2c51dc9b1796d",
+        "reference_source": null
+       },
+       {
+        "field_path": "/transport_mode",
+        "quote": "[서울=뉴시스] 최동준 기자 = 서울교통공사노동조합이 17일 서울 중구 세종대로에서 조합원 총회를 열고 구조조정 저지, 안전인력 충원, 온전한 임금인상 등을 촉구하고 있다. 2026.11.17. [email protected]",
+        "source_part": "body",
+        "effective_at": null,
+        "derivation": "explicit",
+        "source_id": "046c4001e6325ad1eb4c37c8",
+        "source_revision": "a19421a42aa2c51dc9b1796d",
+        "reference_source": null
+       },
+       {
+        "field_path": "/affected_regions",
+        "quote": "[서울=뉴시스] 최동준 기자 = 서울교통공사노동조합이 17일 서울 중구 세종대로에서 조합원 총회를 열고 구조조정 저지, 안전인력 충원, 온전한 임금인상 등을 촉구하고 있다. 2026.11.17. [email protected]",
+        "source_part": "body",
+        "effective_at": null,
+        "derivation": "explicit",
+        "source_id": "046c4001e6325ad1eb4c37c8",
+        "source_revision": "a19421a42aa2c51dc9b1796d",
+        "reference_source": null
+       },
+       {
+        "field_path": "/affected_routes",
+        "quote": "[서울=뉴시스] 최동준 기자 = 서울교통공사노동조합이 17일 서울 중구 세종대로에서 조합원 총회를 열고 구조조정 저지, 안전인력 충원, 온전한 임금인상 등을 촉구하고 있다. 2026.11.17. [email protected]",
+        "source_part": "body",
+        "effective_at": null,
+        "derivation": "explicit",
+        "source_id": "046c4001e6325ad1eb4c37c8",
+        "source_revision": "a19421a42aa2c51dc9b1796d",
+        "reference_source": null
+       },
+       {
+        "field_path": "/strike_status",
+        "quote": "[서울=뉴시스] 최동준 기자 = 서울교통공사노동조합이 17일 서울 중구 세종대로에서 조합원 총회를 열고 구조조정 저지, 안전인력 충원, 온전한 임금인상 등을 촉구하고 있다. 2026.11.17. [email protected]",
+        "source_part": "body",
+        "effective_at": null,
+        "derivation": "explicit",
+        "source_id": "046c4001e6325ad1eb4c37c8",
+        "source_revision": "a19421a42aa2c51dc9b1796d",
+        "reference_source": null
+       },
+       {
+        "field_path": "/service_status",
+        "quote": "[서울=뉴시스] 최동준 기자 = 서울교통공사노동조합이 17일 서울 중구 세종대로에서 조합원 총회를 열고 구조조정 저지, 안전인력 충원, 온전한 임금인상 등을 촉구하고 있다. 2026.11.17. [email protected]",
+        "source_part": "body",
+        "effective_at": null,
+        "derivation": "explicit",
+        "source_id": "046c4001e6325ad1eb4c37c8",
+        "source_revision": "a19421a42aa2c51dc9b1796d",
+        "reference_source": null
+       },
+       {
+        "field_path": "/normal_service_exceptions",
+        "quote": "[서울=뉴시스] 최동준 기자 = 서울교통공사노동조합이 17일 서울 중구 세종대로에서 조합원 총회를 열고 구조조정 저지, 안전인력 충원, 온전한 임금인상 등을 촉구하고 있다. 2026.11.17. [email protected]",
+        "source_part": "body",
+        "effective_at": null,
+        "derivation": "explicit",
+        "source_id": "046c4001e6325ad1eb4c37c8",
+        "source_revision": "a19421a42aa2c51dc9b1796d",
+        "reference_source": null
+       },
+       {
+        "field_path": "/alternative_services",
+        "quote": "[서울=뉴시스] 최동준 기자 = 서울교통공사노동조합이 17일 서울 중구 세종대로에서 조합원 총회를 열고 구조조정 저지, 안전인력 충원, 온전한 임금인상 등을 촉구하고 있다. 2026.11.17. [email protected]",
+        "source_part": "body",
+        "effective_at": null,
+        "derivation": "explicit",
+        "source_id": "046c4001e6325ad1eb4c37c8",
+        "source_revision": "a19421a42aa2c51dc9b1796d",
+        "reference_source": null
+       },
+       {
+        "field_path": "/start",
+        "quote": "[서울=뉴시스] 최동준 기자 = 서울교통공사노동조합이 17일 서울 중구 세종대로에서 조합원 총회를 열고 구조조정 저지, 안전인력 충원, 온전한 임금인상 등을 촉구하고 있다. 2026.11.17. [email protected]",
+        "source_part": "body",
+        "effective_at": null,
+        "derivation": "explicit",
+        "source_id": "046c4001e6325ad1eb4c37c8",
+        "source_revision": "a19421a42aa2c51dc9b1796d",
+        "reference_source": null
+       },
+       {
+        "field_path": "/end",
+        "quote": "[서울=뉴시스] 최동준 기자 = 서울교통공사노동조합이 17일 서울 중구 세종대로에서 조합원 총회를 열고 구조조정 저지, 안전인력 충원, 온전한 임금인상 등을 촉구하고 있다. 2026.11.17. [email protected]",
+        "source_part": "body",
+        "effective_at": null,
+        "derivation": "explicit",
+        "source_id": "046c4001e6325ad1eb4c37c8",
+        "source_revision": "a19421a42aa2c51dc9b1796d",
+        "reference_source": null
+       }
+      ],
+      "review_reasons": []
+     }
+    }
+   ],
+   "events": {
+    "schema_version": "1.0",
+    "article_relevance": "unrelated",
+    "processing_status": "success",
+    "source": {
+     "source_id": "046c4001e6325ad1eb4c37c8",
+     "source_url": "https://www.newsis.com/view/NISX20261117_0003871652",
+     "source_revision": "a19421a42aa2c51dc9b1796d",
+     "published_at": "2026-11-17T15:04:30+09:00",
+     "updated_at": null,
+     "collected_at": "2026-11-18T11:47:35.107838+09:00"
+    },
+    "events": [],
+    "review_reasons": []
+   }
+  },
+  {
+   "strikes": [
+    {
+     "article_relevance": "unrelated",
+     "transport_mode": "unknown",
+     "affected_regions": [],
+     "affected_routes": [],
+     "start": {
+      "raw": null,
+      "date": null,
+      "time": null,
+      "timezone": "Asia/Seoul",
+      "basis": "unknown",
+      "assertion": "unknown",
+      "open_ended": null
+     },
+     "end": {
+      "raw": null,
+      "date": null,
+      "time": null,
+      "timezone": "Asia/Seoul",
+      "basis": "unknown",
+      "assertion": "unknown",
+      "open_ended": null
+     },
+     "strike_status": {
+      "value": "unknown",
+      "conditions": [],
+      "scope_raw": null,
+      "effective_at": null
+     },
+     "service_status": [],
+     "normal_service_exceptions": [],
+     "alternative_services": [],
+     "evidence_and_timestamps": {
+      "source_url": "https://www.newsis.com/view/NISX20261117_0003871716",
+      "published_at": "2026-11-17T19:08:24+09:00",
+      "updated_at": null,
+      "collected_at": "2026-11-18T11:47:39.734719+09:00",
+      "field_evidence": [
+       {
+        "field_path": "/article_relevance",
+        "quote": "[마드리드=AP/뉴시스] 16일(현지 시간) 영국 일간 가디언은 오는 29일 예정돼 있는 스페인 조기 총선에서 민주화 이후 처음으로 극우 정당이 중앙정부에 진출하는 결과가 나올지 관심이 쏠리고 있다고 전했다. 사진은 지난 15일 스페인 마드리드 인근 알코르콘에서 열린 조기 총선 유세 현장에서 페드로 산체스 스페인 총리 겸 사회당 후보가 연설하고 있는 모습. 2026.11.17",
+        "source_part": "body",
+        "effective_at": null,
+        "derivation": "explicit",
+        "source_id": "fe598ac20f381aaca95be041",
+        "source_revision": "942100cb38afa2b547684519",
+        "reference_source": null
+       },
+       {
+        "field_path": "/transport_mode",
+        "quote": "[마드리드=AP/뉴시스] 16일(현지 시간) 영국 일간 가디언은 오는 29일 예정돼 있는 스페인 조기 총선에서 민주화 이후 처음으로 극우 정당이 중앙정부에 진출하는 결과가 나올지 관심이 쏠리고 있다고 전했다. 사진은 지난 15일 스페인 마드리드 인근 알코르콘에서 열린 조기 총선 유세 현장에서 페드로 산체스 스페인 총리 겸 사회당 후보가 연설하고 있는 모습. 2026.11.17",
+        "source_part": "body",
+        "effective_at": null,
+        "derivation": "explicit",
+        "source_id": "fe598ac20f381aaca95be041",
+        "source_revision": "942100cb38afa2b547684519",
+        "reference_source": null
+       },
+       {
+        "field_path": "/affected_regions",
+        "quote": "[마드리드=AP/뉴시스] 16일(현지 시간) 영국 일간 가디언은 오는 29일 예정돼 있는 스페인 조기 총선에서 민주화 이후 처음으로 극우 정당이 중앙정부에 진출하는 결과가 나올지 관심이 쏠리고 있다고 전했다. 사진은 지난 15일 스페인 마드리드 인근 알코르콘에서 열린 조기 총선 유세 현장에서 페드로 산체스 스페인 총리 겸 사회당 후보가 연설하고 있는 모습. 2026.11.17",
+        "source_part": "body",
+        "effective_at": null,
+        "derivation": "explicit",
+        "source_id": "fe598ac20f381aaca95be041",
+        "source_revision": "942100cb38afa2b547684519",
+        "reference_source": null
+       },
+       {
+        "field_path": "/affected_routes",
+        "quote": "[마드리드=AP/뉴시스] 16일(현지 시간) 영국 일간 가디언은 오는 29일 예정돼 있는 스페인 조기 총선에서 민주화 이후 처음으로 극우 정당이 중앙정부에 진출하는 결과가 나올지 관심이 쏠리고 있다고 전했다. 사진은 지난 15일 스페인 마드리드 인근 알코르콘에서 열린 조기 총선 유세 현장에서 페드로 산체스 스페인 총리 겸 사회당 후보가 연설하고 있는 모습. 2026.11.17",
+        "source_part": "body",
+        "effective_at": null,
+        "derivation": "explicit",
+        "source_id": "fe598ac20f381aaca95be041",
+        "source_revision": "942100cb38afa2b547684519",
+        "reference_source": null
+       },
+       {
+        "field_path": "/strike_status",
+        "quote": "[마드리드=AP/뉴시스] 16일(현지 시간) 영국 일간 가디언은 오는 29일 예정돼 있는 스페인 조기 총선에서 민주화 이후 처음으로 극우 정당이 중앙정부에 진출하는 결과가 나올지 관심이 쏠리고 있다고 전했다. 사진은 지난 15일 스페인 마드리드 인근 알코르콘에서 열린 조기 총선 유세 현장에서 페드로 산체스 스페인 총리 겸 사회당 후보가 연설하고 있는 모습. 2026.11.17",
+        "source_part": "body",
+        "effective_at": null,
+        "derivation": "explicit",
+        "source_id": "fe598ac20f381aaca95be041",
+        "source_revision": "942100cb38afa2b547684519",
+        "reference_source": null
+       },
+       {
+        "field_path": "/service_status",
+        "quote": "[마드리드=AP/뉴시스] 16일(현지 시간) 영국 일간 가디언은 오는 29일 예정돼 있는 스페인 조기 총선에서 민주화 이후 처음으로 극우 정당이 중앙정부에 진출하는 결과가 나올지 관심이 쏠리고 있다고 전했다. 사진은 지난 15일 스페인 마드리드 인근 알코르콘에서 열린 조기 총선 유세 현장에서 페드로 산체스 스페인 총리 겸 사회당 후보가 연설하고 있는 모습. 2026.11.17",
+        "source_part": "body",
+        "effective_at": null,
+        "derivation": "explicit",
+        "source_id": "fe598ac20f381aaca95be041",
+        "source_revision": "942100cb38afa2b547684519",
+        "reference_source": null
+       },
+       {
+        "field_path": "/normal_service_exceptions",
+        "quote": "[마드리드=AP/뉴시스] 16일(현지 시간) 영국 일간 가디언은 오는 29일 예정돼 있는 스페인 조기 총선에서 민주화 이후 처음으로 극우 정당이 중앙정부에 진출하는 결과가 나올지 관심이 쏠리고 있다고 전했다. 사진은 지난 15일 스페인 마드리드 인근 알코르콘에서 열린 조기 총선 유세 현장에서 페드로 산체스 스페인 총리 겸 사회당 후보가 연설하고 있는 모습. 2026.11.17",
+        "source_part": "body",
+        "effective_at": null,
+        "derivation": "explicit",
+        "source_id": "fe598ac20f381aaca95be041",
+        "source_revision": "942100cb38afa2b547684519",
+        "reference_source": null
+       },
+       {
+        "field_path": "/alternative_services",
+        "quote": "[마드리드=AP/뉴시스] 16일(현지 시간) 영국 일간 가디언은 오는 29일 예정돼 있는 스페인 조기 총선에서 민주화 이후 처음으로 극우 정당이 중앙정부에 진출하는 결과가 나올지 관심이 쏠리고 있다고 전했다. 사진은 지난 15일 스페인 마드리드 인근 알코르콘에서 열린 조기 총선 유세 현장에서 페드로 산체스 스페인 총리 겸 사회당 후보가 연설하고 있는 모습. 2026.11.17",
+        "source_part": "body",
+        "effective_at": null,
+        "derivation": "explicit",
+        "source_id": "fe598ac20f381aaca95be041",
+        "source_revision": "942100cb38afa2b547684519",
+        "reference_source": null
+       },
+       {
+        "field_path": "/start",
+        "quote": "[마드리드=AP/뉴시스] 16일(현지 시간) 영국 일간 가디언은 오는 29일 예정돼 있는 스페인 조기 총선에서 민주화 이후 처음으로 극우 정당이 중앙정부에 진출하는 결과가 나올지 관심이 쏠리고 있다고 전했다. 사진은 지난 15일 스페인 마드리드 인근 알코르콘에서 열린 조기 총선 유세 현장에서 페드로 산체스 스페인 총리 겸 사회당 후보가 연설하고 있는 모습. 2026.11.17",
+        "source_part": "body",
+        "effective_at": null,
+        "derivation": "explicit",
+        "source_id": "fe598ac20f381aaca95be041",
+        "source_revision": "942100cb38afa2b547684519",
+        "reference_source": null
+       },
+       {
+        "field_path": "/end",
+        "quote": "[마드리드=AP/뉴시스] 16일(현지 시간) 영국 일간 가디언은 오는 29일 예정돼 있는 스페인 조기 총선에서 민주화 이후 처음으로 극우 정당이 중앙정부에 진출하는 결과가 나올지 관심이 쏠리고 있다고 전했다. 사진은 지난 15일 스페인 마드리드 인근 알코르콘에서 열린 조기 총선 유세 현장에서 페드로 산체스 스페인 총리 겸 사회당 후보가 연설하고 있는 모습. 2026.11.17",
+        "source_part": "body",
+        "effective_at": null,
+        "derivation": "explicit",
+        "source_id": "fe598ac20f381aaca95be041",
+        "source_revision": "942100cb38afa2b547684519",
+        "reference_source": null
+       }
+      ],
+      "review_reasons": []
+     }
+    }
+   ],
+   "events": {
+    "schema_version": "1.0",
+    "article_relevance": "unrelated",
+    "processing_status": "success",
+    "source": {
+     "source_id": "fe598ac20f381aaca95be041",
+     "source_url": "https://www.newsis.com/view/NISX20261117_0003871716",
+     "source_revision": "942100cb38afa2b547684519",
+     "published_at": "2026-11-17T19:08:24+09:00",
+     "updated_at": null,
+     "collected_at": "2026-11-18T11:47:39.734719+09:00"
+    },
+    "events": [],
+    "review_reasons": []
+   }
+  },
+  {
+   "strikes": [
+    {
+     "article_relevance": "unrelated",
+     "transport_mode": "unknown",
+     "affected_regions": [],
+     "affected_routes": [],
+     "start": {
+      "raw": null,
+      "date": null,
+      "time": null,
+      "timezone": "Asia/Seoul",
+      "basis": "unknown",
+      "assertion": "unknown",
+      "open_ended": null
+     },
+     "end": {
+      "raw": null,
+      "date": null,
+      "time": null,
+      "timezone": "Asia/Seoul",
+      "basis": "unknown",
+      "assertion": "unknown",
+      "open_ended": null
+     },
+     "strike_status": {
+      "value": "unknown",
+      "conditions": [],
+      "scope_raw": null,
+      "effective_at": null
+     },
+     "service_status": [],
+     "normal_service_exceptions": [],
+     "alternative_services": [],
+     "evidence_and_timestamps": {
+      "source_url": "https://www.yna.co.kr/view/AKR20261118007000079?input=1195m",
+      "published_at": "2026-11-18T03:43:59+09:00",
+      "updated_at": "2026-11-18T09:34:21+09:00",
+      "collected_at": "2026-11-18T11:47:44.190950+09:00",
+      "field_evidence": [
+       {
+        "field_path": "/article_relevance",
+        "quote": "김상훈 기자 구독 구독중 이전 다음 (카이로=연합뉴스) 김상훈 특파원 = 미국과 이란 간 전쟁이 9개월 가까이 이어지는 가운데 17일(현지시간) 이란 서부에서 수백명이 버스 추락 사고에 항의하는 시위를 벌였다. 이 시위는 13명이 사망한 버스 추락 사고와 당국의 대응에 항의하는 것으로 시작됐다가 점차 정치적인 성격을 띠게 된 것으로 전해졌다. 이란 반관영 파르스 통신에 따르면 이날 서부 일란주 압다난의 발리에 아스르에서 수백명이 정부에 항의하는 집회를 개최했다. 이 매체는 \"처음에는 200~300명 규모였던 집회 참가자가 약 1천명으로 불어났다\"며 군중이 광장을 떠나 인근 거리로 행진했다고 전했다. 통신은 시위대가 처음에는 \"오늘은 애도의 날\", \"사퇴하라, 사퇴하라\" 등 사고와 관련된 구호를 외쳤으나, 시간이 지나면서 점차 정치적인 성격을 띠기 시작했다고 덧붙였다. 다만 '정치적인 성격'이 무엇인지 구체적으로 언급하지는 않았다. 통신은 또한 \"행진 도중 일부 인원이 공공 기물을 파손하고 다른 참가자들을 선동하려 했다\"며 경찰 병력이 현장에 배치돼 상황을 통제하고 있다고 보도했다. 소셜미디어에는 다수가 거리로 나와 이슬람 정권 종식을 요구하는 구호를 외치는 모습을 담은 영상이 돌고 있다. 보안군이 공중에 발포하고 최루가스를 쏘며 시위대를 해산했다는 전언도 이어졌다. 이란 사법부는 반정부 시위 확산을 우려해 강경 대응 원칙을 천명했다. 암롤라 미사에이 압다난 공공·혁명 검사는 \"이번 사건을 악용해 공공질서를 어지럽히거나 대중을 선동하려는 자는 단호하게 처벌할 것\"이라고 밝혔다. 그는 \"사건의 모든 정황을 철저히 조사할 것이며, 전문가 소견이 나오는 대로 책임자들을 문책하고 최종 결론이 날 때까지 사건을 파헤치겠다\"고 강조했다. 앞서 지난 14일 이란 서부에서는 버스가 전복되는 사고가 발생해 13명이 숨지고 10여 명이 다쳤다. 이란은 도로 안전 인프라가 열악한 국가로 꼽힌다. 이란 공식 법의학기구가 지난 6월 발표한 자료에 따르면, 올해 3월을 기준으로 최근 1년간 교통사고로 약 2만 명이 목숨을 잃었다. 앞서 지난 1월 이란에서는 생활고에 지친 주민들이 대규모 반정부 집회를 이어졌다. 시위가 거세지자 이란 정부는 인터넷을 차단하고 시위대를 강경 진압해 수천 명이 사망한 것으로 알려졌다. meolakim@yna.co.kr 제보는 카카오톡 okjebo <저작권자(c) 연합뉴스, 무단 전재-재배포, AI 학습 및 활용 금지> 2026/11/18 03:43 송고 2026년11월18일 03시43분 송고",
+        "source_part": "body",
+        "effective_at": null,
+        "derivation": "explicit",
+        "source_id": "33496fcf0a84855a5fb8a120",
+        "source_revision": "803fca1dcdf7c4adcd01d505",
+        "reference_source": null
+       },
+       {
+        "field_path": "/transport_mode",
+        "quote": "김상훈 기자 구독 구독중 이전 다음 (카이로=연합뉴스) 김상훈 특파원 = 미국과 이란 간 전쟁이 9개월 가까이 이어지는 가운데 17일(현지시간) 이란 서부에서 수백명이 버스 추락 사고에 항의하는 시위를 벌였다. 이 시위는 13명이 사망한 버스 추락 사고와 당국의 대응에 항의하는 것으로 시작됐다가 점차 정치적인 성격을 띠게 된 것으로 전해졌다. 이란 반관영 파르스 통신에 따르면 이날 서부 일란주 압다난의 발리에 아스르에서 수백명이 정부에 항의하는 집회를 개최했다. 이 매체는 \"처음에는 200~300명 규모였던 집회 참가자가 약 1천명으로 불어났다\"며 군중이 광장을 떠나 인근 거리로 행진했다고 전했다. 통신은 시위대가 처음에는 \"오늘은 애도의 날\", \"사퇴하라, 사퇴하라\" 등 사고와 관련된 구호를 외쳤으나, 시간이 지나면서 점차 정치적인 성격을 띠기 시작했다고 덧붙였다. 다만 '정치적인 성격'이 무엇인지 구체적으로 언급하지는 않았다. 통신은 또한 \"행진 도중 일부 인원이 공공 기물을 파손하고 다른 참가자들을 선동하려 했다\"며 경찰 병력이 현장에 배치돼 상황을 통제하고 있다고 보도했다. 소셜미디어에는 다수가 거리로 나와 이슬람 정권 종식을 요구하는 구호를 외치는 모습을 담은 영상이 돌고 있다. 보안군이 공중에 발포하고 최루가스를 쏘며 시위대를 해산했다는 전언도 이어졌다. 이란 사법부는 반정부 시위 확산을 우려해 강경 대응 원칙을 천명했다. 암롤라 미사에이 압다난 공공·혁명 검사는 \"이번 사건을 악용해 공공질서를 어지럽히거나 대중을 선동하려는 자는 단호하게 처벌할 것\"이라고 밝혔다. 그는 \"사건의 모든 정황을 철저히 조사할 것이며, 전문가 소견이 나오는 대로 책임자들을 문책하고 최종 결론이 날 때까지 사건을 파헤치겠다\"고 강조했다. 앞서 지난 14일 이란 서부에서는 버스가 전복되는 사고가 발생해 13명이 숨지고 10여 명이 다쳤다. 이란은 도로 안전 인프라가 열악한 국가로 꼽힌다. 이란 공식 법의학기구가 지난 6월 발표한 자료에 따르면, 올해 3월을 기준으로 최근 1년간 교통사고로 약 2만 명이 목숨을 잃었다. 앞서 지난 1월 이란에서는 생활고에 지친 주민들이 대규모 반정부 집회를 이어졌다. 시위가 거세지자 이란 정부는 인터넷을 차단하고 시위대를 강경 진압해 수천 명이 사망한 것으로 알려졌다. meolakim@yna.co.kr 제보는 카카오톡 okjebo <저작권자(c) 연합뉴스, 무단 전재-재배포, AI 학습 및 활용 금지> 2026/11/18 03:43 송고 2026년11월18일 03시43분 송고",
+        "source_part": "body",
+        "effective_at": null,
+        "derivation": "explicit",
+        "source_id": "33496fcf0a84855a5fb8a120",
+        "source_revision": "803fca1dcdf7c4adcd01d505",
+        "reference_source": null
+       },
+       {
+        "field_path": "/affected_regions",
+        "quote": "김상훈 기자 구독 구독중 이전 다음 (카이로=연합뉴스) 김상훈 특파원 = 미국과 이란 간 전쟁이 9개월 가까이 이어지는 가운데 17일(현지시간) 이란 서부에서 수백명이 버스 추락 사고에 항의하는 시위를 벌였다. 이 시위는 13명이 사망한 버스 추락 사고와 당국의 대응에 항의하는 것으로 시작됐다가 점차 정치적인 성격을 띠게 된 것으로 전해졌다. 이란 반관영 파르스 통신에 따르면 이날 서부 일란주 압다난의 발리에 아스르에서 수백명이 정부에 항의하는 집회를 개최했다. 이 매체는 \"처음에는 200~300명 규모였던 집회 참가자가 약 1천명으로 불어났다\"며 군중이 광장을 떠나 인근 거리로 행진했다고 전했다. 통신은 시위대가 처음에는 \"오늘은 애도의 날\", \"사퇴하라, 사퇴하라\" 등 사고와 관련된 구호를 외쳤으나, 시간이 지나면서 점차 정치적인 성격을 띠기 시작했다고 덧붙였다. 다만 '정치적인 성격'이 무엇인지 구체적으로 언급하지는 않았다. 통신은 또한 \"행진 도중 일부 인원이 공공 기물을 파손하고 다른 참가자들을 선동하려 했다\"며 경찰 병력이 현장에 배치돼 상황을 통제하고 있다고 보도했다. 소셜미디어에는 다수가 거리로 나와 이슬람 정권 종식을 요구하는 구호를 외치는 모습을 담은 영상이 돌고 있다. 보안군이 공중에 발포하고 최루가스를 쏘며 시위대를 해산했다는 전언도 이어졌다. 이란 사법부는 반정부 시위 확산을 우려해 강경 대응 원칙을 천명했다. 암롤라 미사에이 압다난 공공·혁명 검사는 \"이번 사건을 악용해 공공질서를 어지럽히거나 대중을 선동하려는 자는 단호하게 처벌할 것\"이라고 밝혔다. 그는 \"사건의 모든 정황을 철저히 조사할 것이며, 전문가 소견이 나오는 대로 책임자들을 문책하고 최종 결론이 날 때까지 사건을 파헤치겠다\"고 강조했다. 앞서 지난 14일 이란 서부에서는 버스가 전복되는 사고가 발생해 13명이 숨지고 10여 명이 다쳤다. 이란은 도로 안전 인프라가 열악한 국가로 꼽힌다. 이란 공식 법의학기구가 지난 6월 발표한 자료에 따르면, 올해 3월을 기준으로 최근 1년간 교통사고로 약 2만 명이 목숨을 잃었다. 앞서 지난 1월 이란에서는 생활고에 지친 주민들이 대규모 반정부 집회를 이어졌다. 시위가 거세지자 이란 정부는 인터넷을 차단하고 시위대를 강경 진압해 수천 명이 사망한 것으로 알려졌다. meolakim@yna.co.kr 제보는 카카오톡 okjebo <저작권자(c) 연합뉴스, 무단 전재-재배포, AI 학습 및 활용 금지> 2026/11/18 03:43 송고 2026년11월18일 03시43분 송고",
+        "source_part": "body",
+        "effective_at": null,
+        "derivation": "explicit",
+        "source_id": "33496fcf0a84855a5fb8a120",
+        "source_revision": "803fca1dcdf7c4adcd01d505",
+        "reference_source": null
+       },
+       {
+        "field_path": "/affected_routes",
+        "quote": "김상훈 기자 구독 구독중 이전 다음 (카이로=연합뉴스) 김상훈 특파원 = 미국과 이란 간 전쟁이 9개월 가까이 이어지는 가운데 17일(현지시간) 이란 서부에서 수백명이 버스 추락 사고에 항의하는 시위를 벌였다. 이 시위는 13명이 사망한 버스 추락 사고와 당국의 대응에 항의하는 것으로 시작됐다가 점차 정치적인 성격을 띠게 된 것으로 전해졌다. 이란 반관영 파르스 통신에 따르면 이날 서부 일란주 압다난의 발리에 아스르에서 수백명이 정부에 항의하는 집회를 개최했다. 이 매체는 \"처음에는 200~300명 규모였던 집회 참가자가 약 1천명으로 불어났다\"며 군중이 광장을 떠나 인근 거리로 행진했다고 전했다. 통신은 시위대가 처음에는 \"오늘은 애도의 날\", \"사퇴하라, 사퇴하라\" 등 사고와 관련된 구호를 외쳤으나, 시간이 지나면서 점차 정치적인 성격을 띠기 시작했다고 덧붙였다. 다만 '정치적인 성격'이 무엇인지 구체적으로 언급하지는 않았다. 통신은 또한 \"행진 도중 일부 인원이 공공 기물을 파손하고 다른 참가자들을 선동하려 했다\"며 경찰 병력이 현장에 배치돼 상황을 통제하고 있다고 보도했다. 소셜미디어에는 다수가 거리로 나와 이슬람 정권 종식을 요구하는 구호를 외치는 모습을 담은 영상이 돌고 있다. 보안군이 공중에 발포하고 최루가스를 쏘며 시위대를 해산했다는 전언도 이어졌다. 이란 사법부는 반정부 시위 확산을 우려해 강경 대응 원칙을 천명했다. 암롤라 미사에이 압다난 공공·혁명 검사는 \"이번 사건을 악용해 공공질서를 어지럽히거나 대중을 선동하려는 자는 단호하게 처벌할 것\"이라고 밝혔다. 그는 \"사건의 모든 정황을 철저히 조사할 것이며, 전문가 소견이 나오는 대로 책임자들을 문책하고 최종 결론이 날 때까지 사건을 파헤치겠다\"고 강조했다. 앞서 지난 14일 이란 서부에서는 버스가 전복되는 사고가 발생해 13명이 숨지고 10여 명이 다쳤다. 이란은 도로 안전 인프라가 열악한 국가로 꼽힌다. 이란 공식 법의학기구가 지난 6월 발표한 자료에 따르면, 올해 3월을 기준으로 최근 1년간 교통사고로 약 2만 명이 목숨을 잃었다. 앞서 지난 1월 이란에서는 생활고에 지친 주민들이 대규모 반정부 집회를 이어졌다. 시위가 거세지자 이란 정부는 인터넷을 차단하고 시위대를 강경 진압해 수천 명이 사망한 것으로 알려졌다. meolakim@yna.co.kr 제보는 카카오톡 okjebo <저작권자(c) 연합뉴스, 무단 전재-재배포, AI 학습 및 활용 금지> 2026/11/18 03:43 송고 2026년11월18일 03시43분 송고",
+        "source_part": "body",
+        "effective_at": null,
+        "derivation": "explicit",
+        "source_id": "33496fcf0a84855a5fb8a120",
+        "source_revision": "803fca1dcdf7c4adcd01d505",
+        "reference_source": null
+       },
+       {
+        "field_path": "/strike_status",
+        "quote": "김상훈 기자 구독 구독중 이전 다음 (카이로=연합뉴스) 김상훈 특파원 = 미국과 이란 간 전쟁이 9개월 가까이 이어지는 가운데 17일(현지시간) 이란 서부에서 수백명이 버스 추락 사고에 항의하는 시위를 벌였다. 이 시위는 13명이 사망한 버스 추락 사고와 당국의 대응에 항의하는 것으로 시작됐다가 점차 정치적인 성격을 띠게 된 것으로 전해졌다. 이란 반관영 파르스 통신에 따르면 이날 서부 일란주 압다난의 발리에 아스르에서 수백명이 정부에 항의하는 집회를 개최했다. 이 매체는 \"처음에는 200~300명 규모였던 집회 참가자가 약 1천명으로 불어났다\"며 군중이 광장을 떠나 인근 거리로 행진했다고 전했다. 통신은 시위대가 처음에는 \"오늘은 애도의 날\", \"사퇴하라, 사퇴하라\" 등 사고와 관련된 구호를 외쳤으나, 시간이 지나면서 점차 정치적인 성격을 띠기 시작했다고 덧붙였다. 다만 '정치적인 성격'이 무엇인지 구체적으로 언급하지는 않았다. 통신은 또한 \"행진 도중 일부 인원이 공공 기물을 파손하고 다른 참가자들을 선동하려 했다\"며 경찰 병력이 현장에 배치돼 상황을 통제하고 있다고 보도했다. 소셜미디어에는 다수가 거리로 나와 이슬람 정권 종식을 요구하는 구호를 외치는 모습을 담은 영상이 돌고 있다. 보안군이 공중에 발포하고 최루가스를 쏘며 시위대를 해산했다는 전언도 이어졌다. 이란 사법부는 반정부 시위 확산을 우려해 강경 대응 원칙을 천명했다. 암롤라 미사에이 압다난 공공·혁명 검사는 \"이번 사건을 악용해 공공질서를 어지럽히거나 대중을 선동하려는 자는 단호하게 처벌할 것\"이라고 밝혔다. 그는 \"사건의 모든 정황을 철저히 조사할 것이며, 전문가 소견이 나오는 대로 책임자들을 문책하고 최종 결론이 날 때까지 사건을 파헤치겠다\"고 강조했다. 앞서 지난 14일 이란 서부에서는 버스가 전복되는 사고가 발생해 13명이 숨지고 10여 명이 다쳤다. 이란은 도로 안전 인프라가 열악한 국가로 꼽힌다. 이란 공식 법의학기구가 지난 6월 발표한 자료에 따르면, 올해 3월을 기준으로 최근 1년간 교통사고로 약 2만 명이 목숨을 잃었다. 앞서 지난 1월 이란에서는 생활고에 지친 주민들이 대규모 반정부 집회를 이어졌다. 시위가 거세지자 이란 정부는 인터넷을 차단하고 시위대를 강경 진압해 수천 명이 사망한 것으로 알려졌다. meolakim@yna.co.kr 제보는 카카오톡 okjebo <저작권자(c) 연합뉴스, 무단 전재-재배포, AI 학습 및 활용 금지> 2026/11/18 03:43 송고 2026년11월18일 03시43분 송고",
+        "source_part": "body",
+        "effective_at": null,
+        "derivation": "explicit",
+        "source_id": "33496fcf0a84855a5fb8a120",
+        "source_revision": "803fca1dcdf7c4adcd01d505",
+        "reference_source": null
+       },
+       {
+        "field_path": "/service_status",
+        "quote": "김상훈 기자 구독 구독중 이전 다음 (카이로=연합뉴스) 김상훈 특파원 = 미국과 이란 간 전쟁이 9개월 가까이 이어지는 가운데 17일(현지시간) 이란 서부에서 수백명이 버스 추락 사고에 항의하는 시위를 벌였다. 이 시위는 13명이 사망한 버스 추락 사고와 당국의 대응에 항의하는 것으로 시작됐다가 점차 정치적인 성격을 띠게 된 것으로 전해졌다. 이란 반관영 파르스 통신에 따르면 이날 서부 일란주 압다난의 발리에 아스르에서 수백명이 정부에 항의하는 집회를 개최했다. 이 매체는 \"처음에는 200~300명 규모였던 집회 참가자가 약 1천명으로 불어났다\"며 군중이 광장을 떠나 인근 거리로 행진했다고 전했다. 통신은 시위대가 처음에는 \"오늘은 애도의 날\", \"사퇴하라, 사퇴하라\" 등 사고와 관련된 구호를 외쳤으나, 시간이 지나면서 점차 정치적인 성격을 띠기 시작했다고 덧붙였다. 다만 '정치적인 성격'이 무엇인지 구체적으로 언급하지는 않았다. 통신은 또한 \"행진 도중 일부 인원이 공공 기물을 파손하고 다른 참가자들을 선동하려 했다\"며 경찰 병력이 현장에 배치돼 상황을 통제하고 있다고 보도했다. 소셜미디어에는 다수가 거리로 나와 이슬람 정권 종식을 요구하는 구호를 외치는 모습을 담은 영상이 돌고 있다. 보안군이 공중에 발포하고 최루가스를 쏘며 시위대를 해산했다는 전언도 이어졌다. 이란 사법부는 반정부 시위 확산을 우려해 강경 대응 원칙을 천명했다. 암롤라 미사에이 압다난 공공·혁명 검사는 \"이번 사건을 악용해 공공질서를 어지럽히거나 대중을 선동하려는 자는 단호하게 처벌할 것\"이라고 밝혔다. 그는 \"사건의 모든 정황을 철저히 조사할 것이며, 전문가 소견이 나오는 대로 책임자들을 문책하고 최종 결론이 날 때까지 사건을 파헤치겠다\"고 강조했다. 앞서 지난 14일 이란 서부에서는 버스가 전복되는 사고가 발생해 13명이 숨지고 10여 명이 다쳤다. 이란은 도로 안전 인프라가 열악한 국가로 꼽힌다. 이란 공식 법의학기구가 지난 6월 발표한 자료에 따르면, 올해 3월을 기준으로 최근 1년간 교통사고로 약 2만 명이 목숨을 잃었다. 앞서 지난 1월 이란에서는 생활고에 지친 주민들이 대규모 반정부 집회를 이어졌다. 시위가 거세지자 이란 정부는 인터넷을 차단하고 시위대를 강경 진압해 수천 명이 사망한 것으로 알려졌다. meolakim@yna.co.kr 제보는 카카오톡 okjebo <저작권자(c) 연합뉴스, 무단 전재-재배포, AI 학습 및 활용 금지> 2026/11/18 03:43 송고 2026년11월18일 03시43분 송고",
+        "source_part": "body",
+        "effective_at": null,
+        "derivation": "explicit",
+        "source_id": "33496fcf0a84855a5fb8a120",
+        "source_revision": "803fca1dcdf7c4adcd01d505",
+        "reference_source": null
+       },
+       {
+        "field_path": "/normal_service_exceptions",
+        "quote": "김상훈 기자 구독 구독중 이전 다음 (카이로=연합뉴스) 김상훈 특파원 = 미국과 이란 간 전쟁이 9개월 가까이 이어지는 가운데 17일(현지시간) 이란 서부에서 수백명이 버스 추락 사고에 항의하는 시위를 벌였다. 이 시위는 13명이 사망한 버스 추락 사고와 당국의 대응에 항의하는 것으로 시작됐다가 점차 정치적인 성격을 띠게 된 것으로 전해졌다. 이란 반관영 파르스 통신에 따르면 이날 서부 일란주 압다난의 발리에 아스르에서 수백명이 정부에 항의하는 집회를 개최했다. 이 매체는 \"처음에는 200~300명 규모였던 집회 참가자가 약 1천명으로 불어났다\"며 군중이 광장을 떠나 인근 거리로 행진했다고 전했다. 통신은 시위대가 처음에는 \"오늘은 애도의 날\", \"사퇴하라, 사퇴하라\" 등 사고와 관련된 구호를 외쳤으나, 시간이 지나면서 점차 정치적인 성격을 띠기 시작했다고 덧붙였다. 다만 '정치적인 성격'이 무엇인지 구체적으로 언급하지는 않았다. 통신은 또한 \"행진 도중 일부 인원이 공공 기물을 파손하고 다른 참가자들을 선동하려 했다\"며 경찰 병력이 현장에 배치돼 상황을 통제하고 있다고 보도했다. 소셜미디어에는 다수가 거리로 나와 이슬람 정권 종식을 요구하는 구호를 외치는 모습을 담은 영상이 돌고 있다. 보안군이 공중에 발포하고 최루가스를 쏘며 시위대를 해산했다는 전언도 이어졌다. 이란 사법부는 반정부 시위 확산을 우려해 강경 대응 원칙을 천명했다. 암롤라 미사에이 압다난 공공·혁명 검사는 \"이번 사건을 악용해 공공질서를 어지럽히거나 대중을 선동하려는 자는 단호하게 처벌할 것\"이라고 밝혔다. 그는 \"사건의 모든 정황을 철저히 조사할 것이며, 전문가 소견이 나오는 대로 책임자들을 문책하고 최종 결론이 날 때까지 사건을 파헤치겠다\"고 강조했다. 앞서 지난 14일 이란 서부에서는 버스가 전복되는 사고가 발생해 13명이 숨지고 10여 명이 다쳤다. 이란은 도로 안전 인프라가 열악한 국가로 꼽힌다. 이란 공식 법의학기구가 지난 6월 발표한 자료에 따르면, 올해 3월을 기준으로 최근 1년간 교통사고로 약 2만 명이 목숨을 잃었다. 앞서 지난 1월 이란에서는 생활고에 지친 주민들이 대규모 반정부 집회를 이어졌다. 시위가 거세지자 이란 정부는 인터넷을 차단하고 시위대를 강경 진압해 수천 명이 사망한 것으로 알려졌다. meolakim@yna.co.kr 제보는 카카오톡 okjebo <저작권자(c) 연합뉴스, 무단 전재-재배포, AI 학습 및 활용 금지> 2026/11/18 03:43 송고 2026년11월18일 03시43분 송고",
+        "source_part": "body",
+        "effective_at": null,
+        "derivation": "explicit",
+        "source_id": "33496fcf0a84855a5fb8a120",
+        "source_revision": "803fca1dcdf7c4adcd01d505",
+        "reference_source": null
+       },
+       {
+        "field_path": "/alternative_services",
+        "quote": "김상훈 기자 구독 구독중 이전 다음 (카이로=연합뉴스) 김상훈 특파원 = 미국과 이란 간 전쟁이 9개월 가까이 이어지는 가운데 17일(현지시간) 이란 서부에서 수백명이 버스 추락 사고에 항의하는 시위를 벌였다. 이 시위는 13명이 사망한 버스 추락 사고와 당국의 대응에 항의하는 것으로 시작됐다가 점차 정치적인 성격을 띠게 된 것으로 전해졌다. 이란 반관영 파르스 통신에 따르면 이날 서부 일란주 압다난의 발리에 아스르에서 수백명이 정부에 항의하는 집회를 개최했다. 이 매체는 \"처음에는 200~300명 규모였던 집회 참가자가 약 1천명으로 불어났다\"며 군중이 광장을 떠나 인근 거리로 행진했다고 전했다. 통신은 시위대가 처음에는 \"오늘은 애도의 날\", \"사퇴하라, 사퇴하라\" 등 사고와 관련된 구호를 외쳤으나, 시간이 지나면서 점차 정치적인 성격을 띠기 시작했다고 덧붙였다. 다만 '정치적인 성격'이 무엇인지 구체적으로 언급하지는 않았다. 통신은 또한 \"행진 도중 일부 인원이 공공 기물을 파손하고 다른 참가자들을 선동하려 했다\"며 경찰 병력이 현장에 배치돼 상황을 통제하고 있다고 보도했다. 소셜미디어에는 다수가 거리로 나와 이슬람 정권 종식을 요구하는 구호를 외치는 모습을 담은 영상이 돌고 있다. 보안군이 공중에 발포하고 최루가스를 쏘며 시위대를 해산했다는 전언도 이어졌다. 이란 사법부는 반정부 시위 확산을 우려해 강경 대응 원칙을 천명했다. 암롤라 미사에이 압다난 공공·혁명 검사는 \"이번 사건을 악용해 공공질서를 어지럽히거나 대중을 선동하려는 자는 단호하게 처벌할 것\"이라고 밝혔다. 그는 \"사건의 모든 정황을 철저히 조사할 것이며, 전문가 소견이 나오는 대로 책임자들을 문책하고 최종 결론이 날 때까지 사건을 파헤치겠다\"고 강조했다. 앞서 지난 14일 이란 서부에서는 버스가 전복되는 사고가 발생해 13명이 숨지고 10여 명이 다쳤다. 이란은 도로 안전 인프라가 열악한 국가로 꼽힌다. 이란 공식 법의학기구가 지난 6월 발표한 자료에 따르면, 올해 3월을 기준으로 최근 1년간 교통사고로 약 2만 명이 목숨을 잃었다. 앞서 지난 1월 이란에서는 생활고에 지친 주민들이 대규모 반정부 집회를 이어졌다. 시위가 거세지자 이란 정부는 인터넷을 차단하고 시위대를 강경 진압해 수천 명이 사망한 것으로 알려졌다. meolakim@yna.co.kr 제보는 카카오톡 okjebo <저작권자(c) 연합뉴스, 무단 전재-재배포, AI 학습 및 활용 금지> 2026/11/18 03:43 송고 2026년11월18일 03시43분 송고",
+        "source_part": "body",
+        "effective_at": null,
+        "derivation": "explicit",
+        "source_id": "33496fcf0a84855a5fb8a120",
+        "source_revision": "803fca1dcdf7c4adcd01d505",
+        "reference_source": null
+       },
+       {
+        "field_path": "/start",
+        "quote": "김상훈 기자 구독 구독중 이전 다음 (카이로=연합뉴스) 김상훈 특파원 = 미국과 이란 간 전쟁이 9개월 가까이 이어지는 가운데 17일(현지시간) 이란 서부에서 수백명이 버스 추락 사고에 항의하는 시위를 벌였다. 이 시위는 13명이 사망한 버스 추락 사고와 당국의 대응에 항의하는 것으로 시작됐다가 점차 정치적인 성격을 띠게 된 것으로 전해졌다. 이란 반관영 파르스 통신에 따르면 이날 서부 일란주 압다난의 발리에 아스르에서 수백명이 정부에 항의하는 집회를 개최했다. 이 매체는 \"처음에는 200~300명 규모였던 집회 참가자가 약 1천명으로 불어났다\"며 군중이 광장을 떠나 인근 거리로 행진했다고 전했다. 통신은 시위대가 처음에는 \"오늘은 애도의 날\", \"사퇴하라, 사퇴하라\" 등 사고와 관련된 구호를 외쳤으나, 시간이 지나면서 점차 정치적인 성격을 띠기 시작했다고 덧붙였다. 다만 '정치적인 성격'이 무엇인지 구체적으로 언급하지는 않았다. 통신은 또한 \"행진 도중 일부 인원이 공공 기물을 파손하고 다른 참가자들을 선동하려 했다\"며 경찰 병력이 현장에 배치돼 상황을 통제하고 있다고 보도했다. 소셜미디어에는 다수가 거리로 나와 이슬람 정권 종식을 요구하는 구호를 외치는 모습을 담은 영상이 돌고 있다. 보안군이 공중에 발포하고 최루가스를 쏘며 시위대를 해산했다는 전언도 이어졌다. 이란 사법부는 반정부 시위 확산을 우려해 강경 대응 원칙을 천명했다. 암롤라 미사에이 압다난 공공·혁명 검사는 \"이번 사건을 악용해 공공질서를 어지럽히거나 대중을 선동하려는 자는 단호하게 처벌할 것\"이라고 밝혔다. 그는 \"사건의 모든 정황을 철저히 조사할 것이며, 전문가 소견이 나오는 대로 책임자들을 문책하고 최종 결론이 날 때까지 사건을 파헤치겠다\"고 강조했다. 앞서 지난 14일 이란 서부에서는 버스가 전복되는 사고가 발생해 13명이 숨지고 10여 명이 다쳤다. 이란은 도로 안전 인프라가 열악한 국가로 꼽힌다. 이란 공식 법의학기구가 지난 6월 발표한 자료에 따르면, 올해 3월을 기준으로 최근 1년간 교통사고로 약 2만 명이 목숨을 잃었다. 앞서 지난 1월 이란에서는 생활고에 지친 주민들이 대규모 반정부 집회를 이어졌다. 시위가 거세지자 이란 정부는 인터넷을 차단하고 시위대를 강경 진압해 수천 명이 사망한 것으로 알려졌다. meolakim@yna.co.kr 제보는 카카오톡 okjebo <저작권자(c) 연합뉴스, 무단 전재-재배포, AI 학습 및 활용 금지> 2026/11/18 03:43 송고 2026년11월18일 03시43분 송고",
+        "source_part": "body",
+        "effective_at": null,
+        "derivation": "explicit",
+        "source_id": "33496fcf0a84855a5fb8a120",
+        "source_revision": "803fca1dcdf7c4adcd01d505",
+        "reference_source": null
+       },
+       {
+        "field_path": "/end",
+        "quote": "김상훈 기자 구독 구독중 이전 다음 (카이로=연합뉴스) 김상훈 특파원 = 미국과 이란 간 전쟁이 9개월 가까이 이어지는 가운데 17일(현지시간) 이란 서부에서 수백명이 버스 추락 사고에 항의하는 시위를 벌였다. 이 시위는 13명이 사망한 버스 추락 사고와 당국의 대응에 항의하는 것으로 시작됐다가 점차 정치적인 성격을 띠게 된 것으로 전해졌다. 이란 반관영 파르스 통신에 따르면 이날 서부 일란주 압다난의 발리에 아스르에서 수백명이 정부에 항의하는 집회를 개최했다. 이 매체는 \"처음에는 200~300명 규모였던 집회 참가자가 약 1천명으로 불어났다\"며 군중이 광장을 떠나 인근 거리로 행진했다고 전했다. 통신은 시위대가 처음에는 \"오늘은 애도의 날\", \"사퇴하라, 사퇴하라\" 등 사고와 관련된 구호를 외쳤으나, 시간이 지나면서 점차 정치적인 성격을 띠기 시작했다고 덧붙였다. 다만 '정치적인 성격'이 무엇인지 구체적으로 언급하지는 않았다. 통신은 또한 \"행진 도중 일부 인원이 공공 기물을 파손하고 다른 참가자들을 선동하려 했다\"며 경찰 병력이 현장에 배치돼 상황을 통제하고 있다고 보도했다. 소셜미디어에는 다수가 거리로 나와 이슬람 정권 종식을 요구하는 구호를 외치는 모습을 담은 영상이 돌고 있다. 보안군이 공중에 발포하고 최루가스를 쏘며 시위대를 해산했다는 전언도 이어졌다. 이란 사법부는 반정부 시위 확산을 우려해 강경 대응 원칙을 천명했다. 암롤라 미사에이 압다난 공공·혁명 검사는 \"이번 사건을 악용해 공공질서를 어지럽히거나 대중을 선동하려는 자는 단호하게 처벌할 것\"이라고 밝혔다. 그는 \"사건의 모든 정황을 철저히 조사할 것이며, 전문가 소견이 나오는 대로 책임자들을 문책하고 최종 결론이 날 때까지 사건을 파헤치겠다\"고 강조했다. 앞서 지난 14일 이란 서부에서는 버스가 전복되는 사고가 발생해 13명이 숨지고 10여 명이 다쳤다. 이란은 도로 안전 인프라가 열악한 국가로 꼽힌다. 이란 공식 법의학기구가 지난 6월 발표한 자료에 따르면, 올해 3월을 기준으로 최근 1년간 교통사고로 약 2만 명이 목숨을 잃었다. 앞서 지난 1월 이란에서는 생활고에 지친 주민들이 대규모 반정부 집회를 이어졌다. 시위가 거세지자 이란 정부는 인터넷을 차단하고 시위대를 강경 진압해 수천 명이 사망한 것으로 알려졌다. meolakim@yna.co.kr 제보는 카카오톡 okjebo <저작권자(c) 연합뉴스, 무단 전재-재배포, AI 학습 및 활용 금지> 2026/11/18 03:43 송고 2026년11월18일 03시43분 송고",
+        "source_part": "body",
+        "effective_at": null,
+        "derivation": "explicit",
+        "source_id": "33496fcf0a84855a5fb8a120",
+        "source_revision": "803fca1dcdf7c4adcd01d505",
+        "reference_source": null
+       }
+      ],
+      "review_reasons": []
+     }
+    }
+   ],
+   "events": {
+    "schema_version": "1.0",
+    "article_relevance": "unknown",
+    "processing_status": "needs_review",
+    "source": {
+     "source_id": "33496fcf0a84855a5fb8a120",
+     "source_url": "https://www.yna.co.kr/view/AKR20261118007000079?input=1195m",
+     "source_revision": "803fca1dcdf7c4adcd01d505",
+     "published_at": "2026-11-18T03:43:59+09:00",
+     "updated_at": "2026-11-18T09:34:21+09:00",
+     "collected_at": "2026-11-18T11:47:44.190950+09:00"
+    },
+    "events": [],
+    "review_reasons": [
+     "UNSUPPORTED_EVENT_CONTEXT"
+    ]
+   }
+  },
+  {
+   "strikes": [
+    {
      "article_relevance": "related",
      "transport_mode": "subway",
      "affected_regions": [
@@ -8774,7 +9234,7 @@
       "source_url": "https://www.newspim.com/news/view/20261117001008",
       "published_at": "2026-11-17T15:04:00+09:00",
       "updated_at": "2026-11-17T15:30:00+09:00",
-      "collected_at": "2026-11-18T09:23:03.317229+09:00",
+      "collected_at": "2026-11-18T11:47:48.712604+09:00",
       "field_evidence": [
        {
         "field_path": "/article_relevance",
@@ -8950,7 +9410,7 @@
       "source_url": "https://www.newspim.com/news/view/20261117001008",
       "published_at": "2026-11-17T15:04:00+09:00",
       "updated_at": "2026-11-17T15:30:00+09:00",
-      "collected_at": "2026-11-18T09:23:03.317229+09:00",
+      "collected_at": "2026-11-18T11:47:48.712604+09:00",
       "field_evidence": [
        {
         "field_path": "/article_relevance",
@@ -9270,7 +9730,7 @@
      "source_revision": "d97b512c2eba86a347945829",
      "published_at": "2026-11-17T15:04:00+09:00",
      "updated_at": "2026-11-17T15:30:00+09:00",
-     "collected_at": "2026-11-18T09:23:03.317229+09:00"
+     "collected_at": "2026-11-18T11:47:48.712604+09:00"
     },
     "events": [],
     "review_reasons": []
@@ -9311,270 +9771,109 @@
      "normal_service_exceptions": [],
      "alternative_services": [],
      "evidence_and_timestamps": {
-      "source_url": "https://www.newspim.com/news/view/20261117000730",
-      "published_at": "2026-11-17T12:17:00+09:00",
-      "updated_at": "2026-11-17T12:17:00+09:00",
-      "collected_at": "2026-11-18T09:23:05.602262+09:00",
-      "field_evidence": [
-       {
-        "field_path": "/article_relevance",
-        "quote": "[서울=뉴스핌] 이건주 기자 = 17일 오전 서울 중구 세종대로에서 열린 '서울교통공사 노동조합 조합원 총회'에서 조합원들이 구호를 외치고 있다. 2026.11.17 kunjoo@newspim.com",
-        "source_part": "body",
-        "effective_at": null,
-        "derivation": "explicit",
-        "source_id": "518ca74400d510e4d4907cdb",
-        "source_revision": "bfc311f7f35431f874dfdbd4",
-        "reference_source": null
-       },
-       {
-        "field_path": "/transport_mode",
-        "quote": "[서울=뉴스핌] 이건주 기자 = 17일 오전 서울 중구 세종대로에서 열린 '서울교통공사 노동조합 조합원 총회'에서 조합원들이 구호를 외치고 있다. 2026.11.17 kunjoo@newspim.com",
-        "source_part": "body",
-        "effective_at": null,
-        "derivation": "explicit",
-        "source_id": "518ca74400d510e4d4907cdb",
-        "source_revision": "bfc311f7f35431f874dfdbd4",
-        "reference_source": null
-       },
-       {
-        "field_path": "/affected_regions",
-        "quote": "[서울=뉴스핌] 이건주 기자 = 17일 오전 서울 중구 세종대로에서 열린 '서울교통공사 노동조합 조합원 총회'에서 조합원들이 구호를 외치고 있다. 2026.11.17 kunjoo@newspim.com",
-        "source_part": "body",
-        "effective_at": null,
-        "derivation": "explicit",
-        "source_id": "518ca74400d510e4d4907cdb",
-        "source_revision": "bfc311f7f35431f874dfdbd4",
-        "reference_source": null
-       },
-       {
-        "field_path": "/affected_routes",
-        "quote": "[서울=뉴스핌] 이건주 기자 = 17일 오전 서울 중구 세종대로에서 열린 '서울교통공사 노동조합 조합원 총회'에서 조합원들이 구호를 외치고 있다. 2026.11.17 kunjoo@newspim.com",
-        "source_part": "body",
-        "effective_at": null,
-        "derivation": "explicit",
-        "source_id": "518ca74400d510e4d4907cdb",
-        "source_revision": "bfc311f7f35431f874dfdbd4",
-        "reference_source": null
-       },
-       {
-        "field_path": "/strike_status",
-        "quote": "[서울=뉴스핌] 이건주 기자 = 17일 오전 서울 중구 세종대로에서 열린 '서울교통공사 노동조합 조합원 총회'에서 조합원들이 구호를 외치고 있다. 2026.11.17 kunjoo@newspim.com",
-        "source_part": "body",
-        "effective_at": null,
-        "derivation": "explicit",
-        "source_id": "518ca74400d510e4d4907cdb",
-        "source_revision": "bfc311f7f35431f874dfdbd4",
-        "reference_source": null
-       },
-       {
-        "field_path": "/service_status",
-        "quote": "[서울=뉴스핌] 이건주 기자 = 17일 오전 서울 중구 세종대로에서 열린 '서울교통공사 노동조합 조합원 총회'에서 조합원들이 구호를 외치고 있다. 2026.11.17 kunjoo@newspim.com",
-        "source_part": "body",
-        "effective_at": null,
-        "derivation": "explicit",
-        "source_id": "518ca74400d510e4d4907cdb",
-        "source_revision": "bfc311f7f35431f874dfdbd4",
-        "reference_source": null
-       },
-       {
-        "field_path": "/normal_service_exceptions",
-        "quote": "[서울=뉴스핌] 이건주 기자 = 17일 오전 서울 중구 세종대로에서 열린 '서울교통공사 노동조합 조합원 총회'에서 조합원들이 구호를 외치고 있다. 2026.11.17 kunjoo@newspim.com",
-        "source_part": "body",
-        "effective_at": null,
-        "derivation": "explicit",
-        "source_id": "518ca74400d510e4d4907cdb",
-        "source_revision": "bfc311f7f35431f874dfdbd4",
-        "reference_source": null
-       },
-       {
-        "field_path": "/alternative_services",
-        "quote": "[서울=뉴스핌] 이건주 기자 = 17일 오전 서울 중구 세종대로에서 열린 '서울교통공사 노동조합 조합원 총회'에서 조합원들이 구호를 외치고 있다. 2026.11.17 kunjoo@newspim.com",
-        "source_part": "body",
-        "effective_at": null,
-        "derivation": "explicit",
-        "source_id": "518ca74400d510e4d4907cdb",
-        "source_revision": "bfc311f7f35431f874dfdbd4",
-        "reference_source": null
-       },
-       {
-        "field_path": "/start",
-        "quote": "[서울=뉴스핌] 이건주 기자 = 17일 오전 서울 중구 세종대로에서 열린 '서울교통공사 노동조합 조합원 총회'에서 조합원들이 구호를 외치고 있다. 2026.11.17 kunjoo@newspim.com",
-        "source_part": "body",
-        "effective_at": null,
-        "derivation": "explicit",
-        "source_id": "518ca74400d510e4d4907cdb",
-        "source_revision": "bfc311f7f35431f874dfdbd4",
-        "reference_source": null
-       },
-       {
-        "field_path": "/end",
-        "quote": "[서울=뉴스핌] 이건주 기자 = 17일 오전 서울 중구 세종대로에서 열린 '서울교통공사 노동조합 조합원 총회'에서 조합원들이 구호를 외치고 있다. 2026.11.17 kunjoo@newspim.com",
-        "source_part": "body",
-        "effective_at": null,
-        "derivation": "explicit",
-        "source_id": "518ca74400d510e4d4907cdb",
-        "source_revision": "bfc311f7f35431f874dfdbd4",
-        "reference_source": null
-       }
-      ],
-      "review_reasons": []
-     }
-    }
-   ],
-   "events": {
-    "schema_version": "1.0",
-    "article_relevance": "unrelated",
-    "processing_status": "success",
-    "source": {
-     "source_id": "518ca74400d510e4d4907cdb",
-     "source_url": "https://www.newspim.com/news/view/20261117000730",
-     "source_revision": "bfc311f7f35431f874dfdbd4",
-     "published_at": "2026-11-17T12:17:00+09:00",
-     "updated_at": "2026-11-17T12:17:00+09:00",
-     "collected_at": "2026-11-18T09:23:05.602262+09:00"
-    },
-    "events": [],
-    "review_reasons": []
-   }
-  },
-  {
-   "strikes": [
-    {
-     "article_relevance": "unrelated",
-     "transport_mode": "unknown",
-     "affected_regions": [],
-     "affected_routes": [],
-     "start": {
-      "raw": null,
-      "date": null,
-      "time": null,
-      "timezone": "Asia/Seoul",
-      "basis": "unknown",
-      "assertion": "unknown",
-      "open_ended": null
-     },
-     "end": {
-      "raw": null,
-      "date": null,
-      "time": null,
-      "timezone": "Asia/Seoul",
-      "basis": "unknown",
-      "assertion": "unknown",
-      "open_ended": null
-     },
-     "strike_status": {
-      "value": "unknown",
-      "conditions": [],
-      "scope_raw": null,
-      "effective_at": null
-     },
-     "service_status": [],
-     "normal_service_exceptions": [],
-     "alternative_services": [],
-     "evidence_and_timestamps": {
-      "source_url": "https://www.newsis.com/view/NISX20261117_0003871716",
-      "published_at": "2026-11-17T19:08:24+09:00",
+      "source_url": "https://www.newsis.com/view/NISX20261118_0003872439",
+      "published_at": "2026-11-18T11:03:27+09:00",
       "updated_at": null,
-      "collected_at": "2026-11-18T09:23:08.025030+09:00",
+      "collected_at": "2026-11-18T11:47:49.270082+09:00",
       "field_evidence": [
        {
         "field_path": "/article_relevance",
-        "quote": "[마드리드=AP/뉴시스] 16일(현지 시간) 영국 일간 가디언은 오는 29일 예정돼 있는 스페인 조기 총선에서 민주화 이후 처음으로 극우 정당이 중앙정부에 진출하는 결과가 나올지 관심이 쏠리고 있다고 전했다. 사진은 지난 15일 스페인 마드리드 인근 알코르콘에서 열린 조기 총선 유세 현장에서 페드로 산체스 스페인 총리 겸 사회당 후보가 연설하고 있는 모습. 2026.11.17",
+        "quote": "[서울=뉴시스] 공공운수노조 전국철도지하철노동조합협의회와 전국철도노동조합, 서울교통공사노동조합, 수도권 광역급행철도(GTX)-A운영지부는 18일 오전 서울역 동편 계단에서 공동 안전운행 투쟁 돌입 선포 기자회견을 열고 있다. [email protected]",
         "source_part": "body",
         "effective_at": null,
         "derivation": "explicit",
-        "source_id": "fe598ac20f381aaca95be041",
-        "source_revision": "942100cb38afa2b547684519",
+        "source_id": "3a07e3f37a0093b5e9f23b13",
+        "source_revision": "47948adcf48134b378f8c7ab",
         "reference_source": null
        },
        {
         "field_path": "/transport_mode",
-        "quote": "[마드리드=AP/뉴시스] 16일(현지 시간) 영국 일간 가디언은 오는 29일 예정돼 있는 스페인 조기 총선에서 민주화 이후 처음으로 극우 정당이 중앙정부에 진출하는 결과가 나올지 관심이 쏠리고 있다고 전했다. 사진은 지난 15일 스페인 마드리드 인근 알코르콘에서 열린 조기 총선 유세 현장에서 페드로 산체스 스페인 총리 겸 사회당 후보가 연설하고 있는 모습. 2026.11.17",
+        "quote": "[서울=뉴시스] 공공운수노조 전국철도지하철노동조합협의회와 전국철도노동조합, 서울교통공사노동조합, 수도권 광역급행철도(GTX)-A운영지부는 18일 오전 서울역 동편 계단에서 공동 안전운행 투쟁 돌입 선포 기자회견을 열고 있다. [email protected]",
         "source_part": "body",
         "effective_at": null,
         "derivation": "explicit",
-        "source_id": "fe598ac20f381aaca95be041",
-        "source_revision": "942100cb38afa2b547684519",
+        "source_id": "3a07e3f37a0093b5e9f23b13",
+        "source_revision": "47948adcf48134b378f8c7ab",
         "reference_source": null
        },
        {
         "field_path": "/affected_regions",
-        "quote": "[마드리드=AP/뉴시스] 16일(현지 시간) 영국 일간 가디언은 오는 29일 예정돼 있는 스페인 조기 총선에서 민주화 이후 처음으로 극우 정당이 중앙정부에 진출하는 결과가 나올지 관심이 쏠리고 있다고 전했다. 사진은 지난 15일 스페인 마드리드 인근 알코르콘에서 열린 조기 총선 유세 현장에서 페드로 산체스 스페인 총리 겸 사회당 후보가 연설하고 있는 모습. 2026.11.17",
+        "quote": "[서울=뉴시스] 공공운수노조 전국철도지하철노동조합협의회와 전국철도노동조합, 서울교통공사노동조합, 수도권 광역급행철도(GTX)-A운영지부는 18일 오전 서울역 동편 계단에서 공동 안전운행 투쟁 돌입 선포 기자회견을 열고 있다. [email protected]",
         "source_part": "body",
         "effective_at": null,
         "derivation": "explicit",
-        "source_id": "fe598ac20f381aaca95be041",
-        "source_revision": "942100cb38afa2b547684519",
+        "source_id": "3a07e3f37a0093b5e9f23b13",
+        "source_revision": "47948adcf48134b378f8c7ab",
         "reference_source": null
        },
        {
         "field_path": "/affected_routes",
-        "quote": "[마드리드=AP/뉴시스] 16일(현지 시간) 영국 일간 가디언은 오는 29일 예정돼 있는 스페인 조기 총선에서 민주화 이후 처음으로 극우 정당이 중앙정부에 진출하는 결과가 나올지 관심이 쏠리고 있다고 전했다. 사진은 지난 15일 스페인 마드리드 인근 알코르콘에서 열린 조기 총선 유세 현장에서 페드로 산체스 스페인 총리 겸 사회당 후보가 연설하고 있는 모습. 2026.11.17",
+        "quote": "[서울=뉴시스] 공공운수노조 전국철도지하철노동조합협의회와 전국철도노동조합, 서울교통공사노동조합, 수도권 광역급행철도(GTX)-A운영지부는 18일 오전 서울역 동편 계단에서 공동 안전운행 투쟁 돌입 선포 기자회견을 열고 있다. [email protected]",
         "source_part": "body",
         "effective_at": null,
         "derivation": "explicit",
-        "source_id": "fe598ac20f381aaca95be041",
-        "source_revision": "942100cb38afa2b547684519",
+        "source_id": "3a07e3f37a0093b5e9f23b13",
+        "source_revision": "47948adcf48134b378f8c7ab",
         "reference_source": null
        },
        {
         "field_path": "/strike_status",
-        "quote": "[마드리드=AP/뉴시스] 16일(현지 시간) 영국 일간 가디언은 오는 29일 예정돼 있는 스페인 조기 총선에서 민주화 이후 처음으로 극우 정당이 중앙정부에 진출하는 결과가 나올지 관심이 쏠리고 있다고 전했다. 사진은 지난 15일 스페인 마드리드 인근 알코르콘에서 열린 조기 총선 유세 현장에서 페드로 산체스 스페인 총리 겸 사회당 후보가 연설하고 있는 모습. 2026.11.17",
+        "quote": "[서울=뉴시스] 공공운수노조 전국철도지하철노동조합협의회와 전국철도노동조합, 서울교통공사노동조합, 수도권 광역급행철도(GTX)-A운영지부는 18일 오전 서울역 동편 계단에서 공동 안전운행 투쟁 돌입 선포 기자회견을 열고 있다. [email protected]",
         "source_part": "body",
         "effective_at": null,
         "derivation": "explicit",
-        "source_id": "fe598ac20f381aaca95be041",
-        "source_revision": "942100cb38afa2b547684519",
+        "source_id": "3a07e3f37a0093b5e9f23b13",
+        "source_revision": "47948adcf48134b378f8c7ab",
         "reference_source": null
        },
        {
         "field_path": "/service_status",
-        "quote": "[마드리드=AP/뉴시스] 16일(현지 시간) 영국 일간 가디언은 오는 29일 예정돼 있는 스페인 조기 총선에서 민주화 이후 처음으로 극우 정당이 중앙정부에 진출하는 결과가 나올지 관심이 쏠리고 있다고 전했다. 사진은 지난 15일 스페인 마드리드 인근 알코르콘에서 열린 조기 총선 유세 현장에서 페드로 산체스 스페인 총리 겸 사회당 후보가 연설하고 있는 모습. 2026.11.17",
+        "quote": "[서울=뉴시스] 공공운수노조 전국철도지하철노동조합협의회와 전국철도노동조합, 서울교통공사노동조합, 수도권 광역급행철도(GTX)-A운영지부는 18일 오전 서울역 동편 계단에서 공동 안전운행 투쟁 돌입 선포 기자회견을 열고 있다. [email protected]",
         "source_part": "body",
         "effective_at": null,
         "derivation": "explicit",
-        "source_id": "fe598ac20f381aaca95be041",
-        "source_revision": "942100cb38afa2b547684519",
+        "source_id": "3a07e3f37a0093b5e9f23b13",
+        "source_revision": "47948adcf48134b378f8c7ab",
         "reference_source": null
        },
        {
         "field_path": "/normal_service_exceptions",
-        "quote": "[마드리드=AP/뉴시스] 16일(현지 시간) 영국 일간 가디언은 오는 29일 예정돼 있는 스페인 조기 총선에서 민주화 이후 처음으로 극우 정당이 중앙정부에 진출하는 결과가 나올지 관심이 쏠리고 있다고 전했다. 사진은 지난 15일 스페인 마드리드 인근 알코르콘에서 열린 조기 총선 유세 현장에서 페드로 산체스 스페인 총리 겸 사회당 후보가 연설하고 있는 모습. 2026.11.17",
+        "quote": "[서울=뉴시스] 공공운수노조 전국철도지하철노동조합협의회와 전국철도노동조합, 서울교통공사노동조합, 수도권 광역급행철도(GTX)-A운영지부는 18일 오전 서울역 동편 계단에서 공동 안전운행 투쟁 돌입 선포 기자회견을 열고 있다. [email protected]",
         "source_part": "body",
         "effective_at": null,
         "derivation": "explicit",
-        "source_id": "fe598ac20f381aaca95be041",
-        "source_revision": "942100cb38afa2b547684519",
+        "source_id": "3a07e3f37a0093b5e9f23b13",
+        "source_revision": "47948adcf48134b378f8c7ab",
         "reference_source": null
        },
        {
         "field_path": "/alternative_services",
-        "quote": "[마드리드=AP/뉴시스] 16일(현지 시간) 영국 일간 가디언은 오는 29일 예정돼 있는 스페인 조기 총선에서 민주화 이후 처음으로 극우 정당이 중앙정부에 진출하는 결과가 나올지 관심이 쏠리고 있다고 전했다. 사진은 지난 15일 스페인 마드리드 인근 알코르콘에서 열린 조기 총선 유세 현장에서 페드로 산체스 스페인 총리 겸 사회당 후보가 연설하고 있는 모습. 2026.11.17",
+        "quote": "[서울=뉴시스] 공공운수노조 전국철도지하철노동조합협의회와 전국철도노동조합, 서울교통공사노동조합, 수도권 광역급행철도(GTX)-A운영지부는 18일 오전 서울역 동편 계단에서 공동 안전운행 투쟁 돌입 선포 기자회견을 열고 있다. [email protected]",
         "source_part": "body",
         "effective_at": null,
         "derivation": "explicit",
-        "source_id": "fe598ac20f381aaca95be041",
-        "source_revision": "942100cb38afa2b547684519",
+        "source_id": "3a07e3f37a0093b5e9f23b13",
+        "source_revision": "47948adcf48134b378f8c7ab",
         "reference_source": null
        },
        {
         "field_path": "/start",
-        "quote": "[마드리드=AP/뉴시스] 16일(현지 시간) 영국 일간 가디언은 오는 29일 예정돼 있는 스페인 조기 총선에서 민주화 이후 처음으로 극우 정당이 중앙정부에 진출하는 결과가 나올지 관심이 쏠리고 있다고 전했다. 사진은 지난 15일 스페인 마드리드 인근 알코르콘에서 열린 조기 총선 유세 현장에서 페드로 산체스 스페인 총리 겸 사회당 후보가 연설하고 있는 모습. 2026.11.17",
+        "quote": "[서울=뉴시스] 공공운수노조 전국철도지하철노동조합협의회와 전국철도노동조합, 서울교통공사노동조합, 수도권 광역급행철도(GTX)-A운영지부는 18일 오전 서울역 동편 계단에서 공동 안전운행 투쟁 돌입 선포 기자회견을 열고 있다. [email protected]",
         "source_part": "body",
         "effective_at": null,
         "derivation": "explicit",
-        "source_id": "fe598ac20f381aaca95be041",
-        "source_revision": "942100cb38afa2b547684519",
+        "source_id": "3a07e3f37a0093b5e9f23b13",
+        "source_revision": "47948adcf48134b378f8c7ab",
         "reference_source": null
        },
        {
         "field_path": "/end",
-        "quote": "[마드리드=AP/뉴시스] 16일(현지 시간) 영국 일간 가디언은 오는 29일 예정돼 있는 스페인 조기 총선에서 민주화 이후 처음으로 극우 정당이 중앙정부에 진출하는 결과가 나올지 관심이 쏠리고 있다고 전했다. 사진은 지난 15일 스페인 마드리드 인근 알코르콘에서 열린 조기 총선 유세 현장에서 페드로 산체스 스페인 총리 겸 사회당 후보가 연설하고 있는 모습. 2026.11.17",
+        "quote": "[서울=뉴시스] 공공운수노조 전국철도지하철노동조합협의회와 전국철도노동조합, 서울교통공사노동조합, 수도권 광역급행철도(GTX)-A운영지부는 18일 오전 서울역 동편 계단에서 공동 안전운행 투쟁 돌입 선포 기자회견을 열고 있다. [email protected]",
         "source_part": "body",
         "effective_at": null,
         "derivation": "explicit",
-        "source_id": "fe598ac20f381aaca95be041",
-        "source_revision": "942100cb38afa2b547684519",
+        "source_id": "3a07e3f37a0093b5e9f23b13",
+        "source_revision": "47948adcf48134b378f8c7ab",
         "reference_source": null
        }
       ],
@@ -9587,336 +9886,12 @@
     "article_relevance": "unrelated",
     "processing_status": "success",
     "source": {
-     "source_id": "fe598ac20f381aaca95be041",
-     "source_url": "https://www.newsis.com/view/NISX20261117_0003871716",
-     "source_revision": "942100cb38afa2b547684519",
-     "published_at": "2026-11-17T19:08:24+09:00",
+     "source_id": "3a07e3f37a0093b5e9f23b13",
+     "source_url": "https://www.newsis.com/view/NISX20261118_0003872439",
+     "source_revision": "47948adcf48134b378f8c7ab",
+     "published_at": "2026-11-18T11:03:27+09:00",
      "updated_at": null,
-     "collected_at": "2026-11-18T09:23:08.025030+09:00"
-    },
-    "events": [],
-    "review_reasons": []
-   }
-  },
-  {
-   "strikes": [
-    {
-     "article_relevance": "unrelated",
-     "transport_mode": "unknown",
-     "affected_regions": [],
-     "affected_routes": [],
-     "start": {
-      "raw": null,
-      "date": null,
-      "time": null,
-      "timezone": "Asia/Seoul",
-      "basis": "unknown",
-      "assertion": "unknown",
-      "open_ended": null
-     },
-     "end": {
-      "raw": null,
-      "date": null,
-      "time": null,
-      "timezone": "Asia/Seoul",
-      "basis": "unknown",
-      "assertion": "unknown",
-      "open_ended": null
-     },
-     "strike_status": {
-      "value": "unknown",
-      "conditions": [],
-      "scope_raw": null,
-      "effective_at": null
-     },
-     "service_status": [],
-     "normal_service_exceptions": [],
-     "alternative_services": [],
-     "evidence_and_timestamps": {
-      "source_url": "https://www.yna.co.kr/view/AKR20261118007000079?input=1195m",
-      "published_at": "2026-11-18T03:43:59+09:00",
-      "updated_at": "2026-11-18T03:43:59+09:00",
-      "collected_at": "2026-11-18T09:23:14.258447+09:00",
-      "field_evidence": [
-       {
-        "field_path": "/article_relevance",
-        "quote": "김상훈 기자 구독 구독중 이전 다음 (카이로=연합뉴스) 김상훈 특파원 = 미국과 이란 간 전쟁이 9개월 가까이 이어지는 가운데 17일(현지시간) 이란 서부에서 수백명이 버스 추락 사고에 항의하는 시위를 벌였다. 이 시위는 13명이 사망한 버스 추락 사고와 당국의 대응에 항의하는 것으로 시작됐다가 점차 정치적인 성격을 띠게 된 것으로 전해졌다. 이란 반관영 파르스 통신에 따르면 이날 서부 일란주 압다난의 발리에 아스르에서 수백명이 정부에 항의하는 집회를 개최했다. 이 매체는 \"처음에는 200~300명 규모였던 집회 참가자가 약 1천명으로 불어났다\"며 군중이 광장을 떠나 인근 거리로 행진했다고 전했다. 통신은 시위대가 처음에는 \"오늘은 애도의 날\", \"사퇴하라, 사퇴하라\" 등 사고와 관련된 구호를 외쳤으나, 시간이 지나면서 점차 정치적인 성격을 띠기 시작했다고 덧붙였다. 다만 '정치적인 성격'이 무엇인지 구체적으로 언급하지는 않았다. 통신은 또한 \"행진 도중 일부 인원이 공공 기물을 파손하고 다른 참가자들을 선동하려 했다\"며 경찰 병력이 현장에 배치돼 상황을 통제하고 있다고 보도했다. 소셜미디어에는 다수가 거리로 나와 이슬람 정권 종식을 요구하는 구호를 외치는 모습을 담은 영상이 돌고 있다. 보안군이 공중에 발포하고 최루가스를 쏘며 시위대를 해산했다는 전언도 이어졌다. 이란 사법부는 반정부 시위 확산을 우려해 강경 대응 원칙을 천명했다. 암롤라 미사에이 압다난 공공·혁명 검사는 \"이번 사건을 악용해 공공질서를 어지럽히거나 대중을 선동하려는 자는 단호하게 처벌할 것\"이라고 밝혔다. 그는 \"사건의 모든 정황을 철저히 조사할 것이며, 전문가 소견이 나오는 대로 책임자들을 문책하고 최종 결론이 날 때까지 사건을 파헤치겠다\"고 강조했다. 앞서 지난 14일 이란 서부에서는 버스가 전복되는 사고가 발생해 13명이 숨지고 10여 명이 다쳤다. 이란은 도로 안전 인프라가 열악한 국가로 꼽힌다. 이란 공식 법의학기구가 지난 6월 발표한 자료에 따르면, 올해 3월을 기준으로 최근 1년간 교통사고로 약 2만 명이 목숨을 잃었다. 앞서 지난 1월 이란에서는 생활고에 지친 주민들이 대규모 반정부 집회를 이어졌다. 시위가 거세지자 이란 정부는 인터넷을 차단하고 시위대를 강경 진압해 수천 명이 사망한 것으로 알려졌다. meolakim@yna.co.kr 제보는 카카오톡 okjebo <저작권자(c) 연합뉴스, 무단 전재-재배포, AI 학습 및 활용 금지> 2026/11/18 03:43 송고 2026년11월18일 03시43분 송고",
-        "source_part": "body",
-        "effective_at": null,
-        "derivation": "explicit",
-        "source_id": "33496fcf0a84855a5fb8a120",
-        "source_revision": "803fca1dcdf7c4adcd01d505",
-        "reference_source": null
-       },
-       {
-        "field_path": "/transport_mode",
-        "quote": "김상훈 기자 구독 구독중 이전 다음 (카이로=연합뉴스) 김상훈 특파원 = 미국과 이란 간 전쟁이 9개월 가까이 이어지는 가운데 17일(현지시간) 이란 서부에서 수백명이 버스 추락 사고에 항의하는 시위를 벌였다. 이 시위는 13명이 사망한 버스 추락 사고와 당국의 대응에 항의하는 것으로 시작됐다가 점차 정치적인 성격을 띠게 된 것으로 전해졌다. 이란 반관영 파르스 통신에 따르면 이날 서부 일란주 압다난의 발리에 아스르에서 수백명이 정부에 항의하는 집회를 개최했다. 이 매체는 \"처음에는 200~300명 규모였던 집회 참가자가 약 1천명으로 불어났다\"며 군중이 광장을 떠나 인근 거리로 행진했다고 전했다. 통신은 시위대가 처음에는 \"오늘은 애도의 날\", \"사퇴하라, 사퇴하라\" 등 사고와 관련된 구호를 외쳤으나, 시간이 지나면서 점차 정치적인 성격을 띠기 시작했다고 덧붙였다. 다만 '정치적인 성격'이 무엇인지 구체적으로 언급하지는 않았다. 통신은 또한 \"행진 도중 일부 인원이 공공 기물을 파손하고 다른 참가자들을 선동하려 했다\"며 경찰 병력이 현장에 배치돼 상황을 통제하고 있다고 보도했다. 소셜미디어에는 다수가 거리로 나와 이슬람 정권 종식을 요구하는 구호를 외치는 모습을 담은 영상이 돌고 있다. 보안군이 공중에 발포하고 최루가스를 쏘며 시위대를 해산했다는 전언도 이어졌다. 이란 사법부는 반정부 시위 확산을 우려해 강경 대응 원칙을 천명했다. 암롤라 미사에이 압다난 공공·혁명 검사는 \"이번 사건을 악용해 공공질서를 어지럽히거나 대중을 선동하려는 자는 단호하게 처벌할 것\"이라고 밝혔다. 그는 \"사건의 모든 정황을 철저히 조사할 것이며, 전문가 소견이 나오는 대로 책임자들을 문책하고 최종 결론이 날 때까지 사건을 파헤치겠다\"고 강조했다. 앞서 지난 14일 이란 서부에서는 버스가 전복되는 사고가 발생해 13명이 숨지고 10여 명이 다쳤다. 이란은 도로 안전 인프라가 열악한 국가로 꼽힌다. 이란 공식 법의학기구가 지난 6월 발표한 자료에 따르면, 올해 3월을 기준으로 최근 1년간 교통사고로 약 2만 명이 목숨을 잃었다. 앞서 지난 1월 이란에서는 생활고에 지친 주민들이 대규모 반정부 집회를 이어졌다. 시위가 거세지자 이란 정부는 인터넷을 차단하고 시위대를 강경 진압해 수천 명이 사망한 것으로 알려졌다. meolakim@yna.co.kr 제보는 카카오톡 okjebo <저작권자(c) 연합뉴스, 무단 전재-재배포, AI 학습 및 활용 금지> 2026/11/18 03:43 송고 2026년11월18일 03시43분 송고",
-        "source_part": "body",
-        "effective_at": null,
-        "derivation": "explicit",
-        "source_id": "33496fcf0a84855a5fb8a120",
-        "source_revision": "803fca1dcdf7c4adcd01d505",
-        "reference_source": null
-       },
-       {
-        "field_path": "/affected_regions",
-        "quote": "김상훈 기자 구독 구독중 이전 다음 (카이로=연합뉴스) 김상훈 특파원 = 미국과 이란 간 전쟁이 9개월 가까이 이어지는 가운데 17일(현지시간) 이란 서부에서 수백명이 버스 추락 사고에 항의하는 시위를 벌였다. 이 시위는 13명이 사망한 버스 추락 사고와 당국의 대응에 항의하는 것으로 시작됐다가 점차 정치적인 성격을 띠게 된 것으로 전해졌다. 이란 반관영 파르스 통신에 따르면 이날 서부 일란주 압다난의 발리에 아스르에서 수백명이 정부에 항의하는 집회를 개최했다. 이 매체는 \"처음에는 200~300명 규모였던 집회 참가자가 약 1천명으로 불어났다\"며 군중이 광장을 떠나 인근 거리로 행진했다고 전했다. 통신은 시위대가 처음에는 \"오늘은 애도의 날\", \"사퇴하라, 사퇴하라\" 등 사고와 관련된 구호를 외쳤으나, 시간이 지나면서 점차 정치적인 성격을 띠기 시작했다고 덧붙였다. 다만 '정치적인 성격'이 무엇인지 구체적으로 언급하지는 않았다. 통신은 또한 \"행진 도중 일부 인원이 공공 기물을 파손하고 다른 참가자들을 선동하려 했다\"며 경찰 병력이 현장에 배치돼 상황을 통제하고 있다고 보도했다. 소셜미디어에는 다수가 거리로 나와 이슬람 정권 종식을 요구하는 구호를 외치는 모습을 담은 영상이 돌고 있다. 보안군이 공중에 발포하고 최루가스를 쏘며 시위대를 해산했다는 전언도 이어졌다. 이란 사법부는 반정부 시위 확산을 우려해 강경 대응 원칙을 천명했다. 암롤라 미사에이 압다난 공공·혁명 검사는 \"이번 사건을 악용해 공공질서를 어지럽히거나 대중을 선동하려는 자는 단호하게 처벌할 것\"이라고 밝혔다. 그는 \"사건의 모든 정황을 철저히 조사할 것이며, 전문가 소견이 나오는 대로 책임자들을 문책하고 최종 결론이 날 때까지 사건을 파헤치겠다\"고 강조했다. 앞서 지난 14일 이란 서부에서는 버스가 전복되는 사고가 발생해 13명이 숨지고 10여 명이 다쳤다. 이란은 도로 안전 인프라가 열악한 국가로 꼽힌다. 이란 공식 법의학기구가 지난 6월 발표한 자료에 따르면, 올해 3월을 기준으로 최근 1년간 교통사고로 약 2만 명이 목숨을 잃었다. 앞서 지난 1월 이란에서는 생활고에 지친 주민들이 대규모 반정부 집회를 이어졌다. 시위가 거세지자 이란 정부는 인터넷을 차단하고 시위대를 강경 진압해 수천 명이 사망한 것으로 알려졌다. meolakim@yna.co.kr 제보는 카카오톡 okjebo <저작권자(c) 연합뉴스, 무단 전재-재배포, AI 학습 및 활용 금지> 2026/11/18 03:43 송고 2026년11월18일 03시43분 송고",
-        "source_part": "body",
-        "effective_at": null,
-        "derivation": "explicit",
-        "source_id": "33496fcf0a84855a5fb8a120",
-        "source_revision": "803fca1dcdf7c4adcd01d505",
-        "reference_source": null
-       },
-       {
-        "field_path": "/affected_routes",
-        "quote": "김상훈 기자 구독 구독중 이전 다음 (카이로=연합뉴스) 김상훈 특파원 = 미국과 이란 간 전쟁이 9개월 가까이 이어지는 가운데 17일(현지시간) 이란 서부에서 수백명이 버스 추락 사고에 항의하는 시위를 벌였다. 이 시위는 13명이 사망한 버스 추락 사고와 당국의 대응에 항의하는 것으로 시작됐다가 점차 정치적인 성격을 띠게 된 것으로 전해졌다. 이란 반관영 파르스 통신에 따르면 이날 서부 일란주 압다난의 발리에 아스르에서 수백명이 정부에 항의하는 집회를 개최했다. 이 매체는 \"처음에는 200~300명 규모였던 집회 참가자가 약 1천명으로 불어났다\"며 군중이 광장을 떠나 인근 거리로 행진했다고 전했다. 통신은 시위대가 처음에는 \"오늘은 애도의 날\", \"사퇴하라, 사퇴하라\" 등 사고와 관련된 구호를 외쳤으나, 시간이 지나면서 점차 정치적인 성격을 띠기 시작했다고 덧붙였다. 다만 '정치적인 성격'이 무엇인지 구체적으로 언급하지는 않았다. 통신은 또한 \"행진 도중 일부 인원이 공공 기물을 파손하고 다른 참가자들을 선동하려 했다\"며 경찰 병력이 현장에 배치돼 상황을 통제하고 있다고 보도했다. 소셜미디어에는 다수가 거리로 나와 이슬람 정권 종식을 요구하는 구호를 외치는 모습을 담은 영상이 돌고 있다. 보안군이 공중에 발포하고 최루가스를 쏘며 시위대를 해산했다는 전언도 이어졌다. 이란 사법부는 반정부 시위 확산을 우려해 강경 대응 원칙을 천명했다. 암롤라 미사에이 압다난 공공·혁명 검사는 \"이번 사건을 악용해 공공질서를 어지럽히거나 대중을 선동하려는 자는 단호하게 처벌할 것\"이라고 밝혔다. 그는 \"사건의 모든 정황을 철저히 조사할 것이며, 전문가 소견이 나오는 대로 책임자들을 문책하고 최종 결론이 날 때까지 사건을 파헤치겠다\"고 강조했다. 앞서 지난 14일 이란 서부에서는 버스가 전복되는 사고가 발생해 13명이 숨지고 10여 명이 다쳤다. 이란은 도로 안전 인프라가 열악한 국가로 꼽힌다. 이란 공식 법의학기구가 지난 6월 발표한 자료에 따르면, 올해 3월을 기준으로 최근 1년간 교통사고로 약 2만 명이 목숨을 잃었다. 앞서 지난 1월 이란에서는 생활고에 지친 주민들이 대규모 반정부 집회를 이어졌다. 시위가 거세지자 이란 정부는 인터넷을 차단하고 시위대를 강경 진압해 수천 명이 사망한 것으로 알려졌다. meolakim@yna.co.kr 제보는 카카오톡 okjebo <저작권자(c) 연합뉴스, 무단 전재-재배포, AI 학습 및 활용 금지> 2026/11/18 03:43 송고 2026년11월18일 03시43분 송고",
-        "source_part": "body",
-        "effective_at": null,
-        "derivation": "explicit",
-        "source_id": "33496fcf0a84855a5fb8a120",
-        "source_revision": "803fca1dcdf7c4adcd01d505",
-        "reference_source": null
-       },
-       {
-        "field_path": "/strike_status",
-        "quote": "김상훈 기자 구독 구독중 이전 다음 (카이로=연합뉴스) 김상훈 특파원 = 미국과 이란 간 전쟁이 9개월 가까이 이어지는 가운데 17일(현지시간) 이란 서부에서 수백명이 버스 추락 사고에 항의하는 시위를 벌였다. 이 시위는 13명이 사망한 버스 추락 사고와 당국의 대응에 항의하는 것으로 시작됐다가 점차 정치적인 성격을 띠게 된 것으로 전해졌다. 이란 반관영 파르스 통신에 따르면 이날 서부 일란주 압다난의 발리에 아스르에서 수백명이 정부에 항의하는 집회를 개최했다. 이 매체는 \"처음에는 200~300명 규모였던 집회 참가자가 약 1천명으로 불어났다\"며 군중이 광장을 떠나 인근 거리로 행진했다고 전했다. 통신은 시위대가 처음에는 \"오늘은 애도의 날\", \"사퇴하라, 사퇴하라\" 등 사고와 관련된 구호를 외쳤으나, 시간이 지나면서 점차 정치적인 성격을 띠기 시작했다고 덧붙였다. 다만 '정치적인 성격'이 무엇인지 구체적으로 언급하지는 않았다. 통신은 또한 \"행진 도중 일부 인원이 공공 기물을 파손하고 다른 참가자들을 선동하려 했다\"며 경찰 병력이 현장에 배치돼 상황을 통제하고 있다고 보도했다. 소셜미디어에는 다수가 거리로 나와 이슬람 정권 종식을 요구하는 구호를 외치는 모습을 담은 영상이 돌고 있다. 보안군이 공중에 발포하고 최루가스를 쏘며 시위대를 해산했다는 전언도 이어졌다. 이란 사법부는 반정부 시위 확산을 우려해 강경 대응 원칙을 천명했다. 암롤라 미사에이 압다난 공공·혁명 검사는 \"이번 사건을 악용해 공공질서를 어지럽히거나 대중을 선동하려는 자는 단호하게 처벌할 것\"이라고 밝혔다. 그는 \"사건의 모든 정황을 철저히 조사할 것이며, 전문가 소견이 나오는 대로 책임자들을 문책하고 최종 결론이 날 때까지 사건을 파헤치겠다\"고 강조했다. 앞서 지난 14일 이란 서부에서는 버스가 전복되는 사고가 발생해 13명이 숨지고 10여 명이 다쳤다. 이란은 도로 안전 인프라가 열악한 국가로 꼽힌다. 이란 공식 법의학기구가 지난 6월 발표한 자료에 따르면, 올해 3월을 기준으로 최근 1년간 교통사고로 약 2만 명이 목숨을 잃었다. 앞서 지난 1월 이란에서는 생활고에 지친 주민들이 대규모 반정부 집회를 이어졌다. 시위가 거세지자 이란 정부는 인터넷을 차단하고 시위대를 강경 진압해 수천 명이 사망한 것으로 알려졌다. meolakim@yna.co.kr 제보는 카카오톡 okjebo <저작권자(c) 연합뉴스, 무단 전재-재배포, AI 학습 및 활용 금지> 2026/11/18 03:43 송고 2026년11월18일 03시43분 송고",
-        "source_part": "body",
-        "effective_at": null,
-        "derivation": "explicit",
-        "source_id": "33496fcf0a84855a5fb8a120",
-        "source_revision": "803fca1dcdf7c4adcd01d505",
-        "reference_source": null
-       },
-       {
-        "field_path": "/service_status",
-        "quote": "김상훈 기자 구독 구독중 이전 다음 (카이로=연합뉴스) 김상훈 특파원 = 미국과 이란 간 전쟁이 9개월 가까이 이어지는 가운데 17일(현지시간) 이란 서부에서 수백명이 버스 추락 사고에 항의하는 시위를 벌였다. 이 시위는 13명이 사망한 버스 추락 사고와 당국의 대응에 항의하는 것으로 시작됐다가 점차 정치적인 성격을 띠게 된 것으로 전해졌다. 이란 반관영 파르스 통신에 따르면 이날 서부 일란주 압다난의 발리에 아스르에서 수백명이 정부에 항의하는 집회를 개최했다. 이 매체는 \"처음에는 200~300명 규모였던 집회 참가자가 약 1천명으로 불어났다\"며 군중이 광장을 떠나 인근 거리로 행진했다고 전했다. 통신은 시위대가 처음에는 \"오늘은 애도의 날\", \"사퇴하라, 사퇴하라\" 등 사고와 관련된 구호를 외쳤으나, 시간이 지나면서 점차 정치적인 성격을 띠기 시작했다고 덧붙였다. 다만 '정치적인 성격'이 무엇인지 구체적으로 언급하지는 않았다. 통신은 또한 \"행진 도중 일부 인원이 공공 기물을 파손하고 다른 참가자들을 선동하려 했다\"며 경찰 병력이 현장에 배치돼 상황을 통제하고 있다고 보도했다. 소셜미디어에는 다수가 거리로 나와 이슬람 정권 종식을 요구하는 구호를 외치는 모습을 담은 영상이 돌고 있다. 보안군이 공중에 발포하고 최루가스를 쏘며 시위대를 해산했다는 전언도 이어졌다. 이란 사법부는 반정부 시위 확산을 우려해 강경 대응 원칙을 천명했다. 암롤라 미사에이 압다난 공공·혁명 검사는 \"이번 사건을 악용해 공공질서를 어지럽히거나 대중을 선동하려는 자는 단호하게 처벌할 것\"이라고 밝혔다. 그는 \"사건의 모든 정황을 철저히 조사할 것이며, 전문가 소견이 나오는 대로 책임자들을 문책하고 최종 결론이 날 때까지 사건을 파헤치겠다\"고 강조했다. 앞서 지난 14일 이란 서부에서는 버스가 전복되는 사고가 발생해 13명이 숨지고 10여 명이 다쳤다. 이란은 도로 안전 인프라가 열악한 국가로 꼽힌다. 이란 공식 법의학기구가 지난 6월 발표한 자료에 따르면, 올해 3월을 기준으로 최근 1년간 교통사고로 약 2만 명이 목숨을 잃었다. 앞서 지난 1월 이란에서는 생활고에 지친 주민들이 대규모 반정부 집회를 이어졌다. 시위가 거세지자 이란 정부는 인터넷을 차단하고 시위대를 강경 진압해 수천 명이 사망한 것으로 알려졌다. meolakim@yna.co.kr 제보는 카카오톡 okjebo <저작권자(c) 연합뉴스, 무단 전재-재배포, AI 학습 및 활용 금지> 2026/11/18 03:43 송고 2026년11월18일 03시43분 송고",
-        "source_part": "body",
-        "effective_at": null,
-        "derivation": "explicit",
-        "source_id": "33496fcf0a84855a5fb8a120",
-        "source_revision": "803fca1dcdf7c4adcd01d505",
-        "reference_source": null
-       },
-       {
-        "field_path": "/normal_service_exceptions",
-        "quote": "김상훈 기자 구독 구독중 이전 다음 (카이로=연합뉴스) 김상훈 특파원 = 미국과 이란 간 전쟁이 9개월 가까이 이어지는 가운데 17일(현지시간) 이란 서부에서 수백명이 버스 추락 사고에 항의하는 시위를 벌였다. 이 시위는 13명이 사망한 버스 추락 사고와 당국의 대응에 항의하는 것으로 시작됐다가 점차 정치적인 성격을 띠게 된 것으로 전해졌다. 이란 반관영 파르스 통신에 따르면 이날 서부 일란주 압다난의 발리에 아스르에서 수백명이 정부에 항의하는 집회를 개최했다. 이 매체는 \"처음에는 200~300명 규모였던 집회 참가자가 약 1천명으로 불어났다\"며 군중이 광장을 떠나 인근 거리로 행진했다고 전했다. 통신은 시위대가 처음에는 \"오늘은 애도의 날\", \"사퇴하라, 사퇴하라\" 등 사고와 관련된 구호를 외쳤으나, 시간이 지나면서 점차 정치적인 성격을 띠기 시작했다고 덧붙였다. 다만 '정치적인 성격'이 무엇인지 구체적으로 언급하지는 않았다. 통신은 또한 \"행진 도중 일부 인원이 공공 기물을 파손하고 다른 참가자들을 선동하려 했다\"며 경찰 병력이 현장에 배치돼 상황을 통제하고 있다고 보도했다. 소셜미디어에는 다수가 거리로 나와 이슬람 정권 종식을 요구하는 구호를 외치는 모습을 담은 영상이 돌고 있다. 보안군이 공중에 발포하고 최루가스를 쏘며 시위대를 해산했다는 전언도 이어졌다. 이란 사법부는 반정부 시위 확산을 우려해 강경 대응 원칙을 천명했다. 암롤라 미사에이 압다난 공공·혁명 검사는 \"이번 사건을 악용해 공공질서를 어지럽히거나 대중을 선동하려는 자는 단호하게 처벌할 것\"이라고 밝혔다. 그는 \"사건의 모든 정황을 철저히 조사할 것이며, 전문가 소견이 나오는 대로 책임자들을 문책하고 최종 결론이 날 때까지 사건을 파헤치겠다\"고 강조했다. 앞서 지난 14일 이란 서부에서는 버스가 전복되는 사고가 발생해 13명이 숨지고 10여 명이 다쳤다. 이란은 도로 안전 인프라가 열악한 국가로 꼽힌다. 이란 공식 법의학기구가 지난 6월 발표한 자료에 따르면, 올해 3월을 기준으로 최근 1년간 교통사고로 약 2만 명이 목숨을 잃었다. 앞서 지난 1월 이란에서는 생활고에 지친 주민들이 대규모 반정부 집회를 이어졌다. 시위가 거세지자 이란 정부는 인터넷을 차단하고 시위대를 강경 진압해 수천 명이 사망한 것으로 알려졌다. meolakim@yna.co.kr 제보는 카카오톡 okjebo <저작권자(c) 연합뉴스, 무단 전재-재배포, AI 학습 및 활용 금지> 2026/11/18 03:43 송고 2026년11월18일 03시43분 송고",
-        "source_part": "body",
-        "effective_at": null,
-        "derivation": "explicit",
-        "source_id": "33496fcf0a84855a5fb8a120",
-        "source_revision": "803fca1dcdf7c4adcd01d505",
-        "reference_source": null
-       },
-       {
-        "field_path": "/alternative_services",
-        "quote": "김상훈 기자 구독 구독중 이전 다음 (카이로=연합뉴스) 김상훈 특파원 = 미국과 이란 간 전쟁이 9개월 가까이 이어지는 가운데 17일(현지시간) 이란 서부에서 수백명이 버스 추락 사고에 항의하는 시위를 벌였다. 이 시위는 13명이 사망한 버스 추락 사고와 당국의 대응에 항의하는 것으로 시작됐다가 점차 정치적인 성격을 띠게 된 것으로 전해졌다. 이란 반관영 파르스 통신에 따르면 이날 서부 일란주 압다난의 발리에 아스르에서 수백명이 정부에 항의하는 집회를 개최했다. 이 매체는 \"처음에는 200~300명 규모였던 집회 참가자가 약 1천명으로 불어났다\"며 군중이 광장을 떠나 인근 거리로 행진했다고 전했다. 통신은 시위대가 처음에는 \"오늘은 애도의 날\", \"사퇴하라, 사퇴하라\" 등 사고와 관련된 구호를 외쳤으나, 시간이 지나면서 점차 정치적인 성격을 띠기 시작했다고 덧붙였다. 다만 '정치적인 성격'이 무엇인지 구체적으로 언급하지는 않았다. 통신은 또한 \"행진 도중 일부 인원이 공공 기물을 파손하고 다른 참가자들을 선동하려 했다\"며 경찰 병력이 현장에 배치돼 상황을 통제하고 있다고 보도했다. 소셜미디어에는 다수가 거리로 나와 이슬람 정권 종식을 요구하는 구호를 외치는 모습을 담은 영상이 돌고 있다. 보안군이 공중에 발포하고 최루가스를 쏘며 시위대를 해산했다는 전언도 이어졌다. 이란 사법부는 반정부 시위 확산을 우려해 강경 대응 원칙을 천명했다. 암롤라 미사에이 압다난 공공·혁명 검사는 \"이번 사건을 악용해 공공질서를 어지럽히거나 대중을 선동하려는 자는 단호하게 처벌할 것\"이라고 밝혔다. 그는 \"사건의 모든 정황을 철저히 조사할 것이며, 전문가 소견이 나오는 대로 책임자들을 문책하고 최종 결론이 날 때까지 사건을 파헤치겠다\"고 강조했다. 앞서 지난 14일 이란 서부에서는 버스가 전복되는 사고가 발생해 13명이 숨지고 10여 명이 다쳤다. 이란은 도로 안전 인프라가 열악한 국가로 꼽힌다. 이란 공식 법의학기구가 지난 6월 발표한 자료에 따르면, 올해 3월을 기준으로 최근 1년간 교통사고로 약 2만 명이 목숨을 잃었다. 앞서 지난 1월 이란에서는 생활고에 지친 주민들이 대규모 반정부 집회를 이어졌다. 시위가 거세지자 이란 정부는 인터넷을 차단하고 시위대를 강경 진압해 수천 명이 사망한 것으로 알려졌다. meolakim@yna.co.kr 제보는 카카오톡 okjebo <저작권자(c) 연합뉴스, 무단 전재-재배포, AI 학습 및 활용 금지> 2026/11/18 03:43 송고 2026년11월18일 03시43분 송고",
-        "source_part": "body",
-        "effective_at": null,
-        "derivation": "explicit",
-        "source_id": "33496fcf0a84855a5fb8a120",
-        "source_revision": "803fca1dcdf7c4adcd01d505",
-        "reference_source": null
-       },
-       {
-        "field_path": "/start",
-        "quote": "김상훈 기자 구독 구독중 이전 다음 (카이로=연합뉴스) 김상훈 특파원 = 미국과 이란 간 전쟁이 9개월 가까이 이어지는 가운데 17일(현지시간) 이란 서부에서 수백명이 버스 추락 사고에 항의하는 시위를 벌였다. 이 시위는 13명이 사망한 버스 추락 사고와 당국의 대응에 항의하는 것으로 시작됐다가 점차 정치적인 성격을 띠게 된 것으로 전해졌다. 이란 반관영 파르스 통신에 따르면 이날 서부 일란주 압다난의 발리에 아스르에서 수백명이 정부에 항의하는 집회를 개최했다. 이 매체는 \"처음에는 200~300명 규모였던 집회 참가자가 약 1천명으로 불어났다\"며 군중이 광장을 떠나 인근 거리로 행진했다고 전했다. 통신은 시위대가 처음에는 \"오늘은 애도의 날\", \"사퇴하라, 사퇴하라\" 등 사고와 관련된 구호를 외쳤으나, 시간이 지나면서 점차 정치적인 성격을 띠기 시작했다고 덧붙였다. 다만 '정치적인 성격'이 무엇인지 구체적으로 언급하지는 않았다. 통신은 또한 \"행진 도중 일부 인원이 공공 기물을 파손하고 다른 참가자들을 선동하려 했다\"며 경찰 병력이 현장에 배치돼 상황을 통제하고 있다고 보도했다. 소셜미디어에는 다수가 거리로 나와 이슬람 정권 종식을 요구하는 구호를 외치는 모습을 담은 영상이 돌고 있다. 보안군이 공중에 발포하고 최루가스를 쏘며 시위대를 해산했다는 전언도 이어졌다. 이란 사법부는 반정부 시위 확산을 우려해 강경 대응 원칙을 천명했다. 암롤라 미사에이 압다난 공공·혁명 검사는 \"이번 사건을 악용해 공공질서를 어지럽히거나 대중을 선동하려는 자는 단호하게 처벌할 것\"이라고 밝혔다. 그는 \"사건의 모든 정황을 철저히 조사할 것이며, 전문가 소견이 나오는 대로 책임자들을 문책하고 최종 결론이 날 때까지 사건을 파헤치겠다\"고 강조했다. 앞서 지난 14일 이란 서부에서는 버스가 전복되는 사고가 발생해 13명이 숨지고 10여 명이 다쳤다. 이란은 도로 안전 인프라가 열악한 국가로 꼽힌다. 이란 공식 법의학기구가 지난 6월 발표한 자료에 따르면, 올해 3월을 기준으로 최근 1년간 교통사고로 약 2만 명이 목숨을 잃었다. 앞서 지난 1월 이란에서는 생활고에 지친 주민들이 대규모 반정부 집회를 이어졌다. 시위가 거세지자 이란 정부는 인터넷을 차단하고 시위대를 강경 진압해 수천 명이 사망한 것으로 알려졌다. meolakim@yna.co.kr 제보는 카카오톡 okjebo <저작권자(c) 연합뉴스, 무단 전재-재배포, AI 학습 및 활용 금지> 2026/11/18 03:43 송고 2026년11월18일 03시43분 송고",
-        "source_part": "body",
-        "effective_at": null,
-        "derivation": "explicit",
-        "source_id": "33496fcf0a84855a5fb8a120",
-        "source_revision": "803fca1dcdf7c4adcd01d505",
-        "reference_source": null
-       },
-       {
-        "field_path": "/end",
-        "quote": "김상훈 기자 구독 구독중 이전 다음 (카이로=연합뉴스) 김상훈 특파원 = 미국과 이란 간 전쟁이 9개월 가까이 이어지는 가운데 17일(현지시간) 이란 서부에서 수백명이 버스 추락 사고에 항의하는 시위를 벌였다. 이 시위는 13명이 사망한 버스 추락 사고와 당국의 대응에 항의하는 것으로 시작됐다가 점차 정치적인 성격을 띠게 된 것으로 전해졌다. 이란 반관영 파르스 통신에 따르면 이날 서부 일란주 압다난의 발리에 아스르에서 수백명이 정부에 항의하는 집회를 개최했다. 이 매체는 \"처음에는 200~300명 규모였던 집회 참가자가 약 1천명으로 불어났다\"며 군중이 광장을 떠나 인근 거리로 행진했다고 전했다. 통신은 시위대가 처음에는 \"오늘은 애도의 날\", \"사퇴하라, 사퇴하라\" 등 사고와 관련된 구호를 외쳤으나, 시간이 지나면서 점차 정치적인 성격을 띠기 시작했다고 덧붙였다. 다만 '정치적인 성격'이 무엇인지 구체적으로 언급하지는 않았다. 통신은 또한 \"행진 도중 일부 인원이 공공 기물을 파손하고 다른 참가자들을 선동하려 했다\"며 경찰 병력이 현장에 배치돼 상황을 통제하고 있다고 보도했다. 소셜미디어에는 다수가 거리로 나와 이슬람 정권 종식을 요구하는 구호를 외치는 모습을 담은 영상이 돌고 있다. 보안군이 공중에 발포하고 최루가스를 쏘며 시위대를 해산했다는 전언도 이어졌다. 이란 사법부는 반정부 시위 확산을 우려해 강경 대응 원칙을 천명했다. 암롤라 미사에이 압다난 공공·혁명 검사는 \"이번 사건을 악용해 공공질서를 어지럽히거나 대중을 선동하려는 자는 단호하게 처벌할 것\"이라고 밝혔다. 그는 \"사건의 모든 정황을 철저히 조사할 것이며, 전문가 소견이 나오는 대로 책임자들을 문책하고 최종 결론이 날 때까지 사건을 파헤치겠다\"고 강조했다. 앞서 지난 14일 이란 서부에서는 버스가 전복되는 사고가 발생해 13명이 숨지고 10여 명이 다쳤다. 이란은 도로 안전 인프라가 열악한 국가로 꼽힌다. 이란 공식 법의학기구가 지난 6월 발표한 자료에 따르면, 올해 3월을 기준으로 최근 1년간 교통사고로 약 2만 명이 목숨을 잃었다. 앞서 지난 1월 이란에서는 생활고에 지친 주민들이 대규모 반정부 집회를 이어졌다. 시위가 거세지자 이란 정부는 인터넷을 차단하고 시위대를 강경 진압해 수천 명이 사망한 것으로 알려졌다. meolakim@yna.co.kr 제보는 카카오톡 okjebo <저작권자(c) 연합뉴스, 무단 전재-재배포, AI 학습 및 활용 금지> 2026/11/18 03:43 송고 2026년11월18일 03시43분 송고",
-        "source_part": "body",
-        "effective_at": null,
-        "derivation": "explicit",
-        "source_id": "33496fcf0a84855a5fb8a120",
-        "source_revision": "803fca1dcdf7c4adcd01d505",
-        "reference_source": null
-       }
-      ],
-      "review_reasons": []
-     }
-    }
-   ],
-   "events": {
-    "schema_version": "1.0",
-    "article_relevance": "unknown",
-    "processing_status": "needs_review",
-    "source": {
-     "source_id": "33496fcf0a84855a5fb8a120",
-     "source_url": "https://www.yna.co.kr/view/AKR20261118007000079?input=1195m",
-     "source_revision": "803fca1dcdf7c4adcd01d505",
-     "published_at": "2026-11-18T03:43:59+09:00",
-     "updated_at": "2026-11-18T03:43:59+09:00",
-     "collected_at": "2026-11-18T09:23:14.258447+09:00"
-    },
-    "events": [],
-    "review_reasons": [
-     "UNSUPPORTED_EVENT_CONTEXT"
-    ]
-   }
-  },
-  {
-   "strikes": [
-    {
-     "article_relevance": "unrelated",
-     "transport_mode": "unknown",
-     "affected_regions": [],
-     "affected_routes": [],
-     "start": {
-      "raw": null,
-      "date": null,
-      "time": null,
-      "timezone": "Asia/Seoul",
-      "basis": "unknown",
-      "assertion": "unknown",
-      "open_ended": null
-     },
-     "end": {
-      "raw": null,
-      "date": null,
-      "time": null,
-      "timezone": "Asia/Seoul",
-      "basis": "unknown",
-      "assertion": "unknown",
-      "open_ended": null
-     },
-     "strike_status": {
-      "value": "unknown",
-      "conditions": [],
-      "scope_raw": null,
-      "effective_at": null
-     },
-     "service_status": [],
-     "normal_service_exceptions": [],
-     "alternative_services": [],
-     "evidence_and_timestamps": {
-      "source_url": "https://www.newsis.com/view/NISX20261117_0003871652",
-      "published_at": "2026-11-17T15:04:30+09:00",
-      "updated_at": null,
-      "collected_at": "2026-11-18T09:23:16.778626+09:00",
-      "field_evidence": [
-       {
-        "field_path": "/article_relevance",
-        "quote": "[서울=뉴시스] 최동준 기자 = 서울교통공사노동조합이 17일 서울 중구 세종대로에서 조합원 총회를 열고 구조조정 저지, 안전인력 충원, 온전한 임금인상 등을 촉구하고 있다. 2026.11.17. [email protected]",
-        "source_part": "body",
-        "effective_at": null,
-        "derivation": "explicit",
-        "source_id": "046c4001e6325ad1eb4c37c8",
-        "source_revision": "a19421a42aa2c51dc9b1796d",
-        "reference_source": null
-       },
-       {
-        "field_path": "/transport_mode",
-        "quote": "[서울=뉴시스] 최동준 기자 = 서울교통공사노동조합이 17일 서울 중구 세종대로에서 조합원 총회를 열고 구조조정 저지, 안전인력 충원, 온전한 임금인상 등을 촉구하고 있다. 2026.11.17. [email protected]",
-        "source_part": "body",
-        "effective_at": null,
-        "derivation": "explicit",
-        "source_id": "046c4001e6325ad1eb4c37c8",
-        "source_revision": "a19421a42aa2c51dc9b1796d",
-        "reference_source": null
-       },
-       {
-        "field_path": "/affected_regions",
-        "quote": "[서울=뉴시스] 최동준 기자 = 서울교통공사노동조합이 17일 서울 중구 세종대로에서 조합원 총회를 열고 구조조정 저지, 안전인력 충원, 온전한 임금인상 등을 촉구하고 있다. 2026.11.17. [email protected]",
-        "source_part": "body",
-        "effective_at": null,
-        "derivation": "explicit",
-        "source_id": "046c4001e6325ad1eb4c37c8",
-        "source_revision": "a19421a42aa2c51dc9b1796d",
-        "reference_source": null
-       },
-       {
-        "field_path": "/affected_routes",
-        "quote": "[서울=뉴시스] 최동준 기자 = 서울교통공사노동조합이 17일 서울 중구 세종대로에서 조합원 총회를 열고 구조조정 저지, 안전인력 충원, 온전한 임금인상 등을 촉구하고 있다. 2026.11.17. [email protected]",
-        "source_part": "body",
-        "effective_at": null,
-        "derivation": "explicit",
-        "source_id": "046c4001e6325ad1eb4c37c8",
-        "source_revision": "a19421a42aa2c51dc9b1796d",
-        "reference_source": null
-       },
-       {
-        "field_path": "/strike_status",
-        "quote": "[서울=뉴시스] 최동준 기자 = 서울교통공사노동조합이 17일 서울 중구 세종대로에서 조합원 총회를 열고 구조조정 저지, 안전인력 충원, 온전한 임금인상 등을 촉구하고 있다. 2026.11.17. [email protected]",
-        "source_part": "body",
-        "effective_at": null,
-        "derivation": "explicit",
-        "source_id": "046c4001e6325ad1eb4c37c8",
-        "source_revision": "a19421a42aa2c51dc9b1796d",
-        "reference_source": null
-       },
-       {
-        "field_path": "/service_status",
-        "quote": "[서울=뉴시스] 최동준 기자 = 서울교통공사노동조합이 17일 서울 중구 세종대로에서 조합원 총회를 열고 구조조정 저지, 안전인력 충원, 온전한 임금인상 등을 촉구하고 있다. 2026.11.17. [email protected]",
-        "source_part": "body",
-        "effective_at": null,
-        "derivation": "explicit",
-        "source_id": "046c4001e6325ad1eb4c37c8",
-        "source_revision": "a19421a42aa2c51dc9b1796d",
-        "reference_source": null
-       },
-       {
-        "field_path": "/normal_service_exceptions",
-        "quote": "[서울=뉴시스] 최동준 기자 = 서울교통공사노동조합이 17일 서울 중구 세종대로에서 조합원 총회를 열고 구조조정 저지, 안전인력 충원, 온전한 임금인상 등을 촉구하고 있다. 2026.11.17. [email protected]",
-        "source_part": "body",
-        "effective_at": null,
-        "derivation": "explicit",
-        "source_id": "046c4001e6325ad1eb4c37c8",
-        "source_revision": "a19421a42aa2c51dc9b1796d",
-        "reference_source": null
-       },
-       {
-        "field_path": "/alternative_services",
-        "quote": "[서울=뉴시스] 최동준 기자 = 서울교통공사노동조합이 17일 서울 중구 세종대로에서 조합원 총회를 열고 구조조정 저지, 안전인력 충원, 온전한 임금인상 등을 촉구하고 있다. 2026.11.17. [email protected]",
-        "source_part": "body",
-        "effective_at": null,
-        "derivation": "explicit",
-        "source_id": "046c4001e6325ad1eb4c37c8",
-        "source_revision": "a19421a42aa2c51dc9b1796d",
-        "reference_source": null
-       },
-       {
-        "field_path": "/start",
-        "quote": "[서울=뉴시스] 최동준 기자 = 서울교통공사노동조합이 17일 서울 중구 세종대로에서 조합원 총회를 열고 구조조정 저지, 안전인력 충원, 온전한 임금인상 등을 촉구하고 있다. 2026.11.17. [email protected]",
-        "source_part": "body",
-        "effective_at": null,
-        "derivation": "explicit",
-        "source_id": "046c4001e6325ad1eb4c37c8",
-        "source_revision": "a19421a42aa2c51dc9b1796d",
-        "reference_source": null
-       },
-       {
-        "field_path": "/end",
-        "quote": "[서울=뉴시스] 최동준 기자 = 서울교통공사노동조합이 17일 서울 중구 세종대로에서 조합원 총회를 열고 구조조정 저지, 안전인력 충원, 온전한 임금인상 등을 촉구하고 있다. 2026.11.17. [email protected]",
-        "source_part": "body",
-        "effective_at": null,
-        "derivation": "explicit",
-        "source_id": "046c4001e6325ad1eb4c37c8",
-        "source_revision": "a19421a42aa2c51dc9b1796d",
-        "reference_source": null
-       }
-      ],
-      "review_reasons": []
-     }
-    }
-   ],
-   "events": {
-    "schema_version": "1.0",
-    "article_relevance": "unrelated",
-    "processing_status": "success",
-    "source": {
-     "source_id": "046c4001e6325ad1eb4c37c8",
-     "source_url": "https://www.newsis.com/view/NISX20261117_0003871652",
-     "source_revision": "a19421a42aa2c51dc9b1796d",
-     "published_at": "2026-11-17T15:04:30+09:00",
-     "updated_at": null,
-     "collected_at": "2026-11-18T09:23:16.778626+09:00"
+     "collected_at": "2026-11-18T11:47:49.270082+09:00"
     },
     "events": [],
     "review_reasons": []
@@ -10009,7 +9984,7 @@
       "source_url": "https://www.imaeil.com/page/view/2026111417131297761",
       "published_at": null,
       "updated_at": null,
-      "collected_at": "2026-11-18T09:23:21.282828+09:00",
+      "collected_at": "2026-11-18T11:47:52.579403+09:00",
       "field_evidence": [
        {
         "field_path": "/article_relevance",
@@ -10353,7 +10328,7 @@
       "source_url": "https://www.imaeil.com/page/view/2026111417131297761",
       "published_at": null,
       "updated_at": null,
-      "collected_at": "2026-11-18T09:23:21.282828+09:00",
+      "collected_at": "2026-11-18T11:47:52.579403+09:00",
       "field_evidence": [
        {
         "field_path": "/article_relevance",
@@ -10473,7 +10448,7 @@
      "source_revision": "79344459f900a196bff2714a",
      "published_at": null,
      "updated_at": null,
-     "collected_at": "2026-11-18T09:23:21.282828+09:00"
+     "collected_at": "2026-11-18T11:47:52.579403+09:00"
     },
     "events": [],
     "review_reasons": []
@@ -10517,7 +10492,7 @@
       "source_url": "https://www.newspim.com/news/view/20261113001135",
       "published_at": "2026-11-14T07:00:00+09:00",
       "updated_at": "2026-11-14T09:07:00+09:00",
-      "collected_at": "2026-11-18T09:23:23.343076+09:00",
+      "collected_at": "2026-11-18T11:47:55.118960+09:00",
       "field_evidence": [
        {
         "field_path": "/article_relevance",
@@ -10634,7 +10609,7 @@
      "source_revision": "3452d940cd7d9991eaaed8e6",
      "published_at": "2026-11-14T07:00:00+09:00",
      "updated_at": "2026-11-14T09:07:00+09:00",
-     "collected_at": "2026-11-18T09:23:23.343076+09:00"
+     "collected_at": "2026-11-18T11:47:55.118960+09:00"
     },
     "events": [
      {
@@ -11063,11 +11038,11 @@
  "transportReferences": [],
  "extractionFailures": [
   {
-   "source_url": "https://www.fnnews.com/news/202611131042338454",
+   "source_url": "https://www.yna.co.kr/view/AKR20261118090900004?input=1195m",
    "status": "validation_failed"
   },
   {
-   "source_url": "https://www.yna.co.kr/view/AKR20261117078100004?input=1195m",
+   "source_url": "https://www.fnnews.com/news/202611131042338454",
    "status": "validation_failed"
   },
   {
