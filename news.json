@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-19T11:31:45.608639+09:00",
+ "generatedAt": "2026-11-19T14:29:03.510644+09:00",
  "windowDays": 14,
  "queries": [
   "버스 파업",
@@ -17,7 +17,7 @@
    "url": "https://www.ncloud.com/product/applicationService/naverApiHub"
   }
  ],
- "articles": 249,
+ "articles": 243,
  "searchResults": [
   {
    "url": "https://www.sportschosun.com/entertainment/2026-11-18/202611090100066970006286",
@@ -50,13 +50,13 @@
    "query": "버스 파업"
   },
   {
-   "url": "https://www.kihoilbo.co.kr/news/articleView.html?idxno=3041272",
-   "title": "[길 잃은 시내버스 공공관리제] 5-1. 막대한 재정 부담 떠안으면서 임금...",
+   "url": "https://www.kihoilbo.co.kr/news/articleView.html?idxno=3041276",
+   "title": "[길 잃은 시내버스 공공관리제] 5. 공공관리제로 예방 못 한 파업… 대비...",
    "query": "버스 파업"
   },
   {
-   "url": "https://www.kihoilbo.co.kr/news/articleView.html?idxno=3041276",
-   "title": "[길 잃은 시내버스 공공관리제] 5. 공공관리제로 예방 못 한 파업… 대비...",
+   "url": "https://www.kihoilbo.co.kr/news/articleView.html?idxno=3041272",
+   "title": "[길 잃은 시내버스 공공관리제] 5-1. 막대한 재정 부담 떠안으면서 임금...",
    "query": "버스 파업"
   },
   {
@@ -270,8 +270,23 @@
    "query": "버스 파업"
   },
   {
-   "url": "https://www.newsis.com/view/NISI20261119_0021538385",
-   "title": "서울 지하철·철도 3개 노조, 준법투쟁 예고",
+   "url": "https://www.yna.co.kr/view/PYH20261119149900013?input=1196m",
+   "title": "철도·지하철 3개 노조, 총파업 전 '안전운행 투쟁' 선포",
+   "query": "지하철 파업"
+  },
+  {
+   "url": "https://www.yna.co.kr/view/PYH20261119150000013?input=1196m",
+   "title": "철도·지하철 3개 노조, 총파업 전 '안전운행 투쟁' 선포",
+   "query": "지하철 파업"
+  },
+  {
+   "url": "https://www.yna.co.kr/view/PYH20261119149800013?input=1196m",
+   "title": "철도·지하철 3개 노조, 총파업 전 '안전운행 투쟁' 선포",
+   "query": "지하철 파업"
+  },
+  {
+   "url": "https://www.yna.co.kr/view/PYH20261119149600013?input=1196m",
+   "title": "철도·지하철 3개 노조, 총파업 전 '안전운행 투쟁' 선포",
    "query": "지하철 파업"
   },
   {
@@ -280,13 +295,18 @@
    "query": "지하철 파업"
   },
   {
+   "url": "https://www.newsis.com/view/NISI20261119_0021538389",
+   "title": "서울 지하철·철도 3개 노조, 총파업 전 준법투쟁 예고",
+   "query": "지하철 파업"
+  },
+  {
    "url": "https://www.newsis.com/view/NISI20261119_0021538391",
    "title": "서울 지하철·철도 3개 노조, 총파업 전 준법투쟁 예고",
    "query": "지하철 파업"
   },
   {
-   "url": "https://www.newsis.com/view/NISI20261119_0021538389",
-   "title": "서울 지하철·철도 3개 노조, 총파업 전 준법투쟁 예고",
+   "url": "https://www.newsis.com/view/NISI20261119_0021538385",
+   "title": "서울 지하철·철도 3개 노조, 준법투쟁 예고",
    "query": "지하철 파업"
   },
   {
@@ -400,13 +420,13 @@
    "query": "지하철 파업"
   },
   {
-   "url": "https://www.redaily.co.kr/news/articleView.html?idxno=18233",
-   "title": "철도·지하철 총파업 예고…GTX-A도 20일부터 준법운행",
+   "url": "https://www.mt.co.kr/policy/2026/11/18/2026111714211773968",
+   "title": "서울 지하철 노조 이달 25일 '무기한 총파업'…\"인력 감축 철회해야\"",
    "query": "지하철 파업"
   },
   {
-   "url": "https://www.mt.co.kr/policy/2026/11/18/2026111714211773968",
-   "title": "서울 지하철 노조 이달 25일 '무기한 총파업'…\"인력 감축 철회해야\"",
+   "url": "https://www.redaily.co.kr/news/articleView.html?idxno=18233",
+   "title": "철도·지하철 총파업 예고…GTX-A도 20일부터 준법운행",
    "query": "지하철 파업"
   },
   {
@@ -450,24 +470,14 @@
    "query": "지하철 파업"
   },
   {
-   "url": "https://www.slist.kr/news/articleView.html?idxno=782434",
-   "title": "서울 지하철 노조, 25일 무기한 파업 예고…\"인력감축 철회·임금 3.5% 인...",
-   "query": "지하철 파업"
+   "url": "https://www.ntoday.co.kr/news/articleView.html?idxno=130969",
+   "title": "코레일 김태승號, 통합 두 달만 '총파업' 암초…재무·안전 '첩첩산중'",
+   "query": "철도 파업"
   },
   {
-   "url": "https://www.yna.co.kr/view/AKR20261117078100004?input=1195m",
-   "title": "'25일 서울 지하철 총파업' 예고한 노조 \"인력감축 철회·임금 인상\"",
-   "query": "지하철 파업"
-  },
-  {
-   "url": "https://www.joongang.co.kr/article/25479168",
-   "title": "체코, 다시 벨벳혁명",
-   "query": "지하철 파업"
-  },
-  {
-   "url": "https://www.kgnews.co.kr/news/article.html?no=919796",
-   "title": "모회사 70억 배당받는 동안…GTX-A 현장은 '저임금·장시간 노동'",
-   "query": "지하철 파업"
+   "url": "https://newscham.net/130195/",
+   "title": "[인터뷰] 프랑스의 ‘뜨거운 가을’, 좌파에 힘을 싣다",
+   "query": "철도 파업"
   },
   {
    "url": "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003286020&CMPT_CD=P0010&utm_source=naver&utm_medium=newsearch&utm_campaign=naver_news",
@@ -530,28 +540,18 @@
    "query": "철도 파업"
   },
   {
-   "url": "https://www.laborplus.co.kr/news/articleView.html?idxno=41820",
-   "title": "지티엑스에이운영지부 \"임금 체계 개선 합의점 못 찾아\"",
-   "query": "철도 파업"
-  },
-  {
-   "url": "https://www.eroun.net/news/articleView.html?idxno=95618",
-   "title": "복직 없이 정년 맞은 '25년 해고자'… 이호동 전 발전노조 위원장, 전태...",
-   "query": "철도 파업"
-  },
-  {
-   "url": "https://www.ksg.co.kr/news/main_newsView.jsp?pNum=148502",
-   "title": "유럽·북미 항만 노사 갈등 표면화…물류 차질 우려",
-   "query": "철도 파업"
-  },
-  {
-   "url": "https://www.ilyosisa.co.kr/news/article.html?no=258892",
-   "title": "<김삼기의 시사펀치> 검찰공화국 비판하다 특검공화국으로 가나",
-   "query": "철도 파업"
-  },
-  {
    "url": "https://www.etoday.co.kr/news/view/2649239",
    "title": "\"안전 인력 충원하라\"⋯서울교통공사노조, 20일 준법투쟁·25일 총파업 ...",
+   "query": "파업 예고 운행"
+  },
+  {
+   "url": "https://www.slist.kr/news/articleView.html?idxno=782434",
+   "title": "서울 지하철 노조, 25일 무기한 파업 예고…\"인력감축 철회·임금 3.5% 인...",
+   "query": "파업 예고 운행"
+  },
+  {
+   "url": "https://www.kgnews.co.kr/news/article.html?no=919796",
+   "title": "모회사 70억 배당받는 동안…GTX-A 현장은 '저임금·장시간 노동'",
    "query": "파업 예고 운행"
   },
   {
@@ -615,11 +615,6 @@
    "query": "파업 예고 운행"
   },
   {
-   "url": "https://www.ajunews.com/view/20261114154431208",
-   "title": "철도노조, 내달 10일 총파업 재차예고…고속철 통합 후 첫 교통대란 우...",
-   "query": "파업 예고 운행"
-  },
-  {
    "url": "https://newscham.net/130189/",
    "title": "추경호는 무죄, 표결에 없던 90명은 재판 밖에",
    "query": "집회 교통 통제"
@@ -667,6 +662,11 @@
   {
    "url": "https://www.kbmaeil.com/article/20261114500197",
    "title": "철도노조 “12월 10일 총파업”…안전인력·승진제도 개선 요구",
+   "query": "집회 교통 통제"
+  },
+  {
+   "url": "https://www.ajunews.com/view/20261114154431208",
+   "title": "철도노조, 내달 10일 총파업 재차예고…고속철 통합 후 첫 교통대란 우...",
    "query": "집회 교통 통제"
   },
   {
@@ -1233,41 +1233,46 @@
    "url": "https://www.getnews.co.kr/news/articleView.html?idxno=886127",
    "title": "정순택 대주교, \"단절의 시대에 필요한 것은 만남의 용기\"…2027 서울 세...",
    "query": "축제 버스 우회"
-  },
-  {
-   "url": "https://www.sidae.com/article/2026110512423634618",
-   "title": "교황·세계 청년 100만명 서울로…WYD 준비 본격화, K컬처 확산 기대",
-   "query": "축제 버스 우회"
-  },
-  {
-   "url": "https://www.public25.com/news/articleView.html?idxno=57932",
-   "title": "내년 서울 세계청년대회 최대 100만명 몰린다",
-   "query": "축제 버스 우회"
-  },
-  {
-   "url": "https://www.nc.press/news/articleView.html?idxno=630285",
-   "title": "[종교N이슈] 교황 방한, 최대 100만 명 운집...'2027 서울 세계청년대회...",
-   "query": "축제 버스 우회"
-  },
-  {
-   "url": "https://www.econovill.com/news/articleView.html?idxno=756127",
-   "title": "2027 서울 세계청년대회 운영계획 발표…교황 미사에 최대 100만명",
-   "query": "축제 버스 우회"
-  },
-  {
-   "url": "https://www.catholictimes.org/article/20261105500027",
-   "title": "2027 서울 WYD 폐막미사, 8월 8일 서울공항에서 봉헌",
-   "query": "축제 버스 우회"
-  },
-  {
-   "url": "https://news.cpbc.co.kr/article/1176845?division=NAVER",
-   "title": "서울 WYD, 월드컵경기장서 교황 맞는다…밤샘기도는 서울공항",
-   "query": "축제 버스 우회"
   }
  ],
  "strikes": [
   {
-   "id": "0a3e668fe3cb4cd5",
+   "id": "e59bb8acf93a87ce",
+   "mode": "rail",
+   "operator": "코레일",
+   "regions": [
+    "전국"
+   ],
+   "status": "preparing",
+   "quote": "노조의 총파업 예고",
+   "start": "2026-11-23",
+   "dateQuote": "오는 23일",
+   "articleTitle": "코레일 김태승號, 통합 두 달만 '총파업' 암초…재무·안전 '첩첩산중'",
+   "url": "https://www.ntoday.co.kr/news/articleView.html?idxno=130969",
+   "publishedAt": "2026-11-19T14:00:00.000",
+   "sourceCount": 2,
+   "model": "gemini-3.1-flash-lite"
+  },
+  {
+   "id": "0eadce69c8ba60d7",
+   "mode": "subway",
+   "operator": "서울 지하철, GTX-A",
+   "regions": [
+    "서울",
+    "수도권"
+   ],
+   "status": "preparing",
+   "quote": "20일부터 준법투쟁의 일환으로 작업수칙과 운행규칙을 빠짐없이 지키는 '안전운행 투쟁'에 나선다",
+   "start": "2026-11-20",
+   "dateQuote": "20일부터",
+   "articleTitle": "철도·지하철 3개 노조, 총파업 전 '안전운행 투쟁' 선포",
+   "url": "https://www.yna.co.kr/view/PYH20261119149900013?input=1196m",
+   "publishedAt": "2026-11-19T13:59:00.000",
+   "sourceCount": 4,
+   "model": "gemini-3.1-flash-lite"
+  },
+  {
+   "id": "1640b80acfcd6bf0",
    "mode": "subway",
    "operator": "서울 지하철",
    "regions": [
@@ -1278,7 +1283,7 @@
    "start": "2026-11-25",
    "dateQuote": "25일 주간 근무부터",
    "articleTitle": "서울 지하철·철도 3개 노조, 총파업 전 준법투쟁 예고",
-   "url": "https://www.newsis.com/view/NISI20261119_0021538389",
+   "url": "https://www.newsis.com/view/NISI20261119_0021538391",
    "publishedAt": "2026-11-19T10:08:00.000",
    "sourceCount": 7,
    "model": "gemini-3.5-flash-lite"
@@ -1401,25 +1406,8 @@
    "articleTitle": "결의대회 연 서울교통공사노조, 파업 전운 고조",
    "url": "https://www.labortoday.co.kr/news/articleView.html?idxno=237796",
    "publishedAt": "2026-11-18T06:34:00.000",
-   "sourceCount": 27,
+   "sourceCount": 26,
    "model": "gemini-3.5-flash-lite"
-  },
-  {
-   "id": "74628230ef89a526",
-   "mode": "rail",
-   "operator": "코레일",
-   "regions": [
-    "전국"
-   ],
-   "status": "scheduled",
-   "quote": "오는 23일 준법투쟁(안전운행 투쟁)을 예고한 가운데",
-   "start": "2026-11-23",
-   "dateQuote": "오는 23일",
-   "articleTitle": "안전·노무·재무 '삼중고'···코레일, '통합 원년' 연착륙 총력전",
-   "url": "https://www.newsfreezone.co.kr/news/articleView.html?idxno=719706",
-   "publishedAt": "2026-11-17T13:44:00.000",
-   "sourceCount": 1,
-   "model": "gemini-3.1-flash-lite"
   },
   {
    "id": "552a3889fd19d64f",
@@ -7490,7 +7478,327 @@
   },
   {
    "assertion": "planned",
-   "checked_at": "2026-11-19T11:31:21.483213+09:00",
+   "checked_at": "2026-11-19T11:31:24.590863+09:00",
+   "conflict": false,
+   "demo": false,
+   "disruption_confirmed": false,
+   "event_id": "aa41dab63f8304ea52251019",
+   "event_name": "파업 사건",
+   "evidence": [
+    {
+     "derivation": "explicit",
+     "effective_at": null,
+     "field_path": "/article_relevance",
+     "quote": "3개 노조는 안전운행 투쟁에도 정부와 서울시가 응답하지 않을 경우 예정대로 무기한 총파업에 나선다는 방침이다.",
+     "reference_source": null,
+     "source_id": "469e334bc3e58840df3a8c15",
+     "source_part": "body",
+     "source_revision": "51a9f95d29ce956135c829a9"
+    },
+    {
+     "derivation": "explicit",
+     "effective_at": null,
+     "field_path": "/transport_mode",
+     "quote": "3개 노조는 안전운행 투쟁에도 정부와 서울시가 응답하지 않을 경우 예정대로 무기한 총파업에 나선다는 방침이다.",
+     "reference_source": null,
+     "source_id": "469e334bc3e58840df3a8c15",
+     "source_part": "body",
+     "source_revision": "51a9f95d29ce956135c829a9"
+    },
+    {
+     "derivation": "explicit",
+     "effective_at": null,
+     "field_path": "/affected_regions",
+     "quote": "3개 노조는 안전운행 투쟁에도 정부와 서울시가 응답하지 않을 경우 예정대로 무기한 총파업에 나선다는 방침이다.",
+     "reference_source": null,
+     "source_id": "469e334bc3e58840df3a8c15",
+     "source_part": "body",
+     "source_revision": "51a9f95d29ce956135c829a9"
+    },
+    {
+     "derivation": "explicit",
+     "effective_at": null,
+     "field_path": "/affected_routes",
+     "quote": "3개 노조는 안전운행 투쟁에도 정부와 서울시가 응답하지 않을 경우 예정대로 무기한 총파업에 나선다는 방침이다.",
+     "reference_source": null,
+     "source_id": "469e334bc3e58840df3a8c15",
+     "source_part": "body",
+     "source_revision": "51a9f95d29ce956135c829a9"
+    },
+    {
+     "derivation": "explicit",
+     "effective_at": null,
+     "field_path": "/strike_status",
+     "quote": "3개 노조는 안전운행 투쟁에도 정부와 서울시가 응답하지 않을 경우 예정대로 무기한 총파업에 나선다는 방침이다.",
+     "reference_source": null,
+     "source_id": "469e334bc3e58840df3a8c15",
+     "source_part": "body",
+     "source_revision": "51a9f95d29ce956135c829a9"
+    },
+    {
+     "derivation": "explicit",
+     "effective_at": null,
+     "field_path": "/service_status",
+     "quote": "3개 노조는 안전운행 투쟁에도 정부와 서울시가 응답하지 않을 경우 예정대로 무기한 총파업에 나선다는 방침이다.",
+     "reference_source": null,
+     "source_id": "469e334bc3e58840df3a8c15",
+     "source_part": "body",
+     "source_revision": "51a9f95d29ce956135c829a9"
+    },
+    {
+     "derivation": "explicit",
+     "effective_at": null,
+     "field_path": "/normal_service_exceptions",
+     "quote": "3개 노조는 안전운행 투쟁에도 정부와 서울시가 응답하지 않을 경우 예정대로 무기한 총파업에 나선다는 방침이다.",
+     "reference_source": null,
+     "source_id": "469e334bc3e58840df3a8c15",
+     "source_part": "body",
+     "source_revision": "51a9f95d29ce956135c829a9"
+    },
+    {
+     "derivation": "explicit",
+     "effective_at": null,
+     "field_path": "/alternative_services",
+     "quote": "3개 노조는 안전운행 투쟁에도 정부와 서울시가 응답하지 않을 경우 예정대로 무기한 총파업에 나선다는 방침이다.",
+     "reference_source": null,
+     "source_id": "469e334bc3e58840df3a8c15",
+     "source_part": "body",
+     "source_revision": "51a9f95d29ce956135c829a9"
+    },
+    {
+     "derivation": "explicit",
+     "effective_at": null,
+     "field_path": "/start",
+     "quote": "3개 노조는 안전운행 투쟁에도 정부와 서울시가 응답하지 않을 경우 예정대로 무기한 총파업에 나선다는 방침이다.",
+     "reference_source": null,
+     "source_id": "469e334bc3e58840df3a8c15",
+     "source_part": "body",
+     "source_revision": "51a9f95d29ce956135c829a9"
+    },
+    {
+     "derivation": "explicit",
+     "effective_at": null,
+     "field_path": "/end",
+     "quote": "3개 노조는 안전운행 투쟁에도 정부와 서울시가 응답하지 않을 경우 예정대로 무기한 총파업에 나선다는 방침이다.",
+     "reference_source": null,
+     "source_id": "469e334bc3e58840df3a8c15",
+     "source_part": "body",
+     "source_revision": "51a9f95d29ce956135c829a9"
+    }
+   ],
+   "exceptions": [],
+   "id": "3547ebbc49c019e8c1ed012e",
+   "modes": [],
+   "period": {
+    "condition": null,
+    "end": {
+     "assertion": "unknown",
+     "basis": "unknown",
+     "date": null,
+     "open_ended": true,
+     "raw": "무기한",
+     "time": null,
+     "timezone": "Asia/Seoul"
+    },
+    "precision": "PARTIAL",
+    "start": {
+     "assertion": "unknown",
+     "basis": "unknown",
+     "date": null,
+     "open_ended": null,
+     "raw": null,
+     "time": null,
+     "timezone": "Asia/Seoul"
+    }
+   },
+   "published_at": "2026-11-19T10:08:04+09:00",
+   "review_reasons": [
+    "UNSUPPORTED_OR_AMBIGUOUS_STATUS",
+    "DATE_UNCONFIRMED"
+   ],
+   "scope": [
+    {
+     "derivation": "article_explicit",
+     "normalized_name": "나선",
+     "raw": "나선",
+     "reference_id": null,
+     "reference_source": null,
+     "region": null
+    }
+   ],
+   "service_status": [],
+   "source_url": "https://www.newsis.com/view/NISI20261119_0021538385",
+   "status": "UNKNOWN",
+   "status_effective_at": null,
+   "strike_status": "unknown",
+   "type": "STRIKE",
+   "updated_at": null,
+   "version": 1,
+   "body_verified": true
+  },
+  {
+   "assertion": "planned",
+   "checked_at": "2026-11-19T11:31:37.986575+09:00",
+   "conflict": false,
+   "demo": false,
+   "disruption_confirmed": false,
+   "event_id": "cbf842c7c1bb010725e2fe7e",
+   "event_name": "파업 사건",
+   "evidence": [
+    {
+     "derivation": "explicit",
+     "effective_at": null,
+     "field_path": "/article_relevance",
+     "quote": "3개 노조는 안전운행 투쟁에도 정부와 서울시가 응답하지 않을 경우 예정대로 무기한 총파업에 나선다는 방침이다.",
+     "reference_source": null,
+     "source_id": "718e6c9730ff2a9a834eef7e",
+     "source_part": "body",
+     "source_revision": "e825240ed82ec9978265f2ea"
+    },
+    {
+     "derivation": "explicit",
+     "effective_at": null,
+     "field_path": "/transport_mode",
+     "quote": "3개 노조는 안전운행 투쟁에도 정부와 서울시가 응답하지 않을 경우 예정대로 무기한 총파업에 나선다는 방침이다.",
+     "reference_source": null,
+     "source_id": "718e6c9730ff2a9a834eef7e",
+     "source_part": "body",
+     "source_revision": "e825240ed82ec9978265f2ea"
+    },
+    {
+     "derivation": "explicit",
+     "effective_at": null,
+     "field_path": "/affected_regions",
+     "quote": "3개 노조는 안전운행 투쟁에도 정부와 서울시가 응답하지 않을 경우 예정대로 무기한 총파업에 나선다는 방침이다.",
+     "reference_source": null,
+     "source_id": "718e6c9730ff2a9a834eef7e",
+     "source_part": "body",
+     "source_revision": "e825240ed82ec9978265f2ea"
+    },
+    {
+     "derivation": "explicit",
+     "effective_at": null,
+     "field_path": "/affected_routes",
+     "quote": "3개 노조는 안전운행 투쟁에도 정부와 서울시가 응답하지 않을 경우 예정대로 무기한 총파업에 나선다는 방침이다.",
+     "reference_source": null,
+     "source_id": "718e6c9730ff2a9a834eef7e",
+     "source_part": "body",
+     "source_revision": "e825240ed82ec9978265f2ea"
+    },
+    {
+     "derivation": "explicit",
+     "effective_at": null,
+     "field_path": "/strike_status",
+     "quote": "3개 노조는 안전운행 투쟁에도 정부와 서울시가 응답하지 않을 경우 예정대로 무기한 총파업에 나선다는 방침이다.",
+     "reference_source": null,
+     "source_id": "718e6c9730ff2a9a834eef7e",
+     "source_part": "body",
+     "source_revision": "e825240ed82ec9978265f2ea"
+    },
+    {
+     "derivation": "explicit",
+     "effective_at": null,
+     "field_path": "/service_status",
+     "quote": "3개 노조는 안전운행 투쟁에도 정부와 서울시가 응답하지 않을 경우 예정대로 무기한 총파업에 나선다는 방침이다.",
+     "reference_source": null,
+     "source_id": "718e6c9730ff2a9a834eef7e",
+     "source_part": "body",
+     "source_revision": "e825240ed82ec9978265f2ea"
+    },
+    {
+     "derivation": "explicit",
+     "effective_at": null,
+     "field_path": "/normal_service_exceptions",
+     "quote": "3개 노조는 안전운행 투쟁에도 정부와 서울시가 응답하지 않을 경우 예정대로 무기한 총파업에 나선다는 방침이다.",
+     "reference_source": null,
+     "source_id": "718e6c9730ff2a9a834eef7e",
+     "source_part": "body",
+     "source_revision": "e825240ed82ec9978265f2ea"
+    },
+    {
+     "derivation": "explicit",
+     "effective_at": null,
+     "field_path": "/alternative_services",
+     "quote": "3개 노조는 안전운행 투쟁에도 정부와 서울시가 응답하지 않을 경우 예정대로 무기한 총파업에 나선다는 방침이다.",
+     "reference_source": null,
+     "source_id": "718e6c9730ff2a9a834eef7e",
+     "source_part": "body",
+     "source_revision": "e825240ed82ec9978265f2ea"
+    },
+    {
+     "derivation": "explicit",
+     "effective_at": null,
+     "field_path": "/start",
+     "quote": "3개 노조는 안전운행 투쟁에도 정부와 서울시가 응답하지 않을 경우 예정대로 무기한 총파업에 나선다는 방침이다.",
+     "reference_source": null,
+     "source_id": "718e6c9730ff2a9a834eef7e",
+     "source_part": "body",
+     "source_revision": "e825240ed82ec9978265f2ea"
+    },
+    {
+     "derivation": "explicit",
+     "effective_at": null,
+     "field_path": "/end",
+     "quote": "3개 노조는 안전운행 투쟁에도 정부와 서울시가 응답하지 않을 경우 예정대로 무기한 총파업에 나선다는 방침이다.",
+     "reference_source": null,
+     "source_id": "718e6c9730ff2a9a834eef7e",
+     "source_part": "body",
+     "source_revision": "e825240ed82ec9978265f2ea"
+    }
+   ],
+   "exceptions": [],
+   "id": "ed03069dcbb137579a752020",
+   "modes": [],
+   "period": {
+    "condition": null,
+    "end": {
+     "assertion": "unknown",
+     "basis": "unknown",
+     "date": null,
+     "open_ended": true,
+     "raw": "무기한",
+     "time": null,
+     "timezone": "Asia/Seoul"
+    },
+    "precision": "PARTIAL",
+    "start": {
+     "assertion": "unknown",
+     "basis": "unknown",
+     "date": null,
+     "open_ended": null,
+     "raw": null,
+     "time": null,
+     "timezone": "Asia/Seoul"
+    }
+   },
+   "published_at": "2026-11-19T10:08:04+09:00",
+   "review_reasons": [
+    "UNSUPPORTED_OR_AMBIGUOUS_STATUS",
+    "DATE_UNCONFIRMED"
+   ],
+   "scope": [
+    {
+     "derivation": "article_explicit",
+     "normalized_name": "나선",
+     "raw": "나선",
+     "reference_id": null,
+     "reference_source": null,
+     "region": null
+    }
+   ],
+   "service_status": [],
+   "source_url": "https://www.newsis.com/view/NISI20261119_0021538388",
+   "status": "UNKNOWN",
+   "status_effective_at": null,
+   "strike_status": "unknown",
+   "type": "STRIKE",
+   "updated_at": null,
+   "version": 1,
+   "body_verified": true
+  },
+  {
+   "assertion": "planned",
+   "checked_at": "2026-11-19T14:28:21.387221+09:00",
    "conflict": false,
    "demo": false,
    "disruption_confirmed": true,
@@ -7706,7 +8014,7 @@
   },
   {
    "assertion": "planned",
-   "checked_at": "2026-11-19T11:31:21.483213+09:00",
+   "checked_at": "2026-11-19T14:28:21.387221+09:00",
    "conflict": false,
    "demo": false,
    "disruption_confirmed": true,
@@ -8087,167 +8395,7 @@
   },
   {
    "assertion": "planned",
-   "checked_at": "2026-11-19T11:31:24.590863+09:00",
-   "conflict": false,
-   "demo": false,
-   "disruption_confirmed": false,
-   "event_id": "aa41dab63f8304ea52251019",
-   "event_name": "파업 사건",
-   "evidence": [
-    {
-     "derivation": "explicit",
-     "effective_at": null,
-     "field_path": "/article_relevance",
-     "quote": "3개 노조는 안전운행 투쟁에도 정부와 서울시가 응답하지 않을 경우 예정대로 무기한 총파업에 나선다는 방침이다.",
-     "reference_source": null,
-     "source_id": "469e334bc3e58840df3a8c15",
-     "source_part": "body",
-     "source_revision": "51a9f95d29ce956135c829a9"
-    },
-    {
-     "derivation": "explicit",
-     "effective_at": null,
-     "field_path": "/transport_mode",
-     "quote": "3개 노조는 안전운행 투쟁에도 정부와 서울시가 응답하지 않을 경우 예정대로 무기한 총파업에 나선다는 방침이다.",
-     "reference_source": null,
-     "source_id": "469e334bc3e58840df3a8c15",
-     "source_part": "body",
-     "source_revision": "51a9f95d29ce956135c829a9"
-    },
-    {
-     "derivation": "explicit",
-     "effective_at": null,
-     "field_path": "/affected_regions",
-     "quote": "3개 노조는 안전운행 투쟁에도 정부와 서울시가 응답하지 않을 경우 예정대로 무기한 총파업에 나선다는 방침이다.",
-     "reference_source": null,
-     "source_id": "469e334bc3e58840df3a8c15",
-     "source_part": "body",
-     "source_revision": "51a9f95d29ce956135c829a9"
-    },
-    {
-     "derivation": "explicit",
-     "effective_at": null,
-     "field_path": "/affected_routes",
-     "quote": "3개 노조는 안전운행 투쟁에도 정부와 서울시가 응답하지 않을 경우 예정대로 무기한 총파업에 나선다는 방침이다.",
-     "reference_source": null,
-     "source_id": "469e334bc3e58840df3a8c15",
-     "source_part": "body",
-     "source_revision": "51a9f95d29ce956135c829a9"
-    },
-    {
-     "derivation": "explicit",
-     "effective_at": null,
-     "field_path": "/strike_status",
-     "quote": "3개 노조는 안전운행 투쟁에도 정부와 서울시가 응답하지 않을 경우 예정대로 무기한 총파업에 나선다는 방침이다.",
-     "reference_source": null,
-     "source_id": "469e334bc3e58840df3a8c15",
-     "source_part": "body",
-     "source_revision": "51a9f95d29ce956135c829a9"
-    },
-    {
-     "derivation": "explicit",
-     "effective_at": null,
-     "field_path": "/service_status",
-     "quote": "3개 노조는 안전운행 투쟁에도 정부와 서울시가 응답하지 않을 경우 예정대로 무기한 총파업에 나선다는 방침이다.",
-     "reference_source": null,
-     "source_id": "469e334bc3e58840df3a8c15",
-     "source_part": "body",
-     "source_revision": "51a9f95d29ce956135c829a9"
-    },
-    {
-     "derivation": "explicit",
-     "effective_at": null,
-     "field_path": "/normal_service_exceptions",
-     "quote": "3개 노조는 안전운행 투쟁에도 정부와 서울시가 응답하지 않을 경우 예정대로 무기한 총파업에 나선다는 방침이다.",
-     "reference_source": null,
-     "source_id": "469e334bc3e58840df3a8c15",
-     "source_part": "body",
-     "source_revision": "51a9f95d29ce956135c829a9"
-    },
-    {
-     "derivation": "explicit",
-     "effective_at": null,
-     "field_path": "/alternative_services",
-     "quote": "3개 노조는 안전운행 투쟁에도 정부와 서울시가 응답하지 않을 경우 예정대로 무기한 총파업에 나선다는 방침이다.",
-     "reference_source": null,
-     "source_id": "469e334bc3e58840df3a8c15",
-     "source_part": "body",
-     "source_revision": "51a9f95d29ce956135c829a9"
-    },
-    {
-     "derivation": "explicit",
-     "effective_at": null,
-     "field_path": "/start",
-     "quote": "3개 노조는 안전운행 투쟁에도 정부와 서울시가 응답하지 않을 경우 예정대로 무기한 총파업에 나선다는 방침이다.",
-     "reference_source": null,
-     "source_id": "469e334bc3e58840df3a8c15",
-     "source_part": "body",
-     "source_revision": "51a9f95d29ce956135c829a9"
-    },
-    {
-     "derivation": "explicit",
-     "effective_at": null,
-     "field_path": "/end",
-     "quote": "3개 노조는 안전운행 투쟁에도 정부와 서울시가 응답하지 않을 경우 예정대로 무기한 총파업에 나선다는 방침이다.",
-     "reference_source": null,
-     "source_id": "469e334bc3e58840df3a8c15",
-     "source_part": "body",
-     "source_revision": "51a9f95d29ce956135c829a9"
-    }
-   ],
-   "exceptions": [],
-   "id": "3547ebbc49c019e8c1ed012e",
-   "modes": [],
-   "period": {
-    "condition": null,
-    "end": {
-     "assertion": "unknown",
-     "basis": "unknown",
-     "date": null,
-     "open_ended": true,
-     "raw": "무기한",
-     "time": null,
-     "timezone": "Asia/Seoul"
-    },
-    "precision": "PARTIAL",
-    "start": {
-     "assertion": "unknown",
-     "basis": "unknown",
-     "date": null,
-     "open_ended": null,
-     "raw": null,
-     "time": null,
-     "timezone": "Asia/Seoul"
-    }
-   },
-   "published_at": "2026-11-19T10:08:04+09:00",
-   "review_reasons": [
-    "UNSUPPORTED_OR_AMBIGUOUS_STATUS",
-    "DATE_UNCONFIRMED"
-   ],
-   "scope": [
-    {
-     "derivation": "article_explicit",
-     "normalized_name": "나선",
-     "raw": "나선",
-     "reference_id": null,
-     "reference_source": null,
-     "region": null
-    }
-   ],
-   "service_status": [],
-   "source_url": "https://www.newsis.com/view/NISI20261119_0021538385",
-   "status": "UNKNOWN",
-   "status_effective_at": null,
-   "strike_status": "unknown",
-   "type": "STRIKE",
-   "updated_at": null,
-   "version": 1,
-   "body_verified": true
-  },
-  {
-   "assertion": "planned",
-   "checked_at": "2026-11-19T11:31:25.962731+09:00",
+   "checked_at": "2026-11-19T14:28:30.242113+09:00",
    "conflict": false,
    "demo": false,
    "disruption_confirmed": false,
@@ -8412,167 +8560,7 @@
   },
   {
    "assertion": "planned",
-   "checked_at": "2026-11-19T11:31:37.986575+09:00",
-   "conflict": false,
-   "demo": false,
-   "disruption_confirmed": false,
-   "event_id": "cbf842c7c1bb010725e2fe7e",
-   "event_name": "파업 사건",
-   "evidence": [
-    {
-     "derivation": "explicit",
-     "effective_at": null,
-     "field_path": "/article_relevance",
-     "quote": "3개 노조는 안전운행 투쟁에도 정부와 서울시가 응답하지 않을 경우 예정대로 무기한 총파업에 나선다는 방침이다.",
-     "reference_source": null,
-     "source_id": "718e6c9730ff2a9a834eef7e",
-     "source_part": "body",
-     "source_revision": "e825240ed82ec9978265f2ea"
-    },
-    {
-     "derivation": "explicit",
-     "effective_at": null,
-     "field_path": "/transport_mode",
-     "quote": "3개 노조는 안전운행 투쟁에도 정부와 서울시가 응답하지 않을 경우 예정대로 무기한 총파업에 나선다는 방침이다.",
-     "reference_source": null,
-     "source_id": "718e6c9730ff2a9a834eef7e",
-     "source_part": "body",
-     "source_revision": "e825240ed82ec9978265f2ea"
-    },
-    {
-     "derivation": "explicit",
-     "effective_at": null,
-     "field_path": "/affected_regions",
-     "quote": "3개 노조는 안전운행 투쟁에도 정부와 서울시가 응답하지 않을 경우 예정대로 무기한 총파업에 나선다는 방침이다.",
-     "reference_source": null,
-     "source_id": "718e6c9730ff2a9a834eef7e",
-     "source_part": "body",
-     "source_revision": "e825240ed82ec9978265f2ea"
-    },
-    {
-     "derivation": "explicit",
-     "effective_at": null,
-     "field_path": "/affected_routes",
-     "quote": "3개 노조는 안전운행 투쟁에도 정부와 서울시가 응답하지 않을 경우 예정대로 무기한 총파업에 나선다는 방침이다.",
-     "reference_source": null,
-     "source_id": "718e6c9730ff2a9a834eef7e",
-     "source_part": "body",
-     "source_revision": "e825240ed82ec9978265f2ea"
-    },
-    {
-     "derivation": "explicit",
-     "effective_at": null,
-     "field_path": "/strike_status",
-     "quote": "3개 노조는 안전운행 투쟁에도 정부와 서울시가 응답하지 않을 경우 예정대로 무기한 총파업에 나선다는 방침이다.",
-     "reference_source": null,
-     "source_id": "718e6c9730ff2a9a834eef7e",
-     "source_part": "body",
-     "source_revision": "e825240ed82ec9978265f2ea"
-    },
-    {
-     "derivation": "explicit",
-     "effective_at": null,
-     "field_path": "/service_status",
-     "quote": "3개 노조는 안전운행 투쟁에도 정부와 서울시가 응답하지 않을 경우 예정대로 무기한 총파업에 나선다는 방침이다.",
-     "reference_source": null,
-     "source_id": "718e6c9730ff2a9a834eef7e",
-     "source_part": "body",
-     "source_revision": "e825240ed82ec9978265f2ea"
-    },
-    {
-     "derivation": "explicit",
-     "effective_at": null,
-     "field_path": "/normal_service_exceptions",
-     "quote": "3개 노조는 안전운행 투쟁에도 정부와 서울시가 응답하지 않을 경우 예정대로 무기한 총파업에 나선다는 방침이다.",
-     "reference_source": null,
-     "source_id": "718e6c9730ff2a9a834eef7e",
-     "source_part": "body",
-     "source_revision": "e825240ed82ec9978265f2ea"
-    },
-    {
-     "derivation": "explicit",
-     "effective_at": null,
-     "field_path": "/alternative_services",
-     "quote": "3개 노조는 안전운행 투쟁에도 정부와 서울시가 응답하지 않을 경우 예정대로 무기한 총파업에 나선다는 방침이다.",
-     "reference_source": null,
-     "source_id": "718e6c9730ff2a9a834eef7e",
-     "source_part": "body",
-     "source_revision": "e825240ed82ec9978265f2ea"
-    },
-    {
-     "derivation": "explicit",
-     "effective_at": null,
-     "field_path": "/start",
-     "quote": "3개 노조는 안전운행 투쟁에도 정부와 서울시가 응답하지 않을 경우 예정대로 무기한 총파업에 나선다는 방침이다.",
-     "reference_source": null,
-     "source_id": "718e6c9730ff2a9a834eef7e",
-     "source_part": "body",
-     "source_revision": "e825240ed82ec9978265f2ea"
-    },
-    {
-     "derivation": "explicit",
-     "effective_at": null,
-     "field_path": "/end",
-     "quote": "3개 노조는 안전운행 투쟁에도 정부와 서울시가 응답하지 않을 경우 예정대로 무기한 총파업에 나선다는 방침이다.",
-     "reference_source": null,
-     "source_id": "718e6c9730ff2a9a834eef7e",
-     "source_part": "body",
-     "source_revision": "e825240ed82ec9978265f2ea"
-    }
-   ],
-   "exceptions": [],
-   "id": "ed03069dcbb137579a752020",
-   "modes": [],
-   "period": {
-    "condition": null,
-    "end": {
-     "assertion": "unknown",
-     "basis": "unknown",
-     "date": null,
-     "open_ended": true,
-     "raw": "무기한",
-     "time": null,
-     "timezone": "Asia/Seoul"
-    },
-    "precision": "PARTIAL",
-    "start": {
-     "assertion": "unknown",
-     "basis": "unknown",
-     "date": null,
-     "open_ended": null,
-     "raw": null,
-     "time": null,
-     "timezone": "Asia/Seoul"
-    }
-   },
-   "published_at": "2026-11-19T10:08:04+09:00",
-   "review_reasons": [
-    "UNSUPPORTED_OR_AMBIGUOUS_STATUS",
-    "DATE_UNCONFIRMED"
-   ],
-   "scope": [
-    {
-     "derivation": "article_explicit",
-     "normalized_name": "나선",
-     "raw": "나선",
-     "reference_id": null,
-     "reference_source": null,
-     "region": null
-    }
-   ],
-   "service_status": [],
-   "source_url": "https://www.newsis.com/view/NISI20261119_0021538388",
-   "status": "UNKNOWN",
-   "status_effective_at": null,
-   "strike_status": "unknown",
-   "type": "STRIKE",
-   "updated_at": null,
-   "version": 1,
-   "body_verified": true
-  },
-  {
-   "assertion": "planned",
-   "checked_at": "2026-11-19T11:31:43.991285+09:00",
+   "checked_at": "2026-11-19T14:29:01.078014+09:00",
    "conflict": false,
    "demo": false,
    "disruption_confirmed": true,
@@ -8971,7 +8959,7 @@
   },
   {
    "assertion": "planned",
-   "checked_at": "2026-11-19T11:31:43.991285+09:00",
+   "checked_at": "2026-11-19T14:29:01.078014+09:00",
    "conflict": false,
    "demo": false,
    "disruption_confirmed": false,
@@ -9233,7 +9221,7 @@
       "source_url": "https://www.newspim.com/news/view/20261117001008",
       "published_at": "2026-11-17T15:04:00+09:00",
       "updated_at": "2026-11-17T15:30:00+09:00",
-      "collected_at": "2026-11-19T11:31:21.483213+09:00",
+      "collected_at": "2026-11-19T14:28:21.387221+09:00",
       "field_evidence": [
        {
         "field_path": "/article_relevance",
@@ -9409,7 +9397,7 @@
       "source_url": "https://www.newspim.com/news/view/20261117001008",
       "published_at": "2026-11-17T15:04:00+09:00",
       "updated_at": "2026-11-17T15:30:00+09:00",
-      "collected_at": "2026-11-19T11:31:21.483213+09:00",
+      "collected_at": "2026-11-19T14:28:21.387221+09:00",
       "field_evidence": [
        {
         "field_path": "/article_relevance",
@@ -9729,182 +9717,7 @@
      "source_revision": "d97b512c2eba86a347945829",
      "published_at": "2026-11-17T15:04:00+09:00",
      "updated_at": "2026-11-17T15:30:00+09:00",
-     "collected_at": "2026-11-19T11:31:21.483213+09:00"
-    },
-    "events": [],
-    "review_reasons": []
-   }
-  },
-  {
-   "strikes": [
-    {
-     "article_relevance": "related",
-     "transport_mode": "unknown",
-     "affected_regions": [],
-     "affected_routes": [
-      {
-       "raw": "나선",
-       "normalized_name": "나선",
-       "region": null,
-       "reference_id": null,
-       "derivation": "article_explicit",
-       "reference_source": null
-      }
-     ],
-     "start": {
-      "raw": null,
-      "date": null,
-      "time": null,
-      "timezone": "Asia/Seoul",
-      "basis": "unknown",
-      "assertion": "unknown",
-      "open_ended": null
-     },
-     "end": {
-      "raw": "무기한",
-      "date": null,
-      "time": null,
-      "timezone": "Asia/Seoul",
-      "basis": "unknown",
-      "assertion": "unknown",
-      "open_ended": true
-     },
-     "strike_status": {
-      "value": "unknown",
-      "conditions": [
-       "3개 노조는 안전운행 투쟁에도 정부와 서울시가 응답하지 않을 경우 예정대로 무기한 총파업에 나선다는 방침이다."
-      ],
-      "scope_raw": "3개 노조는 안전운행 투쟁에도 정부와 서울시가 응답하지 않을 경우 예정대로 무기한 총파업에 나선다는 방침이다.",
-      "effective_at": null
-     },
-     "service_status": [],
-     "normal_service_exceptions": [],
-     "alternative_services": [],
-     "evidence_and_timestamps": {
-      "source_url": "https://www.newsis.com/view/NISI20261119_0021538385",
-      "published_at": "2026-11-19T10:08:04+09:00",
-      "updated_at": null,
-      "collected_at": "2026-11-19T11:31:24.590863+09:00",
-      "field_evidence": [
-       {
-        "field_path": "/article_relevance",
-        "quote": "3개 노조는 안전운행 투쟁에도 정부와 서울시가 응답하지 않을 경우 예정대로 무기한 총파업에 나선다는 방침이다.",
-        "source_part": "body",
-        "effective_at": null,
-        "derivation": "explicit",
-        "source_id": "469e334bc3e58840df3a8c15",
-        "source_revision": "51a9f95d29ce956135c829a9",
-        "reference_source": null
-       },
-       {
-        "field_path": "/transport_mode",
-        "quote": "3개 노조는 안전운행 투쟁에도 정부와 서울시가 응답하지 않을 경우 예정대로 무기한 총파업에 나선다는 방침이다.",
-        "source_part": "body",
-        "effective_at": null,
-        "derivation": "explicit",
-        "source_id": "469e334bc3e58840df3a8c15",
-        "source_revision": "51a9f95d29ce956135c829a9",
-        "reference_source": null
-       },
-       {
-        "field_path": "/affected_regions",
-        "quote": "3개 노조는 안전운행 투쟁에도 정부와 서울시가 응답하지 않을 경우 예정대로 무기한 총파업에 나선다는 방침이다.",
-        "source_part": "body",
-        "effective_at": null,
-        "derivation": "explicit",
-        "source_id": "469e334bc3e58840df3a8c15",
-        "source_revision": "51a9f95d29ce956135c829a9",
-        "reference_source": null
-       },
-       {
-        "field_path": "/affected_routes",
-        "quote": "3개 노조는 안전운행 투쟁에도 정부와 서울시가 응답하지 않을 경우 예정대로 무기한 총파업에 나선다는 방침이다.",
-        "source_part": "body",
-        "effective_at": null,
-        "derivation": "explicit",
-        "source_id": "469e334bc3e58840df3a8c15",
-        "source_revision": "51a9f95d29ce956135c829a9",
-        "reference_source": null
-       },
-       {
-        "field_path": "/strike_status",
-        "quote": "3개 노조는 안전운행 투쟁에도 정부와 서울시가 응답하지 않을 경우 예정대로 무기한 총파업에 나선다는 방침이다.",
-        "source_part": "body",
-        "effective_at": null,
-        "derivation": "explicit",
-        "source_id": "469e334bc3e58840df3a8c15",
-        "source_revision": "51a9f95d29ce956135c829a9",
-        "reference_source": null
-       },
-       {
-        "field_path": "/service_status",
-        "quote": "3개 노조는 안전운행 투쟁에도 정부와 서울시가 응답하지 않을 경우 예정대로 무기한 총파업에 나선다는 방침이다.",
-        "source_part": "body",
-        "effective_at": null,
-        "derivation": "explicit",
-        "source_id": "469e334bc3e58840df3a8c15",
-        "source_revision": "51a9f95d29ce956135c829a9",
-        "reference_source": null
-       },
-       {
-        "field_path": "/normal_service_exceptions",
-        "quote": "3개 노조는 안전운행 투쟁에도 정부와 서울시가 응답하지 않을 경우 예정대로 무기한 총파업에 나선다는 방침이다.",
-        "source_part": "body",
-        "effective_at": null,
-        "derivation": "explicit",
-        "source_id": "469e334bc3e58840df3a8c15",
-        "source_revision": "51a9f95d29ce956135c829a9",
-        "reference_source": null
-       },
-       {
-        "field_path": "/alternative_services",
-        "quote": "3개 노조는 안전운행 투쟁에도 정부와 서울시가 응답하지 않을 경우 예정대로 무기한 총파업에 나선다는 방침이다.",
-        "source_part": "body",
-        "effective_at": null,
-        "derivation": "explicit",
-        "source_id": "469e334bc3e58840df3a8c15",
-        "source_revision": "51a9f95d29ce956135c829a9",
-        "reference_source": null
-       },
-       {
-        "field_path": "/start",
-        "quote": "3개 노조는 안전운행 투쟁에도 정부와 서울시가 응답하지 않을 경우 예정대로 무기한 총파업에 나선다는 방침이다.",
-        "source_part": "body",
-        "effective_at": null,
-        "derivation": "explicit",
-        "source_id": "469e334bc3e58840df3a8c15",
-        "source_revision": "51a9f95d29ce956135c829a9",
-        "reference_source": null
-       },
-       {
-        "field_path": "/end",
-        "quote": "3개 노조는 안전운행 투쟁에도 정부와 서울시가 응답하지 않을 경우 예정대로 무기한 총파업에 나선다는 방침이다.",
-        "source_part": "body",
-        "effective_at": null,
-        "derivation": "explicit",
-        "source_id": "469e334bc3e58840df3a8c15",
-        "source_revision": "51a9f95d29ce956135c829a9",
-        "reference_source": null
-       }
-      ],
-      "review_reasons": [
-       "UNSUPPORTED_OR_AMBIGUOUS_STATUS",
-       "DATE_UNCONFIRMED"
-      ]
-     }
-    }
-   ],
-   "events": {
-    "schema_version": "1.0",
-    "article_relevance": "unrelated",
-    "processing_status": "success",
-    "source": {
-     "source_id": "469e334bc3e58840df3a8c15",
-     "source_url": "https://www.newsis.com/view/NISI20261119_0021538385",
-     "source_revision": "51a9f95d29ce956135c829a9",
-     "published_at": "2026-11-19T10:08:04+09:00",
-     "updated_at": null,
-     "collected_at": "2026-11-19T11:31:24.590863+09:00"
+     "collected_at": "2026-11-19T14:28:21.387221+09:00"
     },
     "events": [],
     "review_reasons": []
@@ -9976,7 +9789,7 @@
       "source_url": "https://www.newsis.com/view/NISX20261117_0003871911",
       "published_at": "2026-11-19T05:30:00+09:00",
       "updated_at": null,
-      "collected_at": "2026-11-19T11:31:25.962731+09:00",
+      "collected_at": "2026-11-19T14:28:30.242113+09:00",
       "field_evidence": [
        {
         "field_path": "/article_relevance",
@@ -10097,7 +9910,7 @@
      "source_revision": "c85495a67821db99426dc724",
      "published_at": "2026-11-19T05:30:00+09:00",
      "updated_at": null,
-     "collected_at": "2026-11-19T11:31:25.962731+09:00"
+     "collected_at": "2026-11-19T14:28:30.242113+09:00"
     },
     "events": [],
     "review_reasons": []
@@ -10141,7 +9954,7 @@
       "source_url": "https://www.newsis.com/view/NISX20261116_0003870171",
       "published_at": "2026-11-16T17:20:24+09:00",
       "updated_at": null,
-      "collected_at": "2026-11-19T11:31:27.937735+09:00",
+      "collected_at": "2026-11-19T14:28:31.330065+09:00",
       "field_evidence": [
        {
         "field_path": "/article_relevance",
@@ -10258,7 +10071,7 @@
      "source_revision": "83f82b927f5ea71b62290ec8",
      "published_at": "2026-11-16T17:20:24+09:00",
      "updated_at": null,
-     "collected_at": "2026-11-19T11:31:27.937735+09:00"
+     "collected_at": "2026-11-19T14:28:31.330065+09:00"
     },
     "events": [],
     "review_reasons": []
@@ -10302,7 +10115,7 @@
       "source_url": "https://www.yna.co.kr/view/AKR20261118007000079?input=1195m",
       "published_at": "2026-11-18T03:43:59+09:00",
       "updated_at": "2026-11-18T09:34:21+09:00",
-      "collected_at": "2026-11-19T11:31:31.524383+09:00",
+      "collected_at": "2026-11-19T14:28:34.728971+09:00",
       "field_evidence": [
        {
         "field_path": "/article_relevance",
@@ -10419,7 +10232,7 @@
      "source_revision": "803fca1dcdf7c4adcd01d505",
      "published_at": "2026-11-18T03:43:59+09:00",
      "updated_at": "2026-11-18T09:34:21+09:00",
-     "collected_at": "2026-11-19T11:31:31.524383+09:00"
+     "collected_at": "2026-11-19T14:28:34.728971+09:00"
     },
     "events": [],
     "review_reasons": [
@@ -10465,7 +10278,7 @@
       "source_url": "https://www.newsis.com/view/NISX20261117_0003871652",
       "published_at": "2026-11-17T15:04:30+09:00",
       "updated_at": null,
-      "collected_at": "2026-11-19T11:31:37.506995+09:00",
+      "collected_at": "2026-11-19T14:28:45.181893+09:00",
       "field_evidence": [
        {
         "field_path": "/article_relevance",
@@ -10582,182 +10395,7 @@
      "source_revision": "a19421a42aa2c51dc9b1796d",
      "published_at": "2026-11-17T15:04:30+09:00",
      "updated_at": null,
-     "collected_at": "2026-11-19T11:31:37.506995+09:00"
-    },
-    "events": [],
-    "review_reasons": []
-   }
-  },
-  {
-   "strikes": [
-    {
-     "article_relevance": "related",
-     "transport_mode": "unknown",
-     "affected_regions": [],
-     "affected_routes": [
-      {
-       "raw": "나선",
-       "normalized_name": "나선",
-       "region": null,
-       "reference_id": null,
-       "derivation": "article_explicit",
-       "reference_source": null
-      }
-     ],
-     "start": {
-      "raw": null,
-      "date": null,
-      "time": null,
-      "timezone": "Asia/Seoul",
-      "basis": "unknown",
-      "assertion": "unknown",
-      "open_ended": null
-     },
-     "end": {
-      "raw": "무기한",
-      "date": null,
-      "time": null,
-      "timezone": "Asia/Seoul",
-      "basis": "unknown",
-      "assertion": "unknown",
-      "open_ended": true
-     },
-     "strike_status": {
-      "value": "unknown",
-      "conditions": [
-       "3개 노조는 안전운행 투쟁에도 정부와 서울시가 응답하지 않을 경우 예정대로 무기한 총파업에 나선다는 방침이다."
-      ],
-      "scope_raw": "3개 노조는 안전운행 투쟁에도 정부와 서울시가 응답하지 않을 경우 예정대로 무기한 총파업에 나선다는 방침이다.",
-      "effective_at": null
-     },
-     "service_status": [],
-     "normal_service_exceptions": [],
-     "alternative_services": [],
-     "evidence_and_timestamps": {
-      "source_url": "https://www.newsis.com/view/NISI20261119_0021538388",
-      "published_at": "2026-11-19T10:08:04+09:00",
-      "updated_at": null,
-      "collected_at": "2026-11-19T11:31:37.986575+09:00",
-      "field_evidence": [
-       {
-        "field_path": "/article_relevance",
-        "quote": "3개 노조는 안전운행 투쟁에도 정부와 서울시가 응답하지 않을 경우 예정대로 무기한 총파업에 나선다는 방침이다.",
-        "source_part": "body",
-        "effective_at": null,
-        "derivation": "explicit",
-        "source_id": "718e6c9730ff2a9a834eef7e",
-        "source_revision": "e825240ed82ec9978265f2ea",
-        "reference_source": null
-       },
-       {
-        "field_path": "/transport_mode",
-        "quote": "3개 노조는 안전운행 투쟁에도 정부와 서울시가 응답하지 않을 경우 예정대로 무기한 총파업에 나선다는 방침이다.",
-        "source_part": "body",
-        "effective_at": null,
-        "derivation": "explicit",
-        "source_id": "718e6c9730ff2a9a834eef7e",
-        "source_revision": "e825240ed82ec9978265f2ea",
-        "reference_source": null
-       },
-       {
-        "field_path": "/affected_regions",
-        "quote": "3개 노조는 안전운행 투쟁에도 정부와 서울시가 응답하지 않을 경우 예정대로 무기한 총파업에 나선다는 방침이다.",
-        "source_part": "body",
-        "effective_at": null,
-        "derivation": "explicit",
-        "source_id": "718e6c9730ff2a9a834eef7e",
-        "source_revision": "e825240ed82ec9978265f2ea",
-        "reference_source": null
-       },
-       {
-        "field_path": "/affected_routes",
-        "quote": "3개 노조는 안전운행 투쟁에도 정부와 서울시가 응답하지 않을 경우 예정대로 무기한 총파업에 나선다는 방침이다.",
-        "source_part": "body",
-        "effective_at": null,
-        "derivation": "explicit",
-        "source_id": "718e6c9730ff2a9a834eef7e",
-        "source_revision": "e825240ed82ec9978265f2ea",
-        "reference_source": null
-       },
-       {
-        "field_path": "/strike_status",
-        "quote": "3개 노조는 안전운행 투쟁에도 정부와 서울시가 응답하지 않을 경우 예정대로 무기한 총파업에 나선다는 방침이다.",
-        "source_part": "body",
-        "effective_at": null,
-        "derivation": "explicit",
-        "source_id": "718e6c9730ff2a9a834eef7e",
-        "source_revision": "e825240ed82ec9978265f2ea",
-        "reference_source": null
-       },
-       {
-        "field_path": "/service_status",
-        "quote": "3개 노조는 안전운행 투쟁에도 정부와 서울시가 응답하지 않을 경우 예정대로 무기한 총파업에 나선다는 방침이다.",
-        "source_part": "body",
-        "effective_at": null,
-        "derivation": "explicit",
-        "source_id": "718e6c9730ff2a9a834eef7e",
-        "source_revision": "e825240ed82ec9978265f2ea",
-        "reference_source": null
-       },
-       {
-        "field_path": "/normal_service_exceptions",
-        "quote": "3개 노조는 안전운행 투쟁에도 정부와 서울시가 응답하지 않을 경우 예정대로 무기한 총파업에 나선다는 방침이다.",
-        "source_part": "body",
-        "effective_at": null,
-        "derivation": "explicit",
-        "source_id": "718e6c9730ff2a9a834eef7e",
-        "source_revision": "e825240ed82ec9978265f2ea",
-        "reference_source": null
-       },
-       {
-        "field_path": "/alternative_services",
-        "quote": "3개 노조는 안전운행 투쟁에도 정부와 서울시가 응답하지 않을 경우 예정대로 무기한 총파업에 나선다는 방침이다.",
-        "source_part": "body",
-        "effective_at": null,
-        "derivation": "explicit",
-        "source_id": "718e6c9730ff2a9a834eef7e",
-        "source_revision": "e825240ed82ec9978265f2ea",
-        "reference_source": null
-       },
-       {
-        "field_path": "/start",
-        "quote": "3개 노조는 안전운행 투쟁에도 정부와 서울시가 응답하지 않을 경우 예정대로 무기한 총파업에 나선다는 방침이다.",
-        "source_part": "body",
-        "effective_at": null,
-        "derivation": "explicit",
-        "source_id": "718e6c9730ff2a9a834eef7e",
-        "source_revision": "e825240ed82ec9978265f2ea",
-        "reference_source": null
-       },
-       {
-        "field_path": "/end",
-        "quote": "3개 노조는 안전운행 투쟁에도 정부와 서울시가 응답하지 않을 경우 예정대로 무기한 총파업에 나선다는 방침이다.",
-        "source_part": "body",
-        "effective_at": null,
-        "derivation": "explicit",
-        "source_id": "718e6c9730ff2a9a834eef7e",
-        "source_revision": "e825240ed82ec9978265f2ea",
-        "reference_source": null
-       }
-      ],
-      "review_reasons": [
-       "UNSUPPORTED_OR_AMBIGUOUS_STATUS",
-       "DATE_UNCONFIRMED"
-      ]
-     }
-    }
-   ],
-   "events": {
-    "schema_version": "1.0",
-    "article_relevance": "unrelated",
-    "processing_status": "success",
-    "source": {
-     "source_id": "718e6c9730ff2a9a834eef7e",
-     "source_url": "https://www.newsis.com/view/NISI20261119_0021538388",
-     "source_revision": "e825240ed82ec9978265f2ea",
-     "published_at": "2026-11-19T10:08:04+09:00",
-     "updated_at": null,
-     "collected_at": "2026-11-19T11:31:37.986575+09:00"
+     "collected_at": "2026-11-19T14:28:45.181893+09:00"
     },
     "events": [],
     "review_reasons": []
@@ -10801,7 +10439,7 @@
       "source_url": "https://www.newsis.com/view/NISX20261117_0003871716",
       "published_at": "2026-11-17T19:08:24+09:00",
       "updated_at": null,
-      "collected_at": "2026-11-19T11:31:40.031859+09:00",
+      "collected_at": "2026-11-19T14:28:56.875495+09:00",
       "field_evidence": [
        {
         "field_path": "/article_relevance",
@@ -10918,7 +10556,7 @@
      "source_revision": "942100cb38afa2b547684519",
      "published_at": "2026-11-17T19:08:24+09:00",
      "updated_at": null,
-     "collected_at": "2026-11-19T11:31:40.031859+09:00"
+     "collected_at": "2026-11-19T14:28:56.875495+09:00"
     },
     "events": [],
     "review_reasons": []
@@ -11011,7 +10649,7 @@
       "source_url": "https://www.imaeil.com/page/view/2026111417131297761",
       "published_at": null,
       "updated_at": null,
-      "collected_at": "2026-11-19T11:31:43.991285+09:00",
+      "collected_at": "2026-11-19T14:29:01.078014+09:00",
       "field_evidence": [
        {
         "field_path": "/article_relevance",
@@ -11355,7 +10993,7 @@
       "source_url": "https://www.imaeil.com/page/view/2026111417131297761",
       "published_at": null,
       "updated_at": null,
-      "collected_at": "2026-11-19T11:31:43.991285+09:00",
+      "collected_at": "2026-11-19T14:29:01.078014+09:00",
       "field_evidence": [
        {
         "field_path": "/article_relevance",
@@ -11475,7 +11113,7 @@
      "source_revision": "79344459f900a196bff2714a",
      "published_at": null,
      "updated_at": null,
-     "collected_at": "2026-11-19T11:31:43.991285+09:00"
+     "collected_at": "2026-11-19T14:29:01.078014+09:00"
     },
     "events": [],
     "review_reasons": []
@@ -11485,12 +11123,20 @@
  "transportReferences": [],
  "extractionFailures": [
   {
+   "source_url": "https://www.yna.co.kr/view/PYH20261119149900013?input=1196m",
+   "status": "validation_failed"
+  },
+  {
+   "source_url": "https://www.yna.co.kr/view/PYH20261119150000013?input=1196m",
+   "status": "validation_failed"
+  },
+  {
    "source_url": "https://www.yna.co.kr/view/AKR20261118124900053?input=1195m",
    "status": "validation_failed"
   },
   {
    "source_url": "https://www.joongdo.co.kr/web/view.php?key=20261118010006508",
-   "status": "body_fetch_failed"
+   "status": "policy_unavailable"
   },
   {
    "source_url": "http://www.metroseoul.co.kr/article/20261112500088",
