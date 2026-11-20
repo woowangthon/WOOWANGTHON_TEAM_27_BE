@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-20T19:51:28.991515+09:00",
+ "generatedAt": "2026-11-21T04:32:39.069087+09:00",
  "windowDays": 14,
  "queries": [
   "버스 파업",
@@ -17,8 +17,13 @@
    "url": "https://www.ncloud.com/product/applicationService/naverApiHub"
   }
  ],
- "articles": 242,
+ "articles": 243,
  "searchResults": [
+  {
+   "url": "https://www.m-i.kr/news/articleView.html?idxno=2021566",
+   "title": "임현수 용인특례시의원, 교통안전시설부터 경전철까지 개선 촉구",
+   "query": "버스 파업"
+  },
   {
    "url": "https://www.todaykorea.co.kr/news/articleView.html?idxno=408913",
    "title": "서교공노조, '준법 투쟁' 돌입···25일 총파업 예고",
@@ -265,9 +270,34 @@
    "query": "버스 파업"
   },
   {
-   "url": "http://www.4th.kr/news/articleView.html?idxno=2121972",
-   "title": "한화오션 하청노조 결국 단식..\"임금·고용 빠진 원청교섭 무용지물\"",
-   "query": "버스 파업"
+   "url": "http://www.yonhapnewstv.co.kr/news/MYH20261121002125l9i",
+   "title": "서울지하철 준법투쟁에 \"일부 지연\"…총파업 예고",
+   "query": "지하철 파업"
+  },
+  {
+   "url": "https://biz.heraldcorp.com/article/10944473?ref=naver",
+   "title": "서울지하철 태업 첫날 퇴근길 ‘평소와 비슷’…노조 “25일 무기한 총...",
+   "query": "지하철 파업"
+  },
+  {
+   "url": "http://www.yonhapnewstv.co.kr/news/AKR20261120204254KrV",
+   "title": "서울지하철 준법투쟁 첫날 \"큰 혼란 없어\"…25일 총파업 예고",
+   "query": "지하철 파업"
+  },
+  {
+   "url": "https://www.obsnews.co.kr/news/articleView.html?idxno=1544515",
+   "title": "서울지하철 준법투쟁 돌입…\"출근길 큰 혼란 없어\"",
+   "query": "지하철 파업"
+  },
+  {
+   "url": "https://www.shinailbo.co.kr/news/articleView.html?idxno=5085990",
+   "title": "서울지하철 준법투쟁 첫날…퇴근길 큰 혼란 없어",
+   "query": "지하철 파업"
+  },
+  {
+   "url": "https://www.ajunews.com/view/20261120195659671",
+   "title": "서울 지하철 노조 준법투쟁 첫날…퇴근길 큰 혼란 없어",
+   "query": "지하철 파업"
   },
   {
    "url": "https://www.g-enews.com/view.php?ud=202611201945047298112616b072_1",
@@ -430,23 +460,8 @@
    "query": "지하철 파업"
   },
   {
-   "url": "https://www.newspim.com/news/view/20261120000196",
-   "title": "서울지하철 노조, 오늘부터 준법투쟁",
-   "query": "지하철 파업"
-  },
-  {
-   "url": "https://www.newspim.com/news/view/20261120000191",
-   "title": "서울 지하철 준법투쟁 시작, 출퇴근길 혼잡 주의",
-   "query": "지하철 파업"
-  },
-  {
    "url": "https://www.newspim.com/news/view/20261120000192",
    "title": "서울 지하철 노조, 오늘부터 준법투쟁",
-   "query": "지하철 파업"
-  },
-  {
-   "url": "https://www.newspim.com/news/view/20261120000195",
-   "title": "철도·지하철 3개 노조, 총파업 전 '안전운행 투쟁' 선포",
    "query": "지하철 파업"
   },
   {
@@ -455,8 +470,8 @@
    "query": "지하철 파업"
   },
   {
-   "url": "https://www.newspim.com/news/view/20261120000198",
-   "title": "준법투쟁 시작 첫 날, 붐비는 출근길",
+   "url": "https://www.newspim.com/news/view/20261120000195",
+   "title": "철도·지하철 3개 노조, 총파업 전 '안전운행 투쟁' 선포",
    "query": "지하철 파업"
   },
   {
@@ -465,28 +480,13 @@
    "query": "지하철 파업"
   },
   {
+   "url": "https://www.newspim.com/news/view/20261120000198",
+   "title": "준법투쟁 시작 첫 날, 붐비는 출근길",
+   "query": "지하철 파업"
+  },
+  {
    "url": "https://www.newspim.com/news/view/20261120000194",
    "title": "서울지하철 노조, 준법투쟁 돌입",
-   "query": "지하철 파업"
-  },
-  {
-   "url": "https://www.ajunews.com/view/20261120084803918",
-   "title": "서울지하철 노조, '준법투쟁' 돌입…일부 구간 지연 우려",
-   "query": "지하철 파업"
-  },
-  {
-   "url": "https://www.joongangenews.com/news/articleView.html?idxno=565320",
-   "title": "서울지하철 노조, 준법투쟁 돌입...출·퇴근 운행 지연 등 혼란 우려",
-   "query": "지하철 파업"
-  },
-  {
-   "url": "https://www.dailian.co.kr/news/view/1717518/?sc=Naver",
-   "title": "서울교통공사노조, '준법 투쟁' 돌입…출퇴근길 시민 불편 우려",
-   "query": "지하철 파업"
-  },
-  {
-   "url": "https://www.fnnews.com/news/202611200835069432",
-   "title": "서울지하철 노조, 준법투쟁 돌입…25일 총파업 예고",
    "query": "지하철 파업"
   },
   {
@@ -502,6 +502,36 @@
   {
    "url": "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003286701&CMPT_CD=P0010&utm_source=naver&utm_medium=newsearch&utm_campaign=naver_news",
    "title": "기계 멈춘 10대 소녀들, 7일 간의 단식 투쟁으로 이룬 승리",
+   "query": "철도 파업"
+  },
+  {
+   "url": "https://www.newspim.com/news/view/20261120000191",
+   "title": "서울 지하철 준법투쟁 시작, 출퇴근길 혼잡 주의",
+   "query": "철도 파업"
+  },
+  {
+   "url": "https://www.newspim.com/news/view/20261120000196",
+   "title": "서울지하철 노조, 오늘부터 준법투쟁",
+   "query": "철도 파업"
+  },
+  {
+   "url": "https://www.ajunews.com/view/20261120084803918",
+   "title": "서울지하철 노조, '준법투쟁' 돌입…일부 구간 지연 우려",
+   "query": "철도 파업"
+  },
+  {
+   "url": "https://www.joongangenews.com/news/articleView.html?idxno=565320",
+   "title": "서울지하철 노조, 준법투쟁 돌입...출·퇴근 운행 지연 등 혼란 우려",
+   "query": "철도 파업"
+  },
+  {
+   "url": "https://www.dailian.co.kr/news/view/1717518/?sc=Naver",
+   "title": "서울교통공사노조, '준법 투쟁' 돌입…출퇴근길 시민 불편 우려",
+   "query": "철도 파업"
+  },
+  {
+   "url": "https://www.fnnews.com/news/202611200835069432",
+   "title": "서울지하철 노조, 준법투쟁 돌입…25일 총파업 예고",
    "query": "철도 파업"
   },
   {
@@ -555,21 +585,6 @@
    "query": "철도 파업"
   },
   {
-   "url": "https://www.kyeonggi.com/article/20261120580009",
-   "title": "서울지하철 노조, 준법투쟁 시작...출퇴근 일부 구간 지연·혼잡 예상",
-   "query": "철도 파업"
-  },
-  {
-   "url": "https://www.wikitree.co.kr/articles/1176159",
-   "title": "오늘 지하철 타고 출근하면 지각할 수도…서울 직장인들 긴장할 소식",
-   "query": "철도 파업"
-  },
-  {
-   "url": "https://www.sedaily.com/article/20116743?ref=naver",
-   "title": "“출근길 지하철 어쩌나” 서울 지하철 노조, 오늘부터 준법투쟁",
-   "query": "철도 파업"
-  },
-  {
    "url": "https://www.womennews.co.kr/news/articleView.html?idxno=284711",
    "title": "서울지하철 노조, 오늘 아침부터 준법투쟁…25일 총파업 예고",
    "query": "파업 예고 운행"
@@ -577,16 +592,6 @@
   {
    "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008854903&plink=ORI&cooper=NAVER",
    "title": "서울지하철 노조 오늘 첫차부터 준법투쟁…총파업 예고",
-   "query": "파업 예고 운행"
-  },
-  {
-   "url": "https://www.kukinews.com/article/view/kuk202611200003",
-   "title": "서울 지하철 노조, 오늘부터 준법투쟁…출퇴근길 열차 지연 우려",
-   "query": "파업 예고 운행"
-  },
-  {
-   "url": "http://www.yonhapnewstv.co.kr/news/MYH20261120065600rID",
-   "title": "[AM-PM] 與, 오늘 의원총회서 '조희대 탄핵' 당론 채택 外",
    "query": "파업 예고 운행"
   },
   {
@@ -755,13 +760,13 @@
    "query": "집회 교통 통제"
   },
   {
-   "url": "https://biz.heraldcorp.com/article/10929436?ref=naver",
-   "title": "“응급환자 이송 막힐라”…주말 도심 마라톤에 병원·결혼식장 비상",
+   "url": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202611080006&t=NN",
+   "title": "\"길 막히고 버스는 돌아가고\"…잇단 마라톤에 시민들 '부글'",
    "query": "집회 교통 통제"
   },
   {
-   "url": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202611080006&t=NN",
-   "title": "\"길 막히고 버스는 돌아가고\"…잇단 마라톤에 시민들 '부글'",
+   "url": "https://biz.heraldcorp.com/article/10929436?ref=naver",
+   "title": "“응급환자 이송 막힐라”…주말 도심 마라톤에 병원·결혼식장 비상",
    "query": "집회 교통 통제"
   },
   {
@@ -838,6 +843,11 @@
    "url": "https://www.ytn.co.kr/_ln/0103_202611071718092435",
    "title": "주말 도심 양대 노총 노동자대회...곳곳 교통 통제",
    "query": "집회 교통 통제"
+  },
+  {
+   "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008856382&plink=ORI&cooper=NAVER",
+   "title": "러닝 열풍 타고 '우후죽순' 마라톤…안전관리는?",
+   "query": "마라톤 도로 통제"
   },
   {
    "url": "https://www.etoday.co.kr/news/view/2651074",
@@ -1085,11 +1095,6 @@
    "query": "마라톤 도로 통제"
   },
   {
-   "url": "https://www.discoverynews.kr/news/articleView.html?idxno=1107135",
-   "title": "인천마라톤 2만명 달린다…22일 영종·서해구 교통통제",
-   "query": "마라톤 도로 통제"
-  },
-  {
    "url": "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003286891&CMPT_CD=P0010&utm_source=naver&utm_medium=newsearch&utm_campaign=naver_news",
    "title": "세종시 자전거도로 안전 문제,정책·예산으로 풀어야",
    "query": "축제 버스 우회"
@@ -1232,6 +1237,53 @@
  ],
  "strikes": [
   {
+   "id": "976e0b153b43832b",
+   "mode": "subway",
+   "operator": "서울지하철",
+   "regions": [
+    "서울"
+   ],
+   "status": "scheduled",
+   "quote": "오는 25일부터 무기한 총파업에 들어가겠다고 예고",
+   "start": "2026-11-25",
+   "dateQuote": "오는 25일",
+   "articleTitle": "서울지하철 준법투쟁에 \"일부 지연\"…총파업 예고",
+   "url": "http://www.yonhapnewstv.co.kr/news/MYH20261121002125l9i",
+   "publishedAt": "2026-11-21T00:22:00.000",
+   "sourceCount": 7,
+   "model": "gemini-3.5-flash-lite"
+  },
+  {
+   "id": "c5d49f80efcdda42",
+   "mode": "bus",
+   "operator": "경기도 버스노동조합",
+   "regions": [
+    "경기"
+   ],
+   "status": "historical",
+   "quote": "지난 10월 30일 경기도 버스노동조합의 파업이 예고되자",
+   "articleTitle": "임현수 용인특례시의원, 교통안전시설부터 경전철까지 개선 촉구",
+   "url": "https://www.m-i.kr/news/articleView.html?idxno=2021566",
+   "publishedAt": "2026-11-20T20:54:00.000",
+   "sourceCount": 1,
+   "model": "gemini-3.5-flash-lite"
+  },
+  {
+   "id": "60046a9d39122f7f",
+   "mode": "subway",
+   "operator": "서울교통공사",
+   "regions": [
+    "서울"
+   ],
+   "status": "scheduled",
+   "quote": "다음주 중반 파업에 들어가겠다고 예고",
+   "articleTitle": "서울지하철 준법투쟁 돌입…\"출근길 큰 혼란 없어\"",
+   "url": "https://www.obsnews.co.kr/news/articleView.html?idxno=1544515",
+   "publishedAt": "2026-11-20T20:30:00.000",
+   "sourceCount": 9,
+   "model": "gemini-3.5-flash-lite"
+  },
+  {
    "id": "0e0594501283a906",
    "mode": "subway",
    "operator": "서울교통공사",
@@ -1241,26 +1293,11 @@
    "status": "scheduled",
    "quote": "25일 총파업 예고",
    "start": "2026-11-25",
-   "dateQuote": "25일",
+   "dateQuote": "오는 25일",
    "articleTitle": "서울교통공사 노조, 준법투쟁 첫날 큰 혼란 없어…25일 총파업 예고",
    "url": "https://www.g-enews.com/view.php?ud=202611201945047298112616b072_1",
    "publishedAt": "2026-11-20T19:48:00.000",
-   "sourceCount": 32,
-   "model": "gemini-3.5-flash-lite"
-  },
-  {
-   "id": "4a7453c9efae0e7b",
-   "mode": "subway",
-   "operator": "서울교통공사",
-   "regions": [
-    "서울"
-   ],
-   "status": "ongoing",
-   "quote": "안전 운행 투쟁은",
-   "articleTitle": "서울지하철 준법투쟁 첫날 퇴근길 큰혼란 없어…노조 \"경고파업\"",
-   "url": "https://www.yna.co.kr/view/AKR20261120172900004?input=1195m",
-   "publishedAt": "2026-11-20T19:39:00.000",
-   "sourceCount": 8,
+   "sourceCount": 34,
    "model": "gemini-3.5-flash-lite"
   },
   {
@@ -1328,24 +1365,7 @@
    "articleTitle": "코레일, 철도노조 준법투쟁 앞두고 비상수송대책본부 가동",
    "url": "https://www.newsis.com/view/NISX20261120_0003877260",
    "publishedAt": "2026-11-20T17:19:00.000",
-   "sourceCount": 14,
-   "model": "gemini-3.5-flash-lite"
-  },
-  {
-   "id": "cd2c51f56df3bb4b",
-   "mode": "subway",
-   "operator": "서울지하철노조",
-   "regions": [
-    "서울"
-   ],
-   "status": "conditional",
-   "quote": "회사가 임금 인상과 인력 충원에 응답하지 않을 경우 25일 총파업도",
-   "start": "2026-11-25",
-   "dateQuote": "25일",
-   "articleTitle": "[이 시각 주요 뉴스]",
-   "url": "https://biz.sbs.co.kr/article_hub/20000347800?division=NAVER",
-   "publishedAt": "2026-11-20T11:36:00.000",
-   "sourceCount": 5,
+   "sourceCount": 11,
    "model": "gemini-3.5-flash-lite"
   },
   {
@@ -10883,7 +10903,177 @@
   },
   {
    "assertion": "planned",
-   "checked_at": "2026-11-20T19:51:12.433191+09:00",
+   "checked_at": "2026-11-20T19:51:17.910650+09:00",
+   "conflict": false,
+   "demo": false,
+   "disruption_confirmed": false,
+   "event_id": "015b0f4eaa2afb51e751b2a8",
+   "event_name": "파업 사건",
+   "evidence": [
+    {
+     "derivation": "explicit",
+     "effective_at": null,
+     "field_path": "/article_relevance",
+     "quote": "서울 시내 버스 파업이 이어지고 있는 14일 출근시간대 서울 지하철 2호선 시청역에 도착하는 열차가 시민들로 붐비고 있다.",
+     "reference_source": null,
+     "source_id": "db68d45423fad6bea864a6fb",
+     "source_part": "body",
+     "source_revision": "9b60a513c157e2f59759a542"
+    },
+    {
+     "derivation": "explicit",
+     "effective_at": null,
+     "field_path": "/transport_mode",
+     "quote": "서울 시내 버스 파업이 이어지고 있는 14일 출근시간대 서울 지하철 2호선 시청역에 도착하는 열차가 시민들로 붐비고 있다.",
+     "reference_source": null,
+     "source_id": "db68d45423fad6bea864a6fb",
+     "source_part": "body",
+     "source_revision": "9b60a513c157e2f59759a542"
+    },
+    {
+     "derivation": "explicit",
+     "effective_at": null,
+     "field_path": "/affected_regions",
+     "quote": "서울 시내 버스 파업이 이어지고 있는 14일 출근시간대 서울 지하철 2호선 시청역에 도착하는 열차가 시민들로 붐비고 있다.",
+     "reference_source": null,
+     "source_id": "db68d45423fad6bea864a6fb",
+     "source_part": "body",
+     "source_revision": "9b60a513c157e2f59759a542"
+    },
+    {
+     "derivation": "explicit",
+     "effective_at": null,
+     "field_path": "/affected_routes",
+     "quote": "서울 시내 버스 파업이 이어지고 있는 14일 출근시간대 서울 지하철 2호선 시청역에 도착하는 열차가 시민들로 붐비고 있다.",
+     "reference_source": null,
+     "source_id": "db68d45423fad6bea864a6fb",
+     "source_part": "body",
+     "source_revision": "9b60a513c157e2f59759a542"
+    },
+    {
+     "derivation": "explicit",
+     "effective_at": null,
+     "field_path": "/strike_status",
+     "quote": "서울 시내 버스 파업이 이어지고 있는 14일 출근시간대 서울 지하철 2호선 시청역에 도착하는 열차가 시민들로 붐비고 있다.",
+     "reference_source": null,
+     "source_id": "db68d45423fad6bea864a6fb",
+     "source_part": "body",
+     "source_revision": "9b60a513c157e2f59759a542"
+    },
+    {
+     "derivation": "explicit",
+     "effective_at": null,
+     "field_path": "/service_status",
+     "quote": "서울 시내 버스 파업이 이어지고 있는 14일 출근시간대 서울 지하철 2호선 시청역에 도착하는 열차가 시민들로 붐비고 있다.",
+     "reference_source": null,
+     "source_id": "db68d45423fad6bea864a6fb",
+     "source_part": "body",
+     "source_revision": "9b60a513c157e2f59759a542"
+    },
+    {
+     "derivation": "explicit",
+     "effective_at": null,
+     "field_path": "/normal_service_exceptions",
+     "quote": "서울 시내 버스 파업이 이어지고 있는 14일 출근시간대 서울 지하철 2호선 시청역에 도착하는 열차가 시민들로 붐비고 있다.",
+     "reference_source": null,
+     "source_id": "db68d45423fad6bea864a6fb",
+     "source_part": "body",
+     "source_revision": "9b60a513c157e2f59759a542"
+    },
+    {
+     "derivation": "explicit",
+     "effective_at": null,
+     "field_path": "/alternative_services",
+     "quote": "서울 시내 버스 파업이 이어지고 있는 14일 출근시간대 서울 지하철 2호선 시청역에 도착하는 열차가 시민들로 붐비고 있다.",
+     "reference_source": null,
+     "source_id": "db68d45423fad6bea864a6fb",
+     "source_part": "body",
+     "source_revision": "9b60a513c157e2f59759a542"
+    },
+    {
+     "derivation": "explicit",
+     "effective_at": null,
+     "field_path": "/start",
+     "quote": "서울 시내 버스 파업이 이어지고 있는 14일 출근시간대 서울 지하철 2호선 시청역에 도착하는 열차가 시민들로 붐비고 있다.",
+     "reference_source": null,
+     "source_id": "db68d45423fad6bea864a6fb",
+     "source_part": "body",
+     "source_revision": "9b60a513c157e2f59759a542"
+    },
+    {
+     "derivation": "explicit",
+     "effective_at": null,
+     "field_path": "/end",
+     "quote": "서울 시내 버스 파업이 이어지고 있는 14일 출근시간대 서울 지하철 2호선 시청역에 도착하는 열차가 시민들로 붐비고 있다.",
+     "reference_source": null,
+     "source_id": "db68d45423fad6bea864a6fb",
+     "source_part": "body",
+     "source_revision": "9b60a513c157e2f59759a542"
+    }
+   ],
+   "exceptions": [],
+   "id": "df8141724941d1891039ee43",
+   "modes": [
+    "bus"
+   ],
+   "period": {
+    "condition": null,
+    "end": {
+     "assertion": "unknown",
+     "basis": "unknown",
+     "date": null,
+     "open_ended": null,
+     "raw": null,
+     "time": null,
+     "timezone": "Asia/Seoul"
+    },
+    "precision": "PARTIAL",
+    "start": {
+     "assertion": "unknown",
+     "basis": "unknown",
+     "date": null,
+     "open_ended": null,
+     "raw": null,
+     "time": null,
+     "timezone": "Asia/Seoul"
+    }
+   },
+   "published_at": "2026-11-20T07:39:00+09:00",
+   "review_reasons": [
+    "UNSUPPORTED_OR_AMBIGUOUS_STATUS",
+    "DATE_UNCONFIRMED"
+   ],
+   "scope": [
+    {
+     "derivation": "article_explicit",
+     "normalized_name": "2호선",
+     "raw": "2호선",
+     "reference_id": null,
+     "reference_source": null,
+     "region": "서울"
+    },
+    {
+     "derivation": "article_explicit",
+     "normalized_name": "시청역",
+     "raw": "시청역",
+     "reference_id": null,
+     "reference_source": null,
+     "region": "서울"
+    }
+   ],
+   "service_status": [],
+   "source_url": "https://www.khan.co.kr/article/202611200739001",
+   "status": "UNKNOWN",
+   "status_effective_at": null,
+   "strike_status": "unknown",
+   "type": "STRIKE",
+   "updated_at": null,
+   "version": 1,
+   "body_verified": true
+  },
+  {
+   "assertion": "planned",
+   "checked_at": "2026-11-21T04:32:22.252104+09:00",
    "conflict": false,
    "demo": false,
    "disruption_confirmed": false,
@@ -11186,7 +11376,7 @@
   },
   {
    "assertion": "planned",
-   "checked_at": "2026-11-20T19:51:14.700505+09:00",
+   "checked_at": "2026-11-21T04:32:24.674996+09:00",
    "conflict": false,
    "demo": false,
    "disruption_confirmed": false,
@@ -11201,7 +11391,7 @@
      "reference_source": null,
      "source_id": "6d442705a3682a6bf32a1941",
      "source_part": "body",
-     "source_revision": "f9d97cd36d88b1100c049cd6"
+     "source_revision": "a7abedfe8ed8f9355d8f1e46"
     },
     {
      "derivation": "explicit",
@@ -11211,7 +11401,7 @@
      "reference_source": null,
      "source_id": "6d442705a3682a6bf32a1941",
      "source_part": "body",
-     "source_revision": "f9d97cd36d88b1100c049cd6"
+     "source_revision": "a7abedfe8ed8f9355d8f1e46"
     },
     {
      "derivation": "explicit",
@@ -11221,7 +11411,7 @@
      "reference_source": null,
      "source_id": "6d442705a3682a6bf32a1941",
      "source_part": "body",
-     "source_revision": "f9d97cd36d88b1100c049cd6"
+     "source_revision": "a7abedfe8ed8f9355d8f1e46"
     },
     {
      "derivation": "explicit",
@@ -11231,7 +11421,7 @@
      "reference_source": null,
      "source_id": "6d442705a3682a6bf32a1941",
      "source_part": "body",
-     "source_revision": "f9d97cd36d88b1100c049cd6"
+     "source_revision": "a7abedfe8ed8f9355d8f1e46"
     },
     {
      "derivation": "explicit",
@@ -11241,7 +11431,7 @@
      "reference_source": null,
      "source_id": "6d442705a3682a6bf32a1941",
      "source_part": "body",
-     "source_revision": "f9d97cd36d88b1100c049cd6"
+     "source_revision": "a7abedfe8ed8f9355d8f1e46"
     },
     {
      "derivation": "explicit",
@@ -11251,7 +11441,7 @@
      "reference_source": null,
      "source_id": "6d442705a3682a6bf32a1941",
      "source_part": "body",
-     "source_revision": "f9d97cd36d88b1100c049cd6"
+     "source_revision": "a7abedfe8ed8f9355d8f1e46"
     },
     {
      "derivation": "explicit",
@@ -11261,7 +11451,7 @@
      "reference_source": null,
      "source_id": "6d442705a3682a6bf32a1941",
      "source_part": "body",
-     "source_revision": "f9d97cd36d88b1100c049cd6"
+     "source_revision": "a7abedfe8ed8f9355d8f1e46"
     },
     {
      "derivation": "explicit",
@@ -11271,7 +11461,7 @@
      "reference_source": null,
      "source_id": "6d442705a3682a6bf32a1941",
      "source_part": "body",
-     "source_revision": "f9d97cd36d88b1100c049cd6"
+     "source_revision": "a7abedfe8ed8f9355d8f1e46"
     },
     {
      "derivation": "explicit",
@@ -11281,7 +11471,7 @@
      "reference_source": null,
      "source_id": "6d442705a3682a6bf32a1941",
      "source_part": "body",
-     "source_revision": "f9d97cd36d88b1100c049cd6"
+     "source_revision": "a7abedfe8ed8f9355d8f1e46"
     },
     {
      "derivation": "explicit",
@@ -11291,7 +11481,7 @@
      "reference_source": null,
      "source_id": "6d442705a3682a6bf32a1941",
      "source_part": "body",
-     "source_revision": "f9d97cd36d88b1100c049cd6"
+     "source_revision": "a7abedfe8ed8f9355d8f1e46"
     },
     {
      "derivation": "explicit",
@@ -11301,7 +11491,7 @@
      "reference_source": null,
      "source_id": "6d442705a3682a6bf32a1941",
      "source_part": "body",
-     "source_revision": "f9d97cd36d88b1100c049cd6"
+     "source_revision": "a7abedfe8ed8f9355d8f1e46"
     },
     {
      "derivation": "explicit",
@@ -11311,7 +11501,7 @@
      "reference_source": null,
      "source_id": "6d442705a3682a6bf32a1941",
      "source_part": "body",
-     "source_revision": "f9d97cd36d88b1100c049cd6"
+     "source_revision": "a7abedfe8ed8f9355d8f1e46"
     },
     {
      "derivation": "explicit",
@@ -11321,7 +11511,7 @@
      "reference_source": null,
      "source_id": "6d442705a3682a6bf32a1941",
      "source_part": "body",
-     "source_revision": "f9d97cd36d88b1100c049cd6"
+     "source_revision": "a7abedfe8ed8f9355d8f1e46"
     },
     {
      "derivation": "explicit",
@@ -11331,7 +11521,7 @@
      "reference_source": null,
      "source_id": "6d442705a3682a6bf32a1941",
      "source_part": "body",
-     "source_revision": "f9d97cd36d88b1100c049cd6"
+     "source_revision": "a7abedfe8ed8f9355d8f1e46"
     },
     {
      "derivation": "explicit",
@@ -11341,7 +11531,7 @@
      "reference_source": null,
      "source_id": "6d442705a3682a6bf32a1941",
      "source_part": "body",
-     "source_revision": "f9d97cd36d88b1100c049cd6"
+     "source_revision": "a7abedfe8ed8f9355d8f1e46"
     },
     {
      "derivation": "explicit",
@@ -11351,7 +11541,7 @@
      "reference_source": null,
      "source_id": "6d442705a3682a6bf32a1941",
      "source_part": "body",
-     "source_revision": "f9d97cd36d88b1100c049cd6"
+     "source_revision": "a7abedfe8ed8f9355d8f1e46"
     },
     {
      "derivation": "explicit",
@@ -11361,7 +11551,7 @@
      "reference_source": null,
      "source_id": "6d442705a3682a6bf32a1941",
      "source_part": "body",
-     "source_revision": "f9d97cd36d88b1100c049cd6"
+     "source_revision": "a7abedfe8ed8f9355d8f1e46"
     },
     {
      "derivation": "explicit",
@@ -11371,7 +11561,7 @@
      "reference_source": null,
      "source_id": "6d442705a3682a6bf32a1941",
      "source_part": "body",
-     "source_revision": "f9d97cd36d88b1100c049cd6"
+     "source_revision": "a7abedfe8ed8f9355d8f1e46"
     },
     {
      "derivation": "explicit",
@@ -11381,7 +11571,7 @@
      "reference_source": null,
      "source_id": "6d442705a3682a6bf32a1941",
      "source_part": "body",
-     "source_revision": "f9d97cd36d88b1100c049cd6"
+     "source_revision": "a7abedfe8ed8f9355d8f1e46"
     },
     {
      "derivation": "explicit",
@@ -11391,7 +11581,7 @@
      "reference_source": null,
      "source_id": "6d442705a3682a6bf32a1941",
      "source_part": "body",
-     "source_revision": "f9d97cd36d88b1100c049cd6"
+     "source_revision": "a7abedfe8ed8f9355d8f1e46"
     }
    ],
    "exceptions": [],
@@ -11448,7 +11638,7 @@
   },
   {
    "assertion": "planned",
-   "checked_at": "2026-11-20T19:51:14.700505+09:00",
+   "checked_at": "2026-11-21T04:32:24.674996+09:00",
    "conflict": false,
    "demo": false,
    "disruption_confirmed": true,
@@ -11463,7 +11653,7 @@
      "reference_source": null,
      "source_id": "6d442705a3682a6bf32a1941",
      "source_part": "body",
-     "source_revision": "f9d97cd36d88b1100c049cd6"
+     "source_revision": "a7abedfe8ed8f9355d8f1e46"
     },
     {
      "derivation": "explicit",
@@ -11473,7 +11663,7 @@
      "reference_source": null,
      "source_id": "6d442705a3682a6bf32a1941",
      "source_part": "body",
-     "source_revision": "f9d97cd36d88b1100c049cd6"
+     "source_revision": "a7abedfe8ed8f9355d8f1e46"
     },
     {
      "derivation": "explicit",
@@ -11483,7 +11673,7 @@
      "reference_source": null,
      "source_id": "6d442705a3682a6bf32a1941",
      "source_part": "body",
-     "source_revision": "f9d97cd36d88b1100c049cd6"
+     "source_revision": "a7abedfe8ed8f9355d8f1e46"
     },
     {
      "derivation": "explicit",
@@ -11493,7 +11683,7 @@
      "reference_source": null,
      "source_id": "6d442705a3682a6bf32a1941",
      "source_part": "body",
-     "source_revision": "f9d97cd36d88b1100c049cd6"
+     "source_revision": "a7abedfe8ed8f9355d8f1e46"
     },
     {
      "derivation": "explicit",
@@ -11503,7 +11693,7 @@
      "reference_source": null,
      "source_id": "6d442705a3682a6bf32a1941",
      "source_part": "body",
-     "source_revision": "f9d97cd36d88b1100c049cd6"
+     "source_revision": "a7abedfe8ed8f9355d8f1e46"
     },
     {
      "derivation": "explicit",
@@ -11513,7 +11703,7 @@
      "reference_source": null,
      "source_id": "6d442705a3682a6bf32a1941",
      "source_part": "body",
-     "source_revision": "f9d97cd36d88b1100c049cd6"
+     "source_revision": "a7abedfe8ed8f9355d8f1e46"
     },
     {
      "derivation": "explicit",
@@ -11523,7 +11713,7 @@
      "reference_source": null,
      "source_id": "6d442705a3682a6bf32a1941",
      "source_part": "body",
-     "source_revision": "f9d97cd36d88b1100c049cd6"
+     "source_revision": "a7abedfe8ed8f9355d8f1e46"
     },
     {
      "derivation": "explicit",
@@ -11533,7 +11723,7 @@
      "reference_source": null,
      "source_id": "6d442705a3682a6bf32a1941",
      "source_part": "body",
-     "source_revision": "f9d97cd36d88b1100c049cd6"
+     "source_revision": "a7abedfe8ed8f9355d8f1e46"
     },
     {
      "derivation": "explicit",
@@ -11543,7 +11733,7 @@
      "reference_source": null,
      "source_id": "6d442705a3682a6bf32a1941",
      "source_part": "body",
-     "source_revision": "f9d97cd36d88b1100c049cd6"
+     "source_revision": "a7abedfe8ed8f9355d8f1e46"
     },
     {
      "derivation": "explicit",
@@ -11553,7 +11743,7 @@
      "reference_source": null,
      "source_id": "6d442705a3682a6bf32a1941",
      "source_part": "body",
-     "source_revision": "f9d97cd36d88b1100c049cd6"
+     "source_revision": "a7abedfe8ed8f9355d8f1e46"
     },
     {
      "derivation": "explicit",
@@ -11563,7 +11753,7 @@
      "reference_source": null,
      "source_id": "6d442705a3682a6bf32a1941",
      "source_part": "body",
-     "source_revision": "f9d97cd36d88b1100c049cd6"
+     "source_revision": "a7abedfe8ed8f9355d8f1e46"
     },
     {
      "derivation": "explicit",
@@ -11573,7 +11763,7 @@
      "reference_source": null,
      "source_id": "6d442705a3682a6bf32a1941",
      "source_part": "body",
-     "source_revision": "f9d97cd36d88b1100c049cd6"
+     "source_revision": "a7abedfe8ed8f9355d8f1e46"
     },
     {
      "derivation": "explicit",
@@ -11583,7 +11773,7 @@
      "reference_source": null,
      "source_id": "6d442705a3682a6bf32a1941",
      "source_part": "body",
-     "source_revision": "f9d97cd36d88b1100c049cd6"
+     "source_revision": "a7abedfe8ed8f9355d8f1e46"
     },
     {
      "derivation": "explicit",
@@ -11593,7 +11783,7 @@
      "reference_source": null,
      "source_id": "6d442705a3682a6bf32a1941",
      "source_part": "body",
-     "source_revision": "f9d97cd36d88b1100c049cd6"
+     "source_revision": "a7abedfe8ed8f9355d8f1e46"
     },
     {
      "derivation": "explicit",
@@ -11603,7 +11793,7 @@
      "reference_source": null,
      "source_id": "6d442705a3682a6bf32a1941",
      "source_part": "body",
-     "source_revision": "f9d97cd36d88b1100c049cd6"
+     "source_revision": "a7abedfe8ed8f9355d8f1e46"
     },
     {
      "derivation": "explicit",
@@ -11613,7 +11803,7 @@
      "reference_source": null,
      "source_id": "6d442705a3682a6bf32a1941",
      "source_part": "body",
-     "source_revision": "f9d97cd36d88b1100c049cd6"
+     "source_revision": "a7abedfe8ed8f9355d8f1e46"
     },
     {
      "derivation": "explicit",
@@ -11623,7 +11813,7 @@
      "reference_source": null,
      "source_id": "6d442705a3682a6bf32a1941",
      "source_part": "body",
-     "source_revision": "f9d97cd36d88b1100c049cd6"
+     "source_revision": "a7abedfe8ed8f9355d8f1e46"
     },
     {
      "derivation": "explicit",
@@ -11633,7 +11823,7 @@
      "reference_source": null,
      "source_id": "6d442705a3682a6bf32a1941",
      "source_part": "body",
-     "source_revision": "f9d97cd36d88b1100c049cd6"
+     "source_revision": "a7abedfe8ed8f9355d8f1e46"
     },
     {
      "derivation": "explicit",
@@ -11643,7 +11833,7 @@
      "reference_source": null,
      "source_id": "6d442705a3682a6bf32a1941",
      "source_part": "body",
-     "source_revision": "f9d97cd36d88b1100c049cd6"
+     "source_revision": "a7abedfe8ed8f9355d8f1e46"
     },
     {
      "derivation": "explicit",
@@ -11653,7 +11843,7 @@
      "reference_source": null,
      "source_id": "6d442705a3682a6bf32a1941",
      "source_part": "body",
-     "source_revision": "f9d97cd36d88b1100c049cd6"
+     "source_revision": "a7abedfe8ed8f9355d8f1e46"
     },
     {
      "derivation": "explicit",
@@ -11663,7 +11853,7 @@
      "reference_source": null,
      "source_id": "6d442705a3682a6bf32a1941",
      "source_part": "body",
-     "source_revision": "f9d97cd36d88b1100c049cd6"
+     "source_revision": "a7abedfe8ed8f9355d8f1e46"
     },
     {
      "derivation": "explicit",
@@ -11673,7 +11863,7 @@
      "reference_source": null,
      "source_id": "6d442705a3682a6bf32a1941",
      "source_part": "body",
-     "source_revision": "f9d97cd36d88b1100c049cd6"
+     "source_revision": "a7abedfe8ed8f9355d8f1e46"
     },
     {
      "derivation": "explicit",
@@ -11683,7 +11873,7 @@
      "reference_source": null,
      "source_id": "6d442705a3682a6bf32a1941",
      "source_part": "body",
-     "source_revision": "f9d97cd36d88b1100c049cd6"
+     "source_revision": "a7abedfe8ed8f9355d8f1e46"
     },
     {
      "derivation": "explicit",
@@ -11693,7 +11883,7 @@
      "reference_source": null,
      "source_id": "6d442705a3682a6bf32a1941",
      "source_part": "body",
-     "source_revision": "f9d97cd36d88b1100c049cd6"
+     "source_revision": "a7abedfe8ed8f9355d8f1e46"
     },
     {
      "derivation": "explicit",
@@ -11703,7 +11893,7 @@
      "reference_source": null,
      "source_id": "6d442705a3682a6bf32a1941",
      "source_part": "body",
-     "source_revision": "f9d97cd36d88b1100c049cd6"
+     "source_revision": "a7abedfe8ed8f9355d8f1e46"
     },
     {
      "derivation": "explicit",
@@ -11713,7 +11903,7 @@
      "reference_source": null,
      "source_id": "6d442705a3682a6bf32a1941",
      "source_part": "body",
-     "source_revision": "f9d97cd36d88b1100c049cd6"
+     "source_revision": "a7abedfe8ed8f9355d8f1e46"
     },
     {
      "derivation": "explicit",
@@ -11723,7 +11913,7 @@
      "reference_source": null,
      "source_id": "6d442705a3682a6bf32a1941",
      "source_part": "body",
-     "source_revision": "f9d97cd36d88b1100c049cd6"
+     "source_revision": "a7abedfe8ed8f9355d8f1e46"
     },
     {
      "derivation": "explicit",
@@ -11733,7 +11923,7 @@
      "reference_source": null,
      "source_id": "6d442705a3682a6bf32a1941",
      "source_part": "body",
-     "source_revision": "f9d97cd36d88b1100c049cd6"
+     "source_revision": "a7abedfe8ed8f9355d8f1e46"
     },
     {
      "derivation": "explicit",
@@ -11743,7 +11933,7 @@
      "reference_source": null,
      "source_id": "6d442705a3682a6bf32a1941",
      "source_part": "body",
-     "source_revision": "f9d97cd36d88b1100c049cd6"
+     "source_revision": "a7abedfe8ed8f9355d8f1e46"
     },
     {
      "derivation": "explicit",
@@ -11753,7 +11943,7 @@
      "reference_source": null,
      "source_id": "6d442705a3682a6bf32a1941",
      "source_part": "body",
-     "source_revision": "f9d97cd36d88b1100c049cd6"
+     "source_revision": "a7abedfe8ed8f9355d8f1e46"
     },
     {
      "derivation": "explicit",
@@ -11763,7 +11953,7 @@
      "reference_source": null,
      "source_id": "6d442705a3682a6bf32a1941",
      "source_part": "body",
-     "source_revision": "f9d97cd36d88b1100c049cd6"
+     "source_revision": "a7abedfe8ed8f9355d8f1e46"
     },
     {
      "derivation": "explicit",
@@ -11773,7 +11963,7 @@
      "reference_source": null,
      "source_id": "6d442705a3682a6bf32a1941",
      "source_part": "body",
-     "source_revision": "f9d97cd36d88b1100c049cd6"
+     "source_revision": "a7abedfe8ed8f9355d8f1e46"
     },
     {
      "derivation": "explicit",
@@ -11783,7 +11973,7 @@
      "reference_source": null,
      "source_id": "6d442705a3682a6bf32a1941",
      "source_part": "body",
-     "source_revision": "f9d97cd36d88b1100c049cd6"
+     "source_revision": "a7abedfe8ed8f9355d8f1e46"
     },
     {
      "derivation": "explicit",
@@ -11793,7 +11983,7 @@
      "reference_source": null,
      "source_id": "6d442705a3682a6bf32a1941",
      "source_part": "body",
-     "source_revision": "f9d97cd36d88b1100c049cd6"
+     "source_revision": "a7abedfe8ed8f9355d8f1e46"
     },
     {
      "derivation": "explicit",
@@ -11803,7 +11993,7 @@
      "reference_source": null,
      "source_id": "6d442705a3682a6bf32a1941",
      "source_part": "body",
-     "source_revision": "f9d97cd36d88b1100c049cd6"
+     "source_revision": "a7abedfe8ed8f9355d8f1e46"
     },
     {
      "derivation": "explicit",
@@ -11813,7 +12003,7 @@
      "reference_source": null,
      "source_id": "6d442705a3682a6bf32a1941",
      "source_part": "body",
-     "source_revision": "f9d97cd36d88b1100c049cd6"
+     "source_revision": "a7abedfe8ed8f9355d8f1e46"
     },
     {
      "derivation": "explicit",
@@ -11823,7 +12013,7 @@
      "reference_source": null,
      "source_id": "6d442705a3682a6bf32a1941",
      "source_part": "body",
-     "source_revision": "f9d97cd36d88b1100c049cd6"
+     "source_revision": "a7abedfe8ed8f9355d8f1e46"
     },
     {
      "derivation": "explicit",
@@ -11833,7 +12023,7 @@
      "reference_source": null,
      "source_id": "6d442705a3682a6bf32a1941",
      "source_part": "body",
-     "source_revision": "f9d97cd36d88b1100c049cd6"
+     "source_revision": "a7abedfe8ed8f9355d8f1e46"
     },
     {
      "derivation": "explicit",
@@ -11843,7 +12033,7 @@
      "reference_source": null,
      "source_id": "6d442705a3682a6bf32a1941",
      "source_part": "body",
-     "source_revision": "f9d97cd36d88b1100c049cd6"
+     "source_revision": "a7abedfe8ed8f9355d8f1e46"
     },
     {
      "derivation": "explicit",
@@ -11853,7 +12043,7 @@
      "reference_source": null,
      "source_id": "6d442705a3682a6bf32a1941",
      "source_part": "body",
-     "source_revision": "f9d97cd36d88b1100c049cd6"
+     "source_revision": "a7abedfe8ed8f9355d8f1e46"
     },
     {
      "derivation": "explicit",
@@ -11863,7 +12053,7 @@
      "reference_source": null,
      "source_id": "6d442705a3682a6bf32a1941",
      "source_part": "body",
-     "source_revision": "f9d97cd36d88b1100c049cd6"
+     "source_revision": "a7abedfe8ed8f9355d8f1e46"
     },
     {
      "derivation": "explicit",
@@ -11873,7 +12063,7 @@
      "reference_source": null,
      "source_id": "6d442705a3682a6bf32a1941",
      "source_part": "body",
-     "source_revision": "f9d97cd36d88b1100c049cd6"
+     "source_revision": "a7abedfe8ed8f9355d8f1e46"
     },
     {
      "derivation": "explicit",
@@ -11883,7 +12073,7 @@
      "reference_source": null,
      "source_id": "6d442705a3682a6bf32a1941",
      "source_part": "body",
-     "source_revision": "f9d97cd36d88b1100c049cd6"
+     "source_revision": "a7abedfe8ed8f9355d8f1e46"
     },
     {
      "derivation": "explicit",
@@ -11893,7 +12083,7 @@
      "reference_source": null,
      "source_id": "6d442705a3682a6bf32a1941",
      "source_part": "body",
-     "source_revision": "f9d97cd36d88b1100c049cd6"
+     "source_revision": "a7abedfe8ed8f9355d8f1e46"
     },
     {
      "derivation": "explicit",
@@ -11903,7 +12093,7 @@
      "reference_source": null,
      "source_id": "6d442705a3682a6bf32a1941",
      "source_part": "body",
-     "source_revision": "f9d97cd36d88b1100c049cd6"
+     "source_revision": "a7abedfe8ed8f9355d8f1e46"
     },
     {
      "derivation": "explicit",
@@ -11913,7 +12103,7 @@
      "reference_source": null,
      "source_id": "6d442705a3682a6bf32a1941",
      "source_part": "body",
-     "source_revision": "f9d97cd36d88b1100c049cd6"
+     "source_revision": "a7abedfe8ed8f9355d8f1e46"
     },
     {
      "derivation": "explicit",
@@ -11923,7 +12113,7 @@
      "reference_source": null,
      "source_id": "6d442705a3682a6bf32a1941",
      "source_part": "body",
-     "source_revision": "f9d97cd36d88b1100c049cd6"
+     "source_revision": "a7abedfe8ed8f9355d8f1e46"
     },
     {
      "derivation": "explicit",
@@ -11933,7 +12123,7 @@
      "reference_source": null,
      "source_id": "6d442705a3682a6bf32a1941",
      "source_part": "body",
-     "source_revision": "f9d97cd36d88b1100c049cd6"
+     "source_revision": "a7abedfe8ed8f9355d8f1e46"
     },
     {
      "derivation": "explicit",
@@ -11943,7 +12133,7 @@
      "reference_source": null,
      "source_id": "6d442705a3682a6bf32a1941",
      "source_part": "body",
-     "source_revision": "f9d97cd36d88b1100c049cd6"
+     "source_revision": "a7abedfe8ed8f9355d8f1e46"
     },
     {
      "derivation": "explicit",
@@ -11953,7 +12143,7 @@
      "reference_source": null,
      "source_id": "6d442705a3682a6bf32a1941",
      "source_part": "body",
-     "source_revision": "f9d97cd36d88b1100c049cd6"
+     "source_revision": "a7abedfe8ed8f9355d8f1e46"
     },
     {
      "derivation": "explicit",
@@ -11963,7 +12153,7 @@
      "reference_source": null,
      "source_id": "6d442705a3682a6bf32a1941",
      "source_part": "body",
-     "source_revision": "f9d97cd36d88b1100c049cd6"
+     "source_revision": "a7abedfe8ed8f9355d8f1e46"
     },
     {
      "derivation": "explicit",
@@ -11973,7 +12163,7 @@
      "reference_source": null,
      "source_id": "6d442705a3682a6bf32a1941",
      "source_part": "body",
-     "source_revision": "f9d97cd36d88b1100c049cd6"
+     "source_revision": "a7abedfe8ed8f9355d8f1e46"
     },
     {
      "derivation": "explicit",
@@ -11983,7 +12173,7 @@
      "reference_source": null,
      "source_id": "6d442705a3682a6bf32a1941",
      "source_part": "body",
-     "source_revision": "f9d97cd36d88b1100c049cd6"
+     "source_revision": "a7abedfe8ed8f9355d8f1e46"
     },
     {
      "derivation": "explicit",
@@ -11993,7 +12183,7 @@
      "reference_source": null,
      "source_id": "6d442705a3682a6bf32a1941",
      "source_part": "body",
-     "source_revision": "f9d97cd36d88b1100c049cd6"
+     "source_revision": "a7abedfe8ed8f9355d8f1e46"
     },
     {
      "derivation": "explicit",
@@ -12003,7 +12193,7 @@
      "reference_source": null,
      "source_id": "6d442705a3682a6bf32a1941",
      "source_part": "body",
-     "source_revision": "f9d97cd36d88b1100c049cd6"
+     "source_revision": "a7abedfe8ed8f9355d8f1e46"
     },
     {
      "derivation": "explicit",
@@ -12013,7 +12203,7 @@
      "reference_source": null,
      "source_id": "6d442705a3682a6bf32a1941",
      "source_part": "body",
-     "source_revision": "f9d97cd36d88b1100c049cd6"
+     "source_revision": "a7abedfe8ed8f9355d8f1e46"
     },
     {
      "derivation": "explicit",
@@ -12023,7 +12213,7 @@
      "reference_source": null,
      "source_id": "6d442705a3682a6bf32a1941",
      "source_part": "body",
-     "source_revision": "f9d97cd36d88b1100c049cd6"
+     "source_revision": "a7abedfe8ed8f9355d8f1e46"
     },
     {
      "derivation": "explicit",
@@ -12033,7 +12223,7 @@
      "reference_source": null,
      "source_id": "6d442705a3682a6bf32a1941",
      "source_part": "body",
-     "source_revision": "f9d97cd36d88b1100c049cd6"
+     "source_revision": "a7abedfe8ed8f9355d8f1e46"
     },
     {
      "derivation": "explicit",
@@ -12043,7 +12233,7 @@
      "reference_source": null,
      "source_id": "6d442705a3682a6bf32a1941",
      "source_part": "body",
-     "source_revision": "f9d97cd36d88b1100c049cd6"
+     "source_revision": "a7abedfe8ed8f9355d8f1e46"
     },
     {
      "derivation": "explicit",
@@ -12053,7 +12243,7 @@
      "reference_source": null,
      "source_id": "6d442705a3682a6bf32a1941",
      "source_part": "body",
-     "source_revision": "f9d97cd36d88b1100c049cd6"
+     "source_revision": "a7abedfe8ed8f9355d8f1e46"
     }
    ],
    "exceptions": [],
@@ -12128,127 +12318,125 @@
   },
   {
    "assertion": "planned",
-   "checked_at": "2026-11-20T19:51:17.910650+09:00",
+   "checked_at": "2026-11-21T04:32:27.663369+09:00",
    "conflict": false,
    "demo": false,
    "disruption_confirmed": false,
-   "event_id": "015b0f4eaa2afb51e751b2a8",
+   "event_id": "d5cce66ae02c29c1baad4426",
    "event_name": "파업 사건",
    "evidence": [
     {
      "derivation": "explicit",
      "effective_at": null,
      "field_path": "/article_relevance",
-     "quote": "서울 시내 버스 파업이 이어지고 있는 14일 출근시간대 서울 지하철 2호선 시청역에 도착하는 열차가 시민들로 붐비고 있다.",
+     "quote": "3개 노조는 안전운행 투쟁에도 정부와 서울시가 응답하지 않을 경우 예정대로 무기한 총파업에 나선다.",
      "reference_source": null,
-     "source_id": "db68d45423fad6bea864a6fb",
+     "source_id": "9ad00f4ebeba81fd30b82e89",
      "source_part": "body",
-     "source_revision": "9b60a513c157e2f59759a542"
+     "source_revision": "e4dd24983761393e2135da30"
     },
     {
      "derivation": "explicit",
      "effective_at": null,
      "field_path": "/transport_mode",
-     "quote": "서울 시내 버스 파업이 이어지고 있는 14일 출근시간대 서울 지하철 2호선 시청역에 도착하는 열차가 시민들로 붐비고 있다.",
+     "quote": "3개 노조는 안전운행 투쟁에도 정부와 서울시가 응답하지 않을 경우 예정대로 무기한 총파업에 나선다.",
      "reference_source": null,
-     "source_id": "db68d45423fad6bea864a6fb",
+     "source_id": "9ad00f4ebeba81fd30b82e89",
      "source_part": "body",
-     "source_revision": "9b60a513c157e2f59759a542"
+     "source_revision": "e4dd24983761393e2135da30"
     },
     {
      "derivation": "explicit",
      "effective_at": null,
      "field_path": "/affected_regions",
-     "quote": "서울 시내 버스 파업이 이어지고 있는 14일 출근시간대 서울 지하철 2호선 시청역에 도착하는 열차가 시민들로 붐비고 있다.",
+     "quote": "3개 노조는 안전운행 투쟁에도 정부와 서울시가 응답하지 않을 경우 예정대로 무기한 총파업에 나선다.",
      "reference_source": null,
-     "source_id": "db68d45423fad6bea864a6fb",
+     "source_id": "9ad00f4ebeba81fd30b82e89",
      "source_part": "body",
-     "source_revision": "9b60a513c157e2f59759a542"
+     "source_revision": "e4dd24983761393e2135da30"
     },
     {
      "derivation": "explicit",
      "effective_at": null,
      "field_path": "/affected_routes",
-     "quote": "서울 시내 버스 파업이 이어지고 있는 14일 출근시간대 서울 지하철 2호선 시청역에 도착하는 열차가 시민들로 붐비고 있다.",
+     "quote": "3개 노조는 안전운행 투쟁에도 정부와 서울시가 응답하지 않을 경우 예정대로 무기한 총파업에 나선다.",
      "reference_source": null,
-     "source_id": "db68d45423fad6bea864a6fb",
+     "source_id": "9ad00f4ebeba81fd30b82e89",
      "source_part": "body",
-     "source_revision": "9b60a513c157e2f59759a542"
+     "source_revision": "e4dd24983761393e2135da30"
     },
     {
      "derivation": "explicit",
      "effective_at": null,
      "field_path": "/strike_status",
-     "quote": "서울 시내 버스 파업이 이어지고 있는 14일 출근시간대 서울 지하철 2호선 시청역에 도착하는 열차가 시민들로 붐비고 있다.",
+     "quote": "3개 노조는 안전운행 투쟁에도 정부와 서울시가 응답하지 않을 경우 예정대로 무기한 총파업에 나선다.",
      "reference_source": null,
-     "source_id": "db68d45423fad6bea864a6fb",
+     "source_id": "9ad00f4ebeba81fd30b82e89",
      "source_part": "body",
-     "source_revision": "9b60a513c157e2f59759a542"
+     "source_revision": "e4dd24983761393e2135da30"
     },
     {
      "derivation": "explicit",
      "effective_at": null,
      "field_path": "/service_status",
-     "quote": "서울 시내 버스 파업이 이어지고 있는 14일 출근시간대 서울 지하철 2호선 시청역에 도착하는 열차가 시민들로 붐비고 있다.",
+     "quote": "3개 노조는 안전운행 투쟁에도 정부와 서울시가 응답하지 않을 경우 예정대로 무기한 총파업에 나선다.",
      "reference_source": null,
-     "source_id": "db68d45423fad6bea864a6fb",
+     "source_id": "9ad00f4ebeba81fd30b82e89",
      "source_part": "body",
-     "source_revision": "9b60a513c157e2f59759a542"
+     "source_revision": "e4dd24983761393e2135da30"
     },
     {
      "derivation": "explicit",
      "effective_at": null,
      "field_path": "/normal_service_exceptions",
-     "quote": "서울 시내 버스 파업이 이어지고 있는 14일 출근시간대 서울 지하철 2호선 시청역에 도착하는 열차가 시민들로 붐비고 있다.",
+     "quote": "3개 노조는 안전운행 투쟁에도 정부와 서울시가 응답하지 않을 경우 예정대로 무기한 총파업에 나선다.",
      "reference_source": null,
-     "source_id": "db68d45423fad6bea864a6fb",
+     "source_id": "9ad00f4ebeba81fd30b82e89",
      "source_part": "body",
-     "source_revision": "9b60a513c157e2f59759a542"
+     "source_revision": "e4dd24983761393e2135da30"
     },
     {
      "derivation": "explicit",
      "effective_at": null,
      "field_path": "/alternative_services",
-     "quote": "서울 시내 버스 파업이 이어지고 있는 14일 출근시간대 서울 지하철 2호선 시청역에 도착하는 열차가 시민들로 붐비고 있다.",
+     "quote": "3개 노조는 안전운행 투쟁에도 정부와 서울시가 응답하지 않을 경우 예정대로 무기한 총파업에 나선다.",
      "reference_source": null,
-     "source_id": "db68d45423fad6bea864a6fb",
+     "source_id": "9ad00f4ebeba81fd30b82e89",
      "source_part": "body",
-     "source_revision": "9b60a513c157e2f59759a542"
+     "source_revision": "e4dd24983761393e2135da30"
     },
     {
      "derivation": "explicit",
      "effective_at": null,
      "field_path": "/start",
-     "quote": "서울 시내 버스 파업이 이어지고 있는 14일 출근시간대 서울 지하철 2호선 시청역에 도착하는 열차가 시민들로 붐비고 있다.",
+     "quote": "3개 노조는 안전운행 투쟁에도 정부와 서울시가 응답하지 않을 경우 예정대로 무기한 총파업에 나선다.",
      "reference_source": null,
-     "source_id": "db68d45423fad6bea864a6fb",
+     "source_id": "9ad00f4ebeba81fd30b82e89",
      "source_part": "body",
-     "source_revision": "9b60a513c157e2f59759a542"
+     "source_revision": "e4dd24983761393e2135da30"
     },
     {
      "derivation": "explicit",
      "effective_at": null,
      "field_path": "/end",
-     "quote": "서울 시내 버스 파업이 이어지고 있는 14일 출근시간대 서울 지하철 2호선 시청역에 도착하는 열차가 시민들로 붐비고 있다.",
+     "quote": "3개 노조는 안전운행 투쟁에도 정부와 서울시가 응답하지 않을 경우 예정대로 무기한 총파업에 나선다.",
      "reference_source": null,
-     "source_id": "db68d45423fad6bea864a6fb",
+     "source_id": "9ad00f4ebeba81fd30b82e89",
      "source_part": "body",
-     "source_revision": "9b60a513c157e2f59759a542"
+     "source_revision": "e4dd24983761393e2135da30"
     }
    ],
    "exceptions": [],
-   "id": "df8141724941d1891039ee43",
-   "modes": [
-    "bus"
-   ],
+   "id": "16b8b279deb11b688263fc0e",
+   "modes": [],
    "period": {
     "condition": null,
     "end": {
      "assertion": "unknown",
      "basis": "unknown",
      "date": null,
-     "open_ended": null,
-     "raw": null,
+     "open_ended": true,
+     "raw": "무기한",
      "time": null,
      "timezone": "Asia/Seoul"
     },
@@ -12263,7 +12451,7 @@
      "timezone": "Asia/Seoul"
     }
    },
-   "published_at": "2026-11-20T07:39:00+09:00",
+   "published_at": "2026-11-20T08:58:00+09:00",
    "review_reasons": [
     "UNSUPPORTED_OR_AMBIGUOUS_STATUS",
     "DATE_UNCONFIRMED"
@@ -12271,34 +12459,26 @@
    "scope": [
     {
      "derivation": "article_explicit",
-     "normalized_name": "2호선",
-     "raw": "2호선",
+     "normalized_name": "나선",
+     "raw": "나선",
      "reference_id": null,
      "reference_source": null,
-     "region": "서울"
-    },
-    {
-     "derivation": "article_explicit",
-     "normalized_name": "시청역",
-     "raw": "시청역",
-     "reference_id": null,
-     "reference_source": null,
-     "region": "서울"
+     "region": null
     }
    ],
    "service_status": [],
-   "source_url": "https://www.khan.co.kr/article/202611200739001",
+   "source_url": "https://www.newspim.com/news/view/20261120000191",
    "status": "UNKNOWN",
    "status_effective_at": null,
    "strike_status": "unknown",
    "type": "STRIKE",
-   "updated_at": null,
+   "updated_at": "2026-11-20T08:59:00+09:00",
    "version": 1,
    "body_verified": true
   },
   {
    "assertion": "planned",
-   "checked_at": "2026-11-20T19:51:23.900572+09:00",
+   "checked_at": "2026-11-21T04:32:32.096719+09:00",
    "conflict": false,
    "demo": false,
    "disruption_confirmed": true,
@@ -12697,7 +12877,7 @@
   },
   {
    "assertion": "planned",
-   "checked_at": "2026-11-20T19:51:23.900572+09:00",
+   "checked_at": "2026-11-21T04:32:32.096719+09:00",
    "conflict": false,
    "demo": false,
    "disruption_confirmed": false,
@@ -12886,7 +13066,7 @@
       "source_url": "https://www.newspim.com/news/view/20261120000258",
       "published_at": "2026-11-20T09:34:00+09:00",
       "updated_at": "2026-11-20T09:34:00+09:00",
-      "collected_at": "2026-11-20T19:50:58.635985+09:00",
+      "collected_at": "2026-11-21T04:32:02.477369+09:00",
       "field_evidence": [
        {
         "field_path": "/article_relevance",
@@ -13028,7 +13208,7 @@
       "source_url": "https://www.newspim.com/news/view/20261120000258",
       "published_at": "2026-11-20T09:34:00+09:00",
       "updated_at": "2026-11-20T09:34:00+09:00",
-      "collected_at": "2026-11-20T19:50:58.635985+09:00",
+      "collected_at": "2026-11-21T04:32:02.477369+09:00",
       "field_evidence": [
        {
         "field_path": "/article_relevance",
@@ -13170,7 +13350,7 @@
       "source_url": "https://www.newspim.com/news/view/20261120000258",
       "published_at": "2026-11-20T09:34:00+09:00",
       "updated_at": "2026-11-20T09:34:00+09:00",
-      "collected_at": "2026-11-20T19:50:58.635985+09:00",
+      "collected_at": "2026-11-21T04:32:02.477369+09:00",
       "field_evidence": [
        {
         "field_path": "/article_relevance",
@@ -13312,7 +13492,7 @@
       "source_url": "https://www.newspim.com/news/view/20261120000258",
       "published_at": "2026-11-20T09:34:00+09:00",
       "updated_at": "2026-11-20T09:34:00+09:00",
-      "collected_at": "2026-11-20T19:50:58.635985+09:00",
+      "collected_at": "2026-11-21T04:32:02.477369+09:00",
       "field_evidence": [
        {
         "field_path": "/article_relevance",
@@ -13454,7 +13634,7 @@
       "source_url": "https://www.newspim.com/news/view/20261120000258",
       "published_at": "2026-11-20T09:34:00+09:00",
       "updated_at": "2026-11-20T09:34:00+09:00",
-      "collected_at": "2026-11-20T19:50:58.635985+09:00",
+      "collected_at": "2026-11-21T04:32:02.477369+09:00",
       "field_evidence": [
        {
         "field_path": "/article_relevance",
@@ -13671,7 +13851,7 @@
      "source_revision": "d53120f0b68221a6442648a4",
      "published_at": "2026-11-20T09:34:00+09:00",
      "updated_at": "2026-11-20T09:34:00+09:00",
-     "collected_at": "2026-11-20T19:50:58.635985+09:00"
+     "collected_at": "2026-11-21T04:32:02.477369+09:00"
     },
     "events": [],
     "review_reasons": [
@@ -13717,7 +13897,7 @@
       "source_url": "https://www.yna.co.kr/view/AKR20261118007000079?input=1195m",
       "published_at": "2026-11-18T03:43:59+09:00",
       "updated_at": "2026-11-18T09:34:21+09:00",
-      "collected_at": "2026-11-20T19:51:06.491153+09:00",
+      "collected_at": "2026-11-21T04:32:14.313956+09:00",
       "field_evidence": [
        {
         "field_path": "/article_relevance",
@@ -13834,7 +14014,7 @@
      "source_revision": "803fca1dcdf7c4adcd01d505",
      "published_at": "2026-11-18T03:43:59+09:00",
      "updated_at": "2026-11-18T09:34:21+09:00",
-     "collected_at": "2026-11-20T19:51:06.491153+09:00"
+     "collected_at": "2026-11-21T04:32:14.313956+09:00"
     },
     "events": [],
     "review_reasons": [
@@ -13882,7 +14062,7 @@
       "source_url": "https://www.seoul.co.kr/news/plan/Runner-supply-depot/2026/11/20/20261120035001?wlog_tag3=naver",
       "published_at": "2026-11-19T21:59:02+09:00",
       "updated_at": "2026-11-20T00:36:32+09:00",
-      "collected_at": "2026-11-20T19:51:10.378996+09:00",
+      "collected_at": "2026-11-21T04:32:19.774574+09:00",
       "field_evidence": [
        {
         "field_path": "/article_relevance",
@@ -13999,7 +14179,7 @@
      "source_revision": "f1f2d1c25e1728d204b5c71f",
      "published_at": "2026-11-19T21:59:02+09:00",
      "updated_at": "2026-11-20T00:36:32+09:00",
-     "collected_at": "2026-11-20T19:51:10.378996+09:00"
+     "collected_at": "2026-11-21T04:32:19.774574+09:00"
     },
     "events": [
      {
@@ -14949,7 +15129,7 @@
       "source_url": "https://www.seoul.co.kr/news/society/2026/11/20/20261120500022?wlog_tag3=naver",
       "published_at": "2026-11-20T09:04:56+09:00",
       "updated_at": "2026-11-20T09:06:05+09:00",
-      "collected_at": "2026-11-20T19:51:12.433191+09:00",
+      "collected_at": "2026-11-21T04:32:22.252104+09:00",
       "field_evidence": [
        {
         "field_path": "/article_relevance",
@@ -15093,7 +15273,7 @@
       "source_url": "https://www.seoul.co.kr/news/society/2026/11/20/20261120500022?wlog_tag3=naver",
       "published_at": "2026-11-20T09:04:56+09:00",
       "updated_at": "2026-11-20T09:06:05+09:00",
-      "collected_at": "2026-11-20T19:51:12.433191+09:00",
+      "collected_at": "2026-11-21T04:32:22.252104+09:00",
       "field_evidence": [
        {
         "field_path": "/article_relevance",
@@ -15235,7 +15415,7 @@
       "source_url": "https://www.seoul.co.kr/news/society/2026/11/20/20261120500022?wlog_tag3=naver",
       "published_at": "2026-11-20T09:04:56+09:00",
       "updated_at": "2026-11-20T09:06:05+09:00",
-      "collected_at": "2026-11-20T19:51:12.433191+09:00",
+      "collected_at": "2026-11-21T04:32:22.252104+09:00",
       "field_evidence": [
        {
         "field_path": "/article_relevance",
@@ -15379,7 +15559,7 @@
       "source_url": "https://www.seoul.co.kr/news/society/2026/11/20/20261120500022?wlog_tag3=naver",
       "published_at": "2026-11-20T09:04:56+09:00",
       "updated_at": "2026-11-20T09:06:05+09:00",
-      "collected_at": "2026-11-20T19:51:12.433191+09:00",
+      "collected_at": "2026-11-21T04:32:22.252104+09:00",
       "field_evidence": [
        {
         "field_path": "/article_relevance",
@@ -15696,7 +15876,7 @@
      "source_revision": "4e4ff2897e6705b0fea4bd42",
      "published_at": "2026-11-20T09:04:56+09:00",
      "updated_at": "2026-11-20T09:06:05+09:00",
-     "collected_at": "2026-11-20T19:51:12.433191+09:00"
+     "collected_at": "2026-11-21T04:32:22.252104+09:00"
     },
     "events": [],
     "review_reasons": []
@@ -15751,7 +15931,7 @@
       "source_url": "https://www.hankyung.com/article/2026112007411",
       "published_at": "2026-11-20T17:35:59+09:00",
       "updated_at": null,
-      "collected_at": "2026-11-20T19:51:14.700505+09:00",
+      "collected_at": "2026-11-21T04:32:24.674996+09:00",
       "field_evidence": [
        {
         "field_path": "/article_relevance",
@@ -15760,7 +15940,7 @@
         "effective_at": null,
         "derivation": "explicit",
         "source_id": "6d442705a3682a6bf32a1941",
-        "source_revision": "f9d97cd36d88b1100c049cd6",
+        "source_revision": "a7abedfe8ed8f9355d8f1e46",
         "reference_source": null
        },
        {
@@ -15770,7 +15950,7 @@
         "effective_at": null,
         "derivation": "explicit",
         "source_id": "6d442705a3682a6bf32a1941",
-        "source_revision": "f9d97cd36d88b1100c049cd6",
+        "source_revision": "a7abedfe8ed8f9355d8f1e46",
         "reference_source": null
        },
        {
@@ -15780,7 +15960,7 @@
         "effective_at": null,
         "derivation": "explicit",
         "source_id": "6d442705a3682a6bf32a1941",
-        "source_revision": "f9d97cd36d88b1100c049cd6",
+        "source_revision": "a7abedfe8ed8f9355d8f1e46",
         "reference_source": null
        },
        {
@@ -15790,7 +15970,7 @@
         "effective_at": null,
         "derivation": "explicit",
         "source_id": "6d442705a3682a6bf32a1941",
-        "source_revision": "f9d97cd36d88b1100c049cd6",
+        "source_revision": "a7abedfe8ed8f9355d8f1e46",
         "reference_source": null
        },
        {
@@ -15800,7 +15980,7 @@
         "effective_at": null,
         "derivation": "explicit",
         "source_id": "6d442705a3682a6bf32a1941",
-        "source_revision": "f9d97cd36d88b1100c049cd6",
+        "source_revision": "a7abedfe8ed8f9355d8f1e46",
         "reference_source": null
        },
        {
@@ -15810,7 +15990,7 @@
         "effective_at": null,
         "derivation": "explicit",
         "source_id": "6d442705a3682a6bf32a1941",
-        "source_revision": "f9d97cd36d88b1100c049cd6",
+        "source_revision": "a7abedfe8ed8f9355d8f1e46",
         "reference_source": null
        },
        {
@@ -15820,7 +16000,7 @@
         "effective_at": null,
         "derivation": "explicit",
         "source_id": "6d442705a3682a6bf32a1941",
-        "source_revision": "f9d97cd36d88b1100c049cd6",
+        "source_revision": "a7abedfe8ed8f9355d8f1e46",
         "reference_source": null
        },
        {
@@ -15830,7 +16010,7 @@
         "effective_at": null,
         "derivation": "explicit",
         "source_id": "6d442705a3682a6bf32a1941",
-        "source_revision": "f9d97cd36d88b1100c049cd6",
+        "source_revision": "a7abedfe8ed8f9355d8f1e46",
         "reference_source": null
        },
        {
@@ -15840,7 +16020,7 @@
         "effective_at": null,
         "derivation": "explicit",
         "source_id": "6d442705a3682a6bf32a1941",
-        "source_revision": "f9d97cd36d88b1100c049cd6",
+        "source_revision": "a7abedfe8ed8f9355d8f1e46",
         "reference_source": null
        },
        {
@@ -15850,7 +16030,7 @@
         "effective_at": null,
         "derivation": "explicit",
         "source_id": "6d442705a3682a6bf32a1941",
-        "source_revision": "f9d97cd36d88b1100c049cd6",
+        "source_revision": "a7abedfe8ed8f9355d8f1e46",
         "reference_source": null
        },
        {
@@ -15860,7 +16040,7 @@
         "effective_at": null,
         "derivation": "explicit",
         "source_id": "6d442705a3682a6bf32a1941",
-        "source_revision": "f9d97cd36d88b1100c049cd6",
+        "source_revision": "a7abedfe8ed8f9355d8f1e46",
         "reference_source": null
        },
        {
@@ -15870,7 +16050,7 @@
         "effective_at": null,
         "derivation": "explicit",
         "source_id": "6d442705a3682a6bf32a1941",
-        "source_revision": "f9d97cd36d88b1100c049cd6",
+        "source_revision": "a7abedfe8ed8f9355d8f1e46",
         "reference_source": null
        },
        {
@@ -15880,7 +16060,7 @@
         "effective_at": null,
         "derivation": "explicit",
         "source_id": "6d442705a3682a6bf32a1941",
-        "source_revision": "f9d97cd36d88b1100c049cd6",
+        "source_revision": "a7abedfe8ed8f9355d8f1e46",
         "reference_source": null
        },
        {
@@ -15890,7 +16070,7 @@
         "effective_at": null,
         "derivation": "explicit",
         "source_id": "6d442705a3682a6bf32a1941",
-        "source_revision": "f9d97cd36d88b1100c049cd6",
+        "source_revision": "a7abedfe8ed8f9355d8f1e46",
         "reference_source": null
        },
        {
@@ -15900,7 +16080,7 @@
         "effective_at": null,
         "derivation": "explicit",
         "source_id": "6d442705a3682a6bf32a1941",
-        "source_revision": "f9d97cd36d88b1100c049cd6",
+        "source_revision": "a7abedfe8ed8f9355d8f1e46",
         "reference_source": null
        },
        {
@@ -15910,7 +16090,7 @@
         "effective_at": null,
         "derivation": "explicit",
         "source_id": "6d442705a3682a6bf32a1941",
-        "source_revision": "f9d97cd36d88b1100c049cd6",
+        "source_revision": "a7abedfe8ed8f9355d8f1e46",
         "reference_source": null
        },
        {
@@ -15920,7 +16100,7 @@
         "effective_at": null,
         "derivation": "explicit",
         "source_id": "6d442705a3682a6bf32a1941",
-        "source_revision": "f9d97cd36d88b1100c049cd6",
+        "source_revision": "a7abedfe8ed8f9355d8f1e46",
         "reference_source": null
        },
        {
@@ -15930,7 +16110,7 @@
         "effective_at": null,
         "derivation": "explicit",
         "source_id": "6d442705a3682a6bf32a1941",
-        "source_revision": "f9d97cd36d88b1100c049cd6",
+        "source_revision": "a7abedfe8ed8f9355d8f1e46",
         "reference_source": null
        },
        {
@@ -15940,7 +16120,7 @@
         "effective_at": null,
         "derivation": "explicit",
         "source_id": "6d442705a3682a6bf32a1941",
-        "source_revision": "f9d97cd36d88b1100c049cd6",
+        "source_revision": "a7abedfe8ed8f9355d8f1e46",
         "reference_source": null
        },
        {
@@ -15950,7 +16130,7 @@
         "effective_at": null,
         "derivation": "explicit",
         "source_id": "6d442705a3682a6bf32a1941",
-        "source_revision": "f9d97cd36d88b1100c049cd6",
+        "source_revision": "a7abedfe8ed8f9355d8f1e46",
         "reference_source": null
        }
       ],
@@ -16026,7 +16206,7 @@
       "source_url": "https://www.hankyung.com/article/2026112007411",
       "published_at": "2026-11-20T17:35:59+09:00",
       "updated_at": null,
-      "collected_at": "2026-11-20T19:51:14.700505+09:00",
+      "collected_at": "2026-11-21T04:32:24.674996+09:00",
       "field_evidence": [
        {
         "field_path": "/article_relevance",
@@ -16035,7 +16215,7 @@
         "effective_at": null,
         "derivation": "explicit",
         "source_id": "6d442705a3682a6bf32a1941",
-        "source_revision": "f9d97cd36d88b1100c049cd6",
+        "source_revision": "a7abedfe8ed8f9355d8f1e46",
         "reference_source": null
        },
        {
@@ -16045,7 +16225,7 @@
         "effective_at": null,
         "derivation": "explicit",
         "source_id": "6d442705a3682a6bf32a1941",
-        "source_revision": "f9d97cd36d88b1100c049cd6",
+        "source_revision": "a7abedfe8ed8f9355d8f1e46",
         "reference_source": null
        },
        {
@@ -16055,7 +16235,7 @@
         "effective_at": null,
         "derivation": "explicit",
         "source_id": "6d442705a3682a6bf32a1941",
-        "source_revision": "f9d97cd36d88b1100c049cd6",
+        "source_revision": "a7abedfe8ed8f9355d8f1e46",
         "reference_source": null
        },
        {
@@ -16065,7 +16245,7 @@
         "effective_at": null,
         "derivation": "explicit",
         "source_id": "6d442705a3682a6bf32a1941",
-        "source_revision": "f9d97cd36d88b1100c049cd6",
+        "source_revision": "a7abedfe8ed8f9355d8f1e46",
         "reference_source": null
        },
        {
@@ -16075,7 +16255,7 @@
         "effective_at": null,
         "derivation": "explicit",
         "source_id": "6d442705a3682a6bf32a1941",
-        "source_revision": "f9d97cd36d88b1100c049cd6",
+        "source_revision": "a7abedfe8ed8f9355d8f1e46",
         "reference_source": null
        },
        {
@@ -16085,7 +16265,7 @@
         "effective_at": null,
         "derivation": "explicit",
         "source_id": "6d442705a3682a6bf32a1941",
-        "source_revision": "f9d97cd36d88b1100c049cd6",
+        "source_revision": "a7abedfe8ed8f9355d8f1e46",
         "reference_source": null
        },
        {
@@ -16095,7 +16275,7 @@
         "effective_at": null,
         "derivation": "explicit",
         "source_id": "6d442705a3682a6bf32a1941",
-        "source_revision": "f9d97cd36d88b1100c049cd6",
+        "source_revision": "a7abedfe8ed8f9355d8f1e46",
         "reference_source": null
        },
        {
@@ -16105,7 +16285,7 @@
         "effective_at": null,
         "derivation": "explicit",
         "source_id": "6d442705a3682a6bf32a1941",
-        "source_revision": "f9d97cd36d88b1100c049cd6",
+        "source_revision": "a7abedfe8ed8f9355d8f1e46",
         "reference_source": null
        },
        {
@@ -16115,7 +16295,7 @@
         "effective_at": null,
         "derivation": "explicit",
         "source_id": "6d442705a3682a6bf32a1941",
-        "source_revision": "f9d97cd36d88b1100c049cd6",
+        "source_revision": "a7abedfe8ed8f9355d8f1e46",
         "reference_source": null
        },
        {
@@ -16125,7 +16305,7 @@
         "effective_at": null,
         "derivation": "explicit",
         "source_id": "6d442705a3682a6bf32a1941",
-        "source_revision": "f9d97cd36d88b1100c049cd6",
+        "source_revision": "a7abedfe8ed8f9355d8f1e46",
         "reference_source": null
        },
        {
@@ -16135,7 +16315,7 @@
         "effective_at": null,
         "derivation": "explicit",
         "source_id": "6d442705a3682a6bf32a1941",
-        "source_revision": "f9d97cd36d88b1100c049cd6",
+        "source_revision": "a7abedfe8ed8f9355d8f1e46",
         "reference_source": null
        },
        {
@@ -16145,7 +16325,7 @@
         "effective_at": null,
         "derivation": "explicit",
         "source_id": "6d442705a3682a6bf32a1941",
-        "source_revision": "f9d97cd36d88b1100c049cd6",
+        "source_revision": "a7abedfe8ed8f9355d8f1e46",
         "reference_source": null
        },
        {
@@ -16155,7 +16335,7 @@
         "effective_at": null,
         "derivation": "explicit",
         "source_id": "6d442705a3682a6bf32a1941",
-        "source_revision": "f9d97cd36d88b1100c049cd6",
+        "source_revision": "a7abedfe8ed8f9355d8f1e46",
         "reference_source": null
        },
        {
@@ -16165,7 +16345,7 @@
         "effective_at": null,
         "derivation": "explicit",
         "source_id": "6d442705a3682a6bf32a1941",
-        "source_revision": "f9d97cd36d88b1100c049cd6",
+        "source_revision": "a7abedfe8ed8f9355d8f1e46",
         "reference_source": null
        },
        {
@@ -16175,7 +16355,7 @@
         "effective_at": null,
         "derivation": "explicit",
         "source_id": "6d442705a3682a6bf32a1941",
-        "source_revision": "f9d97cd36d88b1100c049cd6",
+        "source_revision": "a7abedfe8ed8f9355d8f1e46",
         "reference_source": null
        },
        {
@@ -16185,7 +16365,7 @@
         "effective_at": null,
         "derivation": "explicit",
         "source_id": "6d442705a3682a6bf32a1941",
-        "source_revision": "f9d97cd36d88b1100c049cd6",
+        "source_revision": "a7abedfe8ed8f9355d8f1e46",
         "reference_source": null
        },
        {
@@ -16195,7 +16375,7 @@
         "effective_at": null,
         "derivation": "explicit",
         "source_id": "6d442705a3682a6bf32a1941",
-        "source_revision": "f9d97cd36d88b1100c049cd6",
+        "source_revision": "a7abedfe8ed8f9355d8f1e46",
         "reference_source": null
        },
        {
@@ -16205,7 +16385,7 @@
         "effective_at": null,
         "derivation": "explicit",
         "source_id": "6d442705a3682a6bf32a1941",
-        "source_revision": "f9d97cd36d88b1100c049cd6",
+        "source_revision": "a7abedfe8ed8f9355d8f1e46",
         "reference_source": null
        },
        {
@@ -16215,7 +16395,7 @@
         "effective_at": null,
         "derivation": "explicit",
         "source_id": "6d442705a3682a6bf32a1941",
-        "source_revision": "f9d97cd36d88b1100c049cd6",
+        "source_revision": "a7abedfe8ed8f9355d8f1e46",
         "reference_source": null
        },
        {
@@ -16225,7 +16405,7 @@
         "effective_at": null,
         "derivation": "explicit",
         "source_id": "6d442705a3682a6bf32a1941",
-        "source_revision": "f9d97cd36d88b1100c049cd6",
+        "source_revision": "a7abedfe8ed8f9355d8f1e46",
         "reference_source": null
        },
        {
@@ -16235,7 +16415,7 @@
         "effective_at": null,
         "derivation": "explicit",
         "source_id": "6d442705a3682a6bf32a1941",
-        "source_revision": "f9d97cd36d88b1100c049cd6",
+        "source_revision": "a7abedfe8ed8f9355d8f1e46",
         "reference_source": null
        },
        {
@@ -16245,7 +16425,7 @@
         "effective_at": null,
         "derivation": "explicit",
         "source_id": "6d442705a3682a6bf32a1941",
-        "source_revision": "f9d97cd36d88b1100c049cd6",
+        "source_revision": "a7abedfe8ed8f9355d8f1e46",
         "reference_source": null
        },
        {
@@ -16255,7 +16435,7 @@
         "effective_at": null,
         "derivation": "explicit",
         "source_id": "6d442705a3682a6bf32a1941",
-        "source_revision": "f9d97cd36d88b1100c049cd6",
+        "source_revision": "a7abedfe8ed8f9355d8f1e46",
         "reference_source": null
        },
        {
@@ -16265,7 +16445,7 @@
         "effective_at": null,
         "derivation": "explicit",
         "source_id": "6d442705a3682a6bf32a1941",
-        "source_revision": "f9d97cd36d88b1100c049cd6",
+        "source_revision": "a7abedfe8ed8f9355d8f1e46",
         "reference_source": null
        },
        {
@@ -16275,7 +16455,7 @@
         "effective_at": null,
         "derivation": "explicit",
         "source_id": "6d442705a3682a6bf32a1941",
-        "source_revision": "f9d97cd36d88b1100c049cd6",
+        "source_revision": "a7abedfe8ed8f9355d8f1e46",
         "reference_source": null
        },
        {
@@ -16285,7 +16465,7 @@
         "effective_at": null,
         "derivation": "explicit",
         "source_id": "6d442705a3682a6bf32a1941",
-        "source_revision": "f9d97cd36d88b1100c049cd6",
+        "source_revision": "a7abedfe8ed8f9355d8f1e46",
         "reference_source": null
        },
        {
@@ -16295,7 +16475,7 @@
         "effective_at": null,
         "derivation": "explicit",
         "source_id": "6d442705a3682a6bf32a1941",
-        "source_revision": "f9d97cd36d88b1100c049cd6",
+        "source_revision": "a7abedfe8ed8f9355d8f1e46",
         "reference_source": null
        },
        {
@@ -16305,7 +16485,7 @@
         "effective_at": null,
         "derivation": "explicit",
         "source_id": "6d442705a3682a6bf32a1941",
-        "source_revision": "f9d97cd36d88b1100c049cd6",
+        "source_revision": "a7abedfe8ed8f9355d8f1e46",
         "reference_source": null
        },
        {
@@ -16315,7 +16495,7 @@
         "effective_at": null,
         "derivation": "explicit",
         "source_id": "6d442705a3682a6bf32a1941",
-        "source_revision": "f9d97cd36d88b1100c049cd6",
+        "source_revision": "a7abedfe8ed8f9355d8f1e46",
         "reference_source": null
        },
        {
@@ -16325,7 +16505,7 @@
         "effective_at": null,
         "derivation": "explicit",
         "source_id": "6d442705a3682a6bf32a1941",
-        "source_revision": "f9d97cd36d88b1100c049cd6",
+        "source_revision": "a7abedfe8ed8f9355d8f1e46",
         "reference_source": null
        },
        {
@@ -16335,7 +16515,7 @@
         "effective_at": null,
         "derivation": "explicit",
         "source_id": "6d442705a3682a6bf32a1941",
-        "source_revision": "f9d97cd36d88b1100c049cd6",
+        "source_revision": "a7abedfe8ed8f9355d8f1e46",
         "reference_source": null
        },
        {
@@ -16345,7 +16525,7 @@
         "effective_at": null,
         "derivation": "explicit",
         "source_id": "6d442705a3682a6bf32a1941",
-        "source_revision": "f9d97cd36d88b1100c049cd6",
+        "source_revision": "a7abedfe8ed8f9355d8f1e46",
         "reference_source": null
        },
        {
@@ -16355,7 +16535,7 @@
         "effective_at": null,
         "derivation": "explicit",
         "source_id": "6d442705a3682a6bf32a1941",
-        "source_revision": "f9d97cd36d88b1100c049cd6",
+        "source_revision": "a7abedfe8ed8f9355d8f1e46",
         "reference_source": null
        },
        {
@@ -16365,7 +16545,7 @@
         "effective_at": null,
         "derivation": "explicit",
         "source_id": "6d442705a3682a6bf32a1941",
-        "source_revision": "f9d97cd36d88b1100c049cd6",
+        "source_revision": "a7abedfe8ed8f9355d8f1e46",
         "reference_source": null
        },
        {
@@ -16375,7 +16555,7 @@
         "effective_at": null,
         "derivation": "explicit",
         "source_id": "6d442705a3682a6bf32a1941",
-        "source_revision": "f9d97cd36d88b1100c049cd6",
+        "source_revision": "a7abedfe8ed8f9355d8f1e46",
         "reference_source": null
        },
        {
@@ -16385,7 +16565,7 @@
         "effective_at": null,
         "derivation": "explicit",
         "source_id": "6d442705a3682a6bf32a1941",
-        "source_revision": "f9d97cd36d88b1100c049cd6",
+        "source_revision": "a7abedfe8ed8f9355d8f1e46",
         "reference_source": null
        },
        {
@@ -16395,7 +16575,7 @@
         "effective_at": null,
         "derivation": "explicit",
         "source_id": "6d442705a3682a6bf32a1941",
-        "source_revision": "f9d97cd36d88b1100c049cd6",
+        "source_revision": "a7abedfe8ed8f9355d8f1e46",
         "reference_source": null
        },
        {
@@ -16405,7 +16585,7 @@
         "effective_at": null,
         "derivation": "explicit",
         "source_id": "6d442705a3682a6bf32a1941",
-        "source_revision": "f9d97cd36d88b1100c049cd6",
+        "source_revision": "a7abedfe8ed8f9355d8f1e46",
         "reference_source": null
        },
        {
@@ -16415,7 +16595,7 @@
         "effective_at": null,
         "derivation": "explicit",
         "source_id": "6d442705a3682a6bf32a1941",
-        "source_revision": "f9d97cd36d88b1100c049cd6",
+        "source_revision": "a7abedfe8ed8f9355d8f1e46",
         "reference_source": null
        },
        {
@@ -16425,7 +16605,7 @@
         "effective_at": null,
         "derivation": "explicit",
         "source_id": "6d442705a3682a6bf32a1941",
-        "source_revision": "f9d97cd36d88b1100c049cd6",
+        "source_revision": "a7abedfe8ed8f9355d8f1e46",
         "reference_source": null
        },
        {
@@ -16435,7 +16615,7 @@
         "effective_at": null,
         "derivation": "explicit",
         "source_id": "6d442705a3682a6bf32a1941",
-        "source_revision": "f9d97cd36d88b1100c049cd6",
+        "source_revision": "a7abedfe8ed8f9355d8f1e46",
         "reference_source": null
        },
        {
@@ -16445,7 +16625,7 @@
         "effective_at": null,
         "derivation": "explicit",
         "source_id": "6d442705a3682a6bf32a1941",
-        "source_revision": "f9d97cd36d88b1100c049cd6",
+        "source_revision": "a7abedfe8ed8f9355d8f1e46",
         "reference_source": null
        },
        {
@@ -16455,7 +16635,7 @@
         "effective_at": null,
         "derivation": "explicit",
         "source_id": "6d442705a3682a6bf32a1941",
-        "source_revision": "f9d97cd36d88b1100c049cd6",
+        "source_revision": "a7abedfe8ed8f9355d8f1e46",
         "reference_source": null
        },
        {
@@ -16465,7 +16645,7 @@
         "effective_at": null,
         "derivation": "explicit",
         "source_id": "6d442705a3682a6bf32a1941",
-        "source_revision": "f9d97cd36d88b1100c049cd6",
+        "source_revision": "a7abedfe8ed8f9355d8f1e46",
         "reference_source": null
        },
        {
@@ -16475,7 +16655,7 @@
         "effective_at": null,
         "derivation": "explicit",
         "source_id": "6d442705a3682a6bf32a1941",
-        "source_revision": "f9d97cd36d88b1100c049cd6",
+        "source_revision": "a7abedfe8ed8f9355d8f1e46",
         "reference_source": null
        },
        {
@@ -16485,7 +16665,7 @@
         "effective_at": null,
         "derivation": "explicit",
         "source_id": "6d442705a3682a6bf32a1941",
-        "source_revision": "f9d97cd36d88b1100c049cd6",
+        "source_revision": "a7abedfe8ed8f9355d8f1e46",
         "reference_source": null
        },
        {
@@ -16495,7 +16675,7 @@
         "effective_at": null,
         "derivation": "explicit",
         "source_id": "6d442705a3682a6bf32a1941",
-        "source_revision": "f9d97cd36d88b1100c049cd6",
+        "source_revision": "a7abedfe8ed8f9355d8f1e46",
         "reference_source": null
        },
        {
@@ -16505,7 +16685,7 @@
         "effective_at": null,
         "derivation": "explicit",
         "source_id": "6d442705a3682a6bf32a1941",
-        "source_revision": "f9d97cd36d88b1100c049cd6",
+        "source_revision": "a7abedfe8ed8f9355d8f1e46",
         "reference_source": null
        },
        {
@@ -16515,7 +16695,7 @@
         "effective_at": null,
         "derivation": "explicit",
         "source_id": "6d442705a3682a6bf32a1941",
-        "source_revision": "f9d97cd36d88b1100c049cd6",
+        "source_revision": "a7abedfe8ed8f9355d8f1e46",
         "reference_source": null
        },
        {
@@ -16525,7 +16705,7 @@
         "effective_at": null,
         "derivation": "explicit",
         "source_id": "6d442705a3682a6bf32a1941",
-        "source_revision": "f9d97cd36d88b1100c049cd6",
+        "source_revision": "a7abedfe8ed8f9355d8f1e46",
         "reference_source": null
        },
        {
@@ -16535,7 +16715,7 @@
         "effective_at": null,
         "derivation": "explicit",
         "source_id": "6d442705a3682a6bf32a1941",
-        "source_revision": "f9d97cd36d88b1100c049cd6",
+        "source_revision": "a7abedfe8ed8f9355d8f1e46",
         "reference_source": null
        },
        {
@@ -16545,7 +16725,7 @@
         "effective_at": null,
         "derivation": "explicit",
         "source_id": "6d442705a3682a6bf32a1941",
-        "source_revision": "f9d97cd36d88b1100c049cd6",
+        "source_revision": "a7abedfe8ed8f9355d8f1e46",
         "reference_source": null
        },
        {
@@ -16555,7 +16735,7 @@
         "effective_at": null,
         "derivation": "explicit",
         "source_id": "6d442705a3682a6bf32a1941",
-        "source_revision": "f9d97cd36d88b1100c049cd6",
+        "source_revision": "a7abedfe8ed8f9355d8f1e46",
         "reference_source": null
        },
        {
@@ -16565,7 +16745,7 @@
         "effective_at": null,
         "derivation": "explicit",
         "source_id": "6d442705a3682a6bf32a1941",
-        "source_revision": "f9d97cd36d88b1100c049cd6",
+        "source_revision": "a7abedfe8ed8f9355d8f1e46",
         "reference_source": null
        },
        {
@@ -16575,7 +16755,7 @@
         "effective_at": null,
         "derivation": "explicit",
         "source_id": "6d442705a3682a6bf32a1941",
-        "source_revision": "f9d97cd36d88b1100c049cd6",
+        "source_revision": "a7abedfe8ed8f9355d8f1e46",
         "reference_source": null
        },
        {
@@ -16585,7 +16765,7 @@
         "effective_at": null,
         "derivation": "explicit",
         "source_id": "6d442705a3682a6bf32a1941",
-        "source_revision": "f9d97cd36d88b1100c049cd6",
+        "source_revision": "a7abedfe8ed8f9355d8f1e46",
         "reference_source": null
        },
        {
@@ -16595,7 +16775,7 @@
         "effective_at": null,
         "derivation": "explicit",
         "source_id": "6d442705a3682a6bf32a1941",
-        "source_revision": "f9d97cd36d88b1100c049cd6",
+        "source_revision": "a7abedfe8ed8f9355d8f1e46",
         "reference_source": null
        },
        {
@@ -16605,7 +16785,7 @@
         "effective_at": null,
         "derivation": "explicit",
         "source_id": "6d442705a3682a6bf32a1941",
-        "source_revision": "f9d97cd36d88b1100c049cd6",
+        "source_revision": "a7abedfe8ed8f9355d8f1e46",
         "reference_source": null
        },
        {
@@ -16615,7 +16795,7 @@
         "effective_at": null,
         "derivation": "explicit",
         "source_id": "6d442705a3682a6bf32a1941",
-        "source_revision": "f9d97cd36d88b1100c049cd6",
+        "source_revision": "a7abedfe8ed8f9355d8f1e46",
         "reference_source": null
        },
        {
@@ -16625,7 +16805,7 @@
         "effective_at": null,
         "derivation": "explicit",
         "source_id": "6d442705a3682a6bf32a1941",
-        "source_revision": "f9d97cd36d88b1100c049cd6",
+        "source_revision": "a7abedfe8ed8f9355d8f1e46",
         "reference_source": null
        }
       ],
@@ -16642,10 +16822,10 @@
     "source": {
      "source_id": "6d442705a3682a6bf32a1941",
      "source_url": "https://www.hankyung.com/article/2026112007411",
-     "source_revision": "f9d97cd36d88b1100c049cd6",
+     "source_revision": "a7abedfe8ed8f9355d8f1e46",
      "published_at": "2026-11-20T17:35:59+09:00",
      "updated_at": null,
-     "collected_at": "2026-11-20T19:51:14.700505+09:00"
+     "collected_at": "2026-11-21T04:32:24.674996+09:00"
     },
     "events": [],
     "review_reasons": []
@@ -16655,30 +16835,13 @@
    "strikes": [
     {
      "article_relevance": "related",
-     "transport_mode": "bus",
-     "affected_regions": [
-      {
-       "raw": "서울",
-       "normalized_name": "서울",
-       "region": "서울",
-       "reference_id": null,
-       "derivation": "article_explicit",
-       "reference_source": null
-      }
-     ],
+     "transport_mode": "unknown",
+     "affected_regions": [],
      "affected_routes": [
       {
-       "raw": "2호선",
-       "normalized_name": "2호선",
-       "region": "서울",
-       "reference_id": null,
-       "derivation": "article_explicit",
-       "reference_source": null
-      },
-      {
-       "raw": "시청역",
-       "normalized_name": "시청역",
-       "region": "서울",
+       "raw": "나선",
+       "normalized_name": "나선",
+       "region": null,
        "reference_id": null,
        "derivation": "article_explicit",
        "reference_source": null
@@ -16694,127 +16857,129 @@
       "open_ended": null
      },
      "end": {
-      "raw": null,
+      "raw": "무기한",
       "date": null,
       "time": null,
       "timezone": "Asia/Seoul",
       "basis": "unknown",
       "assertion": "unknown",
-      "open_ended": null
+      "open_ended": true
      },
      "strike_status": {
       "value": "unknown",
-      "conditions": [],
-      "scope_raw": "서울 시내 버스 파업이 이어지고 있는 14일 출근시간대 서울 지하철 2호선 시청역에 도착하는 열차가 시민들로 붐비고 있다.",
+      "conditions": [
+       "3개 노조는 안전운행 투쟁에도 정부와 서울시가 응답하지 않을 경우 예정대로 무기한 총파업에 나선다."
+      ],
+      "scope_raw": "3개 노조는 안전운행 투쟁에도 정부와 서울시가 응답하지 않을 경우 예정대로 무기한 총파업에 나선다.",
       "effective_at": null
      },
      "service_status": [],
      "normal_service_exceptions": [],
      "alternative_services": [],
      "evidence_and_timestamps": {
-      "source_url": "https://www.khan.co.kr/article/202611200739001",
-      "published_at": "2026-11-20T07:39:00+09:00",
-      "updated_at": null,
-      "collected_at": "2026-11-20T19:51:17.910650+09:00",
+      "source_url": "https://www.newspim.com/news/view/20261120000191",
+      "published_at": "2026-11-20T08:58:00+09:00",
+      "updated_at": "2026-11-20T08:59:00+09:00",
+      "collected_at": "2026-11-21T04:32:27.663369+09:00",
       "field_evidence": [
        {
         "field_path": "/article_relevance",
-        "quote": "서울 시내 버스 파업이 이어지고 있는 14일 출근시간대 서울 지하철 2호선 시청역에 도착하는 열차가 시민들로 붐비고 있다.",
+        "quote": "3개 노조는 안전운행 투쟁에도 정부와 서울시가 응답하지 않을 경우 예정대로 무기한 총파업에 나선다.",
         "source_part": "body",
         "effective_at": null,
         "derivation": "explicit",
-        "source_id": "db68d45423fad6bea864a6fb",
-        "source_revision": "9b60a513c157e2f59759a542",
+        "source_id": "9ad00f4ebeba81fd30b82e89",
+        "source_revision": "e4dd24983761393e2135da30",
         "reference_source": null
        },
        {
         "field_path": "/transport_mode",
-        "quote": "서울 시내 버스 파업이 이어지고 있는 14일 출근시간대 서울 지하철 2호선 시청역에 도착하는 열차가 시민들로 붐비고 있다.",
+        "quote": "3개 노조는 안전운행 투쟁에도 정부와 서울시가 응답하지 않을 경우 예정대로 무기한 총파업에 나선다.",
         "source_part": "body",
         "effective_at": null,
         "derivation": "explicit",
-        "source_id": "db68d45423fad6bea864a6fb",
-        "source_revision": "9b60a513c157e2f59759a542",
+        "source_id": "9ad00f4ebeba81fd30b82e89",
+        "source_revision": "e4dd24983761393e2135da30",
         "reference_source": null
        },
        {
         "field_path": "/affected_regions",
-        "quote": "서울 시내 버스 파업이 이어지고 있는 14일 출근시간대 서울 지하철 2호선 시청역에 도착하는 열차가 시민들로 붐비고 있다.",
+        "quote": "3개 노조는 안전운행 투쟁에도 정부와 서울시가 응답하지 않을 경우 예정대로 무기한 총파업에 나선다.",
         "source_part": "body",
         "effective_at": null,
         "derivation": "explicit",
-        "source_id": "db68d45423fad6bea864a6fb",
-        "source_revision": "9b60a513c157e2f59759a542",
+        "source_id": "9ad00f4ebeba81fd30b82e89",
+        "source_revision": "e4dd24983761393e2135da30",
         "reference_source": null
        },
        {
         "field_path": "/affected_routes",
-        "quote": "서울 시내 버스 파업이 이어지고 있는 14일 출근시간대 서울 지하철 2호선 시청역에 도착하는 열차가 시민들로 붐비고 있다.",
+        "quote": "3개 노조는 안전운행 투쟁에도 정부와 서울시가 응답하지 않을 경우 예정대로 무기한 총파업에 나선다.",
         "source_part": "body",
         "effective_at": null,
         "derivation": "explicit",
-        "source_id": "db68d45423fad6bea864a6fb",
-        "source_revision": "9b60a513c157e2f59759a542",
+        "source_id": "9ad00f4ebeba81fd30b82e89",
+        "source_revision": "e4dd24983761393e2135da30",
         "reference_source": null
        },
        {
         "field_path": "/strike_status",
-        "quote": "서울 시내 버스 파업이 이어지고 있는 14일 출근시간대 서울 지하철 2호선 시청역에 도착하는 열차가 시민들로 붐비고 있다.",
+        "quote": "3개 노조는 안전운행 투쟁에도 정부와 서울시가 응답하지 않을 경우 예정대로 무기한 총파업에 나선다.",
         "source_part": "body",
         "effective_at": null,
         "derivation": "explicit",
-        "source_id": "db68d45423fad6bea864a6fb",
-        "source_revision": "9b60a513c157e2f59759a542",
+        "source_id": "9ad00f4ebeba81fd30b82e89",
+        "source_revision": "e4dd24983761393e2135da30",
         "reference_source": null
        },
        {
         "field_path": "/service_status",
-        "quote": "서울 시내 버스 파업이 이어지고 있는 14일 출근시간대 서울 지하철 2호선 시청역에 도착하는 열차가 시민들로 붐비고 있다.",
+        "quote": "3개 노조는 안전운행 투쟁에도 정부와 서울시가 응답하지 않을 경우 예정대로 무기한 총파업에 나선다.",
         "source_part": "body",
         "effective_at": null,
         "derivation": "explicit",
-        "source_id": "db68d45423fad6bea864a6fb",
-        "source_revision": "9b60a513c157e2f59759a542",
+        "source_id": "9ad00f4ebeba81fd30b82e89",
+        "source_revision": "e4dd24983761393e2135da30",
         "reference_source": null
        },
        {
         "field_path": "/normal_service_exceptions",
-        "quote": "서울 시내 버스 파업이 이어지고 있는 14일 출근시간대 서울 지하철 2호선 시청역에 도착하는 열차가 시민들로 붐비고 있다.",
+        "quote": "3개 노조는 안전운행 투쟁에도 정부와 서울시가 응답하지 않을 경우 예정대로 무기한 총파업에 나선다.",
         "source_part": "body",
         "effective_at": null,
         "derivation": "explicit",
-        "source_id": "db68d45423fad6bea864a6fb",
-        "source_revision": "9b60a513c157e2f59759a542",
+        "source_id": "9ad00f4ebeba81fd30b82e89",
+        "source_revision": "e4dd24983761393e2135da30",
         "reference_source": null
        },
        {
         "field_path": "/alternative_services",
-        "quote": "서울 시내 버스 파업이 이어지고 있는 14일 출근시간대 서울 지하철 2호선 시청역에 도착하는 열차가 시민들로 붐비고 있다.",
+        "quote": "3개 노조는 안전운행 투쟁에도 정부와 서울시가 응답하지 않을 경우 예정대로 무기한 총파업에 나선다.",
         "source_part": "body",
         "effective_at": null,
         "derivation": "explicit",
-        "source_id": "db68d45423fad6bea864a6fb",
-        "source_revision": "9b60a513c157e2f59759a542",
+        "source_id": "9ad00f4ebeba81fd30b82e89",
+        "source_revision": "e4dd24983761393e2135da30",
         "reference_source": null
        },
        {
         "field_path": "/start",
-        "quote": "서울 시내 버스 파업이 이어지고 있는 14일 출근시간대 서울 지하철 2호선 시청역에 도착하는 열차가 시민들로 붐비고 있다.",
+        "quote": "3개 노조는 안전운행 투쟁에도 정부와 서울시가 응답하지 않을 경우 예정대로 무기한 총파업에 나선다.",
         "source_part": "body",
         "effective_at": null,
         "derivation": "explicit",
-        "source_id": "db68d45423fad6bea864a6fb",
-        "source_revision": "9b60a513c157e2f59759a542",
+        "source_id": "9ad00f4ebeba81fd30b82e89",
+        "source_revision": "e4dd24983761393e2135da30",
         "reference_source": null
        },
        {
         "field_path": "/end",
-        "quote": "서울 시내 버스 파업이 이어지고 있는 14일 출근시간대 서울 지하철 2호선 시청역에 도착하는 열차가 시민들로 붐비고 있다.",
+        "quote": "3개 노조는 안전운행 투쟁에도 정부와 서울시가 응답하지 않을 경우 예정대로 무기한 총파업에 나선다.",
         "source_part": "body",
         "effective_at": null,
         "derivation": "explicit",
-        "source_id": "db68d45423fad6bea864a6fb",
-        "source_revision": "9b60a513c157e2f59759a542",
+        "source_id": "9ad00f4ebeba81fd30b82e89",
+        "source_revision": "e4dd24983761393e2135da30",
         "reference_source": null
        }
       ],
@@ -16823,534 +16988,6 @@
        "DATE_UNCONFIRMED"
       ]
      }
-    },
-    {
-     "article_relevance": "unrelated",
-     "transport_mode": "unknown",
-     "affected_regions": [],
-     "affected_routes": [],
-     "start": {
-      "raw": null,
-      "date": null,
-      "time": null,
-      "timezone": "Asia/Seoul",
-      "basis": "unknown",
-      "assertion": "unknown",
-      "open_ended": null
-     },
-     "end": {
-      "raw": null,
-      "date": null,
-      "time": null,
-      "timezone": "Asia/Seoul",
-      "basis": "unknown",
-      "assertion": "unknown",
-      "open_ended": null
-     },
-     "strike_status": {
-      "value": "unknown",
-      "conditions": [],
-      "scope_raw": null,
-      "effective_at": null
-     },
-     "service_status": [],
-     "normal_service_exceptions": [],
-     "alternative_services": [],
-     "evidence_and_timestamps": {
-      "source_url": "https://www.khan.co.kr/article/202611200739001",
-      "published_at": "2026-11-20T07:39:00+09:00",
-      "updated_at": null,
-      "collected_at": "2026-11-20T19:51:17.910650+09:00",
-      "field_evidence": [
-       {
-        "field_path": "/article_relevance",
-        "quote": "2026.1.14 이준헌 기자 서울 지하철 노동조합이 안전 인력 확충과 구조조정 철회 등을 요구하며 20일 준법투쟁에 돌입했다.",
-        "source_part": "body",
-        "effective_at": null,
-        "derivation": "explicit",
-        "source_id": "db68d45423fad6bea864a6fb",
-        "source_revision": "9b60a513c157e2f59759a542",
-        "reference_source": null
-       },
-       {
-        "field_path": "/transport_mode",
-        "quote": "2026.1.14 이준헌 기자 서울 지하철 노동조합이 안전 인력 확충과 구조조정 철회 등을 요구하며 20일 준법투쟁에 돌입했다.",
-        "source_part": "body",
-        "effective_at": null,
-        "derivation": "explicit",
-        "source_id": "db68d45423fad6bea864a6fb",
-        "source_revision": "9b60a513c157e2f59759a542",
-        "reference_source": null
-       },
-       {
-        "field_path": "/affected_regions",
-        "quote": "2026.1.14 이준헌 기자 서울 지하철 노동조합이 안전 인력 확충과 구조조정 철회 등을 요구하며 20일 준법투쟁에 돌입했다.",
-        "source_part": "body",
-        "effective_at": null,
-        "derivation": "explicit",
-        "source_id": "db68d45423fad6bea864a6fb",
-        "source_revision": "9b60a513c157e2f59759a542",
-        "reference_source": null
-       },
-       {
-        "field_path": "/affected_routes",
-        "quote": "2026.1.14 이준헌 기자 서울 지하철 노동조합이 안전 인력 확충과 구조조정 철회 등을 요구하며 20일 준법투쟁에 돌입했다.",
-        "source_part": "body",
-        "effective_at": null,
-        "derivation": "explicit",
-        "source_id": "db68d45423fad6bea864a6fb",
-        "source_revision": "9b60a513c157e2f59759a542",
-        "reference_source": null
-       },
-       {
-        "field_path": "/strike_status",
-        "quote": "2026.1.14 이준헌 기자 서울 지하철 노동조합이 안전 인력 확충과 구조조정 철회 등을 요구하며 20일 준법투쟁에 돌입했다.",
-        "source_part": "body",
-        "effective_at": null,
-        "derivation": "explicit",
-        "source_id": "db68d45423fad6bea864a6fb",
-        "source_revision": "9b60a513c157e2f59759a542",
-        "reference_source": null
-       },
-       {
-        "field_path": "/service_status",
-        "quote": "2026.1.14 이준헌 기자 서울 지하철 노동조합이 안전 인력 확충과 구조조정 철회 등을 요구하며 20일 준법투쟁에 돌입했다.",
-        "source_part": "body",
-        "effective_at": null,
-        "derivation": "explicit",
-        "source_id": "db68d45423fad6bea864a6fb",
-        "source_revision": "9b60a513c157e2f59759a542",
-        "reference_source": null
-       },
-       {
-        "field_path": "/normal_service_exceptions",
-        "quote": "2026.1.14 이준헌 기자 서울 지하철 노동조합이 안전 인력 확충과 구조조정 철회 등을 요구하며 20일 준법투쟁에 돌입했다.",
-        "source_part": "body",
-        "effective_at": null,
-        "derivation": "explicit",
-        "source_id": "db68d45423fad6bea864a6fb",
-        "source_revision": "9b60a513c157e2f59759a542",
-        "reference_source": null
-       },
-       {
-        "field_path": "/alternative_services",
-        "quote": "2026.1.14 이준헌 기자 서울 지하철 노동조합이 안전 인력 확충과 구조조정 철회 등을 요구하며 20일 준법투쟁에 돌입했다.",
-        "source_part": "body",
-        "effective_at": null,
-        "derivation": "explicit",
-        "source_id": "db68d45423fad6bea864a6fb",
-        "source_revision": "9b60a513c157e2f59759a542",
-        "reference_source": null
-       },
-       {
-        "field_path": "/start",
-        "quote": "2026.1.14 이준헌 기자 서울 지하철 노동조합이 안전 인력 확충과 구조조정 철회 등을 요구하며 20일 준법투쟁에 돌입했다.",
-        "source_part": "body",
-        "effective_at": null,
-        "derivation": "explicit",
-        "source_id": "db68d45423fad6bea864a6fb",
-        "source_revision": "9b60a513c157e2f59759a542",
-        "reference_source": null
-       },
-       {
-        "field_path": "/end",
-        "quote": "2026.1.14 이준헌 기자 서울 지하철 노동조합이 안전 인력 확충과 구조조정 철회 등을 요구하며 20일 준법투쟁에 돌입했다.",
-        "source_part": "body",
-        "effective_at": null,
-        "derivation": "explicit",
-        "source_id": "db68d45423fad6bea864a6fb",
-        "source_revision": "9b60a513c157e2f59759a542",
-        "reference_source": null
-       }
-      ],
-      "review_reasons": []
-     }
-    },
-    {
-     "article_relevance": "unrelated",
-     "transport_mode": "unknown",
-     "affected_regions": [],
-     "affected_routes": [],
-     "start": {
-      "raw": null,
-      "date": null,
-      "time": null,
-      "timezone": "Asia/Seoul",
-      "basis": "unknown",
-      "assertion": "unknown",
-      "open_ended": null
-     },
-     "end": {
-      "raw": null,
-      "date": null,
-      "time": null,
-      "timezone": "Asia/Seoul",
-      "basis": "unknown",
-      "assertion": "unknown",
-      "open_ended": null
-     },
-     "strike_status": {
-      "value": "unknown",
-      "conditions": [
-       "사측이 응답하지 않으면 준법투쟁을 거쳐 오는 25일부터 무기한 총파업에 들어갈 방침이다."
-      ],
-      "scope_raw": null,
-      "effective_at": null
-     },
-     "service_status": [],
-     "normal_service_exceptions": [],
-     "alternative_services": [],
-     "evidence_and_timestamps": {
-      "source_url": "https://www.khan.co.kr/article/202611200739001",
-      "published_at": "2026-11-20T07:39:00+09:00",
-      "updated_at": null,
-      "collected_at": "2026-11-20T19:51:17.910650+09:00",
-      "field_evidence": [
-       {
-        "field_path": "/article_relevance",
-        "quote": "노조는 2212명 인력감축 계획 철회와 현장 안전 인력 1313명 충원, 임금 3.5% 인상, 안전 업무 2인 1조 의무화 등을 요구하고 있다.",
-        "source_part": "body",
-        "effective_at": null,
-        "derivation": "explicit",
-        "source_id": "db68d45423fad6bea864a6fb",
-        "source_revision": "9b60a513c157e2f59759a542",
-        "reference_source": null
-       },
-       {
-        "field_path": "/article_relevance",
-        "quote": "사측이 응답하지 않으면 준법투쟁을 거쳐 오는 25일부터 무기한 총파업에 들어갈 방침이다.",
-        "source_part": "body",
-        "effective_at": null,
-        "derivation": "explicit",
-        "source_id": "db68d45423fad6bea864a6fb",
-        "source_revision": "9b60a513c157e2f59759a542",
-        "reference_source": null
-       },
-       {
-        "field_path": "/transport_mode",
-        "quote": "노조는 2212명 인력감축 계획 철회와 현장 안전 인력 1313명 충원, 임금 3.5% 인상, 안전 업무 2인 1조 의무화 등을 요구하고 있다.",
-        "source_part": "body",
-        "effective_at": null,
-        "derivation": "explicit",
-        "source_id": "db68d45423fad6bea864a6fb",
-        "source_revision": "9b60a513c157e2f59759a542",
-        "reference_source": null
-       },
-       {
-        "field_path": "/transport_mode",
-        "quote": "사측이 응답하지 않으면 준법투쟁을 거쳐 오는 25일부터 무기한 총파업에 들어갈 방침이다.",
-        "source_part": "body",
-        "effective_at": null,
-        "derivation": "explicit",
-        "source_id": "db68d45423fad6bea864a6fb",
-        "source_revision": "9b60a513c157e2f59759a542",
-        "reference_source": null
-       },
-       {
-        "field_path": "/affected_regions",
-        "quote": "노조는 2212명 인력감축 계획 철회와 현장 안전 인력 1313명 충원, 임금 3.5% 인상, 안전 업무 2인 1조 의무화 등을 요구하고 있다.",
-        "source_part": "body",
-        "effective_at": null,
-        "derivation": "explicit",
-        "source_id": "db68d45423fad6bea864a6fb",
-        "source_revision": "9b60a513c157e2f59759a542",
-        "reference_source": null
-       },
-       {
-        "field_path": "/affected_regions",
-        "quote": "사측이 응답하지 않으면 준법투쟁을 거쳐 오는 25일부터 무기한 총파업에 들어갈 방침이다.",
-        "source_part": "body",
-        "effective_at": null,
-        "derivation": "explicit",
-        "source_id": "db68d45423fad6bea864a6fb",
-        "source_revision": "9b60a513c157e2f59759a542",
-        "reference_source": null
-       },
-       {
-        "field_path": "/affected_routes",
-        "quote": "노조는 2212명 인력감축 계획 철회와 현장 안전 인력 1313명 충원, 임금 3.5% 인상, 안전 업무 2인 1조 의무화 등을 요구하고 있다.",
-        "source_part": "body",
-        "effective_at": null,
-        "derivation": "explicit",
-        "source_id": "db68d45423fad6bea864a6fb",
-        "source_revision": "9b60a513c157e2f59759a542",
-        "reference_source": null
-       },
-       {
-        "field_path": "/affected_routes",
-        "quote": "사측이 응답하지 않으면 준법투쟁을 거쳐 오는 25일부터 무기한 총파업에 들어갈 방침이다.",
-        "source_part": "body",
-        "effective_at": null,
-        "derivation": "explicit",
-        "source_id": "db68d45423fad6bea864a6fb",
-        "source_revision": "9b60a513c157e2f59759a542",
-        "reference_source": null
-       },
-       {
-        "field_path": "/strike_status",
-        "quote": "노조는 2212명 인력감축 계획 철회와 현장 안전 인력 1313명 충원, 임금 3.5% 인상, 안전 업무 2인 1조 의무화 등을 요구하고 있다.",
-        "source_part": "body",
-        "effective_at": null,
-        "derivation": "explicit",
-        "source_id": "db68d45423fad6bea864a6fb",
-        "source_revision": "9b60a513c157e2f59759a542",
-        "reference_source": null
-       },
-       {
-        "field_path": "/strike_status",
-        "quote": "사측이 응답하지 않으면 준법투쟁을 거쳐 오는 25일부터 무기한 총파업에 들어갈 방침이다.",
-        "source_part": "body",
-        "effective_at": null,
-        "derivation": "explicit",
-        "source_id": "db68d45423fad6bea864a6fb",
-        "source_revision": "9b60a513c157e2f59759a542",
-        "reference_source": null
-       },
-       {
-        "field_path": "/service_status",
-        "quote": "노조는 2212명 인력감축 계획 철회와 현장 안전 인력 1313명 충원, 임금 3.5% 인상, 안전 업무 2인 1조 의무화 등을 요구하고 있다.",
-        "source_part": "body",
-        "effective_at": null,
-        "derivation": "explicit",
-        "source_id": "db68d45423fad6bea864a6fb",
-        "source_revision": "9b60a513c157e2f59759a542",
-        "reference_source": null
-       },
-       {
-        "field_path": "/service_status",
-        "quote": "사측이 응답하지 않으면 준법투쟁을 거쳐 오는 25일부터 무기한 총파업에 들어갈 방침이다.",
-        "source_part": "body",
-        "effective_at": null,
-        "derivation": "explicit",
-        "source_id": "db68d45423fad6bea864a6fb",
-        "source_revision": "9b60a513c157e2f59759a542",
-        "reference_source": null
-       },
-       {
-        "field_path": "/normal_service_exceptions",
-        "quote": "노조는 2212명 인력감축 계획 철회와 현장 안전 인력 1313명 충원, 임금 3.5% 인상, 안전 업무 2인 1조 의무화 등을 요구하고 있다.",
-        "source_part": "body",
-        "effective_at": null,
-        "derivation": "explicit",
-        "source_id": "db68d45423fad6bea864a6fb",
-        "source_revision": "9b60a513c157e2f59759a542",
-        "reference_source": null
-       },
-       {
-        "field_path": "/normal_service_exceptions",
-        "quote": "사측이 응답하지 않으면 준법투쟁을 거쳐 오는 25일부터 무기한 총파업에 들어갈 방침이다.",
-        "source_part": "body",
-        "effective_at": null,
-        "derivation": "explicit",
-        "source_id": "db68d45423fad6bea864a6fb",
-        "source_revision": "9b60a513c157e2f59759a542",
-        "reference_source": null
-       },
-       {
-        "field_path": "/alternative_services",
-        "quote": "노조는 2212명 인력감축 계획 철회와 현장 안전 인력 1313명 충원, 임금 3.5% 인상, 안전 업무 2인 1조 의무화 등을 요구하고 있다.",
-        "source_part": "body",
-        "effective_at": null,
-        "derivation": "explicit",
-        "source_id": "db68d45423fad6bea864a6fb",
-        "source_revision": "9b60a513c157e2f59759a542",
-        "reference_source": null
-       },
-       {
-        "field_path": "/alternative_services",
-        "quote": "사측이 응답하지 않으면 준법투쟁을 거쳐 오는 25일부터 무기한 총파업에 들어갈 방침이다.",
-        "source_part": "body",
-        "effective_at": null,
-        "derivation": "explicit",
-        "source_id": "db68d45423fad6bea864a6fb",
-        "source_revision": "9b60a513c157e2f59759a542",
-        "reference_source": null
-       },
-       {
-        "field_path": "/start",
-        "quote": "노조는 2212명 인력감축 계획 철회와 현장 안전 인력 1313명 충원, 임금 3.5% 인상, 안전 업무 2인 1조 의무화 등을 요구하고 있다.",
-        "source_part": "body",
-        "effective_at": null,
-        "derivation": "explicit",
-        "source_id": "db68d45423fad6bea864a6fb",
-        "source_revision": "9b60a513c157e2f59759a542",
-        "reference_source": null
-       },
-       {
-        "field_path": "/start",
-        "quote": "사측이 응답하지 않으면 준법투쟁을 거쳐 오는 25일부터 무기한 총파업에 들어갈 방침이다.",
-        "source_part": "body",
-        "effective_at": null,
-        "derivation": "explicit",
-        "source_id": "db68d45423fad6bea864a6fb",
-        "source_revision": "9b60a513c157e2f59759a542",
-        "reference_source": null
-       },
-       {
-        "field_path": "/end",
-        "quote": "노조는 2212명 인력감축 계획 철회와 현장 안전 인력 1313명 충원, 임금 3.5% 인상, 안전 업무 2인 1조 의무화 등을 요구하고 있다.",
-        "source_part": "body",
-        "effective_at": null,
-        "derivation": "explicit",
-        "source_id": "db68d45423fad6bea864a6fb",
-        "source_revision": "9b60a513c157e2f59759a542",
-        "reference_source": null
-       },
-       {
-        "field_path": "/end",
-        "quote": "사측이 응답하지 않으면 준법투쟁을 거쳐 오는 25일부터 무기한 총파업에 들어갈 방침이다.",
-        "source_part": "body",
-        "effective_at": null,
-        "derivation": "explicit",
-        "source_id": "db68d45423fad6bea864a6fb",
-        "source_revision": "9b60a513c157e2f59759a542",
-        "reference_source": null
-       }
-      ],
-      "review_reasons": []
-     }
-    },
-    {
-     "article_relevance": "unrelated",
-     "transport_mode": "unknown",
-     "affected_regions": [],
-     "affected_routes": [],
-     "start": {
-      "raw": null,
-      "date": null,
-      "time": null,
-      "timezone": "Asia/Seoul",
-      "basis": "unknown",
-      "assertion": "unknown",
-      "open_ended": null
-     },
-     "end": {
-      "raw": null,
-      "date": null,
-      "time": null,
-      "timezone": "Asia/Seoul",
-      "basis": "unknown",
-      "assertion": "unknown",
-      "open_ended": null
-     },
-     "strike_status": {
-      "value": "unknown",
-      "conditions": [],
-      "scope_raw": null,
-      "effective_at": null
-     },
-     "service_status": [],
-     "normal_service_exceptions": [],
-     "alternative_services": [],
-     "evidence_and_timestamps": {
-      "source_url": "https://www.khan.co.kr/article/202611200739001",
-      "published_at": "2026-11-20T07:39:00+09:00",
-      "updated_at": null,
-      "collected_at": "2026-11-20T19:51:17.910650+09:00",
-      "field_evidence": [
-       {
-        "field_path": "/article_relevance",
-        "quote": "KTX와 SRT를 운행하는 전국철도노동조합은 오는 23일부터 준법투쟁에 나서고, 다음달 10일 무기한 총파업에 돌입할 예정이다.",
-        "source_part": "body",
-        "effective_at": null,
-        "derivation": "explicit",
-        "source_id": "db68d45423fad6bea864a6fb",
-        "source_revision": "9b60a513c157e2f59759a542",
-        "reference_source": null
-       },
-       {
-        "field_path": "/transport_mode",
-        "quote": "KTX와 SRT를 운행하는 전국철도노동조합은 오는 23일부터 준법투쟁에 나서고, 다음달 10일 무기한 총파업에 돌입할 예정이다.",
-        "source_part": "body",
-        "effective_at": null,
-        "derivation": "explicit",
-        "source_id": "db68d45423fad6bea864a6fb",
-        "source_revision": "9b60a513c157e2f59759a542",
-        "reference_source": null
-       },
-       {
-        "field_path": "/affected_regions",
-        "quote": "KTX와 SRT를 운행하는 전국철도노동조합은 오는 23일부터 준법투쟁에 나서고, 다음달 10일 무기한 총파업에 돌입할 예정이다.",
-        "source_part": "body",
-        "effective_at": null,
-        "derivation": "explicit",
-        "source_id": "db68d45423fad6bea864a6fb",
-        "source_revision": "9b60a513c157e2f59759a542",
-        "reference_source": null
-       },
-       {
-        "field_path": "/affected_routes",
-        "quote": "KTX와 SRT를 운행하는 전국철도노동조합은 오는 23일부터 준법투쟁에 나서고, 다음달 10일 무기한 총파업에 돌입할 예정이다.",
-        "source_part": "body",
-        "effective_at": null,
-        "derivation": "explicit",
-        "source_id": "db68d45423fad6bea864a6fb",
-        "source_revision": "9b60a513c157e2f59759a542",
-        "reference_source": null
-       },
-       {
-        "field_path": "/strike_status",
-        "quote": "KTX와 SRT를 운행하는 전국철도노동조합은 오는 23일부터 준법투쟁에 나서고, 다음달 10일 무기한 총파업에 돌입할 예정이다.",
-        "source_part": "body",
-        "effective_at": null,
-        "derivation": "explicit",
-        "source_id": "db68d45423fad6bea864a6fb",
-        "source_revision": "9b60a513c157e2f59759a542",
-        "reference_source": null
-       },
-       {
-        "field_path": "/service_status",
-        "quote": "KTX와 SRT를 운행하는 전국철도노동조합은 오는 23일부터 준법투쟁에 나서고, 다음달 10일 무기한 총파업에 돌입할 예정이다.",
-        "source_part": "body",
-        "effective_at": null,
-        "derivation": "explicit",
-        "source_id": "db68d45423fad6bea864a6fb",
-        "source_revision": "9b60a513c157e2f59759a542",
-        "reference_source": null
-       },
-       {
-        "field_path": "/normal_service_exceptions",
-        "quote": "KTX와 SRT를 운행하는 전국철도노동조합은 오는 23일부터 준법투쟁에 나서고, 다음달 10일 무기한 총파업에 돌입할 예정이다.",
-        "source_part": "body",
-        "effective_at": null,
-        "derivation": "explicit",
-        "source_id": "db68d45423fad6bea864a6fb",
-        "source_revision": "9b60a513c157e2f59759a542",
-        "reference_source": null
-       },
-       {
-        "field_path": "/alternative_services",
-        "quote": "KTX와 SRT를 운행하는 전국철도노동조합은 오는 23일부터 준법투쟁에 나서고, 다음달 10일 무기한 총파업에 돌입할 예정이다.",
-        "source_part": "body",
-        "effective_at": null,
-        "derivation": "explicit",
-        "source_id": "db68d45423fad6bea864a6fb",
-        "source_revision": "9b60a513c157e2f59759a542",
-        "reference_source": null
-       },
-       {
-        "field_path": "/start",
-        "quote": "KTX와 SRT를 운행하는 전국철도노동조합은 오는 23일부터 준법투쟁에 나서고, 다음달 10일 무기한 총파업에 돌입할 예정이다.",
-        "source_part": "body",
-        "effective_at": null,
-        "derivation": "explicit",
-        "source_id": "db68d45423fad6bea864a6fb",
-        "source_revision": "9b60a513c157e2f59759a542",
-        "reference_source": null
-       },
-       {
-        "field_path": "/end",
-        "quote": "KTX와 SRT를 운행하는 전국철도노동조합은 오는 23일부터 준법투쟁에 나서고, 다음달 10일 무기한 총파업에 돌입할 예정이다.",
-        "source_part": "body",
-        "effective_at": null,
-        "derivation": "explicit",
-        "source_id": "db68d45423fad6bea864a6fb",
-        "source_revision": "9b60a513c157e2f59759a542",
-        "reference_source": null
-       }
-      ],
-      "review_reasons": []
-     }
     }
    ],
    "events": {
@@ -17358,12 +16995,12 @@
     "article_relevance": "unrelated",
     "processing_status": "success",
     "source": {
-     "source_id": "db68d45423fad6bea864a6fb",
-     "source_url": "https://www.khan.co.kr/article/202611200739001",
-     "source_revision": "9b60a513c157e2f59759a542",
-     "published_at": "2026-11-20T07:39:00+09:00",
-     "updated_at": null,
-     "collected_at": "2026-11-20T19:51:17.910650+09:00"
+     "source_id": "9ad00f4ebeba81fd30b82e89",
+     "source_url": "https://www.newspim.com/news/view/20261120000191",
+     "source_revision": "e4dd24983761393e2135da30",
+     "published_at": "2026-11-20T08:58:00+09:00",
+     "updated_at": "2026-11-20T08:59:00+09:00",
+     "collected_at": "2026-11-21T04:32:27.663369+09:00"
     },
     "events": [],
     "review_reasons": []
@@ -17456,7 +17093,7 @@
       "source_url": "https://www.imaeil.com/page/view/2026111417131297761",
       "published_at": null,
       "updated_at": null,
-      "collected_at": "2026-11-20T19:51:23.900572+09:00",
+      "collected_at": "2026-11-21T04:32:32.096719+09:00",
       "field_evidence": [
        {
         "field_path": "/article_relevance",
@@ -17800,7 +17437,7 @@
       "source_url": "https://www.imaeil.com/page/view/2026111417131297761",
       "published_at": null,
       "updated_at": null,
-      "collected_at": "2026-11-20T19:51:23.900572+09:00",
+      "collected_at": "2026-11-21T04:32:32.096719+09:00",
       "field_evidence": [
        {
         "field_path": "/article_relevance",
@@ -17920,7 +17557,7 @@
      "source_revision": "79344459f900a196bff2714a",
      "published_at": null,
      "updated_at": null,
-     "collected_at": "2026-11-20T19:51:23.900572+09:00"
+     "collected_at": "2026-11-21T04:32:32.096719+09:00"
     },
     "events": [],
     "review_reasons": []
@@ -17966,7 +17603,7 @@
       "source_url": "https://www.seoul.co.kr/news/plan/Runner-supply-depot/2026/11/19/20261119500228?wlog_tag3=naver",
       "published_at": "2026-11-19T16:22:34+09:00",
       "updated_at": "2026-11-19T16:22:34+09:00",
-      "collected_at": "2026-11-20T19:51:28.864055+09:00",
+      "collected_at": "2026-11-21T04:32:38.920907+09:00",
       "field_evidence": [
        {
         "field_path": "/article_relevance",
@@ -18083,7 +17720,7 @@
      "source_revision": "753ca72fcce132802d39d5d5",
      "published_at": "2026-11-19T16:22:34+09:00",
      "updated_at": "2026-11-19T16:22:34+09:00",
-     "collected_at": "2026-11-20T19:51:28.864055+09:00"
+     "collected_at": "2026-11-21T04:32:38.920907+09:00"
     },
     "events": [
      {
