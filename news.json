@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-21T04:32:39.069087+09:00",
+ "generatedAt": "2026-11-21T11:06:34.349671+09:00",
  "windowDays": 14,
  "queries": [
   "버스 파업",
@@ -17,7 +17,7 @@
    "url": "https://www.ncloud.com/product/applicationService/naverApiHub"
   }
  ],
- "articles": 243,
+ "articles": 244,
  "searchResults": [
   {
    "url": "https://www.m-i.kr/news/articleView.html?idxno=2021566",
@@ -270,6 +270,11 @@
    "query": "버스 파업"
   },
   {
+   "url": "https://www.gokorea.kr/news/articleView.html?idxno=886702",
+   "title": "서울 지하철 준법투쟁, 시민들 일상에 큰 영향 없었다—총파업 예고된 ...",
+   "query": "지하철 파업"
+  },
+  {
    "url": "http://www.yonhapnewstv.co.kr/news/MYH20261121002125l9i",
    "title": "서울지하철 준법투쟁에 \"일부 지연\"…총파업 예고",
    "query": "지하철 파업"
@@ -450,33 +455,13 @@
    "query": "지하철 파업"
   },
   {
-   "url": "http://www.segyebiz.com/newsView/20261120503710?OutUrl=naver",
-   "title": "서울지하철 노조, 오늘부터 준법투쟁…출퇴근 열차 지연 예상",
-   "query": "지하철 파업"
-  },
-  {
    "url": "https://news.bbsi.co.kr/news/articleView.html?idxno=4119740",
    "title": "서울 지하철 노조 오늘부터 준법투쟁 돌입",
    "query": "지하철 파업"
   },
   {
-   "url": "https://www.newspim.com/news/view/20261120000192",
-   "title": "서울 지하철 노조, 오늘부터 준법투쟁",
-   "query": "지하철 파업"
-  },
-  {
-   "url": "https://www.newspim.com/news/view/20261120000193",
-   "title": "서울지하철 준법투쟁 첫날",
-   "query": "지하철 파업"
-  },
-  {
-   "url": "https://www.newspim.com/news/view/20261120000195",
-   "title": "철도·지하철 3개 노조, 총파업 전 '안전운행 투쟁' 선포",
-   "query": "지하철 파업"
-  },
-  {
-   "url": "https://www.newspim.com/news/view/20261120000197",
-   "title": "파업 관련 성명서 붙여진 서울 지하철",
+   "url": "http://www.segyebiz.com/newsView/20261120503710?OutUrl=naver",
+   "title": "서울지하철 노조, 오늘부터 준법투쟁…출퇴근 열차 지연 예상",
    "query": "지하철 파업"
   },
   {
@@ -485,8 +470,23 @@
    "query": "지하철 파업"
   },
   {
+   "url": "https://www.newspim.com/news/view/20261120000197",
+   "title": "파업 관련 성명서 붙여진 서울 지하철",
+   "query": "지하철 파업"
+  },
+  {
    "url": "https://www.newspim.com/news/view/20261120000194",
    "title": "서울지하철 노조, 준법투쟁 돌입",
+   "query": "지하철 파업"
+  },
+  {
+   "url": "https://www.newspim.com/news/view/20261120000196",
+   "title": "서울지하철 노조, 오늘부터 준법투쟁",
+   "query": "지하철 파업"
+  },
+  {
+   "url": "https://www.newspim.com/news/view/20261120000191",
+   "title": "서울 지하철 준법투쟁 시작, 출퇴근길 혼잡 주의",
    "query": "지하철 파업"
   },
   {
@@ -505,13 +505,18 @@
    "query": "철도 파업"
   },
   {
-   "url": "https://www.newspim.com/news/view/20261120000191",
-   "title": "서울 지하철 준법투쟁 시작, 출퇴근길 혼잡 주의",
+   "url": "https://www.newspim.com/news/view/20261120000195",
+   "title": "철도·지하철 3개 노조, 총파업 전 '안전운행 투쟁' 선포",
    "query": "철도 파업"
   },
   {
-   "url": "https://www.newspim.com/news/view/20261120000196",
-   "title": "서울지하철 노조, 오늘부터 준법투쟁",
+   "url": "https://www.newspim.com/news/view/20261120000193",
+   "title": "서울지하철 준법투쟁 첫날",
+   "query": "철도 파업"
+  },
+  {
+   "url": "https://www.newspim.com/news/view/20261120000192",
+   "title": "서울 지하철 노조, 오늘부터 준법투쟁",
    "query": "철도 파업"
   },
   {
@@ -593,6 +598,11 @@
    "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008854903&plink=ORI&cooper=NAVER",
    "title": "서울지하철 노조 오늘 첫차부터 준법투쟁…총파업 예고",
    "query": "파업 예고 운행"
+  },
+  {
+   "url": "https://www.edaily.co.kr/News/Read?newsId=01200486645648016&mediaCodeNo=257&utm_source=naver&utm_medium=referral&utm_campaign=news_syndication&utm_content=original_article",
+   "title": "서울 아침 '영하 5도'…주말 마라톤·집회에 곳곳 교통통제[사회in]",
+   "query": "집회 교통 통제"
   },
   {
    "url": "https://www.businesspost.co.kr/BP?command=article_view&num=452341",
@@ -760,13 +770,13 @@
    "query": "집회 교통 통제"
   },
   {
-   "url": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202611080006&t=NN",
-   "title": "\"길 막히고 버스는 돌아가고\"…잇단 마라톤에 시민들 '부글'",
+   "url": "https://biz.heraldcorp.com/article/10929436?ref=naver",
+   "title": "“응급환자 이송 막힐라”…주말 도심 마라톤에 병원·결혼식장 비상",
    "query": "집회 교통 통제"
   },
   {
-   "url": "https://biz.heraldcorp.com/article/10929436?ref=naver",
-   "title": "“응급환자 이송 막힐라”…주말 도심 마라톤에 병원·결혼식장 비상",
+   "url": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202611080006&t=NN",
+   "title": "\"길 막히고 버스는 돌아가고\"…잇단 마라톤에 시민들 '부글'",
    "query": "집회 교통 통제"
   },
   {
@@ -840,9 +850,29 @@
    "query": "집회 교통 통제"
   },
   {
-   "url": "https://www.ytn.co.kr/_ln/0103_202611071718092435",
-   "title": "주말 도심 양대 노총 노동자대회...곳곳 교통 통제",
-   "query": "집회 교통 통제"
+   "url": "https://news.skbroadband.com/news/articleView.html?idxno=243867",
+   "title": "내일 인천마라톤대회 개최로 영종‧서해구 도로 통제",
+   "query": "마라톤 도로 통제"
+  },
+  {
+   "url": "https://www.mk.co.kr/article/12215177",
+   "title": "서울 ‘마라톤 지옥’ 해결 아이디어 나왔다…육상연맹이 내놓은 신박한...",
+   "query": "마라톤 도로 통제"
+  },
+  {
+   "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008856666&plink=ORI&cooper=NAVER",
+   "title": "시민들이 CPR 했다는데…마라톤 사망사고 목격담 반전",
+   "query": "마라톤 도로 통제"
+  },
+  {
+   "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008856534&plink=ORI&cooper=NAVER",
+   "title": "올해 마라톤 대회만 '600개'…안전 관리 잘 되나 봤더니",
+   "query": "마라톤 도로 통제"
+  },
+  {
+   "url": "https://www.yna.co.kr/view/AKR20261120163700797?input=1195m",
+   "title": "[영상] 주말 도심을 점령한 마라톤대회…\"장사하러 가야 하는데\" 울분",
+   "query": "마라톤 도로 통제"
   },
   {
    "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008856382&plink=ORI&cooper=NAVER",
@@ -1050,48 +1080,18 @@
    "query": "마라톤 도로 통제"
   },
   {
-   "url": "https://www.yna.co.kr/view/AKR20261118124900053?input=1195m",
-   "title": "내년 대구마라톤 참가 인원·시간 조정…\"시민 불편 최소화\"",
-   "query": "마라톤 도로 통제"
-  },
-  {
    "url": "https://www.fnnews.com/news/202611181428468761",
    "title": "대구 도심 달리는 대구마라톤, 3만2000명 참가 준비 본격",
    "query": "마라톤 도로 통제"
   },
   {
+   "url": "https://www.yna.co.kr/view/AKR20261118124900053?input=1195m",
+   "title": "내년 대구마라톤 참가 인원·시간 조정…\"시민 불편 최소화\"",
+   "query": "마라톤 도로 통제"
+  },
+  {
    "url": "https://www.thefairnews.co.kr/news/articleView.html?idxno=94689",
    "title": "33개국 2만여 건각 질주…'2026 인천마라톤' 22일 개막",
-   "query": "마라톤 도로 통제"
-  },
-  {
-   "url": "https://www.m-i.kr/news/articleView.html?idxno=2020115",
-   "title": "인천시, 22일 인천마라톤…영종·청라 일대 교통통제",
-   "query": "마라톤 도로 통제"
-  },
-  {
-   "url": "https://www.incheontoday.com/news/articleView.html?idxno=326545",
-   "title": "영종 주민 발 묶는 인천마라톤···주말 출근·생활 이동 대책 '미흡'",
-   "query": "마라톤 도로 통제"
-  },
-  {
-   "url": "https://www.greened.kr/news/articleView.html?idxno=354923",
-   "title": "33개국 2만 건각, 인천 바다와 도심을 가른다… '2026 인천마라톤' 22일 ...",
-   "query": "마라톤 도로 통제"
-  },
-  {
-   "url": "https://www.kmaeil.com/news/articleView.html?idxno=658769",
-   "title": "인천시, 22일 '2026 인천마라톤' 개최...33개국 2만 명 참가",
-   "query": "마라톤 도로 통제"
-  },
-  {
-   "url": "https://www.newsfreezone.co.kr/news/articleView.html?idxno=719960",
-   "title": "22일 인천아시아드 주경기장·영종구·서해구 일원서 개최",
-   "query": "마라톤 도로 통제"
-  },
-  {
-   "url": "https://www.ngonews.kr/news/articleView.html?idxno=243490",
-   "title": "국내외 2만 명 인천서 달린다…'2026 인천마라톤' 22일 개최",
    "query": "마라톤 도로 통제"
   },
   {
@@ -1117,6 +1117,16 @@
   {
    "url": "https://www.seoul.co.kr/news/plan/Runner-supply-depot/2026/11/19/20261119500228?wlog_tag3=naver",
    "title": "주말마다 교통 대란 서울도심 대회, ‘지역 축제’ 미국·일본에서 본 해...",
+   "query": "축제 버스 우회"
+  },
+  {
+   "url": "https://www.greened.kr/news/articleView.html?idxno=354923",
+   "title": "33개국 2만 건각, 인천 바다와 도심을 가른다… '2026 인천마라톤' 22일 ...",
+   "query": "축제 버스 우회"
+  },
+  {
+   "url": "https://www.newsfreezone.co.kr/news/articleView.html?idxno=719960",
+   "title": "22일 인천아시아드 주경기장·영종구·서해구 일원서 개최",
    "query": "축제 버스 우회"
   },
   {
@@ -1228,14 +1238,26 @@
    "url": "http://www.gjdream.com/news/articleView.html?idxno=674158",
    "title": "금남로 '걷자잉' 2년 만에 마침표…시민들 아쉬움",
    "query": "축제 버스 우회"
-  },
-  {
-   "url": "https://www.jbnews.com/news/articleView.html?idxno=1515341",
-   "title": "하경옥 시의원 \"대덕대교 통제에 대중교통 대책 빠졌다\"…어르신 버스비...",
-   "query": "축제 버스 우회"
   }
  ],
  "strikes": [
+  {
+   "id": "1679717e831475d4",
+   "mode": "subway",
+   "operator": "서울교통공사",
+   "regions": [
+    "서울"
+   ],
+   "status": "conditional",
+   "quote": "사측의 반응이 미미할 경우 오는 25일부터 무기한 총파업에 돌입할 계획이다",
+   "start": "2026-11-25",
+   "dateQuote": "오는 25일부터",
+   "articleTitle": "서울 지하철 준법투쟁, 시민들 일상에 큰 영향 없었다—총파업 예고된 ...",
+   "url": "https://www.gokorea.kr/news/articleView.html?idxno=886702",
+   "publishedAt": "2026-11-21T09:24:00.000",
+   "sourceCount": 35,
+   "model": "gemini-3.5-flash-lite"
+  },
   {
    "id": "976e0b153b43832b",
    "mode": "subway",
@@ -1281,23 +1303,6 @@
    "url": "https://www.obsnews.co.kr/news/articleView.html?idxno=1544515",
    "publishedAt": "2026-11-20T20:30:00.000",
    "sourceCount": 9,
-   "model": "gemini-3.5-flash-lite"
-  },
-  {
-   "id": "0e0594501283a906",
-   "mode": "subway",
-   "operator": "서울교통공사",
-   "regions": [
-    "서울"
-   ],
-   "status": "scheduled",
-   "quote": "25일 총파업 예고",
-   "start": "2026-11-25",
-   "dateQuote": "오는 25일",
-   "articleTitle": "서울교통공사 노조, 준법투쟁 첫날 큰 혼란 없어…25일 총파업 예고",
-   "url": "https://www.g-enews.com/view.php?ud=202611201945047298112616b072_1",
-   "publishedAt": "2026-11-20T19:48:00.000",
-   "sourceCount": 34,
    "model": "gemini-3.5-flash-lite"
   },
   {
@@ -11073,7 +11078,167 @@
   },
   {
    "assertion": "planned",
-   "checked_at": "2026-11-21T04:32:22.252104+09:00",
+   "checked_at": "2026-11-21T04:32:27.663369+09:00",
+   "conflict": false,
+   "demo": false,
+   "disruption_confirmed": false,
+   "event_id": "d5cce66ae02c29c1baad4426",
+   "event_name": "파업 사건",
+   "evidence": [
+    {
+     "derivation": "explicit",
+     "effective_at": null,
+     "field_path": "/article_relevance",
+     "quote": "3개 노조는 안전운행 투쟁에도 정부와 서울시가 응답하지 않을 경우 예정대로 무기한 총파업에 나선다.",
+     "reference_source": null,
+     "source_id": "9ad00f4ebeba81fd30b82e89",
+     "source_part": "body",
+     "source_revision": "e4dd24983761393e2135da30"
+    },
+    {
+     "derivation": "explicit",
+     "effective_at": null,
+     "field_path": "/transport_mode",
+     "quote": "3개 노조는 안전운행 투쟁에도 정부와 서울시가 응답하지 않을 경우 예정대로 무기한 총파업에 나선다.",
+     "reference_source": null,
+     "source_id": "9ad00f4ebeba81fd30b82e89",
+     "source_part": "body",
+     "source_revision": "e4dd24983761393e2135da30"
+    },
+    {
+     "derivation": "explicit",
+     "effective_at": null,
+     "field_path": "/affected_regions",
+     "quote": "3개 노조는 안전운행 투쟁에도 정부와 서울시가 응답하지 않을 경우 예정대로 무기한 총파업에 나선다.",
+     "reference_source": null,
+     "source_id": "9ad00f4ebeba81fd30b82e89",
+     "source_part": "body",
+     "source_revision": "e4dd24983761393e2135da30"
+    },
+    {
+     "derivation": "explicit",
+     "effective_at": null,
+     "field_path": "/affected_routes",
+     "quote": "3개 노조는 안전운행 투쟁에도 정부와 서울시가 응답하지 않을 경우 예정대로 무기한 총파업에 나선다.",
+     "reference_source": null,
+     "source_id": "9ad00f4ebeba81fd30b82e89",
+     "source_part": "body",
+     "source_revision": "e4dd24983761393e2135da30"
+    },
+    {
+     "derivation": "explicit",
+     "effective_at": null,
+     "field_path": "/strike_status",
+     "quote": "3개 노조는 안전운행 투쟁에도 정부와 서울시가 응답하지 않을 경우 예정대로 무기한 총파업에 나선다.",
+     "reference_source": null,
+     "source_id": "9ad00f4ebeba81fd30b82e89",
+     "source_part": "body",
+     "source_revision": "e4dd24983761393e2135da30"
+    },
+    {
+     "derivation": "explicit",
+     "effective_at": null,
+     "field_path": "/service_status",
+     "quote": "3개 노조는 안전운행 투쟁에도 정부와 서울시가 응답하지 않을 경우 예정대로 무기한 총파업에 나선다.",
+     "reference_source": null,
+     "source_id": "9ad00f4ebeba81fd30b82e89",
+     "source_part": "body",
+     "source_revision": "e4dd24983761393e2135da30"
+    },
+    {
+     "derivation": "explicit",
+     "effective_at": null,
+     "field_path": "/normal_service_exceptions",
+     "quote": "3개 노조는 안전운행 투쟁에도 정부와 서울시가 응답하지 않을 경우 예정대로 무기한 총파업에 나선다.",
+     "reference_source": null,
+     "source_id": "9ad00f4ebeba81fd30b82e89",
+     "source_part": "body",
+     "source_revision": "e4dd24983761393e2135da30"
+    },
+    {
+     "derivation": "explicit",
+     "effective_at": null,
+     "field_path": "/alternative_services",
+     "quote": "3개 노조는 안전운행 투쟁에도 정부와 서울시가 응답하지 않을 경우 예정대로 무기한 총파업에 나선다.",
+     "reference_source": null,
+     "source_id": "9ad00f4ebeba81fd30b82e89",
+     "source_part": "body",
+     "source_revision": "e4dd24983761393e2135da30"
+    },
+    {
+     "derivation": "explicit",
+     "effective_at": null,
+     "field_path": "/start",
+     "quote": "3개 노조는 안전운행 투쟁에도 정부와 서울시가 응답하지 않을 경우 예정대로 무기한 총파업에 나선다.",
+     "reference_source": null,
+     "source_id": "9ad00f4ebeba81fd30b82e89",
+     "source_part": "body",
+     "source_revision": "e4dd24983761393e2135da30"
+    },
+    {
+     "derivation": "explicit",
+     "effective_at": null,
+     "field_path": "/end",
+     "quote": "3개 노조는 안전운행 투쟁에도 정부와 서울시가 응답하지 않을 경우 예정대로 무기한 총파업에 나선다.",
+     "reference_source": null,
+     "source_id": "9ad00f4ebeba81fd30b82e89",
+     "source_part": "body",
+     "source_revision": "e4dd24983761393e2135da30"
+    }
+   ],
+   "exceptions": [],
+   "id": "16b8b279deb11b688263fc0e",
+   "modes": [],
+   "period": {
+    "condition": null,
+    "end": {
+     "assertion": "unknown",
+     "basis": "unknown",
+     "date": null,
+     "open_ended": true,
+     "raw": "무기한",
+     "time": null,
+     "timezone": "Asia/Seoul"
+    },
+    "precision": "PARTIAL",
+    "start": {
+     "assertion": "unknown",
+     "basis": "unknown",
+     "date": null,
+     "open_ended": null,
+     "raw": null,
+     "time": null,
+     "timezone": "Asia/Seoul"
+    }
+   },
+   "published_at": "2026-11-20T08:58:00+09:00",
+   "review_reasons": [
+    "UNSUPPORTED_OR_AMBIGUOUS_STATUS",
+    "DATE_UNCONFIRMED"
+   ],
+   "scope": [
+    {
+     "derivation": "article_explicit",
+     "normalized_name": "나선",
+     "raw": "나선",
+     "reference_id": null,
+     "reference_source": null,
+     "region": null
+    }
+   ],
+   "service_status": [],
+   "source_url": "https://www.newspim.com/news/view/20261120000191",
+   "status": "UNKNOWN",
+   "status_effective_at": null,
+   "strike_status": "unknown",
+   "type": "STRIKE",
+   "updated_at": "2026-11-20T08:59:00+09:00",
+   "version": 1,
+   "body_verified": true
+  },
+  {
+   "assertion": "planned",
+   "checked_at": "2026-11-21T11:06:26.070646+09:00",
    "conflict": false,
    "demo": false,
    "disruption_confirmed": false,
@@ -11376,7 +11541,7 @@
   },
   {
    "assertion": "planned",
-   "checked_at": "2026-11-21T04:32:24.674996+09:00",
+   "checked_at": "2026-11-21T11:06:28.206694+09:00",
    "conflict": false,
    "demo": false,
    "disruption_confirmed": false,
@@ -11638,7 +11803,7 @@
   },
   {
    "assertion": "planned",
-   "checked_at": "2026-11-21T04:32:24.674996+09:00",
+   "checked_at": "2026-11-21T11:06:28.206694+09:00",
    "conflict": false,
    "demo": false,
    "disruption_confirmed": true,
@@ -12318,11 +12483,11 @@
   },
   {
    "assertion": "planned",
-   "checked_at": "2026-11-21T04:32:27.663369+09:00",
+   "checked_at": "2026-11-21T11:06:29.559867+09:00",
    "conflict": false,
    "demo": false,
    "disruption_confirmed": false,
-   "event_id": "d5cce66ae02c29c1baad4426",
+   "event_id": "5467c4d480148b207909bea5",
    "event_name": "파업 사건",
    "evidence": [
     {
@@ -12331,7 +12496,7 @@
      "field_path": "/article_relevance",
      "quote": "3개 노조는 안전운행 투쟁에도 정부와 서울시가 응답하지 않을 경우 예정대로 무기한 총파업에 나선다.",
      "reference_source": null,
-     "source_id": "9ad00f4ebeba81fd30b82e89",
+     "source_id": "27a707314906e25570809c59",
      "source_part": "body",
      "source_revision": "e4dd24983761393e2135da30"
     },
@@ -12341,7 +12506,7 @@
      "field_path": "/transport_mode",
      "quote": "3개 노조는 안전운행 투쟁에도 정부와 서울시가 응답하지 않을 경우 예정대로 무기한 총파업에 나선다.",
      "reference_source": null,
-     "source_id": "9ad00f4ebeba81fd30b82e89",
+     "source_id": "27a707314906e25570809c59",
      "source_part": "body",
      "source_revision": "e4dd24983761393e2135da30"
     },
@@ -12351,7 +12516,7 @@
      "field_path": "/affected_regions",
      "quote": "3개 노조는 안전운행 투쟁에도 정부와 서울시가 응답하지 않을 경우 예정대로 무기한 총파업에 나선다.",
      "reference_source": null,
-     "source_id": "9ad00f4ebeba81fd30b82e89",
+     "source_id": "27a707314906e25570809c59",
      "source_part": "body",
      "source_revision": "e4dd24983761393e2135da30"
     },
@@ -12361,7 +12526,7 @@
      "field_path": "/affected_routes",
      "quote": "3개 노조는 안전운행 투쟁에도 정부와 서울시가 응답하지 않을 경우 예정대로 무기한 총파업에 나선다.",
      "reference_source": null,
-     "source_id": "9ad00f4ebeba81fd30b82e89",
+     "source_id": "27a707314906e25570809c59",
      "source_part": "body",
      "source_revision": "e4dd24983761393e2135da30"
     },
@@ -12371,7 +12536,7 @@
      "field_path": "/strike_status",
      "quote": "3개 노조는 안전운행 투쟁에도 정부와 서울시가 응답하지 않을 경우 예정대로 무기한 총파업에 나선다.",
      "reference_source": null,
-     "source_id": "9ad00f4ebeba81fd30b82e89",
+     "source_id": "27a707314906e25570809c59",
      "source_part": "body",
      "source_revision": "e4dd24983761393e2135da30"
     },
@@ -12381,7 +12546,7 @@
      "field_path": "/service_status",
      "quote": "3개 노조는 안전운행 투쟁에도 정부와 서울시가 응답하지 않을 경우 예정대로 무기한 총파업에 나선다.",
      "reference_source": null,
-     "source_id": "9ad00f4ebeba81fd30b82e89",
+     "source_id": "27a707314906e25570809c59",
      "source_part": "body",
      "source_revision": "e4dd24983761393e2135da30"
     },
@@ -12391,7 +12556,7 @@
      "field_path": "/normal_service_exceptions",
      "quote": "3개 노조는 안전운행 투쟁에도 정부와 서울시가 응답하지 않을 경우 예정대로 무기한 총파업에 나선다.",
      "reference_source": null,
-     "source_id": "9ad00f4ebeba81fd30b82e89",
+     "source_id": "27a707314906e25570809c59",
      "source_part": "body",
      "source_revision": "e4dd24983761393e2135da30"
     },
@@ -12401,7 +12566,7 @@
      "field_path": "/alternative_services",
      "quote": "3개 노조는 안전운행 투쟁에도 정부와 서울시가 응답하지 않을 경우 예정대로 무기한 총파업에 나선다.",
      "reference_source": null,
-     "source_id": "9ad00f4ebeba81fd30b82e89",
+     "source_id": "27a707314906e25570809c59",
      "source_part": "body",
      "source_revision": "e4dd24983761393e2135da30"
     },
@@ -12411,7 +12576,7 @@
      "field_path": "/start",
      "quote": "3개 노조는 안전운행 투쟁에도 정부와 서울시가 응답하지 않을 경우 예정대로 무기한 총파업에 나선다.",
      "reference_source": null,
-     "source_id": "9ad00f4ebeba81fd30b82e89",
+     "source_id": "27a707314906e25570809c59",
      "source_part": "body",
      "source_revision": "e4dd24983761393e2135da30"
     },
@@ -12421,13 +12586,13 @@
      "field_path": "/end",
      "quote": "3개 노조는 안전운행 투쟁에도 정부와 서울시가 응답하지 않을 경우 예정대로 무기한 총파업에 나선다.",
      "reference_source": null,
-     "source_id": "9ad00f4ebeba81fd30b82e89",
+     "source_id": "27a707314906e25570809c59",
      "source_part": "body",
      "source_revision": "e4dd24983761393e2135da30"
     }
    ],
    "exceptions": [],
-   "id": "16b8b279deb11b688263fc0e",
+   "id": "d44cac280a81c9c0ff64cdcd",
    "modes": [],
    "period": {
     "condition": null,
@@ -12467,7 +12632,7 @@
     }
    ],
    "service_status": [],
-   "source_url": "https://www.newspim.com/news/view/20261120000191",
+   "source_url": "https://www.newspim.com/news/view/20261120000195",
    "status": "UNKNOWN",
    "status_effective_at": null,
    "strike_status": "unknown",
@@ -12478,7 +12643,7 @@
   },
   {
    "assertion": "planned",
-   "checked_at": "2026-11-21T04:32:32.096719+09:00",
+   "checked_at": "2026-11-21T11:06:32.877316+09:00",
    "conflict": false,
    "demo": false,
    "disruption_confirmed": true,
@@ -12877,7 +13042,7 @@
   },
   {
    "assertion": "planned",
-   "checked_at": "2026-11-21T04:32:32.096719+09:00",
+   "checked_at": "2026-11-21T11:06:32.877316+09:00",
    "conflict": false,
    "demo": false,
    "disruption_confirmed": false,
@@ -13066,7 +13231,7 @@
       "source_url": "https://www.newspim.com/news/view/20261120000258",
       "published_at": "2026-11-20T09:34:00+09:00",
       "updated_at": "2026-11-20T09:34:00+09:00",
-      "collected_at": "2026-11-21T04:32:02.477369+09:00",
+      "collected_at": "2026-11-21T11:06:10.280679+09:00",
       "field_evidence": [
        {
         "field_path": "/article_relevance",
@@ -13208,7 +13373,7 @@
       "source_url": "https://www.newspim.com/news/view/20261120000258",
       "published_at": "2026-11-20T09:34:00+09:00",
       "updated_at": "2026-11-20T09:34:00+09:00",
-      "collected_at": "2026-11-21T04:32:02.477369+09:00",
+      "collected_at": "2026-11-21T11:06:10.280679+09:00",
       "field_evidence": [
        {
         "field_path": "/article_relevance",
@@ -13350,7 +13515,7 @@
       "source_url": "https://www.newspim.com/news/view/20261120000258",
       "published_at": "2026-11-20T09:34:00+09:00",
       "updated_at": "2026-11-20T09:34:00+09:00",
-      "collected_at": "2026-11-21T04:32:02.477369+09:00",
+      "collected_at": "2026-11-21T11:06:10.280679+09:00",
       "field_evidence": [
        {
         "field_path": "/article_relevance",
@@ -13492,7 +13657,7 @@
       "source_url": "https://www.newspim.com/news/view/20261120000258",
       "published_at": "2026-11-20T09:34:00+09:00",
       "updated_at": "2026-11-20T09:34:00+09:00",
-      "collected_at": "2026-11-21T04:32:02.477369+09:00",
+      "collected_at": "2026-11-21T11:06:10.280679+09:00",
       "field_evidence": [
        {
         "field_path": "/article_relevance",
@@ -13634,7 +13799,7 @@
       "source_url": "https://www.newspim.com/news/view/20261120000258",
       "published_at": "2026-11-20T09:34:00+09:00",
       "updated_at": "2026-11-20T09:34:00+09:00",
-      "collected_at": "2026-11-21T04:32:02.477369+09:00",
+      "collected_at": "2026-11-21T11:06:10.280679+09:00",
       "field_evidence": [
        {
         "field_path": "/article_relevance",
@@ -13851,7 +14016,7 @@
      "source_revision": "d53120f0b68221a6442648a4",
      "published_at": "2026-11-20T09:34:00+09:00",
      "updated_at": "2026-11-20T09:34:00+09:00",
-     "collected_at": "2026-11-21T04:32:02.477369+09:00"
+     "collected_at": "2026-11-21T11:06:10.280679+09:00"
     },
     "events": [],
     "review_reasons": [
@@ -13897,7 +14062,7 @@
       "source_url": "https://www.yna.co.kr/view/AKR20261118007000079?input=1195m",
       "published_at": "2026-11-18T03:43:59+09:00",
       "updated_at": "2026-11-18T09:34:21+09:00",
-      "collected_at": "2026-11-21T04:32:14.313956+09:00",
+      "collected_at": "2026-11-21T11:06:18.341096+09:00",
       "field_evidence": [
        {
         "field_path": "/article_relevance",
@@ -14014,12 +14179,217 @@
      "source_revision": "803fca1dcdf7c4adcd01d505",
      "published_at": "2026-11-18T03:43:59+09:00",
      "updated_at": "2026-11-18T09:34:21+09:00",
-     "collected_at": "2026-11-21T04:32:14.313956+09:00"
+     "collected_at": "2026-11-21T11:06:18.341096+09:00"
     },
     "events": [],
     "review_reasons": [
      "UNSUPPORTED_EVENT_CONTEXT"
     ]
+   }
+  },
+  {
+   "strikes": [
+    {
+     "article_relevance": "unrelated",
+     "transport_mode": "unknown",
+     "affected_regions": [],
+     "affected_routes": [],
+     "start": {
+      "raw": null,
+      "date": null,
+      "time": null,
+      "timezone": "Asia/Seoul",
+      "basis": "unknown",
+      "assertion": "unknown",
+      "open_ended": null
+     },
+     "end": {
+      "raw": null,
+      "date": null,
+      "time": null,
+      "timezone": "Asia/Seoul",
+      "basis": "unknown",
+      "assertion": "unknown",
+      "open_ended": null
+     },
+     "strike_status": {
+      "value": "unknown",
+      "conditions": [],
+      "scope_raw": null,
+      "effective_at": null
+     },
+     "service_status": [],
+     "normal_service_exceptions": [],
+     "alternative_services": [],
+     "evidence_and_timestamps": {
+      "source_url": "https://www.yna.co.kr/view/AKR20261120163700797?input=1195m",
+      "published_at": "2026-11-21T06:00:01+09:00",
+      "updated_at": "2026-11-21T06:00:01+09:00",
+      "collected_at": "2026-11-21T11:06:20.356033+09:00",
+      "field_evidence": [
+       {
+        "field_path": "/article_relevance",
+        "quote": "(서울=연합뉴스) 손지성 인턴기자 = 서울에서는 올해 170차례가 넘는 마라톤 대회가 열렸습니다. 도심을 가로지르는 대회가 열릴 때마다 주요 도로가 통제되면서 시민들은 큰 불편을 겪어야 하는데요. 3만 명이 서울 도심을 달린 지난 15일, 현장을 직접 찾아가 봤습니다. jiseongson@yna.co.kr 제보는 카카오톡 okjebo <저작권자(c) 연합뉴스, 무단 전재-재배포, AI 학습 및 활용 금지> 2026/11/21 06:00 송고 2026년11월21일 06시00분 송고",
+        "source_part": "body",
+        "effective_at": null,
+        "derivation": "explicit",
+        "source_id": "a11170e8050b82729942f6d9",
+        "source_revision": "867033b6bb8234b6daca4c9e",
+        "reference_source": null
+       },
+       {
+        "field_path": "/transport_mode",
+        "quote": "(서울=연합뉴스) 손지성 인턴기자 = 서울에서는 올해 170차례가 넘는 마라톤 대회가 열렸습니다. 도심을 가로지르는 대회가 열릴 때마다 주요 도로가 통제되면서 시민들은 큰 불편을 겪어야 하는데요. 3만 명이 서울 도심을 달린 지난 15일, 현장을 직접 찾아가 봤습니다. jiseongson@yna.co.kr 제보는 카카오톡 okjebo <저작권자(c) 연합뉴스, 무단 전재-재배포, AI 학습 및 활용 금지> 2026/11/21 06:00 송고 2026년11월21일 06시00분 송고",
+        "source_part": "body",
+        "effective_at": null,
+        "derivation": "explicit",
+        "source_id": "a11170e8050b82729942f6d9",
+        "source_revision": "867033b6bb8234b6daca4c9e",
+        "reference_source": null
+       },
+       {
+        "field_path": "/affected_regions",
+        "quote": "(서울=연합뉴스) 손지성 인턴기자 = 서울에서는 올해 170차례가 넘는 마라톤 대회가 열렸습니다. 도심을 가로지르는 대회가 열릴 때마다 주요 도로가 통제되면서 시민들은 큰 불편을 겪어야 하는데요. 3만 명이 서울 도심을 달린 지난 15일, 현장을 직접 찾아가 봤습니다. jiseongson@yna.co.kr 제보는 카카오톡 okjebo <저작권자(c) 연합뉴스, 무단 전재-재배포, AI 학습 및 활용 금지> 2026/11/21 06:00 송고 2026년11월21일 06시00분 송고",
+        "source_part": "body",
+        "effective_at": null,
+        "derivation": "explicit",
+        "source_id": "a11170e8050b82729942f6d9",
+        "source_revision": "867033b6bb8234b6daca4c9e",
+        "reference_source": null
+       },
+       {
+        "field_path": "/affected_routes",
+        "quote": "(서울=연합뉴스) 손지성 인턴기자 = 서울에서는 올해 170차례가 넘는 마라톤 대회가 열렸습니다. 도심을 가로지르는 대회가 열릴 때마다 주요 도로가 통제되면서 시민들은 큰 불편을 겪어야 하는데요. 3만 명이 서울 도심을 달린 지난 15일, 현장을 직접 찾아가 봤습니다. jiseongson@yna.co.kr 제보는 카카오톡 okjebo <저작권자(c) 연합뉴스, 무단 전재-재배포, AI 학습 및 활용 금지> 2026/11/21 06:00 송고 2026년11월21일 06시00분 송고",
+        "source_part": "body",
+        "effective_at": null,
+        "derivation": "explicit",
+        "source_id": "a11170e8050b82729942f6d9",
+        "source_revision": "867033b6bb8234b6daca4c9e",
+        "reference_source": null
+       },
+       {
+        "field_path": "/strike_status",
+        "quote": "(서울=연합뉴스) 손지성 인턴기자 = 서울에서는 올해 170차례가 넘는 마라톤 대회가 열렸습니다. 도심을 가로지르는 대회가 열릴 때마다 주요 도로가 통제되면서 시민들은 큰 불편을 겪어야 하는데요. 3만 명이 서울 도심을 달린 지난 15일, 현장을 직접 찾아가 봤습니다. jiseongson@yna.co.kr 제보는 카카오톡 okjebo <저작권자(c) 연합뉴스, 무단 전재-재배포, AI 학습 및 활용 금지> 2026/11/21 06:00 송고 2026년11월21일 06시00분 송고",
+        "source_part": "body",
+        "effective_at": null,
+        "derivation": "explicit",
+        "source_id": "a11170e8050b82729942f6d9",
+        "source_revision": "867033b6bb8234b6daca4c9e",
+        "reference_source": null
+       },
+       {
+        "field_path": "/service_status",
+        "quote": "(서울=연합뉴스) 손지성 인턴기자 = 서울에서는 올해 170차례가 넘는 마라톤 대회가 열렸습니다. 도심을 가로지르는 대회가 열릴 때마다 주요 도로가 통제되면서 시민들은 큰 불편을 겪어야 하는데요. 3만 명이 서울 도심을 달린 지난 15일, 현장을 직접 찾아가 봤습니다. jiseongson@yna.co.kr 제보는 카카오톡 okjebo <저작권자(c) 연합뉴스, 무단 전재-재배포, AI 학습 및 활용 금지> 2026/11/21 06:00 송고 2026년11월21일 06시00분 송고",
+        "source_part": "body",
+        "effective_at": null,
+        "derivation": "explicit",
+        "source_id": "a11170e8050b82729942f6d9",
+        "source_revision": "867033b6bb8234b6daca4c9e",
+        "reference_source": null
+       },
+       {
+        "field_path": "/normal_service_exceptions",
+        "quote": "(서울=연합뉴스) 손지성 인턴기자 = 서울에서는 올해 170차례가 넘는 마라톤 대회가 열렸습니다. 도심을 가로지르는 대회가 열릴 때마다 주요 도로가 통제되면서 시민들은 큰 불편을 겪어야 하는데요. 3만 명이 서울 도심을 달린 지난 15일, 현장을 직접 찾아가 봤습니다. jiseongson@yna.co.kr 제보는 카카오톡 okjebo <저작권자(c) 연합뉴스, 무단 전재-재배포, AI 학습 및 활용 금지> 2026/11/21 06:00 송고 2026년11월21일 06시00분 송고",
+        "source_part": "body",
+        "effective_at": null,
+        "derivation": "explicit",
+        "source_id": "a11170e8050b82729942f6d9",
+        "source_revision": "867033b6bb8234b6daca4c9e",
+        "reference_source": null
+       },
+       {
+        "field_path": "/alternative_services",
+        "quote": "(서울=연합뉴스) 손지성 인턴기자 = 서울에서는 올해 170차례가 넘는 마라톤 대회가 열렸습니다. 도심을 가로지르는 대회가 열릴 때마다 주요 도로가 통제되면서 시민들은 큰 불편을 겪어야 하는데요. 3만 명이 서울 도심을 달린 지난 15일, 현장을 직접 찾아가 봤습니다. jiseongson@yna.co.kr 제보는 카카오톡 okjebo <저작권자(c) 연합뉴스, 무단 전재-재배포, AI 학습 및 활용 금지> 2026/11/21 06:00 송고 2026년11월21일 06시00분 송고",
+        "source_part": "body",
+        "effective_at": null,
+        "derivation": "explicit",
+        "source_id": "a11170e8050b82729942f6d9",
+        "source_revision": "867033b6bb8234b6daca4c9e",
+        "reference_source": null
+       },
+       {
+        "field_path": "/start",
+        "quote": "(서울=연합뉴스) 손지성 인턴기자 = 서울에서는 올해 170차례가 넘는 마라톤 대회가 열렸습니다. 도심을 가로지르는 대회가 열릴 때마다 주요 도로가 통제되면서 시민들은 큰 불편을 겪어야 하는데요. 3만 명이 서울 도심을 달린 지난 15일, 현장을 직접 찾아가 봤습니다. jiseongson@yna.co.kr 제보는 카카오톡 okjebo <저작권자(c) 연합뉴스, 무단 전재-재배포, AI 학습 및 활용 금지> 2026/11/21 06:00 송고 2026년11월21일 06시00분 송고",
+        "source_part": "body",
+        "effective_at": null,
+        "derivation": "explicit",
+        "source_id": "a11170e8050b82729942f6d9",
+        "source_revision": "867033b6bb8234b6daca4c9e",
+        "reference_source": null
+       },
+       {
+        "field_path": "/end",
+        "quote": "(서울=연합뉴스) 손지성 인턴기자 = 서울에서는 올해 170차례가 넘는 마라톤 대회가 열렸습니다. 도심을 가로지르는 대회가 열릴 때마다 주요 도로가 통제되면서 시민들은 큰 불편을 겪어야 하는데요. 3만 명이 서울 도심을 달린 지난 15일, 현장을 직접 찾아가 봤습니다. jiseongson@yna.co.kr 제보는 카카오톡 okjebo <저작권자(c) 연합뉴스, 무단 전재-재배포, AI 학습 및 활용 금지> 2026/11/21 06:00 송고 2026년11월21일 06시00분 송고",
+        "source_part": "body",
+        "effective_at": null,
+        "derivation": "explicit",
+        "source_id": "a11170e8050b82729942f6d9",
+        "source_revision": "867033b6bb8234b6daca4c9e",
+        "reference_source": null
+       }
+      ],
+      "review_reasons": []
+     }
+    }
+   ],
+   "events": {
+    "schema_version": "1.0",
+    "article_relevance": "related",
+    "processing_status": "success",
+    "source": {
+     "source_id": "a11170e8050b82729942f6d9",
+     "source_url": "https://www.yna.co.kr/view/AKR20261120163700797?input=1195m",
+     "source_revision": "867033b6bb8234b6daca4c9e",
+     "published_at": "2026-11-21T06:00:01+09:00",
+     "updated_at": "2026-11-21T06:00:01+09:00",
+     "collected_at": "2026-11-21T11:06:20.356033+09:00"
+    },
+    "events": [
+     {
+      "event_ref": "0",
+      "event_name": "넘는 마라톤",
+      "event_type": "MARATHON",
+      "event_status": "UNKNOWN",
+      "event_period": {
+       "start": {
+        "raw": null,
+        "date": null,
+        "time": null,
+        "timezone": "Asia/Seoul",
+        "basis": "unknown",
+        "assertion": "unknown",
+        "open_ended": null
+       },
+       "end": {
+        "raw": null,
+        "date": null,
+        "time": null,
+        "timezone": "Asia/Seoul",
+        "basis": "unknown",
+        "assertion": "unknown",
+        "open_ended": null
+       },
+       "precision": "UNKNOWN",
+       "condition": null
+      },
+      "event_locations": [],
+      "impacts": [],
+      "evidence": [
+       {
+        "field_path": "/event",
+        "quote": "손지성 인턴기자 = 서울에서는 올해 170차례가 넘는 마라톤 대회가 열렸습니다.",
+        "source_part": "body",
+        "effective_at": null,
+        "derivation": "explicit",
+        "source_id": "a11170e8050b82729942f6d9",
+        "source_revision": "867033b6bb8234b6daca4c9e",
+        "reference_source": null
+       }
+      ],
+      "review_reasons": []
+     }
+    ],
+    "review_reasons": []
    }
   },
   {
@@ -14062,7 +14432,7 @@
       "source_url": "https://www.seoul.co.kr/news/plan/Runner-supply-depot/2026/11/20/20261120035001?wlog_tag3=naver",
       "published_at": "2026-11-19T21:59:02+09:00",
       "updated_at": "2026-11-20T00:36:32+09:00",
-      "collected_at": "2026-11-21T04:32:19.774574+09:00",
+      "collected_at": "2026-11-21T11:06:24.073322+09:00",
       "field_evidence": [
        {
         "field_path": "/article_relevance",
@@ -14179,7 +14549,7 @@
      "source_revision": "f1f2d1c25e1728d204b5c71f",
      "published_at": "2026-11-19T21:59:02+09:00",
      "updated_at": "2026-11-20T00:36:32+09:00",
-     "collected_at": "2026-11-21T04:32:19.774574+09:00"
+     "collected_at": "2026-11-21T11:06:24.073322+09:00"
     },
     "events": [
      {
@@ -15129,7 +15499,7 @@
       "source_url": "https://www.seoul.co.kr/news/society/2026/11/20/20261120500022?wlog_tag3=naver",
       "published_at": "2026-11-20T09:04:56+09:00",
       "updated_at": "2026-11-20T09:06:05+09:00",
-      "collected_at": "2026-11-21T04:32:22.252104+09:00",
+      "collected_at": "2026-11-21T11:06:26.070646+09:00",
       "field_evidence": [
        {
         "field_path": "/article_relevance",
@@ -15273,7 +15643,7 @@
       "source_url": "https://www.seoul.co.kr/news/society/2026/11/20/20261120500022?wlog_tag3=naver",
       "published_at": "2026-11-20T09:04:56+09:00",
       "updated_at": "2026-11-20T09:06:05+09:00",
-      "collected_at": "2026-11-21T04:32:22.252104+09:00",
+      "collected_at": "2026-11-21T11:06:26.070646+09:00",
       "field_evidence": [
        {
         "field_path": "/article_relevance",
@@ -15415,7 +15785,7 @@
       "source_url": "https://www.seoul.co.kr/news/society/2026/11/20/20261120500022?wlog_tag3=naver",
       "published_at": "2026-11-20T09:04:56+09:00",
       "updated_at": "2026-11-20T09:06:05+09:00",
-      "collected_at": "2026-11-21T04:32:22.252104+09:00",
+      "collected_at": "2026-11-21T11:06:26.070646+09:00",
       "field_evidence": [
        {
         "field_path": "/article_relevance",
@@ -15559,7 +15929,7 @@
       "source_url": "https://www.seoul.co.kr/news/society/2026/11/20/20261120500022?wlog_tag3=naver",
       "published_at": "2026-11-20T09:04:56+09:00",
       "updated_at": "2026-11-20T09:06:05+09:00",
-      "collected_at": "2026-11-21T04:32:22.252104+09:00",
+      "collected_at": "2026-11-21T11:06:26.070646+09:00",
       "field_evidence": [
        {
         "field_path": "/article_relevance",
@@ -15876,7 +16246,7 @@
      "source_revision": "4e4ff2897e6705b0fea4bd42",
      "published_at": "2026-11-20T09:04:56+09:00",
      "updated_at": "2026-11-20T09:06:05+09:00",
-     "collected_at": "2026-11-21T04:32:22.252104+09:00"
+     "collected_at": "2026-11-21T11:06:26.070646+09:00"
     },
     "events": [],
     "review_reasons": []
@@ -15931,7 +16301,7 @@
       "source_url": "https://www.hankyung.com/article/2026112007411",
       "published_at": "2026-11-20T17:35:59+09:00",
       "updated_at": null,
-      "collected_at": "2026-11-21T04:32:24.674996+09:00",
+      "collected_at": "2026-11-21T11:06:28.206694+09:00",
       "field_evidence": [
        {
         "field_path": "/article_relevance",
@@ -16206,7 +16576,7 @@
       "source_url": "https://www.hankyung.com/article/2026112007411",
       "published_at": "2026-11-20T17:35:59+09:00",
       "updated_at": null,
-      "collected_at": "2026-11-21T04:32:24.674996+09:00",
+      "collected_at": "2026-11-21T11:06:28.206694+09:00",
       "field_evidence": [
        {
         "field_path": "/article_relevance",
@@ -16825,7 +17195,7 @@
      "source_revision": "a7abedfe8ed8f9355d8f1e46",
      "published_at": "2026-11-20T17:35:59+09:00",
      "updated_at": null,
-     "collected_at": "2026-11-21T04:32:24.674996+09:00"
+     "collected_at": "2026-11-21T11:06:28.206694+09:00"
     },
     "events": [],
     "review_reasons": []
@@ -16877,10 +17247,10 @@
      "normal_service_exceptions": [],
      "alternative_services": [],
      "evidence_and_timestamps": {
-      "source_url": "https://www.newspim.com/news/view/20261120000191",
+      "source_url": "https://www.newspim.com/news/view/20261120000195",
       "published_at": "2026-11-20T08:58:00+09:00",
       "updated_at": "2026-11-20T08:59:00+09:00",
-      "collected_at": "2026-11-21T04:32:27.663369+09:00",
+      "collected_at": "2026-11-21T11:06:29.559867+09:00",
       "field_evidence": [
        {
         "field_path": "/article_relevance",
@@ -16888,7 +17258,7 @@
         "source_part": "body",
         "effective_at": null,
         "derivation": "explicit",
-        "source_id": "9ad00f4ebeba81fd30b82e89",
+        "source_id": "27a707314906e25570809c59",
         "source_revision": "e4dd24983761393e2135da30",
         "reference_source": null
        },
@@ -16898,7 +17268,7 @@
         "source_part": "body",
         "effective_at": null,
         "derivation": "explicit",
-        "source_id": "9ad00f4ebeba81fd30b82e89",
+        "source_id": "27a707314906e25570809c59",
         "source_revision": "e4dd24983761393e2135da30",
         "reference_source": null
        },
@@ -16908,7 +17278,7 @@
         "source_part": "body",
         "effective_at": null,
         "derivation": "explicit",
-        "source_id": "9ad00f4ebeba81fd30b82e89",
+        "source_id": "27a707314906e25570809c59",
         "source_revision": "e4dd24983761393e2135da30",
         "reference_source": null
        },
@@ -16918,7 +17288,7 @@
         "source_part": "body",
         "effective_at": null,
         "derivation": "explicit",
-        "source_id": "9ad00f4ebeba81fd30b82e89",
+        "source_id": "27a707314906e25570809c59",
         "source_revision": "e4dd24983761393e2135da30",
         "reference_source": null
        },
@@ -16928,7 +17298,7 @@
         "source_part": "body",
         "effective_at": null,
         "derivation": "explicit",
-        "source_id": "9ad00f4ebeba81fd30b82e89",
+        "source_id": "27a707314906e25570809c59",
         "source_revision": "e4dd24983761393e2135da30",
         "reference_source": null
        },
@@ -16938,7 +17308,7 @@
         "source_part": "body",
         "effective_at": null,
         "derivation": "explicit",
-        "source_id": "9ad00f4ebeba81fd30b82e89",
+        "source_id": "27a707314906e25570809c59",
         "source_revision": "e4dd24983761393e2135da30",
         "reference_source": null
        },
@@ -16948,7 +17318,7 @@
         "source_part": "body",
         "effective_at": null,
         "derivation": "explicit",
-        "source_id": "9ad00f4ebeba81fd30b82e89",
+        "source_id": "27a707314906e25570809c59",
         "source_revision": "e4dd24983761393e2135da30",
         "reference_source": null
        },
@@ -16958,7 +17328,7 @@
         "source_part": "body",
         "effective_at": null,
         "derivation": "explicit",
-        "source_id": "9ad00f4ebeba81fd30b82e89",
+        "source_id": "27a707314906e25570809c59",
         "source_revision": "e4dd24983761393e2135da30",
         "reference_source": null
        },
@@ -16968,7 +17338,7 @@
         "source_part": "body",
         "effective_at": null,
         "derivation": "explicit",
-        "source_id": "9ad00f4ebeba81fd30b82e89",
+        "source_id": "27a707314906e25570809c59",
         "source_revision": "e4dd24983761393e2135da30",
         "reference_source": null
        },
@@ -16978,7 +17348,7 @@
         "source_part": "body",
         "effective_at": null,
         "derivation": "explicit",
-        "source_id": "9ad00f4ebeba81fd30b82e89",
+        "source_id": "27a707314906e25570809c59",
         "source_revision": "e4dd24983761393e2135da30",
         "reference_source": null
        }
@@ -16995,12 +17365,12 @@
     "article_relevance": "unrelated",
     "processing_status": "success",
     "source": {
-     "source_id": "9ad00f4ebeba81fd30b82e89",
-     "source_url": "https://www.newspim.com/news/view/20261120000191",
+     "source_id": "27a707314906e25570809c59",
+     "source_url": "https://www.newspim.com/news/view/20261120000195",
      "source_revision": "e4dd24983761393e2135da30",
      "published_at": "2026-11-20T08:58:00+09:00",
      "updated_at": "2026-11-20T08:59:00+09:00",
-     "collected_at": "2026-11-21T04:32:27.663369+09:00"
+     "collected_at": "2026-11-21T11:06:29.559867+09:00"
     },
     "events": [],
     "review_reasons": []
@@ -17093,7 +17463,7 @@
       "source_url": "https://www.imaeil.com/page/view/2026111417131297761",
       "published_at": null,
       "updated_at": null,
-      "collected_at": "2026-11-21T04:32:32.096719+09:00",
+      "collected_at": "2026-11-21T11:06:32.877316+09:00",
       "field_evidence": [
        {
         "field_path": "/article_relevance",
@@ -17437,7 +17807,7 @@
       "source_url": "https://www.imaeil.com/page/view/2026111417131297761",
       "published_at": null,
       "updated_at": null,
-      "collected_at": "2026-11-21T04:32:32.096719+09:00",
+      "collected_at": "2026-11-21T11:06:32.877316+09:00",
       "field_evidence": [
        {
         "field_path": "/article_relevance",
@@ -17557,7 +17927,7 @@
      "source_revision": "79344459f900a196bff2714a",
      "published_at": null,
      "updated_at": null,
-     "collected_at": "2026-11-21T04:32:32.096719+09:00"
+     "collected_at": "2026-11-21T11:06:32.877316+09:00"
     },
     "events": [],
     "review_reasons": []
@@ -17603,7 +17973,7 @@
       "source_url": "https://www.seoul.co.kr/news/plan/Runner-supply-depot/2026/11/19/20261119500228?wlog_tag3=naver",
       "published_at": "2026-11-19T16:22:34+09:00",
       "updated_at": "2026-11-19T16:22:34+09:00",
-      "collected_at": "2026-11-21T04:32:38.920907+09:00",
+      "collected_at": "2026-11-21T11:06:34.189062+09:00",
       "field_evidence": [
        {
         "field_path": "/article_relevance",
@@ -17720,7 +18090,7 @@
      "source_revision": "753ca72fcce132802d39d5d5",
      "published_at": "2026-11-19T16:22:34+09:00",
      "updated_at": "2026-11-19T16:22:34+09:00",
-     "collected_at": "2026-11-21T04:32:38.920907+09:00"
+     "collected_at": "2026-11-21T11:06:34.189062+09:00"
     },
     "events": [
      {
@@ -18297,10 +18667,6 @@
   {
    "source_url": "http://www.metroseoul.co.kr/article/20261120500170",
    "status": "url_blocked"
-  },
-  {
-   "source_url": "https://www.joongdo.co.kr/web/view.php?key=20261118010006508",
-   "status": "body_fetch_failed"
   }
  ]
 }
