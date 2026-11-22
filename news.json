@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-22T10:05:28.157272+09:00",
+ "generatedAt": "2026-11-22T13:33:06.687569+09:00",
  "windowDays": 14,
  "queries": [
   "버스 파업",
@@ -17,8 +17,23 @@
    "url": "https://www.ncloud.com/product/applicationService/naverApiHub"
   }
  ],
- "articles": 228,
+ "articles": 225,
  "searchResults": [
+  {
+   "url": "https://www.pressian.com/pages/articles/2026111911375038345?utm_source=naver&utm_medium=search",
+   "title": "'민영화의 성지' 영국은 왜 다시 국영 철도를 택했나[달리는 기차에서 ...",
+   "query": "버스 파업"
+  },
+  {
+   "url": "https://www.ytn.co.kr/_ln/0115_202611221202205551",
+   "title": "'탈선' 경부선 정상운행...철도노조 내일 준법투쟁",
+   "query": "버스 파업"
+  },
+  {
+   "url": "https://www.gukjenews.com/news/articleView.html?idxno=3759346",
+   "title": "멈췄던 경부선, 오늘 첫차부터 다시 달린다",
+   "query": "버스 파업"
+  },
   {
    "url": "https://shindonga.donga.com/3/all/13/6467122/1",
    "title": "대통령의 골프, 공보다 때를 봐야 한다",
@@ -110,13 +125,13 @@
    "query": "버스 파업"
   },
   {
-   "url": "https://www.newscj.com/news/articleView.html?idxno=3450476",
-   "title": "국토부, 철도 파업 대비 비상수송 점검… \"대체수단 확보\"",
+   "url": "http://www.segyebiz.com/newsView/20261119519315?OutUrl=naver",
+   "title": "철도·지하철 노조 20일부터 준법투쟁…국토부, 비상수송 점검",
    "query": "버스 파업"
   },
   {
-   "url": "http://www.segyebiz.com/newsView/20261119519315?OutUrl=naver",
-   "title": "철도·지하철 노조 20일부터 준법투쟁…국토부, 비상수송 점검",
+   "url": "https://www.newscj.com/news/articleView.html?idxno=3450476",
+   "title": "국토부, 철도 파업 대비 비상수송 점검… \"대체수단 확보\"",
    "query": "버스 파업"
   },
   {
@@ -215,13 +230,13 @@
    "query": "버스 파업"
   },
   {
-   "url": "https://www.newspim.com/news/view/20261117001008",
-   "title": "서울 지하철 임금협상 평행선…노조, 25일 무기한 총파업 예고",
+   "url": "https://www.newsis.com/view/NISX20261117_0003871652",
+   "title": "서울 지하철 노조 \"2500명 인력 부족…생명 담보 위험한 도박\"",
    "query": "버스 파업"
   },
   {
-   "url": "https://www.newsis.com/view/NISX20261117_0003871652",
-   "title": "서울 지하철 노조 \"2500명 인력 부족…생명 담보 위험한 도박\"",
+   "url": "https://www.newspim.com/news/view/20261117001008",
+   "title": "서울 지하철 임금협상 평행선…노조, 25일 무기한 총파업 예고",
    "query": "버스 파업"
   },
   {
@@ -255,19 +270,29 @@
    "query": "버스 파업"
   },
   {
-   "url": "https://www.hankookilbo.com/news/article/A2026111415170004621?did=NA",
-   "title": "[가만한 당신] 이주농업노동자들의 '드래곤 레이디'",
-   "query": "버스 파업"
+   "url": "http://mbn.mk.co.kr/pages/news/newsView.php?category=mbn00009&news_seq_no=5232242",
+   "title": "서울 지하철, 오는 25일 총파업 예고…24일 노사 최종 교섭",
+   "query": "지하철 파업"
   },
   {
-   "url": "https://www.news2day.co.kr/article/20261116500395",
-   "title": "한화오션 하청노조 간부 3명 단식투쟁 돌입…원청교섭 확대 요구",
-   "query": "버스 파업"
+   "url": "https://www.mt.co.kr/policy/2026/11/22/2026112209541850230",
+   "title": "서울 지하철에 KTX까지…준법투쟁에 '무기한 총파업' 엄포",
+   "query": "지하철 파업"
   },
   {
-   "url": "http://www.finomy.com/news/articleView.html?idxno=266831",
-   "title": "한화오션 노사, 교섭 범위 '공방'···하청노조 단식 돌입",
-   "query": "버스 파업"
+   "url": "http://www.kdfnews.com/news/articleView.html?idxno=191242",
+   "title": "서울지하철 24일 마지막 협상…결렬 땐 25일부터 무기한 파업",
+   "query": "지하철 파업"
+  },
+  {
+   "url": "https://www.yna.co.kr/view/AKR20261122023200004?input=1195m",
+   "title": "서울지하철 25일 총파업 기로…24일 노사 최종교섭 '담판'",
+   "query": "지하철 파업"
+  },
+  {
+   "url": "https://imnews.imbc.com/replay/2026/nw1200/article/6867583_36967.html",
+   "title": "열차 운행 재개‥철도노조, 내일부터 준법투쟁",
+   "query": "지하철 파업"
   },
   {
    "url": "https://news.mtn.co.kr/article/2026112121572713932",
@@ -470,24 +495,19 @@
    "query": "지하철 파업"
   },
   {
-   "url": "http://www.segyebiz.com/newsView/20261120503710?OutUrl=naver",
-   "title": "서울지하철 노조, 오늘부터 준법투쟁…출퇴근 열차 지연 예상",
-   "query": "지하철 파업"
+   "url": "https://www.jemin.com/news/articleView.html?idxno=848032",
+   "title": "철도노조 23일부터 준법투쟁 돌입 예고…전국 열차 운행 차질 우려",
+   "query": "철도 파업"
   },
   {
-   "url": "https://www.newspim.com/news/view/20261120000194",
-   "title": "서울지하철 노조, 준법투쟁 돌입",
-   "query": "지하철 파업"
+   "url": "https://www.newsis.com/view/NISX20261122_0003878082",
+   "title": "철도노조, 23일부터 준법투쟁…일부 열차 중지 및 지연 예고 [뉴시스Pic...",
+   "query": "철도 파업"
   },
   {
-   "url": "https://www.newspim.com/news/view/20261120000198",
-   "title": "준법투쟁 시작 첫 날, 붐비는 출근길",
-   "query": "지하철 파업"
-  },
-  {
-   "url": "https://www.newspim.com/news/view/20261120000197",
-   "title": "파업 관련 성명서 붙여진 서울 지하철",
-   "query": "지하철 파업"
+   "url": "https://imnews.imbc.com/news/2026/society/article/6867572_36918.html",
+   "title": "경부선 열차 운행 재개‥내일부터는 철도노조 준법투쟁 나서",
+   "query": "철도 파업"
   },
   {
    "url": "https://news.tf.co.kr/read/life/2391823.htm",
@@ -525,18 +545,8 @@
    "query": "철도 파업"
   },
   {
-   "url": "https://www.newspim.com/news/view/20261120000195",
-   "title": "철도·지하철 3개 노조, 총파업 전 '안전운행 투쟁' 선포",
-   "query": "철도 파업"
-  },
-  {
-   "url": "https://www.newspim.com/news/view/20261120000193",
-   "title": "서울지하철 준법투쟁 첫날",
-   "query": "철도 파업"
-  },
-  {
-   "url": "https://www.newspim.com/news/view/20261120000192",
-   "title": "서울 지하철 노조, 오늘부터 준법투쟁",
+   "url": "http://www.segyebiz.com/newsView/20261120503710?OutUrl=naver",
+   "title": "서울지하철 노조, 오늘부터 준법투쟁…출퇴근 열차 지연 예상",
    "query": "철도 파업"
   },
   {
@@ -550,49 +560,24 @@
    "query": "철도 파업"
   },
   {
-   "url": "https://www.ajunews.com/view/20261120084803918",
-   "title": "서울지하철 노조, '준법투쟁' 돌입…일부 구간 지연 우려",
+   "url": "https://www.newspim.com/news/view/20261120000192",
+   "title": "서울 지하철 노조, 오늘부터 준법투쟁",
    "query": "철도 파업"
   },
   {
-   "url": "https://www.joongangenews.com/news/articleView.html?idxno=565320",
-   "title": "서울지하철 노조, 준법투쟁 돌입...출·퇴근 운행 지연 등 혼란 우려",
+   "url": "https://www.newspim.com/news/view/20261120000193",
+   "title": "서울지하철 준법투쟁 첫날",
    "query": "철도 파업"
   },
   {
-   "url": "https://www.dailian.co.kr/news/view/1717518/?sc=Naver",
-   "title": "서울교통공사노조, '준법 투쟁' 돌입…출퇴근길 시민 불편 우려",
+   "url": "https://www.newspim.com/news/view/20261120000195",
+   "title": "철도·지하철 3개 노조, 총파업 전 '안전운행 투쟁' 선포",
    "query": "철도 파업"
   },
   {
-   "url": "https://www.fnnews.com/news/202611200835069432",
-   "title": "서울지하철 노조, 준법투쟁 돌입…25일 총파업 예고",
+   "url": "https://www.newspim.com/news/view/20261120000194",
+   "title": "서울지하철 노조, 준법투쟁 돌입",
    "query": "철도 파업"
-  },
-  {
-   "url": "https://news.tvchosun.com/site/data/html_dir/2026/11/20/2026112090046.html",
-   "title": "[키워드 NOW] 준법투쟁",
-   "query": "철도 파업"
-  },
-  {
-   "url": "https://www.delighti.co.kr/news/articleView.html?idxno=125267",
-   "title": "서울 지하철 노조, 20일부터 준법투쟁…열차 지연 우려",
-   "query": "철도 파업"
-  },
-  {
-   "url": "https://www.joongang.co.kr/article/25480389",
-   "title": "서울지하철 노조, 오늘부터 준법투쟁…출퇴근 열차 지연 우려",
-   "query": "철도 파업"
-  },
-  {
-   "url": "https://www.womennews.co.kr/news/articleView.html?idxno=284711",
-   "title": "서울지하철 노조, 오늘 아침부터 준법투쟁…25일 총파업 예고",
-   "query": "파업 예고 운행"
-  },
-  {
-   "url": "https://view.asiae.co.kr/article/2026112007402560127",
-   "title": "서울지하철 노조, 오늘부터 준법투쟁…25일 총파업 예고 속 철도노조도...",
-   "query": "파업 예고 운행"
   },
   {
    "url": "https://www.edaily.co.kr/News/Read?newsId=01200486645648016&mediaCodeNo=257&utm_source=naver&utm_medium=referral&utm_campaign=news_syndication&utm_content=original_article",
@@ -1005,8 +990,8 @@
    "query": "마라톤 도로 통제"
   },
   {
-   "url": "https://www.fnnews.com/news/202611181428468761",
-   "title": "대구 도심 달리는 대구마라톤, 3만2000명 참가 준비 본격",
+   "url": "https://www.yna.co.kr/view/AKR20261118124900053?input=1195m",
+   "title": "내년 대구마라톤 참가 인원·시간 조정…\"시민 불편 최소화\"",
    "query": "마라톤 도로 통제"
   },
   {
@@ -1162,20 +1147,38 @@
  ],
  "strikes": [
   {
-   "id": "db2a03a645296788",
+   "id": "2a1067837f9a1521",
+   "mode": "subway",
+   "operator": "서울교통공사",
+   "regions": [
+    "서울"
+   ],
+   "status": "scheduled",
+   "quote": "오는 25일부터 무기한 총파업에 들어갈 것이라고 예고한 바 있습니다",
+   "start": "2026-11-25",
+   "dateQuote": "오는 25일부터",
+   "articleTitle": "서울 지하철, 오는 25일 총파업 예고…24일 노사 최종 교섭",
+   "url": "http://mbn.mk.co.kr/pages/news/newsView.php?category=mbn00009&news_seq_no=5232242",
+   "publishedAt": "2026-11-22T13:26:00.000",
+   "sourceCount": 46,
+   "model": "gemini-3.5-flash-lite"
+  },
+  {
+   "id": "4c84e905881f2943",
    "mode": "rail",
    "operator": "한국철도공사",
    "regions": [
-    "전국"
+    "전국",
+    "수도권"
    ],
-   "status": "conditional",
-   "quote": "입장 좁혀지지 않을 시 12월10일 무기한 총파업",
+   "status": "scheduled",
+   "quote": "파업을 예고하면서",
    "start": "2026-12-10",
    "dateQuote": "12월10일",
-   "articleTitle": "철도노조 준법투쟁 하루 앞으로…열차 운행 차질 우려",
-   "url": "https://news.tf.co.kr/read/life/2391823.htm",
-   "publishedAt": "2026-11-22T10:04:00.000",
-   "sourceCount": 3,
+   "articleTitle": "서울 지하철에 KTX까지…준법투쟁에 '무기한 총파업' 엄포",
+   "url": "https://www.mt.co.kr/policy/2026/11/22/2026112209541850230",
+   "publishedAt": "2026-11-22T13:11:00.000",
+   "sourceCount": 4,
    "model": "gemini-3.5-flash-lite"
   },
   {
@@ -1192,24 +1195,7 @@
    "articleTitle": "서울지하철 노조 준법투쟁 돌입…25일 무기한 총파업 예고",
    "url": "https://news.mtn.co.kr/article/2026112121572713932",
    "publishedAt": "2026-11-22T07:02:00.000",
-   "sourceCount": 7,
-   "model": "gemini-3.5-flash-lite"
-  },
-  {
-   "id": "f0fe443ddc9366ef",
-   "mode": "subway",
-   "operator": "서울교통공사",
-   "regions": [
-    "서울"
-   ],
-   "status": "conditional",
-   "quote": "결렬 시 25일 무기한 파업",
-   "start": "2026-11-25",
-   "dateQuote": "25일",
-   "articleTitle": "서울교통공사 노사, 이달 24일 막판 교섭…결렬 시 25일 무기한 파업",
-   "url": "https://www.newspim.com/news/view/20261120000458",
-   "publishedAt": "2026-11-22T06:00:00.000",
-   "sourceCount": 44,
+   "sourceCount": 4,
    "model": "gemini-3.5-flash-lite"
   },
   {
@@ -1292,24 +1278,7 @@
    "articleTitle": "코레일, 철도노조 준법투쟁 앞두고 비상수송대책본부 가동",
    "url": "https://www.newsis.com/view/NISX20261120_0003877260",
    "publishedAt": "2026-11-20T17:19:00.000",
-   "sourceCount": 9,
-   "model": "gemini-3.5-flash-lite"
-  },
-  {
-   "id": "392305e0576fe176",
-   "mode": "subway",
-   "operator": "서교공노조",
-   "regions": [
-    "서울"
-   ],
-   "status": "scheduled",
-   "quote": "25일부터 무기한 총파업에 들어가겠다고 예고했다",
-   "start": "2026-11-25",
-   "dateQuote": "25일부터",
-   "articleTitle": "서울 지하철 노조, 20일부터 준법투쟁…열차 지연 우려",
-   "url": "https://www.delighti.co.kr/news/articleView.html?idxno=125267",
-   "publishedAt": "2026-11-20T07:48:00.000",
-   "sourceCount": 1,
+   "sourceCount": 6,
    "model": "gemini-3.5-flash-lite"
   },
   {
@@ -12547,7 +12516,310 @@
   },
   {
    "assertion": "planned",
-   "checked_at": "2026-11-22T10:05:02.696333+09:00",
+   "checked_at": "2026-11-22T13:32:55.693671+09:00",
+   "conflict": false,
+   "demo": false,
+   "disruption_confirmed": false,
+   "event_id": "b72a0f95b6ed939ee6e37d26",
+   "event_name": "파업 사건",
+   "evidence": [
+    {
+     "derivation": "explicit",
+     "effective_at": null,
+     "field_path": "/article_relevance",
+     "quote": "가 가 가 가 가 프린트 공유하기 공유 닫기 페이스북 네이버블로그 엑스 카카오톡 밴드 https://www.seoul.co.kr/news/society/2026/11/20/20261120500022 URL 복사 댓글 0 구글에서 서울신문 먼저 보기 1호선 일부 한때 지연도…공사 “전노선 정상 운행” 오는 25일 ‘인력 충원 요구’ 노조 파업 예고 이미지 확대 닫기 이미지 확대 보기 서울 지하철·철도 3개 노조, 총파업 전 준법투쟁 예고 19일 지하철 서울역 승강장에서 시민들이 오가고 있다.",
+     "reference_source": null,
+     "source_id": "43267e4436a712592581180e",
+     "source_part": "body",
+     "source_revision": "4e4ff2897e6705b0fea4bd42"
+    },
+    {
+     "derivation": "explicit",
+     "effective_at": null,
+     "field_path": "/transport_mode",
+     "quote": "가 가 가 가 가 프린트 공유하기 공유 닫기 페이스북 네이버블로그 엑스 카카오톡 밴드 https://www.seoul.co.kr/news/society/2026/11/20/20261120500022 URL 복사 댓글 0 구글에서 서울신문 먼저 보기 1호선 일부 한때 지연도…공사 “전노선 정상 운행” 오는 25일 ‘인력 충원 요구’ 노조 파업 예고 이미지 확대 닫기 이미지 확대 보기 서울 지하철·철도 3개 노조, 총파업 전 준법투쟁 예고 19일 지하철 서울역 승강장에서 시민들이 오가고 있다.",
+     "reference_source": null,
+     "source_id": "43267e4436a712592581180e",
+     "source_part": "body",
+     "source_revision": "4e4ff2897e6705b0fea4bd42"
+    },
+    {
+     "derivation": "explicit",
+     "effective_at": null,
+     "field_path": "/affected_regions",
+     "quote": "가 가 가 가 가 프린트 공유하기 공유 닫기 페이스북 네이버블로그 엑스 카카오톡 밴드 https://www.seoul.co.kr/news/society/2026/11/20/20261120500022 URL 복사 댓글 0 구글에서 서울신문 먼저 보기 1호선 일부 한때 지연도…공사 “전노선 정상 운행” 오는 25일 ‘인력 충원 요구’ 노조 파업 예고 이미지 확대 닫기 이미지 확대 보기 서울 지하철·철도 3개 노조, 총파업 전 준법투쟁 예고 19일 지하철 서울역 승강장에서 시민들이 오가고 있다.",
+     "reference_source": null,
+     "source_id": "43267e4436a712592581180e",
+     "source_part": "body",
+     "source_revision": "4e4ff2897e6705b0fea4bd42"
+    },
+    {
+     "derivation": "explicit",
+     "effective_at": null,
+     "field_path": "/affected_routes",
+     "quote": "가 가 가 가 가 프린트 공유하기 공유 닫기 페이스북 네이버블로그 엑스 카카오톡 밴드 https://www.seoul.co.kr/news/society/2026/11/20/20261120500022 URL 복사 댓글 0 구글에서 서울신문 먼저 보기 1호선 일부 한때 지연도…공사 “전노선 정상 운행” 오는 25일 ‘인력 충원 요구’ 노조 파업 예고 이미지 확대 닫기 이미지 확대 보기 서울 지하철·철도 3개 노조, 총파업 전 준법투쟁 예고 19일 지하철 서울역 승강장에서 시민들이 오가고 있다.",
+     "reference_source": null,
+     "source_id": "43267e4436a712592581180e",
+     "source_part": "body",
+     "source_revision": "4e4ff2897e6705b0fea4bd42"
+    },
+    {
+     "derivation": "explicit",
+     "effective_at": null,
+     "field_path": "/strike_status",
+     "quote": "가 가 가 가 가 프린트 공유하기 공유 닫기 페이스북 네이버블로그 엑스 카카오톡 밴드 https://www.seoul.co.kr/news/society/2026/11/20/20261120500022 URL 복사 댓글 0 구글에서 서울신문 먼저 보기 1호선 일부 한때 지연도…공사 “전노선 정상 운행” 오는 25일 ‘인력 충원 요구’ 노조 파업 예고 이미지 확대 닫기 이미지 확대 보기 서울 지하철·철도 3개 노조, 총파업 전 준법투쟁 예고 19일 지하철 서울역 승강장에서 시민들이 오가고 있다.",
+     "reference_source": null,
+     "source_id": "43267e4436a712592581180e",
+     "source_part": "body",
+     "source_revision": "4e4ff2897e6705b0fea4bd42"
+    },
+    {
+     "derivation": "explicit",
+     "effective_at": null,
+     "field_path": "/service_status",
+     "quote": "가 가 가 가 가 프린트 공유하기 공유 닫기 페이스북 네이버블로그 엑스 카카오톡 밴드 https://www.seoul.co.kr/news/society/2026/11/20/20261120500022 URL 복사 댓글 0 구글에서 서울신문 먼저 보기 1호선 일부 한때 지연도…공사 “전노선 정상 운행” 오는 25일 ‘인력 충원 요구’ 노조 파업 예고 이미지 확대 닫기 이미지 확대 보기 서울 지하철·철도 3개 노조, 총파업 전 준법투쟁 예고 19일 지하철 서울역 승강장에서 시민들이 오가고 있다.",
+     "reference_source": null,
+     "source_id": "43267e4436a712592581180e",
+     "source_part": "body",
+     "source_revision": "4e4ff2897e6705b0fea4bd42"
+    },
+    {
+     "derivation": "explicit",
+     "effective_at": null,
+     "field_path": "/normal_service_exceptions",
+     "quote": "가 가 가 가 가 프린트 공유하기 공유 닫기 페이스북 네이버블로그 엑스 카카오톡 밴드 https://www.seoul.co.kr/news/society/2026/11/20/20261120500022 URL 복사 댓글 0 구글에서 서울신문 먼저 보기 1호선 일부 한때 지연도…공사 “전노선 정상 운행” 오는 25일 ‘인력 충원 요구’ 노조 파업 예고 이미지 확대 닫기 이미지 확대 보기 서울 지하철·철도 3개 노조, 총파업 전 준법투쟁 예고 19일 지하철 서울역 승강장에서 시민들이 오가고 있다.",
+     "reference_source": null,
+     "source_id": "43267e4436a712592581180e",
+     "source_part": "body",
+     "source_revision": "4e4ff2897e6705b0fea4bd42"
+    },
+    {
+     "derivation": "explicit",
+     "effective_at": null,
+     "field_path": "/alternative_services",
+     "quote": "가 가 가 가 가 프린트 공유하기 공유 닫기 페이스북 네이버블로그 엑스 카카오톡 밴드 https://www.seoul.co.kr/news/society/2026/11/20/20261120500022 URL 복사 댓글 0 구글에서 서울신문 먼저 보기 1호선 일부 한때 지연도…공사 “전노선 정상 운행” 오는 25일 ‘인력 충원 요구’ 노조 파업 예고 이미지 확대 닫기 이미지 확대 보기 서울 지하철·철도 3개 노조, 총파업 전 준법투쟁 예고 19일 지하철 서울역 승강장에서 시민들이 오가고 있다.",
+     "reference_source": null,
+     "source_id": "43267e4436a712592581180e",
+     "source_part": "body",
+     "source_revision": "4e4ff2897e6705b0fea4bd42"
+    },
+    {
+     "derivation": "explicit",
+     "effective_at": null,
+     "field_path": "/start",
+     "quote": "가 가 가 가 가 프린트 공유하기 공유 닫기 페이스북 네이버블로그 엑스 카카오톡 밴드 https://www.seoul.co.kr/news/society/2026/11/20/20261120500022 URL 복사 댓글 0 구글에서 서울신문 먼저 보기 1호선 일부 한때 지연도…공사 “전노선 정상 운행” 오는 25일 ‘인력 충원 요구’ 노조 파업 예고 이미지 확대 닫기 이미지 확대 보기 서울 지하철·철도 3개 노조, 총파업 전 준법투쟁 예고 19일 지하철 서울역 승강장에서 시민들이 오가고 있다.",
+     "reference_source": null,
+     "source_id": "43267e4436a712592581180e",
+     "source_part": "body",
+     "source_revision": "4e4ff2897e6705b0fea4bd42"
+    },
+    {
+     "derivation": "explicit",
+     "effective_at": null,
+     "field_path": "/end",
+     "quote": "가 가 가 가 가 프린트 공유하기 공유 닫기 페이스북 네이버블로그 엑스 카카오톡 밴드 https://www.seoul.co.kr/news/society/2026/11/20/20261120500022 URL 복사 댓글 0 구글에서 서울신문 먼저 보기 1호선 일부 한때 지연도…공사 “전노선 정상 운행” 오는 25일 ‘인력 충원 요구’ 노조 파업 예고 이미지 확대 닫기 이미지 확대 보기 서울 지하철·철도 3개 노조, 총파업 전 준법투쟁 예고 19일 지하철 서울역 승강장에서 시민들이 오가고 있다.",
+     "reference_source": null,
+     "source_id": "43267e4436a712592581180e",
+     "source_part": "body",
+     "source_revision": "4e4ff2897e6705b0fea4bd42"
+    }
+   ],
+   "exceptions": [
+    {
+     "assertion": "actual",
+     "metrics": [],
+     "period": {
+      "condition": null,
+      "end": {
+       "assertion": "unknown",
+       "basis": "unknown",
+       "date": null,
+       "open_ended": null,
+       "raw": null,
+       "time": null,
+       "timezone": "Asia/Seoul"
+      },
+      "precision": "UNKNOWN",
+      "start": {
+       "assertion": "unknown",
+       "basis": "unknown",
+       "date": null,
+       "open_ended": null,
+       "raw": null,
+       "time": null,
+       "timezone": "Asia/Seoul"
+      }
+     },
+     "raw": "가 가 가 가 가 프린트 공유하기 공유 닫기 페이스북 네이버블로그 엑스 카카오톡 밴드 https://www.seoul.co.kr/news/society/2026/11/20/20261120500022 URL 복사 댓글 0 구글에서 서울신문 먼저 보기 1호선 일부 한때 지연도…공사 “전노선 정상 운행” 오는 25일 ‘인력 충원 요구’ 노조 파업 예고 이미지 확대 닫기 이미지 확대 보기 서울 지하철·철도 3개 노조, 총파업 전 준법투쟁 예고 19일 지하철 서울역 승강장에서 시민들이 오가고 있다.",
+     "scope": [
+      {
+       "derivation": "article_explicit",
+       "normalized_name": "네이버블로",
+       "raw": "네이버블로",
+       "reference_id": null,
+       "reference_source": null,
+       "region": "서울"
+      },
+      {
+       "derivation": "article_explicit",
+       "normalized_name": "1호선",
+       "raw": "1호선",
+       "reference_id": null,
+       "reference_source": null,
+       "region": "서울"
+      },
+      {
+       "derivation": "article_explicit",
+       "normalized_name": "전노선",
+       "raw": "전노선",
+       "reference_id": null,
+       "reference_source": null,
+       "region": "서울"
+      },
+      {
+       "derivation": "article_explicit",
+       "normalized_name": "서울역",
+       "raw": "서울역",
+       "reference_id": null,
+       "reference_source": null,
+       "region": "서울"
+      }
+     ],
+     "value": "normal"
+    }
+   ],
+   "id": "e0712c2e9ad18cbc66ccf22d",
+   "modes": [
+    "subway"
+   ],
+   "period": {
+    "condition": null,
+    "end": {
+     "assertion": "unknown",
+     "basis": "unknown",
+     "date": null,
+     "open_ended": null,
+     "raw": null,
+     "time": null,
+     "timezone": "Asia/Seoul"
+    },
+    "precision": "PARTIAL",
+    "start": {
+     "assertion": "unknown",
+     "basis": "unknown",
+     "date": null,
+     "open_ended": null,
+     "raw": null,
+     "time": null,
+     "timezone": "Asia/Seoul"
+    }
+   },
+   "published_at": "2026-11-20T09:04:56+09:00",
+   "review_reasons": [
+    "DATE_UNCONFIRMED"
+   ],
+   "scope": [
+    {
+     "derivation": "article_explicit",
+     "normalized_name": "1호선",
+     "raw": "1호선",
+     "reference_id": null,
+     "reference_source": null,
+     "region": "서울"
+    },
+    {
+     "derivation": "article_explicit",
+     "normalized_name": "전노선",
+     "raw": "전노선",
+     "reference_id": null,
+     "reference_source": null,
+     "region": "서울"
+    },
+    {
+     "derivation": "article_explicit",
+     "normalized_name": "서울역",
+     "raw": "서울역",
+     "reference_id": null,
+     "reference_source": null,
+     "region": "서울"
+    }
+   ],
+   "service_status": [
+    {
+     "assertion": "actual",
+     "metrics": [],
+     "period": {
+      "condition": null,
+      "end": {
+       "assertion": "unknown",
+       "basis": "unknown",
+       "date": null,
+       "open_ended": null,
+       "raw": null,
+       "time": null,
+       "timezone": "Asia/Seoul"
+      },
+      "precision": "UNKNOWN",
+      "start": {
+       "assertion": "unknown",
+       "basis": "unknown",
+       "date": null,
+       "open_ended": null,
+       "raw": null,
+       "time": null,
+       "timezone": "Asia/Seoul"
+      }
+     },
+     "raw": "가 가 가 가 가 프린트 공유하기 공유 닫기 페이스북 네이버블로그 엑스 카카오톡 밴드 https://www.seoul.co.kr/news/society/2026/11/20/20261120500022 URL 복사 댓글 0 구글에서 서울신문 먼저 보기 1호선 일부 한때 지연도…공사 “전노선 정상 운행” 오는 25일 ‘인력 충원 요구’ 노조 파업 예고 이미지 확대 닫기 이미지 확대 보기 서울 지하철·철도 3개 노조, 총파업 전 준법투쟁 예고 19일 지하철 서울역 승강장에서 시민들이 오가고 있다.",
+     "scope": [
+      {
+       "derivation": "article_explicit",
+       "normalized_name": "네이버블로",
+       "raw": "네이버블로",
+       "reference_id": null,
+       "reference_source": null,
+       "region": "서울"
+      },
+      {
+       "derivation": "article_explicit",
+       "normalized_name": "1호선",
+       "raw": "1호선",
+       "reference_id": null,
+       "reference_source": null,
+       "region": "서울"
+      },
+      {
+       "derivation": "article_explicit",
+       "normalized_name": "전노선",
+       "raw": "전노선",
+       "reference_id": null,
+       "reference_source": null,
+       "region": "서울"
+      },
+      {
+       "derivation": "article_explicit",
+       "normalized_name": "서울역",
+       "raw": "서울역",
+       "reference_id": null,
+       "reference_source": null,
+       "region": "서울"
+      }
+     ],
+     "value": "normal"
+    }
+   ],
+   "source_url": "https://www.seoul.co.kr/news/society/2026/11/20/20261120500022?wlog_tag3=naver",
+   "status": "ANNOUNCED",
+   "status_effective_at": null,
+   "strike_status": "scheduled",
+   "type": "STRIKE",
+   "updated_at": "2026-11-20T09:06:05+09:00",
+   "version": 1,
+   "body_verified": true
+  },
+  {
+   "assertion": "planned",
+   "checked_at": "2026-11-22T13:32:58.086204+09:00",
    "conflict": false,
    "demo": false,
    "disruption_confirmed": false,
@@ -12808,7 +13080,7 @@
   },
   {
    "assertion": "planned",
-   "checked_at": "2026-11-22T10:05:02.696333+09:00",
+   "checked_at": "2026-11-22T13:32:58.086204+09:00",
    "conflict": false,
    "demo": false,
    "disruption_confirmed": true,
@@ -13582,7 +13854,7 @@
   },
   {
    "assertion": "planned",
-   "checked_at": "2026-11-22T10:05:06.101325+09:00",
+   "checked_at": "2026-11-22T13:33:00.990551+09:00",
    "conflict": false,
    "demo": false,
    "disruption_confirmed": false,
@@ -13746,310 +14018,7 @@
   },
   {
    "assertion": "planned",
-   "checked_at": "2026-11-22T10:05:19.260494+09:00",
-   "conflict": false,
-   "demo": false,
-   "disruption_confirmed": false,
-   "event_id": "b72a0f95b6ed939ee6e37d26",
-   "event_name": "파업 사건",
-   "evidence": [
-    {
-     "derivation": "explicit",
-     "effective_at": null,
-     "field_path": "/article_relevance",
-     "quote": "가 가 가 가 가 프린트 공유하기 공유 닫기 페이스북 네이버블로그 엑스 카카오톡 밴드 https://www.seoul.co.kr/news/society/2026/11/20/20261120500022 URL 복사 댓글 0 구글에서 서울신문 먼저 보기 1호선 일부 한때 지연도…공사 “전노선 정상 운행” 오는 25일 ‘인력 충원 요구’ 노조 파업 예고 이미지 확대 닫기 이미지 확대 보기 서울 지하철·철도 3개 노조, 총파업 전 준법투쟁 예고 19일 지하철 서울역 승강장에서 시민들이 오가고 있다.",
-     "reference_source": null,
-     "source_id": "43267e4436a712592581180e",
-     "source_part": "body",
-     "source_revision": "4e4ff2897e6705b0fea4bd42"
-    },
-    {
-     "derivation": "explicit",
-     "effective_at": null,
-     "field_path": "/transport_mode",
-     "quote": "가 가 가 가 가 프린트 공유하기 공유 닫기 페이스북 네이버블로그 엑스 카카오톡 밴드 https://www.seoul.co.kr/news/society/2026/11/20/20261120500022 URL 복사 댓글 0 구글에서 서울신문 먼저 보기 1호선 일부 한때 지연도…공사 “전노선 정상 운행” 오는 25일 ‘인력 충원 요구’ 노조 파업 예고 이미지 확대 닫기 이미지 확대 보기 서울 지하철·철도 3개 노조, 총파업 전 준법투쟁 예고 19일 지하철 서울역 승강장에서 시민들이 오가고 있다.",
-     "reference_source": null,
-     "source_id": "43267e4436a712592581180e",
-     "source_part": "body",
-     "source_revision": "4e4ff2897e6705b0fea4bd42"
-    },
-    {
-     "derivation": "explicit",
-     "effective_at": null,
-     "field_path": "/affected_regions",
-     "quote": "가 가 가 가 가 프린트 공유하기 공유 닫기 페이스북 네이버블로그 엑스 카카오톡 밴드 https://www.seoul.co.kr/news/society/2026/11/20/20261120500022 URL 복사 댓글 0 구글에서 서울신문 먼저 보기 1호선 일부 한때 지연도…공사 “전노선 정상 운행” 오는 25일 ‘인력 충원 요구’ 노조 파업 예고 이미지 확대 닫기 이미지 확대 보기 서울 지하철·철도 3개 노조, 총파업 전 준법투쟁 예고 19일 지하철 서울역 승강장에서 시민들이 오가고 있다.",
-     "reference_source": null,
-     "source_id": "43267e4436a712592581180e",
-     "source_part": "body",
-     "source_revision": "4e4ff2897e6705b0fea4bd42"
-    },
-    {
-     "derivation": "explicit",
-     "effective_at": null,
-     "field_path": "/affected_routes",
-     "quote": "가 가 가 가 가 프린트 공유하기 공유 닫기 페이스북 네이버블로그 엑스 카카오톡 밴드 https://www.seoul.co.kr/news/society/2026/11/20/20261120500022 URL 복사 댓글 0 구글에서 서울신문 먼저 보기 1호선 일부 한때 지연도…공사 “전노선 정상 운행” 오는 25일 ‘인력 충원 요구’ 노조 파업 예고 이미지 확대 닫기 이미지 확대 보기 서울 지하철·철도 3개 노조, 총파업 전 준법투쟁 예고 19일 지하철 서울역 승강장에서 시민들이 오가고 있다.",
-     "reference_source": null,
-     "source_id": "43267e4436a712592581180e",
-     "source_part": "body",
-     "source_revision": "4e4ff2897e6705b0fea4bd42"
-    },
-    {
-     "derivation": "explicit",
-     "effective_at": null,
-     "field_path": "/strike_status",
-     "quote": "가 가 가 가 가 프린트 공유하기 공유 닫기 페이스북 네이버블로그 엑스 카카오톡 밴드 https://www.seoul.co.kr/news/society/2026/11/20/20261120500022 URL 복사 댓글 0 구글에서 서울신문 먼저 보기 1호선 일부 한때 지연도…공사 “전노선 정상 운행” 오는 25일 ‘인력 충원 요구’ 노조 파업 예고 이미지 확대 닫기 이미지 확대 보기 서울 지하철·철도 3개 노조, 총파업 전 준법투쟁 예고 19일 지하철 서울역 승강장에서 시민들이 오가고 있다.",
-     "reference_source": null,
-     "source_id": "43267e4436a712592581180e",
-     "source_part": "body",
-     "source_revision": "4e4ff2897e6705b0fea4bd42"
-    },
-    {
-     "derivation": "explicit",
-     "effective_at": null,
-     "field_path": "/service_status",
-     "quote": "가 가 가 가 가 프린트 공유하기 공유 닫기 페이스북 네이버블로그 엑스 카카오톡 밴드 https://www.seoul.co.kr/news/society/2026/11/20/20261120500022 URL 복사 댓글 0 구글에서 서울신문 먼저 보기 1호선 일부 한때 지연도…공사 “전노선 정상 운행” 오는 25일 ‘인력 충원 요구’ 노조 파업 예고 이미지 확대 닫기 이미지 확대 보기 서울 지하철·철도 3개 노조, 총파업 전 준법투쟁 예고 19일 지하철 서울역 승강장에서 시민들이 오가고 있다.",
-     "reference_source": null,
-     "source_id": "43267e4436a712592581180e",
-     "source_part": "body",
-     "source_revision": "4e4ff2897e6705b0fea4bd42"
-    },
-    {
-     "derivation": "explicit",
-     "effective_at": null,
-     "field_path": "/normal_service_exceptions",
-     "quote": "가 가 가 가 가 프린트 공유하기 공유 닫기 페이스북 네이버블로그 엑스 카카오톡 밴드 https://www.seoul.co.kr/news/society/2026/11/20/20261120500022 URL 복사 댓글 0 구글에서 서울신문 먼저 보기 1호선 일부 한때 지연도…공사 “전노선 정상 운행” 오는 25일 ‘인력 충원 요구’ 노조 파업 예고 이미지 확대 닫기 이미지 확대 보기 서울 지하철·철도 3개 노조, 총파업 전 준법투쟁 예고 19일 지하철 서울역 승강장에서 시민들이 오가고 있다.",
-     "reference_source": null,
-     "source_id": "43267e4436a712592581180e",
-     "source_part": "body",
-     "source_revision": "4e4ff2897e6705b0fea4bd42"
-    },
-    {
-     "derivation": "explicit",
-     "effective_at": null,
-     "field_path": "/alternative_services",
-     "quote": "가 가 가 가 가 프린트 공유하기 공유 닫기 페이스북 네이버블로그 엑스 카카오톡 밴드 https://www.seoul.co.kr/news/society/2026/11/20/20261120500022 URL 복사 댓글 0 구글에서 서울신문 먼저 보기 1호선 일부 한때 지연도…공사 “전노선 정상 운행” 오는 25일 ‘인력 충원 요구’ 노조 파업 예고 이미지 확대 닫기 이미지 확대 보기 서울 지하철·철도 3개 노조, 총파업 전 준법투쟁 예고 19일 지하철 서울역 승강장에서 시민들이 오가고 있다.",
-     "reference_source": null,
-     "source_id": "43267e4436a712592581180e",
-     "source_part": "body",
-     "source_revision": "4e4ff2897e6705b0fea4bd42"
-    },
-    {
-     "derivation": "explicit",
-     "effective_at": null,
-     "field_path": "/start",
-     "quote": "가 가 가 가 가 프린트 공유하기 공유 닫기 페이스북 네이버블로그 엑스 카카오톡 밴드 https://www.seoul.co.kr/news/society/2026/11/20/20261120500022 URL 복사 댓글 0 구글에서 서울신문 먼저 보기 1호선 일부 한때 지연도…공사 “전노선 정상 운행” 오는 25일 ‘인력 충원 요구’ 노조 파업 예고 이미지 확대 닫기 이미지 확대 보기 서울 지하철·철도 3개 노조, 총파업 전 준법투쟁 예고 19일 지하철 서울역 승강장에서 시민들이 오가고 있다.",
-     "reference_source": null,
-     "source_id": "43267e4436a712592581180e",
-     "source_part": "body",
-     "source_revision": "4e4ff2897e6705b0fea4bd42"
-    },
-    {
-     "derivation": "explicit",
-     "effective_at": null,
-     "field_path": "/end",
-     "quote": "가 가 가 가 가 프린트 공유하기 공유 닫기 페이스북 네이버블로그 엑스 카카오톡 밴드 https://www.seoul.co.kr/news/society/2026/11/20/20261120500022 URL 복사 댓글 0 구글에서 서울신문 먼저 보기 1호선 일부 한때 지연도…공사 “전노선 정상 운행” 오는 25일 ‘인력 충원 요구’ 노조 파업 예고 이미지 확대 닫기 이미지 확대 보기 서울 지하철·철도 3개 노조, 총파업 전 준법투쟁 예고 19일 지하철 서울역 승강장에서 시민들이 오가고 있다.",
-     "reference_source": null,
-     "source_id": "43267e4436a712592581180e",
-     "source_part": "body",
-     "source_revision": "4e4ff2897e6705b0fea4bd42"
-    }
-   ],
-   "exceptions": [
-    {
-     "assertion": "actual",
-     "metrics": [],
-     "period": {
-      "condition": null,
-      "end": {
-       "assertion": "unknown",
-       "basis": "unknown",
-       "date": null,
-       "open_ended": null,
-       "raw": null,
-       "time": null,
-       "timezone": "Asia/Seoul"
-      },
-      "precision": "UNKNOWN",
-      "start": {
-       "assertion": "unknown",
-       "basis": "unknown",
-       "date": null,
-       "open_ended": null,
-       "raw": null,
-       "time": null,
-       "timezone": "Asia/Seoul"
-      }
-     },
-     "raw": "가 가 가 가 가 프린트 공유하기 공유 닫기 페이스북 네이버블로그 엑스 카카오톡 밴드 https://www.seoul.co.kr/news/society/2026/11/20/20261120500022 URL 복사 댓글 0 구글에서 서울신문 먼저 보기 1호선 일부 한때 지연도…공사 “전노선 정상 운행” 오는 25일 ‘인력 충원 요구’ 노조 파업 예고 이미지 확대 닫기 이미지 확대 보기 서울 지하철·철도 3개 노조, 총파업 전 준법투쟁 예고 19일 지하철 서울역 승강장에서 시민들이 오가고 있다.",
-     "scope": [
-      {
-       "derivation": "article_explicit",
-       "normalized_name": "네이버블로",
-       "raw": "네이버블로",
-       "reference_id": null,
-       "reference_source": null,
-       "region": "서울"
-      },
-      {
-       "derivation": "article_explicit",
-       "normalized_name": "1호선",
-       "raw": "1호선",
-       "reference_id": null,
-       "reference_source": null,
-       "region": "서울"
-      },
-      {
-       "derivation": "article_explicit",
-       "normalized_name": "전노선",
-       "raw": "전노선",
-       "reference_id": null,
-       "reference_source": null,
-       "region": "서울"
-      },
-      {
-       "derivation": "article_explicit",
-       "normalized_name": "서울역",
-       "raw": "서울역",
-       "reference_id": null,
-       "reference_source": null,
-       "region": "서울"
-      }
-     ],
-     "value": "normal"
-    }
-   ],
-   "id": "e0712c2e9ad18cbc66ccf22d",
-   "modes": [
-    "subway"
-   ],
-   "period": {
-    "condition": null,
-    "end": {
-     "assertion": "unknown",
-     "basis": "unknown",
-     "date": null,
-     "open_ended": null,
-     "raw": null,
-     "time": null,
-     "timezone": "Asia/Seoul"
-    },
-    "precision": "PARTIAL",
-    "start": {
-     "assertion": "unknown",
-     "basis": "unknown",
-     "date": null,
-     "open_ended": null,
-     "raw": null,
-     "time": null,
-     "timezone": "Asia/Seoul"
-    }
-   },
-   "published_at": "2026-11-20T09:04:56+09:00",
-   "review_reasons": [
-    "DATE_UNCONFIRMED"
-   ],
-   "scope": [
-    {
-     "derivation": "article_explicit",
-     "normalized_name": "1호선",
-     "raw": "1호선",
-     "reference_id": null,
-     "reference_source": null,
-     "region": "서울"
-    },
-    {
-     "derivation": "article_explicit",
-     "normalized_name": "전노선",
-     "raw": "전노선",
-     "reference_id": null,
-     "reference_source": null,
-     "region": "서울"
-    },
-    {
-     "derivation": "article_explicit",
-     "normalized_name": "서울역",
-     "raw": "서울역",
-     "reference_id": null,
-     "reference_source": null,
-     "region": "서울"
-    }
-   ],
-   "service_status": [
-    {
-     "assertion": "actual",
-     "metrics": [],
-     "period": {
-      "condition": null,
-      "end": {
-       "assertion": "unknown",
-       "basis": "unknown",
-       "date": null,
-       "open_ended": null,
-       "raw": null,
-       "time": null,
-       "timezone": "Asia/Seoul"
-      },
-      "precision": "UNKNOWN",
-      "start": {
-       "assertion": "unknown",
-       "basis": "unknown",
-       "date": null,
-       "open_ended": null,
-       "raw": null,
-       "time": null,
-       "timezone": "Asia/Seoul"
-      }
-     },
-     "raw": "가 가 가 가 가 프린트 공유하기 공유 닫기 페이스북 네이버블로그 엑스 카카오톡 밴드 https://www.seoul.co.kr/news/society/2026/11/20/20261120500022 URL 복사 댓글 0 구글에서 서울신문 먼저 보기 1호선 일부 한때 지연도…공사 “전노선 정상 운행” 오는 25일 ‘인력 충원 요구’ 노조 파업 예고 이미지 확대 닫기 이미지 확대 보기 서울 지하철·철도 3개 노조, 총파업 전 준법투쟁 예고 19일 지하철 서울역 승강장에서 시민들이 오가고 있다.",
-     "scope": [
-      {
-       "derivation": "article_explicit",
-       "normalized_name": "네이버블로",
-       "raw": "네이버블로",
-       "reference_id": null,
-       "reference_source": null,
-       "region": "서울"
-      },
-      {
-       "derivation": "article_explicit",
-       "normalized_name": "1호선",
-       "raw": "1호선",
-       "reference_id": null,
-       "reference_source": null,
-       "region": "서울"
-      },
-      {
-       "derivation": "article_explicit",
-       "normalized_name": "전노선",
-       "raw": "전노선",
-       "reference_id": null,
-       "reference_source": null,
-       "region": "서울"
-      },
-      {
-       "derivation": "article_explicit",
-       "normalized_name": "서울역",
-       "raw": "서울역",
-       "reference_id": null,
-       "reference_source": null,
-       "region": "서울"
-      }
-     ],
-     "value": "normal"
-    }
-   ],
-   "source_url": "https://www.seoul.co.kr/news/society/2026/11/20/20261120500022?wlog_tag3=naver",
-   "status": "ANNOUNCED",
-   "status_effective_at": null,
-   "strike_status": "scheduled",
-   "type": "STRIKE",
-   "updated_at": "2026-11-20T09:06:05+09:00",
-   "version": 1,
-   "body_verified": true
-  },
-  {
-   "assertion": "planned",
-   "checked_at": "2026-11-22T10:05:26.221272+09:00",
+   "checked_at": "2026-11-22T13:33:04.741727+09:00",
    "conflict": false,
    "demo": false,
    "disruption_confirmed": true,
@@ -14448,7 +14417,7 @@
   },
   {
    "assertion": "planned",
-   "checked_at": "2026-11-22T10:05:26.221272+09:00",
+   "checked_at": "2026-11-22T13:33:04.741727+09:00",
    "conflict": false,
    "demo": false,
    "disruption_confirmed": false,
@@ -14637,7 +14606,7 @@
       "source_url": "https://www.newspim.com/news/view/20261120000258",
       "published_at": "2026-11-20T09:34:00+09:00",
       "updated_at": "2026-11-20T09:34:00+09:00",
-      "collected_at": "2026-11-22T10:05:00.276630+09:00",
+      "collected_at": "2026-11-22T13:32:37.303595+09:00",
       "field_evidence": [
        {
         "field_path": "/article_relevance",
@@ -14779,7 +14748,7 @@
       "source_url": "https://www.newspim.com/news/view/20261120000258",
       "published_at": "2026-11-20T09:34:00+09:00",
       "updated_at": "2026-11-20T09:34:00+09:00",
-      "collected_at": "2026-11-22T10:05:00.276630+09:00",
+      "collected_at": "2026-11-22T13:32:37.303595+09:00",
       "field_evidence": [
        {
         "field_path": "/article_relevance",
@@ -14921,7 +14890,7 @@
       "source_url": "https://www.newspim.com/news/view/20261120000258",
       "published_at": "2026-11-20T09:34:00+09:00",
       "updated_at": "2026-11-20T09:34:00+09:00",
-      "collected_at": "2026-11-22T10:05:00.276630+09:00",
+      "collected_at": "2026-11-22T13:32:37.303595+09:00",
       "field_evidence": [
        {
         "field_path": "/article_relevance",
@@ -15063,7 +15032,7 @@
       "source_url": "https://www.newspim.com/news/view/20261120000258",
       "published_at": "2026-11-20T09:34:00+09:00",
       "updated_at": "2026-11-20T09:34:00+09:00",
-      "collected_at": "2026-11-22T10:05:00.276630+09:00",
+      "collected_at": "2026-11-22T13:32:37.303595+09:00",
       "field_evidence": [
        {
         "field_path": "/article_relevance",
@@ -15205,7 +15174,7 @@
       "source_url": "https://www.newspim.com/news/view/20261120000258",
       "published_at": "2026-11-20T09:34:00+09:00",
       "updated_at": "2026-11-20T09:34:00+09:00",
-      "collected_at": "2026-11-22T10:05:00.276630+09:00",
+      "collected_at": "2026-11-22T13:32:37.303595+09:00",
       "field_evidence": [
        {
         "field_path": "/article_relevance",
@@ -15422,7 +15391,7 @@
      "source_revision": "d53120f0b68221a6442648a4",
      "published_at": "2026-11-20T09:34:00+09:00",
      "updated_at": "2026-11-20T09:34:00+09:00",
-     "collected_at": "2026-11-22T10:05:00.276630+09:00"
+     "collected_at": "2026-11-22T13:32:37.303595+09:00"
     },
     "events": [],
     "review_reasons": [
@@ -15433,270 +15402,6 @@
   {
    "strikes": [
     {
-     "article_relevance": "related",
-     "transport_mode": "unknown",
-     "affected_regions": [
-      {
-       "raw": "서울",
-       "normalized_name": "서울",
-       "region": "서울",
-       "reference_id": null,
-       "derivation": "article_explicit",
-       "reference_source": null
-      }
-     ],
-     "affected_routes": [
-      {
-       "raw": "나선",
-       "normalized_name": "나선",
-       "region": "서울",
-       "reference_id": null,
-       "derivation": "article_explicit",
-       "reference_source": null,
-       "direction": null,
-       "section": null
-      }
-     ],
-     "start": {
-      "raw": null,
-      "date": null,
-      "time": null,
-      "timezone": "Asia/Seoul",
-      "basis": "unknown",
-      "assertion": "unknown",
-      "open_ended": null
-     },
-     "end": {
-      "raw": "무기한",
-      "date": null,
-      "time": null,
-      "timezone": "Asia/Seoul",
-      "basis": "unknown",
-      "assertion": "unknown",
-      "open_ended": true
-     },
-     "strike_status": {
-      "value": "scheduled",
-      "conditions": [],
-      "scope_raw": "[서울=뉴스핌] 조수민 기자 = 서울교통공사 제1·2·3 노동조합이 오는 25일 총파업을 예고한 가운데, 노사가 하루 전인 24일 마지막 교섭에 나선다. 서울시 및 사측과 합의에 이르지 못하면 25일 제1·2·3 노조는 무기한 파업을 시작한다.",
-      "effective_at": null
-     },
-     "service_status": [],
-     "normal_service_exceptions": [],
-     "alternative_services": [],
-     "evidence_and_timestamps": {
-      "source_url": "https://www.newspim.com/news/view/20261120000458",
-      "published_at": "2026-11-22T06:00:00+09:00",
-      "updated_at": "2026-11-22T06:00:00+09:00",
-      "collected_at": "2026-11-22T10:05:02.696333+09:00",
-      "field_evidence": [
-       {
-        "field_path": "/article_relevance",
-        "quote": "[서울=뉴스핌] 조수민 기자 = 서울교통공사 제1·2·3 노동조합이 오는 25일 총파업을 예고한 가운데, 노사가 하루 전인 24일 마지막 교섭에 나선다.",
-        "source_part": "body",
-        "effective_at": null,
-        "derivation": "explicit",
-        "source_id": "7a0b25231f632ded36865076",
-        "source_revision": "9e4cddd7719496fbcca4fe0a",
-        "reference_source": null
-       },
-       {
-        "field_path": "/article_relevance",
-        "quote": "서울시 및 사측과 합의에 이르지 못하면 25일 제1·2·3 노조는 무기한 파업을 시작한다.",
-        "source_part": "body",
-        "effective_at": null,
-        "derivation": "explicit",
-        "source_id": "7a0b25231f632ded36865076",
-        "source_revision": "9e4cddd7719496fbcca4fe0a",
-        "reference_source": null
-       },
-       {
-        "field_path": "/transport_mode",
-        "quote": "[서울=뉴스핌] 조수민 기자 = 서울교통공사 제1·2·3 노동조합이 오는 25일 총파업을 예고한 가운데, 노사가 하루 전인 24일 마지막 교섭에 나선다.",
-        "source_part": "body",
-        "effective_at": null,
-        "derivation": "explicit",
-        "source_id": "7a0b25231f632ded36865076",
-        "source_revision": "9e4cddd7719496fbcca4fe0a",
-        "reference_source": null
-       },
-       {
-        "field_path": "/transport_mode",
-        "quote": "서울시 및 사측과 합의에 이르지 못하면 25일 제1·2·3 노조는 무기한 파업을 시작한다.",
-        "source_part": "body",
-        "effective_at": null,
-        "derivation": "explicit",
-        "source_id": "7a0b25231f632ded36865076",
-        "source_revision": "9e4cddd7719496fbcca4fe0a",
-        "reference_source": null
-       },
-       {
-        "field_path": "/affected_regions",
-        "quote": "[서울=뉴스핌] 조수민 기자 = 서울교통공사 제1·2·3 노동조합이 오는 25일 총파업을 예고한 가운데, 노사가 하루 전인 24일 마지막 교섭에 나선다.",
-        "source_part": "body",
-        "effective_at": null,
-        "derivation": "explicit",
-        "source_id": "7a0b25231f632ded36865076",
-        "source_revision": "9e4cddd7719496fbcca4fe0a",
-        "reference_source": null
-       },
-       {
-        "field_path": "/affected_regions",
-        "quote": "서울시 및 사측과 합의에 이르지 못하면 25일 제1·2·3 노조는 무기한 파업을 시작한다.",
-        "source_part": "body",
-        "effective_at": null,
-        "derivation": "explicit",
-        "source_id": "7a0b25231f632ded36865076",
-        "source_revision": "9e4cddd7719496fbcca4fe0a",
-        "reference_source": null
-       },
-       {
-        "field_path": "/affected_routes",
-        "quote": "[서울=뉴스핌] 조수민 기자 = 서울교통공사 제1·2·3 노동조합이 오는 25일 총파업을 예고한 가운데, 노사가 하루 전인 24일 마지막 교섭에 나선다.",
-        "source_part": "body",
-        "effective_at": null,
-        "derivation": "explicit",
-        "source_id": "7a0b25231f632ded36865076",
-        "source_revision": "9e4cddd7719496fbcca4fe0a",
-        "reference_source": null
-       },
-       {
-        "field_path": "/affected_routes",
-        "quote": "서울시 및 사측과 합의에 이르지 못하면 25일 제1·2·3 노조는 무기한 파업을 시작한다.",
-        "source_part": "body",
-        "effective_at": null,
-        "derivation": "explicit",
-        "source_id": "7a0b25231f632ded36865076",
-        "source_revision": "9e4cddd7719496fbcca4fe0a",
-        "reference_source": null
-       },
-       {
-        "field_path": "/strike_status",
-        "quote": "[서울=뉴스핌] 조수민 기자 = 서울교통공사 제1·2·3 노동조합이 오는 25일 총파업을 예고한 가운데, 노사가 하루 전인 24일 마지막 교섭에 나선다.",
-        "source_part": "body",
-        "effective_at": null,
-        "derivation": "explicit",
-        "source_id": "7a0b25231f632ded36865076",
-        "source_revision": "9e4cddd7719496fbcca4fe0a",
-        "reference_source": null
-       },
-       {
-        "field_path": "/strike_status",
-        "quote": "서울시 및 사측과 합의에 이르지 못하면 25일 제1·2·3 노조는 무기한 파업을 시작한다.",
-        "source_part": "body",
-        "effective_at": null,
-        "derivation": "explicit",
-        "source_id": "7a0b25231f632ded36865076",
-        "source_revision": "9e4cddd7719496fbcca4fe0a",
-        "reference_source": null
-       },
-       {
-        "field_path": "/service_status",
-        "quote": "[서울=뉴스핌] 조수민 기자 = 서울교통공사 제1·2·3 노동조합이 오는 25일 총파업을 예고한 가운데, 노사가 하루 전인 24일 마지막 교섭에 나선다.",
-        "source_part": "body",
-        "effective_at": null,
-        "derivation": "explicit",
-        "source_id": "7a0b25231f632ded36865076",
-        "source_revision": "9e4cddd7719496fbcca4fe0a",
-        "reference_source": null
-       },
-       {
-        "field_path": "/service_status",
-        "quote": "서울시 및 사측과 합의에 이르지 못하면 25일 제1·2·3 노조는 무기한 파업을 시작한다.",
-        "source_part": "body",
-        "effective_at": null,
-        "derivation": "explicit",
-        "source_id": "7a0b25231f632ded36865076",
-        "source_revision": "9e4cddd7719496fbcca4fe0a",
-        "reference_source": null
-       },
-       {
-        "field_path": "/normal_service_exceptions",
-        "quote": "[서울=뉴스핌] 조수민 기자 = 서울교통공사 제1·2·3 노동조합이 오는 25일 총파업을 예고한 가운데, 노사가 하루 전인 24일 마지막 교섭에 나선다.",
-        "source_part": "body",
-        "effective_at": null,
-        "derivation": "explicit",
-        "source_id": "7a0b25231f632ded36865076",
-        "source_revision": "9e4cddd7719496fbcca4fe0a",
-        "reference_source": null
-       },
-       {
-        "field_path": "/normal_service_exceptions",
-        "quote": "서울시 및 사측과 합의에 이르지 못하면 25일 제1·2·3 노조는 무기한 파업을 시작한다.",
-        "source_part": "body",
-        "effective_at": null,
-        "derivation": "explicit",
-        "source_id": "7a0b25231f632ded36865076",
-        "source_revision": "9e4cddd7719496fbcca4fe0a",
-        "reference_source": null
-       },
-       {
-        "field_path": "/alternative_services",
-        "quote": "[서울=뉴스핌] 조수민 기자 = 서울교통공사 제1·2·3 노동조합이 오는 25일 총파업을 예고한 가운데, 노사가 하루 전인 24일 마지막 교섭에 나선다.",
-        "source_part": "body",
-        "effective_at": null,
-        "derivation": "explicit",
-        "source_id": "7a0b25231f632ded36865076",
-        "source_revision": "9e4cddd7719496fbcca4fe0a",
-        "reference_source": null
-       },
-       {
-        "field_path": "/alternative_services",
-        "quote": "서울시 및 사측과 합의에 이르지 못하면 25일 제1·2·3 노조는 무기한 파업을 시작한다.",
-        "source_part": "body",
-        "effective_at": null,
-        "derivation": "explicit",
-        "source_id": "7a0b25231f632ded36865076",
-        "source_revision": "9e4cddd7719496fbcca4fe0a",
-        "reference_source": null
-       },
-       {
-        "field_path": "/start",
-        "quote": "[서울=뉴스핌] 조수민 기자 = 서울교통공사 제1·2·3 노동조합이 오는 25일 총파업을 예고한 가운데, 노사가 하루 전인 24일 마지막 교섭에 나선다.",
-        "source_part": "body",
-        "effective_at": null,
-        "derivation": "explicit",
-        "source_id": "7a0b25231f632ded36865076",
-        "source_revision": "9e4cddd7719496fbcca4fe0a",
-        "reference_source": null
-       },
-       {
-        "field_path": "/start",
-        "quote": "서울시 및 사측과 합의에 이르지 못하면 25일 제1·2·3 노조는 무기한 파업을 시작한다.",
-        "source_part": "body",
-        "effective_at": null,
-        "derivation": "explicit",
-        "source_id": "7a0b25231f632ded36865076",
-        "source_revision": "9e4cddd7719496fbcca4fe0a",
-        "reference_source": null
-       },
-       {
-        "field_path": "/end",
-        "quote": "[서울=뉴스핌] 조수민 기자 = 서울교통공사 제1·2·3 노동조합이 오는 25일 총파업을 예고한 가운데, 노사가 하루 전인 24일 마지막 교섭에 나선다.",
-        "source_part": "body",
-        "effective_at": null,
-        "derivation": "explicit",
-        "source_id": "7a0b25231f632ded36865076",
-        "source_revision": "9e4cddd7719496fbcca4fe0a",
-        "reference_source": null
-       },
-       {
-        "field_path": "/end",
-        "quote": "서울시 및 사측과 합의에 이르지 못하면 25일 제1·2·3 노조는 무기한 파업을 시작한다.",
-        "source_part": "body",
-        "effective_at": null,
-        "derivation": "explicit",
-        "source_id": "7a0b25231f632ded36865076",
-        "source_revision": "9e4cddd7719496fbcca4fe0a",
-        "reference_source": null
-       }
-      ],
-      "review_reasons": [
-       "DATE_UNCONFIRMED"
-      ]
-     }
-    },
-    {
      "article_relevance": "unrelated",
      "transport_mode": "unknown",
      "affected_regions": [],
@@ -15729,1205 +15434,109 @@
      "normal_service_exceptions": [],
      "alternative_services": [],
      "evidence_and_timestamps": {
-      "source_url": "https://www.newspim.com/news/view/20261120000458",
-      "published_at": "2026-11-22T06:00:00+09:00",
-      "updated_at": "2026-11-22T06:00:00+09:00",
-      "collected_at": "2026-11-22T10:05:02.696333+09:00",
-      "field_evidence": [
-       {
-        "field_path": "/article_relevance",
-        "quote": "파업 여부를 가를 마지막 협상 자리가 될 것으로 보인다.",
-        "source_part": "body",
-        "effective_at": null,
-        "derivation": "explicit",
-        "source_id": "7a0b25231f632ded36865076",
-        "source_revision": "9e4cddd7719496fbcca4fe0a",
-        "reference_source": null
-       },
-       {
-        "field_path": "/transport_mode",
-        "quote": "파업 여부를 가를 마지막 협상 자리가 될 것으로 보인다.",
-        "source_part": "body",
-        "effective_at": null,
-        "derivation": "explicit",
-        "source_id": "7a0b25231f632ded36865076",
-        "source_revision": "9e4cddd7719496fbcca4fe0a",
-        "reference_source": null
-       },
-       {
-        "field_path": "/affected_regions",
-        "quote": "파업 여부를 가를 마지막 협상 자리가 될 것으로 보인다.",
-        "source_part": "body",
-        "effective_at": null,
-        "derivation": "explicit",
-        "source_id": "7a0b25231f632ded36865076",
-        "source_revision": "9e4cddd7719496fbcca4fe0a",
-        "reference_source": null
-       },
-       {
-        "field_path": "/affected_routes",
-        "quote": "파업 여부를 가를 마지막 협상 자리가 될 것으로 보인다.",
-        "source_part": "body",
-        "effective_at": null,
-        "derivation": "explicit",
-        "source_id": "7a0b25231f632ded36865076",
-        "source_revision": "9e4cddd7719496fbcca4fe0a",
-        "reference_source": null
-       },
-       {
-        "field_path": "/strike_status",
-        "quote": "파업 여부를 가를 마지막 협상 자리가 될 것으로 보인다.",
-        "source_part": "body",
-        "effective_at": null,
-        "derivation": "explicit",
-        "source_id": "7a0b25231f632ded36865076",
-        "source_revision": "9e4cddd7719496fbcca4fe0a",
-        "reference_source": null
-       },
-       {
-        "field_path": "/service_status",
-        "quote": "파업 여부를 가를 마지막 협상 자리가 될 것으로 보인다.",
-        "source_part": "body",
-        "effective_at": null,
-        "derivation": "explicit",
-        "source_id": "7a0b25231f632ded36865076",
-        "source_revision": "9e4cddd7719496fbcca4fe0a",
-        "reference_source": null
-       },
-       {
-        "field_path": "/normal_service_exceptions",
-        "quote": "파업 여부를 가를 마지막 협상 자리가 될 것으로 보인다.",
-        "source_part": "body",
-        "effective_at": null,
-        "derivation": "explicit",
-        "source_id": "7a0b25231f632ded36865076",
-        "source_revision": "9e4cddd7719496fbcca4fe0a",
-        "reference_source": null
-       },
-       {
-        "field_path": "/alternative_services",
-        "quote": "파업 여부를 가를 마지막 협상 자리가 될 것으로 보인다.",
-        "source_part": "body",
-        "effective_at": null,
-        "derivation": "explicit",
-        "source_id": "7a0b25231f632ded36865076",
-        "source_revision": "9e4cddd7719496fbcca4fe0a",
-        "reference_source": null
-       },
-       {
-        "field_path": "/start",
-        "quote": "파업 여부를 가를 마지막 협상 자리가 될 것으로 보인다.",
-        "source_part": "body",
-        "effective_at": null,
-        "derivation": "explicit",
-        "source_id": "7a0b25231f632ded36865076",
-        "source_revision": "9e4cddd7719496fbcca4fe0a",
-        "reference_source": null
-       },
-       {
-        "field_path": "/end",
-        "quote": "파업 여부를 가를 마지막 협상 자리가 될 것으로 보인다.",
-        "source_part": "body",
-        "effective_at": null,
-        "derivation": "explicit",
-        "source_id": "7a0b25231f632ded36865076",
-        "source_revision": "9e4cddd7719496fbcca4fe0a",
-        "reference_source": null
-       }
-      ],
-      "review_reasons": []
-     }
-    },
-    {
-     "article_relevance": "related",
-     "transport_mode": "unknown",
-     "affected_regions": [],
-     "affected_routes": [
-      {
-       "raw": "호선",
-       "normalized_name": "호선",
-       "region": null,
-       "reference_id": null,
-       "derivation": "article_explicit",
-       "reference_source": null
-      },
-      {
-       "raw": "1호선",
-       "normalized_name": "1호선",
-       "region": null,
-       "reference_id": null,
-       "derivation": "article_explicit",
-       "reference_source": null
-      },
-      {
-       "raw": "2호선",
-       "normalized_name": "2호선",
-       "region": null,
-       "reference_id": null,
-       "derivation": "article_explicit",
-       "reference_source": null
-      },
-      {
-       "raw": "본선",
-       "normalized_name": "본선",
-       "region": null,
-       "reference_id": null,
-       "derivation": "article_explicit",
-       "reference_source": null
-      },
-      {
-       "raw": "3호선",
-       "normalized_name": "3호선",
-       "region": null,
-       "reference_id": null,
-       "derivation": "article_explicit",
-       "reference_source": null
-      },
-      {
-       "raw": "4호선",
-       "normalized_name": "4호선",
-       "region": null,
-       "reference_id": null,
-       "derivation": "article_explicit",
-       "reference_source": null
-      },
-      {
-       "raw": "8호선",
-       "normalized_name": "8호선",
-       "region": null,
-       "reference_id": null,
-       "derivation": "article_explicit",
-       "reference_source": null
-      },
-      {
-       "raw": "최선",
-       "normalized_name": "최선",
-       "region": null,
-       "reference_id": null,
-       "derivation": "article_explicit",
-       "reference_source": null
-      }
-     ],
-     "start": {
-      "raw": null,
-      "date": null,
-      "time": null,
-      "timezone": "Asia/Seoul",
-      "basis": "unknown",
-      "assertion": "unknown",
-      "open_ended": null
-     },
-     "end": {
-      "raw": null,
-      "date": null,
-      "time": null,
-      "timezone": "Asia/Seoul",
-      "basis": "unknown",
-      "assertion": "unknown",
-      "open_ended": null
-     },
-     "strike_status": {
-      "value": "scheduled",
-      "conditions": [],
-      "scope_raw": "노조가 요구한 결원 충원 및 인력 감축 계획 철회를 서울교통공사 최대 주주인 서울시가 어느 수준까지 수용할지가 쟁점이다. 또 노조는 서울시가 공사 인력 감축 계획을 철회해야 한다고 주장하고 있다. 노조가 지정한 필수유지인원만 근무하고 그 외 모든 조합원들이 파업에 참여할 예정이다. 파업시 호선별 운행률은 평일 기준 ▲1호선 53.5% ▲2호선 72.9%(본선) ▲3호선 57.9% ▲4호선 56.4% ▲5~8호선 79.8% 등이다. 서울교통공사 사측은 파업시 비상대책본부를 가동할 계획이다. 공사 관계자는 \"파업으로 인한 시민 불편으로 이어지지 않도록 노동 조합과의 대화 창구를 열어두고, 상호 신뢰하에 성실히 교섭에 임할 수 있도록 최선을 다할 예정\"이라고 말했다.",
-      "effective_at": null
-     },
-     "service_status": [
-      {
-       "value": "reduced",
-       "assertion": "actual",
-       "raw": "노조가 요구한 결원 충원 및 인력 감축 계획 철회를 서울교통공사 최대 주주인 서울시가 어느 수준까지 수용할지가 쟁점이다.",
-       "scope": [],
-       "period": {
-        "start": {
-         "raw": null,
-         "date": null,
-         "time": null,
-         "timezone": "Asia/Seoul",
-         "basis": "unknown",
-         "assertion": "unknown",
-         "open_ended": null
-        },
-        "end": {
-         "raw": null,
-         "date": null,
-         "time": null,
-         "timezone": "Asia/Seoul",
-         "basis": "unknown",
-         "assertion": "unknown",
-         "open_ended": null
-        },
-        "precision": "UNKNOWN",
-        "condition": null
-       },
-       "metrics": []
-      },
-      {
-       "value": "reduced",
-       "assertion": "actual",
-       "raw": "또 노조는 서울시가 공사 인력 감축 계획을 철회해야 한다고 주장하고 있다.",
-       "scope": [],
-       "period": {
-        "start": {
-         "raw": null,
-         "date": null,
-         "time": null,
-         "timezone": "Asia/Seoul",
-         "basis": "unknown",
-         "assertion": "unknown",
-         "open_ended": null
-        },
-        "end": {
-         "raw": null,
-         "date": null,
-         "time": null,
-         "timezone": "Asia/Seoul",
-         "basis": "unknown",
-         "assertion": "unknown",
-         "open_ended": null
-        },
-        "precision": "UNKNOWN",
-        "condition": null
-       },
-       "metrics": []
-      }
-     ],
-     "normal_service_exceptions": [],
-     "alternative_services": [],
-     "evidence_and_timestamps": {
-      "source_url": "https://www.newspim.com/news/view/20261120000458",
-      "published_at": "2026-11-22T06:00:00+09:00",
-      "updated_at": "2026-11-22T06:00:00+09:00",
-      "collected_at": "2026-11-22T10:05:02.696333+09:00",
-      "field_evidence": [
-       {
-        "field_path": "/article_relevance",
-        "quote": "노조가 요구한 결원 충원 및 인력 감축 계획 철회를 서울교통공사 최대 주주인 서울시가 어느 수준까지 수용할지가 쟁점이다.",
-        "source_part": "body",
-        "effective_at": null,
-        "derivation": "explicit",
-        "source_id": "7a0b25231f632ded36865076",
-        "source_revision": "9e4cddd7719496fbcca4fe0a",
-        "reference_source": null
-       },
-       {
-        "field_path": "/article_relevance",
-        "quote": "또 노조는 서울시가 공사 인력 감축 계획을 철회해야 한다고 주장하고 있다.",
-        "source_part": "body",
-        "effective_at": null,
-        "derivation": "explicit",
-        "source_id": "7a0b25231f632ded36865076",
-        "source_revision": "9e4cddd7719496fbcca4fe0a",
-        "reference_source": null
-       },
-       {
-        "field_path": "/article_relevance",
-        "quote": "노조가 지정한 필수유지인원만 근무하고 그 외 모든 조합원들이 파업에 참여할 예정이다.",
-        "source_part": "body",
-        "effective_at": null,
-        "derivation": "explicit",
-        "source_id": "7a0b25231f632ded36865076",
-        "source_revision": "9e4cddd7719496fbcca4fe0a",
-        "reference_source": null
-       },
-       {
-        "field_path": "/article_relevance",
-        "quote": "파업시 호선별 운행률은 평일 기준 ▲1호선 53.5% ▲2호선 72.9%(본선) ▲3호선 57.9% ▲4호선 56.4% ▲5~8호선 79.8% 등이다.",
-        "source_part": "body",
-        "effective_at": null,
-        "derivation": "explicit",
-        "source_id": "7a0b25231f632ded36865076",
-        "source_revision": "9e4cddd7719496fbcca4fe0a",
-        "reference_source": null
-       },
-       {
-        "field_path": "/article_relevance",
-        "quote": "서울교통공사 사측은 파업시 비상대책본부를 가동할 계획이다.",
-        "source_part": "body",
-        "effective_at": null,
-        "derivation": "explicit",
-        "source_id": "7a0b25231f632ded36865076",
-        "source_revision": "9e4cddd7719496fbcca4fe0a",
-        "reference_source": null
-       },
-       {
-        "field_path": "/article_relevance",
-        "quote": "공사 관계자는 \"파업으로 인한 시민 불편으로 이어지지 않도록 노동 조합과의 대화 창구를 열어두고, 상호 신뢰하에 성실히 교섭에 임할 수 있도록 최선을 다할 예정\"이라고 말했다.",
-        "source_part": "body",
-        "effective_at": null,
-        "derivation": "explicit",
-        "source_id": "7a0b25231f632ded36865076",
-        "source_revision": "9e4cddd7719496fbcca4fe0a",
-        "reference_source": null
-       },
-       {
-        "field_path": "/transport_mode",
-        "quote": "노조가 요구한 결원 충원 및 인력 감축 계획 철회를 서울교통공사 최대 주주인 서울시가 어느 수준까지 수용할지가 쟁점이다.",
-        "source_part": "body",
-        "effective_at": null,
-        "derivation": "explicit",
-        "source_id": "7a0b25231f632ded36865076",
-        "source_revision": "9e4cddd7719496fbcca4fe0a",
-        "reference_source": null
-       },
-       {
-        "field_path": "/transport_mode",
-        "quote": "또 노조는 서울시가 공사 인력 감축 계획을 철회해야 한다고 주장하고 있다.",
-        "source_part": "body",
-        "effective_at": null,
-        "derivation": "explicit",
-        "source_id": "7a0b25231f632ded36865076",
-        "source_revision": "9e4cddd7719496fbcca4fe0a",
-        "reference_source": null
-       },
-       {
-        "field_path": "/transport_mode",
-        "quote": "노조가 지정한 필수유지인원만 근무하고 그 외 모든 조합원들이 파업에 참여할 예정이다.",
-        "source_part": "body",
-        "effective_at": null,
-        "derivation": "explicit",
-        "source_id": "7a0b25231f632ded36865076",
-        "source_revision": "9e4cddd7719496fbcca4fe0a",
-        "reference_source": null
-       },
-       {
-        "field_path": "/transport_mode",
-        "quote": "파업시 호선별 운행률은 평일 기준 ▲1호선 53.5% ▲2호선 72.9%(본선) ▲3호선 57.9% ▲4호선 56.4% ▲5~8호선 79.8% 등이다.",
-        "source_part": "body",
-        "effective_at": null,
-        "derivation": "explicit",
-        "source_id": "7a0b25231f632ded36865076",
-        "source_revision": "9e4cddd7719496fbcca4fe0a",
-        "reference_source": null
-       },
-       {
-        "field_path": "/transport_mode",
-        "quote": "서울교통공사 사측은 파업시 비상대책본부를 가동할 계획이다.",
-        "source_part": "body",
-        "effective_at": null,
-        "derivation": "explicit",
-        "source_id": "7a0b25231f632ded36865076",
-        "source_revision": "9e4cddd7719496fbcca4fe0a",
-        "reference_source": null
-       },
-       {
-        "field_path": "/transport_mode",
-        "quote": "공사 관계자는 \"파업으로 인한 시민 불편으로 이어지지 않도록 노동 조합과의 대화 창구를 열어두고, 상호 신뢰하에 성실히 교섭에 임할 수 있도록 최선을 다할 예정\"이라고 말했다.",
-        "source_part": "body",
-        "effective_at": null,
-        "derivation": "explicit",
-        "source_id": "7a0b25231f632ded36865076",
-        "source_revision": "9e4cddd7719496fbcca4fe0a",
-        "reference_source": null
-       },
-       {
-        "field_path": "/affected_regions",
-        "quote": "노조가 요구한 결원 충원 및 인력 감축 계획 철회를 서울교통공사 최대 주주인 서울시가 어느 수준까지 수용할지가 쟁점이다.",
-        "source_part": "body",
-        "effective_at": null,
-        "derivation": "explicit",
-        "source_id": "7a0b25231f632ded36865076",
-        "source_revision": "9e4cddd7719496fbcca4fe0a",
-        "reference_source": null
-       },
-       {
-        "field_path": "/affected_regions",
-        "quote": "또 노조는 서울시가 공사 인력 감축 계획을 철회해야 한다고 주장하고 있다.",
-        "source_part": "body",
-        "effective_at": null,
-        "derivation": "explicit",
-        "source_id": "7a0b25231f632ded36865076",
-        "source_revision": "9e4cddd7719496fbcca4fe0a",
-        "reference_source": null
-       },
-       {
-        "field_path": "/affected_regions",
-        "quote": "노조가 지정한 필수유지인원만 근무하고 그 외 모든 조합원들이 파업에 참여할 예정이다.",
-        "source_part": "body",
-        "effective_at": null,
-        "derivation": "explicit",
-        "source_id": "7a0b25231f632ded36865076",
-        "source_revision": "9e4cddd7719496fbcca4fe0a",
-        "reference_source": null
-       },
-       {
-        "field_path": "/affected_regions",
-        "quote": "파업시 호선별 운행률은 평일 기준 ▲1호선 53.5% ▲2호선 72.9%(본선) ▲3호선 57.9% ▲4호선 56.4% ▲5~8호선 79.8% 등이다.",
-        "source_part": "body",
-        "effective_at": null,
-        "derivation": "explicit",
-        "source_id": "7a0b25231f632ded36865076",
-        "source_revision": "9e4cddd7719496fbcca4fe0a",
-        "reference_source": null
-       },
-       {
-        "field_path": "/affected_regions",
-        "quote": "서울교통공사 사측은 파업시 비상대책본부를 가동할 계획이다.",
-        "source_part": "body",
-        "effective_at": null,
-        "derivation": "explicit",
-        "source_id": "7a0b25231f632ded36865076",
-        "source_revision": "9e4cddd7719496fbcca4fe0a",
-        "reference_source": null
-       },
-       {
-        "field_path": "/affected_regions",
-        "quote": "공사 관계자는 \"파업으로 인한 시민 불편으로 이어지지 않도록 노동 조합과의 대화 창구를 열어두고, 상호 신뢰하에 성실히 교섭에 임할 수 있도록 최선을 다할 예정\"이라고 말했다.",
-        "source_part": "body",
-        "effective_at": null,
-        "derivation": "explicit",
-        "source_id": "7a0b25231f632ded36865076",
-        "source_revision": "9e4cddd7719496fbcca4fe0a",
-        "reference_source": null
-       },
-       {
-        "field_path": "/affected_routes",
-        "quote": "노조가 요구한 결원 충원 및 인력 감축 계획 철회를 서울교통공사 최대 주주인 서울시가 어느 수준까지 수용할지가 쟁점이다.",
-        "source_part": "body",
-        "effective_at": null,
-        "derivation": "explicit",
-        "source_id": "7a0b25231f632ded36865076",
-        "source_revision": "9e4cddd7719496fbcca4fe0a",
-        "reference_source": null
-       },
-       {
-        "field_path": "/affected_routes",
-        "quote": "또 노조는 서울시가 공사 인력 감축 계획을 철회해야 한다고 주장하고 있다.",
-        "source_part": "body",
-        "effective_at": null,
-        "derivation": "explicit",
-        "source_id": "7a0b25231f632ded36865076",
-        "source_revision": "9e4cddd7719496fbcca4fe0a",
-        "reference_source": null
-       },
-       {
-        "field_path": "/affected_routes",
-        "quote": "노조가 지정한 필수유지인원만 근무하고 그 외 모든 조합원들이 파업에 참여할 예정이다.",
-        "source_part": "body",
-        "effective_at": null,
-        "derivation": "explicit",
-        "source_id": "7a0b25231f632ded36865076",
-        "source_revision": "9e4cddd7719496fbcca4fe0a",
-        "reference_source": null
-       },
-       {
-        "field_path": "/affected_routes",
-        "quote": "파업시 호선별 운행률은 평일 기준 ▲1호선 53.5% ▲2호선 72.9%(본선) ▲3호선 57.9% ▲4호선 56.4% ▲5~8호선 79.8% 등이다.",
-        "source_part": "body",
-        "effective_at": null,
-        "derivation": "explicit",
-        "source_id": "7a0b25231f632ded36865076",
-        "source_revision": "9e4cddd7719496fbcca4fe0a",
-        "reference_source": null
-       },
-       {
-        "field_path": "/affected_routes",
-        "quote": "서울교통공사 사측은 파업시 비상대책본부를 가동할 계획이다.",
-        "source_part": "body",
-        "effective_at": null,
-        "derivation": "explicit",
-        "source_id": "7a0b25231f632ded36865076",
-        "source_revision": "9e4cddd7719496fbcca4fe0a",
-        "reference_source": null
-       },
-       {
-        "field_path": "/affected_routes",
-        "quote": "공사 관계자는 \"파업으로 인한 시민 불편으로 이어지지 않도록 노동 조합과의 대화 창구를 열어두고, 상호 신뢰하에 성실히 교섭에 임할 수 있도록 최선을 다할 예정\"이라고 말했다.",
-        "source_part": "body",
-        "effective_at": null,
-        "derivation": "explicit",
-        "source_id": "7a0b25231f632ded36865076",
-        "source_revision": "9e4cddd7719496fbcca4fe0a",
-        "reference_source": null
-       },
-       {
-        "field_path": "/strike_status",
-        "quote": "노조가 요구한 결원 충원 및 인력 감축 계획 철회를 서울교통공사 최대 주주인 서울시가 어느 수준까지 수용할지가 쟁점이다.",
-        "source_part": "body",
-        "effective_at": null,
-        "derivation": "explicit",
-        "source_id": "7a0b25231f632ded36865076",
-        "source_revision": "9e4cddd7719496fbcca4fe0a",
-        "reference_source": null
-       },
-       {
-        "field_path": "/strike_status",
-        "quote": "또 노조는 서울시가 공사 인력 감축 계획을 철회해야 한다고 주장하고 있다.",
-        "source_part": "body",
-        "effective_at": null,
-        "derivation": "explicit",
-        "source_id": "7a0b25231f632ded36865076",
-        "source_revision": "9e4cddd7719496fbcca4fe0a",
-        "reference_source": null
-       },
-       {
-        "field_path": "/strike_status",
-        "quote": "노조가 지정한 필수유지인원만 근무하고 그 외 모든 조합원들이 파업에 참여할 예정이다.",
-        "source_part": "body",
-        "effective_at": null,
-        "derivation": "explicit",
-        "source_id": "7a0b25231f632ded36865076",
-        "source_revision": "9e4cddd7719496fbcca4fe0a",
-        "reference_source": null
-       },
-       {
-        "field_path": "/strike_status",
-        "quote": "파업시 호선별 운행률은 평일 기준 ▲1호선 53.5% ▲2호선 72.9%(본선) ▲3호선 57.9% ▲4호선 56.4% ▲5~8호선 79.8% 등이다.",
-        "source_part": "body",
-        "effective_at": null,
-        "derivation": "explicit",
-        "source_id": "7a0b25231f632ded36865076",
-        "source_revision": "9e4cddd7719496fbcca4fe0a",
-        "reference_source": null
-       },
-       {
-        "field_path": "/strike_status",
-        "quote": "서울교통공사 사측은 파업시 비상대책본부를 가동할 계획이다.",
-        "source_part": "body",
-        "effective_at": null,
-        "derivation": "explicit",
-        "source_id": "7a0b25231f632ded36865076",
-        "source_revision": "9e4cddd7719496fbcca4fe0a",
-        "reference_source": null
-       },
-       {
-        "field_path": "/strike_status",
-        "quote": "공사 관계자는 \"파업으로 인한 시민 불편으로 이어지지 않도록 노동 조합과의 대화 창구를 열어두고, 상호 신뢰하에 성실히 교섭에 임할 수 있도록 최선을 다할 예정\"이라고 말했다.",
-        "source_part": "body",
-        "effective_at": null,
-        "derivation": "explicit",
-        "source_id": "7a0b25231f632ded36865076",
-        "source_revision": "9e4cddd7719496fbcca4fe0a",
-        "reference_source": null
-       },
-       {
-        "field_path": "/service_status",
-        "quote": "노조가 요구한 결원 충원 및 인력 감축 계획 철회를 서울교통공사 최대 주주인 서울시가 어느 수준까지 수용할지가 쟁점이다.",
-        "source_part": "body",
-        "effective_at": null,
-        "derivation": "explicit",
-        "source_id": "7a0b25231f632ded36865076",
-        "source_revision": "9e4cddd7719496fbcca4fe0a",
-        "reference_source": null
-       },
-       {
-        "field_path": "/service_status",
-        "quote": "또 노조는 서울시가 공사 인력 감축 계획을 철회해야 한다고 주장하고 있다.",
-        "source_part": "body",
-        "effective_at": null,
-        "derivation": "explicit",
-        "source_id": "7a0b25231f632ded36865076",
-        "source_revision": "9e4cddd7719496fbcca4fe0a",
-        "reference_source": null
-       },
-       {
-        "field_path": "/service_status",
-        "quote": "노조가 지정한 필수유지인원만 근무하고 그 외 모든 조합원들이 파업에 참여할 예정이다.",
-        "source_part": "body",
-        "effective_at": null,
-        "derivation": "explicit",
-        "source_id": "7a0b25231f632ded36865076",
-        "source_revision": "9e4cddd7719496fbcca4fe0a",
-        "reference_source": null
-       },
-       {
-        "field_path": "/service_status",
-        "quote": "파업시 호선별 운행률은 평일 기준 ▲1호선 53.5% ▲2호선 72.9%(본선) ▲3호선 57.9% ▲4호선 56.4% ▲5~8호선 79.8% 등이다.",
-        "source_part": "body",
-        "effective_at": null,
-        "derivation": "explicit",
-        "source_id": "7a0b25231f632ded36865076",
-        "source_revision": "9e4cddd7719496fbcca4fe0a",
-        "reference_source": null
-       },
-       {
-        "field_path": "/service_status",
-        "quote": "서울교통공사 사측은 파업시 비상대책본부를 가동할 계획이다.",
-        "source_part": "body",
-        "effective_at": null,
-        "derivation": "explicit",
-        "source_id": "7a0b25231f632ded36865076",
-        "source_revision": "9e4cddd7719496fbcca4fe0a",
-        "reference_source": null
-       },
-       {
-        "field_path": "/service_status",
-        "quote": "공사 관계자는 \"파업으로 인한 시민 불편으로 이어지지 않도록 노동 조합과의 대화 창구를 열어두고, 상호 신뢰하에 성실히 교섭에 임할 수 있도록 최선을 다할 예정\"이라고 말했다.",
-        "source_part": "body",
-        "effective_at": null,
-        "derivation": "explicit",
-        "source_id": "7a0b25231f632ded36865076",
-        "source_revision": "9e4cddd7719496fbcca4fe0a",
-        "reference_source": null
-       },
-       {
-        "field_path": "/normal_service_exceptions",
-        "quote": "노조가 요구한 결원 충원 및 인력 감축 계획 철회를 서울교통공사 최대 주주인 서울시가 어느 수준까지 수용할지가 쟁점이다.",
-        "source_part": "body",
-        "effective_at": null,
-        "derivation": "explicit",
-        "source_id": "7a0b25231f632ded36865076",
-        "source_revision": "9e4cddd7719496fbcca4fe0a",
-        "reference_source": null
-       },
-       {
-        "field_path": "/normal_service_exceptions",
-        "quote": "또 노조는 서울시가 공사 인력 감축 계획을 철회해야 한다고 주장하고 있다.",
-        "source_part": "body",
-        "effective_at": null,
-        "derivation": "explicit",
-        "source_id": "7a0b25231f632ded36865076",
-        "source_revision": "9e4cddd7719496fbcca4fe0a",
-        "reference_source": null
-       },
-       {
-        "field_path": "/normal_service_exceptions",
-        "quote": "노조가 지정한 필수유지인원만 근무하고 그 외 모든 조합원들이 파업에 참여할 예정이다.",
-        "source_part": "body",
-        "effective_at": null,
-        "derivation": "explicit",
-        "source_id": "7a0b25231f632ded36865076",
-        "source_revision": "9e4cddd7719496fbcca4fe0a",
-        "reference_source": null
-       },
-       {
-        "field_path": "/normal_service_exceptions",
-        "quote": "파업시 호선별 운행률은 평일 기준 ▲1호선 53.5% ▲2호선 72.9%(본선) ▲3호선 57.9% ▲4호선 56.4% ▲5~8호선 79.8% 등이다.",
-        "source_part": "body",
-        "effective_at": null,
-        "derivation": "explicit",
-        "source_id": "7a0b25231f632ded36865076",
-        "source_revision": "9e4cddd7719496fbcca4fe0a",
-        "reference_source": null
-       },
-       {
-        "field_path": "/normal_service_exceptions",
-        "quote": "서울교통공사 사측은 파업시 비상대책본부를 가동할 계획이다.",
-        "source_part": "body",
-        "effective_at": null,
-        "derivation": "explicit",
-        "source_id": "7a0b25231f632ded36865076",
-        "source_revision": "9e4cddd7719496fbcca4fe0a",
-        "reference_source": null
-       },
-       {
-        "field_path": "/normal_service_exceptions",
-        "quote": "공사 관계자는 \"파업으로 인한 시민 불편으로 이어지지 않도록 노동 조합과의 대화 창구를 열어두고, 상호 신뢰하에 성실히 교섭에 임할 수 있도록 최선을 다할 예정\"이라고 말했다.",
-        "source_part": "body",
-        "effective_at": null,
-        "derivation": "explicit",
-        "source_id": "7a0b25231f632ded36865076",
-        "source_revision": "9e4cddd7719496fbcca4fe0a",
-        "reference_source": null
-       },
-       {
-        "field_path": "/alternative_services",
-        "quote": "노조가 요구한 결원 충원 및 인력 감축 계획 철회를 서울교통공사 최대 주주인 서울시가 어느 수준까지 수용할지가 쟁점이다.",
-        "source_part": "body",
-        "effective_at": null,
-        "derivation": "explicit",
-        "source_id": "7a0b25231f632ded36865076",
-        "source_revision": "9e4cddd7719496fbcca4fe0a",
-        "reference_source": null
-       },
-       {
-        "field_path": "/alternative_services",
-        "quote": "또 노조는 서울시가 공사 인력 감축 계획을 철회해야 한다고 주장하고 있다.",
-        "source_part": "body",
-        "effective_at": null,
-        "derivation": "explicit",
-        "source_id": "7a0b25231f632ded36865076",
-        "source_revision": "9e4cddd7719496fbcca4fe0a",
-        "reference_source": null
-       },
-       {
-        "field_path": "/alternative_services",
-        "quote": "노조가 지정한 필수유지인원만 근무하고 그 외 모든 조합원들이 파업에 참여할 예정이다.",
-        "source_part": "body",
-        "effective_at": null,
-        "derivation": "explicit",
-        "source_id": "7a0b25231f632ded36865076",
-        "source_revision": "9e4cddd7719496fbcca4fe0a",
-        "reference_source": null
-       },
-       {
-        "field_path": "/alternative_services",
-        "quote": "파업시 호선별 운행률은 평일 기준 ▲1호선 53.5% ▲2호선 72.9%(본선) ▲3호선 57.9% ▲4호선 56.4% ▲5~8호선 79.8% 등이다.",
-        "source_part": "body",
-        "effective_at": null,
-        "derivation": "explicit",
-        "source_id": "7a0b25231f632ded36865076",
-        "source_revision": "9e4cddd7719496fbcca4fe0a",
-        "reference_source": null
-       },
-       {
-        "field_path": "/alternative_services",
-        "quote": "서울교통공사 사측은 파업시 비상대책본부를 가동할 계획이다.",
-        "source_part": "body",
-        "effective_at": null,
-        "derivation": "explicit",
-        "source_id": "7a0b25231f632ded36865076",
-        "source_revision": "9e4cddd7719496fbcca4fe0a",
-        "reference_source": null
-       },
-       {
-        "field_path": "/alternative_services",
-        "quote": "공사 관계자는 \"파업으로 인한 시민 불편으로 이어지지 않도록 노동 조합과의 대화 창구를 열어두고, 상호 신뢰하에 성실히 교섭에 임할 수 있도록 최선을 다할 예정\"이라고 말했다.",
-        "source_part": "body",
-        "effective_at": null,
-        "derivation": "explicit",
-        "source_id": "7a0b25231f632ded36865076",
-        "source_revision": "9e4cddd7719496fbcca4fe0a",
-        "reference_source": null
-       },
-       {
-        "field_path": "/start",
-        "quote": "노조가 요구한 결원 충원 및 인력 감축 계획 철회를 서울교통공사 최대 주주인 서울시가 어느 수준까지 수용할지가 쟁점이다.",
-        "source_part": "body",
-        "effective_at": null,
-        "derivation": "explicit",
-        "source_id": "7a0b25231f632ded36865076",
-        "source_revision": "9e4cddd7719496fbcca4fe0a",
-        "reference_source": null
-       },
-       {
-        "field_path": "/start",
-        "quote": "또 노조는 서울시가 공사 인력 감축 계획을 철회해야 한다고 주장하고 있다.",
-        "source_part": "body",
-        "effective_at": null,
-        "derivation": "explicit",
-        "source_id": "7a0b25231f632ded36865076",
-        "source_revision": "9e4cddd7719496fbcca4fe0a",
-        "reference_source": null
-       },
-       {
-        "field_path": "/start",
-        "quote": "노조가 지정한 필수유지인원만 근무하고 그 외 모든 조합원들이 파업에 참여할 예정이다.",
-        "source_part": "body",
-        "effective_at": null,
-        "derivation": "explicit",
-        "source_id": "7a0b25231f632ded36865076",
-        "source_revision": "9e4cddd7719496fbcca4fe0a",
-        "reference_source": null
-       },
-       {
-        "field_path": "/start",
-        "quote": "파업시 호선별 운행률은 평일 기준 ▲1호선 53.5% ▲2호선 72.9%(본선) ▲3호선 57.9% ▲4호선 56.4% ▲5~8호선 79.8% 등이다.",
-        "source_part": "body",
-        "effective_at": null,
-        "derivation": "explicit",
-        "source_id": "7a0b25231f632ded36865076",
-        "source_revision": "9e4cddd7719496fbcca4fe0a",
-        "reference_source": null
-       },
-       {
-        "field_path": "/start",
-        "quote": "서울교통공사 사측은 파업시 비상대책본부를 가동할 계획이다.",
-        "source_part": "body",
-        "effective_at": null,
-        "derivation": "explicit",
-        "source_id": "7a0b25231f632ded36865076",
-        "source_revision": "9e4cddd7719496fbcca4fe0a",
-        "reference_source": null
-       },
-       {
-        "field_path": "/start",
-        "quote": "공사 관계자는 \"파업으로 인한 시민 불편으로 이어지지 않도록 노동 조합과의 대화 창구를 열어두고, 상호 신뢰하에 성실히 교섭에 임할 수 있도록 최선을 다할 예정\"이라고 말했다.",
-        "source_part": "body",
-        "effective_at": null,
-        "derivation": "explicit",
-        "source_id": "7a0b25231f632ded36865076",
-        "source_revision": "9e4cddd7719496fbcca4fe0a",
-        "reference_source": null
-       },
-       {
-        "field_path": "/end",
-        "quote": "노조가 요구한 결원 충원 및 인력 감축 계획 철회를 서울교통공사 최대 주주인 서울시가 어느 수준까지 수용할지가 쟁점이다.",
-        "source_part": "body",
-        "effective_at": null,
-        "derivation": "explicit",
-        "source_id": "7a0b25231f632ded36865076",
-        "source_revision": "9e4cddd7719496fbcca4fe0a",
-        "reference_source": null
-       },
-       {
-        "field_path": "/end",
-        "quote": "또 노조는 서울시가 공사 인력 감축 계획을 철회해야 한다고 주장하고 있다.",
-        "source_part": "body",
-        "effective_at": null,
-        "derivation": "explicit",
-        "source_id": "7a0b25231f632ded36865076",
-        "source_revision": "9e4cddd7719496fbcca4fe0a",
-        "reference_source": null
-       },
-       {
-        "field_path": "/end",
-        "quote": "노조가 지정한 필수유지인원만 근무하고 그 외 모든 조합원들이 파업에 참여할 예정이다.",
-        "source_part": "body",
-        "effective_at": null,
-        "derivation": "explicit",
-        "source_id": "7a0b25231f632ded36865076",
-        "source_revision": "9e4cddd7719496fbcca4fe0a",
-        "reference_source": null
-       },
-       {
-        "field_path": "/end",
-        "quote": "파업시 호선별 운행률은 평일 기준 ▲1호선 53.5% ▲2호선 72.9%(본선) ▲3호선 57.9% ▲4호선 56.4% ▲5~8호선 79.8% 등이다.",
-        "source_part": "body",
-        "effective_at": null,
-        "derivation": "explicit",
-        "source_id": "7a0b25231f632ded36865076",
-        "source_revision": "9e4cddd7719496fbcca4fe0a",
-        "reference_source": null
-       },
-       {
-        "field_path": "/end",
-        "quote": "서울교통공사 사측은 파업시 비상대책본부를 가동할 계획이다.",
-        "source_part": "body",
-        "effective_at": null,
-        "derivation": "explicit",
-        "source_id": "7a0b25231f632ded36865076",
-        "source_revision": "9e4cddd7719496fbcca4fe0a",
-        "reference_source": null
-       },
-       {
-        "field_path": "/end",
-        "quote": "공사 관계자는 \"파업으로 인한 시민 불편으로 이어지지 않도록 노동 조합과의 대화 창구를 열어두고, 상호 신뢰하에 성실히 교섭에 임할 수 있도록 최선을 다할 예정\"이라고 말했다.",
-        "source_part": "body",
-        "effective_at": null,
-        "derivation": "explicit",
-        "source_id": "7a0b25231f632ded36865076",
-        "source_revision": "9e4cddd7719496fbcca4fe0a",
-        "reference_source": null
-       }
-      ],
-      "review_reasons": [
-       "DATE_UNCONFIRMED"
-      ]
-     }
-    }
-   ],
-   "events": {
-    "schema_version": "1.0",
-    "article_relevance": "unrelated",
-    "processing_status": "success",
-    "source": {
-     "source_id": "7a0b25231f632ded36865076",
-     "source_url": "https://www.newspim.com/news/view/20261120000458",
-     "source_revision": "9e4cddd7719496fbcca4fe0a",
-     "published_at": "2026-11-22T06:00:00+09:00",
-     "updated_at": "2026-11-22T06:00:00+09:00",
-     "collected_at": "2026-11-22T10:05:02.696333+09:00"
-    },
-    "events": [],
-    "review_reasons": []
-   }
-  },
-  {
-   "strikes": [
-    {
-     "article_relevance": "related",
-     "transport_mode": "rail",
-     "affected_regions": [
-      {
-       "raw": "서울",
-       "normalized_name": "서울",
-       "region": "서울",
-       "reference_id": null,
-       "derivation": "article_explicit",
-       "reference_source": null
-      }
-     ],
-     "affected_routes": [
-      {
-       "raw": "서울역",
-       "normalized_name": "서울역",
-       "region": "서울",
-       "reference_id": null,
-       "derivation": "article_explicit",
-       "reference_source": null,
-       "direction": null,
-       "section": null
-      }
-     ],
-     "start": {
-      "raw": null,
-      "date": null,
-      "time": null,
-      "timezone": "Asia/Seoul",
-      "basis": "unknown",
-      "assertion": "unknown",
-      "open_ended": null
-     },
-     "end": {
-      "raw": null,
-      "date": null,
-      "time": null,
-      "timezone": "Asia/Seoul",
-      "basis": "unknown",
-      "assertion": "unknown",
-      "open_ended": null
-     },
-     "strike_status": {
-      "value": "unknown",
-      "conditions": [],
-      "scope_raw": "[서울=뉴시스] 김명년 기자 = 전국철도노동조합 조합원들이 11일 오전 서울 중구 서울역 동광장에서 총파업 선포 기자회견을 열고 있다.",
-      "effective_at": null
-     },
-     "service_status": [],
-     "normal_service_exceptions": [],
-     "alternative_services": [],
-     "evidence_and_timestamps": {
-      "source_url": "https://www.newsis.com/view/NISX20261120_0003876224",
-      "published_at": "2026-11-22T06:00:00+09:00",
+      "source_url": "https://www.newsis.com/view/NISX20261122_0003878082",
+      "published_at": "2026-11-22T12:32:21+09:00",
       "updated_at": null,
-      "collected_at": "2026-11-22T10:05:06.101325+09:00",
+      "collected_at": "2026-11-22T13:32:44.868955+09:00",
       "field_evidence": [
        {
         "field_path": "/article_relevance",
-        "quote": "[서울=뉴시스] 김명년 기자 = 전국철도노동조합 조합원들이 11일 오전 서울 중구 서울역 동광장에서 총파업 선포 기자회견을 열고 있다.",
+        "quote": "[서울=뉴시스] 김금보 기자 = 22일 오전 서울 중구 서울역 대합실 전광판에 전국철도노동조합 쟁의행위에 따른 일부 열차 중지 및 지연 예고 안내문이 송출되고 있다. 2026.11.22. [email protected]",
         "source_part": "body",
         "effective_at": null,
         "derivation": "explicit",
-        "source_id": "0b887fe9ba6f1f95792cb0fd",
-        "source_revision": "f111b1edbe8b70a9cab1ff15",
+        "source_id": "4028f0bf970f86763c5d55b7",
+        "source_revision": "a9174de5f72c9486d857f0a6",
         "reference_source": null
        },
        {
         "field_path": "/transport_mode",
-        "quote": "[서울=뉴시스] 김명년 기자 = 전국철도노동조합 조합원들이 11일 오전 서울 중구 서울역 동광장에서 총파업 선포 기자회견을 열고 있다.",
+        "quote": "[서울=뉴시스] 김금보 기자 = 22일 오전 서울 중구 서울역 대합실 전광판에 전국철도노동조합 쟁의행위에 따른 일부 열차 중지 및 지연 예고 안내문이 송출되고 있다. 2026.11.22. [email protected]",
         "source_part": "body",
         "effective_at": null,
         "derivation": "explicit",
-        "source_id": "0b887fe9ba6f1f95792cb0fd",
-        "source_revision": "f111b1edbe8b70a9cab1ff15",
+        "source_id": "4028f0bf970f86763c5d55b7",
+        "source_revision": "a9174de5f72c9486d857f0a6",
         "reference_source": null
        },
        {
         "field_path": "/affected_regions",
-        "quote": "[서울=뉴시스] 김명년 기자 = 전국철도노동조합 조합원들이 11일 오전 서울 중구 서울역 동광장에서 총파업 선포 기자회견을 열고 있다.",
+        "quote": "[서울=뉴시스] 김금보 기자 = 22일 오전 서울 중구 서울역 대합실 전광판에 전국철도노동조합 쟁의행위에 따른 일부 열차 중지 및 지연 예고 안내문이 송출되고 있다. 2026.11.22. [email protected]",
         "source_part": "body",
         "effective_at": null,
         "derivation": "explicit",
-        "source_id": "0b887fe9ba6f1f95792cb0fd",
-        "source_revision": "f111b1edbe8b70a9cab1ff15",
+        "source_id": "4028f0bf970f86763c5d55b7",
+        "source_revision": "a9174de5f72c9486d857f0a6",
         "reference_source": null
        },
        {
         "field_path": "/affected_routes",
-        "quote": "[서울=뉴시스] 김명년 기자 = 전국철도노동조합 조합원들이 11일 오전 서울 중구 서울역 동광장에서 총파업 선포 기자회견을 열고 있다.",
+        "quote": "[서울=뉴시스] 김금보 기자 = 22일 오전 서울 중구 서울역 대합실 전광판에 전국철도노동조합 쟁의행위에 따른 일부 열차 중지 및 지연 예고 안내문이 송출되고 있다. 2026.11.22. [email protected]",
         "source_part": "body",
         "effective_at": null,
         "derivation": "explicit",
-        "source_id": "0b887fe9ba6f1f95792cb0fd",
-        "source_revision": "f111b1edbe8b70a9cab1ff15",
+        "source_id": "4028f0bf970f86763c5d55b7",
+        "source_revision": "a9174de5f72c9486d857f0a6",
         "reference_source": null
        },
        {
         "field_path": "/strike_status",
-        "quote": "[서울=뉴시스] 김명년 기자 = 전국철도노동조합 조합원들이 11일 오전 서울 중구 서울역 동광장에서 총파업 선포 기자회견을 열고 있다.",
+        "quote": "[서울=뉴시스] 김금보 기자 = 22일 오전 서울 중구 서울역 대합실 전광판에 전국철도노동조합 쟁의행위에 따른 일부 열차 중지 및 지연 예고 안내문이 송출되고 있다. 2026.11.22. [email protected]",
         "source_part": "body",
         "effective_at": null,
         "derivation": "explicit",
-        "source_id": "0b887fe9ba6f1f95792cb0fd",
-        "source_revision": "f111b1edbe8b70a9cab1ff15",
+        "source_id": "4028f0bf970f86763c5d55b7",
+        "source_revision": "a9174de5f72c9486d857f0a6",
         "reference_source": null
        },
        {
         "field_path": "/service_status",
-        "quote": "[서울=뉴시스] 김명년 기자 = 전국철도노동조합 조합원들이 11일 오전 서울 중구 서울역 동광장에서 총파업 선포 기자회견을 열고 있다.",
+        "quote": "[서울=뉴시스] 김금보 기자 = 22일 오전 서울 중구 서울역 대합실 전광판에 전국철도노동조합 쟁의행위에 따른 일부 열차 중지 및 지연 예고 안내문이 송출되고 있다. 2026.11.22. [email protected]",
         "source_part": "body",
         "effective_at": null,
         "derivation": "explicit",
-        "source_id": "0b887fe9ba6f1f95792cb0fd",
-        "source_revision": "f111b1edbe8b70a9cab1ff15",
+        "source_id": "4028f0bf970f86763c5d55b7",
+        "source_revision": "a9174de5f72c9486d857f0a6",
         "reference_source": null
        },
        {
         "field_path": "/normal_service_exceptions",
-        "quote": "[서울=뉴시스] 김명년 기자 = 전국철도노동조합 조합원들이 11일 오전 서울 중구 서울역 동광장에서 총파업 선포 기자회견을 열고 있다.",
+        "quote": "[서울=뉴시스] 김금보 기자 = 22일 오전 서울 중구 서울역 대합실 전광판에 전국철도노동조합 쟁의행위에 따른 일부 열차 중지 및 지연 예고 안내문이 송출되고 있다. 2026.11.22. [email protected]",
         "source_part": "body",
         "effective_at": null,
         "derivation": "explicit",
-        "source_id": "0b887fe9ba6f1f95792cb0fd",
-        "source_revision": "f111b1edbe8b70a9cab1ff15",
+        "source_id": "4028f0bf970f86763c5d55b7",
+        "source_revision": "a9174de5f72c9486d857f0a6",
         "reference_source": null
        },
        {
         "field_path": "/alternative_services",
-        "quote": "[서울=뉴시스] 김명년 기자 = 전국철도노동조합 조합원들이 11일 오전 서울 중구 서울역 동광장에서 총파업 선포 기자회견을 열고 있다.",
+        "quote": "[서울=뉴시스] 김금보 기자 = 22일 오전 서울 중구 서울역 대합실 전광판에 전국철도노동조합 쟁의행위에 따른 일부 열차 중지 및 지연 예고 안내문이 송출되고 있다. 2026.11.22. [email protected]",
         "source_part": "body",
         "effective_at": null,
         "derivation": "explicit",
-        "source_id": "0b887fe9ba6f1f95792cb0fd",
-        "source_revision": "f111b1edbe8b70a9cab1ff15",
+        "source_id": "4028f0bf970f86763c5d55b7",
+        "source_revision": "a9174de5f72c9486d857f0a6",
         "reference_source": null
        },
        {
         "field_path": "/start",
-        "quote": "[서울=뉴시스] 김명년 기자 = 전국철도노동조합 조합원들이 11일 오전 서울 중구 서울역 동광장에서 총파업 선포 기자회견을 열고 있다.",
+        "quote": "[서울=뉴시스] 김금보 기자 = 22일 오전 서울 중구 서울역 대합실 전광판에 전국철도노동조합 쟁의행위에 따른 일부 열차 중지 및 지연 예고 안내문이 송출되고 있다. 2026.11.22. [email protected]",
         "source_part": "body",
         "effective_at": null,
         "derivation": "explicit",
-        "source_id": "0b887fe9ba6f1f95792cb0fd",
-        "source_revision": "f111b1edbe8b70a9cab1ff15",
+        "source_id": "4028f0bf970f86763c5d55b7",
+        "source_revision": "a9174de5f72c9486d857f0a6",
         "reference_source": null
        },
        {
         "field_path": "/end",
-        "quote": "[서울=뉴시스] 김명년 기자 = 전국철도노동조합 조합원들이 11일 오전 서울 중구 서울역 동광장에서 총파업 선포 기자회견을 열고 있다.",
+        "quote": "[서울=뉴시스] 김금보 기자 = 22일 오전 서울 중구 서울역 대합실 전광판에 전국철도노동조합 쟁의행위에 따른 일부 열차 중지 및 지연 예고 안내문이 송출되고 있다. 2026.11.22. [email protected]",
         "source_part": "body",
         "effective_at": null,
         "derivation": "explicit",
-        "source_id": "0b887fe9ba6f1f95792cb0fd",
-        "source_revision": "f111b1edbe8b70a9cab1ff15",
-        "reference_source": null
-       }
-      ],
-      "review_reasons": [
-       "UNSUPPORTED_OR_AMBIGUOUS_STATUS",
-       "DATE_UNCONFIRMED"
-      ]
-     }
-    },
-    {
-     "article_relevance": "unrelated",
-     "transport_mode": "unknown",
-     "affected_regions": [],
-     "affected_routes": [],
-     "start": {
-      "raw": null,
-      "date": null,
-      "time": null,
-      "timezone": "Asia/Seoul",
-      "basis": "unknown",
-      "assertion": "unknown",
-      "open_ended": null
-     },
-     "end": {
-      "raw": null,
-      "date": null,
-      "time": null,
-      "timezone": "Asia/Seoul",
-      "basis": "unknown",
-      "assertion": "unknown",
-      "open_ended": null
-     },
-     "strike_status": {
-      "value": "unknown",
-      "conditions": [
-       "철도노조는 현장 배치제 폐지와 승진독식 철폐, 안전인력 충원 등을 요구하며, 요구사항이 받아들여지지 않을 경우 오는 12월 총파업에 돌입하겠다고 밝혔다."
-      ],
-      "scope_raw": null,
-      "effective_at": null
-     },
-     "service_status": [],
-     "normal_service_exceptions": [],
-     "alternative_services": [],
-     "evidence_and_timestamps": {
-      "source_url": "https://www.newsis.com/view/NISX20261120_0003876224",
-      "published_at": "2026-11-22T06:00:00+09:00",
-      "updated_at": null,
-      "collected_at": "2026-11-22T10:05:06.101325+09:00",
-      "field_evidence": [
-       {
-        "field_path": "/article_relevance",
-        "quote": "철도노조는 현장 배치제 폐지와 승진독식 철폐, 안전인력 충원 등을 요구하며, 요구사항이 받아들여지지 않을 경우 오는 12월 총파업에 돌입하겠다고 밝혔다.",
-        "source_part": "body",
-        "effective_at": null,
-        "derivation": "explicit",
-        "source_id": "0b887fe9ba6f1f95792cb0fd",
-        "source_revision": "f111b1edbe8b70a9cab1ff15",
-        "reference_source": null
-       },
-       {
-        "field_path": "/transport_mode",
-        "quote": "철도노조는 현장 배치제 폐지와 승진독식 철폐, 안전인력 충원 등을 요구하며, 요구사항이 받아들여지지 않을 경우 오는 12월 총파업에 돌입하겠다고 밝혔다.",
-        "source_part": "body",
-        "effective_at": null,
-        "derivation": "explicit",
-        "source_id": "0b887fe9ba6f1f95792cb0fd",
-        "source_revision": "f111b1edbe8b70a9cab1ff15",
-        "reference_source": null
-       },
-       {
-        "field_path": "/affected_regions",
-        "quote": "철도노조는 현장 배치제 폐지와 승진독식 철폐, 안전인력 충원 등을 요구하며, 요구사항이 받아들여지지 않을 경우 오는 12월 총파업에 돌입하겠다고 밝혔다.",
-        "source_part": "body",
-        "effective_at": null,
-        "derivation": "explicit",
-        "source_id": "0b887fe9ba6f1f95792cb0fd",
-        "source_revision": "f111b1edbe8b70a9cab1ff15",
-        "reference_source": null
-       },
-       {
-        "field_path": "/affected_routes",
-        "quote": "철도노조는 현장 배치제 폐지와 승진독식 철폐, 안전인력 충원 등을 요구하며, 요구사항이 받아들여지지 않을 경우 오는 12월 총파업에 돌입하겠다고 밝혔다.",
-        "source_part": "body",
-        "effective_at": null,
-        "derivation": "explicit",
-        "source_id": "0b887fe9ba6f1f95792cb0fd",
-        "source_revision": "f111b1edbe8b70a9cab1ff15",
-        "reference_source": null
-       },
-       {
-        "field_path": "/strike_status",
-        "quote": "철도노조는 현장 배치제 폐지와 승진독식 철폐, 안전인력 충원 등을 요구하며, 요구사항이 받아들여지지 않을 경우 오는 12월 총파업에 돌입하겠다고 밝혔다.",
-        "source_part": "body",
-        "effective_at": null,
-        "derivation": "explicit",
-        "source_id": "0b887fe9ba6f1f95792cb0fd",
-        "source_revision": "f111b1edbe8b70a9cab1ff15",
-        "reference_source": null
-       },
-       {
-        "field_path": "/service_status",
-        "quote": "철도노조는 현장 배치제 폐지와 승진독식 철폐, 안전인력 충원 등을 요구하며, 요구사항이 받아들여지지 않을 경우 오는 12월 총파업에 돌입하겠다고 밝혔다.",
-        "source_part": "body",
-        "effective_at": null,
-        "derivation": "explicit",
-        "source_id": "0b887fe9ba6f1f95792cb0fd",
-        "source_revision": "f111b1edbe8b70a9cab1ff15",
-        "reference_source": null
-       },
-       {
-        "field_path": "/normal_service_exceptions",
-        "quote": "철도노조는 현장 배치제 폐지와 승진독식 철폐, 안전인력 충원 등을 요구하며, 요구사항이 받아들여지지 않을 경우 오는 12월 총파업에 돌입하겠다고 밝혔다.",
-        "source_part": "body",
-        "effective_at": null,
-        "derivation": "explicit",
-        "source_id": "0b887fe9ba6f1f95792cb0fd",
-        "source_revision": "f111b1edbe8b70a9cab1ff15",
-        "reference_source": null
-       },
-       {
-        "field_path": "/alternative_services",
-        "quote": "철도노조는 현장 배치제 폐지와 승진독식 철폐, 안전인력 충원 등을 요구하며, 요구사항이 받아들여지지 않을 경우 오는 12월 총파업에 돌입하겠다고 밝혔다.",
-        "source_part": "body",
-        "effective_at": null,
-        "derivation": "explicit",
-        "source_id": "0b887fe9ba6f1f95792cb0fd",
-        "source_revision": "f111b1edbe8b70a9cab1ff15",
-        "reference_source": null
-       },
-       {
-        "field_path": "/start",
-        "quote": "철도노조는 현장 배치제 폐지와 승진독식 철폐, 안전인력 충원 등을 요구하며, 요구사항이 받아들여지지 않을 경우 오는 12월 총파업에 돌입하겠다고 밝혔다.",
-        "source_part": "body",
-        "effective_at": null,
-        "derivation": "explicit",
-        "source_id": "0b887fe9ba6f1f95792cb0fd",
-        "source_revision": "f111b1edbe8b70a9cab1ff15",
-        "reference_source": null
-       },
-       {
-        "field_path": "/end",
-        "quote": "철도노조는 현장 배치제 폐지와 승진독식 철폐, 안전인력 충원 등을 요구하며, 요구사항이 받아들여지지 않을 경우 오는 12월 총파업에 돌입하겠다고 밝혔다.",
-        "source_part": "body",
-        "effective_at": null,
-        "derivation": "explicit",
-        "source_id": "0b887fe9ba6f1f95792cb0fd",
-        "source_revision": "f111b1edbe8b70a9cab1ff15",
+        "source_id": "4028f0bf970f86763c5d55b7",
+        "source_revision": "a9174de5f72c9486d857f0a6",
         "reference_source": null
        }
       ],
@@ -16940,12 +15549,12 @@
     "article_relevance": "unrelated",
     "processing_status": "success",
     "source": {
-     "source_id": "0b887fe9ba6f1f95792cb0fd",
-     "source_url": "https://www.newsis.com/view/NISX20261120_0003876224",
-     "source_revision": "f111b1edbe8b70a9cab1ff15",
-     "published_at": "2026-11-22T06:00:00+09:00",
+     "source_id": "4028f0bf970f86763c5d55b7",
+     "source_url": "https://www.newsis.com/view/NISX20261122_0003878082",
+     "source_revision": "a9174de5f72c9486d857f0a6",
+     "published_at": "2026-11-22T12:32:21+09:00",
      "updated_at": null,
-     "collected_at": "2026-11-22T10:05:06.101325+09:00"
+     "collected_at": "2026-11-22T13:32:44.868955+09:00"
     },
     "events": [],
     "review_reasons": []
@@ -16989,7 +15598,7 @@
       "source_url": "https://www.yna.co.kr/view/AKR20261118007000079?input=1195m",
       "published_at": "2026-11-18T03:43:59+09:00",
       "updated_at": "2026-11-18T09:34:21+09:00",
-      "collected_at": "2026-11-22T10:05:10.476669+09:00",
+      "collected_at": "2026-11-22T13:32:46.736521+09:00",
       "field_evidence": [
        {
         "field_path": "/article_relevance",
@@ -17106,7 +15715,7 @@
      "source_revision": "803fca1dcdf7c4adcd01d505",
      "published_at": "2026-11-18T03:43:59+09:00",
      "updated_at": "2026-11-18T09:34:21+09:00",
-     "collected_at": "2026-11-22T10:05:10.476669+09:00"
+     "collected_at": "2026-11-22T13:32:46.736521+09:00"
     },
     "events": [],
     "review_reasons": [
@@ -17152,7 +15761,7 @@
       "source_url": "https://www.yna.co.kr/view/AKR20261120163700797?input=1195m",
       "published_at": "2026-11-21T06:00:01+09:00",
       "updated_at": "2026-11-21T06:00:01+09:00",
-      "collected_at": "2026-11-22T10:05:12.495305+09:00",
+      "collected_at": "2026-11-22T13:32:49.174655+09:00",
       "field_evidence": [
        {
         "field_path": "/article_relevance",
@@ -17269,7 +15878,7 @@
      "source_revision": "867033b6bb8234b6daca4c9e",
      "published_at": "2026-11-21T06:00:01+09:00",
      "updated_at": "2026-11-21T06:00:01+09:00",
-     "collected_at": "2026-11-22T10:05:12.495305+09:00"
+     "collected_at": "2026-11-22T13:32:49.174655+09:00"
     },
     "events": [
      {
@@ -17359,7 +15968,7 @@
       "source_url": "https://www.seoul.co.kr/news/plan/Runner-supply-depot/2026/11/20/20261120035001?wlog_tag3=naver",
       "published_at": "2026-11-19T21:59:02+09:00",
       "updated_at": "2026-11-20T00:36:32+09:00",
-      "collected_at": "2026-11-22T10:05:17.427467+09:00",
+      "collected_at": "2026-11-22T13:32:53.910724+09:00",
       "field_evidence": [
        {
         "field_path": "/article_relevance",
@@ -17476,7 +16085,7 @@
      "source_revision": "f1f2d1c25e1728d204b5c71f",
      "published_at": "2026-11-19T21:59:02+09:00",
      "updated_at": "2026-11-20T00:36:32+09:00",
-     "collected_at": "2026-11-22T10:05:17.427467+09:00"
+     "collected_at": "2026-11-22T13:32:53.910724+09:00"
     },
     "events": [
      {
@@ -18426,7 +17035,7 @@
       "source_url": "https://www.seoul.co.kr/news/society/2026/11/20/20261120500022?wlog_tag3=naver",
       "published_at": "2026-11-20T09:04:56+09:00",
       "updated_at": "2026-11-20T09:06:05+09:00",
-      "collected_at": "2026-11-22T10:05:19.260494+09:00",
+      "collected_at": "2026-11-22T13:32:55.693671+09:00",
       "field_evidence": [
        {
         "field_path": "/article_relevance",
@@ -18570,7 +17179,7 @@
       "source_url": "https://www.seoul.co.kr/news/society/2026/11/20/20261120500022?wlog_tag3=naver",
       "published_at": "2026-11-20T09:04:56+09:00",
       "updated_at": "2026-11-20T09:06:05+09:00",
-      "collected_at": "2026-11-22T10:05:19.260494+09:00",
+      "collected_at": "2026-11-22T13:32:55.693671+09:00",
       "field_evidence": [
        {
         "field_path": "/article_relevance",
@@ -18712,7 +17321,7 @@
       "source_url": "https://www.seoul.co.kr/news/society/2026/11/20/20261120500022?wlog_tag3=naver",
       "published_at": "2026-11-20T09:04:56+09:00",
       "updated_at": "2026-11-20T09:06:05+09:00",
-      "collected_at": "2026-11-22T10:05:19.260494+09:00",
+      "collected_at": "2026-11-22T13:32:55.693671+09:00",
       "field_evidence": [
        {
         "field_path": "/article_relevance",
@@ -18856,7 +17465,7 @@
       "source_url": "https://www.seoul.co.kr/news/society/2026/11/20/20261120500022?wlog_tag3=naver",
       "published_at": "2026-11-20T09:04:56+09:00",
       "updated_at": "2026-11-20T09:06:05+09:00",
-      "collected_at": "2026-11-22T10:05:19.260494+09:00",
+      "collected_at": "2026-11-22T13:32:55.693671+09:00",
       "field_evidence": [
        {
         "field_path": "/article_relevance",
@@ -19173,7 +17782,1528 @@
      "source_revision": "4e4ff2897e6705b0fea4bd42",
      "published_at": "2026-11-20T09:04:56+09:00",
      "updated_at": "2026-11-20T09:06:05+09:00",
-     "collected_at": "2026-11-22T10:05:19.260494+09:00"
+     "collected_at": "2026-11-22T13:32:55.693671+09:00"
+    },
+    "events": [],
+    "review_reasons": []
+   }
+  },
+  {
+   "strikes": [
+    {
+     "article_relevance": "related",
+     "transport_mode": "unknown",
+     "affected_regions": [
+      {
+       "raw": "서울",
+       "normalized_name": "서울",
+       "region": "서울",
+       "reference_id": null,
+       "derivation": "article_explicit",
+       "reference_source": null
+      }
+     ],
+     "affected_routes": [
+      {
+       "raw": "나선",
+       "normalized_name": "나선",
+       "region": "서울",
+       "reference_id": null,
+       "derivation": "article_explicit",
+       "reference_source": null,
+       "direction": null,
+       "section": null
+      }
+     ],
+     "start": {
+      "raw": null,
+      "date": null,
+      "time": null,
+      "timezone": "Asia/Seoul",
+      "basis": "unknown",
+      "assertion": "unknown",
+      "open_ended": null
+     },
+     "end": {
+      "raw": "무기한",
+      "date": null,
+      "time": null,
+      "timezone": "Asia/Seoul",
+      "basis": "unknown",
+      "assertion": "unknown",
+      "open_ended": true
+     },
+     "strike_status": {
+      "value": "scheduled",
+      "conditions": [],
+      "scope_raw": "[서울=뉴스핌] 조수민 기자 = 서울교통공사 제1·2·3 노동조합이 오는 25일 총파업을 예고한 가운데, 노사가 하루 전인 24일 마지막 교섭에 나선다. 서울시 및 사측과 합의에 이르지 못하면 25일 제1·2·3 노조는 무기한 파업을 시작한다.",
+      "effective_at": null
+     },
+     "service_status": [],
+     "normal_service_exceptions": [],
+     "alternative_services": [],
+     "evidence_and_timestamps": {
+      "source_url": "https://www.newspim.com/news/view/20261120000458",
+      "published_at": "2026-11-22T06:00:00+09:00",
+      "updated_at": "2026-11-22T06:00:00+09:00",
+      "collected_at": "2026-11-22T13:32:58.086204+09:00",
+      "field_evidence": [
+       {
+        "field_path": "/article_relevance",
+        "quote": "[서울=뉴스핌] 조수민 기자 = 서울교통공사 제1·2·3 노동조합이 오는 25일 총파업을 예고한 가운데, 노사가 하루 전인 24일 마지막 교섭에 나선다.",
+        "source_part": "body",
+        "effective_at": null,
+        "derivation": "explicit",
+        "source_id": "7a0b25231f632ded36865076",
+        "source_revision": "9e4cddd7719496fbcca4fe0a",
+        "reference_source": null
+       },
+       {
+        "field_path": "/article_relevance",
+        "quote": "서울시 및 사측과 합의에 이르지 못하면 25일 제1·2·3 노조는 무기한 파업을 시작한다.",
+        "source_part": "body",
+        "effective_at": null,
+        "derivation": "explicit",
+        "source_id": "7a0b25231f632ded36865076",
+        "source_revision": "9e4cddd7719496fbcca4fe0a",
+        "reference_source": null
+       },
+       {
+        "field_path": "/transport_mode",
+        "quote": "[서울=뉴스핌] 조수민 기자 = 서울교통공사 제1·2·3 노동조합이 오는 25일 총파업을 예고한 가운데, 노사가 하루 전인 24일 마지막 교섭에 나선다.",
+        "source_part": "body",
+        "effective_at": null,
+        "derivation": "explicit",
+        "source_id": "7a0b25231f632ded36865076",
+        "source_revision": "9e4cddd7719496fbcca4fe0a",
+        "reference_source": null
+       },
+       {
+        "field_path": "/transport_mode",
+        "quote": "서울시 및 사측과 합의에 이르지 못하면 25일 제1·2·3 노조는 무기한 파업을 시작한다.",
+        "source_part": "body",
+        "effective_at": null,
+        "derivation": "explicit",
+        "source_id": "7a0b25231f632ded36865076",
+        "source_revision": "9e4cddd7719496fbcca4fe0a",
+        "reference_source": null
+       },
+       {
+        "field_path": "/affected_regions",
+        "quote": "[서울=뉴스핌] 조수민 기자 = 서울교통공사 제1·2·3 노동조합이 오는 25일 총파업을 예고한 가운데, 노사가 하루 전인 24일 마지막 교섭에 나선다.",
+        "source_part": "body",
+        "effective_at": null,
+        "derivation": "explicit",
+        "source_id": "7a0b25231f632ded36865076",
+        "source_revision": "9e4cddd7719496fbcca4fe0a",
+        "reference_source": null
+       },
+       {
+        "field_path": "/affected_regions",
+        "quote": "서울시 및 사측과 합의에 이르지 못하면 25일 제1·2·3 노조는 무기한 파업을 시작한다.",
+        "source_part": "body",
+        "effective_at": null,
+        "derivation": "explicit",
+        "source_id": "7a0b25231f632ded36865076",
+        "source_revision": "9e4cddd7719496fbcca4fe0a",
+        "reference_source": null
+       },
+       {
+        "field_path": "/affected_routes",
+        "quote": "[서울=뉴스핌] 조수민 기자 = 서울교통공사 제1·2·3 노동조합이 오는 25일 총파업을 예고한 가운데, 노사가 하루 전인 24일 마지막 교섭에 나선다.",
+        "source_part": "body",
+        "effective_at": null,
+        "derivation": "explicit",
+        "source_id": "7a0b25231f632ded36865076",
+        "source_revision": "9e4cddd7719496fbcca4fe0a",
+        "reference_source": null
+       },
+       {
+        "field_path": "/affected_routes",
+        "quote": "서울시 및 사측과 합의에 이르지 못하면 25일 제1·2·3 노조는 무기한 파업을 시작한다.",
+        "source_part": "body",
+        "effective_at": null,
+        "derivation": "explicit",
+        "source_id": "7a0b25231f632ded36865076",
+        "source_revision": "9e4cddd7719496fbcca4fe0a",
+        "reference_source": null
+       },
+       {
+        "field_path": "/strike_status",
+        "quote": "[서울=뉴스핌] 조수민 기자 = 서울교통공사 제1·2·3 노동조합이 오는 25일 총파업을 예고한 가운데, 노사가 하루 전인 24일 마지막 교섭에 나선다.",
+        "source_part": "body",
+        "effective_at": null,
+        "derivation": "explicit",
+        "source_id": "7a0b25231f632ded36865076",
+        "source_revision": "9e4cddd7719496fbcca4fe0a",
+        "reference_source": null
+       },
+       {
+        "field_path": "/strike_status",
+        "quote": "서울시 및 사측과 합의에 이르지 못하면 25일 제1·2·3 노조는 무기한 파업을 시작한다.",
+        "source_part": "body",
+        "effective_at": null,
+        "derivation": "explicit",
+        "source_id": "7a0b25231f632ded36865076",
+        "source_revision": "9e4cddd7719496fbcca4fe0a",
+        "reference_source": null
+       },
+       {
+        "field_path": "/service_status",
+        "quote": "[서울=뉴스핌] 조수민 기자 = 서울교통공사 제1·2·3 노동조합이 오는 25일 총파업을 예고한 가운데, 노사가 하루 전인 24일 마지막 교섭에 나선다.",
+        "source_part": "body",
+        "effective_at": null,
+        "derivation": "explicit",
+        "source_id": "7a0b25231f632ded36865076",
+        "source_revision": "9e4cddd7719496fbcca4fe0a",
+        "reference_source": null
+       },
+       {
+        "field_path": "/service_status",
+        "quote": "서울시 및 사측과 합의에 이르지 못하면 25일 제1·2·3 노조는 무기한 파업을 시작한다.",
+        "source_part": "body",
+        "effective_at": null,
+        "derivation": "explicit",
+        "source_id": "7a0b25231f632ded36865076",
+        "source_revision": "9e4cddd7719496fbcca4fe0a",
+        "reference_source": null
+       },
+       {
+        "field_path": "/normal_service_exceptions",
+        "quote": "[서울=뉴스핌] 조수민 기자 = 서울교통공사 제1·2·3 노동조합이 오는 25일 총파업을 예고한 가운데, 노사가 하루 전인 24일 마지막 교섭에 나선다.",
+        "source_part": "body",
+        "effective_at": null,
+        "derivation": "explicit",
+        "source_id": "7a0b25231f632ded36865076",
+        "source_revision": "9e4cddd7719496fbcca4fe0a",
+        "reference_source": null
+       },
+       {
+        "field_path": "/normal_service_exceptions",
+        "quote": "서울시 및 사측과 합의에 이르지 못하면 25일 제1·2·3 노조는 무기한 파업을 시작한다.",
+        "source_part": "body",
+        "effective_at": null,
+        "derivation": "explicit",
+        "source_id": "7a0b25231f632ded36865076",
+        "source_revision": "9e4cddd7719496fbcca4fe0a",
+        "reference_source": null
+       },
+       {
+        "field_path": "/alternative_services",
+        "quote": "[서울=뉴스핌] 조수민 기자 = 서울교통공사 제1·2·3 노동조합이 오는 25일 총파업을 예고한 가운데, 노사가 하루 전인 24일 마지막 교섭에 나선다.",
+        "source_part": "body",
+        "effective_at": null,
+        "derivation": "explicit",
+        "source_id": "7a0b25231f632ded36865076",
+        "source_revision": "9e4cddd7719496fbcca4fe0a",
+        "reference_source": null
+       },
+       {
+        "field_path": "/alternative_services",
+        "quote": "서울시 및 사측과 합의에 이르지 못하면 25일 제1·2·3 노조는 무기한 파업을 시작한다.",
+        "source_part": "body",
+        "effective_at": null,
+        "derivation": "explicit",
+        "source_id": "7a0b25231f632ded36865076",
+        "source_revision": "9e4cddd7719496fbcca4fe0a",
+        "reference_source": null
+       },
+       {
+        "field_path": "/start",
+        "quote": "[서울=뉴스핌] 조수민 기자 = 서울교통공사 제1·2·3 노동조합이 오는 25일 총파업을 예고한 가운데, 노사가 하루 전인 24일 마지막 교섭에 나선다.",
+        "source_part": "body",
+        "effective_at": null,
+        "derivation": "explicit",
+        "source_id": "7a0b25231f632ded36865076",
+        "source_revision": "9e4cddd7719496fbcca4fe0a",
+        "reference_source": null
+       },
+       {
+        "field_path": "/start",
+        "quote": "서울시 및 사측과 합의에 이르지 못하면 25일 제1·2·3 노조는 무기한 파업을 시작한다.",
+        "source_part": "body",
+        "effective_at": null,
+        "derivation": "explicit",
+        "source_id": "7a0b25231f632ded36865076",
+        "source_revision": "9e4cddd7719496fbcca4fe0a",
+        "reference_source": null
+       },
+       {
+        "field_path": "/end",
+        "quote": "[서울=뉴스핌] 조수민 기자 = 서울교통공사 제1·2·3 노동조합이 오는 25일 총파업을 예고한 가운데, 노사가 하루 전인 24일 마지막 교섭에 나선다.",
+        "source_part": "body",
+        "effective_at": null,
+        "derivation": "explicit",
+        "source_id": "7a0b25231f632ded36865076",
+        "source_revision": "9e4cddd7719496fbcca4fe0a",
+        "reference_source": null
+       },
+       {
+        "field_path": "/end",
+        "quote": "서울시 및 사측과 합의에 이르지 못하면 25일 제1·2·3 노조는 무기한 파업을 시작한다.",
+        "source_part": "body",
+        "effective_at": null,
+        "derivation": "explicit",
+        "source_id": "7a0b25231f632ded36865076",
+        "source_revision": "9e4cddd7719496fbcca4fe0a",
+        "reference_source": null
+       }
+      ],
+      "review_reasons": [
+       "DATE_UNCONFIRMED"
+      ]
+     }
+    },
+    {
+     "article_relevance": "unrelated",
+     "transport_mode": "unknown",
+     "affected_regions": [],
+     "affected_routes": [],
+     "start": {
+      "raw": null,
+      "date": null,
+      "time": null,
+      "timezone": "Asia/Seoul",
+      "basis": "unknown",
+      "assertion": "unknown",
+      "open_ended": null
+     },
+     "end": {
+      "raw": null,
+      "date": null,
+      "time": null,
+      "timezone": "Asia/Seoul",
+      "basis": "unknown",
+      "assertion": "unknown",
+      "open_ended": null
+     },
+     "strike_status": {
+      "value": "unknown",
+      "conditions": [],
+      "scope_raw": null,
+      "effective_at": null
+     },
+     "service_status": [],
+     "normal_service_exceptions": [],
+     "alternative_services": [],
+     "evidence_and_timestamps": {
+      "source_url": "https://www.newspim.com/news/view/20261120000458",
+      "published_at": "2026-11-22T06:00:00+09:00",
+      "updated_at": "2026-11-22T06:00:00+09:00",
+      "collected_at": "2026-11-22T13:32:58.086204+09:00",
+      "field_evidence": [
+       {
+        "field_path": "/article_relevance",
+        "quote": "파업 여부를 가를 마지막 협상 자리가 될 것으로 보인다.",
+        "source_part": "body",
+        "effective_at": null,
+        "derivation": "explicit",
+        "source_id": "7a0b25231f632ded36865076",
+        "source_revision": "9e4cddd7719496fbcca4fe0a",
+        "reference_source": null
+       },
+       {
+        "field_path": "/transport_mode",
+        "quote": "파업 여부를 가를 마지막 협상 자리가 될 것으로 보인다.",
+        "source_part": "body",
+        "effective_at": null,
+        "derivation": "explicit",
+        "source_id": "7a0b25231f632ded36865076",
+        "source_revision": "9e4cddd7719496fbcca4fe0a",
+        "reference_source": null
+       },
+       {
+        "field_path": "/affected_regions",
+        "quote": "파업 여부를 가를 마지막 협상 자리가 될 것으로 보인다.",
+        "source_part": "body",
+        "effective_at": null,
+        "derivation": "explicit",
+        "source_id": "7a0b25231f632ded36865076",
+        "source_revision": "9e4cddd7719496fbcca4fe0a",
+        "reference_source": null
+       },
+       {
+        "field_path": "/affected_routes",
+        "quote": "파업 여부를 가를 마지막 협상 자리가 될 것으로 보인다.",
+        "source_part": "body",
+        "effective_at": null,
+        "derivation": "explicit",
+        "source_id": "7a0b25231f632ded36865076",
+        "source_revision": "9e4cddd7719496fbcca4fe0a",
+        "reference_source": null
+       },
+       {
+        "field_path": "/strike_status",
+        "quote": "파업 여부를 가를 마지막 협상 자리가 될 것으로 보인다.",
+        "source_part": "body",
+        "effective_at": null,
+        "derivation": "explicit",
+        "source_id": "7a0b25231f632ded36865076",
+        "source_revision": "9e4cddd7719496fbcca4fe0a",
+        "reference_source": null
+       },
+       {
+        "field_path": "/service_status",
+        "quote": "파업 여부를 가를 마지막 협상 자리가 될 것으로 보인다.",
+        "source_part": "body",
+        "effective_at": null,
+        "derivation": "explicit",
+        "source_id": "7a0b25231f632ded36865076",
+        "source_revision": "9e4cddd7719496fbcca4fe0a",
+        "reference_source": null
+       },
+       {
+        "field_path": "/normal_service_exceptions",
+        "quote": "파업 여부를 가를 마지막 협상 자리가 될 것으로 보인다.",
+        "source_part": "body",
+        "effective_at": null,
+        "derivation": "explicit",
+        "source_id": "7a0b25231f632ded36865076",
+        "source_revision": "9e4cddd7719496fbcca4fe0a",
+        "reference_source": null
+       },
+       {
+        "field_path": "/alternative_services",
+        "quote": "파업 여부를 가를 마지막 협상 자리가 될 것으로 보인다.",
+        "source_part": "body",
+        "effective_at": null,
+        "derivation": "explicit",
+        "source_id": "7a0b25231f632ded36865076",
+        "source_revision": "9e4cddd7719496fbcca4fe0a",
+        "reference_source": null
+       },
+       {
+        "field_path": "/start",
+        "quote": "파업 여부를 가를 마지막 협상 자리가 될 것으로 보인다.",
+        "source_part": "body",
+        "effective_at": null,
+        "derivation": "explicit",
+        "source_id": "7a0b25231f632ded36865076",
+        "source_revision": "9e4cddd7719496fbcca4fe0a",
+        "reference_source": null
+       },
+       {
+        "field_path": "/end",
+        "quote": "파업 여부를 가를 마지막 협상 자리가 될 것으로 보인다.",
+        "source_part": "body",
+        "effective_at": null,
+        "derivation": "explicit",
+        "source_id": "7a0b25231f632ded36865076",
+        "source_revision": "9e4cddd7719496fbcca4fe0a",
+        "reference_source": null
+       }
+      ],
+      "review_reasons": []
+     }
+    },
+    {
+     "article_relevance": "related",
+     "transport_mode": "unknown",
+     "affected_regions": [],
+     "affected_routes": [
+      {
+       "raw": "호선",
+       "normalized_name": "호선",
+       "region": null,
+       "reference_id": null,
+       "derivation": "article_explicit",
+       "reference_source": null
+      },
+      {
+       "raw": "1호선",
+       "normalized_name": "1호선",
+       "region": null,
+       "reference_id": null,
+       "derivation": "article_explicit",
+       "reference_source": null
+      },
+      {
+       "raw": "2호선",
+       "normalized_name": "2호선",
+       "region": null,
+       "reference_id": null,
+       "derivation": "article_explicit",
+       "reference_source": null
+      },
+      {
+       "raw": "본선",
+       "normalized_name": "본선",
+       "region": null,
+       "reference_id": null,
+       "derivation": "article_explicit",
+       "reference_source": null
+      },
+      {
+       "raw": "3호선",
+       "normalized_name": "3호선",
+       "region": null,
+       "reference_id": null,
+       "derivation": "article_explicit",
+       "reference_source": null
+      },
+      {
+       "raw": "4호선",
+       "normalized_name": "4호선",
+       "region": null,
+       "reference_id": null,
+       "derivation": "article_explicit",
+       "reference_source": null
+      },
+      {
+       "raw": "8호선",
+       "normalized_name": "8호선",
+       "region": null,
+       "reference_id": null,
+       "derivation": "article_explicit",
+       "reference_source": null
+      },
+      {
+       "raw": "최선",
+       "normalized_name": "최선",
+       "region": null,
+       "reference_id": null,
+       "derivation": "article_explicit",
+       "reference_source": null
+      }
+     ],
+     "start": {
+      "raw": null,
+      "date": null,
+      "time": null,
+      "timezone": "Asia/Seoul",
+      "basis": "unknown",
+      "assertion": "unknown",
+      "open_ended": null
+     },
+     "end": {
+      "raw": null,
+      "date": null,
+      "time": null,
+      "timezone": "Asia/Seoul",
+      "basis": "unknown",
+      "assertion": "unknown",
+      "open_ended": null
+     },
+     "strike_status": {
+      "value": "scheduled",
+      "conditions": [],
+      "scope_raw": "노조가 요구한 결원 충원 및 인력 감축 계획 철회를 서울교통공사 최대 주주인 서울시가 어느 수준까지 수용할지가 쟁점이다. 또 노조는 서울시가 공사 인력 감축 계획을 철회해야 한다고 주장하고 있다. 노조가 지정한 필수유지인원만 근무하고 그 외 모든 조합원들이 파업에 참여할 예정이다. 파업시 호선별 운행률은 평일 기준 ▲1호선 53.5% ▲2호선 72.9%(본선) ▲3호선 57.9% ▲4호선 56.4% ▲5~8호선 79.8% 등이다. 서울교통공사 사측은 파업시 비상대책본부를 가동할 계획이다. 공사 관계자는 \"파업으로 인한 시민 불편으로 이어지지 않도록 노동 조합과의 대화 창구를 열어두고, 상호 신뢰하에 성실히 교섭에 임할 수 있도록 최선을 다할 예정\"이라고 말했다.",
+      "effective_at": null
+     },
+     "service_status": [
+      {
+       "value": "reduced",
+       "assertion": "actual",
+       "raw": "노조가 요구한 결원 충원 및 인력 감축 계획 철회를 서울교통공사 최대 주주인 서울시가 어느 수준까지 수용할지가 쟁점이다.",
+       "scope": [],
+       "period": {
+        "start": {
+         "raw": null,
+         "date": null,
+         "time": null,
+         "timezone": "Asia/Seoul",
+         "basis": "unknown",
+         "assertion": "unknown",
+         "open_ended": null
+        },
+        "end": {
+         "raw": null,
+         "date": null,
+         "time": null,
+         "timezone": "Asia/Seoul",
+         "basis": "unknown",
+         "assertion": "unknown",
+         "open_ended": null
+        },
+        "precision": "UNKNOWN",
+        "condition": null
+       },
+       "metrics": []
+      },
+      {
+       "value": "reduced",
+       "assertion": "actual",
+       "raw": "또 노조는 서울시가 공사 인력 감축 계획을 철회해야 한다고 주장하고 있다.",
+       "scope": [],
+       "period": {
+        "start": {
+         "raw": null,
+         "date": null,
+         "time": null,
+         "timezone": "Asia/Seoul",
+         "basis": "unknown",
+         "assertion": "unknown",
+         "open_ended": null
+        },
+        "end": {
+         "raw": null,
+         "date": null,
+         "time": null,
+         "timezone": "Asia/Seoul",
+         "basis": "unknown",
+         "assertion": "unknown",
+         "open_ended": null
+        },
+        "precision": "UNKNOWN",
+        "condition": null
+       },
+       "metrics": []
+      }
+     ],
+     "normal_service_exceptions": [],
+     "alternative_services": [],
+     "evidence_and_timestamps": {
+      "source_url": "https://www.newspim.com/news/view/20261120000458",
+      "published_at": "2026-11-22T06:00:00+09:00",
+      "updated_at": "2026-11-22T06:00:00+09:00",
+      "collected_at": "2026-11-22T13:32:58.086204+09:00",
+      "field_evidence": [
+       {
+        "field_path": "/article_relevance",
+        "quote": "노조가 요구한 결원 충원 및 인력 감축 계획 철회를 서울교통공사 최대 주주인 서울시가 어느 수준까지 수용할지가 쟁점이다.",
+        "source_part": "body",
+        "effective_at": null,
+        "derivation": "explicit",
+        "source_id": "7a0b25231f632ded36865076",
+        "source_revision": "9e4cddd7719496fbcca4fe0a",
+        "reference_source": null
+       },
+       {
+        "field_path": "/article_relevance",
+        "quote": "또 노조는 서울시가 공사 인력 감축 계획을 철회해야 한다고 주장하고 있다.",
+        "source_part": "body",
+        "effective_at": null,
+        "derivation": "explicit",
+        "source_id": "7a0b25231f632ded36865076",
+        "source_revision": "9e4cddd7719496fbcca4fe0a",
+        "reference_source": null
+       },
+       {
+        "field_path": "/article_relevance",
+        "quote": "노조가 지정한 필수유지인원만 근무하고 그 외 모든 조합원들이 파업에 참여할 예정이다.",
+        "source_part": "body",
+        "effective_at": null,
+        "derivation": "explicit",
+        "source_id": "7a0b25231f632ded36865076",
+        "source_revision": "9e4cddd7719496fbcca4fe0a",
+        "reference_source": null
+       },
+       {
+        "field_path": "/article_relevance",
+        "quote": "파업시 호선별 운행률은 평일 기준 ▲1호선 53.5% ▲2호선 72.9%(본선) ▲3호선 57.9% ▲4호선 56.4% ▲5~8호선 79.8% 등이다.",
+        "source_part": "body",
+        "effective_at": null,
+        "derivation": "explicit",
+        "source_id": "7a0b25231f632ded36865076",
+        "source_revision": "9e4cddd7719496fbcca4fe0a",
+        "reference_source": null
+       },
+       {
+        "field_path": "/article_relevance",
+        "quote": "서울교통공사 사측은 파업시 비상대책본부를 가동할 계획이다.",
+        "source_part": "body",
+        "effective_at": null,
+        "derivation": "explicit",
+        "source_id": "7a0b25231f632ded36865076",
+        "source_revision": "9e4cddd7719496fbcca4fe0a",
+        "reference_source": null
+       },
+       {
+        "field_path": "/article_relevance",
+        "quote": "공사 관계자는 \"파업으로 인한 시민 불편으로 이어지지 않도록 노동 조합과의 대화 창구를 열어두고, 상호 신뢰하에 성실히 교섭에 임할 수 있도록 최선을 다할 예정\"이라고 말했다.",
+        "source_part": "body",
+        "effective_at": null,
+        "derivation": "explicit",
+        "source_id": "7a0b25231f632ded36865076",
+        "source_revision": "9e4cddd7719496fbcca4fe0a",
+        "reference_source": null
+       },
+       {
+        "field_path": "/transport_mode",
+        "quote": "노조가 요구한 결원 충원 및 인력 감축 계획 철회를 서울교통공사 최대 주주인 서울시가 어느 수준까지 수용할지가 쟁점이다.",
+        "source_part": "body",
+        "effective_at": null,
+        "derivation": "explicit",
+        "source_id": "7a0b25231f632ded36865076",
+        "source_revision": "9e4cddd7719496fbcca4fe0a",
+        "reference_source": null
+       },
+       {
+        "field_path": "/transport_mode",
+        "quote": "또 노조는 서울시가 공사 인력 감축 계획을 철회해야 한다고 주장하고 있다.",
+        "source_part": "body",
+        "effective_at": null,
+        "derivation": "explicit",
+        "source_id": "7a0b25231f632ded36865076",
+        "source_revision": "9e4cddd7719496fbcca4fe0a",
+        "reference_source": null
+       },
+       {
+        "field_path": "/transport_mode",
+        "quote": "노조가 지정한 필수유지인원만 근무하고 그 외 모든 조합원들이 파업에 참여할 예정이다.",
+        "source_part": "body",
+        "effective_at": null,
+        "derivation": "explicit",
+        "source_id": "7a0b25231f632ded36865076",
+        "source_revision": "9e4cddd7719496fbcca4fe0a",
+        "reference_source": null
+       },
+       {
+        "field_path": "/transport_mode",
+        "quote": "파업시 호선별 운행률은 평일 기준 ▲1호선 53.5% ▲2호선 72.9%(본선) ▲3호선 57.9% ▲4호선 56.4% ▲5~8호선 79.8% 등이다.",
+        "source_part": "body",
+        "effective_at": null,
+        "derivation": "explicit",
+        "source_id": "7a0b25231f632ded36865076",
+        "source_revision": "9e4cddd7719496fbcca4fe0a",
+        "reference_source": null
+       },
+       {
+        "field_path": "/transport_mode",
+        "quote": "서울교통공사 사측은 파업시 비상대책본부를 가동할 계획이다.",
+        "source_part": "body",
+        "effective_at": null,
+        "derivation": "explicit",
+        "source_id": "7a0b25231f632ded36865076",
+        "source_revision": "9e4cddd7719496fbcca4fe0a",
+        "reference_source": null
+       },
+       {
+        "field_path": "/transport_mode",
+        "quote": "공사 관계자는 \"파업으로 인한 시민 불편으로 이어지지 않도록 노동 조합과의 대화 창구를 열어두고, 상호 신뢰하에 성실히 교섭에 임할 수 있도록 최선을 다할 예정\"이라고 말했다.",
+        "source_part": "body",
+        "effective_at": null,
+        "derivation": "explicit",
+        "source_id": "7a0b25231f632ded36865076",
+        "source_revision": "9e4cddd7719496fbcca4fe0a",
+        "reference_source": null
+       },
+       {
+        "field_path": "/affected_regions",
+        "quote": "노조가 요구한 결원 충원 및 인력 감축 계획 철회를 서울교통공사 최대 주주인 서울시가 어느 수준까지 수용할지가 쟁점이다.",
+        "source_part": "body",
+        "effective_at": null,
+        "derivation": "explicit",
+        "source_id": "7a0b25231f632ded36865076",
+        "source_revision": "9e4cddd7719496fbcca4fe0a",
+        "reference_source": null
+       },
+       {
+        "field_path": "/affected_regions",
+        "quote": "또 노조는 서울시가 공사 인력 감축 계획을 철회해야 한다고 주장하고 있다.",
+        "source_part": "body",
+        "effective_at": null,
+        "derivation": "explicit",
+        "source_id": "7a0b25231f632ded36865076",
+        "source_revision": "9e4cddd7719496fbcca4fe0a",
+        "reference_source": null
+       },
+       {
+        "field_path": "/affected_regions",
+        "quote": "노조가 지정한 필수유지인원만 근무하고 그 외 모든 조합원들이 파업에 참여할 예정이다.",
+        "source_part": "body",
+        "effective_at": null,
+        "derivation": "explicit",
+        "source_id": "7a0b25231f632ded36865076",
+        "source_revision": "9e4cddd7719496fbcca4fe0a",
+        "reference_source": null
+       },
+       {
+        "field_path": "/affected_regions",
+        "quote": "파업시 호선별 운행률은 평일 기준 ▲1호선 53.5% ▲2호선 72.9%(본선) ▲3호선 57.9% ▲4호선 56.4% ▲5~8호선 79.8% 등이다.",
+        "source_part": "body",
+        "effective_at": null,
+        "derivation": "explicit",
+        "source_id": "7a0b25231f632ded36865076",
+        "source_revision": "9e4cddd7719496fbcca4fe0a",
+        "reference_source": null
+       },
+       {
+        "field_path": "/affected_regions",
+        "quote": "서울교통공사 사측은 파업시 비상대책본부를 가동할 계획이다.",
+        "source_part": "body",
+        "effective_at": null,
+        "derivation": "explicit",
+        "source_id": "7a0b25231f632ded36865076",
+        "source_revision": "9e4cddd7719496fbcca4fe0a",
+        "reference_source": null
+       },
+       {
+        "field_path": "/affected_regions",
+        "quote": "공사 관계자는 \"파업으로 인한 시민 불편으로 이어지지 않도록 노동 조합과의 대화 창구를 열어두고, 상호 신뢰하에 성실히 교섭에 임할 수 있도록 최선을 다할 예정\"이라고 말했다.",
+        "source_part": "body",
+        "effective_at": null,
+        "derivation": "explicit",
+        "source_id": "7a0b25231f632ded36865076",
+        "source_revision": "9e4cddd7719496fbcca4fe0a",
+        "reference_source": null
+       },
+       {
+        "field_path": "/affected_routes",
+        "quote": "노조가 요구한 결원 충원 및 인력 감축 계획 철회를 서울교통공사 최대 주주인 서울시가 어느 수준까지 수용할지가 쟁점이다.",
+        "source_part": "body",
+        "effective_at": null,
+        "derivation": "explicit",
+        "source_id": "7a0b25231f632ded36865076",
+        "source_revision": "9e4cddd7719496fbcca4fe0a",
+        "reference_source": null
+       },
+       {
+        "field_path": "/affected_routes",
+        "quote": "또 노조는 서울시가 공사 인력 감축 계획을 철회해야 한다고 주장하고 있다.",
+        "source_part": "body",
+        "effective_at": null,
+        "derivation": "explicit",
+        "source_id": "7a0b25231f632ded36865076",
+        "source_revision": "9e4cddd7719496fbcca4fe0a",
+        "reference_source": null
+       },
+       {
+        "field_path": "/affected_routes",
+        "quote": "노조가 지정한 필수유지인원만 근무하고 그 외 모든 조합원들이 파업에 참여할 예정이다.",
+        "source_part": "body",
+        "effective_at": null,
+        "derivation": "explicit",
+        "source_id": "7a0b25231f632ded36865076",
+        "source_revision": "9e4cddd7719496fbcca4fe0a",
+        "reference_source": null
+       },
+       {
+        "field_path": "/affected_routes",
+        "quote": "파업시 호선별 운행률은 평일 기준 ▲1호선 53.5% ▲2호선 72.9%(본선) ▲3호선 57.9% ▲4호선 56.4% ▲5~8호선 79.8% 등이다.",
+        "source_part": "body",
+        "effective_at": null,
+        "derivation": "explicit",
+        "source_id": "7a0b25231f632ded36865076",
+        "source_revision": "9e4cddd7719496fbcca4fe0a",
+        "reference_source": null
+       },
+       {
+        "field_path": "/affected_routes",
+        "quote": "서울교통공사 사측은 파업시 비상대책본부를 가동할 계획이다.",
+        "source_part": "body",
+        "effective_at": null,
+        "derivation": "explicit",
+        "source_id": "7a0b25231f632ded36865076",
+        "source_revision": "9e4cddd7719496fbcca4fe0a",
+        "reference_source": null
+       },
+       {
+        "field_path": "/affected_routes",
+        "quote": "공사 관계자는 \"파업으로 인한 시민 불편으로 이어지지 않도록 노동 조합과의 대화 창구를 열어두고, 상호 신뢰하에 성실히 교섭에 임할 수 있도록 최선을 다할 예정\"이라고 말했다.",
+        "source_part": "body",
+        "effective_at": null,
+        "derivation": "explicit",
+        "source_id": "7a0b25231f632ded36865076",
+        "source_revision": "9e4cddd7719496fbcca4fe0a",
+        "reference_source": null
+       },
+       {
+        "field_path": "/strike_status",
+        "quote": "노조가 요구한 결원 충원 및 인력 감축 계획 철회를 서울교통공사 최대 주주인 서울시가 어느 수준까지 수용할지가 쟁점이다.",
+        "source_part": "body",
+        "effective_at": null,
+        "derivation": "explicit",
+        "source_id": "7a0b25231f632ded36865076",
+        "source_revision": "9e4cddd7719496fbcca4fe0a",
+        "reference_source": null
+       },
+       {
+        "field_path": "/strike_status",
+        "quote": "또 노조는 서울시가 공사 인력 감축 계획을 철회해야 한다고 주장하고 있다.",
+        "source_part": "body",
+        "effective_at": null,
+        "derivation": "explicit",
+        "source_id": "7a0b25231f632ded36865076",
+        "source_revision": "9e4cddd7719496fbcca4fe0a",
+        "reference_source": null
+       },
+       {
+        "field_path": "/strike_status",
+        "quote": "노조가 지정한 필수유지인원만 근무하고 그 외 모든 조합원들이 파업에 참여할 예정이다.",
+        "source_part": "body",
+        "effective_at": null,
+        "derivation": "explicit",
+        "source_id": "7a0b25231f632ded36865076",
+        "source_revision": "9e4cddd7719496fbcca4fe0a",
+        "reference_source": null
+       },
+       {
+        "field_path": "/strike_status",
+        "quote": "파업시 호선별 운행률은 평일 기준 ▲1호선 53.5% ▲2호선 72.9%(본선) ▲3호선 57.9% ▲4호선 56.4% ▲5~8호선 79.8% 등이다.",
+        "source_part": "body",
+        "effective_at": null,
+        "derivation": "explicit",
+        "source_id": "7a0b25231f632ded36865076",
+        "source_revision": "9e4cddd7719496fbcca4fe0a",
+        "reference_source": null
+       },
+       {
+        "field_path": "/strike_status",
+        "quote": "서울교통공사 사측은 파업시 비상대책본부를 가동할 계획이다.",
+        "source_part": "body",
+        "effective_at": null,
+        "derivation": "explicit",
+        "source_id": "7a0b25231f632ded36865076",
+        "source_revision": "9e4cddd7719496fbcca4fe0a",
+        "reference_source": null
+       },
+       {
+        "field_path": "/strike_status",
+        "quote": "공사 관계자는 \"파업으로 인한 시민 불편으로 이어지지 않도록 노동 조합과의 대화 창구를 열어두고, 상호 신뢰하에 성실히 교섭에 임할 수 있도록 최선을 다할 예정\"이라고 말했다.",
+        "source_part": "body",
+        "effective_at": null,
+        "derivation": "explicit",
+        "source_id": "7a0b25231f632ded36865076",
+        "source_revision": "9e4cddd7719496fbcca4fe0a",
+        "reference_source": null
+       },
+       {
+        "field_path": "/service_status",
+        "quote": "노조가 요구한 결원 충원 및 인력 감축 계획 철회를 서울교통공사 최대 주주인 서울시가 어느 수준까지 수용할지가 쟁점이다.",
+        "source_part": "body",
+        "effective_at": null,
+        "derivation": "explicit",
+        "source_id": "7a0b25231f632ded36865076",
+        "source_revision": "9e4cddd7719496fbcca4fe0a",
+        "reference_source": null
+       },
+       {
+        "field_path": "/service_status",
+        "quote": "또 노조는 서울시가 공사 인력 감축 계획을 철회해야 한다고 주장하고 있다.",
+        "source_part": "body",
+        "effective_at": null,
+        "derivation": "explicit",
+        "source_id": "7a0b25231f632ded36865076",
+        "source_revision": "9e4cddd7719496fbcca4fe0a",
+        "reference_source": null
+       },
+       {
+        "field_path": "/service_status",
+        "quote": "노조가 지정한 필수유지인원만 근무하고 그 외 모든 조합원들이 파업에 참여할 예정이다.",
+        "source_part": "body",
+        "effective_at": null,
+        "derivation": "explicit",
+        "source_id": "7a0b25231f632ded36865076",
+        "source_revision": "9e4cddd7719496fbcca4fe0a",
+        "reference_source": null
+       },
+       {
+        "field_path": "/service_status",
+        "quote": "파업시 호선별 운행률은 평일 기준 ▲1호선 53.5% ▲2호선 72.9%(본선) ▲3호선 57.9% ▲4호선 56.4% ▲5~8호선 79.8% 등이다.",
+        "source_part": "body",
+        "effective_at": null,
+        "derivation": "explicit",
+        "source_id": "7a0b25231f632ded36865076",
+        "source_revision": "9e4cddd7719496fbcca4fe0a",
+        "reference_source": null
+       },
+       {
+        "field_path": "/service_status",
+        "quote": "서울교통공사 사측은 파업시 비상대책본부를 가동할 계획이다.",
+        "source_part": "body",
+        "effective_at": null,
+        "derivation": "explicit",
+        "source_id": "7a0b25231f632ded36865076",
+        "source_revision": "9e4cddd7719496fbcca4fe0a",
+        "reference_source": null
+       },
+       {
+        "field_path": "/service_status",
+        "quote": "공사 관계자는 \"파업으로 인한 시민 불편으로 이어지지 않도록 노동 조합과의 대화 창구를 열어두고, 상호 신뢰하에 성실히 교섭에 임할 수 있도록 최선을 다할 예정\"이라고 말했다.",
+        "source_part": "body",
+        "effective_at": null,
+        "derivation": "explicit",
+        "source_id": "7a0b25231f632ded36865076",
+        "source_revision": "9e4cddd7719496fbcca4fe0a",
+        "reference_source": null
+       },
+       {
+        "field_path": "/normal_service_exceptions",
+        "quote": "노조가 요구한 결원 충원 및 인력 감축 계획 철회를 서울교통공사 최대 주주인 서울시가 어느 수준까지 수용할지가 쟁점이다.",
+        "source_part": "body",
+        "effective_at": null,
+        "derivation": "explicit",
+        "source_id": "7a0b25231f632ded36865076",
+        "source_revision": "9e4cddd7719496fbcca4fe0a",
+        "reference_source": null
+       },
+       {
+        "field_path": "/normal_service_exceptions",
+        "quote": "또 노조는 서울시가 공사 인력 감축 계획을 철회해야 한다고 주장하고 있다.",
+        "source_part": "body",
+        "effective_at": null,
+        "derivation": "explicit",
+        "source_id": "7a0b25231f632ded36865076",
+        "source_revision": "9e4cddd7719496fbcca4fe0a",
+        "reference_source": null
+       },
+       {
+        "field_path": "/normal_service_exceptions",
+        "quote": "노조가 지정한 필수유지인원만 근무하고 그 외 모든 조합원들이 파업에 참여할 예정이다.",
+        "source_part": "body",
+        "effective_at": null,
+        "derivation": "explicit",
+        "source_id": "7a0b25231f632ded36865076",
+        "source_revision": "9e4cddd7719496fbcca4fe0a",
+        "reference_source": null
+       },
+       {
+        "field_path": "/normal_service_exceptions",
+        "quote": "파업시 호선별 운행률은 평일 기준 ▲1호선 53.5% ▲2호선 72.9%(본선) ▲3호선 57.9% ▲4호선 56.4% ▲5~8호선 79.8% 등이다.",
+        "source_part": "body",
+        "effective_at": null,
+        "derivation": "explicit",
+        "source_id": "7a0b25231f632ded36865076",
+        "source_revision": "9e4cddd7719496fbcca4fe0a",
+        "reference_source": null
+       },
+       {
+        "field_path": "/normal_service_exceptions",
+        "quote": "서울교통공사 사측은 파업시 비상대책본부를 가동할 계획이다.",
+        "source_part": "body",
+        "effective_at": null,
+        "derivation": "explicit",
+        "source_id": "7a0b25231f632ded36865076",
+        "source_revision": "9e4cddd7719496fbcca4fe0a",
+        "reference_source": null
+       },
+       {
+        "field_path": "/normal_service_exceptions",
+        "quote": "공사 관계자는 \"파업으로 인한 시민 불편으로 이어지지 않도록 노동 조합과의 대화 창구를 열어두고, 상호 신뢰하에 성실히 교섭에 임할 수 있도록 최선을 다할 예정\"이라고 말했다.",
+        "source_part": "body",
+        "effective_at": null,
+        "derivation": "explicit",
+        "source_id": "7a0b25231f632ded36865076",
+        "source_revision": "9e4cddd7719496fbcca4fe0a",
+        "reference_source": null
+       },
+       {
+        "field_path": "/alternative_services",
+        "quote": "노조가 요구한 결원 충원 및 인력 감축 계획 철회를 서울교통공사 최대 주주인 서울시가 어느 수준까지 수용할지가 쟁점이다.",
+        "source_part": "body",
+        "effective_at": null,
+        "derivation": "explicit",
+        "source_id": "7a0b25231f632ded36865076",
+        "source_revision": "9e4cddd7719496fbcca4fe0a",
+        "reference_source": null
+       },
+       {
+        "field_path": "/alternative_services",
+        "quote": "또 노조는 서울시가 공사 인력 감축 계획을 철회해야 한다고 주장하고 있다.",
+        "source_part": "body",
+        "effective_at": null,
+        "derivation": "explicit",
+        "source_id": "7a0b25231f632ded36865076",
+        "source_revision": "9e4cddd7719496fbcca4fe0a",
+        "reference_source": null
+       },
+       {
+        "field_path": "/alternative_services",
+        "quote": "노조가 지정한 필수유지인원만 근무하고 그 외 모든 조합원들이 파업에 참여할 예정이다.",
+        "source_part": "body",
+        "effective_at": null,
+        "derivation": "explicit",
+        "source_id": "7a0b25231f632ded36865076",
+        "source_revision": "9e4cddd7719496fbcca4fe0a",
+        "reference_source": null
+       },
+       {
+        "field_path": "/alternative_services",
+        "quote": "파업시 호선별 운행률은 평일 기준 ▲1호선 53.5% ▲2호선 72.9%(본선) ▲3호선 57.9% ▲4호선 56.4% ▲5~8호선 79.8% 등이다.",
+        "source_part": "body",
+        "effective_at": null,
+        "derivation": "explicit",
+        "source_id": "7a0b25231f632ded36865076",
+        "source_revision": "9e4cddd7719496fbcca4fe0a",
+        "reference_source": null
+       },
+       {
+        "field_path": "/alternative_services",
+        "quote": "서울교통공사 사측은 파업시 비상대책본부를 가동할 계획이다.",
+        "source_part": "body",
+        "effective_at": null,
+        "derivation": "explicit",
+        "source_id": "7a0b25231f632ded36865076",
+        "source_revision": "9e4cddd7719496fbcca4fe0a",
+        "reference_source": null
+       },
+       {
+        "field_path": "/alternative_services",
+        "quote": "공사 관계자는 \"파업으로 인한 시민 불편으로 이어지지 않도록 노동 조합과의 대화 창구를 열어두고, 상호 신뢰하에 성실히 교섭에 임할 수 있도록 최선을 다할 예정\"이라고 말했다.",
+        "source_part": "body",
+        "effective_at": null,
+        "derivation": "explicit",
+        "source_id": "7a0b25231f632ded36865076",
+        "source_revision": "9e4cddd7719496fbcca4fe0a",
+        "reference_source": null
+       },
+       {
+        "field_path": "/start",
+        "quote": "노조가 요구한 결원 충원 및 인력 감축 계획 철회를 서울교통공사 최대 주주인 서울시가 어느 수준까지 수용할지가 쟁점이다.",
+        "source_part": "body",
+        "effective_at": null,
+        "derivation": "explicit",
+        "source_id": "7a0b25231f632ded36865076",
+        "source_revision": "9e4cddd7719496fbcca4fe0a",
+        "reference_source": null
+       },
+       {
+        "field_path": "/start",
+        "quote": "또 노조는 서울시가 공사 인력 감축 계획을 철회해야 한다고 주장하고 있다.",
+        "source_part": "body",
+        "effective_at": null,
+        "derivation": "explicit",
+        "source_id": "7a0b25231f632ded36865076",
+        "source_revision": "9e4cddd7719496fbcca4fe0a",
+        "reference_source": null
+       },
+       {
+        "field_path": "/start",
+        "quote": "노조가 지정한 필수유지인원만 근무하고 그 외 모든 조합원들이 파업에 참여할 예정이다.",
+        "source_part": "body",
+        "effective_at": null,
+        "derivation": "explicit",
+        "source_id": "7a0b25231f632ded36865076",
+        "source_revision": "9e4cddd7719496fbcca4fe0a",
+        "reference_source": null
+       },
+       {
+        "field_path": "/start",
+        "quote": "파업시 호선별 운행률은 평일 기준 ▲1호선 53.5% ▲2호선 72.9%(본선) ▲3호선 57.9% ▲4호선 56.4% ▲5~8호선 79.8% 등이다.",
+        "source_part": "body",
+        "effective_at": null,
+        "derivation": "explicit",
+        "source_id": "7a0b25231f632ded36865076",
+        "source_revision": "9e4cddd7719496fbcca4fe0a",
+        "reference_source": null
+       },
+       {
+        "field_path": "/start",
+        "quote": "서울교통공사 사측은 파업시 비상대책본부를 가동할 계획이다.",
+        "source_part": "body",
+        "effective_at": null,
+        "derivation": "explicit",
+        "source_id": "7a0b25231f632ded36865076",
+        "source_revision": "9e4cddd7719496fbcca4fe0a",
+        "reference_source": null
+       },
+       {
+        "field_path": "/start",
+        "quote": "공사 관계자는 \"파업으로 인한 시민 불편으로 이어지지 않도록 노동 조합과의 대화 창구를 열어두고, 상호 신뢰하에 성실히 교섭에 임할 수 있도록 최선을 다할 예정\"이라고 말했다.",
+        "source_part": "body",
+        "effective_at": null,
+        "derivation": "explicit",
+        "source_id": "7a0b25231f632ded36865076",
+        "source_revision": "9e4cddd7719496fbcca4fe0a",
+        "reference_source": null
+       },
+       {
+        "field_path": "/end",
+        "quote": "노조가 요구한 결원 충원 및 인력 감축 계획 철회를 서울교통공사 최대 주주인 서울시가 어느 수준까지 수용할지가 쟁점이다.",
+        "source_part": "body",
+        "effective_at": null,
+        "derivation": "explicit",
+        "source_id": "7a0b25231f632ded36865076",
+        "source_revision": "9e4cddd7719496fbcca4fe0a",
+        "reference_source": null
+       },
+       {
+        "field_path": "/end",
+        "quote": "또 노조는 서울시가 공사 인력 감축 계획을 철회해야 한다고 주장하고 있다.",
+        "source_part": "body",
+        "effective_at": null,
+        "derivation": "explicit",
+        "source_id": "7a0b25231f632ded36865076",
+        "source_revision": "9e4cddd7719496fbcca4fe0a",
+        "reference_source": null
+       },
+       {
+        "field_path": "/end",
+        "quote": "노조가 지정한 필수유지인원만 근무하고 그 외 모든 조합원들이 파업에 참여할 예정이다.",
+        "source_part": "body",
+        "effective_at": null,
+        "derivation": "explicit",
+        "source_id": "7a0b25231f632ded36865076",
+        "source_revision": "9e4cddd7719496fbcca4fe0a",
+        "reference_source": null
+       },
+       {
+        "field_path": "/end",
+        "quote": "파업시 호선별 운행률은 평일 기준 ▲1호선 53.5% ▲2호선 72.9%(본선) ▲3호선 57.9% ▲4호선 56.4% ▲5~8호선 79.8% 등이다.",
+        "source_part": "body",
+        "effective_at": null,
+        "derivation": "explicit",
+        "source_id": "7a0b25231f632ded36865076",
+        "source_revision": "9e4cddd7719496fbcca4fe0a",
+        "reference_source": null
+       },
+       {
+        "field_path": "/end",
+        "quote": "서울교통공사 사측은 파업시 비상대책본부를 가동할 계획이다.",
+        "source_part": "body",
+        "effective_at": null,
+        "derivation": "explicit",
+        "source_id": "7a0b25231f632ded36865076",
+        "source_revision": "9e4cddd7719496fbcca4fe0a",
+        "reference_source": null
+       },
+       {
+        "field_path": "/end",
+        "quote": "공사 관계자는 \"파업으로 인한 시민 불편으로 이어지지 않도록 노동 조합과의 대화 창구를 열어두고, 상호 신뢰하에 성실히 교섭에 임할 수 있도록 최선을 다할 예정\"이라고 말했다.",
+        "source_part": "body",
+        "effective_at": null,
+        "derivation": "explicit",
+        "source_id": "7a0b25231f632ded36865076",
+        "source_revision": "9e4cddd7719496fbcca4fe0a",
+        "reference_source": null
+       }
+      ],
+      "review_reasons": [
+       "DATE_UNCONFIRMED"
+      ]
+     }
+    }
+   ],
+   "events": {
+    "schema_version": "1.0",
+    "article_relevance": "unrelated",
+    "processing_status": "success",
+    "source": {
+     "source_id": "7a0b25231f632ded36865076",
+     "source_url": "https://www.newspim.com/news/view/20261120000458",
+     "source_revision": "9e4cddd7719496fbcca4fe0a",
+     "published_at": "2026-11-22T06:00:00+09:00",
+     "updated_at": "2026-11-22T06:00:00+09:00",
+     "collected_at": "2026-11-22T13:32:58.086204+09:00"
+    },
+    "events": [],
+    "review_reasons": []
+   }
+  },
+  {
+   "strikes": [
+    {
+     "article_relevance": "related",
+     "transport_mode": "rail",
+     "affected_regions": [
+      {
+       "raw": "서울",
+       "normalized_name": "서울",
+       "region": "서울",
+       "reference_id": null,
+       "derivation": "article_explicit",
+       "reference_source": null
+      }
+     ],
+     "affected_routes": [
+      {
+       "raw": "서울역",
+       "normalized_name": "서울역",
+       "region": "서울",
+       "reference_id": null,
+       "derivation": "article_explicit",
+       "reference_source": null,
+       "direction": null,
+       "section": null
+      }
+     ],
+     "start": {
+      "raw": null,
+      "date": null,
+      "time": null,
+      "timezone": "Asia/Seoul",
+      "basis": "unknown",
+      "assertion": "unknown",
+      "open_ended": null
+     },
+     "end": {
+      "raw": null,
+      "date": null,
+      "time": null,
+      "timezone": "Asia/Seoul",
+      "basis": "unknown",
+      "assertion": "unknown",
+      "open_ended": null
+     },
+     "strike_status": {
+      "value": "unknown",
+      "conditions": [],
+      "scope_raw": "[서울=뉴시스] 김명년 기자 = 전국철도노동조합 조합원들이 11일 오전 서울 중구 서울역 동광장에서 총파업 선포 기자회견을 열고 있다.",
+      "effective_at": null
+     },
+     "service_status": [],
+     "normal_service_exceptions": [],
+     "alternative_services": [],
+     "evidence_and_timestamps": {
+      "source_url": "https://www.newsis.com/view/NISX20261120_0003876224",
+      "published_at": "2026-11-22T06:00:00+09:00",
+      "updated_at": null,
+      "collected_at": "2026-11-22T13:33:00.990551+09:00",
+      "field_evidence": [
+       {
+        "field_path": "/article_relevance",
+        "quote": "[서울=뉴시스] 김명년 기자 = 전국철도노동조합 조합원들이 11일 오전 서울 중구 서울역 동광장에서 총파업 선포 기자회견을 열고 있다.",
+        "source_part": "body",
+        "effective_at": null,
+        "derivation": "explicit",
+        "source_id": "0b887fe9ba6f1f95792cb0fd",
+        "source_revision": "f111b1edbe8b70a9cab1ff15",
+        "reference_source": null
+       },
+       {
+        "field_path": "/transport_mode",
+        "quote": "[서울=뉴시스] 김명년 기자 = 전국철도노동조합 조합원들이 11일 오전 서울 중구 서울역 동광장에서 총파업 선포 기자회견을 열고 있다.",
+        "source_part": "body",
+        "effective_at": null,
+        "derivation": "explicit",
+        "source_id": "0b887fe9ba6f1f95792cb0fd",
+        "source_revision": "f111b1edbe8b70a9cab1ff15",
+        "reference_source": null
+       },
+       {
+        "field_path": "/affected_regions",
+        "quote": "[서울=뉴시스] 김명년 기자 = 전국철도노동조합 조합원들이 11일 오전 서울 중구 서울역 동광장에서 총파업 선포 기자회견을 열고 있다.",
+        "source_part": "body",
+        "effective_at": null,
+        "derivation": "explicit",
+        "source_id": "0b887fe9ba6f1f95792cb0fd",
+        "source_revision": "f111b1edbe8b70a9cab1ff15",
+        "reference_source": null
+       },
+       {
+        "field_path": "/affected_routes",
+        "quote": "[서울=뉴시스] 김명년 기자 = 전국철도노동조합 조합원들이 11일 오전 서울 중구 서울역 동광장에서 총파업 선포 기자회견을 열고 있다.",
+        "source_part": "body",
+        "effective_at": null,
+        "derivation": "explicit",
+        "source_id": "0b887fe9ba6f1f95792cb0fd",
+        "source_revision": "f111b1edbe8b70a9cab1ff15",
+        "reference_source": null
+       },
+       {
+        "field_path": "/strike_status",
+        "quote": "[서울=뉴시스] 김명년 기자 = 전국철도노동조합 조합원들이 11일 오전 서울 중구 서울역 동광장에서 총파업 선포 기자회견을 열고 있다.",
+        "source_part": "body",
+        "effective_at": null,
+        "derivation": "explicit",
+        "source_id": "0b887fe9ba6f1f95792cb0fd",
+        "source_revision": "f111b1edbe8b70a9cab1ff15",
+        "reference_source": null
+       },
+       {
+        "field_path": "/service_status",
+        "quote": "[서울=뉴시스] 김명년 기자 = 전국철도노동조합 조합원들이 11일 오전 서울 중구 서울역 동광장에서 총파업 선포 기자회견을 열고 있다.",
+        "source_part": "body",
+        "effective_at": null,
+        "derivation": "explicit",
+        "source_id": "0b887fe9ba6f1f95792cb0fd",
+        "source_revision": "f111b1edbe8b70a9cab1ff15",
+        "reference_source": null
+       },
+       {
+        "field_path": "/normal_service_exceptions",
+        "quote": "[서울=뉴시스] 김명년 기자 = 전국철도노동조합 조합원들이 11일 오전 서울 중구 서울역 동광장에서 총파업 선포 기자회견을 열고 있다.",
+        "source_part": "body",
+        "effective_at": null,
+        "derivation": "explicit",
+        "source_id": "0b887fe9ba6f1f95792cb0fd",
+        "source_revision": "f111b1edbe8b70a9cab1ff15",
+        "reference_source": null
+       },
+       {
+        "field_path": "/alternative_services",
+        "quote": "[서울=뉴시스] 김명년 기자 = 전국철도노동조합 조합원들이 11일 오전 서울 중구 서울역 동광장에서 총파업 선포 기자회견을 열고 있다.",
+        "source_part": "body",
+        "effective_at": null,
+        "derivation": "explicit",
+        "source_id": "0b887fe9ba6f1f95792cb0fd",
+        "source_revision": "f111b1edbe8b70a9cab1ff15",
+        "reference_source": null
+       },
+       {
+        "field_path": "/start",
+        "quote": "[서울=뉴시스] 김명년 기자 = 전국철도노동조합 조합원들이 11일 오전 서울 중구 서울역 동광장에서 총파업 선포 기자회견을 열고 있다.",
+        "source_part": "body",
+        "effective_at": null,
+        "derivation": "explicit",
+        "source_id": "0b887fe9ba6f1f95792cb0fd",
+        "source_revision": "f111b1edbe8b70a9cab1ff15",
+        "reference_source": null
+       },
+       {
+        "field_path": "/end",
+        "quote": "[서울=뉴시스] 김명년 기자 = 전국철도노동조합 조합원들이 11일 오전 서울 중구 서울역 동광장에서 총파업 선포 기자회견을 열고 있다.",
+        "source_part": "body",
+        "effective_at": null,
+        "derivation": "explicit",
+        "source_id": "0b887fe9ba6f1f95792cb0fd",
+        "source_revision": "f111b1edbe8b70a9cab1ff15",
+        "reference_source": null
+       }
+      ],
+      "review_reasons": [
+       "UNSUPPORTED_OR_AMBIGUOUS_STATUS",
+       "DATE_UNCONFIRMED"
+      ]
+     }
+    },
+    {
+     "article_relevance": "unrelated",
+     "transport_mode": "unknown",
+     "affected_regions": [],
+     "affected_routes": [],
+     "start": {
+      "raw": null,
+      "date": null,
+      "time": null,
+      "timezone": "Asia/Seoul",
+      "basis": "unknown",
+      "assertion": "unknown",
+      "open_ended": null
+     },
+     "end": {
+      "raw": null,
+      "date": null,
+      "time": null,
+      "timezone": "Asia/Seoul",
+      "basis": "unknown",
+      "assertion": "unknown",
+      "open_ended": null
+     },
+     "strike_status": {
+      "value": "unknown",
+      "conditions": [
+       "철도노조는 현장 배치제 폐지와 승진독식 철폐, 안전인력 충원 등을 요구하며, 요구사항이 받아들여지지 않을 경우 오는 12월 총파업에 돌입하겠다고 밝혔다."
+      ],
+      "scope_raw": null,
+      "effective_at": null
+     },
+     "service_status": [],
+     "normal_service_exceptions": [],
+     "alternative_services": [],
+     "evidence_and_timestamps": {
+      "source_url": "https://www.newsis.com/view/NISX20261120_0003876224",
+      "published_at": "2026-11-22T06:00:00+09:00",
+      "updated_at": null,
+      "collected_at": "2026-11-22T13:33:00.990551+09:00",
+      "field_evidence": [
+       {
+        "field_path": "/article_relevance",
+        "quote": "철도노조는 현장 배치제 폐지와 승진독식 철폐, 안전인력 충원 등을 요구하며, 요구사항이 받아들여지지 않을 경우 오는 12월 총파업에 돌입하겠다고 밝혔다.",
+        "source_part": "body",
+        "effective_at": null,
+        "derivation": "explicit",
+        "source_id": "0b887fe9ba6f1f95792cb0fd",
+        "source_revision": "f111b1edbe8b70a9cab1ff15",
+        "reference_source": null
+       },
+       {
+        "field_path": "/transport_mode",
+        "quote": "철도노조는 현장 배치제 폐지와 승진독식 철폐, 안전인력 충원 등을 요구하며, 요구사항이 받아들여지지 않을 경우 오는 12월 총파업에 돌입하겠다고 밝혔다.",
+        "source_part": "body",
+        "effective_at": null,
+        "derivation": "explicit",
+        "source_id": "0b887fe9ba6f1f95792cb0fd",
+        "source_revision": "f111b1edbe8b70a9cab1ff15",
+        "reference_source": null
+       },
+       {
+        "field_path": "/affected_regions",
+        "quote": "철도노조는 현장 배치제 폐지와 승진독식 철폐, 안전인력 충원 등을 요구하며, 요구사항이 받아들여지지 않을 경우 오는 12월 총파업에 돌입하겠다고 밝혔다.",
+        "source_part": "body",
+        "effective_at": null,
+        "derivation": "explicit",
+        "source_id": "0b887fe9ba6f1f95792cb0fd",
+        "source_revision": "f111b1edbe8b70a9cab1ff15",
+        "reference_source": null
+       },
+       {
+        "field_path": "/affected_routes",
+        "quote": "철도노조는 현장 배치제 폐지와 승진독식 철폐, 안전인력 충원 등을 요구하며, 요구사항이 받아들여지지 않을 경우 오는 12월 총파업에 돌입하겠다고 밝혔다.",
+        "source_part": "body",
+        "effective_at": null,
+        "derivation": "explicit",
+        "source_id": "0b887fe9ba6f1f95792cb0fd",
+        "source_revision": "f111b1edbe8b70a9cab1ff15",
+        "reference_source": null
+       },
+       {
+        "field_path": "/strike_status",
+        "quote": "철도노조는 현장 배치제 폐지와 승진독식 철폐, 안전인력 충원 등을 요구하며, 요구사항이 받아들여지지 않을 경우 오는 12월 총파업에 돌입하겠다고 밝혔다.",
+        "source_part": "body",
+        "effective_at": null,
+        "derivation": "explicit",
+        "source_id": "0b887fe9ba6f1f95792cb0fd",
+        "source_revision": "f111b1edbe8b70a9cab1ff15",
+        "reference_source": null
+       },
+       {
+        "field_path": "/service_status",
+        "quote": "철도노조는 현장 배치제 폐지와 승진독식 철폐, 안전인력 충원 등을 요구하며, 요구사항이 받아들여지지 않을 경우 오는 12월 총파업에 돌입하겠다고 밝혔다.",
+        "source_part": "body",
+        "effective_at": null,
+        "derivation": "explicit",
+        "source_id": "0b887fe9ba6f1f95792cb0fd",
+        "source_revision": "f111b1edbe8b70a9cab1ff15",
+        "reference_source": null
+       },
+       {
+        "field_path": "/normal_service_exceptions",
+        "quote": "철도노조는 현장 배치제 폐지와 승진독식 철폐, 안전인력 충원 등을 요구하며, 요구사항이 받아들여지지 않을 경우 오는 12월 총파업에 돌입하겠다고 밝혔다.",
+        "source_part": "body",
+        "effective_at": null,
+        "derivation": "explicit",
+        "source_id": "0b887fe9ba6f1f95792cb0fd",
+        "source_revision": "f111b1edbe8b70a9cab1ff15",
+        "reference_source": null
+       },
+       {
+        "field_path": "/alternative_services",
+        "quote": "철도노조는 현장 배치제 폐지와 승진독식 철폐, 안전인력 충원 등을 요구하며, 요구사항이 받아들여지지 않을 경우 오는 12월 총파업에 돌입하겠다고 밝혔다.",
+        "source_part": "body",
+        "effective_at": null,
+        "derivation": "explicit",
+        "source_id": "0b887fe9ba6f1f95792cb0fd",
+        "source_revision": "f111b1edbe8b70a9cab1ff15",
+        "reference_source": null
+       },
+       {
+        "field_path": "/start",
+        "quote": "철도노조는 현장 배치제 폐지와 승진독식 철폐, 안전인력 충원 등을 요구하며, 요구사항이 받아들여지지 않을 경우 오는 12월 총파업에 돌입하겠다고 밝혔다.",
+        "source_part": "body",
+        "effective_at": null,
+        "derivation": "explicit",
+        "source_id": "0b887fe9ba6f1f95792cb0fd",
+        "source_revision": "f111b1edbe8b70a9cab1ff15",
+        "reference_source": null
+       },
+       {
+        "field_path": "/end",
+        "quote": "철도노조는 현장 배치제 폐지와 승진독식 철폐, 안전인력 충원 등을 요구하며, 요구사항이 받아들여지지 않을 경우 오는 12월 총파업에 돌입하겠다고 밝혔다.",
+        "source_part": "body",
+        "effective_at": null,
+        "derivation": "explicit",
+        "source_id": "0b887fe9ba6f1f95792cb0fd",
+        "source_revision": "f111b1edbe8b70a9cab1ff15",
+        "reference_source": null
+       }
+      ],
+      "review_reasons": []
+     }
+    }
+   ],
+   "events": {
+    "schema_version": "1.0",
+    "article_relevance": "unrelated",
+    "processing_status": "success",
+    "source": {
+     "source_id": "0b887fe9ba6f1f95792cb0fd",
+     "source_url": "https://www.newsis.com/view/NISX20261120_0003876224",
+     "source_revision": "f111b1edbe8b70a9cab1ff15",
+     "published_at": "2026-11-22T06:00:00+09:00",
+     "updated_at": null,
+     "collected_at": "2026-11-22T13:33:00.990551+09:00"
     },
     "events": [],
     "review_reasons": []
@@ -19266,7 +19396,7 @@
       "source_url": "https://www.imaeil.com/page/view/2026111417131297761",
       "published_at": null,
       "updated_at": null,
-      "collected_at": "2026-11-22T10:05:26.221272+09:00",
+      "collected_at": "2026-11-22T13:33:04.741727+09:00",
       "field_evidence": [
        {
         "field_path": "/article_relevance",
@@ -19610,7 +19740,7 @@
       "source_url": "https://www.imaeil.com/page/view/2026111417131297761",
       "published_at": null,
       "updated_at": null,
-      "collected_at": "2026-11-22T10:05:26.221272+09:00",
+      "collected_at": "2026-11-22T13:33:04.741727+09:00",
       "field_evidence": [
        {
         "field_path": "/article_relevance",
@@ -19730,7 +19860,7 @@
      "source_revision": "79344459f900a196bff2714a",
      "published_at": null,
      "updated_at": null,
-     "collected_at": "2026-11-22T10:05:26.221272+09:00"
+     "collected_at": "2026-11-22T13:33:04.741727+09:00"
     },
     "events": [],
     "review_reasons": []
@@ -19776,7 +19906,7 @@
       "source_url": "https://www.seoul.co.kr/news/plan/Runner-supply-depot/2026/11/19/20261119500228?wlog_tag3=naver",
       "published_at": "2026-11-19T16:22:34+09:00",
       "updated_at": "2026-11-19T16:22:34+09:00",
-      "collected_at": "2026-11-22T10:05:28.013916+09:00",
+      "collected_at": "2026-11-22T13:33:06.597306+09:00",
       "field_evidence": [
        {
         "field_path": "/article_relevance",
@@ -19893,7 +20023,7 @@
      "source_revision": "753ca72fcce132802d39d5d5",
      "published_at": "2026-11-19T16:22:34+09:00",
      "updated_at": "2026-11-19T16:22:34+09:00",
-     "collected_at": "2026-11-22T10:05:28.013916+09:00"
+     "collected_at": "2026-11-22T13:33:06.597306+09:00"
     },
     "events": [
      {
@@ -20460,12 +20590,8 @@
  "transportReferences": [],
  "extractionFailures": [
   {
-   "source_url": "https://www.yna.co.kr/view/AKR20261120172900004?input=1195m",
+   "source_url": "https://www.yna.co.kr/view/AKR20261122023200004?input=1195m",
    "status": "validation_failed"
-  },
-  {
-   "source_url": "https://www.newsis.com/view/NISX20261120_0003877260",
-   "status": "body_fetch_failed"
   },
   {
    "source_url": "http://www.metroseoul.co.kr/article/20261120500170",
