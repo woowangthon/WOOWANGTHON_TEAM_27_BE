@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-24T13:00:32.767477+09:00",
+ "generatedAt": "2026-11-24T14:26:15.533228+09:00",
  "windowDays": 14,
  "queries": [
   "버스 파업",
@@ -17,8 +17,73 @@
    "url": "https://www.ncloud.com/product/applicationService/naverApiHub"
   }
  ],
- "articles": 240,
+ "articles": 248,
  "searchResults": [
+  {
+   "url": "https://vop.co.kr/A00001697746.html",
+   "title": "웰리브·조선하청지회, 12월 9일 공동파업 선포 한화오션 원청교섭 압박",
+   "query": "버스 파업"
+  },
+  {
+   "url": "https://biz.sbs.co.kr/article_hub/20000348523?division=NAVER",
+   "title": "서울 지하철 파업 대비…출근길 100% 운행·버스 3천500회 증편",
+   "query": "버스 파업"
+  },
+  {
+   "url": "https://news.skbroadband.com/news/articleView.html?idxno=244070",
+   "title": "오세훈, \"시내버스 필수 공익 사업 지정해야\"",
+   "query": "버스 파업"
+  },
+  {
+   "url": "https://www.todaykorea.co.kr/news/articleView.html?idxno=409100",
+   "title": "서교공 노사 최종교섭···결렬 시 25일 첫차부터 총파업",
+   "query": "버스 파업"
+  },
+  {
+   "url": "https://news.skbroadband.com/news/articleView.html?idxno=244073",
+   "title": "서울시, 지하철 파업 대비 '비상 수송 대책' 가동",
+   "query": "버스 파업"
+  },
+  {
+   "url": "https://www.newswhoplus.com/news/articleView.html?idxno=75248",
+   "title": "서울 지하철 25일 파업 예고…출근길 정상 운행·버스 3,519회 증편",
+   "query": "버스 파업"
+  },
+  {
+   "url": "https://www.topstarnews.net/news/articleView.html?idxno=16284801",
+   "title": "서울 지하철 파업, 25일 첫차부터 예고…1~8호선 출근시간 100% 운행·버...",
+   "query": "버스 파업"
+  },
+  {
+   "url": "http://www.yonhapnewstv.co.kr/news/MYH202611241350495y2",
+   "title": "서울 지하철 총파업 예고…노사 최종 담판 진행중",
+   "query": "버스 파업"
+  },
+  {
+   "url": "https://www.ntoday.co.kr/news/articleView.html?idxno=131090",
+   "title": "서울지하철 파업 D-1, 인력 감축 놓고 평행선…노사 극적 합의할까",
+   "query": "버스 파업"
+  },
+  {
+   "url": "http://www.yonhapnewstv.co.kr/news/MYH20261124132129IIo",
+   "title": "'총파업 예고' 서울 지하철…노사 최종 담판 시작",
+   "query": "버스 파업"
+  },
+  {
+   "url": "https://www.mt.co.kr/policy/2026/11/24/2026112411284651227",
+   "title": "'총파업 D-1' 서울지하철 노조 \"사측, 구체적 답변 없어 교섭 정회\"",
+   "query": "버스 파업"
+  },
+  {
+   "url": "https://www.segye.com/newsView/20261124509387?OutUrl=naver",
+   "title": "서울지하철 총파업 초읽기… 막판 교섭에 쏠린 눈",
+   "query": "버스 파업"
+  },
+  {
+   "url": "https://www.discoverynews.kr/news/articleView.html?idxno=1107685",
+   "title": "서울시, 시내버스 필수공익사업 지정 논의 국회 정책토론회 개최",
+   "query": "버스 파업"
+  },
   {
    "url": "https://www.discoverynews.kr/news/articleView.html?idxno=1107684",
    "title": "서울시, 25일 지하철 1~8호선 파업 예고에 비상수송대책 가동",
@@ -105,13 +170,13 @@
    "query": "버스 파업"
   },
   {
-   "url": "https://www.newsian.co.kr/news/articleView.html?idxno=101905",
-   "title": "서울 지하철 25일 총파업 예고…출근길 100% 운행, 전체 운행률은 81%로...",
+   "url": "http://www.inews24.com/view/2029645",
+   "title": "서울지하철 노사, 총파업 앞두고 막판 교섭…서울시 비상수송대책 가동",
    "query": "버스 파업"
   },
   {
-   "url": "http://www.inews24.com/view/2029645",
-   "title": "서울지하철 노사, 총파업 앞두고 막판 교섭…서울시 비상수송대책 가동",
+   "url": "https://www.newsian.co.kr/news/articleView.html?idxno=101905",
+   "title": "서울 지하철 25일 총파업 예고…출근길 100% 운행, 전체 운행률은 81%로...",
    "query": "버스 파업"
   },
   {
@@ -145,8 +210,8 @@
    "query": "버스 파업"
   },
   {
-   "url": "https://www.obsnews.co.kr/news/articleView.html?idxno=1544774",
-   "title": "서울시, 지하철 파업에 '버스 증편' 비상수송대책 마련",
+   "url": "https://www.yna.co.kr/view/AKR20261124062300011?input=1195m",
+   "title": "[연합뉴스 이 시각 헤드라인] - 10:30",
    "query": "버스 파업"
   },
   {
@@ -155,18 +220,8 @@
    "query": "버스 파업"
   },
   {
-   "url": "https://www.yna.co.kr/view/AKR20261124062300011?input=1195m",
-   "title": "[연합뉴스 이 시각 헤드라인] - 10:30",
-   "query": "버스 파업"
-  },
-  {
-   "url": "https://www.newdaily.co.kr/site/data/html/2026/11/24/2026112450107.html",
-   "title": "서울시, 지하철 총파업 대비 수송력 총동원 … 시내버스 3519회 증편",
-   "query": "버스 파업"
-  },
-  {
-   "url": "https://www.ajunews.com/view/20261124101259357",
-   "title": "서울시 \"파업해도 출근길 지하철 100%\"…시내버스 3519회 증편",
+   "url": "https://www.obsnews.co.kr/news/articleView.html?idxno=1544774",
+   "title": "서울시, 지하철 파업에 '버스 증편' 비상수송대책 마련",
    "query": "버스 파업"
   },
   {
@@ -180,6 +235,16 @@
    "query": "버스 파업"
   },
   {
+   "url": "https://www.ajunews.com/view/20261124101259357",
+   "title": "서울시 \"파업해도 출근길 지하철 100%\"…시내버스 3519회 증편",
+   "query": "버스 파업"
+  },
+  {
+   "url": "https://www.newdaily.co.kr/site/data/html/2026/11/24/2026112450107.html",
+   "title": "서울시, 지하철 총파업 대비 수송력 총동원 … 시내버스 3519회 증편",
+   "query": "버스 파업"
+  },
+  {
    "url": "https://www.ajunews.com/view/20261124101612368",
    "title": "지하철 파업 D-1...서울시 \"버스 3519회 늘리고, 100% 정상 운행\"",
    "query": "버스 파업"
@@ -190,13 +255,13 @@
    "query": "버스 파업"
   },
   {
-   "url": "https://www.youthdaily.co.kr/news/article.html?no=230237",
-   "title": "25일 서울 지하철 파업 대비…출근길 '100% 정상 운행'",
+   "url": "https://www.nocutnews.co.kr/news/6611558?utm_source=naver&utm_medium=article&utm_campaign=20261124101200",
+   "title": "서울 지하철 25일 총파업 예고…\"출근길 정상 운행 등 비상수송대책 마...",
    "query": "버스 파업"
   },
   {
-   "url": "https://www.nocutnews.co.kr/news/6611558?utm_source=naver&utm_medium=article&utm_campaign=20261124101200",
-   "title": "서울 지하철 25일 총파업 예고…\"출근길 정상 운행 등 비상수송대책 마...",
+   "url": "https://www.youthdaily.co.kr/news/article.html?no=230237",
+   "title": "25일 서울 지하철 파업 대비…출근길 '100% 정상 운행'",
    "query": "버스 파업"
   },
   {
@@ -205,83 +270,73 @@
    "query": "버스 파업"
   },
   {
-   "url": "https://www.hinews.co.kr/view.php?ud=202611241004433619284fab1e4_48",
-   "title": "서울시, 25일 지하철 파업 예고에 '비상수송대책' 가동...출근길 열차 유...",
-   "query": "버스 파업"
+   "url": "https://www.ngetnews.com/news/articleView.html?idxno=556262",
+   "title": "서울지하철 노사, 파업 전 마지막 협상 돌입",
+   "query": "지하철 파업"
   },
   {
-   "url": "http://mbn.mk.co.kr/pages/news/newsView.php?category=mbn00009&news_seq_no=5232601",
-   "title": "'지하철 파업 D-1' 서울시, 비상수송대책 마련…\"불편 최소화\"",
-   "query": "버스 파업"
+   "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8721021&ref=A",
+   "title": "서울 지하철 총파업 D-1…노사 막판 교섭",
+   "query": "지하철 파업"
   },
   {
-   "url": "https://www.jeonmae.co.kr/news/articleView.html?idxno=1315109",
-   "title": "서울 지하철 25일 파업 대비…출근시간 운행률 100% 유지",
-   "query": "버스 파업"
+   "url": "https://www.news1.kr/photos/8230251",
+   "title": "서울 지하철, 파업 앞두고 릴레이 임금교섭",
+   "query": "지하철 파업"
   },
   {
-   "url": "https://www.mdtoday.co.kr/news/articleView.html?idxno=627255",
-   "title": "서울시, 지하철 파업 대비 출근시간 100% 운행…버스 3519회 증회",
-   "query": "버스 파업"
+   "url": "https://www.news1.kr/photos/8230247",
+   "title": "서울교통공사, 파업 앞두고 릴레이 임단협",
+   "query": "지하철 파업"
   },
   {
-   "url": "https://www.ppss.kr/news/articleView.html?idxno=322435",
-   "title": "서울시, 시내버스 '필수공익사업' 지정 추진…파업에도 운행 유지",
-   "query": "버스 파업"
+   "url": "https://www.news1.kr/photos/8230249",
+   "title": "서울지하철 파업 D-1, 임단협 최종교섭 정회",
+   "query": "지하철 파업"
   },
   {
-   "url": "https://www.khan.co.kr/article/202611240954001",
-   "title": "“출근 시간대 100% 운행”···서울시, 지하철 1~8호선 파업 대비 비상...",
-   "query": "버스 파업"
+   "url": "https://www.nocutnews.co.kr/news/6611719?utm_source=naver&utm_medium=article&utm_campaign=20261124134102",
+   "title": "서울지하철 노사 막판 협상 돌입…결렬 땐 내일 첫차부터 파업",
+   "query": "지하철 파업"
   },
   {
-   "url": "https://www.lecturernews.com/news/articleView.html?idxno=214435",
-   "title": "서울시, 11월 25일 지하철 파업 대비 비상수송대책 가동…출근길 지하철...",
-   "query": "버스 파업"
+   "url": "https://www.nocutnews.co.kr/news/6611720?utm_source=naver&utm_medium=article&utm_campaign=20261124134002",
+   "title": "서울 지하철 파업 D-1…노사 막판 협상 돌입",
+   "query": "지하철 파업"
   },
   {
-   "url": "https://www.slist.kr/news/articleView.html?idxno=784323",
-   "title": "서울 지하철 25일 파업 예고…출근길 정상 운행·버스 3519회 증편 등 비...",
-   "query": "버스 파업"
+   "url": "https://www.nocutnews.co.kr/news/6611721?utm_source=naver&utm_medium=article&utm_campaign=20261124133902",
+   "title": "서울 지하철 3년 만 총파업 기로",
+   "query": "지하철 파업"
   },
   {
-   "url": "https://www.hankookilbo.com/news/article/A2026112409230001708?did=NA",
-   "title": "\"25일 지하철 파업해도 출근길 100% 정상 운행… 퇴근길은 일부 감축\"",
-   "query": "버스 파업"
+   "url": "https://www.nocutnews.co.kr/news/6611722?utm_source=naver&utm_medium=article&utm_campaign=20261124133802",
+   "title": "서울 지하철 파업 D-1…노사 막판 담판 돌입",
+   "query": "지하철 파업"
   },
   {
-   "url": "https://www.hg-times.com/news/articleView.html?idxno=307281",
-   "title": "서울 지하철(1~8호선) 파업 막판 협상... '결렬시 무기한 파업'",
-   "query": "버스 파업"
+   "url": "https://www.nocutnews.co.kr/news/6611723?utm_source=naver&utm_medium=article&utm_campaign=20261124133702",
+   "title": "'서울 지하철 멈추나'…총파업 D-1",
+   "query": "지하철 파업"
   },
   {
-   "url": "https://www.pennmike.com/news/articleView.html?idxno=132590",
-   "title": "서울시, 25일 지하철 파업에도 출근길 100% 운행…시내버스 3519회 늘리고...",
-   "query": "버스 파업"
+   "url": "https://www.nocutnews.co.kr/news/6611724?utm_source=naver&utm_medium=article&utm_campaign=20261124133602",
+   "title": "서울 지하철 총파업 D-1",
+   "query": "지하철 파업"
   },
   {
-   "url": "https://www.pennmike.com/news/articleView.html?idxno=132593",
-   "title": "서울 지하철 25일 첫차부터 무기한 파업 예고…인력 감축 철회 vs 재정 ...",
-   "query": "버스 파업"
+   "url": "https://news.tf.co.kr/read/life/2392647.htm",
+   "title": "서울지하철 노사 최종교섭 돌입…신규채용 입장차 여전",
+   "query": "지하철 파업"
   },
   {
-   "url": "https://www.yna.co.kr/view/AKR20261124049200004?input=1195m",
-   "title": "서울시, 25일 지하철 파업 대비 비상수송대책…\"출근길 뚫는다\"",
-   "query": "버스 파업"
+   "url": "https://www.obsnews.co.kr/news/articleView.html?idxno=1544786",
+   "title": "서울지하철 노사 최종 교섭 정회…신규 채용 이견",
+   "query": "지하철 파업"
   },
   {
    "url": "https://www.newscj.com/news/articleView.html?idxno=3451590",
    "title": "[포토] 서울교통공사 노사, 최종 교섭 중",
-   "query": "지하철 파업"
-  },
-  {
-   "url": "https://www.newscj.com/news/articleView.html?idxno=3451588",
-   "title": "[포토] '서울 지하철 멈추나'",
-   "query": "지하철 파업"
-  },
-  {
-   "url": "https://www.newscj.com/news/articleView.html?idxno=3451585",
-   "title": "[포토] 최종 교섭 돌입한 서울교통공사 노사",
    "query": "지하철 파업"
   },
   {
@@ -290,8 +345,13 @@
    "query": "지하철 파업"
   },
   {
-   "url": "https://www.newscj.com/news/articleView.html?idxno=3451583",
-   "title": "[포토] '서울 지하철 파업 D-1' 노사 최종교섭 중",
+   "url": "https://www.newscj.com/news/articleView.html?idxno=3451585",
+   "title": "[포토] 최종 교섭 돌입한 서울교통공사 노사",
+   "query": "지하철 파업"
+  },
+  {
+   "url": "https://www.newscj.com/news/articleView.html?idxno=3451588",
+   "title": "[포토] '서울 지하철 멈추나'",
    "query": "지하철 파업"
   },
   {
@@ -300,13 +360,18 @@
    "query": "지하철 파업"
   },
   {
-   "url": "https://www.newscj.com/news/articleView.html?idxno=3451581",
-   "title": "[포토] '서울 지하철 파업 D-1'",
+   "url": "https://www.newscj.com/news/articleView.html?idxno=3451583",
+   "title": "[포토] '서울 지하철 파업 D-1' 노사 최종교섭 중",
    "query": "지하철 파업"
   },
   {
    "url": "https://www.newscj.com/news/articleView.html?idxno=3451579",
    "title": "[포토] '서울 지하철 파업하나'",
+   "query": "지하철 파업"
+  },
+  {
+   "url": "https://www.newscj.com/news/articleView.html?idxno=3451581",
+   "title": "[포토] '서울 지하철 파업 D-1'",
    "query": "지하철 파업"
   },
   {
@@ -325,13 +390,13 @@
    "query": "지하철 파업"
   },
   {
-   "url": "https://www.ajunews.com/view/20261124112517840",
-   "title": "서울 지하철 노사, 신규 채용 결론 못내리고 최종 교섭 정회",
+   "url": "https://biz.sbs.co.kr/article_hub/20000348459?division=NAVER",
+   "title": "출퇴근 대란 막을까…서울지하철 노사 막판담판 돌입",
    "query": "지하철 파업"
   },
   {
-   "url": "https://biz.sbs.co.kr/article_hub/20000348459?division=NAVER",
-   "title": "출퇴근 대란 막을까…서울지하철 노사 막판담판 돌입",
+   "url": "https://www.ajunews.com/view/20261124112517840",
+   "title": "서울 지하철 노사, 신규 채용 결론 못내리고 최종 교섭 정회",
    "query": "지하철 파업"
   },
   {
@@ -360,53 +425,28 @@
    "query": "지하철 파업"
   },
   {
-   "url": "https://www.news1.kr/photos/8229996",
-   "title": "서울지하철 파업 D-1, 최종 임금 교섭 개시",
-   "query": "지하철 파업"
+   "url": "https://www.mdtoday.co.kr/news/articleView.html?idxno=627255",
+   "title": "서울시, 지하철 파업 대비 출근시간 100% 운행…버스 3519회 증회",
+   "query": "철도 파업"
   },
   {
-   "url": "https://imnews.imbc.com/news/2026/society/article/6868102_36918.html",
-   "title": "서울지하철 노사, 파업 전 최종 교섭 중‥결렬 땐 내일 첫차부터 파업",
-   "query": "지하철 파업"
+   "url": "https://www.ppss.kr/news/articleView.html?idxno=322435",
+   "title": "서울시, 시내버스 '필수공익사업' 지정 추진…파업에도 운행 유지",
+   "query": "철도 파업"
   },
   {
-   "url": "https://www.news1.kr/photos/8229941",
-   "title": "서울교통공사 노사, 파업 앞두고 릴레이 교섭",
-   "query": "지하철 파업"
-  },
-  {
-   "url": "https://www.newspim.com/news/view/20261124000539",
-   "title": "서울 지하철 총파업 D-1…노사 막판 최종 교섭",
-   "query": "지하철 파업"
-  },
-  {
-   "url": "https://www.ajunews.com/view/20261124100644323",
-   "title": "서울지하철 노조, 최종 교섭 앞두고 집회…\"결렬 땐 25일 무기한 총파업...",
-   "query": "지하철 파업"
-  },
-  {
-   "url": "https://www.news1.kr/photos/8229803",
-   "title": "최종 임금교섭 자리한 김정섭 서울교통공사노조위원장, 결렬 시 총파업",
-   "query": "지하철 파업"
-  },
-  {
-   "url": "https://www.news1.kr/photos/8229705",
-   "title": "서울 지하철 총파업 기로",
-   "query": "지하철 파업"
-  },
-  {
-   "url": "https://www.news1.kr/photos/8229702",
-   "title": "서울 지하철 노사 최종 교섭…결렬 시 총파업",
-   "query": "지하철 파업"
-  },
-  {
-   "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8720870&ref=A",
-   "title": "철도노조 다음 달 총파업…경남 영향은?",
+   "url": "https://www.lecturernews.com/news/articleView.html?idxno=214435",
+   "title": "서울시, 11월 25일 지하철 파업 대비 비상수송대책 가동…출근길 지하철...",
    "query": "철도 파업"
   },
   {
    "url": "https://www.ytn.co.kr/_ln/0134_202611240952255432",
    "title": "연말연시 서울시민 발 묶이나...지하철 최종교섭, 결렬 시 25일부터 '총...",
+   "query": "철도 파업"
+  },
+  {
+   "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8720870&ref=A",
+   "title": "철도노조 다음 달 총파업…경남 영향은?",
    "query": "철도 파업"
   },
   {
@@ -490,8 +530,8 @@
    "query": "철도 파업"
   },
   {
-   "url": "https://www.mt.co.kr/estate/2026/11/24/2026112315265225128",
-   "title": "\"철도노조 준법투쟁 일단 연기했지만\"…국토부·코레일 수장 시험대",
+   "url": "https://www.newsworks.co.kr/news/articleView.html?idxno=904118",
+   "title": "[출근길 브리핑-11월 24일] 李대통령, 국정원 등 6개 부처 개각·최태원...",
    "query": "철도 파업"
   },
   {
@@ -500,8 +540,8 @@
    "query": "철도 파업"
   },
   {
-   "url": "https://www.newsworks.co.kr/news/articleView.html?idxno=904118",
-   "title": "[출근길 브리핑-11월 24일] 李대통령, 국정원 등 6개 부처 개각·최태원...",
+   "url": "https://www.mt.co.kr/estate/2026/11/24/2026112315265225128",
+   "title": "\"철도노조 준법투쟁 일단 연기했지만\"…국토부·코레일 수장 시험대",
    "query": "철도 파업"
   },
   {
@@ -605,16 +645,6 @@
    "query": "철도 파업"
   },
   {
-   "url": "https://www.joongang.co.kr/article/25481151",
-   "title": "시내버스 파업으로 수십억 투입…‘필수공익사업’ 지정해야",
-   "query": "철도 파업"
-  },
-  {
-   "url": "https://www.hani.co.kr/arti/area/capital/1288689.html",
-   "title": "오세훈, 통상임금 판결 뒤 ‘버스 파업 가능성’…필수공익사업 지정 촉...",
-   "query": "철도 파업"
-  },
-  {
    "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008860325&plink=ORI&cooper=NAVER",
    "title": "서울 지하철 노조 막판 교섭 돌입…결렬 시 총파업",
    "query": "파업 예고 운행"
@@ -625,23 +655,33 @@
    "query": "파업 예고 운행"
   },
   {
-   "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8720844&ref=A",
-   "title": "서울교통공사 노조 내일 파업 예고…서울시 비상수송대책 가동",
+   "url": "https://www.hinews.co.kr/view.php?ud=202611241004433619284fab1e4_48",
+   "title": "서울시, 25일 지하철 파업 예고에 '비상수송대책' 가동...출근길 열차 유...",
    "query": "파업 예고 운행"
   },
   {
-   "url": "https://www.fnnews.com/news/202611240926477244",
-   "title": "서울시, 지하철 파업 대비 비상수송대책..버스 3519회 증회",
+   "url": "http://mbn.mk.co.kr/pages/news/newsView.php?category=mbn00009&news_seq_no=5232601",
+   "title": "'지하철 파업 D-1' 서울시, 비상수송대책 마련…\"불편 최소화\"",
    "query": "파업 예고 운행"
   },
   {
-   "url": "https://www.topstarnews.net/news/articleView.html?idxno=16284591",
-   "title": "서울 지하철 25일 총파업…노선별 운행·비상수송대책?",
+   "url": "https://www.jeonmae.co.kr/news/articleView.html?idxno=1315109",
+   "title": "서울 지하철 25일 파업 대비…출근시간 운행률 100% 유지",
    "query": "파업 예고 운행"
   },
   {
-   "url": "https://www.econovill.com/news/articleView.html?idxno=758287",
-   "title": "지바이크, 지하철 파업 출퇴근 공백 메운다",
+   "url": "https://www.slist.kr/news/articleView.html?idxno=784323",
+   "title": "서울 지하철 25일 파업 예고…출근길 정상 운행·버스 3519회 증편 등 비...",
+   "query": "파업 예고 운행"
+  },
+  {
+   "url": "https://www.hankookilbo.com/news/article/A2026112409230001708?did=NA",
+   "title": "\"25일 지하철 파업해도 출근길 100% 정상 운행… 퇴근길은 일부 감축\"",
+   "query": "파업 예고 운행"
+  },
+  {
+   "url": "https://www.hg-times.com/news/articleView.html?idxno=307281",
+   "title": "서울 지하철(1~8호선) 파업 막판 협상... '결렬시 무기한 파업'",
    "query": "파업 예고 운행"
   },
   {
@@ -783,6 +823,11 @@
    "url": "https://www.thepublic.kr/news/articleView.html?idxno=325857",
    "title": "고정밀 지도 상륙 초읽기…네·카·T맵, 구글 공세 맞서 '초정밀 맞대응...",
    "query": "집회 교통 통제"
+  },
+  {
+   "url": "https://www.livesnews.com/news/article.html?no=66301",
+   "title": "한창한 영종구의회 부의장, 인천마라톤 운영 비판…“주민 이동권부터...",
+   "query": "마라톤 도로 통제"
   },
   {
    "url": "https://www.xportsnews.com/article/2222294",
@@ -1025,11 +1070,6 @@
    "query": "마라톤 도로 통제"
   },
   {
-   "url": "https://www.kpinews.kr/newsView/1065574075205542",
-   "title": "내년 대구마라톤 3만2천명 참가",
-   "query": "마라톤 도로 통제"
-  },
-  {
    "url": "https://biz.heraldcorp.com/article/10946755?ref=naver",
    "title": "대구시, 삼성라이온즈 한국시리즈 우승 ‘카퍼레이드’ 오는 29일 진행",
    "query": "축제 버스 우회"
@@ -1222,20 +1262,20 @@
  ],
  "strikes": [
   {
-   "id": "8d92090de968d87f",
+   "id": "ed497d247e55aa36",
    "mode": "subway",
    "operator": "서울교통공사",
    "regions": [
     "서울"
    ],
    "status": "scheduled",
-   "quote": "오는 25일 첫차부터 파업을 예고함에 따라",
+   "quote": "내일(25일) 예고된 지하철 파업",
    "start": "2026-11-25",
-   "dateQuote": "오는 25일",
-   "articleTitle": "서울시, 25일 지하철 1~8호선 파업 예고에 비상수송대책 가동",
-   "url": "https://www.discoverynews.kr/news/articleView.html?idxno=1107684",
-   "publishedAt": "2026-11-24T12:58:00.000",
-   "sourceCount": 92,
+   "dateQuote": "내일(25일)",
+   "articleTitle": "서울 지하철 파업 대비…출근길 100% 운행·버스 3천500회 증편",
+   "url": "https://biz.sbs.co.kr/article_hub/20000348523?division=NAVER",
+   "publishedAt": "2026-11-24T14:19:00.000",
+   "sourceCount": 100,
    "model": "gemini-3.5-flash-lite"
   },
   {
@@ -14697,7 +14737,7 @@
   },
   {
    "assertion": "planned",
-   "checked_at": "2026-11-24T13:00:08.255186+09:00",
+   "checked_at": "2026-11-24T14:25:48.517395+09:00",
    "conflict": false,
    "demo": false,
    "disruption_confirmed": false,
@@ -14858,7 +14898,7 @@
   },
   {
    "assertion": "planned",
-   "checked_at": "2026-11-24T13:00:08.255186+09:00",
+   "checked_at": "2026-11-24T14:25:48.517395+09:00",
    "conflict": false,
    "demo": false,
    "disruption_confirmed": false,
@@ -15018,7 +15058,7 @@
   },
   {
    "assertion": "planned",
-   "checked_at": "2026-11-24T13:00:08.255186+09:00",
+   "checked_at": "2026-11-24T14:25:48.517395+09:00",
    "conflict": false,
    "demo": false,
    "disruption_confirmed": false,
@@ -15227,7 +15267,7 @@
   },
   {
    "assertion": "planned",
-   "checked_at": "2026-11-24T13:00:14.153242+09:00",
+   "checked_at": "2026-11-24T14:25:54.326015+09:00",
    "conflict": false,
    "demo": false,
    "disruption_confirmed": false,
@@ -15496,7 +15536,7 @@
   },
   {
    "assertion": "planned",
-   "checked_at": "2026-11-24T13:00:14.153242+09:00",
+   "checked_at": "2026-11-24T14:25:54.326015+09:00",
    "conflict": false,
    "demo": false,
    "disruption_confirmed": false,
@@ -15658,7 +15698,7 @@
   },
   {
    "assertion": "planned",
-   "checked_at": "2026-11-24T13:00:30.688381+09:00",
+   "checked_at": "2026-11-24T14:26:12.495783+09:00",
    "conflict": false,
    "demo": false,
    "disruption_confirmed": true,
@@ -16057,7 +16097,7 @@
   },
   {
    "assertion": "planned",
-   "checked_at": "2026-11-24T13:00:30.688381+09:00",
+   "checked_at": "2026-11-24T14:26:12.495783+09:00",
    "conflict": false,
    "demo": false,
    "disruption_confirmed": false,
@@ -16255,7 +16295,7 @@
       "source_url": "https://www.yna.co.kr/view/AKR20261124062300011?input=1195m",
       "published_at": "2026-11-24T10:30:00+09:00",
       "updated_at": "2026-11-24T10:30:00+09:00",
-      "collected_at": "2026-11-24T13:00:08.255186+09:00",
+      "collected_at": "2026-11-24T14:25:48.517395+09:00",
       "field_evidence": [
        {
         "field_path": "/article_relevance",
@@ -16408,7 +16448,7 @@
       "source_url": "https://www.yna.co.kr/view/AKR20261124062300011?input=1195m",
       "published_at": "2026-11-24T10:30:00+09:00",
       "updated_at": "2026-11-24T10:30:00+09:00",
-      "collected_at": "2026-11-24T13:00:08.255186+09:00",
+      "collected_at": "2026-11-24T14:25:48.517395+09:00",
       "field_evidence": [
        {
         "field_path": "/article_relevance",
@@ -16609,7 +16649,7 @@
       "source_url": "https://www.yna.co.kr/view/AKR20261124062300011?input=1195m",
       "published_at": "2026-11-24T10:30:00+09:00",
       "updated_at": "2026-11-24T10:30:00+09:00",
-      "collected_at": "2026-11-24T13:00:08.255186+09:00",
+      "collected_at": "2026-11-24T14:25:48.517395+09:00",
       "field_evidence": [
        {
         "field_path": "/article_relevance",
@@ -16729,168 +16769,7 @@
      "source_revision": "e7025cbbd2f88282c9115743",
      "published_at": "2026-11-24T10:30:00+09:00",
      "updated_at": "2026-11-24T10:30:00+09:00",
-     "collected_at": "2026-11-24T13:00:08.255186+09:00"
-    },
-    "events": [],
-    "review_reasons": []
-   }
-  },
-  {
-   "strikes": [
-    {
-     "article_relevance": "unrelated",
-     "transport_mode": "unknown",
-     "affected_regions": [],
-     "affected_routes": [],
-     "start": {
-      "raw": null,
-      "date": null,
-      "time": null,
-      "timezone": "Asia/Seoul",
-      "basis": "unknown",
-      "assertion": "unknown",
-      "open_ended": null
-     },
-     "end": {
-      "raw": null,
-      "date": null,
-      "time": null,
-      "timezone": "Asia/Seoul",
-      "basis": "unknown",
-      "assertion": "unknown",
-      "open_ended": null
-     },
-     "strike_status": {
-      "value": "unknown",
-      "conditions": [],
-      "scope_raw": null,
-      "effective_at": null
-     },
-     "service_status": [],
-     "normal_service_exceptions": [],
-     "alternative_services": [],
-     "evidence_and_timestamps": {
-      "source_url": "https://www.newsis.com/view/NISX20261124_0003880861",
-      "published_at": "2026-11-24T11:57:01+09:00",
-      "updated_at": null,
-      "collected_at": "2026-11-24T13:00:10.748564+09:00",
-      "field_evidence": [
-       {
-        "field_path": "/article_relevance",
-        "quote": "[서울=뉴시스] 조성우 기자 = 서울 지하철 노사가 올해 임금·단체협약을 위한 최종 교섭에 나서는 24일 오전 서울 중구 지하철 1호선 서울역 승강장이 시민들로 붐비고 있다. 2026.11.24. [email protected]",
-        "source_part": "body",
-        "effective_at": null,
-        "derivation": "explicit",
-        "source_id": "61b39baa51590695a3f0e98d",
-        "source_revision": "f652309e1fbc1e4cad7b6068",
-        "reference_source": null
-       },
-       {
-        "field_path": "/transport_mode",
-        "quote": "[서울=뉴시스] 조성우 기자 = 서울 지하철 노사가 올해 임금·단체협약을 위한 최종 교섭에 나서는 24일 오전 서울 중구 지하철 1호선 서울역 승강장이 시민들로 붐비고 있다. 2026.11.24. [email protected]",
-        "source_part": "body",
-        "effective_at": null,
-        "derivation": "explicit",
-        "source_id": "61b39baa51590695a3f0e98d",
-        "source_revision": "f652309e1fbc1e4cad7b6068",
-        "reference_source": null
-       },
-       {
-        "field_path": "/affected_regions",
-        "quote": "[서울=뉴시스] 조성우 기자 = 서울 지하철 노사가 올해 임금·단체협약을 위한 최종 교섭에 나서는 24일 오전 서울 중구 지하철 1호선 서울역 승강장이 시민들로 붐비고 있다. 2026.11.24. [email protected]",
-        "source_part": "body",
-        "effective_at": null,
-        "derivation": "explicit",
-        "source_id": "61b39baa51590695a3f0e98d",
-        "source_revision": "f652309e1fbc1e4cad7b6068",
-        "reference_source": null
-       },
-       {
-        "field_path": "/affected_routes",
-        "quote": "[서울=뉴시스] 조성우 기자 = 서울 지하철 노사가 올해 임금·단체협약을 위한 최종 교섭에 나서는 24일 오전 서울 중구 지하철 1호선 서울역 승강장이 시민들로 붐비고 있다. 2026.11.24. [email protected]",
-        "source_part": "body",
-        "effective_at": null,
-        "derivation": "explicit",
-        "source_id": "61b39baa51590695a3f0e98d",
-        "source_revision": "f652309e1fbc1e4cad7b6068",
-        "reference_source": null
-       },
-       {
-        "field_path": "/strike_status",
-        "quote": "[서울=뉴시스] 조성우 기자 = 서울 지하철 노사가 올해 임금·단체협약을 위한 최종 교섭에 나서는 24일 오전 서울 중구 지하철 1호선 서울역 승강장이 시민들로 붐비고 있다. 2026.11.24. [email protected]",
-        "source_part": "body",
-        "effective_at": null,
-        "derivation": "explicit",
-        "source_id": "61b39baa51590695a3f0e98d",
-        "source_revision": "f652309e1fbc1e4cad7b6068",
-        "reference_source": null
-       },
-       {
-        "field_path": "/service_status",
-        "quote": "[서울=뉴시스] 조성우 기자 = 서울 지하철 노사가 올해 임금·단체협약을 위한 최종 교섭에 나서는 24일 오전 서울 중구 지하철 1호선 서울역 승강장이 시민들로 붐비고 있다. 2026.11.24. [email protected]",
-        "source_part": "body",
-        "effective_at": null,
-        "derivation": "explicit",
-        "source_id": "61b39baa51590695a3f0e98d",
-        "source_revision": "f652309e1fbc1e4cad7b6068",
-        "reference_source": null
-       },
-       {
-        "field_path": "/normal_service_exceptions",
-        "quote": "[서울=뉴시스] 조성우 기자 = 서울 지하철 노사가 올해 임금·단체협약을 위한 최종 교섭에 나서는 24일 오전 서울 중구 지하철 1호선 서울역 승강장이 시민들로 붐비고 있다. 2026.11.24. [email protected]",
-        "source_part": "body",
-        "effective_at": null,
-        "derivation": "explicit",
-        "source_id": "61b39baa51590695a3f0e98d",
-        "source_revision": "f652309e1fbc1e4cad7b6068",
-        "reference_source": null
-       },
-       {
-        "field_path": "/alternative_services",
-        "quote": "[서울=뉴시스] 조성우 기자 = 서울 지하철 노사가 올해 임금·단체협약을 위한 최종 교섭에 나서는 24일 오전 서울 중구 지하철 1호선 서울역 승강장이 시민들로 붐비고 있다. 2026.11.24. [email protected]",
-        "source_part": "body",
-        "effective_at": null,
-        "derivation": "explicit",
-        "source_id": "61b39baa51590695a3f0e98d",
-        "source_revision": "f652309e1fbc1e4cad7b6068",
-        "reference_source": null
-       },
-       {
-        "field_path": "/start",
-        "quote": "[서울=뉴시스] 조성우 기자 = 서울 지하철 노사가 올해 임금·단체협약을 위한 최종 교섭에 나서는 24일 오전 서울 중구 지하철 1호선 서울역 승강장이 시민들로 붐비고 있다. 2026.11.24. [email protected]",
-        "source_part": "body",
-        "effective_at": null,
-        "derivation": "explicit",
-        "source_id": "61b39baa51590695a3f0e98d",
-        "source_revision": "f652309e1fbc1e4cad7b6068",
-        "reference_source": null
-       },
-       {
-        "field_path": "/end",
-        "quote": "[서울=뉴시스] 조성우 기자 = 서울 지하철 노사가 올해 임금·단체협약을 위한 최종 교섭에 나서는 24일 오전 서울 중구 지하철 1호선 서울역 승강장이 시민들로 붐비고 있다. 2026.11.24. [email protected]",
-        "source_part": "body",
-        "effective_at": null,
-        "derivation": "explicit",
-        "source_id": "61b39baa51590695a3f0e98d",
-        "source_revision": "f652309e1fbc1e4cad7b6068",
-        "reference_source": null
-       }
-      ],
-      "review_reasons": []
-     }
-    }
-   ],
-   "events": {
-    "schema_version": "1.0",
-    "article_relevance": "unrelated",
-    "processing_status": "success",
-    "source": {
-     "source_id": "61b39baa51590695a3f0e98d",
-     "source_url": "https://www.newsis.com/view/NISX20261124_0003880861",
-     "source_revision": "f652309e1fbc1e4cad7b6068",
-     "published_at": "2026-11-24T11:57:01+09:00",
-     "updated_at": null,
-     "collected_at": "2026-11-24T13:00:10.748564+09:00"
+     "collected_at": "2026-11-24T14:25:48.517395+09:00"
     },
     "events": [],
     "review_reasons": []
@@ -16960,7 +16839,7 @@
       "source_url": "https://www.khan.co.kr/article/202611240930001",
       "published_at": "2026-11-24T09:30:00+09:00",
       "updated_at": null,
-      "collected_at": "2026-11-24T13:00:14.153242+09:00",
+      "collected_at": "2026-11-24T14:25:54.326015+09:00",
       "field_evidence": [
        {
         "field_path": "/article_relevance",
@@ -17204,7 +17083,7 @@
       "source_url": "https://www.khan.co.kr/article/202611240930001",
       "published_at": "2026-11-24T09:30:00+09:00",
       "updated_at": null,
-      "collected_at": "2026-11-24T13:00:14.153242+09:00",
+      "collected_at": "2026-11-24T14:25:54.326015+09:00",
       "field_evidence": [
        {
         "field_path": "/article_relevance",
@@ -17576,7 +17455,7 @@
       "source_url": "https://www.khan.co.kr/article/202611240930001",
       "published_at": "2026-11-24T09:30:00+09:00",
       "updated_at": null,
-      "collected_at": "2026-11-24T13:00:14.153242+09:00",
+      "collected_at": "2026-11-24T14:25:54.326015+09:00",
       "field_evidence": [
        {
         "field_path": "/article_relevance",
@@ -17920,7 +17799,7 @@
       "source_url": "https://www.khan.co.kr/article/202611240930001",
       "published_at": "2026-11-24T09:30:00+09:00",
       "updated_at": null,
-      "collected_at": "2026-11-24T13:00:14.153242+09:00",
+      "collected_at": "2026-11-24T14:25:54.326015+09:00",
       "field_evidence": [
        {
         "field_path": "/article_relevance",
@@ -18062,7 +17941,7 @@
       "source_url": "https://www.khan.co.kr/article/202611240930001",
       "published_at": "2026-11-24T09:30:00+09:00",
       "updated_at": null,
-      "collected_at": "2026-11-24T13:00:14.153242+09:00",
+      "collected_at": "2026-11-24T14:25:54.326015+09:00",
       "field_evidence": [
        {
         "field_path": "/article_relevance",
@@ -18222,7 +18101,7 @@
       "source_url": "https://www.khan.co.kr/article/202611240930001",
       "published_at": "2026-11-24T09:30:00+09:00",
       "updated_at": null,
-      "collected_at": "2026-11-24T13:00:14.153242+09:00",
+      "collected_at": "2026-11-24T14:25:54.326015+09:00",
       "field_evidence": [
        {
         "field_path": "/article_relevance",
@@ -18342,7 +18221,7 @@
      "source_revision": "880f8be9b2452159d5c830e5",
      "published_at": "2026-11-24T09:30:00+09:00",
      "updated_at": null,
-     "collected_at": "2026-11-24T13:00:14.153242+09:00"
+     "collected_at": "2026-11-24T14:25:54.326015+09:00"
     },
     "events": [],
     "review_reasons": []
@@ -18386,7 +18265,7 @@
       "source_url": "https://www.yna.co.kr/view/AKR20261118007000079?input=1195m",
       "published_at": "2026-11-18T03:43:59+09:00",
       "updated_at": "2026-11-18T09:34:21+09:00",
-      "collected_at": "2026-11-24T13:00:18.629565+09:00",
+      "collected_at": "2026-11-24T14:25:55.737003+09:00",
       "field_evidence": [
        {
         "field_path": "/article_relevance",
@@ -18503,7 +18382,7 @@
      "source_revision": "803fca1dcdf7c4adcd01d505",
      "published_at": "2026-11-18T03:43:59+09:00",
      "updated_at": "2026-11-18T09:34:21+09:00",
-     "collected_at": "2026-11-24T13:00:18.629565+09:00"
+     "collected_at": "2026-11-24T14:25:55.737003+09:00"
     },
     "events": [],
     "review_reasons": [
@@ -18551,7 +18430,7 @@
       "source_url": "https://www.seoul.co.kr/news/plan/Runner-supply-depot/2026/11/20/20261120035001?wlog_tag3=naver",
       "published_at": "2026-11-19T21:59:02+09:00",
       "updated_at": "2026-11-20T00:36:32+09:00",
-      "collected_at": "2026-11-24T13:00:23.480552+09:00",
+      "collected_at": "2026-11-24T14:26:02.816453+09:00",
       "field_evidence": [
        {
         "field_path": "/article_relevance",
@@ -18668,7 +18547,7 @@
      "source_revision": "c4d046686ccf98cf899b53b9",
      "published_at": "2026-11-19T21:59:02+09:00",
      "updated_at": "2026-11-20T00:36:32+09:00",
-     "collected_at": "2026-11-24T13:00:23.480552+09:00"
+     "collected_at": "2026-11-24T14:26:02.816453+09:00"
     },
     "events": [
      {
@@ -19521,7 +19400,7 @@
       "source_url": "https://www.newsis.com/view/NISX20261123_0003879971",
       "published_at": "2026-11-24T06:26:23+09:00",
       "updated_at": null,
-      "collected_at": "2026-11-24T13:00:26.569972+09:00",
+      "collected_at": "2026-11-24T14:26:08.693653+09:00",
       "field_evidence": [
        {
         "field_path": "/article_relevance",
@@ -19638,7 +19517,7 @@
      "source_revision": "a3429d4f1ceabe16aba867fc",
      "published_at": "2026-11-24T06:26:23+09:00",
      "updated_at": null,
-     "collected_at": "2026-11-24T13:00:26.569972+09:00"
+     "collected_at": "2026-11-24T14:26:08.693653+09:00"
     },
     "events": [],
     "review_reasons": []
@@ -19731,7 +19610,7 @@
       "source_url": "https://www.imaeil.com/page/view/2026111417131297761",
       "published_at": null,
       "updated_at": null,
-      "collected_at": "2026-11-24T13:00:30.688381+09:00",
+      "collected_at": "2026-11-24T14:26:12.495783+09:00",
       "field_evidence": [
        {
         "field_path": "/article_relevance",
@@ -20075,7 +19954,7 @@
       "source_url": "https://www.imaeil.com/page/view/2026111417131297761",
       "published_at": null,
       "updated_at": null,
-      "collected_at": "2026-11-24T13:00:30.688381+09:00",
+      "collected_at": "2026-11-24T14:26:12.495783+09:00",
       "field_evidence": [
        {
         "field_path": "/article_relevance",
@@ -20195,7 +20074,7 @@
      "source_revision": "79344459f900a196bff2714a",
      "published_at": null,
      "updated_at": null,
-     "collected_at": "2026-11-24T13:00:30.688381+09:00"
+     "collected_at": "2026-11-24T14:26:12.495783+09:00"
     },
     "events": [],
     "review_reasons": []
@@ -20241,7 +20120,7 @@
       "source_url": "https://www.imaeil.com/page/view/2026112310334935868",
       "published_at": null,
       "updated_at": null,
-      "collected_at": "2026-11-24T13:00:32.645516+09:00",
+      "collected_at": "2026-11-24T14:26:14.346723+09:00",
       "field_evidence": [
        {
         "field_path": "/article_relevance",
@@ -20358,7 +20237,7 @@
      "source_revision": "1a828c0deea9b77648292622",
      "published_at": null,
      "updated_at": null,
-     "collected_at": "2026-11-24T13:00:32.645516+09:00"
+     "collected_at": "2026-11-24T14:26:14.346723+09:00"
     },
     "events": [
      {
@@ -21079,24 +20958,744 @@
     ],
     "review_reasons": []
    }
+  },
+  {
+   "strikes": [
+    {
+     "article_relevance": "unrelated",
+     "transport_mode": "unknown",
+     "affected_regions": [],
+     "affected_routes": [],
+     "start": {
+      "raw": null,
+      "date": null,
+      "time": null,
+      "timezone": "Asia/Seoul",
+      "basis": "unknown",
+      "assertion": "unknown",
+      "open_ended": null
+     },
+     "end": {
+      "raw": null,
+      "date": null,
+      "time": null,
+      "timezone": "Asia/Seoul",
+      "basis": "unknown",
+      "assertion": "unknown",
+      "open_ended": null
+     },
+     "strike_status": {
+      "value": "unknown",
+      "conditions": [
+       "주말마다 교통 대란 서울도심 대회, ‘지역 축제’ 미국·일본에서 본 해법[박성국의 러닝 보급소] 박성국 기자 입력 2026-11-19 16:22 수정 2026-11-19 16:22 기사 읽어주기 다시듣기 글씨 크기 조절 글자크기 설정 닫기 글자크기 설정 시 다른 기사의 본문도\r\n                      동일하게 적용 됩니다. 가 가 가 가 가 프린트 공유하기 공유 닫기 페이스북 네이버블로그 엑스 카카오톡 밴드 https://www.seoul.co.kr/news/plan/Runner-supply-depot/2026/11/19/20261119500228 URL 복사 댓글 0 구글에서 서울신문 먼저 보기 세줄 요약 올해 서울에서 열리는 마라톤 대회는 178개로, 2019년보다 51.7% 늘었다. 봄과 가을마다 주말 교통 통제가 반복되면서 민원이 2719건 접수됐고, 이 가운데 교통 통제 관련 민원이 가장 많았다. 오세훈 서울시장은 시민 불편에 사과하며 내년 대회 코스와 일정을 다시 협의하겠다고 했다. 서울 마라톤 대회 급증과 시민 불편 확산 교통 통제 민원 집중, 서울시 재협의 방침 해외 도심 대회 운영 방식 비교와 개선 요구 이미지 확대 닫기 이미지 확대 보기 일요일이었던 지난 15일 서울 종로구 광화문광장에서 열린 한 마라톤 대회에서 참가자들이 힘차게 달려나가고 있다. 뉴시스 “우리 버스는 광화문으로 못 들어갑니다. 오늘 마라톤 교통 통제 때문에 남대문시장 쪽으로 돌아갑니다.” 배드민턴 코리아오픈 취재를 위해 전남광주 여수로 향했던 지난 8일. 버스를 몰던 기사가 정지 신호에 잠시 운행을 멈추고 몸을 돌려 승객들에게 우회 운행을 안내했다. 일요일 오전 6시, 휴일 이른 시간부터 버스에 몸을 실은 승객 사이에서는 일순간 장탄식이 터져 나왔고, 일부 욕설까지 들려왔다. 마라톤 참가자로 보이는 한 청년은 죄인이라도 된 듯 모자를 푹 눌러쓰며 서울역에서 하차를 준비했다. 코로나19 엔데믹과 맞물려 폭발적으로 번진 마라톤 열기가 ‘마라톤 혐오’라는 반작용을 일으키고 있다. 너무 잦은 대회에 따른 교통 통제로 시민 불편이 가중됐고, 주자들과 응원단이 내는 소음과 더불어 쓰레기 수거 불량 등 생활 불편 민원이 급증하면서다. 19일 마라톤 대회 정보 사이트 ‘마라톤 온라인’에 등록된 대회 현황에 따르면 올해 서울에서 열리는 마라톤 대회는 178개로 집계됐다. 코로나19 이전인 2019년 92개 대비 51.7% 늘었고, 지난해보다 24개의 대회가 새로 생겼다. 올해 전국 등록 대회의 30.2%가 서울에 집중됐다. 서울이 ‘마라톤 특별도시’가 된 셈이다. 문제는 서울에서 열리는 대회의 경우 봄과 가을이면 사실상 매주 주말마다 열리는 데다, 광화문과 잠실 등 평소 교통량이 많은 곳을 반복해 통제하게 되면서 해당 지역 주민의 고통은 이미 임계점을 넘어섰다는 점이다. 서울시가 국회에 제출한 자료에 따르면 2022년부터 올해 7월까지 마라톤 관련 민원은 2719건으로, 이 가운데 교통 통제 관련 민원이 2266건(83.3%)이 가장 많았다. 빗발치는 민원에 오세훈 서울시장이 결국 칼을 빼들었다. 그는 페이스북을 통해 잦은 마라톤 대회 개최에 따른 시민 불편에 사과하면서 “내년 대회는 코스와 일정을 원점에서 다시 협의하겠다”고 했다. 마라톤을 즐기는 동호인들도 ‘도심 대회 축소’에 찬성하는 분위기다. 홍보법인 동서남북과 러닝 교육 전문업체 인피니트 오퍼튜니티가 최근 2년간 마라톤 대회에 참가한 경험이 있는 508명을 대상으로 설문조사를 진행한 결과 응답자의 89%가 서울 도심 마라톤 대회 축소에 찬성했다. 동호인들 사이에서는 환영받지 못하는 서울 대회 대신 지역별 특색 있는 대회를 찾거나, 마라톤이 ‘국민 스포츠’로 꼽히는 일본으로 마라톤 여행을 떠나는 사람도 늘고 있다. 7번의 풀코스(42.195㎞) 완주 경험이 있는 직장인 오모(43)씨는 “눈칫밥을 먹으며 뛰어야 하는 서울 대회와 달리 일본을 비롯한 해외 대회는 지역 축제로 환영받으며 오롯이 즐길 수 있어 달리는 동안은 내가 세상의 주인공이 된 듯한 느낌이 든다”며 “최근 일본 고베 마라톤에서도 많은 힘을 얻었고, 연말은 중국 상하이에서 달릴 예정”이라고 말했다. 이미지 확대 닫기 이미지 확대 보기 2023년 미국 시애틀마라톤에서 완주 당시 모습. 주요 코스마다 시민들의 응원이 끊이지 않았다. 박성국 기자 이번 기회에 대회 주최사의 주로 설정과 운영 방식 모두 개선해야 한다는 목소리도 나온다. 돈을 내고 달리는 사람만을 위한 행사가 아닌, 지역 주민 모두가 함께 참여하고 지역 경제 활성화에도 기여할 수 있는 ‘모두의 대회’가 필요하다는 취지다. 대회 기간 세계 각지에서 관광객이 몰리고 지역 주민들이 자원봉사로 참여하는 뉴욕·도쿄·베를린·런던마라톤 등 이른바 메이저 대회가 대표적이다. 뉴욕과 도쿄 등 세계 주요 도시에서는 연간 7~10회가량 크고 작은 마라톤 대회가 열리지만, 도심 중심을 관통하며 대대적으로 교통을 통제하는 대회는 각 도시를 대표하는 대회 1회에 불과하다. 그 외 대회는 차량이 다니지 않는 강변을 비롯해 도시 외곽에서 진행된다. 아울러 해외의 대회들은 일반 시민의 ‘인내’를 강요하지 않는다. 국내 대회는 주로에서 길을 건너려는 행인들을 교통경찰이나 진행요원들이 붙잡고 있다가 상황을 봐서 건너도록 안내해주지만, 해외 대회에서는 진행요원들이 주요 건널목마다 밧줄 등을 이용해 길을 만들어 시민의 안전하고 원활한 보행을 돕고 있다. 양송이 서울시의원 “서울교육 재정, 안정적 재원 확보와 교육현장 중심 예산 운용 필요” 서울시의회 양송이 교육위원회 부위원장(더불어민주당, 영등포4)은 지난 23일 열린 제340회 정례회 교육위원회 2027년도 서울시교육청 예산안 심사에서 교육재정의 구조적 한계를 점검하고, 안정적인 재원 확보와 교육현장의 실질적인 수요를 반영한 예산 운용을 촉구했다.\n서울시교육청이 제출한 2027년도 예산안은 총 11조 8014억원 규모로, 이 중 중앙정부 이전수입은 6조 8656억원(58.2%), 지방자치단체 이전수입은 4조 6979억원(39.7%)으로 편성됐다. 두 재원이 전체 세입의 약 98%를 차지하는 구조다.\n 이에 양 부위원장은 “서울교육 재정의 상당 부분이 중앙정부와 지방자치단체의 이전수입에 의존하고 있어 내국세와 지방세의 경기 변동에 영향을 받을 수밖에 없다”며 “안정적인 교육재정 확보를 위해 서울시와 서울시교육청이 단순한 사업별 협의를 넘어 중장기 재정 운영 방향을 함께 논의해야 한다”고 강조했다.\n특히 서울시와 교육청 간 정례 재정 협의체를 가동해 공동 교육사업의 중장기 재원 조달 및 기관별 분담 계획을 수립해야 한다고 강조했다. 이와 함께 공유재산의 체계적 관리와 자금 운용 수익 확대 등 교육청 자체 재원을 확충할 수 있는 다각적인 방안을 서울시의회 바로가기 오는 21일 서울 여의도공원 일원에서 열리는 ‘2026 아식스 서울신문 고프리런’ 역시 참가자의 쾌적한 달리기와 일반 시민의 불편 최소화를 목표로 코스를 설계했다. 여의도공원에서 출발해 서강대교를 건너 지하철 6호선 광흥창역에서 반환하는 경로다. 서강대교에서는 중앙분리대를 기준으로 한쪽은 참가자들이 달리고, 반대편은 양방향으로 나눠 차량이 다닐 수 있도록 할 예정이다. 박성국 기자 Copyright ⓒ 서울신문 All rights reserved. 무단 전재-재배포, AI 학습 및 활용 금지 [ 내안의 AI 본성 분석 : UNMASK ] \"기사를 읽는 동안 깨어난 당신의 숨겨진 페르소나를 AI가 스캔합니다.\" 기사 반응 MBTI 확인 Q. 기사를 끝까지 읽으셨나요? 이제 AI 퀴즈로 기사의 핵심 내용을 점검해보세요. 올해 서울에서 열린 마라톤 대회는 2019년 대비 얼마나 증가했는가? 51.7% 30.2%"
+      ],
+      "scope_raw": null,
+      "effective_at": null
+     },
+     "service_status": [],
+     "normal_service_exceptions": [],
+     "alternative_services": [],
+     "evidence_and_timestamps": {
+      "source_url": "https://www.seoul.co.kr/news/plan/Runner-supply-depot/2026/11/19/20261119500228?wlog_tag3=naver",
+      "published_at": "2026-11-19T16:22:34+09:00",
+      "updated_at": "2026-11-19T16:22:34+09:00",
+      "collected_at": "2026-11-24T14:26:15.394181+09:00",
+      "field_evidence": [
+       {
+        "field_path": "/article_relevance",
+        "quote": "주말마다 교통 대란 서울도심 대회, ‘지역 축제’ 미국·일본에서 본 해법[박성국의 러닝 보급소] 박성국 기자 입력 2026-11-19 16:22 수정 2026-11-19 16:22 기사 읽어주기 다시듣기 글씨 크기 조절 글자크기 설정 닫기 글자크기 설정 시 다른 기사의 본문도\r\n                      동일하게 적용 됩니다. 가 가 가 가 가 프린트 공유하기 공유 닫기 페이스북 네이버블로그 엑스 카카오톡 밴드 https://www.seoul.co.kr/news/plan/Runner-supply-depot/2026/11/19/20261119500228 URL 복사 댓글 0 구글에서 서울신문 먼저 보기 세줄 요약 올해 서울에서 열리는 마라톤 대회는 178개로, 2019년보다 51.7% 늘었다. 봄과 가을마다 주말 교통 통제가 반복되면서 민원이 2719건 접수됐고, 이 가운데 교통 통제 관련 민원이 가장 많았다. 오세훈 서울시장은 시민 불편에 사과하며 내년 대회 코스와 일정을 다시 협의하겠다고 했다. 서울 마라톤 대회 급증과 시민 불편 확산 교통 통제 민원 집중, 서울시 재협의 방침 해외 도심 대회 운영 방식 비교와 개선 요구 이미지 확대 닫기 이미지 확대 보기 일요일이었던 지난 15일 서울 종로구 광화문광장에서 열린 한 마라톤 대회에서 참가자들이 힘차게 달려나가고 있다. 뉴시스 “우리 버스는 광화문으로 못 들어갑니다. 오늘 마라톤 교통 통제 때문에 남대문시장 쪽으로 돌아갑니다.” 배드민턴 코리아오픈 취재를 위해 전남광주 여수로 향했던 지난 8일. 버스를 몰던 기사가 정지 신호에 잠시 운행을 멈추고 몸을 돌려 승객들에게 우회 운행을 안내했다. 일요일 오전 6시, 휴일 이른 시간부터 버스에 몸을 실은 승객 사이에서는 일순간 장탄식이 터져 나왔고, 일부 욕설까지 들려왔다. 마라톤 참가자로 보이는 한 청년은 죄인이라도 된 듯 모자를 푹 눌러쓰며 서울역에서 하차를 준비했다. 코로나19 엔데믹과 맞물려 폭발적으로 번진 마라톤 열기가 ‘마라톤 혐오’라는 반작용을 일으키고 있다. 너무 잦은 대회에 따른 교통 통제로 시민 불편이 가중됐고, 주자들과 응원단이 내는 소음과 더불어 쓰레기 수거 불량 등 생활 불편 민원이 급증하면서다. 19일 마라톤 대회 정보 사이트 ‘마라톤 온라인’에 등록된 대회 현황에 따르면 올해 서울에서 열리는 마라톤 대회는 178개로 집계됐다. 코로나19 이전인 2019년 92개 대비 51.7% 늘었고, 지난해보다 24개의 대회가 새로 생겼다. 올해 전국 등록 대회의 30.2%가 서울에 집중됐다. 서울이 ‘마라톤 특별도시’가 된 셈이다. 문제는 서울에서 열리는 대회의 경우 봄과 가을이면 사실상 매주 주말마다 열리는 데다, 광화문과 잠실 등 평소 교통량이 많은 곳을 반복해 통제하게 되면서 해당 지역 주민의 고통은 이미 임계점을 넘어섰다는 점이다. 서울시가 국회에 제출한 자료에 따르면 2022년부터 올해 7월까지 마라톤 관련 민원은 2719건으로, 이 가운데 교통 통제 관련 민원이 2266건(83.3%)이 가장 많았다. 빗발치는 민원에 오세훈 서울시장이 결국 칼을 빼들었다. 그는 페이스북을 통해 잦은 마라톤 대회 개최에 따른 시민 불편에 사과하면서 “내년 대회는 코스와 일정을 원점에서 다시 협의하겠다”고 했다. 마라톤을 즐기는 동호인들도 ‘도심 대회 축소’에 찬성하는 분위기다. 홍보법인 동서남북과 러닝 교육 전문업체 인피니트 오퍼튜니티가 최근 2년간 마라톤 대회에 참가한 경험이 있는 508명을 대상으로 설문조사를 진행한 결과 응답자의 89%가 서울 도심 마라톤 대회 축소에 찬성했다. 동호인들 사이에서는 환영받지 못하는 서울 대회 대신 지역별 특색 있는 대회를 찾거나, 마라톤이 ‘국민 스포츠’로 꼽히는 일본으로 마라톤 여행을 떠나는 사람도 늘고 있다. 7번의 풀코스(42.195㎞) 완주 경험이 있는 직장인 오모(43)씨는 “눈칫밥을 먹으며 뛰어야 하는 서울 대회와 달리 일본을 비롯한 해외 대회는 지역 축제로 환영받으며 오롯이 즐길 수 있어 달리는 동안은 내가 세상의 주인공이 된 듯한 느낌이 든다”며 “최근 일본 고베 마라톤에서도 많은 힘을 얻었고, 연말은 중국 상하이에서 달릴 예정”이라고 말했다. 이미지 확대 닫기 이미지 확대 보기 2023년 미국 시애틀마라톤에서 완주 당시 모습. 주요 코스마다 시민들의 응원이 끊이지 않았다. 박성국 기자 이번 기회에 대회 주최사의 주로 설정과 운영 방식 모두 개선해야 한다는 목소리도 나온다. 돈을 내고 달리는 사람만을 위한 행사가 아닌, 지역 주민 모두가 함께 참여하고 지역 경제 활성화에도 기여할 수 있는 ‘모두의 대회’가 필요하다는 취지다. 대회 기간 세계 각지에서 관광객이 몰리고 지역 주민들이 자원봉사로 참여하는 뉴욕·도쿄·베를린·런던마라톤 등 이른바 메이저 대회가 대표적이다. 뉴욕과 도쿄 등 세계 주요 도시에서는 연간 7~10회가량 크고 작은 마라톤 대회가 열리지만, 도심 중심을 관통하며 대대적으로 교통을 통제하는 대회는 각 도시를 대표하는 대회 1회에 불과하다. 그 외 대회는 차량이 다니지 않는 강변을 비롯해 도시 외곽에서 진행된다. 아울러 해외의 대회들은 일반 시민의 ‘인내’를 강요하지 않는다. 국내 대회는 주로에서 길을 건너려는 행인들을 교통경찰이나 진행요원들이 붙잡고 있다가 상황을 봐서 건너도록 안내해주지만, 해외 대회에서는 진행요원들이 주요 건널목마다 밧줄 등을 이용해 길을 만들어 시민의 안전하고 원활한 보행을 돕고 있다. 양송이 서울시의원 “서울교육 재정, 안정적 재원 확보와 교육현장 중심 예산 운용 필요” 서울시의회 양송이 교육위원회 부위원장(더불어민주당, 영등포4)은 지난 23일 열린 제340회 정례회 교육위원회 2027년도 서울시교육청 예산안 심사에서 교육재정의 구조적 한계를 점검하고, 안정적인 재원 확보와 교육현장의 실질적인 수요를 반영한 예산 운용을 촉구했다.\n서울시교육청이 제출한 2027년도 예산안은 총 11조 8014억원 규모로, 이 중 중앙정부 이전수입은 6조 8656억원(58.2%), 지방자치단체 이전수입은 4조 6979억원(39.7%)으로 편성됐다. 두 재원이 전체 세입의 약 98%를 차지하는 구조다.\n 이에 양 부위원장은 “서울교육 재정의 상당 부분이 중앙정부와 지방자치단체의 이전수입에 의존하고 있어 내국세와 지방세의 경기 변동에 영향을 받을 수밖에 없다”며 “안정적인 교육재정 확보를 위해 서울시와 서울시교육청이 단순한 사업별 협의를 넘어 중장기 재정 운영 방향을 함께 논의해야 한다”고 강조했다.\n특히 서울시와 교육청 간 정례 재정 협의체를 가동해 공동 교육사업의 중장기 재원 조달 및 기관별 분담 계획을 수립해야 한다고 강조했다. 이와 함께 공유재산의 체계적 관리와 자금 운용 수익 확대 등 교육청 자체 재원을 확충할 수 있는 다각적인 방안을 서울시의회 바로가기 오는 21일 서울 여의도공원 일원에서 열리는 ‘2026 아식스 서울신문 고프리런’ 역시 참가자의 쾌적한 달리기와 일반 시민의 불편 최소화를 목표로 코스를 설계했다. 여의도공원에서 출발해 서강대교를 건너 지하철 6호선 광흥창역에서 반환하는 경로다. 서강대교에서는 중앙분리대를 기준으로 한쪽은 참가자들이 달리고, 반대편은 양방향으로 나눠 차량이 다닐 수 있도록 할 예정이다. 박성국 기자 Copyright ⓒ 서울신문 All rights reserved. 무단 전재-재배포, AI 학습 및 활용 금지 [ 내안의 AI 본성 분석 : UNMASK ] \"기사를 읽는 동안 깨어난 당신의 숨겨진 페르소나를 AI가 스캔합니다.\" 기사 반응 MBTI 확인 Q. 기사를 끝까지 읽으셨나요? 이제 AI 퀴즈로 기사의 핵심 내용을 점검해보세요. 올해 서울에서 열린 마라톤 대회는 2019년 대비 얼마나 증가했는가? 51.7% 30.2%",
+        "source_part": "body",
+        "effective_at": null,
+        "derivation": "explicit",
+        "source_id": "c6fc62926535c5aaa90291a7",
+        "source_revision": "d06497d09c16176373396461",
+        "reference_source": null
+       },
+       {
+        "field_path": "/transport_mode",
+        "quote": "주말마다 교통 대란 서울도심 대회, ‘지역 축제’ 미국·일본에서 본 해법[박성국의 러닝 보급소] 박성국 기자 입력 2026-11-19 16:22 수정 2026-11-19 16:22 기사 읽어주기 다시듣기 글씨 크기 조절 글자크기 설정 닫기 글자크기 설정 시 다른 기사의 본문도\r\n                      동일하게 적용 됩니다. 가 가 가 가 가 프린트 공유하기 공유 닫기 페이스북 네이버블로그 엑스 카카오톡 밴드 https://www.seoul.co.kr/news/plan/Runner-supply-depot/2026/11/19/20261119500228 URL 복사 댓글 0 구글에서 서울신문 먼저 보기 세줄 요약 올해 서울에서 열리는 마라톤 대회는 178개로, 2019년보다 51.7% 늘었다. 봄과 가을마다 주말 교통 통제가 반복되면서 민원이 2719건 접수됐고, 이 가운데 교통 통제 관련 민원이 가장 많았다. 오세훈 서울시장은 시민 불편에 사과하며 내년 대회 코스와 일정을 다시 협의하겠다고 했다. 서울 마라톤 대회 급증과 시민 불편 확산 교통 통제 민원 집중, 서울시 재협의 방침 해외 도심 대회 운영 방식 비교와 개선 요구 이미지 확대 닫기 이미지 확대 보기 일요일이었던 지난 15일 서울 종로구 광화문광장에서 열린 한 마라톤 대회에서 참가자들이 힘차게 달려나가고 있다. 뉴시스 “우리 버스는 광화문으로 못 들어갑니다. 오늘 마라톤 교통 통제 때문에 남대문시장 쪽으로 돌아갑니다.” 배드민턴 코리아오픈 취재를 위해 전남광주 여수로 향했던 지난 8일. 버스를 몰던 기사가 정지 신호에 잠시 운행을 멈추고 몸을 돌려 승객들에게 우회 운행을 안내했다. 일요일 오전 6시, 휴일 이른 시간부터 버스에 몸을 실은 승객 사이에서는 일순간 장탄식이 터져 나왔고, 일부 욕설까지 들려왔다. 마라톤 참가자로 보이는 한 청년은 죄인이라도 된 듯 모자를 푹 눌러쓰며 서울역에서 하차를 준비했다. 코로나19 엔데믹과 맞물려 폭발적으로 번진 마라톤 열기가 ‘마라톤 혐오’라는 반작용을 일으키고 있다. 너무 잦은 대회에 따른 교통 통제로 시민 불편이 가중됐고, 주자들과 응원단이 내는 소음과 더불어 쓰레기 수거 불량 등 생활 불편 민원이 급증하면서다. 19일 마라톤 대회 정보 사이트 ‘마라톤 온라인’에 등록된 대회 현황에 따르면 올해 서울에서 열리는 마라톤 대회는 178개로 집계됐다. 코로나19 이전인 2019년 92개 대비 51.7% 늘었고, 지난해보다 24개의 대회가 새로 생겼다. 올해 전국 등록 대회의 30.2%가 서울에 집중됐다. 서울이 ‘마라톤 특별도시’가 된 셈이다. 문제는 서울에서 열리는 대회의 경우 봄과 가을이면 사실상 매주 주말마다 열리는 데다, 광화문과 잠실 등 평소 교통량이 많은 곳을 반복해 통제하게 되면서 해당 지역 주민의 고통은 이미 임계점을 넘어섰다는 점이다. 서울시가 국회에 제출한 자료에 따르면 2022년부터 올해 7월까지 마라톤 관련 민원은 2719건으로, 이 가운데 교통 통제 관련 민원이 2266건(83.3%)이 가장 많았다. 빗발치는 민원에 오세훈 서울시장이 결국 칼을 빼들었다. 그는 페이스북을 통해 잦은 마라톤 대회 개최에 따른 시민 불편에 사과하면서 “내년 대회는 코스와 일정을 원점에서 다시 협의하겠다”고 했다. 마라톤을 즐기는 동호인들도 ‘도심 대회 축소’에 찬성하는 분위기다. 홍보법인 동서남북과 러닝 교육 전문업체 인피니트 오퍼튜니티가 최근 2년간 마라톤 대회에 참가한 경험이 있는 508명을 대상으로 설문조사를 진행한 결과 응답자의 89%가 서울 도심 마라톤 대회 축소에 찬성했다. 동호인들 사이에서는 환영받지 못하는 서울 대회 대신 지역별 특색 있는 대회를 찾거나, 마라톤이 ‘국민 스포츠’로 꼽히는 일본으로 마라톤 여행을 떠나는 사람도 늘고 있다. 7번의 풀코스(42.195㎞) 완주 경험이 있는 직장인 오모(43)씨는 “눈칫밥을 먹으며 뛰어야 하는 서울 대회와 달리 일본을 비롯한 해외 대회는 지역 축제로 환영받으며 오롯이 즐길 수 있어 달리는 동안은 내가 세상의 주인공이 된 듯한 느낌이 든다”며 “최근 일본 고베 마라톤에서도 많은 힘을 얻었고, 연말은 중국 상하이에서 달릴 예정”이라고 말했다. 이미지 확대 닫기 이미지 확대 보기 2023년 미국 시애틀마라톤에서 완주 당시 모습. 주요 코스마다 시민들의 응원이 끊이지 않았다. 박성국 기자 이번 기회에 대회 주최사의 주로 설정과 운영 방식 모두 개선해야 한다는 목소리도 나온다. 돈을 내고 달리는 사람만을 위한 행사가 아닌, 지역 주민 모두가 함께 참여하고 지역 경제 활성화에도 기여할 수 있는 ‘모두의 대회’가 필요하다는 취지다. 대회 기간 세계 각지에서 관광객이 몰리고 지역 주민들이 자원봉사로 참여하는 뉴욕·도쿄·베를린·런던마라톤 등 이른바 메이저 대회가 대표적이다. 뉴욕과 도쿄 등 세계 주요 도시에서는 연간 7~10회가량 크고 작은 마라톤 대회가 열리지만, 도심 중심을 관통하며 대대적으로 교통을 통제하는 대회는 각 도시를 대표하는 대회 1회에 불과하다. 그 외 대회는 차량이 다니지 않는 강변을 비롯해 도시 외곽에서 진행된다. 아울러 해외의 대회들은 일반 시민의 ‘인내’를 강요하지 않는다. 국내 대회는 주로에서 길을 건너려는 행인들을 교통경찰이나 진행요원들이 붙잡고 있다가 상황을 봐서 건너도록 안내해주지만, 해외 대회에서는 진행요원들이 주요 건널목마다 밧줄 등을 이용해 길을 만들어 시민의 안전하고 원활한 보행을 돕고 있다. 양송이 서울시의원 “서울교육 재정, 안정적 재원 확보와 교육현장 중심 예산 운용 필요” 서울시의회 양송이 교육위원회 부위원장(더불어민주당, 영등포4)은 지난 23일 열린 제340회 정례회 교육위원회 2027년도 서울시교육청 예산안 심사에서 교육재정의 구조적 한계를 점검하고, 안정적인 재원 확보와 교육현장의 실질적인 수요를 반영한 예산 운용을 촉구했다.\n서울시교육청이 제출한 2027년도 예산안은 총 11조 8014억원 규모로, 이 중 중앙정부 이전수입은 6조 8656억원(58.2%), 지방자치단체 이전수입은 4조 6979억원(39.7%)으로 편성됐다. 두 재원이 전체 세입의 약 98%를 차지하는 구조다.\n 이에 양 부위원장은 “서울교육 재정의 상당 부분이 중앙정부와 지방자치단체의 이전수입에 의존하고 있어 내국세와 지방세의 경기 변동에 영향을 받을 수밖에 없다”며 “안정적인 교육재정 확보를 위해 서울시와 서울시교육청이 단순한 사업별 협의를 넘어 중장기 재정 운영 방향을 함께 논의해야 한다”고 강조했다.\n특히 서울시와 교육청 간 정례 재정 협의체를 가동해 공동 교육사업의 중장기 재원 조달 및 기관별 분담 계획을 수립해야 한다고 강조했다. 이와 함께 공유재산의 체계적 관리와 자금 운용 수익 확대 등 교육청 자체 재원을 확충할 수 있는 다각적인 방안을 서울시의회 바로가기 오는 21일 서울 여의도공원 일원에서 열리는 ‘2026 아식스 서울신문 고프리런’ 역시 참가자의 쾌적한 달리기와 일반 시민의 불편 최소화를 목표로 코스를 설계했다. 여의도공원에서 출발해 서강대교를 건너 지하철 6호선 광흥창역에서 반환하는 경로다. 서강대교에서는 중앙분리대를 기준으로 한쪽은 참가자들이 달리고, 반대편은 양방향으로 나눠 차량이 다닐 수 있도록 할 예정이다. 박성국 기자 Copyright ⓒ 서울신문 All rights reserved. 무단 전재-재배포, AI 학습 및 활용 금지 [ 내안의 AI 본성 분석 : UNMASK ] \"기사를 읽는 동안 깨어난 당신의 숨겨진 페르소나를 AI가 스캔합니다.\" 기사 반응 MBTI 확인 Q. 기사를 끝까지 읽으셨나요? 이제 AI 퀴즈로 기사의 핵심 내용을 점검해보세요. 올해 서울에서 열린 마라톤 대회는 2019년 대비 얼마나 증가했는가? 51.7% 30.2%",
+        "source_part": "body",
+        "effective_at": null,
+        "derivation": "explicit",
+        "source_id": "c6fc62926535c5aaa90291a7",
+        "source_revision": "d06497d09c16176373396461",
+        "reference_source": null
+       },
+       {
+        "field_path": "/affected_regions",
+        "quote": "주말마다 교통 대란 서울도심 대회, ‘지역 축제’ 미국·일본에서 본 해법[박성국의 러닝 보급소] 박성국 기자 입력 2026-11-19 16:22 수정 2026-11-19 16:22 기사 읽어주기 다시듣기 글씨 크기 조절 글자크기 설정 닫기 글자크기 설정 시 다른 기사의 본문도\r\n                      동일하게 적용 됩니다. 가 가 가 가 가 프린트 공유하기 공유 닫기 페이스북 네이버블로그 엑스 카카오톡 밴드 https://www.seoul.co.kr/news/plan/Runner-supply-depot/2026/11/19/20261119500228 URL 복사 댓글 0 구글에서 서울신문 먼저 보기 세줄 요약 올해 서울에서 열리는 마라톤 대회는 178개로, 2019년보다 51.7% 늘었다. 봄과 가을마다 주말 교통 통제가 반복되면서 민원이 2719건 접수됐고, 이 가운데 교통 통제 관련 민원이 가장 많았다. 오세훈 서울시장은 시민 불편에 사과하며 내년 대회 코스와 일정을 다시 협의하겠다고 했다. 서울 마라톤 대회 급증과 시민 불편 확산 교통 통제 민원 집중, 서울시 재협의 방침 해외 도심 대회 운영 방식 비교와 개선 요구 이미지 확대 닫기 이미지 확대 보기 일요일이었던 지난 15일 서울 종로구 광화문광장에서 열린 한 마라톤 대회에서 참가자들이 힘차게 달려나가고 있다. 뉴시스 “우리 버스는 광화문으로 못 들어갑니다. 오늘 마라톤 교통 통제 때문에 남대문시장 쪽으로 돌아갑니다.” 배드민턴 코리아오픈 취재를 위해 전남광주 여수로 향했던 지난 8일. 버스를 몰던 기사가 정지 신호에 잠시 운행을 멈추고 몸을 돌려 승객들에게 우회 운행을 안내했다. 일요일 오전 6시, 휴일 이른 시간부터 버스에 몸을 실은 승객 사이에서는 일순간 장탄식이 터져 나왔고, 일부 욕설까지 들려왔다. 마라톤 참가자로 보이는 한 청년은 죄인이라도 된 듯 모자를 푹 눌러쓰며 서울역에서 하차를 준비했다. 코로나19 엔데믹과 맞물려 폭발적으로 번진 마라톤 열기가 ‘마라톤 혐오’라는 반작용을 일으키고 있다. 너무 잦은 대회에 따른 교통 통제로 시민 불편이 가중됐고, 주자들과 응원단이 내는 소음과 더불어 쓰레기 수거 불량 등 생활 불편 민원이 급증하면서다. 19일 마라톤 대회 정보 사이트 ‘마라톤 온라인’에 등록된 대회 현황에 따르면 올해 서울에서 열리는 마라톤 대회는 178개로 집계됐다. 코로나19 이전인 2019년 92개 대비 51.7% 늘었고, 지난해보다 24개의 대회가 새로 생겼다. 올해 전국 등록 대회의 30.2%가 서울에 집중됐다. 서울이 ‘마라톤 특별도시’가 된 셈이다. 문제는 서울에서 열리는 대회의 경우 봄과 가을이면 사실상 매주 주말마다 열리는 데다, 광화문과 잠실 등 평소 교통량이 많은 곳을 반복해 통제하게 되면서 해당 지역 주민의 고통은 이미 임계점을 넘어섰다는 점이다. 서울시가 국회에 제출한 자료에 따르면 2022년부터 올해 7월까지 마라톤 관련 민원은 2719건으로, 이 가운데 교통 통제 관련 민원이 2266건(83.3%)이 가장 많았다. 빗발치는 민원에 오세훈 서울시장이 결국 칼을 빼들었다. 그는 페이스북을 통해 잦은 마라톤 대회 개최에 따른 시민 불편에 사과하면서 “내년 대회는 코스와 일정을 원점에서 다시 협의하겠다”고 했다. 마라톤을 즐기는 동호인들도 ‘도심 대회 축소’에 찬성하는 분위기다. 홍보법인 동서남북과 러닝 교육 전문업체 인피니트 오퍼튜니티가 최근 2년간 마라톤 대회에 참가한 경험이 있는 508명을 대상으로 설문조사를 진행한 결과 응답자의 89%가 서울 도심 마라톤 대회 축소에 찬성했다. 동호인들 사이에서는 환영받지 못하는 서울 대회 대신 지역별 특색 있는 대회를 찾거나, 마라톤이 ‘국민 스포츠’로 꼽히는 일본으로 마라톤 여행을 떠나는 사람도 늘고 있다. 7번의 풀코스(42.195㎞) 완주 경험이 있는 직장인 오모(43)씨는 “눈칫밥을 먹으며 뛰어야 하는 서울 대회와 달리 일본을 비롯한 해외 대회는 지역 축제로 환영받으며 오롯이 즐길 수 있어 달리는 동안은 내가 세상의 주인공이 된 듯한 느낌이 든다”며 “최근 일본 고베 마라톤에서도 많은 힘을 얻었고, 연말은 중국 상하이에서 달릴 예정”이라고 말했다. 이미지 확대 닫기 이미지 확대 보기 2023년 미국 시애틀마라톤에서 완주 당시 모습. 주요 코스마다 시민들의 응원이 끊이지 않았다. 박성국 기자 이번 기회에 대회 주최사의 주로 설정과 운영 방식 모두 개선해야 한다는 목소리도 나온다. 돈을 내고 달리는 사람만을 위한 행사가 아닌, 지역 주민 모두가 함께 참여하고 지역 경제 활성화에도 기여할 수 있는 ‘모두의 대회’가 필요하다는 취지다. 대회 기간 세계 각지에서 관광객이 몰리고 지역 주민들이 자원봉사로 참여하는 뉴욕·도쿄·베를린·런던마라톤 등 이른바 메이저 대회가 대표적이다. 뉴욕과 도쿄 등 세계 주요 도시에서는 연간 7~10회가량 크고 작은 마라톤 대회가 열리지만, 도심 중심을 관통하며 대대적으로 교통을 통제하는 대회는 각 도시를 대표하는 대회 1회에 불과하다. 그 외 대회는 차량이 다니지 않는 강변을 비롯해 도시 외곽에서 진행된다. 아울러 해외의 대회들은 일반 시민의 ‘인내’를 강요하지 않는다. 국내 대회는 주로에서 길을 건너려는 행인들을 교통경찰이나 진행요원들이 붙잡고 있다가 상황을 봐서 건너도록 안내해주지만, 해외 대회에서는 진행요원들이 주요 건널목마다 밧줄 등을 이용해 길을 만들어 시민의 안전하고 원활한 보행을 돕고 있다. 양송이 서울시의원 “서울교육 재정, 안정적 재원 확보와 교육현장 중심 예산 운용 필요” 서울시의회 양송이 교육위원회 부위원장(더불어민주당, 영등포4)은 지난 23일 열린 제340회 정례회 교육위원회 2027년도 서울시교육청 예산안 심사에서 교육재정의 구조적 한계를 점검하고, 안정적인 재원 확보와 교육현장의 실질적인 수요를 반영한 예산 운용을 촉구했다.\n서울시교육청이 제출한 2027년도 예산안은 총 11조 8014억원 규모로, 이 중 중앙정부 이전수입은 6조 8656억원(58.2%), 지방자치단체 이전수입은 4조 6979억원(39.7%)으로 편성됐다. 두 재원이 전체 세입의 약 98%를 차지하는 구조다.\n 이에 양 부위원장은 “서울교육 재정의 상당 부분이 중앙정부와 지방자치단체의 이전수입에 의존하고 있어 내국세와 지방세의 경기 변동에 영향을 받을 수밖에 없다”며 “안정적인 교육재정 확보를 위해 서울시와 서울시교육청이 단순한 사업별 협의를 넘어 중장기 재정 운영 방향을 함께 논의해야 한다”고 강조했다.\n특히 서울시와 교육청 간 정례 재정 협의체를 가동해 공동 교육사업의 중장기 재원 조달 및 기관별 분담 계획을 수립해야 한다고 강조했다. 이와 함께 공유재산의 체계적 관리와 자금 운용 수익 확대 등 교육청 자체 재원을 확충할 수 있는 다각적인 방안을 서울시의회 바로가기 오는 21일 서울 여의도공원 일원에서 열리는 ‘2026 아식스 서울신문 고프리런’ 역시 참가자의 쾌적한 달리기와 일반 시민의 불편 최소화를 목표로 코스를 설계했다. 여의도공원에서 출발해 서강대교를 건너 지하철 6호선 광흥창역에서 반환하는 경로다. 서강대교에서는 중앙분리대를 기준으로 한쪽은 참가자들이 달리고, 반대편은 양방향으로 나눠 차량이 다닐 수 있도록 할 예정이다. 박성국 기자 Copyright ⓒ 서울신문 All rights reserved. 무단 전재-재배포, AI 학습 및 활용 금지 [ 내안의 AI 본성 분석 : UNMASK ] \"기사를 읽는 동안 깨어난 당신의 숨겨진 페르소나를 AI가 스캔합니다.\" 기사 반응 MBTI 확인 Q. 기사를 끝까지 읽으셨나요? 이제 AI 퀴즈로 기사의 핵심 내용을 점검해보세요. 올해 서울에서 열린 마라톤 대회는 2019년 대비 얼마나 증가했는가? 51.7% 30.2%",
+        "source_part": "body",
+        "effective_at": null,
+        "derivation": "explicit",
+        "source_id": "c6fc62926535c5aaa90291a7",
+        "source_revision": "d06497d09c16176373396461",
+        "reference_source": null
+       },
+       {
+        "field_path": "/affected_routes",
+        "quote": "주말마다 교통 대란 서울도심 대회, ‘지역 축제’ 미국·일본에서 본 해법[박성국의 러닝 보급소] 박성국 기자 입력 2026-11-19 16:22 수정 2026-11-19 16:22 기사 읽어주기 다시듣기 글씨 크기 조절 글자크기 설정 닫기 글자크기 설정 시 다른 기사의 본문도\r\n                      동일하게 적용 됩니다. 가 가 가 가 가 프린트 공유하기 공유 닫기 페이스북 네이버블로그 엑스 카카오톡 밴드 https://www.seoul.co.kr/news/plan/Runner-supply-depot/2026/11/19/20261119500228 URL 복사 댓글 0 구글에서 서울신문 먼저 보기 세줄 요약 올해 서울에서 열리는 마라톤 대회는 178개로, 2019년보다 51.7% 늘었다. 봄과 가을마다 주말 교통 통제가 반복되면서 민원이 2719건 접수됐고, 이 가운데 교통 통제 관련 민원이 가장 많았다. 오세훈 서울시장은 시민 불편에 사과하며 내년 대회 코스와 일정을 다시 협의하겠다고 했다. 서울 마라톤 대회 급증과 시민 불편 확산 교통 통제 민원 집중, 서울시 재협의 방침 해외 도심 대회 운영 방식 비교와 개선 요구 이미지 확대 닫기 이미지 확대 보기 일요일이었던 지난 15일 서울 종로구 광화문광장에서 열린 한 마라톤 대회에서 참가자들이 힘차게 달려나가고 있다. 뉴시스 “우리 버스는 광화문으로 못 들어갑니다. 오늘 마라톤 교통 통제 때문에 남대문시장 쪽으로 돌아갑니다.” 배드민턴 코리아오픈 취재를 위해 전남광주 여수로 향했던 지난 8일. 버스를 몰던 기사가 정지 신호에 잠시 운행을 멈추고 몸을 돌려 승객들에게 우회 운행을 안내했다. 일요일 오전 6시, 휴일 이른 시간부터 버스에 몸을 실은 승객 사이에서는 일순간 장탄식이 터져 나왔고, 일부 욕설까지 들려왔다. 마라톤 참가자로 보이는 한 청년은 죄인이라도 된 듯 모자를 푹 눌러쓰며 서울역에서 하차를 준비했다. 코로나19 엔데믹과 맞물려 폭발적으로 번진 마라톤 열기가 ‘마라톤 혐오’라는 반작용을 일으키고 있다. 너무 잦은 대회에 따른 교통 통제로 시민 불편이 가중됐고, 주자들과 응원단이 내는 소음과 더불어 쓰레기 수거 불량 등 생활 불편 민원이 급증하면서다. 19일 마라톤 대회 정보 사이트 ‘마라톤 온라인’에 등록된 대회 현황에 따르면 올해 서울에서 열리는 마라톤 대회는 178개로 집계됐다. 코로나19 이전인 2019년 92개 대비 51.7% 늘었고, 지난해보다 24개의 대회가 새로 생겼다. 올해 전국 등록 대회의 30.2%가 서울에 집중됐다. 서울이 ‘마라톤 특별도시’가 된 셈이다. 문제는 서울에서 열리는 대회의 경우 봄과 가을이면 사실상 매주 주말마다 열리는 데다, 광화문과 잠실 등 평소 교통량이 많은 곳을 반복해 통제하게 되면서 해당 지역 주민의 고통은 이미 임계점을 넘어섰다는 점이다. 서울시가 국회에 제출한 자료에 따르면 2022년부터 올해 7월까지 마라톤 관련 민원은 2719건으로, 이 가운데 교통 통제 관련 민원이 2266건(83.3%)이 가장 많았다. 빗발치는 민원에 오세훈 서울시장이 결국 칼을 빼들었다. 그는 페이스북을 통해 잦은 마라톤 대회 개최에 따른 시민 불편에 사과하면서 “내년 대회는 코스와 일정을 원점에서 다시 협의하겠다”고 했다. 마라톤을 즐기는 동호인들도 ‘도심 대회 축소’에 찬성하는 분위기다. 홍보법인 동서남북과 러닝 교육 전문업체 인피니트 오퍼튜니티가 최근 2년간 마라톤 대회에 참가한 경험이 있는 508명을 대상으로 설문조사를 진행한 결과 응답자의 89%가 서울 도심 마라톤 대회 축소에 찬성했다. 동호인들 사이에서는 환영받지 못하는 서울 대회 대신 지역별 특색 있는 대회를 찾거나, 마라톤이 ‘국민 스포츠’로 꼽히는 일본으로 마라톤 여행을 떠나는 사람도 늘고 있다. 7번의 풀코스(42.195㎞) 완주 경험이 있는 직장인 오모(43)씨는 “눈칫밥을 먹으며 뛰어야 하는 서울 대회와 달리 일본을 비롯한 해외 대회는 지역 축제로 환영받으며 오롯이 즐길 수 있어 달리는 동안은 내가 세상의 주인공이 된 듯한 느낌이 든다”며 “최근 일본 고베 마라톤에서도 많은 힘을 얻었고, 연말은 중국 상하이에서 달릴 예정”이라고 말했다. 이미지 확대 닫기 이미지 확대 보기 2023년 미국 시애틀마라톤에서 완주 당시 모습. 주요 코스마다 시민들의 응원이 끊이지 않았다. 박성국 기자 이번 기회에 대회 주최사의 주로 설정과 운영 방식 모두 개선해야 한다는 목소리도 나온다. 돈을 내고 달리는 사람만을 위한 행사가 아닌, 지역 주민 모두가 함께 참여하고 지역 경제 활성화에도 기여할 수 있는 ‘모두의 대회’가 필요하다는 취지다. 대회 기간 세계 각지에서 관광객이 몰리고 지역 주민들이 자원봉사로 참여하는 뉴욕·도쿄·베를린·런던마라톤 등 이른바 메이저 대회가 대표적이다. 뉴욕과 도쿄 등 세계 주요 도시에서는 연간 7~10회가량 크고 작은 마라톤 대회가 열리지만, 도심 중심을 관통하며 대대적으로 교통을 통제하는 대회는 각 도시를 대표하는 대회 1회에 불과하다. 그 외 대회는 차량이 다니지 않는 강변을 비롯해 도시 외곽에서 진행된다. 아울러 해외의 대회들은 일반 시민의 ‘인내’를 강요하지 않는다. 국내 대회는 주로에서 길을 건너려는 행인들을 교통경찰이나 진행요원들이 붙잡고 있다가 상황을 봐서 건너도록 안내해주지만, 해외 대회에서는 진행요원들이 주요 건널목마다 밧줄 등을 이용해 길을 만들어 시민의 안전하고 원활한 보행을 돕고 있다. 양송이 서울시의원 “서울교육 재정, 안정적 재원 확보와 교육현장 중심 예산 운용 필요” 서울시의회 양송이 교육위원회 부위원장(더불어민주당, 영등포4)은 지난 23일 열린 제340회 정례회 교육위원회 2027년도 서울시교육청 예산안 심사에서 교육재정의 구조적 한계를 점검하고, 안정적인 재원 확보와 교육현장의 실질적인 수요를 반영한 예산 운용을 촉구했다.\n서울시교육청이 제출한 2027년도 예산안은 총 11조 8014억원 규모로, 이 중 중앙정부 이전수입은 6조 8656억원(58.2%), 지방자치단체 이전수입은 4조 6979억원(39.7%)으로 편성됐다. 두 재원이 전체 세입의 약 98%를 차지하는 구조다.\n 이에 양 부위원장은 “서울교육 재정의 상당 부분이 중앙정부와 지방자치단체의 이전수입에 의존하고 있어 내국세와 지방세의 경기 변동에 영향을 받을 수밖에 없다”며 “안정적인 교육재정 확보를 위해 서울시와 서울시교육청이 단순한 사업별 협의를 넘어 중장기 재정 운영 방향을 함께 논의해야 한다”고 강조했다.\n특히 서울시와 교육청 간 정례 재정 협의체를 가동해 공동 교육사업의 중장기 재원 조달 및 기관별 분담 계획을 수립해야 한다고 강조했다. 이와 함께 공유재산의 체계적 관리와 자금 운용 수익 확대 등 교육청 자체 재원을 확충할 수 있는 다각적인 방안을 서울시의회 바로가기 오는 21일 서울 여의도공원 일원에서 열리는 ‘2026 아식스 서울신문 고프리런’ 역시 참가자의 쾌적한 달리기와 일반 시민의 불편 최소화를 목표로 코스를 설계했다. 여의도공원에서 출발해 서강대교를 건너 지하철 6호선 광흥창역에서 반환하는 경로다. 서강대교에서는 중앙분리대를 기준으로 한쪽은 참가자들이 달리고, 반대편은 양방향으로 나눠 차량이 다닐 수 있도록 할 예정이다. 박성국 기자 Copyright ⓒ 서울신문 All rights reserved. 무단 전재-재배포, AI 학습 및 활용 금지 [ 내안의 AI 본성 분석 : UNMASK ] \"기사를 읽는 동안 깨어난 당신의 숨겨진 페르소나를 AI가 스캔합니다.\" 기사 반응 MBTI 확인 Q. 기사를 끝까지 읽으셨나요? 이제 AI 퀴즈로 기사의 핵심 내용을 점검해보세요. 올해 서울에서 열린 마라톤 대회는 2019년 대비 얼마나 증가했는가? 51.7% 30.2%",
+        "source_part": "body",
+        "effective_at": null,
+        "derivation": "explicit",
+        "source_id": "c6fc62926535c5aaa90291a7",
+        "source_revision": "d06497d09c16176373396461",
+        "reference_source": null
+       },
+       {
+        "field_path": "/strike_status",
+        "quote": "주말마다 교통 대란 서울도심 대회, ‘지역 축제’ 미국·일본에서 본 해법[박성국의 러닝 보급소] 박성국 기자 입력 2026-11-19 16:22 수정 2026-11-19 16:22 기사 읽어주기 다시듣기 글씨 크기 조절 글자크기 설정 닫기 글자크기 설정 시 다른 기사의 본문도\r\n                      동일하게 적용 됩니다. 가 가 가 가 가 프린트 공유하기 공유 닫기 페이스북 네이버블로그 엑스 카카오톡 밴드 https://www.seoul.co.kr/news/plan/Runner-supply-depot/2026/11/19/20261119500228 URL 복사 댓글 0 구글에서 서울신문 먼저 보기 세줄 요약 올해 서울에서 열리는 마라톤 대회는 178개로, 2019년보다 51.7% 늘었다. 봄과 가을마다 주말 교통 통제가 반복되면서 민원이 2719건 접수됐고, 이 가운데 교통 통제 관련 민원이 가장 많았다. 오세훈 서울시장은 시민 불편에 사과하며 내년 대회 코스와 일정을 다시 협의하겠다고 했다. 서울 마라톤 대회 급증과 시민 불편 확산 교통 통제 민원 집중, 서울시 재협의 방침 해외 도심 대회 운영 방식 비교와 개선 요구 이미지 확대 닫기 이미지 확대 보기 일요일이었던 지난 15일 서울 종로구 광화문광장에서 열린 한 마라톤 대회에서 참가자들이 힘차게 달려나가고 있다. 뉴시스 “우리 버스는 광화문으로 못 들어갑니다. 오늘 마라톤 교통 통제 때문에 남대문시장 쪽으로 돌아갑니다.” 배드민턴 코리아오픈 취재를 위해 전남광주 여수로 향했던 지난 8일. 버스를 몰던 기사가 정지 신호에 잠시 운행을 멈추고 몸을 돌려 승객들에게 우회 운행을 안내했다. 일요일 오전 6시, 휴일 이른 시간부터 버스에 몸을 실은 승객 사이에서는 일순간 장탄식이 터져 나왔고, 일부 욕설까지 들려왔다. 마라톤 참가자로 보이는 한 청년은 죄인이라도 된 듯 모자를 푹 눌러쓰며 서울역에서 하차를 준비했다. 코로나19 엔데믹과 맞물려 폭발적으로 번진 마라톤 열기가 ‘마라톤 혐오’라는 반작용을 일으키고 있다. 너무 잦은 대회에 따른 교통 통제로 시민 불편이 가중됐고, 주자들과 응원단이 내는 소음과 더불어 쓰레기 수거 불량 등 생활 불편 민원이 급증하면서다. 19일 마라톤 대회 정보 사이트 ‘마라톤 온라인’에 등록된 대회 현황에 따르면 올해 서울에서 열리는 마라톤 대회는 178개로 집계됐다. 코로나19 이전인 2019년 92개 대비 51.7% 늘었고, 지난해보다 24개의 대회가 새로 생겼다. 올해 전국 등록 대회의 30.2%가 서울에 집중됐다. 서울이 ‘마라톤 특별도시’가 된 셈이다. 문제는 서울에서 열리는 대회의 경우 봄과 가을이면 사실상 매주 주말마다 열리는 데다, 광화문과 잠실 등 평소 교통량이 많은 곳을 반복해 통제하게 되면서 해당 지역 주민의 고통은 이미 임계점을 넘어섰다는 점이다. 서울시가 국회에 제출한 자료에 따르면 2022년부터 올해 7월까지 마라톤 관련 민원은 2719건으로, 이 가운데 교통 통제 관련 민원이 2266건(83.3%)이 가장 많았다. 빗발치는 민원에 오세훈 서울시장이 결국 칼을 빼들었다. 그는 페이스북을 통해 잦은 마라톤 대회 개최에 따른 시민 불편에 사과하면서 “내년 대회는 코스와 일정을 원점에서 다시 협의하겠다”고 했다. 마라톤을 즐기는 동호인들도 ‘도심 대회 축소’에 찬성하는 분위기다. 홍보법인 동서남북과 러닝 교육 전문업체 인피니트 오퍼튜니티가 최근 2년간 마라톤 대회에 참가한 경험이 있는 508명을 대상으로 설문조사를 진행한 결과 응답자의 89%가 서울 도심 마라톤 대회 축소에 찬성했다. 동호인들 사이에서는 환영받지 못하는 서울 대회 대신 지역별 특색 있는 대회를 찾거나, 마라톤이 ‘국민 스포츠’로 꼽히는 일본으로 마라톤 여행을 떠나는 사람도 늘고 있다. 7번의 풀코스(42.195㎞) 완주 경험이 있는 직장인 오모(43)씨는 “눈칫밥을 먹으며 뛰어야 하는 서울 대회와 달리 일본을 비롯한 해외 대회는 지역 축제로 환영받으며 오롯이 즐길 수 있어 달리는 동안은 내가 세상의 주인공이 된 듯한 느낌이 든다”며 “최근 일본 고베 마라톤에서도 많은 힘을 얻었고, 연말은 중국 상하이에서 달릴 예정”이라고 말했다. 이미지 확대 닫기 이미지 확대 보기 2023년 미국 시애틀마라톤에서 완주 당시 모습. 주요 코스마다 시민들의 응원이 끊이지 않았다. 박성국 기자 이번 기회에 대회 주최사의 주로 설정과 운영 방식 모두 개선해야 한다는 목소리도 나온다. 돈을 내고 달리는 사람만을 위한 행사가 아닌, 지역 주민 모두가 함께 참여하고 지역 경제 활성화에도 기여할 수 있는 ‘모두의 대회’가 필요하다는 취지다. 대회 기간 세계 각지에서 관광객이 몰리고 지역 주민들이 자원봉사로 참여하는 뉴욕·도쿄·베를린·런던마라톤 등 이른바 메이저 대회가 대표적이다. 뉴욕과 도쿄 등 세계 주요 도시에서는 연간 7~10회가량 크고 작은 마라톤 대회가 열리지만, 도심 중심을 관통하며 대대적으로 교통을 통제하는 대회는 각 도시를 대표하는 대회 1회에 불과하다. 그 외 대회는 차량이 다니지 않는 강변을 비롯해 도시 외곽에서 진행된다. 아울러 해외의 대회들은 일반 시민의 ‘인내’를 강요하지 않는다. 국내 대회는 주로에서 길을 건너려는 행인들을 교통경찰이나 진행요원들이 붙잡고 있다가 상황을 봐서 건너도록 안내해주지만, 해외 대회에서는 진행요원들이 주요 건널목마다 밧줄 등을 이용해 길을 만들어 시민의 안전하고 원활한 보행을 돕고 있다. 양송이 서울시의원 “서울교육 재정, 안정적 재원 확보와 교육현장 중심 예산 운용 필요” 서울시의회 양송이 교육위원회 부위원장(더불어민주당, 영등포4)은 지난 23일 열린 제340회 정례회 교육위원회 2027년도 서울시교육청 예산안 심사에서 교육재정의 구조적 한계를 점검하고, 안정적인 재원 확보와 교육현장의 실질적인 수요를 반영한 예산 운용을 촉구했다.\n서울시교육청이 제출한 2027년도 예산안은 총 11조 8014억원 규모로, 이 중 중앙정부 이전수입은 6조 8656억원(58.2%), 지방자치단체 이전수입은 4조 6979억원(39.7%)으로 편성됐다. 두 재원이 전체 세입의 약 98%를 차지하는 구조다.\n 이에 양 부위원장은 “서울교육 재정의 상당 부분이 중앙정부와 지방자치단체의 이전수입에 의존하고 있어 내국세와 지방세의 경기 변동에 영향을 받을 수밖에 없다”며 “안정적인 교육재정 확보를 위해 서울시와 서울시교육청이 단순한 사업별 협의를 넘어 중장기 재정 운영 방향을 함께 논의해야 한다”고 강조했다.\n특히 서울시와 교육청 간 정례 재정 협의체를 가동해 공동 교육사업의 중장기 재원 조달 및 기관별 분담 계획을 수립해야 한다고 강조했다. 이와 함께 공유재산의 체계적 관리와 자금 운용 수익 확대 등 교육청 자체 재원을 확충할 수 있는 다각적인 방안을 서울시의회 바로가기 오는 21일 서울 여의도공원 일원에서 열리는 ‘2026 아식스 서울신문 고프리런’ 역시 참가자의 쾌적한 달리기와 일반 시민의 불편 최소화를 목표로 코스를 설계했다. 여의도공원에서 출발해 서강대교를 건너 지하철 6호선 광흥창역에서 반환하는 경로다. 서강대교에서는 중앙분리대를 기준으로 한쪽은 참가자들이 달리고, 반대편은 양방향으로 나눠 차량이 다닐 수 있도록 할 예정이다. 박성국 기자 Copyright ⓒ 서울신문 All rights reserved. 무단 전재-재배포, AI 학습 및 활용 금지 [ 내안의 AI 본성 분석 : UNMASK ] \"기사를 읽는 동안 깨어난 당신의 숨겨진 페르소나를 AI가 스캔합니다.\" 기사 반응 MBTI 확인 Q. 기사를 끝까지 읽으셨나요? 이제 AI 퀴즈로 기사의 핵심 내용을 점검해보세요. 올해 서울에서 열린 마라톤 대회는 2019년 대비 얼마나 증가했는가? 51.7% 30.2%",
+        "source_part": "body",
+        "effective_at": null,
+        "derivation": "explicit",
+        "source_id": "c6fc62926535c5aaa90291a7",
+        "source_revision": "d06497d09c16176373396461",
+        "reference_source": null
+       },
+       {
+        "field_path": "/service_status",
+        "quote": "주말마다 교통 대란 서울도심 대회, ‘지역 축제’ 미국·일본에서 본 해법[박성국의 러닝 보급소] 박성국 기자 입력 2026-11-19 16:22 수정 2026-11-19 16:22 기사 읽어주기 다시듣기 글씨 크기 조절 글자크기 설정 닫기 글자크기 설정 시 다른 기사의 본문도\r\n                      동일하게 적용 됩니다. 가 가 가 가 가 프린트 공유하기 공유 닫기 페이스북 네이버블로그 엑스 카카오톡 밴드 https://www.seoul.co.kr/news/plan/Runner-supply-depot/2026/11/19/20261119500228 URL 복사 댓글 0 구글에서 서울신문 먼저 보기 세줄 요약 올해 서울에서 열리는 마라톤 대회는 178개로, 2019년보다 51.7% 늘었다. 봄과 가을마다 주말 교통 통제가 반복되면서 민원이 2719건 접수됐고, 이 가운데 교통 통제 관련 민원이 가장 많았다. 오세훈 서울시장은 시민 불편에 사과하며 내년 대회 코스와 일정을 다시 협의하겠다고 했다. 서울 마라톤 대회 급증과 시민 불편 확산 교통 통제 민원 집중, 서울시 재협의 방침 해외 도심 대회 운영 방식 비교와 개선 요구 이미지 확대 닫기 이미지 확대 보기 일요일이었던 지난 15일 서울 종로구 광화문광장에서 열린 한 마라톤 대회에서 참가자들이 힘차게 달려나가고 있다. 뉴시스 “우리 버스는 광화문으로 못 들어갑니다. 오늘 마라톤 교통 통제 때문에 남대문시장 쪽으로 돌아갑니다.” 배드민턴 코리아오픈 취재를 위해 전남광주 여수로 향했던 지난 8일. 버스를 몰던 기사가 정지 신호에 잠시 운행을 멈추고 몸을 돌려 승객들에게 우회 운행을 안내했다. 일요일 오전 6시, 휴일 이른 시간부터 버스에 몸을 실은 승객 사이에서는 일순간 장탄식이 터져 나왔고, 일부 욕설까지 들려왔다. 마라톤 참가자로 보이는 한 청년은 죄인이라도 된 듯 모자를 푹 눌러쓰며 서울역에서 하차를 준비했다. 코로나19 엔데믹과 맞물려 폭발적으로 번진 마라톤 열기가 ‘마라톤 혐오’라는 반작용을 일으키고 있다. 너무 잦은 대회에 따른 교통 통제로 시민 불편이 가중됐고, 주자들과 응원단이 내는 소음과 더불어 쓰레기 수거 불량 등 생활 불편 민원이 급증하면서다. 19일 마라톤 대회 정보 사이트 ‘마라톤 온라인’에 등록된 대회 현황에 따르면 올해 서울에서 열리는 마라톤 대회는 178개로 집계됐다. 코로나19 이전인 2019년 92개 대비 51.7% 늘었고, 지난해보다 24개의 대회가 새로 생겼다. 올해 전국 등록 대회의 30.2%가 서울에 집중됐다. 서울이 ‘마라톤 특별도시’가 된 셈이다. 문제는 서울에서 열리는 대회의 경우 봄과 가을이면 사실상 매주 주말마다 열리는 데다, 광화문과 잠실 등 평소 교통량이 많은 곳을 반복해 통제하게 되면서 해당 지역 주민의 고통은 이미 임계점을 넘어섰다는 점이다. 서울시가 국회에 제출한 자료에 따르면 2022년부터 올해 7월까지 마라톤 관련 민원은 2719건으로, 이 가운데 교통 통제 관련 민원이 2266건(83.3%)이 가장 많았다. 빗발치는 민원에 오세훈 서울시장이 결국 칼을 빼들었다. 그는 페이스북을 통해 잦은 마라톤 대회 개최에 따른 시민 불편에 사과하면서 “내년 대회는 코스와 일정을 원점에서 다시 협의하겠다”고 했다. 마라톤을 즐기는 동호인들도 ‘도심 대회 축소’에 찬성하는 분위기다. 홍보법인 동서남북과 러닝 교육 전문업체 인피니트 오퍼튜니티가 최근 2년간 마라톤 대회에 참가한 경험이 있는 508명을 대상으로 설문조사를 진행한 결과 응답자의 89%가 서울 도심 마라톤 대회 축소에 찬성했다. 동호인들 사이에서는 환영받지 못하는 서울 대회 대신 지역별 특색 있는 대회를 찾거나, 마라톤이 ‘국민 스포츠’로 꼽히는 일본으로 마라톤 여행을 떠나는 사람도 늘고 있다. 7번의 풀코스(42.195㎞) 완주 경험이 있는 직장인 오모(43)씨는 “눈칫밥을 먹으며 뛰어야 하는 서울 대회와 달리 일본을 비롯한 해외 대회는 지역 축제로 환영받으며 오롯이 즐길 수 있어 달리는 동안은 내가 세상의 주인공이 된 듯한 느낌이 든다”며 “최근 일본 고베 마라톤에서도 많은 힘을 얻었고, 연말은 중국 상하이에서 달릴 예정”이라고 말했다. 이미지 확대 닫기 이미지 확대 보기 2023년 미국 시애틀마라톤에서 완주 당시 모습. 주요 코스마다 시민들의 응원이 끊이지 않았다. 박성국 기자 이번 기회에 대회 주최사의 주로 설정과 운영 방식 모두 개선해야 한다는 목소리도 나온다. 돈을 내고 달리는 사람만을 위한 행사가 아닌, 지역 주민 모두가 함께 참여하고 지역 경제 활성화에도 기여할 수 있는 ‘모두의 대회’가 필요하다는 취지다. 대회 기간 세계 각지에서 관광객이 몰리고 지역 주민들이 자원봉사로 참여하는 뉴욕·도쿄·베를린·런던마라톤 등 이른바 메이저 대회가 대표적이다. 뉴욕과 도쿄 등 세계 주요 도시에서는 연간 7~10회가량 크고 작은 마라톤 대회가 열리지만, 도심 중심을 관통하며 대대적으로 교통을 통제하는 대회는 각 도시를 대표하는 대회 1회에 불과하다. 그 외 대회는 차량이 다니지 않는 강변을 비롯해 도시 외곽에서 진행된다. 아울러 해외의 대회들은 일반 시민의 ‘인내’를 강요하지 않는다. 국내 대회는 주로에서 길을 건너려는 행인들을 교통경찰이나 진행요원들이 붙잡고 있다가 상황을 봐서 건너도록 안내해주지만, 해외 대회에서는 진행요원들이 주요 건널목마다 밧줄 등을 이용해 길을 만들어 시민의 안전하고 원활한 보행을 돕고 있다. 양송이 서울시의원 “서울교육 재정, 안정적 재원 확보와 교육현장 중심 예산 운용 필요” 서울시의회 양송이 교육위원회 부위원장(더불어민주당, 영등포4)은 지난 23일 열린 제340회 정례회 교육위원회 2027년도 서울시교육청 예산안 심사에서 교육재정의 구조적 한계를 점검하고, 안정적인 재원 확보와 교육현장의 실질적인 수요를 반영한 예산 운용을 촉구했다.\n서울시교육청이 제출한 2027년도 예산안은 총 11조 8014억원 규모로, 이 중 중앙정부 이전수입은 6조 8656억원(58.2%), 지방자치단체 이전수입은 4조 6979억원(39.7%)으로 편성됐다. 두 재원이 전체 세입의 약 98%를 차지하는 구조다.\n 이에 양 부위원장은 “서울교육 재정의 상당 부분이 중앙정부와 지방자치단체의 이전수입에 의존하고 있어 내국세와 지방세의 경기 변동에 영향을 받을 수밖에 없다”며 “안정적인 교육재정 확보를 위해 서울시와 서울시교육청이 단순한 사업별 협의를 넘어 중장기 재정 운영 방향을 함께 논의해야 한다”고 강조했다.\n특히 서울시와 교육청 간 정례 재정 협의체를 가동해 공동 교육사업의 중장기 재원 조달 및 기관별 분담 계획을 수립해야 한다고 강조했다. 이와 함께 공유재산의 체계적 관리와 자금 운용 수익 확대 등 교육청 자체 재원을 확충할 수 있는 다각적인 방안을 서울시의회 바로가기 오는 21일 서울 여의도공원 일원에서 열리는 ‘2026 아식스 서울신문 고프리런’ 역시 참가자의 쾌적한 달리기와 일반 시민의 불편 최소화를 목표로 코스를 설계했다. 여의도공원에서 출발해 서강대교를 건너 지하철 6호선 광흥창역에서 반환하는 경로다. 서강대교에서는 중앙분리대를 기준으로 한쪽은 참가자들이 달리고, 반대편은 양방향으로 나눠 차량이 다닐 수 있도록 할 예정이다. 박성국 기자 Copyright ⓒ 서울신문 All rights reserved. 무단 전재-재배포, AI 학습 및 활용 금지 [ 내안의 AI 본성 분석 : UNMASK ] \"기사를 읽는 동안 깨어난 당신의 숨겨진 페르소나를 AI가 스캔합니다.\" 기사 반응 MBTI 확인 Q. 기사를 끝까지 읽으셨나요? 이제 AI 퀴즈로 기사의 핵심 내용을 점검해보세요. 올해 서울에서 열린 마라톤 대회는 2019년 대비 얼마나 증가했는가? 51.7% 30.2%",
+        "source_part": "body",
+        "effective_at": null,
+        "derivation": "explicit",
+        "source_id": "c6fc62926535c5aaa90291a7",
+        "source_revision": "d06497d09c16176373396461",
+        "reference_source": null
+       },
+       {
+        "field_path": "/normal_service_exceptions",
+        "quote": "주말마다 교통 대란 서울도심 대회, ‘지역 축제’ 미국·일본에서 본 해법[박성국의 러닝 보급소] 박성국 기자 입력 2026-11-19 16:22 수정 2026-11-19 16:22 기사 읽어주기 다시듣기 글씨 크기 조절 글자크기 설정 닫기 글자크기 설정 시 다른 기사의 본문도\r\n                      동일하게 적용 됩니다. 가 가 가 가 가 프린트 공유하기 공유 닫기 페이스북 네이버블로그 엑스 카카오톡 밴드 https://www.seoul.co.kr/news/plan/Runner-supply-depot/2026/11/19/20261119500228 URL 복사 댓글 0 구글에서 서울신문 먼저 보기 세줄 요약 올해 서울에서 열리는 마라톤 대회는 178개로, 2019년보다 51.7% 늘었다. 봄과 가을마다 주말 교통 통제가 반복되면서 민원이 2719건 접수됐고, 이 가운데 교통 통제 관련 민원이 가장 많았다. 오세훈 서울시장은 시민 불편에 사과하며 내년 대회 코스와 일정을 다시 협의하겠다고 했다. 서울 마라톤 대회 급증과 시민 불편 확산 교통 통제 민원 집중, 서울시 재협의 방침 해외 도심 대회 운영 방식 비교와 개선 요구 이미지 확대 닫기 이미지 확대 보기 일요일이었던 지난 15일 서울 종로구 광화문광장에서 열린 한 마라톤 대회에서 참가자들이 힘차게 달려나가고 있다. 뉴시스 “우리 버스는 광화문으로 못 들어갑니다. 오늘 마라톤 교통 통제 때문에 남대문시장 쪽으로 돌아갑니다.” 배드민턴 코리아오픈 취재를 위해 전남광주 여수로 향했던 지난 8일. 버스를 몰던 기사가 정지 신호에 잠시 운행을 멈추고 몸을 돌려 승객들에게 우회 운행을 안내했다. 일요일 오전 6시, 휴일 이른 시간부터 버스에 몸을 실은 승객 사이에서는 일순간 장탄식이 터져 나왔고, 일부 욕설까지 들려왔다. 마라톤 참가자로 보이는 한 청년은 죄인이라도 된 듯 모자를 푹 눌러쓰며 서울역에서 하차를 준비했다. 코로나19 엔데믹과 맞물려 폭발적으로 번진 마라톤 열기가 ‘마라톤 혐오’라는 반작용을 일으키고 있다. 너무 잦은 대회에 따른 교통 통제로 시민 불편이 가중됐고, 주자들과 응원단이 내는 소음과 더불어 쓰레기 수거 불량 등 생활 불편 민원이 급증하면서다. 19일 마라톤 대회 정보 사이트 ‘마라톤 온라인’에 등록된 대회 현황에 따르면 올해 서울에서 열리는 마라톤 대회는 178개로 집계됐다. 코로나19 이전인 2019년 92개 대비 51.7% 늘었고, 지난해보다 24개의 대회가 새로 생겼다. 올해 전국 등록 대회의 30.2%가 서울에 집중됐다. 서울이 ‘마라톤 특별도시’가 된 셈이다. 문제는 서울에서 열리는 대회의 경우 봄과 가을이면 사실상 매주 주말마다 열리는 데다, 광화문과 잠실 등 평소 교통량이 많은 곳을 반복해 통제하게 되면서 해당 지역 주민의 고통은 이미 임계점을 넘어섰다는 점이다. 서울시가 국회에 제출한 자료에 따르면 2022년부터 올해 7월까지 마라톤 관련 민원은 2719건으로, 이 가운데 교통 통제 관련 민원이 2266건(83.3%)이 가장 많았다. 빗발치는 민원에 오세훈 서울시장이 결국 칼을 빼들었다. 그는 페이스북을 통해 잦은 마라톤 대회 개최에 따른 시민 불편에 사과하면서 “내년 대회는 코스와 일정을 원점에서 다시 협의하겠다”고 했다. 마라톤을 즐기는 동호인들도 ‘도심 대회 축소’에 찬성하는 분위기다. 홍보법인 동서남북과 러닝 교육 전문업체 인피니트 오퍼튜니티가 최근 2년간 마라톤 대회에 참가한 경험이 있는 508명을 대상으로 설문조사를 진행한 결과 응답자의 89%가 서울 도심 마라톤 대회 축소에 찬성했다. 동호인들 사이에서는 환영받지 못하는 서울 대회 대신 지역별 특색 있는 대회를 찾거나, 마라톤이 ‘국민 스포츠’로 꼽히는 일본으로 마라톤 여행을 떠나는 사람도 늘고 있다. 7번의 풀코스(42.195㎞) 완주 경험이 있는 직장인 오모(43)씨는 “눈칫밥을 먹으며 뛰어야 하는 서울 대회와 달리 일본을 비롯한 해외 대회는 지역 축제로 환영받으며 오롯이 즐길 수 있어 달리는 동안은 내가 세상의 주인공이 된 듯한 느낌이 든다”며 “최근 일본 고베 마라톤에서도 많은 힘을 얻었고, 연말은 중국 상하이에서 달릴 예정”이라고 말했다. 이미지 확대 닫기 이미지 확대 보기 2023년 미국 시애틀마라톤에서 완주 당시 모습. 주요 코스마다 시민들의 응원이 끊이지 않았다. 박성국 기자 이번 기회에 대회 주최사의 주로 설정과 운영 방식 모두 개선해야 한다는 목소리도 나온다. 돈을 내고 달리는 사람만을 위한 행사가 아닌, 지역 주민 모두가 함께 참여하고 지역 경제 활성화에도 기여할 수 있는 ‘모두의 대회’가 필요하다는 취지다. 대회 기간 세계 각지에서 관광객이 몰리고 지역 주민들이 자원봉사로 참여하는 뉴욕·도쿄·베를린·런던마라톤 등 이른바 메이저 대회가 대표적이다. 뉴욕과 도쿄 등 세계 주요 도시에서는 연간 7~10회가량 크고 작은 마라톤 대회가 열리지만, 도심 중심을 관통하며 대대적으로 교통을 통제하는 대회는 각 도시를 대표하는 대회 1회에 불과하다. 그 외 대회는 차량이 다니지 않는 강변을 비롯해 도시 외곽에서 진행된다. 아울러 해외의 대회들은 일반 시민의 ‘인내’를 강요하지 않는다. 국내 대회는 주로에서 길을 건너려는 행인들을 교통경찰이나 진행요원들이 붙잡고 있다가 상황을 봐서 건너도록 안내해주지만, 해외 대회에서는 진행요원들이 주요 건널목마다 밧줄 등을 이용해 길을 만들어 시민의 안전하고 원활한 보행을 돕고 있다. 양송이 서울시의원 “서울교육 재정, 안정적 재원 확보와 교육현장 중심 예산 운용 필요” 서울시의회 양송이 교육위원회 부위원장(더불어민주당, 영등포4)은 지난 23일 열린 제340회 정례회 교육위원회 2027년도 서울시교육청 예산안 심사에서 교육재정의 구조적 한계를 점검하고, 안정적인 재원 확보와 교육현장의 실질적인 수요를 반영한 예산 운용을 촉구했다.\n서울시교육청이 제출한 2027년도 예산안은 총 11조 8014억원 규모로, 이 중 중앙정부 이전수입은 6조 8656억원(58.2%), 지방자치단체 이전수입은 4조 6979억원(39.7%)으로 편성됐다. 두 재원이 전체 세입의 약 98%를 차지하는 구조다.\n 이에 양 부위원장은 “서울교육 재정의 상당 부분이 중앙정부와 지방자치단체의 이전수입에 의존하고 있어 내국세와 지방세의 경기 변동에 영향을 받을 수밖에 없다”며 “안정적인 교육재정 확보를 위해 서울시와 서울시교육청이 단순한 사업별 협의를 넘어 중장기 재정 운영 방향을 함께 논의해야 한다”고 강조했다.\n특히 서울시와 교육청 간 정례 재정 협의체를 가동해 공동 교육사업의 중장기 재원 조달 및 기관별 분담 계획을 수립해야 한다고 강조했다. 이와 함께 공유재산의 체계적 관리와 자금 운용 수익 확대 등 교육청 자체 재원을 확충할 수 있는 다각적인 방안을 서울시의회 바로가기 오는 21일 서울 여의도공원 일원에서 열리는 ‘2026 아식스 서울신문 고프리런’ 역시 참가자의 쾌적한 달리기와 일반 시민의 불편 최소화를 목표로 코스를 설계했다. 여의도공원에서 출발해 서강대교를 건너 지하철 6호선 광흥창역에서 반환하는 경로다. 서강대교에서는 중앙분리대를 기준으로 한쪽은 참가자들이 달리고, 반대편은 양방향으로 나눠 차량이 다닐 수 있도록 할 예정이다. 박성국 기자 Copyright ⓒ 서울신문 All rights reserved. 무단 전재-재배포, AI 학습 및 활용 금지 [ 내안의 AI 본성 분석 : UNMASK ] \"기사를 읽는 동안 깨어난 당신의 숨겨진 페르소나를 AI가 스캔합니다.\" 기사 반응 MBTI 확인 Q. 기사를 끝까지 읽으셨나요? 이제 AI 퀴즈로 기사의 핵심 내용을 점검해보세요. 올해 서울에서 열린 마라톤 대회는 2019년 대비 얼마나 증가했는가? 51.7% 30.2%",
+        "source_part": "body",
+        "effective_at": null,
+        "derivation": "explicit",
+        "source_id": "c6fc62926535c5aaa90291a7",
+        "source_revision": "d06497d09c16176373396461",
+        "reference_source": null
+       },
+       {
+        "field_path": "/alternative_services",
+        "quote": "주말마다 교통 대란 서울도심 대회, ‘지역 축제’ 미국·일본에서 본 해법[박성국의 러닝 보급소] 박성국 기자 입력 2026-11-19 16:22 수정 2026-11-19 16:22 기사 읽어주기 다시듣기 글씨 크기 조절 글자크기 설정 닫기 글자크기 설정 시 다른 기사의 본문도\r\n                      동일하게 적용 됩니다. 가 가 가 가 가 프린트 공유하기 공유 닫기 페이스북 네이버블로그 엑스 카카오톡 밴드 https://www.seoul.co.kr/news/plan/Runner-supply-depot/2026/11/19/20261119500228 URL 복사 댓글 0 구글에서 서울신문 먼저 보기 세줄 요약 올해 서울에서 열리는 마라톤 대회는 178개로, 2019년보다 51.7% 늘었다. 봄과 가을마다 주말 교통 통제가 반복되면서 민원이 2719건 접수됐고, 이 가운데 교통 통제 관련 민원이 가장 많았다. 오세훈 서울시장은 시민 불편에 사과하며 내년 대회 코스와 일정을 다시 협의하겠다고 했다. 서울 마라톤 대회 급증과 시민 불편 확산 교통 통제 민원 집중, 서울시 재협의 방침 해외 도심 대회 운영 방식 비교와 개선 요구 이미지 확대 닫기 이미지 확대 보기 일요일이었던 지난 15일 서울 종로구 광화문광장에서 열린 한 마라톤 대회에서 참가자들이 힘차게 달려나가고 있다. 뉴시스 “우리 버스는 광화문으로 못 들어갑니다. 오늘 마라톤 교통 통제 때문에 남대문시장 쪽으로 돌아갑니다.” 배드민턴 코리아오픈 취재를 위해 전남광주 여수로 향했던 지난 8일. 버스를 몰던 기사가 정지 신호에 잠시 운행을 멈추고 몸을 돌려 승객들에게 우회 운행을 안내했다. 일요일 오전 6시, 휴일 이른 시간부터 버스에 몸을 실은 승객 사이에서는 일순간 장탄식이 터져 나왔고, 일부 욕설까지 들려왔다. 마라톤 참가자로 보이는 한 청년은 죄인이라도 된 듯 모자를 푹 눌러쓰며 서울역에서 하차를 준비했다. 코로나19 엔데믹과 맞물려 폭발적으로 번진 마라톤 열기가 ‘마라톤 혐오’라는 반작용을 일으키고 있다. 너무 잦은 대회에 따른 교통 통제로 시민 불편이 가중됐고, 주자들과 응원단이 내는 소음과 더불어 쓰레기 수거 불량 등 생활 불편 민원이 급증하면서다. 19일 마라톤 대회 정보 사이트 ‘마라톤 온라인’에 등록된 대회 현황에 따르면 올해 서울에서 열리는 마라톤 대회는 178개로 집계됐다. 코로나19 이전인 2019년 92개 대비 51.7% 늘었고, 지난해보다 24개의 대회가 새로 생겼다. 올해 전국 등록 대회의 30.2%가 서울에 집중됐다. 서울이 ‘마라톤 특별도시’가 된 셈이다. 문제는 서울에서 열리는 대회의 경우 봄과 가을이면 사실상 매주 주말마다 열리는 데다, 광화문과 잠실 등 평소 교통량이 많은 곳을 반복해 통제하게 되면서 해당 지역 주민의 고통은 이미 임계점을 넘어섰다는 점이다. 서울시가 국회에 제출한 자료에 따르면 2022년부터 올해 7월까지 마라톤 관련 민원은 2719건으로, 이 가운데 교통 통제 관련 민원이 2266건(83.3%)이 가장 많았다. 빗발치는 민원에 오세훈 서울시장이 결국 칼을 빼들었다. 그는 페이스북을 통해 잦은 마라톤 대회 개최에 따른 시민 불편에 사과하면서 “내년 대회는 코스와 일정을 원점에서 다시 협의하겠다”고 했다. 마라톤을 즐기는 동호인들도 ‘도심 대회 축소’에 찬성하는 분위기다. 홍보법인 동서남북과 러닝 교육 전문업체 인피니트 오퍼튜니티가 최근 2년간 마라톤 대회에 참가한 경험이 있는 508명을 대상으로 설문조사를 진행한 결과 응답자의 89%가 서울 도심 마라톤 대회 축소에 찬성했다. 동호인들 사이에서는 환영받지 못하는 서울 대회 대신 지역별 특색 있는 대회를 찾거나, 마라톤이 ‘국민 스포츠’로 꼽히는 일본으로 마라톤 여행을 떠나는 사람도 늘고 있다. 7번의 풀코스(42.195㎞) 완주 경험이 있는 직장인 오모(43)씨는 “눈칫밥을 먹으며 뛰어야 하는 서울 대회와 달리 일본을 비롯한 해외 대회는 지역 축제로 환영받으며 오롯이 즐길 수 있어 달리는 동안은 내가 세상의 주인공이 된 듯한 느낌이 든다”며 “최근 일본 고베 마라톤에서도 많은 힘을 얻었고, 연말은 중국 상하이에서 달릴 예정”이라고 말했다. 이미지 확대 닫기 이미지 확대 보기 2023년 미국 시애틀마라톤에서 완주 당시 모습. 주요 코스마다 시민들의 응원이 끊이지 않았다. 박성국 기자 이번 기회에 대회 주최사의 주로 설정과 운영 방식 모두 개선해야 한다는 목소리도 나온다. 돈을 내고 달리는 사람만을 위한 행사가 아닌, 지역 주민 모두가 함께 참여하고 지역 경제 활성화에도 기여할 수 있는 ‘모두의 대회’가 필요하다는 취지다. 대회 기간 세계 각지에서 관광객이 몰리고 지역 주민들이 자원봉사로 참여하는 뉴욕·도쿄·베를린·런던마라톤 등 이른바 메이저 대회가 대표적이다. 뉴욕과 도쿄 등 세계 주요 도시에서는 연간 7~10회가량 크고 작은 마라톤 대회가 열리지만, 도심 중심을 관통하며 대대적으로 교통을 통제하는 대회는 각 도시를 대표하는 대회 1회에 불과하다. 그 외 대회는 차량이 다니지 않는 강변을 비롯해 도시 외곽에서 진행된다. 아울러 해외의 대회들은 일반 시민의 ‘인내’를 강요하지 않는다. 국내 대회는 주로에서 길을 건너려는 행인들을 교통경찰이나 진행요원들이 붙잡고 있다가 상황을 봐서 건너도록 안내해주지만, 해외 대회에서는 진행요원들이 주요 건널목마다 밧줄 등을 이용해 길을 만들어 시민의 안전하고 원활한 보행을 돕고 있다. 양송이 서울시의원 “서울교육 재정, 안정적 재원 확보와 교육현장 중심 예산 운용 필요” 서울시의회 양송이 교육위원회 부위원장(더불어민주당, 영등포4)은 지난 23일 열린 제340회 정례회 교육위원회 2027년도 서울시교육청 예산안 심사에서 교육재정의 구조적 한계를 점검하고, 안정적인 재원 확보와 교육현장의 실질적인 수요를 반영한 예산 운용을 촉구했다.\n서울시교육청이 제출한 2027년도 예산안은 총 11조 8014억원 규모로, 이 중 중앙정부 이전수입은 6조 8656억원(58.2%), 지방자치단체 이전수입은 4조 6979억원(39.7%)으로 편성됐다. 두 재원이 전체 세입의 약 98%를 차지하는 구조다.\n 이에 양 부위원장은 “서울교육 재정의 상당 부분이 중앙정부와 지방자치단체의 이전수입에 의존하고 있어 내국세와 지방세의 경기 변동에 영향을 받을 수밖에 없다”며 “안정적인 교육재정 확보를 위해 서울시와 서울시교육청이 단순한 사업별 협의를 넘어 중장기 재정 운영 방향을 함께 논의해야 한다”고 강조했다.\n특히 서울시와 교육청 간 정례 재정 협의체를 가동해 공동 교육사업의 중장기 재원 조달 및 기관별 분담 계획을 수립해야 한다고 강조했다. 이와 함께 공유재산의 체계적 관리와 자금 운용 수익 확대 등 교육청 자체 재원을 확충할 수 있는 다각적인 방안을 서울시의회 바로가기 오는 21일 서울 여의도공원 일원에서 열리는 ‘2026 아식스 서울신문 고프리런’ 역시 참가자의 쾌적한 달리기와 일반 시민의 불편 최소화를 목표로 코스를 설계했다. 여의도공원에서 출발해 서강대교를 건너 지하철 6호선 광흥창역에서 반환하는 경로다. 서강대교에서는 중앙분리대를 기준으로 한쪽은 참가자들이 달리고, 반대편은 양방향으로 나눠 차량이 다닐 수 있도록 할 예정이다. 박성국 기자 Copyright ⓒ 서울신문 All rights reserved. 무단 전재-재배포, AI 학습 및 활용 금지 [ 내안의 AI 본성 분석 : UNMASK ] \"기사를 읽는 동안 깨어난 당신의 숨겨진 페르소나를 AI가 스캔합니다.\" 기사 반응 MBTI 확인 Q. 기사를 끝까지 읽으셨나요? 이제 AI 퀴즈로 기사의 핵심 내용을 점검해보세요. 올해 서울에서 열린 마라톤 대회는 2019년 대비 얼마나 증가했는가? 51.7% 30.2%",
+        "source_part": "body",
+        "effective_at": null,
+        "derivation": "explicit",
+        "source_id": "c6fc62926535c5aaa90291a7",
+        "source_revision": "d06497d09c16176373396461",
+        "reference_source": null
+       },
+       {
+        "field_path": "/start",
+        "quote": "주말마다 교통 대란 서울도심 대회, ‘지역 축제’ 미국·일본에서 본 해법[박성국의 러닝 보급소] 박성국 기자 입력 2026-11-19 16:22 수정 2026-11-19 16:22 기사 읽어주기 다시듣기 글씨 크기 조절 글자크기 설정 닫기 글자크기 설정 시 다른 기사의 본문도\r\n                      동일하게 적용 됩니다. 가 가 가 가 가 프린트 공유하기 공유 닫기 페이스북 네이버블로그 엑스 카카오톡 밴드 https://www.seoul.co.kr/news/plan/Runner-supply-depot/2026/11/19/20261119500228 URL 복사 댓글 0 구글에서 서울신문 먼저 보기 세줄 요약 올해 서울에서 열리는 마라톤 대회는 178개로, 2019년보다 51.7% 늘었다. 봄과 가을마다 주말 교통 통제가 반복되면서 민원이 2719건 접수됐고, 이 가운데 교통 통제 관련 민원이 가장 많았다. 오세훈 서울시장은 시민 불편에 사과하며 내년 대회 코스와 일정을 다시 협의하겠다고 했다. 서울 마라톤 대회 급증과 시민 불편 확산 교통 통제 민원 집중, 서울시 재협의 방침 해외 도심 대회 운영 방식 비교와 개선 요구 이미지 확대 닫기 이미지 확대 보기 일요일이었던 지난 15일 서울 종로구 광화문광장에서 열린 한 마라톤 대회에서 참가자들이 힘차게 달려나가고 있다. 뉴시스 “우리 버스는 광화문으로 못 들어갑니다. 오늘 마라톤 교통 통제 때문에 남대문시장 쪽으로 돌아갑니다.” 배드민턴 코리아오픈 취재를 위해 전남광주 여수로 향했던 지난 8일. 버스를 몰던 기사가 정지 신호에 잠시 운행을 멈추고 몸을 돌려 승객들에게 우회 운행을 안내했다. 일요일 오전 6시, 휴일 이른 시간부터 버스에 몸을 실은 승객 사이에서는 일순간 장탄식이 터져 나왔고, 일부 욕설까지 들려왔다. 마라톤 참가자로 보이는 한 청년은 죄인이라도 된 듯 모자를 푹 눌러쓰며 서울역에서 하차를 준비했다. 코로나19 엔데믹과 맞물려 폭발적으로 번진 마라톤 열기가 ‘마라톤 혐오’라는 반작용을 일으키고 있다. 너무 잦은 대회에 따른 교통 통제로 시민 불편이 가중됐고, 주자들과 응원단이 내는 소음과 더불어 쓰레기 수거 불량 등 생활 불편 민원이 급증하면서다. 19일 마라톤 대회 정보 사이트 ‘마라톤 온라인’에 등록된 대회 현황에 따르면 올해 서울에서 열리는 마라톤 대회는 178개로 집계됐다. 코로나19 이전인 2019년 92개 대비 51.7% 늘었고, 지난해보다 24개의 대회가 새로 생겼다. 올해 전국 등록 대회의 30.2%가 서울에 집중됐다. 서울이 ‘마라톤 특별도시’가 된 셈이다. 문제는 서울에서 열리는 대회의 경우 봄과 가을이면 사실상 매주 주말마다 열리는 데다, 광화문과 잠실 등 평소 교통량이 많은 곳을 반복해 통제하게 되면서 해당 지역 주민의 고통은 이미 임계점을 넘어섰다는 점이다. 서울시가 국회에 제출한 자료에 따르면 2022년부터 올해 7월까지 마라톤 관련 민원은 2719건으로, 이 가운데 교통 통제 관련 민원이 2266건(83.3%)이 가장 많았다. 빗발치는 민원에 오세훈 서울시장이 결국 칼을 빼들었다. 그는 페이스북을 통해 잦은 마라톤 대회 개최에 따른 시민 불편에 사과하면서 “내년 대회는 코스와 일정을 원점에서 다시 협의하겠다”고 했다. 마라톤을 즐기는 동호인들도 ‘도심 대회 축소’에 찬성하는 분위기다. 홍보법인 동서남북과 러닝 교육 전문업체 인피니트 오퍼튜니티가 최근 2년간 마라톤 대회에 참가한 경험이 있는 508명을 대상으로 설문조사를 진행한 결과 응답자의 89%가 서울 도심 마라톤 대회 축소에 찬성했다. 동호인들 사이에서는 환영받지 못하는 서울 대회 대신 지역별 특색 있는 대회를 찾거나, 마라톤이 ‘국민 스포츠’로 꼽히는 일본으로 마라톤 여행을 떠나는 사람도 늘고 있다. 7번의 풀코스(42.195㎞) 완주 경험이 있는 직장인 오모(43)씨는 “눈칫밥을 먹으며 뛰어야 하는 서울 대회와 달리 일본을 비롯한 해외 대회는 지역 축제로 환영받으며 오롯이 즐길 수 있어 달리는 동안은 내가 세상의 주인공이 된 듯한 느낌이 든다”며 “최근 일본 고베 마라톤에서도 많은 힘을 얻었고, 연말은 중국 상하이에서 달릴 예정”이라고 말했다. 이미지 확대 닫기 이미지 확대 보기 2023년 미국 시애틀마라톤에서 완주 당시 모습. 주요 코스마다 시민들의 응원이 끊이지 않았다. 박성국 기자 이번 기회에 대회 주최사의 주로 설정과 운영 방식 모두 개선해야 한다는 목소리도 나온다. 돈을 내고 달리는 사람만을 위한 행사가 아닌, 지역 주민 모두가 함께 참여하고 지역 경제 활성화에도 기여할 수 있는 ‘모두의 대회’가 필요하다는 취지다. 대회 기간 세계 각지에서 관광객이 몰리고 지역 주민들이 자원봉사로 참여하는 뉴욕·도쿄·베를린·런던마라톤 등 이른바 메이저 대회가 대표적이다. 뉴욕과 도쿄 등 세계 주요 도시에서는 연간 7~10회가량 크고 작은 마라톤 대회가 열리지만, 도심 중심을 관통하며 대대적으로 교통을 통제하는 대회는 각 도시를 대표하는 대회 1회에 불과하다. 그 외 대회는 차량이 다니지 않는 강변을 비롯해 도시 외곽에서 진행된다. 아울러 해외의 대회들은 일반 시민의 ‘인내’를 강요하지 않는다. 국내 대회는 주로에서 길을 건너려는 행인들을 교통경찰이나 진행요원들이 붙잡고 있다가 상황을 봐서 건너도록 안내해주지만, 해외 대회에서는 진행요원들이 주요 건널목마다 밧줄 등을 이용해 길을 만들어 시민의 안전하고 원활한 보행을 돕고 있다. 양송이 서울시의원 “서울교육 재정, 안정적 재원 확보와 교육현장 중심 예산 운용 필요” 서울시의회 양송이 교육위원회 부위원장(더불어민주당, 영등포4)은 지난 23일 열린 제340회 정례회 교육위원회 2027년도 서울시교육청 예산안 심사에서 교육재정의 구조적 한계를 점검하고, 안정적인 재원 확보와 교육현장의 실질적인 수요를 반영한 예산 운용을 촉구했다.\n서울시교육청이 제출한 2027년도 예산안은 총 11조 8014억원 규모로, 이 중 중앙정부 이전수입은 6조 8656억원(58.2%), 지방자치단체 이전수입은 4조 6979억원(39.7%)으로 편성됐다. 두 재원이 전체 세입의 약 98%를 차지하는 구조다.\n 이에 양 부위원장은 “서울교육 재정의 상당 부분이 중앙정부와 지방자치단체의 이전수입에 의존하고 있어 내국세와 지방세의 경기 변동에 영향을 받을 수밖에 없다”며 “안정적인 교육재정 확보를 위해 서울시와 서울시교육청이 단순한 사업별 협의를 넘어 중장기 재정 운영 방향을 함께 논의해야 한다”고 강조했다.\n특히 서울시와 교육청 간 정례 재정 협의체를 가동해 공동 교육사업의 중장기 재원 조달 및 기관별 분담 계획을 수립해야 한다고 강조했다. 이와 함께 공유재산의 체계적 관리와 자금 운용 수익 확대 등 교육청 자체 재원을 확충할 수 있는 다각적인 방안을 서울시의회 바로가기 오는 21일 서울 여의도공원 일원에서 열리는 ‘2026 아식스 서울신문 고프리런’ 역시 참가자의 쾌적한 달리기와 일반 시민의 불편 최소화를 목표로 코스를 설계했다. 여의도공원에서 출발해 서강대교를 건너 지하철 6호선 광흥창역에서 반환하는 경로다. 서강대교에서는 중앙분리대를 기준으로 한쪽은 참가자들이 달리고, 반대편은 양방향으로 나눠 차량이 다닐 수 있도록 할 예정이다. 박성국 기자 Copyright ⓒ 서울신문 All rights reserved. 무단 전재-재배포, AI 학습 및 활용 금지 [ 내안의 AI 본성 분석 : UNMASK ] \"기사를 읽는 동안 깨어난 당신의 숨겨진 페르소나를 AI가 스캔합니다.\" 기사 반응 MBTI 확인 Q. 기사를 끝까지 읽으셨나요? 이제 AI 퀴즈로 기사의 핵심 내용을 점검해보세요. 올해 서울에서 열린 마라톤 대회는 2019년 대비 얼마나 증가했는가? 51.7% 30.2%",
+        "source_part": "body",
+        "effective_at": null,
+        "derivation": "explicit",
+        "source_id": "c6fc62926535c5aaa90291a7",
+        "source_revision": "d06497d09c16176373396461",
+        "reference_source": null
+       },
+       {
+        "field_path": "/end",
+        "quote": "주말마다 교통 대란 서울도심 대회, ‘지역 축제’ 미국·일본에서 본 해법[박성국의 러닝 보급소] 박성국 기자 입력 2026-11-19 16:22 수정 2026-11-19 16:22 기사 읽어주기 다시듣기 글씨 크기 조절 글자크기 설정 닫기 글자크기 설정 시 다른 기사의 본문도\r\n                      동일하게 적용 됩니다. 가 가 가 가 가 프린트 공유하기 공유 닫기 페이스북 네이버블로그 엑스 카카오톡 밴드 https://www.seoul.co.kr/news/plan/Runner-supply-depot/2026/11/19/20261119500228 URL 복사 댓글 0 구글에서 서울신문 먼저 보기 세줄 요약 올해 서울에서 열리는 마라톤 대회는 178개로, 2019년보다 51.7% 늘었다. 봄과 가을마다 주말 교통 통제가 반복되면서 민원이 2719건 접수됐고, 이 가운데 교통 통제 관련 민원이 가장 많았다. 오세훈 서울시장은 시민 불편에 사과하며 내년 대회 코스와 일정을 다시 협의하겠다고 했다. 서울 마라톤 대회 급증과 시민 불편 확산 교통 통제 민원 집중, 서울시 재협의 방침 해외 도심 대회 운영 방식 비교와 개선 요구 이미지 확대 닫기 이미지 확대 보기 일요일이었던 지난 15일 서울 종로구 광화문광장에서 열린 한 마라톤 대회에서 참가자들이 힘차게 달려나가고 있다. 뉴시스 “우리 버스는 광화문으로 못 들어갑니다. 오늘 마라톤 교통 통제 때문에 남대문시장 쪽으로 돌아갑니다.” 배드민턴 코리아오픈 취재를 위해 전남광주 여수로 향했던 지난 8일. 버스를 몰던 기사가 정지 신호에 잠시 운행을 멈추고 몸을 돌려 승객들에게 우회 운행을 안내했다. 일요일 오전 6시, 휴일 이른 시간부터 버스에 몸을 실은 승객 사이에서는 일순간 장탄식이 터져 나왔고, 일부 욕설까지 들려왔다. 마라톤 참가자로 보이는 한 청년은 죄인이라도 된 듯 모자를 푹 눌러쓰며 서울역에서 하차를 준비했다. 코로나19 엔데믹과 맞물려 폭발적으로 번진 마라톤 열기가 ‘마라톤 혐오’라는 반작용을 일으키고 있다. 너무 잦은 대회에 따른 교통 통제로 시민 불편이 가중됐고, 주자들과 응원단이 내는 소음과 더불어 쓰레기 수거 불량 등 생활 불편 민원이 급증하면서다. 19일 마라톤 대회 정보 사이트 ‘마라톤 온라인’에 등록된 대회 현황에 따르면 올해 서울에서 열리는 마라톤 대회는 178개로 집계됐다. 코로나19 이전인 2019년 92개 대비 51.7% 늘었고, 지난해보다 24개의 대회가 새로 생겼다. 올해 전국 등록 대회의 30.2%가 서울에 집중됐다. 서울이 ‘마라톤 특별도시’가 된 셈이다. 문제는 서울에서 열리는 대회의 경우 봄과 가을이면 사실상 매주 주말마다 열리는 데다, 광화문과 잠실 등 평소 교통량이 많은 곳을 반복해 통제하게 되면서 해당 지역 주민의 고통은 이미 임계점을 넘어섰다는 점이다. 서울시가 국회에 제출한 자료에 따르면 2022년부터 올해 7월까지 마라톤 관련 민원은 2719건으로, 이 가운데 교통 통제 관련 민원이 2266건(83.3%)이 가장 많았다. 빗발치는 민원에 오세훈 서울시장이 결국 칼을 빼들었다. 그는 페이스북을 통해 잦은 마라톤 대회 개최에 따른 시민 불편에 사과하면서 “내년 대회는 코스와 일정을 원점에서 다시 협의하겠다”고 했다. 마라톤을 즐기는 동호인들도 ‘도심 대회 축소’에 찬성하는 분위기다. 홍보법인 동서남북과 러닝 교육 전문업체 인피니트 오퍼튜니티가 최근 2년간 마라톤 대회에 참가한 경험이 있는 508명을 대상으로 설문조사를 진행한 결과 응답자의 89%가 서울 도심 마라톤 대회 축소에 찬성했다. 동호인들 사이에서는 환영받지 못하는 서울 대회 대신 지역별 특색 있는 대회를 찾거나, 마라톤이 ‘국민 스포츠’로 꼽히는 일본으로 마라톤 여행을 떠나는 사람도 늘고 있다. 7번의 풀코스(42.195㎞) 완주 경험이 있는 직장인 오모(43)씨는 “눈칫밥을 먹으며 뛰어야 하는 서울 대회와 달리 일본을 비롯한 해외 대회는 지역 축제로 환영받으며 오롯이 즐길 수 있어 달리는 동안은 내가 세상의 주인공이 된 듯한 느낌이 든다”며 “최근 일본 고베 마라톤에서도 많은 힘을 얻었고, 연말은 중국 상하이에서 달릴 예정”이라고 말했다. 이미지 확대 닫기 이미지 확대 보기 2023년 미국 시애틀마라톤에서 완주 당시 모습. 주요 코스마다 시민들의 응원이 끊이지 않았다. 박성국 기자 이번 기회에 대회 주최사의 주로 설정과 운영 방식 모두 개선해야 한다는 목소리도 나온다. 돈을 내고 달리는 사람만을 위한 행사가 아닌, 지역 주민 모두가 함께 참여하고 지역 경제 활성화에도 기여할 수 있는 ‘모두의 대회’가 필요하다는 취지다. 대회 기간 세계 각지에서 관광객이 몰리고 지역 주민들이 자원봉사로 참여하는 뉴욕·도쿄·베를린·런던마라톤 등 이른바 메이저 대회가 대표적이다. 뉴욕과 도쿄 등 세계 주요 도시에서는 연간 7~10회가량 크고 작은 마라톤 대회가 열리지만, 도심 중심을 관통하며 대대적으로 교통을 통제하는 대회는 각 도시를 대표하는 대회 1회에 불과하다. 그 외 대회는 차량이 다니지 않는 강변을 비롯해 도시 외곽에서 진행된다. 아울러 해외의 대회들은 일반 시민의 ‘인내’를 강요하지 않는다. 국내 대회는 주로에서 길을 건너려는 행인들을 교통경찰이나 진행요원들이 붙잡고 있다가 상황을 봐서 건너도록 안내해주지만, 해외 대회에서는 진행요원들이 주요 건널목마다 밧줄 등을 이용해 길을 만들어 시민의 안전하고 원활한 보행을 돕고 있다. 양송이 서울시의원 “서울교육 재정, 안정적 재원 확보와 교육현장 중심 예산 운용 필요” 서울시의회 양송이 교육위원회 부위원장(더불어민주당, 영등포4)은 지난 23일 열린 제340회 정례회 교육위원회 2027년도 서울시교육청 예산안 심사에서 교육재정의 구조적 한계를 점검하고, 안정적인 재원 확보와 교육현장의 실질적인 수요를 반영한 예산 운용을 촉구했다.\n서울시교육청이 제출한 2027년도 예산안은 총 11조 8014억원 규모로, 이 중 중앙정부 이전수입은 6조 8656억원(58.2%), 지방자치단체 이전수입은 4조 6979억원(39.7%)으로 편성됐다. 두 재원이 전체 세입의 약 98%를 차지하는 구조다.\n 이에 양 부위원장은 “서울교육 재정의 상당 부분이 중앙정부와 지방자치단체의 이전수입에 의존하고 있어 내국세와 지방세의 경기 변동에 영향을 받을 수밖에 없다”며 “안정적인 교육재정 확보를 위해 서울시와 서울시교육청이 단순한 사업별 협의를 넘어 중장기 재정 운영 방향을 함께 논의해야 한다”고 강조했다.\n특히 서울시와 교육청 간 정례 재정 협의체를 가동해 공동 교육사업의 중장기 재원 조달 및 기관별 분담 계획을 수립해야 한다고 강조했다. 이와 함께 공유재산의 체계적 관리와 자금 운용 수익 확대 등 교육청 자체 재원을 확충할 수 있는 다각적인 방안을 서울시의회 바로가기 오는 21일 서울 여의도공원 일원에서 열리는 ‘2026 아식스 서울신문 고프리런’ 역시 참가자의 쾌적한 달리기와 일반 시민의 불편 최소화를 목표로 코스를 설계했다. 여의도공원에서 출발해 서강대교를 건너 지하철 6호선 광흥창역에서 반환하는 경로다. 서강대교에서는 중앙분리대를 기준으로 한쪽은 참가자들이 달리고, 반대편은 양방향으로 나눠 차량이 다닐 수 있도록 할 예정이다. 박성국 기자 Copyright ⓒ 서울신문 All rights reserved. 무단 전재-재배포, AI 학습 및 활용 금지 [ 내안의 AI 본성 분석 : UNMASK ] \"기사를 읽는 동안 깨어난 당신의 숨겨진 페르소나를 AI가 스캔합니다.\" 기사 반응 MBTI 확인 Q. 기사를 끝까지 읽으셨나요? 이제 AI 퀴즈로 기사의 핵심 내용을 점검해보세요. 올해 서울에서 열린 마라톤 대회는 2019년 대비 얼마나 증가했는가? 51.7% 30.2%",
+        "source_part": "body",
+        "effective_at": null,
+        "derivation": "explicit",
+        "source_id": "c6fc62926535c5aaa90291a7",
+        "source_revision": "d06497d09c16176373396461",
+        "reference_source": null
+       }
+      ],
+      "review_reasons": []
+     }
+    }
+   ],
+   "events": {
+    "schema_version": "1.0",
+    "article_relevance": "related",
+    "processing_status": "partial",
+    "source": {
+     "source_id": "c6fc62926535c5aaa90291a7",
+     "source_url": "https://www.seoul.co.kr/news/plan/Runner-supply-depot/2026/11/19/20261119500228?wlog_tag3=naver",
+     "source_revision": "d06497d09c16176373396461",
+     "published_at": "2026-11-19T16:22:34+09:00",
+     "updated_at": "2026-11-19T16:22:34+09:00",
+     "collected_at": "2026-11-24T14:26:15.394181+09:00"
+    },
+    "events": [
+     {
+      "event_ref": "1",
+      "event_name": "열리는 마라톤",
+      "event_type": "MARATHON",
+      "event_status": "UNKNOWN",
+      "event_period": {
+       "start": {
+        "raw": null,
+        "date": null,
+        "time": null,
+        "timezone": "Asia/Seoul",
+        "basis": "unknown",
+        "assertion": "unknown",
+        "open_ended": null
+       },
+       "end": {
+        "raw": null,
+        "date": null,
+        "time": null,
+        "timezone": "Asia/Seoul",
+        "basis": "unknown",
+        "assertion": "unknown",
+        "open_ended": null
+       },
+       "precision": "UNKNOWN",
+       "condition": null
+      },
+      "event_locations": [
+       {
+        "raw": "네이버블로",
+        "normalized_name": "네이버블로",
+        "region": null,
+        "reference_id": null,
+        "derivation": "article_explicit",
+        "reference_source": null
+       },
+       {
+        "raw": "178개로",
+        "normalized_name": "178개로",
+        "region": null,
+        "reference_id": null,
+        "derivation": "article_explicit",
+        "reference_source": null
+       }
+      ],
+      "impacts": [],
+      "evidence": [
+       {
+        "field_path": "/event",
+        "quote": "가 가 가 가 가 프린트 공유하기 공유 닫기 페이스북 네이버블로그 엑스 카카오톡 밴드 https://www.seoul.co.kr/news/plan/Runner-supply-depot/2026/11/19/20261119500228 URL 복사 댓글 0 구글에서 서울신문 먼저 보기 세줄 요약 올해 서울에서 열리는 마라톤 대회는 178개로, 2019년보다 51.7% 늘었다.",
+        "source_part": "body",
+        "effective_at": null,
+        "derivation": "explicit",
+        "source_id": "c6fc62926535c5aaa90291a7",
+        "source_revision": "d06497d09c16176373396461",
+        "reference_source": null
+       }
+      ],
+      "review_reasons": []
+     },
+     {
+      "event_ref": "2",
+      "event_name": "서울 마라톤",
+      "event_type": "MARATHON",
+      "event_status": "UNKNOWN",
+      "event_period": {
+       "start": {
+        "raw": null,
+        "date": null,
+        "time": null,
+        "timezone": "Asia/Seoul",
+        "basis": "unknown",
+        "assertion": "unknown",
+        "open_ended": null
+       },
+       "end": {
+        "raw": null,
+        "date": null,
+        "time": null,
+        "timezone": "Asia/Seoul",
+        "basis": "unknown",
+        "assertion": "unknown",
+        "open_ended": null
+       },
+       "precision": "UNKNOWN",
+       "condition": null
+      },
+      "event_locations": [
+       {
+        "raw": "서울",
+        "normalized_name": "서울",
+        "region": "서울",
+        "reference_id": null,
+        "derivation": "article_explicit",
+        "reference_source": null
+       }
+      ],
+      "impacts": [],
+      "evidence": [
+       {
+        "field_path": "/event",
+        "quote": "서울 마라톤 대회 급증과 시민 불편 확산 교통 통제 민원 집중",
+        "source_part": "body",
+        "effective_at": null,
+        "derivation": "explicit",
+        "source_id": "c6fc62926535c5aaa90291a7",
+        "source_revision": "d06497d09c16176373396461",
+        "reference_source": null
+       }
+      ],
+      "review_reasons": []
+     },
+     {
+      "event_ref": "4",
+      "event_name": "오늘 마라톤",
+      "event_type": "MARATHON",
+      "event_status": "UNKNOWN",
+      "event_period": {
+       "start": {
+        "raw": "오늘",
+        "date": null,
+        "time": null,
+        "timezone": "Asia/Seoul",
+        "basis": "relative",
+        "assertion": "planned",
+        "open_ended": null
+       },
+       "end": {
+        "raw": null,
+        "date": null,
+        "time": null,
+        "timezone": "Asia/Seoul",
+        "basis": "unknown",
+        "assertion": "unknown",
+        "open_ended": null
+       },
+       "precision": "UNKNOWN",
+       "condition": null
+      },
+      "event_locations": [
+       {
+        "raw": "쪽으로",
+        "normalized_name": "쪽으로",
+        "region": null,
+        "reference_id": null,
+        "derivation": "article_explicit",
+        "reference_source": null
+       },
+       {
+        "raw": "여수로",
+        "normalized_name": "여수로",
+        "region": null,
+        "reference_id": null,
+        "derivation": "article_explicit",
+        "reference_source": null
+       }
+      ],
+      "impacts": [],
+      "evidence": [
+       {
+        "field_path": "/event",
+        "quote": "오늘 마라톤 교통 통제 때문에 남대문시장 쪽으로 돌아갑니다.” 배드민턴 코리아오픈 취재를 위해 전남광주 여수로 향했던 지난 8일.",
+        "source_part": "body",
+        "effective_at": null,
+        "derivation": "explicit",
+        "source_id": "c6fc62926535c5aaa90291a7",
+        "source_revision": "d06497d09c16176373396461",
+        "reference_source": null
+       }
+      ],
+      "review_reasons": []
+     },
+     {
+      "event_ref": "5",
+      "event_name": "마라톤",
+      "event_type": "MARATHON",
+      "event_status": "UNKNOWN",
+      "event_period": {
+       "start": {
+        "raw": null,
+        "date": null,
+        "time": null,
+        "timezone": "Asia/Seoul",
+        "basis": "unknown",
+        "assertion": "unknown",
+        "open_ended": null
+       },
+       "end": {
+        "raw": null,
+        "date": null,
+        "time": null,
+        "timezone": "Asia/Seoul",
+        "basis": "unknown",
+        "assertion": "unknown",
+        "open_ended": null
+       },
+       "precision": "UNKNOWN",
+       "condition": null
+      },
+      "event_locations": [
+       {
+        "raw": "참가자로",
+        "normalized_name": "참가자로",
+        "region": null,
+        "reference_id": null,
+        "derivation": "article_explicit",
+        "reference_source": null
+       },
+       {
+        "raw": "서울역",
+        "normalized_name": "서울역",
+        "region": null,
+        "reference_id": null,
+        "derivation": "article_explicit",
+        "reference_source": null
+       }
+      ],
+      "impacts": [],
+      "evidence": [
+       {
+        "field_path": "/event",
+        "quote": "마라톤 참가자로 보이는 한 청년은 죄인이라도 된 듯 모자를 푹 눌러쓰며 서울역에서 하차를 준비했다.",
+        "source_part": "body",
+        "effective_at": null,
+        "derivation": "explicit",
+        "source_id": "c6fc62926535c5aaa90291a7",
+        "source_revision": "d06497d09c16176373396461",
+        "reference_source": null
+       }
+      ],
+      "review_reasons": [
+       "EVENT_IDENTITY_REQUIRES_REVIEW"
+      ]
+     },
+     {
+      "event_ref": "7",
+      "event_name": "19일 마라톤",
+      "event_type": "MARATHON",
+      "event_status": "UNKNOWN",
+      "event_period": {
+       "start": {
+        "raw": null,
+        "date": null,
+        "time": null,
+        "timezone": "Asia/Seoul",
+        "basis": "unknown",
+        "assertion": "unknown",
+        "open_ended": null
+       },
+       "end": {
+        "raw": null,
+        "date": null,
+        "time": null,
+        "timezone": "Asia/Seoul",
+        "basis": "unknown",
+        "assertion": "unknown",
+        "open_ended": null
+       },
+       "precision": "UNKNOWN",
+       "condition": null
+      },
+      "event_locations": [
+       {
+        "raw": "178개로",
+        "normalized_name": "178개로",
+        "region": null,
+        "reference_id": null,
+        "derivation": "article_explicit",
+        "reference_source": null,
+        "direction": null,
+        "section": null
+       }
+      ],
+      "impacts": [],
+      "evidence": [
+       {
+        "field_path": "/event",
+        "quote": "19일 마라톤 대회 정보 사이트 ‘마라톤 온라인’에 등록된 대회 현황에 따르면 올해 서울에서 열리는 마라톤 대회는 178개로 집계됐다.",
+        "source_part": "body",
+        "effective_at": null,
+        "derivation": "explicit",
+        "source_id": "c6fc62926535c5aaa90291a7",
+        "source_revision": "d06497d09c16176373396461",
+        "reference_source": null
+       }
+      ],
+      "review_reasons": []
+     },
+     {
+      "event_ref": "8",
+      "event_name": "마라톤",
+      "event_type": "MARATHON",
+      "event_status": "UNKNOWN",
+      "event_period": {
+       "start": {
+        "raw": null,
+        "date": null,
+        "time": null,
+        "timezone": "Asia/Seoul",
+        "basis": "unknown",
+        "assertion": "unknown",
+        "open_ended": null
+       },
+       "end": {
+        "raw": null,
+        "date": null,
+        "time": null,
+        "timezone": "Asia/Seoul",
+        "basis": "unknown",
+        "assertion": "unknown",
+        "open_ended": null
+       },
+       "precision": "UNKNOWN",
+       "condition": null
+      },
+      "event_locations": [],
+      "impacts": [],
+      "evidence": [
+       {
+        "field_path": "/event",
+        "quote": "서울이 ‘마라톤 특별도시’가 된 셈이다.",
+        "source_part": "body",
+        "effective_at": null,
+        "derivation": "explicit",
+        "source_id": "c6fc62926535c5aaa90291a7",
+        "source_revision": "d06497d09c16176373396461",
+        "reference_source": null
+       }
+      ],
+      "review_reasons": [
+       "EVENT_IDENTITY_REQUIRES_REVIEW"
+      ]
+     },
+     {
+      "event_ref": "9",
+      "event_name": "7월까지 마라톤",
+      "event_type": "MARATHON",
+      "event_status": "UNKNOWN",
+      "event_period": {
+       "start": {
+        "raw": null,
+        "date": null,
+        "time": null,
+        "timezone": "Asia/Seoul",
+        "basis": "unknown",
+        "assertion": "unknown",
+        "open_ended": null
+       },
+       "end": {
+        "raw": null,
+        "date": null,
+        "time": null,
+        "timezone": "Asia/Seoul",
+        "basis": "unknown",
+        "assertion": "unknown",
+        "open_ended": null
+       },
+       "precision": "UNKNOWN",
+       "condition": null
+      },
+      "event_locations": [
+       {
+        "raw": "2719건으로",
+        "normalized_name": "2719건으로",
+        "region": null,
+        "reference_id": null,
+        "derivation": "article_explicit",
+        "reference_source": null,
+        "direction": null,
+        "section": null
+       }
+      ],
+      "impacts": [
+       {
+        "impact_ref": "eeffcb9db30b6620c424c558",
+        "impact_type": "ROAD_CLOSURE",
+        "impact_status": "ANNOUNCED",
+        "assertion": "planned",
+        "period": {
+         "start": {
+          "raw": null,
+          "date": null,
+          "time": null,
+          "timezone": "Asia/Seoul",
+          "basis": "unknown",
+          "assertion": "unknown",
+          "open_ended": null
+         },
+         "end": {
+          "raw": null,
+          "date": null,
+          "time": null,
+          "timezone": "Asia/Seoul",
+          "basis": "unknown",
+          "assertion": "unknown",
+          "open_ended": null
+         },
+         "precision": "UNKNOWN",
+         "condition": null
+        },
+        "affected_scope": [
+         {
+          "raw": "2719건으로",
+          "normalized_name": "2719건으로",
+          "region": null,
+          "reference_id": null,
+          "derivation": "article_explicit",
+          "reference_source": null,
+          "direction": null,
+          "section": null
+         }
+        ],
+        "affected_modes": [
+         "car",
+         "taxi",
+         "bus"
+        ],
+        "exceptions": [],
+        "conditions": [],
+        "source_recommendations": [],
+        "evidence": [
+         {
+          "field_path": "/impacts",
+          "quote": "서울시가 국회에 제출한 자료에 따르면 2022년부터 올해 7월까지 마라톤 관련 민원은 2719건으로, 이 가운데 교통 통제 관련 민원이 2266건(83.3%)이 가장 많았다.",
+          "source_part": "body",
+          "effective_at": null,
+          "derivation": "explicit",
+          "source_id": "c6fc62926535c5aaa90291a7",
+          "source_revision": "d06497d09c16176373396461",
+          "reference_source": null
+         },
+         {
+          "field_path": "/period/date",
+          "quote": "서울시가 국회에 제출한 자료에 따르면 2022년부터 올해 7월까지 마라톤 관련 민원은 2719건으로, 이 가운데 교통 통제 관련 민원이 2266건(83.3%)이 가장 많았다.",
+          "source_part": "body",
+          "effective_at": null,
+          "derivation": "normalized",
+          "source_id": "c6fc62926535c5aaa90291a7",
+          "source_revision": "d06497d09c16176373396461",
+          "reference_source": null
+         }
+        ],
+        "review_reasons": []
+       }
+      ],
+      "evidence": [
+       {
+        "field_path": "/event",
+        "quote": "서울시가 국회에 제출한 자료에 따르면 2022년부터 올해 7월까지 마라톤 관련 민원은 2719건으로, 이 가운데 교통 통제 관련 민원이 2266건(83.3%)이 가장 많았다.",
+        "source_part": "body",
+        "effective_at": null,
+        "derivation": "explicit",
+        "source_id": "c6fc62926535c5aaa90291a7",
+        "source_revision": "d06497d09c16176373396461",
+        "reference_source": null
+       }
+      ],
+      "review_reasons": []
+     },
+     {
+      "event_ref": "12",
+      "event_name": "2년간 마라톤",
+      "event_type": "MARATHON",
+      "event_status": "UNKNOWN",
+      "event_period": {
+       "start": {
+        "raw": null,
+        "date": null,
+        "time": null,
+        "timezone": "Asia/Seoul",
+        "basis": "unknown",
+        "assertion": "unknown",
+        "open_ended": null
+       },
+       "end": {
+        "raw": null,
+        "date": null,
+        "time": null,
+        "timezone": "Asia/Seoul",
+        "basis": "unknown",
+        "assertion": "unknown",
+        "open_ended": null
+       },
+       "precision": "UNKNOWN",
+       "condition": null
+      },
+      "event_locations": [
+       {
+        "raw": "대상으로",
+        "normalized_name": "대상으로",
+        "region": "서울",
+        "reference_id": null,
+        "derivation": "article_explicit",
+        "reference_source": null,
+        "direction": null,
+        "section": null
+       }
+      ],
+      "impacts": [],
+      "evidence": [
+       {
+        "field_path": "/event",
+        "quote": "홍보법인 동서남북과 러닝 교육 전문업체 인피니트 오퍼튜니티가 최근 2년간 마라톤 대회에 참가한 경험이 있는 508명을 대상으로 설문조사를 진행한 결과 응답자의 89%가 서울 도심 마라톤 대회 축소에 찬성했다.",
+        "source_part": "body",
+        "effective_at": null,
+        "derivation": "explicit",
+        "source_id": "c6fc62926535c5aaa90291a7",
+        "source_revision": "d06497d09c16176373396461",
+        "reference_source": null
+       }
+      ],
+      "review_reasons": []
+     },
+     {
+      "event_ref": "19",
+      "event_name": "열린 마라톤",
+      "event_type": "MARATHON",
+      "event_status": "UNKNOWN",
+      "event_period": {
+       "start": {
+        "raw": null,
+        "date": null,
+        "time": null,
+        "timezone": "Asia/Seoul",
+        "basis": "unknown",
+        "assertion": "unknown",
+        "open_ended": null
+       },
+       "end": {
+        "raw": null,
+        "date": null,
+        "time": null,
+        "timezone": "Asia/Seoul",
+        "basis": "unknown",
+        "assertion": "unknown",
+        "open_ended": null
+       },
+       "precision": "UNKNOWN",
+       "condition": null
+      },
+      "event_locations": [],
+      "impacts": [],
+      "evidence": [
+       {
+        "field_path": "/event",
+        "quote": "올해 서울에서 열린 마라톤 대회는 2019년 대비 얼마나 증가했는가?",
+        "source_part": "body",
+        "effective_at": null,
+        "derivation": "explicit",
+        "source_id": "c6fc62926535c5aaa90291a7",
+        "source_revision": "d06497d09c16176373396461",
+        "reference_source": null
+       }
+      ],
+      "review_reasons": []
+     }
+    ],
+    "review_reasons": []
+   }
   }
  ],
  "transportReferences": [],
  "extractionFailures": [
   {
-   "source_url": "https://www.fnnews.com/news/202611240926477244",
-   "status": "validation_failed"
-  },
-  {
    "source_url": "https://www.fnnews.com/news/202611231053473734",
    "status": "validation_failed"
   },
   {
-   "source_url": "https://www.yna.co.kr/view/AKR20261123167451004?input=1195m",
-   "status": "validation_failed"
+   "source_url": "https://www.nocutnews.co.kr/news/6611719?utm_source=naver&utm_medium=article&utm_campaign=20261124134102",
+   "status": "policy_unavailable"
   },
   {
    "source_url": "https://www.nocutnews.co.kr/news/6611558?utm_source=naver&utm_medium=article&utm_campaign=20261124101200",
+   "status": "policy_unavailable"
+  },
+  {
+   "source_url": "https://www.nocutnews.co.kr/news/6611720?utm_source=naver&utm_medium=article&utm_campaign=20261124134002",
    "status": "policy_unavailable"
   }
  ]
