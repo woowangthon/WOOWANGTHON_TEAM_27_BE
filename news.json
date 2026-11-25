@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-25T21:16:36.055767+09:00",
+ "generatedAt": "2026-11-26T06:27:02.608727+09:00",
  "windowDays": 14,
  "queries": [
   "버스 파업",
@@ -17,11 +17,31 @@
    "url": "https://www.ncloud.com/product/applicationService/naverApiHub"
   }
  ],
- "articles": 261,
+ "articles": 260,
  "searchResults": [
   {
+   "url": "https://www.news1.kr/realestate/general/6366080",
+   "title": "철도노조 준법투쟁…출근길 1·3·4호선 코레일 운영 구간 지연 우려",
+   "query": "버스 파업"
+  },
+  {
+   "url": "https://www.hankyung.com/article/2026112503071",
+   "title": "[사설] 서울지하철, 파업 피했을 뿐 '만성 적자' 우려 더 커졌다",
+   "query": "버스 파업"
+  },
+  {
+   "url": "http://www.gjdream.com/news/articleView.html?idxno=674659",
+   "title": "내일 학교비정규직 총파업…급식·돌봄 비상",
+   "query": "버스 파업"
+  },
+  {
+   "url": "https://www.sedaily.com/article/20119072?ref=naver",
+   "title": "서울지하철 파업 피했지만…인력 감축 갈등은 여전",
+   "query": "버스 파업"
+  },
+  {
    "url": "https://www.khan.co.kr/article/202611252052025",
-   "title": "지하철 파업 또 넘겼지만…‘만성 적자·2212명 감축’ 불씨",
+   "title": "서울 지하철 파업 또 넘겼지만…‘만성 적자·2212명 감축’ 불씨",
    "query": "버스 파업"
   },
   {
@@ -36,7 +56,7 @@
   },
   {
    "url": "https://www.hankyung.com/article/2026112502911",
-   "title": "파업은 모면…20조 적자 눈감은 서울지하철",
+   "title": "파업은 모면…20조원 적자 눈감은 서울지하철",
    "query": "버스 파업"
   },
   {
@@ -240,34 +260,44 @@
    "query": "버스 파업"
   },
   {
-   "url": "https://www.ikbc.co.kr/article/view/kbc202611250001",
-   "title": "서울지하철 임단협 타결, 파업 철회...'출근길 대란' 피했다",
-   "query": "버스 파업"
-  },
-  {
    "url": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202611250006&t=NN",
    "title": "서울지하철 임단협, 파업 목전서 타결…'출근길 대란' 피했다",
    "query": "버스 파업"
   },
   {
-   "url": "https://www.kyeonggi.com/article/20261125580001",
-   "title": "서울 지하철 ‘출근길 대란’ 피했다…서울교통공사 노사 임단협 타결",
+   "url": "https://www.ikbc.co.kr/article/view/kbc202611250001",
+   "title": "서울지하철 임단협 타결, 파업 철회...'출근길 대란' 피했다",
    "query": "버스 파업"
   },
   {
-   "url": "https://www.hankyung.com/article/2026112581127",
-   "title": "출근길 대란 피했다…서울지하철 임단협 극적 타결",
-   "query": "버스 파업"
+   "url": "https://biz.heraldcorp.com/article/10949546?ref=naver",
+   "title": "철도노조, 오늘 오전 9시부터 준법투쟁…KTX 등 열차 지연 우려",
+   "query": "지하철 파업"
   },
   {
-   "url": "https://www.news1.kr/local/moi/6364903",
-   "title": "파업 피했지만 적자는 여전…서울지하철 노사 타결에도 남은 숙제",
-   "query": "버스 파업"
+   "url": "https://www.segye.com/newsView/20261125519588?OutUrl=naver",
+   "title": "500명 신규채용 합의… 서울 지하철 노사 임단협 극적 타결",
+   "query": "지하철 파업"
   },
   {
-   "url": "https://www.yna.co.kr/view/AKR20261125004253004?input=1195m",
-   "title": "서울지하철 임단협 타결로 파업 철회…'출근길 대란' 피했다(종합3보)",
-   "query": "버스 파업"
+   "url": "https://www.joongang.co.kr/article/25482075",
+   "title": "철도노조, 오전 9시부터 ‘안전운행 투쟁’…KTX 등 열차 운행 차질 불가...",
+   "query": "지하철 파업"
+  },
+  {
+   "url": "https://www.donga.com/news/Society/article/all/20261125/135091893/2",
+   "title": "서울지하철 파업 피했지만 ‘인력 감축’ 불씨 여전",
+   "query": "지하철 파업"
+  },
+  {
+   "url": "https://www.pointdaily.co.kr/news/articleView.html?idxno=327446",
+   "title": "[출근길 포인트] 홈플러스 휴업·철도노조 준법투쟁…젠슨 황 기존체제...",
+   "query": "지하철 파업"
+  },
+  {
+   "url": "https://www.fntoday.co.kr/news/articleView.html?idxno=400329",
+   "title": "한신 서울시의회 교통위원장, 서울지하철 1~8호선 총파업 철회…서울교...",
+   "query": "지하철 파업"
   },
   {
    "url": "https://www.khan.co.kr/article/202611252056001",
@@ -335,13 +365,13 @@
    "query": "지하철 파업"
   },
   {
-   "url": "https://www.donga.com/news/Society/article/all/20261125/135089253/1",
-   "title": "정원감축 보류한 서울지하철, 파업 면했지만 분쟁 불씨 여전",
+   "url": "https://weekly.hankooki.com/news/articleView.html?idxno=7195708",
+   "title": "철도노조, 26일부터 안전운행투쟁…12월 10일 총파업",
    "query": "지하철 파업"
   },
   {
-   "url": "https://weekly.hankooki.com/news/articleView.html?idxno=7195708",
-   "title": "철도노조, 26일부터 안전운행투쟁…12월 10일 총파업",
+   "url": "https://www.donga.com/news/Society/article/all/20261125/135089253/1",
+   "title": "정원감축 보류한 서울지하철, 파업 면했지만 분쟁 불씨 여전",
    "query": "지하철 파업"
   },
   {
@@ -400,13 +430,13 @@
    "query": "지하철 파업"
   },
   {
-   "url": "https://www.hani.co.kr/arti/politics/politics_general/1289054.html",
-   "title": "박홍근 장관 “오세훈, 국무회의 뒷줄서 호시탐탐 공격 기회 엿봐”",
+   "url": "https://www.seoul.co.kr/news/society/2026/11/25/20261125500210?wlog_tag3=naver",
+   "title": "‘총파업’ 예고 철도노조, 26일부터 ‘안전 운행 투쟁’…열차 이용 불...",
    "query": "지하철 파업"
   },
   {
-   "url": "https://www.seoul.co.kr/news/society/2026/11/25/20261125500210?wlog_tag3=naver",
-   "title": "‘총파업’ 예고 철도노조, 26일부터 ‘안전 운행 투쟁’…열차 이용 불...",
+   "url": "https://www.hani.co.kr/arti/politics/politics_general/1289054.html",
+   "title": "박홍근 장관 “오세훈, 국무회의 뒷줄서 호시탐탐 공격 기회 엿봐”",
    "query": "지하철 파업"
   },
   {
@@ -450,44 +480,54 @@
    "query": "지하철 파업"
   },
   {
-   "url": "https://weekly.khan.co.kr/article/202611251435011",
-   "title": "박홍근 “오세훈, 국무회의 내내 눈감고 있다가 폐회 선언 때 갑자기 발...",
-   "query": "지하철 파업"
+   "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008863887&plink=ORI&cooper=NAVER",
+   "title": "철도노조, '안전운행 투쟁'…일부 열차 지연 예상",
+   "query": "철도 파업"
   },
   {
-   "url": "http://www.newstomato.com/ReadNews.aspx?no=1321780&inflow=N",
-   "title": "'출근길 대란'은 피했지만…'인력공백' 과제는 여전",
-   "query": "지하철 파업"
+   "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008863884&plink=ORI&cooper=NAVER",
+   "title": "[모닝와이드] 오늘의 주요뉴스",
+   "query": "철도 파업"
   },
   {
-   "url": "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003288231&CMPT_CD=P0010&utm_source=naver&utm_medium=newsearch&utm_campaign=naver_news",
-   "title": "박홍근이 오세훈에 \"때·장소 가리라\" 지적한 까닭",
-   "query": "지하철 파업"
+   "url": "http://www.yonhapnewstv.co.kr/news/MYH20261126052422yXh",
+   "title": "철도노조 오늘부터 준법투쟁…비상대책본부 가동",
+   "query": "철도 파업"
   },
   {
-   "url": "https://imnews.imbc.com/replay/2026/nw1200/article/6868413_36967.html",
-   "title": "'출근길 대란' 피했다‥서울지하철 노사 협상 타결",
-   "query": "지하철 파업"
+   "url": "https://www.mt.co.kr/estate/2026/11/26/2026112519511881096",
+   "title": "'막판 담판' 나서는 LH사장...노사 최종교섭 내주로 연기",
+   "query": "철도 파업"
   },
   {
-   "url": "https://www.newscj.com/news/articleView.html?idxno=3451954",
-   "title": "[포토] '총파업 철회' 정상 운행하는 서울 지하철",
-   "query": "지하철 파업"
+   "url": "https://www.ytn.co.kr/_ln/0102_202611260037578547",
+   "title": "철도노조, 오늘부터 준법투쟁...비상대책본부 가동",
+   "query": "철도 파업"
   },
   {
-   "url": "https://www.tokenpost.kr/news/economy/443909",
-   "title": "서울 지하철 노사 협상 타결…첫차부터 정상 운행",
-   "query": "지하철 파업"
+   "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8722788&ref=A",
+   "title": "철도노조, 오늘(26일)부터 ‘안전운행 투쟁’… 일부 열차 운행 차질 예...",
+   "query": "철도 파업"
   },
   {
-   "url": "https://www.munhwa.com/article/11634050?ref=naver",
-   "title": "경영혁신 사라지고 채용만 늘린 서울지하철",
-   "query": "지하철 파업"
+   "url": "https://www.ytn.co.kr/_ln/0102_202611260009193981",
+   "title": "철도노조, 오늘부터 준법투쟁...\"비상대책본부 가동\"",
+   "query": "철도 파업"
   },
   {
-   "url": "http://www.00news.co.kr/news/articleView.html?idxno=108343",
-   "title": "오세훈 발언 막힌 국무회의에 與野 충돌",
-   "query": "지하철 파업"
+   "url": "https://www.ksilbo.co.kr/news/articleView.html?idxno=1073628",
+   "title": "철도노조 \"안전운행 투쟁\"…운행차질 불가피",
+   "query": "철도 파업"
+  },
+  {
+   "url": "https://www.mk.co.kr/article/12218768",
+   "title": "전국철도노조 준법 투쟁… 수도권 전철 등 지연 우려",
+   "query": "철도 파업"
+  },
+  {
+   "url": "https://tjmbc.co.kr/NewsArticle/875458",
+   "title": "철도노조, 내일부터 '안전 운행 투쟁'…운행 차질 불가피",
+   "query": "철도 파업"
   },
   {
    "url": "https://www.abcn.kr/news/articleView.html?idxno=95043",
@@ -505,17 +545,7 @@
    "query": "철도 파업"
   },
   {
-   "url": "https://www.yna.co.kr/view/PYH20261125202700053?input=1196m",
-   "title": "야간 총회 진행하는 철도노조",
-   "query": "철도 파업"
-  },
-  {
-   "url": "https://www.yna.co.kr/view/PYH20261125203000053?input=1196m",
-   "title": "야간 총회 진행하는 철도노조",
-   "query": "철도 파업"
-  },
-  {
-   "url": "https://www.yna.co.kr/view/PYH20261125203300053?input=1196m",
+   "url": "https://www.yna.co.kr/view/PYH20261125202900053?input=1196m",
    "title": "야간 총회 진행하는 철도노조",
    "query": "철도 파업"
   },
@@ -525,7 +555,12 @@
    "query": "철도 파업"
   },
   {
-   "url": "https://www.yna.co.kr/view/PYH20261125202900053?input=1196m",
+   "url": "https://www.yna.co.kr/view/PYH20261125203300053?input=1196m",
+   "title": "야간 총회 진행하는 철도노조",
+   "query": "철도 파업"
+  },
+  {
+   "url": "https://www.yna.co.kr/view/PYH20261125203100053?input=1196m",
    "title": "야간 총회 진행하는 철도노조",
    "query": "철도 파업"
   },
@@ -535,7 +570,12 @@
    "query": "철도 파업"
   },
   {
-   "url": "https://www.yna.co.kr/view/PYH20261125203100053?input=1196m",
+   "url": "https://www.yna.co.kr/view/PYH20261125203000053?input=1196m",
+   "title": "야간 총회 진행하는 철도노조",
+   "query": "철도 파업"
+  },
+  {
+   "url": "https://www.yna.co.kr/view/PYH20261125202700053?input=1196m",
    "title": "야간 총회 진행하는 철도노조",
    "query": "철도 파업"
   },
@@ -550,13 +590,13 @@
    "query": "철도 파업"
   },
   {
-   "url": "https://www.yna.co.kr/view/AKR20261125155400011?input=1195m",
-   "title": "[연합뉴스 이 시각 헤드라인] - 18:00",
+   "url": "https://www.donga.com/news/Economy/article/all/20261125/135090182/1",
+   "title": "철도노조 내일부터 ‘안전운행 투쟁’…열차 감속·시간외업무 거부",
    "query": "철도 파업"
   },
   {
-   "url": "https://www.donga.com/news/Economy/article/all/20261125/135090182/1",
-   "title": "철도노조 내일부터 ‘안전운행 투쟁’…열차 감속·시간외업무 거부",
+   "url": "https://www.yna.co.kr/view/AKR20261125155400011?input=1195m",
+   "title": "[연합뉴스 이 시각 헤드라인] - 18:00",
    "query": "철도 파업"
   },
   {
@@ -582,32 +622,12 @@
   {
    "url": "https://www.slist.kr/news/articleView.html?idxno=784740",
    "title": "철도노조, 26일부터 안전운행 투쟁…12월 10일 무기한 총파업 예고",
-   "query": "철도 파업"
-  },
-  {
-   "url": "https://www.mt.co.kr/estate/2026/11/25/2026112514103246141",
-   "title": "LH, 최종 노사 교섭 연기…총파업 초읽기",
-   "query": "철도 파업"
+   "query": "파업 예고 운행"
   },
   {
    "url": "https://biz.sbs.co.kr/article_hub/20000348763?division=NAVER",
    "title": "신규 채용으로 지하철 파업 피했지만…적자·코레일 '불씨'",
-   "query": "철도 파업"
-  },
-  {
-   "url": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202611250720209210469",
-   "title": "[경북 브리핑 모음(11월 25일)] 경북도, 베트남 달랏서 K-푸드·뷰티 수...",
-   "query": "철도 파업"
-  },
-  {
-   "url": "http://www.sisunnews.co.kr/news/articleView.html?idxno=250411",
-   "title": "서울지하철 임단협 타결로 파업 철회... '출근길 대란' 피했다 外 [오늘...",
-   "query": "철도 파업"
-  },
-  {
-   "url": "http://www.incheonnews.com/news/articleView.html?idxno=443536",
-   "title": "[교통현안] 서울지하철 파업 철회 … 인천교통공사도 임금협상 순항",
-   "query": "철도 파업"
+   "query": "파업 예고 운행"
   },
   {
    "url": "http://www.ikld.kr/news/articleView.html?idxno=344842",
@@ -645,11 +665,6 @@
    "query": "파업 예고 운행"
   },
   {
-   "url": "http://www.sisacast.kr/news/articleView.html?idxno=102314",
-   "title": "서울 지하철 노사 임단협 잠정 합의…25일 총파업 철회·정상 운행",
-   "query": "파업 예고 운행"
-  },
-  {
    "url": "https://www.newsis.com/view/NISI20261125_0021544475",
    "title": "지하철 운행 정상화",
    "query": "파업 예고 운행"
@@ -657,6 +672,26 @@
   {
    "url": "https://www.newsis.com/view/NISI20261125_0021544474",
    "title": "예고했던 파업 철회로 지하철 운행 정상화",
+   "query": "파업 예고 운행"
+  },
+  {
+   "url": "http://www.sisacast.kr/news/articleView.html?idxno=102314",
+   "title": "서울 지하철 노사 임단협 잠정 합의…25일 총파업 철회·정상 운행",
+   "query": "파업 예고 운행"
+  },
+  {
+   "url": "https://www.newsis.com/view/NISI20261125_0021544456",
+   "title": "'서울 지하철 운행 차질 없어요'",
+   "query": "파업 예고 운행"
+  },
+  {
+   "url": "https://www.newsis.com/view/NISI20261125_0021544461",
+   "title": "'서울 지하철 운행 차질 없어요'",
+   "query": "파업 예고 운행"
+  },
+  {
+   "url": "https://www.newsis.com/view/NISI20261125_0021544463",
+   "title": "서울 지하철 정상 운행",
    "query": "파업 예고 운행"
   },
   {
@@ -672,21 +707,6 @@
   {
    "url": "https://www.newsis.com/view/NISI20261125_0021544473",
    "title": "예고했던 파업 철회로 지하철 운행 정상화",
-   "query": "파업 예고 운행"
-  },
-  {
-   "url": "https://www.newsis.com/view/NISI20261125_0021544461",
-   "title": "'서울 지하철 운행 차질 없어요'",
-   "query": "파업 예고 운행"
-  },
-  {
-   "url": "https://www.newsis.com/view/NISI20261125_0021544463",
-   "title": "서울 지하철 정상 운행",
-   "query": "파업 예고 운행"
-  },
-  {
-   "url": "https://www.newsis.com/view/NISI20261125_0021544456",
-   "title": "'서울 지하철 운행 차질 없어요'",
    "query": "파업 예고 운행"
   },
   {
@@ -707,31 +727,6 @@
   {
    "url": "http://news.lghellovision.net/news/articleView.html?idxno=563625",
    "title": "서울 지하철 노사 임단협 타결··· 정상 운행",
-   "query": "파업 예고 운행"
-  },
-  {
-   "url": "https://www.dt.co.kr/article/12097081?ref=naver",
-   "title": "서울 지하철 총파업 앞두고 임단협 타결…3개 노조 총파업 철회",
-   "query": "파업 예고 운행"
-  },
-  {
-   "url": "https://www.youthdaily.co.kr/news/article.html?no=230267",
-   "title": "서울교통공사 노사 임단협 '극적 타결'…지하철 파업 철회",
-   "query": "파업 예고 운행"
-  },
-  {
-   "url": "https://www.ekn.kr/web/view.php?key=20261125025144309",
-   "title": "서울지하철 1~8호선 정상 운행…3개 노조 파업 철회·500명 추가 채용",
-   "query": "파업 예고 운행"
-  },
-  {
-   "url": "http://www.yonhapnewstv.co.kr/news/MYH20261125082254a2l",
-   "title": "서울 지하철 노사 교섭 타결로 파업 철회…출근대란 없어",
-   "query": "파업 예고 운행"
-  },
-  {
-   "url": "https://www.tjb.co.kr/news05/bodo/view/id/106486",
-   "title": "서울지하철 노조 오늘 예고 파업 철회...임단협 극적 타결",
    "query": "파업 예고 운행"
   },
   {
@@ -865,6 +860,16 @@
    "query": "집회 교통 통제"
   },
   {
+   "url": "https://slownews.kr/170195",
+   "title": "탄소 뿜는 기업들, 법정에서 봅시다.",
+   "query": "마라톤 도로 통제"
+  },
+  {
+   "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008862894&plink=ORI&cooper=NAVER",
+   "title": "[뉴스토리 10분요약] 도심 곳곳 우후죽순 마라톤…열풍에 가려진 그늘",
+   "query": "마라톤 도로 통제"
+  },
+  {
    "url": "https://www.newsis.com/view/NISX20261125_0003883507",
    "title": "'구급차 유턴하는데 계속 달린 마라톤 참가자들' 영상…\"비켜줘야 하지...",
    "query": "마라톤 도로 통제"
@@ -890,7 +895,7 @@
    "query": "마라톤 도로 통제"
   },
   {
-   "url": "https://www.nocutnews.co.kr/news/6612568?utm_source=naver&utm_medium=article&utm_campaign=20261125202817",
+   "url": "https://www.nocutnews.co.kr/news/6612568?utm_source=naver&utm_medium=article&utm_campaign=20261125235219",
    "title": "\"생명보다 기록이 먼저?\" 구급차 길 막은 마라톤 참가자들[뉴스럽다]",
    "query": "마라톤 도로 통제"
   },
@@ -1105,14 +1110,14 @@
    "query": "마라톤 도로 통제"
   },
   {
-   "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008856534&plink=ORI&cooper=NAVER",
-   "title": "올해 마라톤 대회만 '600개'…안전 관리 잘 되나 봤더니",
-   "query": "마라톤 도로 통제"
+   "url": "https://www.gukjenews.com/news/articleView.html?idxno=3763332",
+   "title": "강서구, 27일 옛 청사 먹자골목서 '추억의 포차데이' 개최",
+   "query": "축제 버스 우회"
   },
   {
-   "url": "https://www.yna.co.kr/view/AKR20261120163700797?input=1195m",
-   "title": "[영상] 주말 도심을 점령한 마라톤대회…\"장사하러 가야 하는데\" 울분",
-   "query": "마라톤 도로 통제"
+   "url": "https://www.cnbizm.com/news/articleView.html?idxno=322716",
+   "title": "강서구, 옛 청사 주변 먹자골목에서 '강.구.(강서구청) 먹자골목 추억의...",
+   "query": "축제 버스 우회"
   },
   {
    "url": "http://www.sisafocus.co.kr/news/articleView.html?idxno=368059",
@@ -1180,13 +1185,13 @@
    "query": "축제 버스 우회"
   },
   {
-   "url": "https://www.segye.com/newsView/20261123513308?OutUrl=naver",
-   "title": "“달구벌이 들썩인다”…삼성 라이온즈, 29일 20년 만의 도심 카퍼레이...",
+   "url": "https://www.idaegu.com/news/articleView.html?idxno=667215",
+   "title": "20년 만에 대구 도심에 삼성라이온즈 우승 카퍼레이드…'V9' 감동 다시 한...",
    "query": "축제 버스 우회"
   },
   {
-   "url": "https://www.idaegu.com/news/articleView.html?idxno=667215",
-   "title": "20년 만에 대구 도심에 삼성라이온즈 우승 카퍼레이드…'V9' 감동 다시 한...",
+   "url": "https://www.segye.com/newsView/20261123513308?OutUrl=naver",
+   "title": "“달구벌이 들썩인다”…삼성 라이온즈, 29일 20년 만의 도심 카퍼레이...",
    "query": "축제 버스 우회"
   },
   {
@@ -1313,35 +1318,57 @@
    "url": "https://www.pressian.com/pages/articles/2026111219350820981?utm_source=naver&utm_medium=search",
    "title": "군산 2026 불꽃축제 해망로 일원… 교통통제와 시내버스 노선 임시 우회",
    "query": "축제 버스 우회"
-  },
-  {
-   "url": "https://sjbnews.com/news/news.php?number=892546",
-   "title": "군산 내항서 14일 '불꽃축제'",
-   "query": "축제 버스 우회"
-  },
-  {
-   "url": "https://www.shinailbo.co.kr/news/articleView.html?idxno=5082557",
-   "title": "군산시, 불꽃축제 안전관리 위해 교통 통제…오후 2시부터 단계별 시행",
-   "query": "축제 버스 우회"
   }
  ],
  "strikes": [
   {
-   "id": "f329076d6b828493",
+   "id": "ecae641dd8cf4947",
    "mode": "subway",
    "operator": "서울교통공사",
    "regions": [
     "서울"
    ],
-   "status": "withdrawn",
-   "quote": "타결하면서 파업은 피했다",
+   "status": "historical",
+   "quote": "지난해에도 파업을 예고한",
    "start": "2026-11-25",
    "dateQuote": "25일",
-   "articleTitle": "지하철 파업 또 넘겼지만…‘만성 적자·2212명 감축’ 불씨",
-   "url": "https://www.khan.co.kr/article/202611252052025",
-   "publishedAt": "2026-11-25T20:52:00.000",
-   "sourceCount": 60,
-   "model": "gemini-3.1-flash-lite"
+   "articleTitle": "500명 신규채용 합의… 서울 지하철 노사 임단협 극적 타결",
+   "url": "https://www.segye.com/newsView/20261125519588?OutUrl=naver",
+   "publishedAt": "2026-11-26T06:05:00.000",
+   "sourceCount": 54,
+   "model": "gemini-3.5-flash-lite"
+  },
+  {
+   "id": "bd664bb4d1da1a52",
+   "mode": "rail",
+   "operator": "코레일",
+   "regions": [
+    "전국"
+   ],
+   "status": "ongoing",
+   "quote": "철도노조 준법투쟁",
+   "articleTitle": "철도노조 준법투쟁…출근길 1·3·4호선 코레일 운영 구간 지연 우려",
+   "url": "https://www.news1.kr/realestate/general/6366080",
+   "publishedAt": "2026-11-26T05:00:00.000",
+   "sourceCount": 2,
+   "model": "gemini-3.5-flash-lite"
+  },
+  {
+   "id": "235bbb1a227a43bc",
+   "mode": "rail",
+   "operator": "코레일",
+   "regions": [
+    "전국"
+   ],
+   "status": "ongoing",
+   "quote": "26일부터 준법투쟁에 나서고",
+   "start": "2026-11-26",
+   "dateQuote": "26일부터",
+   "articleTitle": "'막판 담판' 나서는 LH사장...노사 최종교섭 내주로 연기",
+   "url": "https://www.mt.co.kr/estate/2026/11/26/2026112519511881096",
+   "publishedAt": "2026-11-26T04:07:00.000",
+   "sourceCount": 2,
+   "model": "gemini-3.5-flash-lite"
   },
   {
    "id": "0138c9fe1d05cf94",
@@ -1392,40 +1419,6 @@
    "url": "https://www.idaegu.com/news/articleView.html?idxno=667296",
    "publishedAt": "2026-11-25T20:00:00.000",
    "sourceCount": 2,
-   "model": "gemini-3.1-flash-lite"
-  },
-  {
-   "id": "3d8dfab59e53ea57",
-   "mode": "rail",
-   "operator": "코레일",
-   "regions": [
-    "대구",
-    "경북"
-   ],
-   "status": "scheduled",
-   "quote": "철도노조 26일 오전 9시부터 준법투쟁",
-   "start": "2026-11-26",
-   "dateQuote": "26일 오전 9시",
-   "articleTitle": "철도노조 26일 오전 9시부터 준법투쟁…대구경북 열차 운행 차질 우려",
-   "url": "https://www.kbmaeil.com/article/20261125500666",
-   "publishedAt": "2026-11-25T16:56:00.000",
-   "sourceCount": 1,
-   "model": "gemini-3.1-flash-lite"
-  },
-  {
-   "id": "62e22f95d26d6153",
-   "mode": "rail",
-   "operator": "코레일",
-   "regions": [
-    "광주",
-    "전남"
-   ],
-   "status": "scheduled",
-   "quote": "다음 달 총파업을 예고한 가운데",
-   "articleTitle": "철도노조, 26일부터 준법투쟁…전남광주 열차 운행 차질 불가피",
-   "url": "https://www.namdonews.com/news/articleView.html?idxno=930460",
-   "publishedAt": "2026-11-25T16:12:00.000",
-   "sourceCount": 1,
    "model": "gemini-3.1-flash-lite"
   },
   {
@@ -17368,7 +17361,557 @@
   },
   {
    "assertion": "planned",
-   "checked_at": "2026-11-25T21:16:05.094449+09:00",
+   "checked_at": "2026-11-25T21:16:25.598101+09:00",
+   "conflict": false,
+   "demo": false,
+   "disruption_confirmed": false,
+   "event_id": "8811d637dcd62d9327ca3784",
+   "event_name": "파업 사건",
+   "evidence": [
+    {
+     "derivation": "explicit",
+     "effective_at": null,
+     "field_path": "/article_relevance",
+     "quote": "서울지하철은 파업을 피했지만 조만간 서울 시내버스가 고비를 맞는다.",
+     "reference_source": null,
+     "source_id": "6fcd9ca9f380327dcc9bed6c",
+     "source_part": "body",
+     "source_revision": "c3163900ad337f0b89e7ee45"
+    },
+    {
+     "derivation": "explicit",
+     "effective_at": null,
+     "field_path": "/transport_mode",
+     "quote": "서울지하철은 파업을 피했지만 조만간 서울 시내버스가 고비를 맞는다.",
+     "reference_source": null,
+     "source_id": "6fcd9ca9f380327dcc9bed6c",
+     "source_part": "body",
+     "source_revision": "c3163900ad337f0b89e7ee45"
+    },
+    {
+     "derivation": "explicit",
+     "effective_at": null,
+     "field_path": "/affected_regions",
+     "quote": "서울지하철은 파업을 피했지만 조만간 서울 시내버스가 고비를 맞는다.",
+     "reference_source": null,
+     "source_id": "6fcd9ca9f380327dcc9bed6c",
+     "source_part": "body",
+     "source_revision": "c3163900ad337f0b89e7ee45"
+    },
+    {
+     "derivation": "explicit",
+     "effective_at": null,
+     "field_path": "/affected_routes",
+     "quote": "서울지하철은 파업을 피했지만 조만간 서울 시내버스가 고비를 맞는다.",
+     "reference_source": null,
+     "source_id": "6fcd9ca9f380327dcc9bed6c",
+     "source_part": "body",
+     "source_revision": "c3163900ad337f0b89e7ee45"
+    },
+    {
+     "derivation": "explicit",
+     "effective_at": null,
+     "field_path": "/strike_status",
+     "quote": "서울지하철은 파업을 피했지만 조만간 서울 시내버스가 고비를 맞는다.",
+     "reference_source": null,
+     "source_id": "6fcd9ca9f380327dcc9bed6c",
+     "source_part": "body",
+     "source_revision": "c3163900ad337f0b89e7ee45"
+    },
+    {
+     "derivation": "explicit",
+     "effective_at": null,
+     "field_path": "/service_status",
+     "quote": "서울지하철은 파업을 피했지만 조만간 서울 시내버스가 고비를 맞는다.",
+     "reference_source": null,
+     "source_id": "6fcd9ca9f380327dcc9bed6c",
+     "source_part": "body",
+     "source_revision": "c3163900ad337f0b89e7ee45"
+    },
+    {
+     "derivation": "explicit",
+     "effective_at": null,
+     "field_path": "/normal_service_exceptions",
+     "quote": "서울지하철은 파업을 피했지만 조만간 서울 시내버스가 고비를 맞는다.",
+     "reference_source": null,
+     "source_id": "6fcd9ca9f380327dcc9bed6c",
+     "source_part": "body",
+     "source_revision": "c3163900ad337f0b89e7ee45"
+    },
+    {
+     "derivation": "explicit",
+     "effective_at": null,
+     "field_path": "/alternative_services",
+     "quote": "서울지하철은 파업을 피했지만 조만간 서울 시내버스가 고비를 맞는다.",
+     "reference_source": null,
+     "source_id": "6fcd9ca9f380327dcc9bed6c",
+     "source_part": "body",
+     "source_revision": "c3163900ad337f0b89e7ee45"
+    },
+    {
+     "derivation": "explicit",
+     "effective_at": null,
+     "field_path": "/start",
+     "quote": "서울지하철은 파업을 피했지만 조만간 서울 시내버스가 고비를 맞는다.",
+     "reference_source": null,
+     "source_id": "6fcd9ca9f380327dcc9bed6c",
+     "source_part": "body",
+     "source_revision": "c3163900ad337f0b89e7ee45"
+    },
+    {
+     "derivation": "explicit",
+     "effective_at": null,
+     "field_path": "/end",
+     "quote": "서울지하철은 파업을 피했지만 조만간 서울 시내버스가 고비를 맞는다.",
+     "reference_source": null,
+     "source_id": "6fcd9ca9f380327dcc9bed6c",
+     "source_part": "body",
+     "source_revision": "c3163900ad337f0b89e7ee45"
+    }
+   ],
+   "exceptions": [],
+   "id": "068b01ccde85fcf8f743cb02",
+   "modes": [
+    "bus"
+   ],
+   "period": {
+    "condition": null,
+    "end": {
+     "assertion": "unknown",
+     "basis": "unknown",
+     "date": null,
+     "open_ended": null,
+     "raw": null,
+     "time": null,
+     "timezone": "Asia/Seoul"
+    },
+    "precision": "PARTIAL",
+    "start": {
+     "assertion": "unknown",
+     "basis": "unknown",
+     "date": null,
+     "open_ended": null,
+     "raw": null,
+     "time": null,
+     "timezone": "Asia/Seoul"
+    }
+   },
+   "published_at": "2026-11-25T18:08:44+09:00",
+   "review_reasons": [
+    "UNSUPPORTED_OR_AMBIGUOUS_STATUS",
+    "DATE_UNCONFIRMED"
+   ],
+   "scope": [
+    {
+     "derivation": "article_explicit",
+     "normalized_name": "서울",
+     "raw": "서울",
+     "reference_id": null,
+     "reference_source": null,
+     "region": "서울"
+    }
+   ],
+   "service_status": [],
+   "source_url": "https://www.hankyung.com/article/2026112502911",
+   "status": "UNKNOWN",
+   "status_effective_at": null,
+   "strike_status": "unknown",
+   "type": "STRIKE",
+   "updated_at": null,
+   "version": 1,
+   "body_verified": true
+  },
+  {
+   "assertion": "planned",
+   "checked_at": "2026-11-26T06:26:29.125488+09:00",
+   "conflict": false,
+   "demo": false,
+   "disruption_confirmed": false,
+   "event_id": "fcd5a978cd70ad8587da695b",
+   "event_name": "파업 사건",
+   "evidence": [
+    {
+     "derivation": "explicit",
+     "effective_at": null,
+     "field_path": "/article_relevance",
+     "quote": "노조 파업으로 ‘출근길 대란’이 빚어질 것이라는 우려가 크던 서울지하철이 어제 다행히도 정상 운행됐다.",
+     "reference_source": null,
+     "source_id": "f553c20c346756da3f0a3c59",
+     "source_part": "body",
+     "source_revision": "6d9876da64c1d00062ba5aa9"
+    },
+    {
+     "derivation": "explicit",
+     "effective_at": null,
+     "field_path": "/transport_mode",
+     "quote": "노조 파업으로 ‘출근길 대란’이 빚어질 것이라는 우려가 크던 서울지하철이 어제 다행히도 정상 운행됐다.",
+     "reference_source": null,
+     "source_id": "f553c20c346756da3f0a3c59",
+     "source_part": "body",
+     "source_revision": "6d9876da64c1d00062ba5aa9"
+    },
+    {
+     "derivation": "explicit",
+     "effective_at": null,
+     "field_path": "/affected_regions",
+     "quote": "노조 파업으로 ‘출근길 대란’이 빚어질 것이라는 우려가 크던 서울지하철이 어제 다행히도 정상 운행됐다.",
+     "reference_source": null,
+     "source_id": "f553c20c346756da3f0a3c59",
+     "source_part": "body",
+     "source_revision": "6d9876da64c1d00062ba5aa9"
+    },
+    {
+     "derivation": "explicit",
+     "effective_at": null,
+     "field_path": "/affected_routes",
+     "quote": "노조 파업으로 ‘출근길 대란’이 빚어질 것이라는 우려가 크던 서울지하철이 어제 다행히도 정상 운행됐다.",
+     "reference_source": null,
+     "source_id": "f553c20c346756da3f0a3c59",
+     "source_part": "body",
+     "source_revision": "6d9876da64c1d00062ba5aa9"
+    },
+    {
+     "derivation": "explicit",
+     "effective_at": null,
+     "field_path": "/strike_status",
+     "quote": "노조 파업으로 ‘출근길 대란’이 빚어질 것이라는 우려가 크던 서울지하철이 어제 다행히도 정상 운행됐다.",
+     "reference_source": null,
+     "source_id": "f553c20c346756da3f0a3c59",
+     "source_part": "body",
+     "source_revision": "6d9876da64c1d00062ba5aa9"
+    },
+    {
+     "derivation": "explicit",
+     "effective_at": null,
+     "field_path": "/service_status",
+     "quote": "노조 파업으로 ‘출근길 대란’이 빚어질 것이라는 우려가 크던 서울지하철이 어제 다행히도 정상 운행됐다.",
+     "reference_source": null,
+     "source_id": "f553c20c346756da3f0a3c59",
+     "source_part": "body",
+     "source_revision": "6d9876da64c1d00062ba5aa9"
+    },
+    {
+     "derivation": "explicit",
+     "effective_at": null,
+     "field_path": "/normal_service_exceptions",
+     "quote": "노조 파업으로 ‘출근길 대란’이 빚어질 것이라는 우려가 크던 서울지하철이 어제 다행히도 정상 운행됐다.",
+     "reference_source": null,
+     "source_id": "f553c20c346756da3f0a3c59",
+     "source_part": "body",
+     "source_revision": "6d9876da64c1d00062ba5aa9"
+    },
+    {
+     "derivation": "explicit",
+     "effective_at": null,
+     "field_path": "/alternative_services",
+     "quote": "노조 파업으로 ‘출근길 대란’이 빚어질 것이라는 우려가 크던 서울지하철이 어제 다행히도 정상 운행됐다.",
+     "reference_source": null,
+     "source_id": "f553c20c346756da3f0a3c59",
+     "source_part": "body",
+     "source_revision": "6d9876da64c1d00062ba5aa9"
+    },
+    {
+     "derivation": "explicit",
+     "effective_at": null,
+     "field_path": "/start",
+     "quote": "노조 파업으로 ‘출근길 대란’이 빚어질 것이라는 우려가 크던 서울지하철이 어제 다행히도 정상 운행됐다.",
+     "reference_source": null,
+     "source_id": "f553c20c346756da3f0a3c59",
+     "source_part": "body",
+     "source_revision": "6d9876da64c1d00062ba5aa9"
+    },
+    {
+     "derivation": "explicit",
+     "effective_at": null,
+     "field_path": "/end",
+     "quote": "노조 파업으로 ‘출근길 대란’이 빚어질 것이라는 우려가 크던 서울지하철이 어제 다행히도 정상 운행됐다.",
+     "reference_source": null,
+     "source_id": "f553c20c346756da3f0a3c59",
+     "source_part": "body",
+     "source_revision": "6d9876da64c1d00062ba5aa9"
+    }
+   ],
+   "exceptions": [
+    {
+     "assertion": "actual",
+     "metrics": [],
+     "period": {
+      "condition": null,
+      "end": {
+       "assertion": "unknown",
+       "basis": "unknown",
+       "date": null,
+       "open_ended": null,
+       "raw": null,
+       "time": null,
+       "timezone": "Asia/Seoul"
+      },
+      "precision": "UNKNOWN",
+      "start": {
+       "assertion": "unknown",
+       "basis": "unknown",
+       "date": null,
+       "open_ended": null,
+       "raw": null,
+       "time": null,
+       "timezone": "Asia/Seoul"
+      }
+     },
+     "raw": "노조 파업으로 ‘출근길 대란’이 빚어질 것이라는 우려가 크던 서울지하철이 어제 다행히도 정상 운행됐다.",
+     "scope": [
+      {
+       "derivation": "article_explicit",
+       "direction": null,
+       "normalized_name": "파업으로",
+       "raw": "파업으로",
+       "reference_id": null,
+       "reference_source": null,
+       "region": null,
+       "section": null
+      }
+     ],
+     "value": "normal"
+    }
+   ],
+   "id": "9b5386ae0a69b9bc9c0b4439",
+   "modes": [
+    "subway"
+   ],
+   "period": {
+    "condition": null,
+    "end": {
+     "assertion": "unknown",
+     "basis": "unknown",
+     "date": null,
+     "open_ended": null,
+     "raw": null,
+     "time": null,
+     "timezone": "Asia/Seoul"
+    },
+    "precision": "PARTIAL",
+    "start": {
+     "assertion": "unknown",
+     "basis": "unknown",
+     "date": null,
+     "open_ended": null,
+     "raw": null,
+     "time": null,
+     "timezone": "Asia/Seoul"
+    }
+   },
+   "published_at": "2026-11-25T17:37:09+09:00",
+   "review_reasons": [
+    "UNSUPPORTED_OR_AMBIGUOUS_STATUS",
+    "DATE_UNCONFIRMED"
+   ],
+   "scope": [],
+   "service_status": [
+    {
+     "assertion": "actual",
+     "metrics": [],
+     "period": {
+      "condition": null,
+      "end": {
+       "assertion": "unknown",
+       "basis": "unknown",
+       "date": null,
+       "open_ended": null,
+       "raw": null,
+       "time": null,
+       "timezone": "Asia/Seoul"
+      },
+      "precision": "UNKNOWN",
+      "start": {
+       "assertion": "unknown",
+       "basis": "unknown",
+       "date": null,
+       "open_ended": null,
+       "raw": null,
+       "time": null,
+       "timezone": "Asia/Seoul"
+      }
+     },
+     "raw": "노조 파업으로 ‘출근길 대란’이 빚어질 것이라는 우려가 크던 서울지하철이 어제 다행히도 정상 운행됐다.",
+     "scope": [
+      {
+       "derivation": "article_explicit",
+       "direction": null,
+       "normalized_name": "파업으로",
+       "raw": "파업으로",
+       "reference_id": null,
+       "reference_source": null,
+       "region": null,
+       "section": null
+      }
+     ],
+     "value": "normal"
+    }
+   ],
+   "source_url": "https://www.hankyung.com/article/2026112503071",
+   "status": "UNKNOWN",
+   "status_effective_at": null,
+   "strike_status": "unknown",
+   "type": "STRIKE",
+   "updated_at": null,
+   "version": 1,
+   "body_verified": true
+  },
+  {
+   "assertion": "planned",
+   "checked_at": "2026-11-26T06:26:35.052927+09:00",
+   "conflict": false,
+   "demo": false,
+   "disruption_confirmed": false,
+   "event_id": "68e9d5850c74dfb120095f36",
+   "event_name": "파업 사건",
+   "evidence": [
+    {
+     "derivation": "explicit",
+     "effective_at": null,
+     "field_path": "/article_relevance",
+     "quote": "해방 직후 귀환 동포가 들어온 부산에서는 철도노동자가 파업에 나서고 미술인들은 이념·노선에 따라 단체를 꾸렸다.",
+     "reference_source": null,
+     "source_id": "2fb1ff0a7ece1a90e657f2d1",
+     "source_part": "body",
+     "source_revision": "e167ccaf9a147e9e25f5e16a"
+    },
+    {
+     "derivation": "explicit",
+     "effective_at": null,
+     "field_path": "/transport_mode",
+     "quote": "해방 직후 귀환 동포가 들어온 부산에서는 철도노동자가 파업에 나서고 미술인들은 이념·노선에 따라 단체를 꾸렸다.",
+     "reference_source": null,
+     "source_id": "2fb1ff0a7ece1a90e657f2d1",
+     "source_part": "body",
+     "source_revision": "e167ccaf9a147e9e25f5e16a"
+    },
+    {
+     "derivation": "explicit",
+     "effective_at": null,
+     "field_path": "/affected_regions",
+     "quote": "해방 직후 귀환 동포가 들어온 부산에서는 철도노동자가 파업에 나서고 미술인들은 이념·노선에 따라 단체를 꾸렸다.",
+     "reference_source": null,
+     "source_id": "2fb1ff0a7ece1a90e657f2d1",
+     "source_part": "body",
+     "source_revision": "e167ccaf9a147e9e25f5e16a"
+    },
+    {
+     "derivation": "explicit",
+     "effective_at": null,
+     "field_path": "/affected_routes",
+     "quote": "해방 직후 귀환 동포가 들어온 부산에서는 철도노동자가 파업에 나서고 미술인들은 이념·노선에 따라 단체를 꾸렸다.",
+     "reference_source": null,
+     "source_id": "2fb1ff0a7ece1a90e657f2d1",
+     "source_part": "body",
+     "source_revision": "e167ccaf9a147e9e25f5e16a"
+    },
+    {
+     "derivation": "explicit",
+     "effective_at": null,
+     "field_path": "/strike_status",
+     "quote": "해방 직후 귀환 동포가 들어온 부산에서는 철도노동자가 파업에 나서고 미술인들은 이념·노선에 따라 단체를 꾸렸다.",
+     "reference_source": null,
+     "source_id": "2fb1ff0a7ece1a90e657f2d1",
+     "source_part": "body",
+     "source_revision": "e167ccaf9a147e9e25f5e16a"
+    },
+    {
+     "derivation": "explicit",
+     "effective_at": null,
+     "field_path": "/service_status",
+     "quote": "해방 직후 귀환 동포가 들어온 부산에서는 철도노동자가 파업에 나서고 미술인들은 이념·노선에 따라 단체를 꾸렸다.",
+     "reference_source": null,
+     "source_id": "2fb1ff0a7ece1a90e657f2d1",
+     "source_part": "body",
+     "source_revision": "e167ccaf9a147e9e25f5e16a"
+    },
+    {
+     "derivation": "explicit",
+     "effective_at": null,
+     "field_path": "/normal_service_exceptions",
+     "quote": "해방 직후 귀환 동포가 들어온 부산에서는 철도노동자가 파업에 나서고 미술인들은 이념·노선에 따라 단체를 꾸렸다.",
+     "reference_source": null,
+     "source_id": "2fb1ff0a7ece1a90e657f2d1",
+     "source_part": "body",
+     "source_revision": "e167ccaf9a147e9e25f5e16a"
+    },
+    {
+     "derivation": "explicit",
+     "effective_at": null,
+     "field_path": "/alternative_services",
+     "quote": "해방 직후 귀환 동포가 들어온 부산에서는 철도노동자가 파업에 나서고 미술인들은 이념·노선에 따라 단체를 꾸렸다.",
+     "reference_source": null,
+     "source_id": "2fb1ff0a7ece1a90e657f2d1",
+     "source_part": "body",
+     "source_revision": "e167ccaf9a147e9e25f5e16a"
+    },
+    {
+     "derivation": "explicit",
+     "effective_at": null,
+     "field_path": "/start",
+     "quote": "해방 직후 귀환 동포가 들어온 부산에서는 철도노동자가 파업에 나서고 미술인들은 이념·노선에 따라 단체를 꾸렸다.",
+     "reference_source": null,
+     "source_id": "2fb1ff0a7ece1a90e657f2d1",
+     "source_part": "body",
+     "source_revision": "e167ccaf9a147e9e25f5e16a"
+    },
+    {
+     "derivation": "explicit",
+     "effective_at": null,
+     "field_path": "/end",
+     "quote": "해방 직후 귀환 동포가 들어온 부산에서는 철도노동자가 파업에 나서고 미술인들은 이념·노선에 따라 단체를 꾸렸다.",
+     "reference_source": null,
+     "source_id": "2fb1ff0a7ece1a90e657f2d1",
+     "source_part": "body",
+     "source_revision": "e167ccaf9a147e9e25f5e16a"
+    }
+   ],
+   "exceptions": [],
+   "id": "504844900a18e5a1e01ddc40",
+   "modes": [
+    "rail"
+   ],
+   "period": {
+    "condition": null,
+    "end": {
+     "assertion": "unknown",
+     "basis": "unknown",
+     "date": null,
+     "open_ended": null,
+     "raw": null,
+     "time": null,
+     "timezone": "Asia/Seoul"
+    },
+    "precision": "PARTIAL",
+    "start": {
+     "assertion": "unknown",
+     "basis": "unknown",
+     "date": null,
+     "open_ended": null,
+     "raw": null,
+     "time": null,
+     "timezone": "Asia/Seoul"
+    }
+   },
+   "published_at": "2026-11-25T20:22:00+09:00",
+   "review_reasons": [
+    "UNSUPPORTED_OR_AMBIGUOUS_STATUS",
+    "DATE_UNCONFIRMED"
+   ],
+   "scope": [],
+   "service_status": [],
+   "source_url": "https://www.khan.co.kr/article/202611252022005",
+   "status": "UNKNOWN",
+   "status_effective_at": null,
+   "strike_status": "unknown",
+   "type": "STRIKE",
+   "updated_at": null,
+   "version": 1,
+   "body_verified": true
+  },
+  {
+   "assertion": "planned",
+   "checked_at": "2026-11-26T06:26:51.555222+09:00",
    "conflict": false,
    "demo": false,
    "disruption_confirmed": true,
@@ -17585,322 +18128,7 @@
   },
   {
    "assertion": "planned",
-   "checked_at": "2026-11-25T21:16:10.052858+09:00",
-   "conflict": false,
-   "demo": false,
-   "disruption_confirmed": false,
-   "event_id": "68e9d5850c74dfb120095f36",
-   "event_name": "파업 사건",
-   "evidence": [
-    {
-     "derivation": "explicit",
-     "effective_at": null,
-     "field_path": "/article_relevance",
-     "quote": "해방 직후 귀환 동포가 들어온 부산에서는 철도노동자가 파업에 나서고 미술인들은 이념·노선에 따라 단체를 꾸렸다.",
-     "reference_source": null,
-     "source_id": "2fb1ff0a7ece1a90e657f2d1",
-     "source_part": "body",
-     "source_revision": "e167ccaf9a147e9e25f5e16a"
-    },
-    {
-     "derivation": "explicit",
-     "effective_at": null,
-     "field_path": "/transport_mode",
-     "quote": "해방 직후 귀환 동포가 들어온 부산에서는 철도노동자가 파업에 나서고 미술인들은 이념·노선에 따라 단체를 꾸렸다.",
-     "reference_source": null,
-     "source_id": "2fb1ff0a7ece1a90e657f2d1",
-     "source_part": "body",
-     "source_revision": "e167ccaf9a147e9e25f5e16a"
-    },
-    {
-     "derivation": "explicit",
-     "effective_at": null,
-     "field_path": "/affected_regions",
-     "quote": "해방 직후 귀환 동포가 들어온 부산에서는 철도노동자가 파업에 나서고 미술인들은 이념·노선에 따라 단체를 꾸렸다.",
-     "reference_source": null,
-     "source_id": "2fb1ff0a7ece1a90e657f2d1",
-     "source_part": "body",
-     "source_revision": "e167ccaf9a147e9e25f5e16a"
-    },
-    {
-     "derivation": "explicit",
-     "effective_at": null,
-     "field_path": "/affected_routes",
-     "quote": "해방 직후 귀환 동포가 들어온 부산에서는 철도노동자가 파업에 나서고 미술인들은 이념·노선에 따라 단체를 꾸렸다.",
-     "reference_source": null,
-     "source_id": "2fb1ff0a7ece1a90e657f2d1",
-     "source_part": "body",
-     "source_revision": "e167ccaf9a147e9e25f5e16a"
-    },
-    {
-     "derivation": "explicit",
-     "effective_at": null,
-     "field_path": "/strike_status",
-     "quote": "해방 직후 귀환 동포가 들어온 부산에서는 철도노동자가 파업에 나서고 미술인들은 이념·노선에 따라 단체를 꾸렸다.",
-     "reference_source": null,
-     "source_id": "2fb1ff0a7ece1a90e657f2d1",
-     "source_part": "body",
-     "source_revision": "e167ccaf9a147e9e25f5e16a"
-    },
-    {
-     "derivation": "explicit",
-     "effective_at": null,
-     "field_path": "/service_status",
-     "quote": "해방 직후 귀환 동포가 들어온 부산에서는 철도노동자가 파업에 나서고 미술인들은 이념·노선에 따라 단체를 꾸렸다.",
-     "reference_source": null,
-     "source_id": "2fb1ff0a7ece1a90e657f2d1",
-     "source_part": "body",
-     "source_revision": "e167ccaf9a147e9e25f5e16a"
-    },
-    {
-     "derivation": "explicit",
-     "effective_at": null,
-     "field_path": "/normal_service_exceptions",
-     "quote": "해방 직후 귀환 동포가 들어온 부산에서는 철도노동자가 파업에 나서고 미술인들은 이념·노선에 따라 단체를 꾸렸다.",
-     "reference_source": null,
-     "source_id": "2fb1ff0a7ece1a90e657f2d1",
-     "source_part": "body",
-     "source_revision": "e167ccaf9a147e9e25f5e16a"
-    },
-    {
-     "derivation": "explicit",
-     "effective_at": null,
-     "field_path": "/alternative_services",
-     "quote": "해방 직후 귀환 동포가 들어온 부산에서는 철도노동자가 파업에 나서고 미술인들은 이념·노선에 따라 단체를 꾸렸다.",
-     "reference_source": null,
-     "source_id": "2fb1ff0a7ece1a90e657f2d1",
-     "source_part": "body",
-     "source_revision": "e167ccaf9a147e9e25f5e16a"
-    },
-    {
-     "derivation": "explicit",
-     "effective_at": null,
-     "field_path": "/start",
-     "quote": "해방 직후 귀환 동포가 들어온 부산에서는 철도노동자가 파업에 나서고 미술인들은 이념·노선에 따라 단체를 꾸렸다.",
-     "reference_source": null,
-     "source_id": "2fb1ff0a7ece1a90e657f2d1",
-     "source_part": "body",
-     "source_revision": "e167ccaf9a147e9e25f5e16a"
-    },
-    {
-     "derivation": "explicit",
-     "effective_at": null,
-     "field_path": "/end",
-     "quote": "해방 직후 귀환 동포가 들어온 부산에서는 철도노동자가 파업에 나서고 미술인들은 이념·노선에 따라 단체를 꾸렸다.",
-     "reference_source": null,
-     "source_id": "2fb1ff0a7ece1a90e657f2d1",
-     "source_part": "body",
-     "source_revision": "e167ccaf9a147e9e25f5e16a"
-    }
-   ],
-   "exceptions": [],
-   "id": "504844900a18e5a1e01ddc40",
-   "modes": [
-    "rail"
-   ],
-   "period": {
-    "condition": null,
-    "end": {
-     "assertion": "unknown",
-     "basis": "unknown",
-     "date": null,
-     "open_ended": null,
-     "raw": null,
-     "time": null,
-     "timezone": "Asia/Seoul"
-    },
-    "precision": "PARTIAL",
-    "start": {
-     "assertion": "unknown",
-     "basis": "unknown",
-     "date": null,
-     "open_ended": null,
-     "raw": null,
-     "time": null,
-     "timezone": "Asia/Seoul"
-    }
-   },
-   "published_at": "2026-11-25T20:22:00+09:00",
-   "review_reasons": [
-    "UNSUPPORTED_OR_AMBIGUOUS_STATUS",
-    "DATE_UNCONFIRMED"
-   ],
-   "scope": [],
-   "service_status": [],
-   "source_url": "https://www.khan.co.kr/article/202611252022005",
-   "status": "UNKNOWN",
-   "status_effective_at": null,
-   "strike_status": "unknown",
-   "type": "STRIKE",
-   "updated_at": null,
-   "version": 1,
-   "body_verified": true
-  },
-  {
-   "assertion": "planned",
-   "checked_at": "2026-11-25T21:16:25.598101+09:00",
-   "conflict": false,
-   "demo": false,
-   "disruption_confirmed": false,
-   "event_id": "8811d637dcd62d9327ca3784",
-   "event_name": "파업 사건",
-   "evidence": [
-    {
-     "derivation": "explicit",
-     "effective_at": null,
-     "field_path": "/article_relevance",
-     "quote": "서울지하철은 파업을 피했지만 조만간 서울 시내버스가 고비를 맞는다.",
-     "reference_source": null,
-     "source_id": "6fcd9ca9f380327dcc9bed6c",
-     "source_part": "body",
-     "source_revision": "c3163900ad337f0b89e7ee45"
-    },
-    {
-     "derivation": "explicit",
-     "effective_at": null,
-     "field_path": "/transport_mode",
-     "quote": "서울지하철은 파업을 피했지만 조만간 서울 시내버스가 고비를 맞는다.",
-     "reference_source": null,
-     "source_id": "6fcd9ca9f380327dcc9bed6c",
-     "source_part": "body",
-     "source_revision": "c3163900ad337f0b89e7ee45"
-    },
-    {
-     "derivation": "explicit",
-     "effective_at": null,
-     "field_path": "/affected_regions",
-     "quote": "서울지하철은 파업을 피했지만 조만간 서울 시내버스가 고비를 맞는다.",
-     "reference_source": null,
-     "source_id": "6fcd9ca9f380327dcc9bed6c",
-     "source_part": "body",
-     "source_revision": "c3163900ad337f0b89e7ee45"
-    },
-    {
-     "derivation": "explicit",
-     "effective_at": null,
-     "field_path": "/affected_routes",
-     "quote": "서울지하철은 파업을 피했지만 조만간 서울 시내버스가 고비를 맞는다.",
-     "reference_source": null,
-     "source_id": "6fcd9ca9f380327dcc9bed6c",
-     "source_part": "body",
-     "source_revision": "c3163900ad337f0b89e7ee45"
-    },
-    {
-     "derivation": "explicit",
-     "effective_at": null,
-     "field_path": "/strike_status",
-     "quote": "서울지하철은 파업을 피했지만 조만간 서울 시내버스가 고비를 맞는다.",
-     "reference_source": null,
-     "source_id": "6fcd9ca9f380327dcc9bed6c",
-     "source_part": "body",
-     "source_revision": "c3163900ad337f0b89e7ee45"
-    },
-    {
-     "derivation": "explicit",
-     "effective_at": null,
-     "field_path": "/service_status",
-     "quote": "서울지하철은 파업을 피했지만 조만간 서울 시내버스가 고비를 맞는다.",
-     "reference_source": null,
-     "source_id": "6fcd9ca9f380327dcc9bed6c",
-     "source_part": "body",
-     "source_revision": "c3163900ad337f0b89e7ee45"
-    },
-    {
-     "derivation": "explicit",
-     "effective_at": null,
-     "field_path": "/normal_service_exceptions",
-     "quote": "서울지하철은 파업을 피했지만 조만간 서울 시내버스가 고비를 맞는다.",
-     "reference_source": null,
-     "source_id": "6fcd9ca9f380327dcc9bed6c",
-     "source_part": "body",
-     "source_revision": "c3163900ad337f0b89e7ee45"
-    },
-    {
-     "derivation": "explicit",
-     "effective_at": null,
-     "field_path": "/alternative_services",
-     "quote": "서울지하철은 파업을 피했지만 조만간 서울 시내버스가 고비를 맞는다.",
-     "reference_source": null,
-     "source_id": "6fcd9ca9f380327dcc9bed6c",
-     "source_part": "body",
-     "source_revision": "c3163900ad337f0b89e7ee45"
-    },
-    {
-     "derivation": "explicit",
-     "effective_at": null,
-     "field_path": "/start",
-     "quote": "서울지하철은 파업을 피했지만 조만간 서울 시내버스가 고비를 맞는다.",
-     "reference_source": null,
-     "source_id": "6fcd9ca9f380327dcc9bed6c",
-     "source_part": "body",
-     "source_revision": "c3163900ad337f0b89e7ee45"
-    },
-    {
-     "derivation": "explicit",
-     "effective_at": null,
-     "field_path": "/end",
-     "quote": "서울지하철은 파업을 피했지만 조만간 서울 시내버스가 고비를 맞는다.",
-     "reference_source": null,
-     "source_id": "6fcd9ca9f380327dcc9bed6c",
-     "source_part": "body",
-     "source_revision": "c3163900ad337f0b89e7ee45"
-    }
-   ],
-   "exceptions": [],
-   "id": "068b01ccde85fcf8f743cb02",
-   "modes": [
-    "bus"
-   ],
-   "period": {
-    "condition": null,
-    "end": {
-     "assertion": "unknown",
-     "basis": "unknown",
-     "date": null,
-     "open_ended": null,
-     "raw": null,
-     "time": null,
-     "timezone": "Asia/Seoul"
-    },
-    "precision": "PARTIAL",
-    "start": {
-     "assertion": "unknown",
-     "basis": "unknown",
-     "date": null,
-     "open_ended": null,
-     "raw": null,
-     "time": null,
-     "timezone": "Asia/Seoul"
-    }
-   },
-   "published_at": "2026-11-25T18:08:44+09:00",
-   "review_reasons": [
-    "UNSUPPORTED_OR_AMBIGUOUS_STATUS",
-    "DATE_UNCONFIRMED"
-   ],
-   "scope": [
-    {
-     "derivation": "article_explicit",
-     "normalized_name": "서울",
-     "raw": "서울",
-     "reference_id": null,
-     "reference_source": null,
-     "region": "서울"
-    }
-   ],
-   "service_status": [],
-   "source_url": "https://www.hankyung.com/article/2026112502911",
-   "status": "UNKNOWN",
-   "status_effective_at": null,
-   "strike_status": "unknown",
-   "type": "STRIKE",
-   "updated_at": null,
-   "version": 1,
-   "body_verified": true
-  },
-  {
-   "assertion": "planned",
-   "checked_at": "2026-11-25T21:16:28.578570+09:00",
+   "checked_at": "2026-11-26T06:26:54.625951+09:00",
    "conflict": false,
    "demo": false,
    "disruption_confirmed": false,
@@ -18151,7 +18379,7 @@
   },
   {
    "assertion": "planned",
-   "checked_at": "2026-11-25T21:16:31.401070+09:00",
+   "checked_at": "2026-11-26T06:26:58.139607+09:00",
    "conflict": false,
    "demo": false,
    "disruption_confirmed": false,
@@ -18321,7 +18549,7 @@
   },
   {
    "assertion": "planned",
-   "checked_at": "2026-11-25T21:16:35.781780+09:00",
+   "checked_at": "2026-11-26T06:27:02.466881+09:00",
    "conflict": false,
    "demo": false,
    "disruption_confirmed": true,
@@ -18720,7 +18948,7 @@
   },
   {
    "assertion": "planned",
-   "checked_at": "2026-11-25T21:16:35.781780+09:00",
+   "checked_at": "2026-11-26T06:27:02.466881+09:00",
    "conflict": false,
    "demo": false,
    "disruption_confirmed": false,
@@ -18876,34 +19104,8 @@
     {
      "article_relevance": "related",
      "transport_mode": "subway",
-     "affected_regions": [
-      {
-       "raw": "서울",
-       "normalized_name": "서울",
-       "region": "서울",
-       "reference_id": null,
-       "derivation": "article_explicit",
-       "reference_source": null
-      }
-     ],
-     "affected_routes": [
-      {
-       "raw": "개선",
-       "normalized_name": "개선",
-       "region": "서울",
-       "reference_id": null,
-       "derivation": "article_explicit",
-       "reference_source": null
-      },
-      {
-       "raw": "8호선",
-       "normalized_name": "8호선",
-       "region": "서울",
-       "reference_id": null,
-       "derivation": "article_explicit",
-       "reference_source": null
-      }
-     ],
+     "affected_regions": [],
+     "affected_routes": [],
      "start": {
       "raw": null,
       "date": null,
@@ -18925,30 +19127,24 @@
      "strike_status": {
       "value": "unknown",
       "conditions": [],
-      "scope_raw": "노사 “인력 감축 보류·500명 충원” 무임 4488억 손실…누적 적자 19조 “경영 개선” “안전 인력” 갈등 여전 서울 지하철 1~8호선을 운영하는 서울교통공사 노사가 밤샘 협상 끝에 25일 임금·단체협약을 타결하면서 파업은 피했다.",
+      "scope_raw": "노조 파업으로 ‘출근길 대란’이 빚어질 것이라는 우려가 크던 서울지하철이 어제 다행히도 정상 운행됐다.",
       "effective_at": null
      },
      "service_status": [
       {
-       "value": "reduced",
+       "value": "normal",
        "assertion": "actual",
-       "raw": "노사 “인력 감축 보류·500명 충원” 무임 4488억 손실…누적 적자 19조 “경영 개선” “안전 인력” 갈등 여전 서울 지하철 1~8호선을 운영하는 서울교통공사 노사가 밤샘 협상 끝에 25일 임금·단체협약을 타결하면서 파업은 피했다.",
+       "raw": "노조 파업으로 ‘출근길 대란’이 빚어질 것이라는 우려가 크던 서울지하철이 어제 다행히도 정상 운행됐다.",
        "scope": [
         {
-         "raw": "개선",
-         "normalized_name": "개선",
-         "region": "서울",
+         "raw": "파업으로",
+         "normalized_name": "파업으로",
+         "region": null,
          "reference_id": null,
          "derivation": "article_explicit",
-         "reference_source": null
-        },
-        {
-         "raw": "8호선",
-         "normalized_name": "8호선",
-         "region": "서울",
-         "reference_id": null,
-         "derivation": "article_explicit",
-         "reference_source": null
+         "reference_source": null,
+         "direction": null,
+         "section": null
         }
        ],
        "period": {
@@ -18979,109 +19175,109 @@
      "normal_service_exceptions": [],
      "alternative_services": [],
      "evidence_and_timestamps": {
-      "source_url": "https://www.khan.co.kr/article/202611252052025",
-      "published_at": "2026-11-25T20:52:00+09:00",
+      "source_url": "https://www.hankyung.com/article/2026112503071",
+      "published_at": "2026-11-25T17:37:09+09:00",
       "updated_at": null,
-      "collected_at": "2026-11-25T21:16:05.094449+09:00",
+      "collected_at": "2026-11-26T06:26:29.125488+09:00",
       "field_evidence": [
        {
         "field_path": "/article_relevance",
-        "quote": "노사 “인력 감축 보류·500명 충원” 무임 4488억 손실…누적 적자 19조 “경영 개선” “안전 인력” 갈등 여전 서울 지하철 1~8호선을 운영하는 서울교통공사 노사가 밤샘 협상 끝에 25일 임금·단체협약을 타결하면서 파업은 피했다.",
+        "quote": "노조 파업으로 ‘출근길 대란’이 빚어질 것이라는 우려가 크던 서울지하철이 어제 다행히도 정상 운행됐다.",
         "source_part": "body",
         "effective_at": null,
         "derivation": "explicit",
-        "source_id": "b76cb8f157bad11d3f3f0240",
-        "source_revision": "4a9b60bf319466c9b8e61745",
+        "source_id": "f553c20c346756da3f0a3c59",
+        "source_revision": "6d9876da64c1d00062ba5aa9",
         "reference_source": null
        },
        {
         "field_path": "/transport_mode",
-        "quote": "노사 “인력 감축 보류·500명 충원” 무임 4488억 손실…누적 적자 19조 “경영 개선” “안전 인력” 갈등 여전 서울 지하철 1~8호선을 운영하는 서울교통공사 노사가 밤샘 협상 끝에 25일 임금·단체협약을 타결하면서 파업은 피했다.",
+        "quote": "노조 파업으로 ‘출근길 대란’이 빚어질 것이라는 우려가 크던 서울지하철이 어제 다행히도 정상 운행됐다.",
         "source_part": "body",
         "effective_at": null,
         "derivation": "explicit",
-        "source_id": "b76cb8f157bad11d3f3f0240",
-        "source_revision": "4a9b60bf319466c9b8e61745",
+        "source_id": "f553c20c346756da3f0a3c59",
+        "source_revision": "6d9876da64c1d00062ba5aa9",
         "reference_source": null
        },
        {
         "field_path": "/affected_regions",
-        "quote": "노사 “인력 감축 보류·500명 충원” 무임 4488억 손실…누적 적자 19조 “경영 개선” “안전 인력” 갈등 여전 서울 지하철 1~8호선을 운영하는 서울교통공사 노사가 밤샘 협상 끝에 25일 임금·단체협약을 타결하면서 파업은 피했다.",
+        "quote": "노조 파업으로 ‘출근길 대란’이 빚어질 것이라는 우려가 크던 서울지하철이 어제 다행히도 정상 운행됐다.",
         "source_part": "body",
         "effective_at": null,
         "derivation": "explicit",
-        "source_id": "b76cb8f157bad11d3f3f0240",
-        "source_revision": "4a9b60bf319466c9b8e61745",
+        "source_id": "f553c20c346756da3f0a3c59",
+        "source_revision": "6d9876da64c1d00062ba5aa9",
         "reference_source": null
        },
        {
         "field_path": "/affected_routes",
-        "quote": "노사 “인력 감축 보류·500명 충원” 무임 4488억 손실…누적 적자 19조 “경영 개선” “안전 인력” 갈등 여전 서울 지하철 1~8호선을 운영하는 서울교통공사 노사가 밤샘 협상 끝에 25일 임금·단체협약을 타결하면서 파업은 피했다.",
+        "quote": "노조 파업으로 ‘출근길 대란’이 빚어질 것이라는 우려가 크던 서울지하철이 어제 다행히도 정상 운행됐다.",
         "source_part": "body",
         "effective_at": null,
         "derivation": "explicit",
-        "source_id": "b76cb8f157bad11d3f3f0240",
-        "source_revision": "4a9b60bf319466c9b8e61745",
+        "source_id": "f553c20c346756da3f0a3c59",
+        "source_revision": "6d9876da64c1d00062ba5aa9",
         "reference_source": null
        },
        {
         "field_path": "/strike_status",
-        "quote": "노사 “인력 감축 보류·500명 충원” 무임 4488억 손실…누적 적자 19조 “경영 개선” “안전 인력” 갈등 여전 서울 지하철 1~8호선을 운영하는 서울교통공사 노사가 밤샘 협상 끝에 25일 임금·단체협약을 타결하면서 파업은 피했다.",
+        "quote": "노조 파업으로 ‘출근길 대란’이 빚어질 것이라는 우려가 크던 서울지하철이 어제 다행히도 정상 운행됐다.",
         "source_part": "body",
         "effective_at": null,
         "derivation": "explicit",
-        "source_id": "b76cb8f157bad11d3f3f0240",
-        "source_revision": "4a9b60bf319466c9b8e61745",
+        "source_id": "f553c20c346756da3f0a3c59",
+        "source_revision": "6d9876da64c1d00062ba5aa9",
         "reference_source": null
        },
        {
         "field_path": "/service_status",
-        "quote": "노사 “인력 감축 보류·500명 충원” 무임 4488억 손실…누적 적자 19조 “경영 개선” “안전 인력” 갈등 여전 서울 지하철 1~8호선을 운영하는 서울교통공사 노사가 밤샘 협상 끝에 25일 임금·단체협약을 타결하면서 파업은 피했다.",
+        "quote": "노조 파업으로 ‘출근길 대란’이 빚어질 것이라는 우려가 크던 서울지하철이 어제 다행히도 정상 운행됐다.",
         "source_part": "body",
         "effective_at": null,
         "derivation": "explicit",
-        "source_id": "b76cb8f157bad11d3f3f0240",
-        "source_revision": "4a9b60bf319466c9b8e61745",
+        "source_id": "f553c20c346756da3f0a3c59",
+        "source_revision": "6d9876da64c1d00062ba5aa9",
         "reference_source": null
        },
        {
         "field_path": "/normal_service_exceptions",
-        "quote": "노사 “인력 감축 보류·500명 충원” 무임 4488억 손실…누적 적자 19조 “경영 개선” “안전 인력” 갈등 여전 서울 지하철 1~8호선을 운영하는 서울교통공사 노사가 밤샘 협상 끝에 25일 임금·단체협약을 타결하면서 파업은 피했다.",
+        "quote": "노조 파업으로 ‘출근길 대란’이 빚어질 것이라는 우려가 크던 서울지하철이 어제 다행히도 정상 운행됐다.",
         "source_part": "body",
         "effective_at": null,
         "derivation": "explicit",
-        "source_id": "b76cb8f157bad11d3f3f0240",
-        "source_revision": "4a9b60bf319466c9b8e61745",
+        "source_id": "f553c20c346756da3f0a3c59",
+        "source_revision": "6d9876da64c1d00062ba5aa9",
         "reference_source": null
        },
        {
         "field_path": "/alternative_services",
-        "quote": "노사 “인력 감축 보류·500명 충원” 무임 4488억 손실…누적 적자 19조 “경영 개선” “안전 인력” 갈등 여전 서울 지하철 1~8호선을 운영하는 서울교통공사 노사가 밤샘 협상 끝에 25일 임금·단체협약을 타결하면서 파업은 피했다.",
+        "quote": "노조 파업으로 ‘출근길 대란’이 빚어질 것이라는 우려가 크던 서울지하철이 어제 다행히도 정상 운행됐다.",
         "source_part": "body",
         "effective_at": null,
         "derivation": "explicit",
-        "source_id": "b76cb8f157bad11d3f3f0240",
-        "source_revision": "4a9b60bf319466c9b8e61745",
+        "source_id": "f553c20c346756da3f0a3c59",
+        "source_revision": "6d9876da64c1d00062ba5aa9",
         "reference_source": null
        },
        {
         "field_path": "/start",
-        "quote": "노사 “인력 감축 보류·500명 충원” 무임 4488억 손실…누적 적자 19조 “경영 개선” “안전 인력” 갈등 여전 서울 지하철 1~8호선을 운영하는 서울교통공사 노사가 밤샘 협상 끝에 25일 임금·단체협약을 타결하면서 파업은 피했다.",
+        "quote": "노조 파업으로 ‘출근길 대란’이 빚어질 것이라는 우려가 크던 서울지하철이 어제 다행히도 정상 운행됐다.",
         "source_part": "body",
         "effective_at": null,
         "derivation": "explicit",
-        "source_id": "b76cb8f157bad11d3f3f0240",
-        "source_revision": "4a9b60bf319466c9b8e61745",
+        "source_id": "f553c20c346756da3f0a3c59",
+        "source_revision": "6d9876da64c1d00062ba5aa9",
         "reference_source": null
        },
        {
         "field_path": "/end",
-        "quote": "노사 “인력 감축 보류·500명 충원” 무임 4488억 손실…누적 적자 19조 “경영 개선” “안전 인력” 갈등 여전 서울 지하철 1~8호선을 운영하는 서울교통공사 노사가 밤샘 협상 끝에 25일 임금·단체협약을 타결하면서 파업은 피했다.",
+        "quote": "노조 파업으로 ‘출근길 대란’이 빚어질 것이라는 우려가 크던 서울지하철이 어제 다행히도 정상 운행됐다.",
         "source_part": "body",
         "effective_at": null,
         "derivation": "explicit",
-        "source_id": "b76cb8f157bad11d3f3f0240",
-        "source_revision": "4a9b60bf319466c9b8e61745",
+        "source_id": "f553c20c346756da3f0a3c59",
+        "source_revision": "6d9876da64c1d00062ba5aa9",
         "reference_source": null
        }
       ],
@@ -19124,109 +19320,109 @@
      "normal_service_exceptions": [],
      "alternative_services": [],
      "evidence_and_timestamps": {
-      "source_url": "https://www.khan.co.kr/article/202611252052025",
-      "published_at": "2026-11-25T20:52:00+09:00",
+      "source_url": "https://www.hankyung.com/article/2026112503071",
+      "published_at": "2026-11-25T17:37:09+09:00",
       "updated_at": null,
-      "collected_at": "2026-11-25T21:16:05.094449+09:00",
+      "collected_at": "2026-11-26T06:26:29.125488+09:00",
       "field_evidence": [
        {
         "field_path": "/article_relevance",
-        "quote": "노사는 인력 감축 계획 보류와 신규 채용에 합의했지만, 해마다 파업 위기를 부른 재정난 등 갈등의 불씨는 남아 있다.",
+        "quote": "회사 측은 인력 감축을 철회한 것은 아니며 조직진단 결과가 나오면 다시 노조와 협의하겠다고 밝혔지만 제대로 지켜질지 알 수 없다.",
         "source_part": "body",
         "effective_at": null,
         "derivation": "explicit",
-        "source_id": "b76cb8f157bad11d3f3f0240",
-        "source_revision": "4a9b60bf319466c9b8e61745",
+        "source_id": "f553c20c346756da3f0a3c59",
+        "source_revision": "6d9876da64c1d00062ba5aa9",
         "reference_source": null
        },
        {
         "field_path": "/transport_mode",
-        "quote": "노사는 인력 감축 계획 보류와 신규 채용에 합의했지만, 해마다 파업 위기를 부른 재정난 등 갈등의 불씨는 남아 있다.",
+        "quote": "회사 측은 인력 감축을 철회한 것은 아니며 조직진단 결과가 나오면 다시 노조와 협의하겠다고 밝혔지만 제대로 지켜질지 알 수 없다.",
         "source_part": "body",
         "effective_at": null,
         "derivation": "explicit",
-        "source_id": "b76cb8f157bad11d3f3f0240",
-        "source_revision": "4a9b60bf319466c9b8e61745",
+        "source_id": "f553c20c346756da3f0a3c59",
+        "source_revision": "6d9876da64c1d00062ba5aa9",
         "reference_source": null
        },
        {
         "field_path": "/affected_regions",
-        "quote": "노사는 인력 감축 계획 보류와 신규 채용에 합의했지만, 해마다 파업 위기를 부른 재정난 등 갈등의 불씨는 남아 있다.",
+        "quote": "회사 측은 인력 감축을 철회한 것은 아니며 조직진단 결과가 나오면 다시 노조와 협의하겠다고 밝혔지만 제대로 지켜질지 알 수 없다.",
         "source_part": "body",
         "effective_at": null,
         "derivation": "explicit",
-        "source_id": "b76cb8f157bad11d3f3f0240",
-        "source_revision": "4a9b60bf319466c9b8e61745",
+        "source_id": "f553c20c346756da3f0a3c59",
+        "source_revision": "6d9876da64c1d00062ba5aa9",
         "reference_source": null
        },
        {
         "field_path": "/affected_routes",
-        "quote": "노사는 인력 감축 계획 보류와 신규 채용에 합의했지만, 해마다 파업 위기를 부른 재정난 등 갈등의 불씨는 남아 있다.",
+        "quote": "회사 측은 인력 감축을 철회한 것은 아니며 조직진단 결과가 나오면 다시 노조와 협의하겠다고 밝혔지만 제대로 지켜질지 알 수 없다.",
         "source_part": "body",
         "effective_at": null,
         "derivation": "explicit",
-        "source_id": "b76cb8f157bad11d3f3f0240",
-        "source_revision": "4a9b60bf319466c9b8e61745",
+        "source_id": "f553c20c346756da3f0a3c59",
+        "source_revision": "6d9876da64c1d00062ba5aa9",
         "reference_source": null
        },
        {
         "field_path": "/strike_status",
-        "quote": "노사는 인력 감축 계획 보류와 신규 채용에 합의했지만, 해마다 파업 위기를 부른 재정난 등 갈등의 불씨는 남아 있다.",
+        "quote": "회사 측은 인력 감축을 철회한 것은 아니며 조직진단 결과가 나오면 다시 노조와 협의하겠다고 밝혔지만 제대로 지켜질지 알 수 없다.",
         "source_part": "body",
         "effective_at": null,
         "derivation": "explicit",
-        "source_id": "b76cb8f157bad11d3f3f0240",
-        "source_revision": "4a9b60bf319466c9b8e61745",
+        "source_id": "f553c20c346756da3f0a3c59",
+        "source_revision": "6d9876da64c1d00062ba5aa9",
         "reference_source": null
        },
        {
         "field_path": "/service_status",
-        "quote": "노사는 인력 감축 계획 보류와 신규 채용에 합의했지만, 해마다 파업 위기를 부른 재정난 등 갈등의 불씨는 남아 있다.",
+        "quote": "회사 측은 인력 감축을 철회한 것은 아니며 조직진단 결과가 나오면 다시 노조와 협의하겠다고 밝혔지만 제대로 지켜질지 알 수 없다.",
         "source_part": "body",
         "effective_at": null,
         "derivation": "explicit",
-        "source_id": "b76cb8f157bad11d3f3f0240",
-        "source_revision": "4a9b60bf319466c9b8e61745",
+        "source_id": "f553c20c346756da3f0a3c59",
+        "source_revision": "6d9876da64c1d00062ba5aa9",
         "reference_source": null
        },
        {
         "field_path": "/normal_service_exceptions",
-        "quote": "노사는 인력 감축 계획 보류와 신규 채용에 합의했지만, 해마다 파업 위기를 부른 재정난 등 갈등의 불씨는 남아 있다.",
+        "quote": "회사 측은 인력 감축을 철회한 것은 아니며 조직진단 결과가 나오면 다시 노조와 협의하겠다고 밝혔지만 제대로 지켜질지 알 수 없다.",
         "source_part": "body",
         "effective_at": null,
         "derivation": "explicit",
-        "source_id": "b76cb8f157bad11d3f3f0240",
-        "source_revision": "4a9b60bf319466c9b8e61745",
+        "source_id": "f553c20c346756da3f0a3c59",
+        "source_revision": "6d9876da64c1d00062ba5aa9",
         "reference_source": null
        },
        {
         "field_path": "/alternative_services",
-        "quote": "노사는 인력 감축 계획 보류와 신규 채용에 합의했지만, 해마다 파업 위기를 부른 재정난 등 갈등의 불씨는 남아 있다.",
+        "quote": "회사 측은 인력 감축을 철회한 것은 아니며 조직진단 결과가 나오면 다시 노조와 협의하겠다고 밝혔지만 제대로 지켜질지 알 수 없다.",
         "source_part": "body",
         "effective_at": null,
         "derivation": "explicit",
-        "source_id": "b76cb8f157bad11d3f3f0240",
-        "source_revision": "4a9b60bf319466c9b8e61745",
+        "source_id": "f553c20c346756da3f0a3c59",
+        "source_revision": "6d9876da64c1d00062ba5aa9",
         "reference_source": null
        },
        {
         "field_path": "/start",
-        "quote": "노사는 인력 감축 계획 보류와 신규 채용에 합의했지만, 해마다 파업 위기를 부른 재정난 등 갈등의 불씨는 남아 있다.",
+        "quote": "회사 측은 인력 감축을 철회한 것은 아니며 조직진단 결과가 나오면 다시 노조와 협의하겠다고 밝혔지만 제대로 지켜질지 알 수 없다.",
         "source_part": "body",
         "effective_at": null,
         "derivation": "explicit",
-        "source_id": "b76cb8f157bad11d3f3f0240",
-        "source_revision": "4a9b60bf319466c9b8e61745",
+        "source_id": "f553c20c346756da3f0a3c59",
+        "source_revision": "6d9876da64c1d00062ba5aa9",
         "reference_source": null
        },
        {
         "field_path": "/end",
-        "quote": "노사는 인력 감축 계획 보류와 신규 채용에 합의했지만, 해마다 파업 위기를 부른 재정난 등 갈등의 불씨는 남아 있다.",
+        "quote": "회사 측은 인력 감축을 철회한 것은 아니며 조직진단 결과가 나오면 다시 노조와 협의하겠다고 밝혔지만 제대로 지켜질지 알 수 없다.",
         "source_part": "body",
         "effective_at": null,
         "derivation": "explicit",
-        "source_id": "b76cb8f157bad11d3f3f0240",
-        "source_revision": "4a9b60bf319466c9b8e61745",
+        "source_id": "f553c20c346756da3f0a3c59",
+        "source_revision": "6d9876da64c1d00062ba5aa9",
         "reference_source": null
        }
       ],
@@ -19239,12 +19435,12 @@
     "article_relevance": "unrelated",
     "processing_status": "success",
     "source": {
-     "source_id": "b76cb8f157bad11d3f3f0240",
-     "source_url": "https://www.khan.co.kr/article/202611252052025",
-     "source_revision": "4a9b60bf319466c9b8e61745",
-     "published_at": "2026-11-25T20:52:00+09:00",
+     "source_id": "f553c20c346756da3f0a3c59",
+     "source_url": "https://www.hankyung.com/article/2026112503071",
+     "source_revision": "6d9876da64c1d00062ba5aa9",
+     "published_at": "2026-11-25T17:37:09+09:00",
      "updated_at": null,
-     "collected_at": "2026-11-25T21:16:05.094449+09:00"
+     "collected_at": "2026-11-26T06:26:29.125488+09:00"
     },
     "events": [],
     "review_reasons": []
@@ -19288,7 +19484,7 @@
       "source_url": "https://www.khan.co.kr/article/202611252056001",
       "published_at": "2026-11-25T20:56:00+09:00",
       "updated_at": null,
-      "collected_at": "2026-11-25T21:16:08.227885+09:00",
+      "collected_at": "2026-11-26T06:26:32.940835+09:00",
       "field_evidence": [
        {
         "field_path": "/article_relevance",
@@ -19532,7 +19728,7 @@
       "source_url": "https://www.khan.co.kr/article/202611252056001",
       "published_at": "2026-11-25T20:56:00+09:00",
       "updated_at": null,
-      "collected_at": "2026-11-25T21:16:08.227885+09:00",
+      "collected_at": "2026-11-26T06:26:32.940835+09:00",
       "field_evidence": [
        {
         "field_path": "/article_relevance",
@@ -19649,7 +19845,7 @@
      "source_revision": "ec856123c839e8fcacb1c9b0",
      "published_at": "2026-11-25T20:56:00+09:00",
      "updated_at": null,
-     "collected_at": "2026-11-25T21:16:08.227885+09:00"
+     "collected_at": "2026-11-26T06:26:32.940835+09:00"
     },
     "events": [],
     "review_reasons": []
@@ -19693,7 +19889,7 @@
       "source_url": "https://www.khan.co.kr/article/202611252022005",
       "published_at": "2026-11-25T20:22:00+09:00",
       "updated_at": null,
-      "collected_at": "2026-11-25T21:16:10.052858+09:00",
+      "collected_at": "2026-11-26T06:26:35.052927+09:00",
       "field_evidence": [
        {
         "field_path": "/article_relevance",
@@ -19813,7 +20009,7 @@
      "source_revision": "e167ccaf9a147e9e25f5e16a",
      "published_at": "2026-11-25T20:22:00+09:00",
      "updated_at": null,
-     "collected_at": "2026-11-25T21:16:10.052858+09:00"
+     "collected_at": "2026-11-26T06:26:35.052927+09:00"
     },
     "events": [],
     "review_reasons": []
@@ -19883,7 +20079,7 @@
       "source_url": "https://www.newsis.com/view/NISX20261125_0003882314",
       "published_at": "2026-11-25T11:20:24+09:00",
       "updated_at": null,
-      "collected_at": "2026-11-25T21:16:12.700711+09:00",
+      "collected_at": "2026-11-26T06:26:39.308517+09:00",
       "field_evidence": [
        {
         "field_path": "/article_relevance",
@@ -20003,7 +20199,7 @@
      "source_revision": "3d6cddfe7b61c7cab40a77fc",
      "published_at": "2026-11-25T11:20:24+09:00",
      "updated_at": null,
-     "collected_at": "2026-11-25T21:16:12.700711+09:00"
+     "collected_at": "2026-11-26T06:26:39.308517+09:00"
     },
     "events": [],
     "review_reasons": []
@@ -20047,7 +20243,7 @@
       "source_url": "https://www.yna.co.kr/view/AKR20261118007000079?input=1195m",
       "published_at": "2026-11-18T03:43:59+09:00",
       "updated_at": "2026-11-18T09:34:21+09:00",
-      "collected_at": "2026-11-25T21:16:17.467260+09:00",
+      "collected_at": "2026-11-26T06:26:44.077122+09:00",
       "field_evidence": [
        {
         "field_path": "/article_relevance",
@@ -20164,7 +20360,7 @@
      "source_revision": "803fca1dcdf7c4adcd01d505",
      "published_at": "2026-11-18T03:43:59+09:00",
      "updated_at": "2026-11-18T09:34:21+09:00",
-     "collected_at": "2026-11-25T21:16:17.467260+09:00"
+     "collected_at": "2026-11-26T06:26:44.077122+09:00"
     },
     "events": [],
     "review_reasons": [
@@ -20210,7 +20406,7 @@
       "source_url": "https://www.newsis.com/view/NISX20261125_0003883507",
       "published_at": "2026-11-25T21:01:11+09:00",
       "updated_at": null,
-      "collected_at": "2026-11-25T21:16:18.110017+09:00",
+      "collected_at": "2026-11-26T06:26:45.367244+09:00",
       "field_evidence": [
        {
         "field_path": "/article_relevance",
@@ -20327,7 +20523,7 @@
      "source_revision": "68b7b14d118eddccba28ae57",
      "published_at": "2026-11-25T21:01:11+09:00",
      "updated_at": null,
-     "collected_at": "2026-11-25T21:16:18.110017+09:00"
+     "collected_at": "2026-11-26T06:26:45.367244+09:00"
     },
     "events": [
      {
@@ -20424,7 +20620,7 @@
       "source_url": "https://www.seoul.co.kr/news/society/2026/11/25/20261125500215?wlog_tag3=naver",
       "published_at": "2026-11-25T15:48:27+09:00",
       "updated_at": "2026-11-25T15:48:27+09:00",
-      "collected_at": "2026-11-25T21:16:23.243420+09:00",
+      "collected_at": "2026-11-26T06:26:49.779783+09:00",
       "field_evidence": [
        {
         "field_path": "/article_relevance",
@@ -20541,7 +20737,7 @@
      "source_revision": "1f1cad3c054fcf3d2d5157ed",
      "published_at": "2026-11-25T15:48:27+09:00",
      "updated_at": "2026-11-25T15:48:27+09:00",
-     "collected_at": "2026-11-25T21:16:23.243420+09:00"
+     "collected_at": "2026-11-26T06:26:49.779783+09:00"
     },
     "events": [],
     "review_reasons": []
@@ -20550,292 +20746,8 @@
   {
    "strikes": [
     {
-     "article_relevance": "unrelated",
-     "transport_mode": "unknown",
-     "affected_regions": [],
-     "affected_routes": [],
-     "start": {
-      "raw": null,
-      "date": null,
-      "time": null,
-      "timezone": "Asia/Seoul",
-      "basis": "unknown",
-      "assertion": "unknown",
-      "open_ended": null
-     },
-     "end": {
-      "raw": null,
-      "date": null,
-      "time": null,
-      "timezone": "Asia/Seoul",
-      "basis": "unknown",
-      "assertion": "unknown",
-      "open_ended": null
-     },
-     "strike_status": {
-      "value": "unknown",
-      "conditions": [],
-      "scope_raw": null,
-      "effective_at": null
-     },
-     "service_status": [],
-     "normal_service_exceptions": [],
-     "alternative_services": [],
-     "evidence_and_timestamps": {
-      "source_url": "https://www.hankyung.com/article/2026112502911",
-      "published_at": "2026-11-25T18:08:44+09:00",
-      "updated_at": null,
-      "collected_at": "2026-11-25T21:16:25.598101+09:00",
-      "field_evidence": [
-       {
-        "field_path": "/article_relevance",
-        "quote": "3개 노조가 무기한 총파업을 철회하면서 열차는 첫차부터 정상 운행했다.",
-        "source_part": "body",
-        "effective_at": null,
-        "derivation": "explicit",
-        "source_id": "6fcd9ca9f380327dcc9bed6c",
-        "source_revision": "c3163900ad337f0b89e7ee45",
-        "reference_source": null
-       },
-       {
-        "field_path": "/transport_mode",
-        "quote": "3개 노조가 무기한 총파업을 철회하면서 열차는 첫차부터 정상 운행했다.",
-        "source_part": "body",
-        "effective_at": null,
-        "derivation": "explicit",
-        "source_id": "6fcd9ca9f380327dcc9bed6c",
-        "source_revision": "c3163900ad337f0b89e7ee45",
-        "reference_source": null
-       },
-       {
-        "field_path": "/affected_regions",
-        "quote": "3개 노조가 무기한 총파업을 철회하면서 열차는 첫차부터 정상 운행했다.",
-        "source_part": "body",
-        "effective_at": null,
-        "derivation": "explicit",
-        "source_id": "6fcd9ca9f380327dcc9bed6c",
-        "source_revision": "c3163900ad337f0b89e7ee45",
-        "reference_source": null
-       },
-       {
-        "field_path": "/affected_routes",
-        "quote": "3개 노조가 무기한 총파업을 철회하면서 열차는 첫차부터 정상 운행했다.",
-        "source_part": "body",
-        "effective_at": null,
-        "derivation": "explicit",
-        "source_id": "6fcd9ca9f380327dcc9bed6c",
-        "source_revision": "c3163900ad337f0b89e7ee45",
-        "reference_source": null
-       },
-       {
-        "field_path": "/strike_status",
-        "quote": "3개 노조가 무기한 총파업을 철회하면서 열차는 첫차부터 정상 운행했다.",
-        "source_part": "body",
-        "effective_at": null,
-        "derivation": "explicit",
-        "source_id": "6fcd9ca9f380327dcc9bed6c",
-        "source_revision": "c3163900ad337f0b89e7ee45",
-        "reference_source": null
-       },
-       {
-        "field_path": "/service_status",
-        "quote": "3개 노조가 무기한 총파업을 철회하면서 열차는 첫차부터 정상 운행했다.",
-        "source_part": "body",
-        "effective_at": null,
-        "derivation": "explicit",
-        "source_id": "6fcd9ca9f380327dcc9bed6c",
-        "source_revision": "c3163900ad337f0b89e7ee45",
-        "reference_source": null
-       },
-       {
-        "field_path": "/normal_service_exceptions",
-        "quote": "3개 노조가 무기한 총파업을 철회하면서 열차는 첫차부터 정상 운행했다.",
-        "source_part": "body",
-        "effective_at": null,
-        "derivation": "explicit",
-        "source_id": "6fcd9ca9f380327dcc9bed6c",
-        "source_revision": "c3163900ad337f0b89e7ee45",
-        "reference_source": null
-       },
-       {
-        "field_path": "/alternative_services",
-        "quote": "3개 노조가 무기한 총파업을 철회하면서 열차는 첫차부터 정상 운행했다.",
-        "source_part": "body",
-        "effective_at": null,
-        "derivation": "explicit",
-        "source_id": "6fcd9ca9f380327dcc9bed6c",
-        "source_revision": "c3163900ad337f0b89e7ee45",
-        "reference_source": null
-       },
-       {
-        "field_path": "/start",
-        "quote": "3개 노조가 무기한 총파업을 철회하면서 열차는 첫차부터 정상 운행했다.",
-        "source_part": "body",
-        "effective_at": null,
-        "derivation": "explicit",
-        "source_id": "6fcd9ca9f380327dcc9bed6c",
-        "source_revision": "c3163900ad337f0b89e7ee45",
-        "reference_source": null
-       },
-       {
-        "field_path": "/end",
-        "quote": "3개 노조가 무기한 총파업을 철회하면서 열차는 첫차부터 정상 운행했다.",
-        "source_part": "body",
-        "effective_at": null,
-        "derivation": "explicit",
-        "source_id": "6fcd9ca9f380327dcc9bed6c",
-        "source_revision": "c3163900ad337f0b89e7ee45",
-        "reference_source": null
-       }
-      ],
-      "review_reasons": []
-     }
-    },
-    {
-     "article_relevance": "unrelated",
-     "transport_mode": "unknown",
-     "affected_regions": [],
-     "affected_routes": [],
-     "start": {
-      "raw": null,
-      "date": null,
-      "time": null,
-      "timezone": "Asia/Seoul",
-      "basis": "unknown",
-      "assertion": "unknown",
-      "open_ended": null
-     },
-     "end": {
-      "raw": null,
-      "date": null,
-      "time": null,
-      "timezone": "Asia/Seoul",
-      "basis": "unknown",
-      "assertion": "unknown",
-      "open_ended": null
-     },
-     "strike_status": {
-      "value": "unknown",
-      "conditions": [],
-      "scope_raw": null,
-      "effective_at": null
-     },
-     "service_status": [],
-     "normal_service_exceptions": [],
-     "alternative_services": [],
-     "evidence_and_timestamps": {
-      "source_url": "https://www.hankyung.com/article/2026112502911",
-      "published_at": "2026-11-25T18:08:44+09:00",
-      "updated_at": null,
-      "collected_at": "2026-11-25T21:16:25.598101+09:00",
-      "field_evidence": [
-       {
-        "field_path": "/article_relevance",
-        "quote": "지난 6월부터 본교섭 7차례, 실무교섭 36차례를 벌이고도 3년 연속으로 첫차가 다닐 시간이 다 돼서야 파업을 면했다.",
-        "source_part": "body",
-        "effective_at": null,
-        "derivation": "explicit",
-        "source_id": "6fcd9ca9f380327dcc9bed6c",
-        "source_revision": "c3163900ad337f0b89e7ee45",
-        "reference_source": null
-       },
-       {
-        "field_path": "/transport_mode",
-        "quote": "지난 6월부터 본교섭 7차례, 실무교섭 36차례를 벌이고도 3년 연속으로 첫차가 다닐 시간이 다 돼서야 파업을 면했다.",
-        "source_part": "body",
-        "effective_at": null,
-        "derivation": "explicit",
-        "source_id": "6fcd9ca9f380327dcc9bed6c",
-        "source_revision": "c3163900ad337f0b89e7ee45",
-        "reference_source": null
-       },
-       {
-        "field_path": "/affected_regions",
-        "quote": "지난 6월부터 본교섭 7차례, 실무교섭 36차례를 벌이고도 3년 연속으로 첫차가 다닐 시간이 다 돼서야 파업을 면했다.",
-        "source_part": "body",
-        "effective_at": null,
-        "derivation": "explicit",
-        "source_id": "6fcd9ca9f380327dcc9bed6c",
-        "source_revision": "c3163900ad337f0b89e7ee45",
-        "reference_source": null
-       },
-       {
-        "field_path": "/affected_routes",
-        "quote": "지난 6월부터 본교섭 7차례, 실무교섭 36차례를 벌이고도 3년 연속으로 첫차가 다닐 시간이 다 돼서야 파업을 면했다.",
-        "source_part": "body",
-        "effective_at": null,
-        "derivation": "explicit",
-        "source_id": "6fcd9ca9f380327dcc9bed6c",
-        "source_revision": "c3163900ad337f0b89e7ee45",
-        "reference_source": null
-       },
-       {
-        "field_path": "/strike_status",
-        "quote": "지난 6월부터 본교섭 7차례, 실무교섭 36차례를 벌이고도 3년 연속으로 첫차가 다닐 시간이 다 돼서야 파업을 면했다.",
-        "source_part": "body",
-        "effective_at": null,
-        "derivation": "explicit",
-        "source_id": "6fcd9ca9f380327dcc9bed6c",
-        "source_revision": "c3163900ad337f0b89e7ee45",
-        "reference_source": null
-       },
-       {
-        "field_path": "/service_status",
-        "quote": "지난 6월부터 본교섭 7차례, 실무교섭 36차례를 벌이고도 3년 연속으로 첫차가 다닐 시간이 다 돼서야 파업을 면했다.",
-        "source_part": "body",
-        "effective_at": null,
-        "derivation": "explicit",
-        "source_id": "6fcd9ca9f380327dcc9bed6c",
-        "source_revision": "c3163900ad337f0b89e7ee45",
-        "reference_source": null
-       },
-       {
-        "field_path": "/normal_service_exceptions",
-        "quote": "지난 6월부터 본교섭 7차례, 실무교섭 36차례를 벌이고도 3년 연속으로 첫차가 다닐 시간이 다 돼서야 파업을 면했다.",
-        "source_part": "body",
-        "effective_at": null,
-        "derivation": "explicit",
-        "source_id": "6fcd9ca9f380327dcc9bed6c",
-        "source_revision": "c3163900ad337f0b89e7ee45",
-        "reference_source": null
-       },
-       {
-        "field_path": "/alternative_services",
-        "quote": "지난 6월부터 본교섭 7차례, 실무교섭 36차례를 벌이고도 3년 연속으로 첫차가 다닐 시간이 다 돼서야 파업을 면했다.",
-        "source_part": "body",
-        "effective_at": null,
-        "derivation": "explicit",
-        "source_id": "6fcd9ca9f380327dcc9bed6c",
-        "source_revision": "c3163900ad337f0b89e7ee45",
-        "reference_source": null
-       },
-       {
-        "field_path": "/start",
-        "quote": "지난 6월부터 본교섭 7차례, 실무교섭 36차례를 벌이고도 3년 연속으로 첫차가 다닐 시간이 다 돼서야 파업을 면했다.",
-        "source_part": "body",
-        "effective_at": null,
-        "derivation": "explicit",
-        "source_id": "6fcd9ca9f380327dcc9bed6c",
-        "source_revision": "c3163900ad337f0b89e7ee45",
-        "reference_source": null
-       },
-       {
-        "field_path": "/end",
-        "quote": "지난 6월부터 본교섭 7차례, 실무교섭 36차례를 벌이고도 3년 연속으로 첫차가 다닐 시간이 다 돼서야 파업을 면했다.",
-        "source_part": "body",
-        "effective_at": null,
-        "derivation": "explicit",
-        "source_id": "6fcd9ca9f380327dcc9bed6c",
-        "source_revision": "c3163900ad337f0b89e7ee45",
-        "reference_source": null
-       }
-      ],
-      "review_reasons": []
-     }
-    },
-    {
      "article_relevance": "related",
-     "transport_mode": "bus",
+     "transport_mode": "subway",
      "affected_regions": [
       {
        "raw": "서울",
@@ -20846,6 +20758,215 @@
        "reference_source": null
       }
      ],
+     "affected_routes": [
+      {
+       "raw": "개선",
+       "normalized_name": "개선",
+       "region": "서울",
+       "reference_id": null,
+       "derivation": "article_explicit",
+       "reference_source": null
+      },
+      {
+       "raw": "8호선",
+       "normalized_name": "8호선",
+       "region": "서울",
+       "reference_id": null,
+       "derivation": "article_explicit",
+       "reference_source": null
+      }
+     ],
+     "start": {
+      "raw": null,
+      "date": null,
+      "time": null,
+      "timezone": "Asia/Seoul",
+      "basis": "unknown",
+      "assertion": "unknown",
+      "open_ended": null
+     },
+     "end": {
+      "raw": null,
+      "date": null,
+      "time": null,
+      "timezone": "Asia/Seoul",
+      "basis": "unknown",
+      "assertion": "unknown",
+      "open_ended": null
+     },
+     "strike_status": {
+      "value": "unknown",
+      "conditions": [],
+      "scope_raw": "노사 “인력 감축 보류·500명 충원” 무임 4488억 손실…누적 적자 19조 “경영 개선” “안전 인력” 갈등 여전 서울 지하철 1~8호선을 운영하는 서울교통공사 노사가 밤샘 협상 끝에 25일 임금·단체협약을 타결하면서 파업은 피했다.",
+      "effective_at": null
+     },
+     "service_status": [
+      {
+       "value": "reduced",
+       "assertion": "actual",
+       "raw": "노사 “인력 감축 보류·500명 충원” 무임 4488억 손실…누적 적자 19조 “경영 개선” “안전 인력” 갈등 여전 서울 지하철 1~8호선을 운영하는 서울교통공사 노사가 밤샘 협상 끝에 25일 임금·단체협약을 타결하면서 파업은 피했다.",
+       "scope": [
+        {
+         "raw": "개선",
+         "normalized_name": "개선",
+         "region": "서울",
+         "reference_id": null,
+         "derivation": "article_explicit",
+         "reference_source": null
+        },
+        {
+         "raw": "8호선",
+         "normalized_name": "8호선",
+         "region": "서울",
+         "reference_id": null,
+         "derivation": "article_explicit",
+         "reference_source": null
+        }
+       ],
+       "period": {
+        "start": {
+         "raw": null,
+         "date": null,
+         "time": null,
+         "timezone": "Asia/Seoul",
+         "basis": "unknown",
+         "assertion": "unknown",
+         "open_ended": null
+        },
+        "end": {
+         "raw": null,
+         "date": null,
+         "time": null,
+         "timezone": "Asia/Seoul",
+         "basis": "unknown",
+         "assertion": "unknown",
+         "open_ended": null
+        },
+        "precision": "UNKNOWN",
+        "condition": null
+       },
+       "metrics": []
+      }
+     ],
+     "normal_service_exceptions": [],
+     "alternative_services": [],
+     "evidence_and_timestamps": {
+      "source_url": "https://www.khan.co.kr/article/202611252052025",
+      "published_at": "2026-11-25T20:52:00+09:00",
+      "updated_at": null,
+      "collected_at": "2026-11-26T06:26:51.555222+09:00",
+      "field_evidence": [
+       {
+        "field_path": "/article_relevance",
+        "quote": "노사 “인력 감축 보류·500명 충원” 무임 4488억 손실…누적 적자 19조 “경영 개선” “안전 인력” 갈등 여전 서울 지하철 1~8호선을 운영하는 서울교통공사 노사가 밤샘 협상 끝에 25일 임금·단체협약을 타결하면서 파업은 피했다.",
+        "source_part": "body",
+        "effective_at": null,
+        "derivation": "explicit",
+        "source_id": "b76cb8f157bad11d3f3f0240",
+        "source_revision": "4a9b60bf319466c9b8e61745",
+        "reference_source": null
+       },
+       {
+        "field_path": "/transport_mode",
+        "quote": "노사 “인력 감축 보류·500명 충원” 무임 4488억 손실…누적 적자 19조 “경영 개선” “안전 인력” 갈등 여전 서울 지하철 1~8호선을 운영하는 서울교통공사 노사가 밤샘 협상 끝에 25일 임금·단체협약을 타결하면서 파업은 피했다.",
+        "source_part": "body",
+        "effective_at": null,
+        "derivation": "explicit",
+        "source_id": "b76cb8f157bad11d3f3f0240",
+        "source_revision": "4a9b60bf319466c9b8e61745",
+        "reference_source": null
+       },
+       {
+        "field_path": "/affected_regions",
+        "quote": "노사 “인력 감축 보류·500명 충원” 무임 4488억 손실…누적 적자 19조 “경영 개선” “안전 인력” 갈등 여전 서울 지하철 1~8호선을 운영하는 서울교통공사 노사가 밤샘 협상 끝에 25일 임금·단체협약을 타결하면서 파업은 피했다.",
+        "source_part": "body",
+        "effective_at": null,
+        "derivation": "explicit",
+        "source_id": "b76cb8f157bad11d3f3f0240",
+        "source_revision": "4a9b60bf319466c9b8e61745",
+        "reference_source": null
+       },
+       {
+        "field_path": "/affected_routes",
+        "quote": "노사 “인력 감축 보류·500명 충원” 무임 4488억 손실…누적 적자 19조 “경영 개선” “안전 인력” 갈등 여전 서울 지하철 1~8호선을 운영하는 서울교통공사 노사가 밤샘 협상 끝에 25일 임금·단체협약을 타결하면서 파업은 피했다.",
+        "source_part": "body",
+        "effective_at": null,
+        "derivation": "explicit",
+        "source_id": "b76cb8f157bad11d3f3f0240",
+        "source_revision": "4a9b60bf319466c9b8e61745",
+        "reference_source": null
+       },
+       {
+        "field_path": "/strike_status",
+        "quote": "노사 “인력 감축 보류·500명 충원” 무임 4488억 손실…누적 적자 19조 “경영 개선” “안전 인력” 갈등 여전 서울 지하철 1~8호선을 운영하는 서울교통공사 노사가 밤샘 협상 끝에 25일 임금·단체협약을 타결하면서 파업은 피했다.",
+        "source_part": "body",
+        "effective_at": null,
+        "derivation": "explicit",
+        "source_id": "b76cb8f157bad11d3f3f0240",
+        "source_revision": "4a9b60bf319466c9b8e61745",
+        "reference_source": null
+       },
+       {
+        "field_path": "/service_status",
+        "quote": "노사 “인력 감축 보류·500명 충원” 무임 4488억 손실…누적 적자 19조 “경영 개선” “안전 인력” 갈등 여전 서울 지하철 1~8호선을 운영하는 서울교통공사 노사가 밤샘 협상 끝에 25일 임금·단체협약을 타결하면서 파업은 피했다.",
+        "source_part": "body",
+        "effective_at": null,
+        "derivation": "explicit",
+        "source_id": "b76cb8f157bad11d3f3f0240",
+        "source_revision": "4a9b60bf319466c9b8e61745",
+        "reference_source": null
+       },
+       {
+        "field_path": "/normal_service_exceptions",
+        "quote": "노사 “인력 감축 보류·500명 충원” 무임 4488억 손실…누적 적자 19조 “경영 개선” “안전 인력” 갈등 여전 서울 지하철 1~8호선을 운영하는 서울교통공사 노사가 밤샘 협상 끝에 25일 임금·단체협약을 타결하면서 파업은 피했다.",
+        "source_part": "body",
+        "effective_at": null,
+        "derivation": "explicit",
+        "source_id": "b76cb8f157bad11d3f3f0240",
+        "source_revision": "4a9b60bf319466c9b8e61745",
+        "reference_source": null
+       },
+       {
+        "field_path": "/alternative_services",
+        "quote": "노사 “인력 감축 보류·500명 충원” 무임 4488억 손실…누적 적자 19조 “경영 개선” “안전 인력” 갈등 여전 서울 지하철 1~8호선을 운영하는 서울교통공사 노사가 밤샘 협상 끝에 25일 임금·단체협약을 타결하면서 파업은 피했다.",
+        "source_part": "body",
+        "effective_at": null,
+        "derivation": "explicit",
+        "source_id": "b76cb8f157bad11d3f3f0240",
+        "source_revision": "4a9b60bf319466c9b8e61745",
+        "reference_source": null
+       },
+       {
+        "field_path": "/start",
+        "quote": "노사 “인력 감축 보류·500명 충원” 무임 4488억 손실…누적 적자 19조 “경영 개선” “안전 인력” 갈등 여전 서울 지하철 1~8호선을 운영하는 서울교통공사 노사가 밤샘 협상 끝에 25일 임금·단체협약을 타결하면서 파업은 피했다.",
+        "source_part": "body",
+        "effective_at": null,
+        "derivation": "explicit",
+        "source_id": "b76cb8f157bad11d3f3f0240",
+        "source_revision": "4a9b60bf319466c9b8e61745",
+        "reference_source": null
+       },
+       {
+        "field_path": "/end",
+        "quote": "노사 “인력 감축 보류·500명 충원” 무임 4488억 손실…누적 적자 19조 “경영 개선” “안전 인력” 갈등 여전 서울 지하철 1~8호선을 운영하는 서울교통공사 노사가 밤샘 협상 끝에 25일 임금·단체협약을 타결하면서 파업은 피했다.",
+        "source_part": "body",
+        "effective_at": null,
+        "derivation": "explicit",
+        "source_id": "b76cb8f157bad11d3f3f0240",
+        "source_revision": "4a9b60bf319466c9b8e61745",
+        "reference_source": null
+       }
+      ],
+      "review_reasons": [
+       "UNSUPPORTED_OR_AMBIGUOUS_STATUS",
+       "DATE_UNCONFIRMED"
+      ]
+     }
+    },
+    {
+     "article_relevance": "unrelated",
+     "transport_mode": "unknown",
+     "affected_regions": [],
      "affected_routes": [],
      "start": {
       "raw": null,
@@ -20868,123 +20989,120 @@
      "strike_status": {
       "value": "unknown",
       "conditions": [],
-      "scope_raw": "서울지하철은 파업을 피했지만 조만간 서울 시내버스가 고비를 맞는다.",
+      "scope_raw": null,
       "effective_at": null
      },
      "service_status": [],
      "normal_service_exceptions": [],
      "alternative_services": [],
      "evidence_and_timestamps": {
-      "source_url": "https://www.hankyung.com/article/2026112502911",
-      "published_at": "2026-11-25T18:08:44+09:00",
+      "source_url": "https://www.khan.co.kr/article/202611252052025",
+      "published_at": "2026-11-25T20:52:00+09:00",
       "updated_at": null,
-      "collected_at": "2026-11-25T21:16:25.598101+09:00",
+      "collected_at": "2026-11-26T06:26:51.555222+09:00",
       "field_evidence": [
        {
         "field_path": "/article_relevance",
-        "quote": "서울지하철은 파업을 피했지만 조만간 서울 시내버스가 고비를 맞는다.",
+        "quote": "노사는 인력 감축 계획 보류와 신규 채용에 합의했지만, 해마다 파업 위기를 부른 재정난 등 갈등의 불씨는 남아 있다.",
         "source_part": "body",
         "effective_at": null,
         "derivation": "explicit",
-        "source_id": "6fcd9ca9f380327dcc9bed6c",
-        "source_revision": "c3163900ad337f0b89e7ee45",
+        "source_id": "b76cb8f157bad11d3f3f0240",
+        "source_revision": "4a9b60bf319466c9b8e61745",
         "reference_source": null
        },
        {
         "field_path": "/transport_mode",
-        "quote": "서울지하철은 파업을 피했지만 조만간 서울 시내버스가 고비를 맞는다.",
+        "quote": "노사는 인력 감축 계획 보류와 신규 채용에 합의했지만, 해마다 파업 위기를 부른 재정난 등 갈등의 불씨는 남아 있다.",
         "source_part": "body",
         "effective_at": null,
         "derivation": "explicit",
-        "source_id": "6fcd9ca9f380327dcc9bed6c",
-        "source_revision": "c3163900ad337f0b89e7ee45",
+        "source_id": "b76cb8f157bad11d3f3f0240",
+        "source_revision": "4a9b60bf319466c9b8e61745",
         "reference_source": null
        },
        {
         "field_path": "/affected_regions",
-        "quote": "서울지하철은 파업을 피했지만 조만간 서울 시내버스가 고비를 맞는다.",
+        "quote": "노사는 인력 감축 계획 보류와 신규 채용에 합의했지만, 해마다 파업 위기를 부른 재정난 등 갈등의 불씨는 남아 있다.",
         "source_part": "body",
         "effective_at": null,
         "derivation": "explicit",
-        "source_id": "6fcd9ca9f380327dcc9bed6c",
-        "source_revision": "c3163900ad337f0b89e7ee45",
+        "source_id": "b76cb8f157bad11d3f3f0240",
+        "source_revision": "4a9b60bf319466c9b8e61745",
         "reference_source": null
        },
        {
         "field_path": "/affected_routes",
-        "quote": "서울지하철은 파업을 피했지만 조만간 서울 시내버스가 고비를 맞는다.",
+        "quote": "노사는 인력 감축 계획 보류와 신규 채용에 합의했지만, 해마다 파업 위기를 부른 재정난 등 갈등의 불씨는 남아 있다.",
         "source_part": "body",
         "effective_at": null,
         "derivation": "explicit",
-        "source_id": "6fcd9ca9f380327dcc9bed6c",
-        "source_revision": "c3163900ad337f0b89e7ee45",
+        "source_id": "b76cb8f157bad11d3f3f0240",
+        "source_revision": "4a9b60bf319466c9b8e61745",
         "reference_source": null
        },
        {
         "field_path": "/strike_status",
-        "quote": "서울지하철은 파업을 피했지만 조만간 서울 시내버스가 고비를 맞는다.",
+        "quote": "노사는 인력 감축 계획 보류와 신규 채용에 합의했지만, 해마다 파업 위기를 부른 재정난 등 갈등의 불씨는 남아 있다.",
         "source_part": "body",
         "effective_at": null,
         "derivation": "explicit",
-        "source_id": "6fcd9ca9f380327dcc9bed6c",
-        "source_revision": "c3163900ad337f0b89e7ee45",
+        "source_id": "b76cb8f157bad11d3f3f0240",
+        "source_revision": "4a9b60bf319466c9b8e61745",
         "reference_source": null
        },
        {
         "field_path": "/service_status",
-        "quote": "서울지하철은 파업을 피했지만 조만간 서울 시내버스가 고비를 맞는다.",
+        "quote": "노사는 인력 감축 계획 보류와 신규 채용에 합의했지만, 해마다 파업 위기를 부른 재정난 등 갈등의 불씨는 남아 있다.",
         "source_part": "body",
         "effective_at": null,
         "derivation": "explicit",
-        "source_id": "6fcd9ca9f380327dcc9bed6c",
-        "source_revision": "c3163900ad337f0b89e7ee45",
+        "source_id": "b76cb8f157bad11d3f3f0240",
+        "source_revision": "4a9b60bf319466c9b8e61745",
         "reference_source": null
        },
        {
         "field_path": "/normal_service_exceptions",
-        "quote": "서울지하철은 파업을 피했지만 조만간 서울 시내버스가 고비를 맞는다.",
+        "quote": "노사는 인력 감축 계획 보류와 신규 채용에 합의했지만, 해마다 파업 위기를 부른 재정난 등 갈등의 불씨는 남아 있다.",
         "source_part": "body",
         "effective_at": null,
         "derivation": "explicit",
-        "source_id": "6fcd9ca9f380327dcc9bed6c",
-        "source_revision": "c3163900ad337f0b89e7ee45",
+        "source_id": "b76cb8f157bad11d3f3f0240",
+        "source_revision": "4a9b60bf319466c9b8e61745",
         "reference_source": null
        },
        {
         "field_path": "/alternative_services",
-        "quote": "서울지하철은 파업을 피했지만 조만간 서울 시내버스가 고비를 맞는다.",
+        "quote": "노사는 인력 감축 계획 보류와 신규 채용에 합의했지만, 해마다 파업 위기를 부른 재정난 등 갈등의 불씨는 남아 있다.",
         "source_part": "body",
         "effective_at": null,
         "derivation": "explicit",
-        "source_id": "6fcd9ca9f380327dcc9bed6c",
-        "source_revision": "c3163900ad337f0b89e7ee45",
+        "source_id": "b76cb8f157bad11d3f3f0240",
+        "source_revision": "4a9b60bf319466c9b8e61745",
         "reference_source": null
        },
        {
         "field_path": "/start",
-        "quote": "서울지하철은 파업을 피했지만 조만간 서울 시내버스가 고비를 맞는다.",
+        "quote": "노사는 인력 감축 계획 보류와 신규 채용에 합의했지만, 해마다 파업 위기를 부른 재정난 등 갈등의 불씨는 남아 있다.",
         "source_part": "body",
         "effective_at": null,
         "derivation": "explicit",
-        "source_id": "6fcd9ca9f380327dcc9bed6c",
-        "source_revision": "c3163900ad337f0b89e7ee45",
+        "source_id": "b76cb8f157bad11d3f3f0240",
+        "source_revision": "4a9b60bf319466c9b8e61745",
         "reference_source": null
        },
        {
         "field_path": "/end",
-        "quote": "서울지하철은 파업을 피했지만 조만간 서울 시내버스가 고비를 맞는다.",
+        "quote": "노사는 인력 감축 계획 보류와 신규 채용에 합의했지만, 해마다 파업 위기를 부른 재정난 등 갈등의 불씨는 남아 있다.",
         "source_part": "body",
         "effective_at": null,
         "derivation": "explicit",
-        "source_id": "6fcd9ca9f380327dcc9bed6c",
-        "source_revision": "c3163900ad337f0b89e7ee45",
+        "source_id": "b76cb8f157bad11d3f3f0240",
+        "source_revision": "4a9b60bf319466c9b8e61745",
         "reference_source": null
        }
       ],
-      "review_reasons": [
-       "UNSUPPORTED_OR_AMBIGUOUS_STATUS",
-       "DATE_UNCONFIRMED"
-      ]
+      "review_reasons": []
      }
     }
    ],
@@ -20993,12 +21111,12 @@
     "article_relevance": "unrelated",
     "processing_status": "success",
     "source": {
-     "source_id": "6fcd9ca9f380327dcc9bed6c",
-     "source_url": "https://www.hankyung.com/article/2026112502911",
-     "source_revision": "c3163900ad337f0b89e7ee45",
-     "published_at": "2026-11-25T18:08:44+09:00",
+     "source_id": "b76cb8f157bad11d3f3f0240",
+     "source_url": "https://www.khan.co.kr/article/202611252052025",
+     "source_revision": "4a9b60bf319466c9b8e61745",
+     "published_at": "2026-11-25T20:52:00+09:00",
      "updated_at": null,
-     "collected_at": "2026-11-25T21:16:25.598101+09:00"
+     "collected_at": "2026-11-26T06:26:51.555222+09:00"
     },
     "events": [],
     "review_reasons": []
@@ -21042,7 +21160,7 @@
       "source_url": "https://www.fnnews.com/news/202611251700359304",
       "published_at": "2026-11-25T17:04:35+09:00",
       "updated_at": "2026-11-25T17:04:35+09:00",
-      "collected_at": "2026-11-25T21:16:28.578570+09:00",
+      "collected_at": "2026-11-26T06:26:54.625951+09:00",
       "field_evidence": [
        {
         "field_path": "/article_relevance",
@@ -21184,7 +21302,7 @@
       "source_url": "https://www.fnnews.com/news/202611251700359304",
       "published_at": "2026-11-25T17:04:35+09:00",
       "updated_at": "2026-11-25T17:04:35+09:00",
-      "collected_at": "2026-11-25T21:16:28.578570+09:00",
+      "collected_at": "2026-11-26T06:26:54.625951+09:00",
       "field_evidence": [
        {
         "field_path": "/article_relevance",
@@ -21404,7 +21522,7 @@
      "source_revision": "8e4f6e0b702df4fef5a3159b",
      "published_at": "2026-11-25T17:04:35+09:00",
      "updated_at": "2026-11-25T17:04:35+09:00",
-     "collected_at": "2026-11-25T21:16:28.578570+09:00"
+     "collected_at": "2026-11-26T06:26:54.625951+09:00"
     },
     "events": [],
     "review_reasons": []
@@ -21445,10 +21563,10 @@
      "normal_service_exceptions": [],
      "alternative_services": [],
      "evidence_and_timestamps": {
-      "source_url": "https://www.yna.co.kr/view/PYH20261125202700053?input=1196m",
-      "published_at": "2026-11-25T19:38:59+09:00",
-      "updated_at": "2026-11-25T19:38:59+09:00",
-      "collected_at": "2026-11-25T21:16:30.746684+09:00",
+      "source_url": "https://www.yna.co.kr/view/PYH20261125202900053?input=1196m",
+      "published_at": "2026-11-25T19:38:42+09:00",
+      "updated_at": "2026-11-25T19:38:42+09:00",
+      "collected_at": "2026-11-26T06:26:57.231952+09:00",
       "field_evidence": [
        {
         "field_path": "/article_relevance",
@@ -21456,7 +21574,7 @@
         "source_part": "body",
         "effective_at": null,
         "derivation": "explicit",
-        "source_id": "e04c6ec307e3322a6c9631a0",
+        "source_id": "82f88be9ace0addef80ab8d5",
         "source_revision": "c7abe6b58b243547b4471186",
         "reference_source": null
        },
@@ -21466,7 +21584,7 @@
         "source_part": "body",
         "effective_at": null,
         "derivation": "explicit",
-        "source_id": "e04c6ec307e3322a6c9631a0",
+        "source_id": "82f88be9ace0addef80ab8d5",
         "source_revision": "c7abe6b58b243547b4471186",
         "reference_source": null
        },
@@ -21476,7 +21594,7 @@
         "source_part": "body",
         "effective_at": null,
         "derivation": "explicit",
-        "source_id": "e04c6ec307e3322a6c9631a0",
+        "source_id": "82f88be9ace0addef80ab8d5",
         "source_revision": "c7abe6b58b243547b4471186",
         "reference_source": null
        },
@@ -21486,7 +21604,7 @@
         "source_part": "body",
         "effective_at": null,
         "derivation": "explicit",
-        "source_id": "e04c6ec307e3322a6c9631a0",
+        "source_id": "82f88be9ace0addef80ab8d5",
         "source_revision": "c7abe6b58b243547b4471186",
         "reference_source": null
        },
@@ -21496,7 +21614,7 @@
         "source_part": "body",
         "effective_at": null,
         "derivation": "explicit",
-        "source_id": "e04c6ec307e3322a6c9631a0",
+        "source_id": "82f88be9ace0addef80ab8d5",
         "source_revision": "c7abe6b58b243547b4471186",
         "reference_source": null
        },
@@ -21506,7 +21624,7 @@
         "source_part": "body",
         "effective_at": null,
         "derivation": "explicit",
-        "source_id": "e04c6ec307e3322a6c9631a0",
+        "source_id": "82f88be9ace0addef80ab8d5",
         "source_revision": "c7abe6b58b243547b4471186",
         "reference_source": null
        },
@@ -21516,7 +21634,7 @@
         "source_part": "body",
         "effective_at": null,
         "derivation": "explicit",
-        "source_id": "e04c6ec307e3322a6c9631a0",
+        "source_id": "82f88be9ace0addef80ab8d5",
         "source_revision": "c7abe6b58b243547b4471186",
         "reference_source": null
        },
@@ -21526,7 +21644,7 @@
         "source_part": "body",
         "effective_at": null,
         "derivation": "explicit",
-        "source_id": "e04c6ec307e3322a6c9631a0",
+        "source_id": "82f88be9ace0addef80ab8d5",
         "source_revision": "c7abe6b58b243547b4471186",
         "reference_source": null
        },
@@ -21536,7 +21654,7 @@
         "source_part": "body",
         "effective_at": null,
         "derivation": "explicit",
-        "source_id": "e04c6ec307e3322a6c9631a0",
+        "source_id": "82f88be9ace0addef80ab8d5",
         "source_revision": "c7abe6b58b243547b4471186",
         "reference_source": null
        },
@@ -21546,7 +21664,7 @@
         "source_part": "body",
         "effective_at": null,
         "derivation": "explicit",
-        "source_id": "e04c6ec307e3322a6c9631a0",
+        "source_id": "82f88be9ace0addef80ab8d5",
         "source_revision": "c7abe6b58b243547b4471186",
         "reference_source": null
        }
@@ -21560,12 +21678,12 @@
     "article_relevance": "unrelated",
     "processing_status": "success",
     "source": {
-     "source_id": "e04c6ec307e3322a6c9631a0",
-     "source_url": "https://www.yna.co.kr/view/PYH20261125202700053?input=1196m",
+     "source_id": "82f88be9ace0addef80ab8d5",
+     "source_url": "https://www.yna.co.kr/view/PYH20261125202900053?input=1196m",
      "source_revision": "c7abe6b58b243547b4471186",
-     "published_at": "2026-11-25T19:38:59+09:00",
-     "updated_at": "2026-11-25T19:38:59+09:00",
-     "collected_at": "2026-11-25T21:16:30.746684+09:00"
+     "published_at": "2026-11-25T19:38:42+09:00",
+     "updated_at": "2026-11-25T19:38:42+09:00",
+     "collected_at": "2026-11-26T06:26:57.231952+09:00"
     },
     "events": [],
     "review_reasons": []
@@ -21635,7 +21753,7 @@
       "source_url": "https://www.newsis.com/view/NISI20261125_0021544475",
       "published_at": "2026-11-25T09:34:00+09:00",
       "updated_at": null,
-      "collected_at": "2026-11-25T21:16:31.401070+09:00",
+      "collected_at": "2026-11-26T06:26:58.139607+09:00",
       "field_evidence": [
        {
         "field_path": "/article_relevance",
@@ -21755,7 +21873,7 @@
      "source_revision": "3d6cddfe7b61c7cab40a77fc",
      "published_at": "2026-11-25T09:34:00+09:00",
      "updated_at": null,
-     "collected_at": "2026-11-25T21:16:31.401070+09:00"
+     "collected_at": "2026-11-26T06:26:58.139607+09:00"
     },
     "events": [],
     "review_reasons": []
@@ -21848,7 +21966,7 @@
       "source_url": "https://www.imaeil.com/page/view/2026111417131297761",
       "published_at": null,
       "updated_at": null,
-      "collected_at": "2026-11-25T21:16:35.781780+09:00",
+      "collected_at": "2026-11-26T06:27:02.466881+09:00",
       "field_evidence": [
        {
         "field_path": "/article_relevance",
@@ -22192,7 +22310,7 @@
       "source_url": "https://www.imaeil.com/page/view/2026111417131297761",
       "published_at": null,
       "updated_at": null,
-      "collected_at": "2026-11-25T21:16:35.781780+09:00",
+      "collected_at": "2026-11-26T06:27:02.466881+09:00",
       "field_evidence": [
        {
         "field_path": "/article_relevance",
@@ -22312,7 +22430,7 @@
      "source_revision": "79344459f900a196bff2714a",
      "published_at": null,
      "updated_at": null,
-     "collected_at": "2026-11-25T21:16:35.781780+09:00"
+     "collected_at": "2026-11-26T06:27:02.466881+09:00"
     },
     "events": [],
     "review_reasons": []
