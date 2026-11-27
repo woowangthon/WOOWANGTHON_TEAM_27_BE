@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-27T12:49:41.068026+09:00",
+ "generatedAt": "2026-11-27T15:24:25.991644+09:00",
  "windowDays": 14,
  "queries": [
   "버스 파업",
@@ -17,8 +17,33 @@
    "url": "https://www.ncloud.com/product/applicationService/naverApiHub"
   }
  ],
- "articles": 279,
+ "articles": 276,
  "searchResults": [
+  {
+   "url": "https://www.idomin.com/news/articleView.html?idxno=2020728",
+   "title": "한화오션 하청노동자 임단협 우선 6대 교섭 의제 제시",
+   "query": "버스 파업"
+  },
+  {
+   "url": "https://www.ppss.kr/news/articleView.html?idxno=323478",
+   "title": "철도노조 준법투쟁 이틀째…출근길 열차 지연 속 12월 총파업 위기감",
+   "query": "버스 파업"
+  },
+  {
+   "url": "http://www.kwangju.co.kr/article.php?aid=1795690800805766006",
+   "title": "열차 중단·차질…입시·출퇴근길 ‘불편’",
+   "query": "버스 파업"
+  },
+  {
+   "url": "https://www.khan.co.kr/article/202611271321001",
+   "title": "자문단 “개통 후 혼란 빚은 제주 섬식정류장 철거·양문형 버스 도입 ...",
+   "query": "버스 파업"
+  },
+  {
+   "url": "https://www.newsis.com/view/NISX20261127_0003886115",
+   "title": "제주 BRT 자문단 \"서광로 섬식 정류장 철거·상대식 전환 권고\"",
+   "query": "버스 파업"
+  },
   {
    "url": "https://www.newsjeju.net/news/articleView.html?idxno=429035",
    "title": "\"섬식 정류장 철거, 상대식 일원화\"...제주BRT 자문단, 새 권고안 제시",
@@ -245,29 +270,9 @@
    "query": "버스 파업"
   },
   {
-   "url": "https://www.nocutnews.co.kr/news/6612532?utm_source=naver&utm_medium=article&utm_campaign=20261125155615",
-   "title": "전남광주교육청, 학교비정규직 총파업 대비 비상대응체제 가동",
-   "query": "버스 파업"
-  },
-  {
-   "url": "https://www.yna.co.kr/view/AKR20261125121700054?input=1195m",
-   "title": "27일 학교비정규직 총파업…전남광주교육청, 비상 대응체제",
-   "query": "버스 파업"
-  },
-  {
-   "url": "https://www.newsis.com/view/NISX20261125_0003882918",
-   "title": "전남광주교육청, 27일 학교 비정규직 총파업에 비상대응",
-   "query": "버스 파업"
-  },
-  {
-   "url": "https://www.ajunews.com/view/20261125145056609",
-   "title": "파업은 피했지만…서울지하철, '인력·재정난'은 여전",
-   "query": "버스 파업"
-  },
-  {
-   "url": "https://www.news1.kr/politics/assembly/6365648",
-   "title": "與, '특검·탄핵 발언 시도' 오세훈 맹폭…\"또 '5세 훈이' 됐다\"",
-   "query": "버스 파업"
+   "url": "https://www.ajunews.com/view/20261127095029729",
+   "title": "철도노조 준법투쟁 이틀째… 출근길 1호선 지연에 시민 불편 가중",
+   "query": "지하철 파업"
   },
   {
    "url": "https://www.news1.kr/realestate/general/6368293",
@@ -465,19 +470,19 @@
    "query": "지하철 파업"
   },
   {
-   "url": "https://www.mk.co.kr/article/12218978",
-   "title": "“오늘 퇴근길부터 정신없겠네”…철도노조, ‘안전운행 투쟁’ 돌입",
-   "query": "지하철 파업"
+   "url": "https://www.pressian.com/pages/articles/2026112611241511995?utm_source=naver&utm_medium=search",
+   "title": "철도노조 준법투쟁 첫날 부산·울산 철도 차질, KTX·일반열차 지연",
+   "query": "철도 파업"
   },
   {
-   "url": "https://www.asiatoday.co.kr/kn/view.php?key=20261126010010182",
-   "title": "철도노조, '안전운행 투쟁'…KTX·지하철 지연 예상",
-   "query": "지하철 파업"
+   "url": "https://www.newsworks.co.kr/news/articleView.html?idxno=904706",
+   "title": "이틀째 이어진 철도노조 투쟁에…1호선 출근길 곳곳 '지연 발생'",
+   "query": "철도 파업"
   },
   {
-   "url": "https://www.yna.co.kr/view/AKR20261125182951063?input=1195m",
-   "title": "철도노조, '안전운행 투쟁' 돌입…열차 지연에 승객 불편 불가피(종합)",
-   "query": "지하철 파업"
+   "url": "https://www.ekn.kr/web/view.php?key=20261127028015718",
+   "title": "[패트롤]경북도-안동시-경북도의원-경북교육청-국립백두대간수목원",
+   "query": "철도 파업"
   },
   {
    "url": "https://www.hankyung.com/article/202611274537i",
@@ -485,12 +490,7 @@
    "query": "철도 파업"
   },
   {
-   "url": "https://www.newsis.com/view/NISI20261127_0021547367",
-   "title": "철도노조 준법투쟁 이틀째",
-   "query": "철도 파업"
-  },
-  {
-   "url": "https://www.newsis.com/view/NISI20261127_0021547368",
+   "url": "https://www.newsis.com/view/NISI20261127_0021547370",
    "title": "이틀째 이어지는 철도노조 준법투쟁",
    "query": "철도 파업"
   },
@@ -500,8 +500,8 @@
    "query": "철도 파업"
   },
   {
-   "url": "https://www.newsis.com/view/NISI20261127_0021547370",
-   "title": "이틀째 이어지는 철도노조 준법투쟁",
+   "url": "https://www.newsis.com/view/NISI20261127_0021547364",
+   "title": "준법투쟁 영향 열차 운행 지연 안내문 설치된 서울역",
    "query": "철도 파업"
   },
   {
@@ -520,13 +520,18 @@
    "query": "철도 파업"
   },
   {
-   "url": "https://www.newsis.com/view/NISI20261127_0021547364",
-   "title": "준법투쟁 영향 열차 운행 지연 안내문 설치된 서울역",
+   "url": "https://www.newsis.com/view/NISI20261127_0021547369",
+   "title": "이틀째 이어지는 철도노조 준법투쟁",
    "query": "철도 파업"
   },
   {
-   "url": "https://www.newsis.com/view/NISI20261127_0021547369",
+   "url": "https://www.newsis.com/view/NISI20261127_0021547368",
    "title": "이틀째 이어지는 철도노조 준법투쟁",
+   "query": "철도 파업"
+  },
+  {
+   "url": "https://www.newsis.com/view/NISI20261127_0021547367",
+   "title": "철도노조 준법투쟁 이틀째",
    "query": "철도 파업"
   },
   {
@@ -540,13 +545,18 @@
    "query": "철도 파업"
   },
   {
+   "url": "https://www.newsis.com/view/NISI20261127_0021547365",
+   "title": "준법투쟁 영향 열차 운행 지연 안내문 설치된 서울역",
+   "query": "철도 파업"
+  },
+  {
    "url": "https://www.newsis.com/view/NISI20261127_0021547363",
    "title": "준법투쟁 영향 열차 운행 지연 안내문 설치된 서울역",
    "query": "철도 파업"
   },
   {
-   "url": "https://www.newsis.com/view/NISI20261127_0021547365",
-   "title": "준법투쟁 영향 열차 운행 지연 안내문 설치된 서울역",
+   "url": "https://www.ytn.co.kr/_ln/0134_202611271106200379",
+   "title": "\"기차가 없어질까 봐\" 승객들 불안...준법투쟁 첫날, 광역전철 20분 넘게...",
    "query": "철도 파업"
   },
   {
@@ -576,7 +586,7 @@
   },
   {
    "url": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202611270750509390895",
-   "title": "[경북 브리핑 모음(11월 27일)] 안동~영덕 국도 34호선 21.9㎞ 구간 준공...",
+   "title": "[경북 브리핑 모음(11월 27일)] 기획경제위, 경북도 2027년도 본예산안 ...",
    "query": "철도 파업"
   },
   {
@@ -585,7 +595,7 @@
    "query": "철도 파업"
   },
   {
-   "url": "https://www.yna.co.kr/view/PYH20261127022900013?input=1196m",
+   "url": "https://www.yna.co.kr/view/PYH20261127022700013?input=1196m",
    "title": "철도노조 준법투쟁 이틀째",
    "query": "철도 파업"
   },
@@ -595,7 +605,7 @@
    "query": "철도 파업"
   },
   {
-   "url": "https://www.yna.co.kr/view/PYH20261127022700013?input=1196m",
+   "url": "https://www.yna.co.kr/view/PYH20261127022900013?input=1196m",
    "title": "철도노조 준법투쟁 이틀째",
    "query": "철도 파업"
   },
@@ -657,27 +667,12 @@
   {
    "url": "https://www.ksilbo.co.kr/news/articleView.html?idxno=1073750",
    "title": "철도 운행 차질에 학교급식도 중단 예고 '발동동'",
-   "query": "철도 파업"
+   "query": "파업 예고 운행"
   },
   {
    "url": "https://www.namdonews.com/news/articleView.html?idxno=930645",
    "title": "[현장속으로]\"중요한 미팅 있는데\"…준법투쟁 첫날 승객 불편 현실화",
-   "query": "철도 파업"
-  },
-  {
-   "url": "https://www.dt.co.kr/article/12097555?ref=naver",
-   "title": "철도노조 준법투쟁 첫날, 퇴근길 지연 속출…4대 운행 중단, 235대 20분 ...",
-   "query": "철도 파업"
-  },
-  {
-   "url": "http://mbn.mk.co.kr/pages/news/newsView.php?category=mbn00009&news_seq_no=5233177",
-   "title": "철도노조 준법투쟁 첫날 승객들 '발 동동'…1시간 이상 지연까지",
-   "query": "철도 파업"
-  },
-  {
-   "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8723870&ref=A",
-   "title": "철도노조 안전운행 투쟁…울산역 KTX 지연 잇따라",
-   "query": "철도 파업"
+   "query": "파업 예고 운행"
   },
   {
    "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8723827&ref=A",
@@ -695,13 +690,13 @@
    "query": "파업 예고 운행"
   },
   {
-   "url": "https://www.knnews.co.kr/news/articleView.php?idxno=1556045",
-   "title": "[사설] 철도노사, 총파업 전에 합의 길 찾아라",
+   "url": "https://www.seoul.co.kr/news/society/2026/11/26/20261126500342?wlog_tag3=naver",
+   "title": "철도노조 ‘태업’ 첫날 열차 지연 속출…일반열차 4편 ‘운행 중지’",
    "query": "파업 예고 운행"
   },
   {
-   "url": "https://www.seoul.co.kr/news/society/2026/11/26/20261126500342?wlog_tag3=naver",
-   "title": "철도노조 ‘태업’ 첫날 열차 지연 속출…일반열차 4편 ‘운행 중지’",
+   "url": "https://www.knnews.co.kr/news/articleView.php?idxno=1556045",
+   "title": "[사설] 철도노사, 총파업 전에 합의 길 찾아라",
    "query": "파업 예고 운행"
   },
   {
@@ -715,13 +710,13 @@
    "query": "파업 예고 운행"
   },
   {
-   "url": "http://www.kwangju.co.kr/article.php?aid=1795691400805768006",
-   "title": "철도노조 ‘안전운행 투쟁’ 돌입…학교비정규직노조 총파업 예고",
+   "url": "https://www.obsnews.co.kr/news/articleView.html?idxno=1545122",
+   "title": "철도노조 준법투쟁 돌입…열차 지연에 시민 불편",
    "query": "파업 예고 운행"
   },
   {
-   "url": "https://www.obsnews.co.kr/news/articleView.html?idxno=1545122",
-   "title": "철도노조 준법투쟁 돌입…열차 지연에 시민 불편",
+   "url": "http://www.kwangju.co.kr/article.php?aid=1795691400805768006",
+   "title": "철도노조 ‘안전운행 투쟁’ 돌입…학교비정규직노조 총파업 예고",
    "query": "파업 예고 운행"
   },
   {
@@ -745,13 +740,13 @@
    "query": "파업 예고 운행"
   },
   {
-   "url": "https://www.dailian.co.kr/news/view/1720306/?sc=Naver",
-   "title": "전철 늦고 열차 멈추고…철도노조 준법투쟁에 시민 발 묶였다",
+   "url": "https://www.kmib.co.kr/article/20261126501690",
+   "title": "철도노조 준법투쟁 돌입…수도권 광역전철 수백대 지연",
    "query": "파업 예고 운행"
   },
   {
-   "url": "https://www.kmib.co.kr/article/20261126501690",
-   "title": "철도노조 준법투쟁 돌입…수도권 광역전철 수백대 지연",
+   "url": "https://www.dailian.co.kr/news/view/1720306/?sc=Naver",
+   "title": "전철 늦고 열차 멈추고…철도노조 준법투쟁에 시민 발 묶였다",
    "query": "파업 예고 운행"
   },
   {
@@ -817,16 +812,6 @@
   {
    "url": "https://newscham.net/130229/",
    "title": "미국 ‘과잉생산 관세’, 근거는 “한국 노동자 월급이 너무 낮다”",
-   "query": "파업 예고 운행"
-  },
-  {
-   "url": "https://www.news1.kr/local/daegu-gyeongbuk/6367311",
-   "title": "철도노조 준법투쟁 첫날…동대구역 큰 혼란 없이 평소대로 출발·도착",
-   "query": "파업 예고 운행"
-  },
-  {
-   "url": "https://www.yna.co.kr/view/AKR20261126120600063?input=1195m",
-   "title": "철도노조 준법투쟁 쟁점은…인력충원·인사·보상체계 평행선",
    "query": "파업 예고 운행"
   },
   {
@@ -953,6 +938,11 @@
    "url": "https://www.edaily.co.kr/News/Read?newsId=01285766645645720&mediaCodeNo=257&utm_source=naver&utm_medium=referral&utm_campaign=news_syndication&utm_content=original_article",
    "title": "'비 오는 주말' 도심 곳곳서 마라톤·집회 열려 '혼잡'[사회in]",
    "query": "집회 교통 통제"
+  },
+  {
+   "url": "https://www.ggilbo.com/news/articleView.html?idxno=1195977",
+   "title": "시민 6천명 여의도 달린다… '2027 서울 세계청년대회' 평화런",
+   "query": "마라톤 도로 통제"
   },
   {
    "url": "https://www.newsis.com/view/NISX20261126_0003885344",
@@ -1200,11 +1190,6 @@
    "query": "마라톤 도로 통제"
   },
   {
-   "url": "https://sports.donga.com/region/article/all/20261123/135072430/1",
-   "title": "인천시의회 도시건설위원 8명, 10㎞ 함께 달리며 ‘시민 생활현장과 호...",
-   "query": "마라톤 도로 통제"
-  },
-  {
    "url": "https://www.gukjenews.com/news/articleView.html?idxno=3763580",
    "title": "장림포구서 '부네치아 낙낙데이' 개최…28일 '낙화놀이' 선보여",
    "query": "축제 버스 우회"
@@ -1290,13 +1275,13 @@
    "query": "축제 버스 우회"
   },
   {
-   "url": "https://www.idaegu.com/news/articleView.html?idxno=667215",
-   "title": "20년 만에 대구 도심에 삼성라이온즈 우승 카퍼레이드…'V9' 감동 다시 한...",
+   "url": "https://www.segye.com/newsView/20261123513308?OutUrl=naver",
+   "title": "“달구벌이 들썩인다”…삼성 라이온즈, 29일 20년 만의 도심 카퍼레이...",
    "query": "축제 버스 우회"
   },
   {
-   "url": "https://www.segye.com/newsView/20261123513308?OutUrl=naver",
-   "title": "“달구벌이 들썩인다”…삼성 라이온즈, 29일 20년 만의 도심 카퍼레이...",
+   "url": "https://www.idaegu.com/news/articleView.html?idxno=667215",
+   "title": "20년 만에 대구 도심에 삼성라이온즈 우승 카퍼레이드…'V9' 감동 다시 한...",
    "query": "축제 버스 우회"
   },
   {
@@ -1417,7 +1402,7 @@
  ],
  "strikes": [
   {
-   "id": "9634a2bc4383d776",
+   "id": "94349f964583da9c",
    "mode": "rail",
    "operator": "철도노조",
    "regions": [
@@ -1428,9 +1413,9 @@
    "start": "2026-12-10",
    "dateQuote": "10일",
    "articleTitle": "준법투쟁 영향 열차 운행 지연 안내문 설치된 서울역",
-   "url": "https://www.newsis.com/view/NISI20261127_0021547365",
+   "url": "https://www.newsis.com/view/NISI20261127_0021547363",
    "publishedAt": "2026-11-27T12:03:00.000",
-   "sourceCount": 12,
+   "sourceCount": 10,
    "model": "gemini-3.5-flash-lite"
   },
   {
@@ -1447,23 +1432,6 @@
    "articleTitle": "지하철 1호선 등 일정 지연",
    "url": "https://www.bntnews.co.kr/article/view/bnt202611270196",
    "publishedAt": "2026-11-27T10:52:00.000",
-   "sourceCount": 7,
-   "model": "gemini-3.5-flash-lite"
-  },
-  {
-   "id": "d2afe0190b5d6187",
-   "mode": "rail",
-   "operator": "전국철도노동조합",
-   "regions": [
-    "전국"
-   ],
-   "status": "conditional",
-   "quote": "요구사항이 받아들여지지 않을 경우 내달 10일부터 무기한 총파업",
-   "start": "2026-12-10",
-   "dateQuote": "내달 10일",
-   "articleTitle": "철도노조 투쟁에 열차 239대 운행 지연… 코레일, 열차 4편 운행 중지",
-   "url": "https://www.hankookilbo.com/news/article/A2026112616350000213?did=NA",
-   "publishedAt": "2026-11-26T18:16:00.000",
    "sourceCount": 6,
    "model": "gemini-3.5-flash-lite"
   },
@@ -1503,6 +1471,23 @@
    "model": "gemini-3.5-flash-lite"
   },
   {
+   "id": "2dd05f6cec877612",
+   "mode": "rail",
+   "operator": "전국철도노동조합",
+   "regions": [
+    "전국"
+   ],
+   "status": "scheduled",
+   "quote": "다음 달 총파업을 예고한 가운데",
+   "start": "2026-12-10",
+   "dateQuote": "12월 10일",
+   "articleTitle": "철도노조 총파업 앞두고 준법투쟁…동대구역 등 열차 운행 지연",
+   "url": "https://www.imaeil.com/page/view/2026112609220143278",
+   "publishedAt": "2026-11-26T16:36:00.000",
+   "sourceCount": 7,
+   "model": "gemini-3.5-flash-lite"
+  },
+  {
    "id": "3cc50b63e2a223f1",
    "mode": "subway",
    "operator": "서울교통공사",
@@ -1531,7 +1516,7 @@
    "articleTitle": "서울지하철 파업 피했지만, 인력 부족은 '미해결'",
    "url": "https://www.labortoday.co.kr/news/articleView.html?idxno=237940",
    "publishedAt": "2026-11-26T06:34:00.000",
-   "sourceCount": 4,
+   "sourceCount": 2,
    "model": "gemini-3.5-flash-lite"
   }
  ],
@@ -20388,7 +20373,7 @@
   },
   {
    "assertion": "planned",
-   "checked_at": "2026-11-27T12:49:37.561918+09:00",
+   "checked_at": "2026-11-27T15:24:23.155130+09:00",
    "conflict": false,
    "demo": false,
    "disruption_confirmed": false,
@@ -20683,109 +20668,109 @@
      "normal_service_exceptions": [],
      "alternative_services": [],
      "evidence_and_timestamps": {
-      "source_url": "https://www.newsis.com/view/NISX20261127_0003885963",
-      "published_at": "2026-11-27T12:18:25+09:00",
+      "source_url": "https://www.khan.co.kr/article/202611271321001",
+      "published_at": "2026-11-27T13:21:00+09:00",
       "updated_at": null,
-      "collected_at": "2026-11-27T12:49:15.855746+09:00",
+      "collected_at": "2026-11-27T15:24:05.466092+09:00",
       "field_evidence": [
        {
         "field_path": "/article_relevance",
-        "quote": "[서울=뉴시스] 박주성 기자 = 한국철도공사(코레일) 제1노조인 전국철도노동조합(철도노조)가 준법투쟁(안전운행 투쟁)에 들어간 26일 오전 서울역 역사에 열차 운행 지연 안내문이 표시되고 있다. 2026.11.26. [email protected]",
+        "quote": "자문단은 “버스가 가로변 정류장과 중앙차로를 엇갈리게 운행해 사고와 정체가 발생하고 있다”면서 “서광로의 통행량을 감안한 교통사고 발생률이 120.9% 증가한 데다 버스 파업 때 전세버스를 대체 투입하더라도 섬식정류장을 이용할 수도 없다”고 밝혔다.",
         "source_part": "body",
         "effective_at": null,
         "derivation": "explicit",
-        "source_id": "a635fbeac060f6a5872d1e08",
-        "source_revision": "e9057abe39a469c514844de0",
+        "source_id": "022977e60413354ad787289b",
+        "source_revision": "e9544d1a46493485ec55ee75",
         "reference_source": null
        },
        {
         "field_path": "/transport_mode",
-        "quote": "[서울=뉴시스] 박주성 기자 = 한국철도공사(코레일) 제1노조인 전국철도노동조합(철도노조)가 준법투쟁(안전운행 투쟁)에 들어간 26일 오전 서울역 역사에 열차 운행 지연 안내문이 표시되고 있다. 2026.11.26. [email protected]",
+        "quote": "자문단은 “버스가 가로변 정류장과 중앙차로를 엇갈리게 운행해 사고와 정체가 발생하고 있다”면서 “서광로의 통행량을 감안한 교통사고 발생률이 120.9% 증가한 데다 버스 파업 때 전세버스를 대체 투입하더라도 섬식정류장을 이용할 수도 없다”고 밝혔다.",
         "source_part": "body",
         "effective_at": null,
         "derivation": "explicit",
-        "source_id": "a635fbeac060f6a5872d1e08",
-        "source_revision": "e9057abe39a469c514844de0",
+        "source_id": "022977e60413354ad787289b",
+        "source_revision": "e9544d1a46493485ec55ee75",
         "reference_source": null
        },
        {
         "field_path": "/affected_regions",
-        "quote": "[서울=뉴시스] 박주성 기자 = 한국철도공사(코레일) 제1노조인 전국철도노동조합(철도노조)가 준법투쟁(안전운행 투쟁)에 들어간 26일 오전 서울역 역사에 열차 운행 지연 안내문이 표시되고 있다. 2026.11.26. [email protected]",
+        "quote": "자문단은 “버스가 가로변 정류장과 중앙차로를 엇갈리게 운행해 사고와 정체가 발생하고 있다”면서 “서광로의 통행량을 감안한 교통사고 발생률이 120.9% 증가한 데다 버스 파업 때 전세버스를 대체 투입하더라도 섬식정류장을 이용할 수도 없다”고 밝혔다.",
         "source_part": "body",
         "effective_at": null,
         "derivation": "explicit",
-        "source_id": "a635fbeac060f6a5872d1e08",
-        "source_revision": "e9057abe39a469c514844de0",
+        "source_id": "022977e60413354ad787289b",
+        "source_revision": "e9544d1a46493485ec55ee75",
         "reference_source": null
        },
        {
         "field_path": "/affected_routes",
-        "quote": "[서울=뉴시스] 박주성 기자 = 한국철도공사(코레일) 제1노조인 전국철도노동조합(철도노조)가 준법투쟁(안전운행 투쟁)에 들어간 26일 오전 서울역 역사에 열차 운행 지연 안내문이 표시되고 있다. 2026.11.26. [email protected]",
+        "quote": "자문단은 “버스가 가로변 정류장과 중앙차로를 엇갈리게 운행해 사고와 정체가 발생하고 있다”면서 “서광로의 통행량을 감안한 교통사고 발생률이 120.9% 증가한 데다 버스 파업 때 전세버스를 대체 투입하더라도 섬식정류장을 이용할 수도 없다”고 밝혔다.",
         "source_part": "body",
         "effective_at": null,
         "derivation": "explicit",
-        "source_id": "a635fbeac060f6a5872d1e08",
-        "source_revision": "e9057abe39a469c514844de0",
+        "source_id": "022977e60413354ad787289b",
+        "source_revision": "e9544d1a46493485ec55ee75",
         "reference_source": null
        },
        {
         "field_path": "/strike_status",
-        "quote": "[서울=뉴시스] 박주성 기자 = 한국철도공사(코레일) 제1노조인 전국철도노동조합(철도노조)가 준법투쟁(안전운행 투쟁)에 들어간 26일 오전 서울역 역사에 열차 운행 지연 안내문이 표시되고 있다. 2026.11.26. [email protected]",
+        "quote": "자문단은 “버스가 가로변 정류장과 중앙차로를 엇갈리게 운행해 사고와 정체가 발생하고 있다”면서 “서광로의 통행량을 감안한 교통사고 발생률이 120.9% 증가한 데다 버스 파업 때 전세버스를 대체 투입하더라도 섬식정류장을 이용할 수도 없다”고 밝혔다.",
         "source_part": "body",
         "effective_at": null,
         "derivation": "explicit",
-        "source_id": "a635fbeac060f6a5872d1e08",
-        "source_revision": "e9057abe39a469c514844de0",
+        "source_id": "022977e60413354ad787289b",
+        "source_revision": "e9544d1a46493485ec55ee75",
         "reference_source": null
        },
        {
         "field_path": "/service_status",
-        "quote": "[서울=뉴시스] 박주성 기자 = 한국철도공사(코레일) 제1노조인 전국철도노동조합(철도노조)가 준법투쟁(안전운행 투쟁)에 들어간 26일 오전 서울역 역사에 열차 운행 지연 안내문이 표시되고 있다. 2026.11.26. [email protected]",
+        "quote": "자문단은 “버스가 가로변 정류장과 중앙차로를 엇갈리게 운행해 사고와 정체가 발생하고 있다”면서 “서광로의 통행량을 감안한 교통사고 발생률이 120.9% 증가한 데다 버스 파업 때 전세버스를 대체 투입하더라도 섬식정류장을 이용할 수도 없다”고 밝혔다.",
         "source_part": "body",
         "effective_at": null,
         "derivation": "explicit",
-        "source_id": "a635fbeac060f6a5872d1e08",
-        "source_revision": "e9057abe39a469c514844de0",
+        "source_id": "022977e60413354ad787289b",
+        "source_revision": "e9544d1a46493485ec55ee75",
         "reference_source": null
        },
        {
         "field_path": "/normal_service_exceptions",
-        "quote": "[서울=뉴시스] 박주성 기자 = 한국철도공사(코레일) 제1노조인 전국철도노동조합(철도노조)가 준법투쟁(안전운행 투쟁)에 들어간 26일 오전 서울역 역사에 열차 운행 지연 안내문이 표시되고 있다. 2026.11.26. [email protected]",
+        "quote": "자문단은 “버스가 가로변 정류장과 중앙차로를 엇갈리게 운행해 사고와 정체가 발생하고 있다”면서 “서광로의 통행량을 감안한 교통사고 발생률이 120.9% 증가한 데다 버스 파업 때 전세버스를 대체 투입하더라도 섬식정류장을 이용할 수도 없다”고 밝혔다.",
         "source_part": "body",
         "effective_at": null,
         "derivation": "explicit",
-        "source_id": "a635fbeac060f6a5872d1e08",
-        "source_revision": "e9057abe39a469c514844de0",
+        "source_id": "022977e60413354ad787289b",
+        "source_revision": "e9544d1a46493485ec55ee75",
         "reference_source": null
        },
        {
         "field_path": "/alternative_services",
-        "quote": "[서울=뉴시스] 박주성 기자 = 한국철도공사(코레일) 제1노조인 전국철도노동조합(철도노조)가 준법투쟁(안전운행 투쟁)에 들어간 26일 오전 서울역 역사에 열차 운행 지연 안내문이 표시되고 있다. 2026.11.26. [email protected]",
+        "quote": "자문단은 “버스가 가로변 정류장과 중앙차로를 엇갈리게 운행해 사고와 정체가 발생하고 있다”면서 “서광로의 통행량을 감안한 교통사고 발생률이 120.9% 증가한 데다 버스 파업 때 전세버스를 대체 투입하더라도 섬식정류장을 이용할 수도 없다”고 밝혔다.",
         "source_part": "body",
         "effective_at": null,
         "derivation": "explicit",
-        "source_id": "a635fbeac060f6a5872d1e08",
-        "source_revision": "e9057abe39a469c514844de0",
+        "source_id": "022977e60413354ad787289b",
+        "source_revision": "e9544d1a46493485ec55ee75",
         "reference_source": null
        },
        {
         "field_path": "/start",
-        "quote": "[서울=뉴시스] 박주성 기자 = 한국철도공사(코레일) 제1노조인 전국철도노동조합(철도노조)가 준법투쟁(안전운행 투쟁)에 들어간 26일 오전 서울역 역사에 열차 운행 지연 안내문이 표시되고 있다. 2026.11.26. [email protected]",
+        "quote": "자문단은 “버스가 가로변 정류장과 중앙차로를 엇갈리게 운행해 사고와 정체가 발생하고 있다”면서 “서광로의 통행량을 감안한 교통사고 발생률이 120.9% 증가한 데다 버스 파업 때 전세버스를 대체 투입하더라도 섬식정류장을 이용할 수도 없다”고 밝혔다.",
         "source_part": "body",
         "effective_at": null,
         "derivation": "explicit",
-        "source_id": "a635fbeac060f6a5872d1e08",
-        "source_revision": "e9057abe39a469c514844de0",
+        "source_id": "022977e60413354ad787289b",
+        "source_revision": "e9544d1a46493485ec55ee75",
         "reference_source": null
        },
        {
         "field_path": "/end",
-        "quote": "[서울=뉴시스] 박주성 기자 = 한국철도공사(코레일) 제1노조인 전국철도노동조합(철도노조)가 준법투쟁(안전운행 투쟁)에 들어간 26일 오전 서울역 역사에 열차 운행 지연 안내문이 표시되고 있다. 2026.11.26. [email protected]",
+        "quote": "자문단은 “버스가 가로변 정류장과 중앙차로를 엇갈리게 운행해 사고와 정체가 발생하고 있다”면서 “서광로의 통행량을 감안한 교통사고 발생률이 120.9% 증가한 데다 버스 파업 때 전세버스를 대체 투입하더라도 섬식정류장을 이용할 수도 없다”고 밝혔다.",
         "source_part": "body",
         "effective_at": null,
         "derivation": "explicit",
-        "source_id": "a635fbeac060f6a5872d1e08",
-        "source_revision": "e9057abe39a469c514844de0",
+        "source_id": "022977e60413354ad787289b",
+        "source_revision": "e9544d1a46493485ec55ee75",
         "reference_source": null
        }
       ],
@@ -20798,12 +20783,12 @@
     "article_relevance": "unrelated",
     "processing_status": "success",
     "source": {
-     "source_id": "a635fbeac060f6a5872d1e08",
-     "source_url": "https://www.newsis.com/view/NISX20261127_0003885963",
-     "source_revision": "e9057abe39a469c514844de0",
-     "published_at": "2026-11-27T12:18:25+09:00",
+     "source_id": "022977e60413354ad787289b",
+     "source_url": "https://www.khan.co.kr/article/202611271321001",
+     "source_revision": "e9544d1a46493485ec55ee75",
+     "published_at": "2026-11-27T13:21:00+09:00",
      "updated_at": null,
-     "collected_at": "2026-11-27T12:49:15.855746+09:00"
+     "collected_at": "2026-11-27T15:24:05.466092+09:00"
     },
     "events": [],
     "review_reasons": []
@@ -20849,7 +20834,7 @@
       "source_url": "https://www.yna.co.kr/view/AKR20261127042200063?input=1195m",
       "published_at": "2026-11-27T09:49:29+09:00",
       "updated_at": "2026-11-27T10:06:09+09:00",
-      "collected_at": "2026-11-27T12:49:21.874105+09:00",
+      "collected_at": "2026-11-27T15:24:09.258838+09:00",
       "field_evidence": [
        {
         "field_path": "/article_relevance",
@@ -20966,7 +20951,7 @@
      "source_revision": "ff9bd7fad77b2334974830eb",
      "published_at": "2026-11-27T09:49:29+09:00",
      "updated_at": "2026-11-27T10:06:09+09:00",
-     "collected_at": "2026-11-27T12:49:21.874105+09:00"
+     "collected_at": "2026-11-27T15:24:09.258838+09:00"
     },
     "events": [],
     "review_reasons": []
@@ -21012,7 +20997,7 @@
       "source_url": "https://www.hankyung.com/article/202611274537i",
       "published_at": "2026-11-27T12:33:02+09:00",
       "updated_at": null,
-      "collected_at": "2026-11-27T12:49:24.452062+09:00",
+      "collected_at": "2026-11-27T15:24:11.419740+09:00",
       "field_evidence": [
        {
         "field_path": "/article_relevance",
@@ -21129,7 +21114,7 @@
      "source_revision": "569a6d7d80d998edfcb48f04",
      "published_at": "2026-11-27T12:33:02+09:00",
      "updated_at": null,
-     "collected_at": "2026-11-27T12:49:24.452062+09:00"
+     "collected_at": "2026-11-27T15:24:11.419740+09:00"
     },
     "events": [],
     "review_reasons": []
@@ -21173,7 +21158,7 @@
       "source_url": "https://www.seoul.co.kr/news/society/2026/11/26/20261126500342?wlog_tag3=naver",
       "published_at": "2026-11-26T20:57:35+09:00",
       "updated_at": "2026-11-26T20:57:35+09:00",
-      "collected_at": "2026-11-27T12:49:29.392549+09:00",
+      "collected_at": "2026-11-27T15:24:15.325508+09:00",
       "field_evidence": [
        {
         "field_path": "/article_relevance",
@@ -21315,7 +21300,7 @@
       "source_url": "https://www.seoul.co.kr/news/society/2026/11/26/20261126500342?wlog_tag3=naver",
       "published_at": "2026-11-26T20:57:35+09:00",
       "updated_at": "2026-11-26T20:57:35+09:00",
-      "collected_at": "2026-11-27T12:49:29.392549+09:00",
+      "collected_at": "2026-11-27T15:24:15.325508+09:00",
       "field_evidence": [
        {
         "field_path": "/article_relevance",
@@ -21432,7 +21417,7 @@
      "source_revision": "6d95509a948d4a3ab6dae082",
      "published_at": "2026-11-26T20:57:35+09:00",
      "updated_at": "2026-11-26T20:57:35+09:00",
-     "collected_at": "2026-11-27T12:49:29.392549+09:00"
+     "collected_at": "2026-11-27T15:24:15.325508+09:00"
     },
     "events": [],
     "review_reasons": []
@@ -21478,7 +21463,7 @@
       "source_url": "https://www.hankyung.com/article/2026112500296",
       "published_at": "2026-11-26T06:30:02+09:00",
       "updated_at": null,
-      "collected_at": "2026-11-27T12:49:29.511677+09:00",
+      "collected_at": "2026-11-27T15:24:15.450268+09:00",
       "field_evidence": [
        {
         "field_path": "/article_relevance",
@@ -21595,7 +21580,7 @@
      "source_revision": "cea61335cc59b0fc95c3cb16",
      "published_at": "2026-11-26T06:30:02+09:00",
      "updated_at": null,
-     "collected_at": "2026-11-27T12:49:29.511677+09:00"
+     "collected_at": "2026-11-27T15:24:15.450268+09:00"
     },
     "events": [],
     "review_reasons": []
@@ -21639,7 +21624,7 @@
       "source_url": "https://www.newsis.com/view/NISX20261126_0003885344",
       "published_at": "2026-11-27T10:03:47+09:00",
       "updated_at": null,
-      "collected_at": "2026-11-27T12:49:30.125367+09:00",
+      "collected_at": "2026-11-27T15:24:18.090615+09:00",
       "field_evidence": [
        {
         "field_path": "/article_relevance",
@@ -21756,7 +21741,7 @@
      "source_revision": "a0fc11fac5214b50223eb675",
      "published_at": "2026-11-27T10:03:47+09:00",
      "updated_at": null,
-     "collected_at": "2026-11-27T12:49:30.125367+09:00"
+     "collected_at": "2026-11-27T15:24:18.090615+09:00"
     },
     "events": [],
     "review_reasons": []
@@ -21800,7 +21785,7 @@
       "source_url": "https://www.seoul.co.kr/news/society/2026/11/25/20261125500215?wlog_tag3=naver",
       "published_at": "2026-11-25T15:48:27+09:00",
       "updated_at": "2026-11-25T15:48:27+09:00",
-      "collected_at": "2026-11-27T12:49:31.713832+09:00",
+      "collected_at": "2026-11-27T15:24:19.867481+09:00",
       "field_evidence": [
        {
         "field_path": "/article_relevance",
@@ -21917,7 +21902,7 @@
      "source_revision": "1f1cad3c054fcf3d2d5157ed",
      "published_at": "2026-11-25T15:48:27+09:00",
      "updated_at": "2026-11-25T15:48:27+09:00",
-     "collected_at": "2026-11-27T12:49:31.713832+09:00"
+     "collected_at": "2026-11-27T15:24:19.867481+09:00"
     },
     "events": [],
     "review_reasons": []
@@ -21958,109 +21943,109 @@
      "normal_service_exceptions": [],
      "alternative_services": [],
      "evidence_and_timestamps": {
-      "source_url": "https://www.yna.co.kr/view/AKR20261127063500056?input=1195m",
-      "published_at": "2026-11-27T10:53:51+09:00",
-      "updated_at": "2026-11-27T10:53:51+09:00",
-      "collected_at": "2026-11-27T12:49:34.394911+09:00",
+      "source_url": "https://www.newsis.com/view/NISX20261127_0003886115",
+      "published_at": "2026-11-27T13:04:01+09:00",
+      "updated_at": null,
+      "collected_at": "2026-11-27T15:24:20.453512+09:00",
       "field_evidence": [
        {
         "field_path": "/article_relevance",
-        "quote": "자문단은 서광로의 통행량을 감안한 교통사고 발생률이 120.9% 증가한 데다 버스 파업 시 대체 투입되는 전세버스가 왼쪽에 출입문이 없어 섬식정류장을 이용할 수 없다는 점도 전환의 근거로 들었다.",
+        "quote": "[제주=뉴시스] 우장호 기자 = 30일 오후 제주시 광양사거리 서측 탐라장애인복지관 '섬식 정류장'에서 제주형 중앙버스전용차로(BRT) 고급화사업 체험용 정류장 오프닝 행사가 열리고 있다. 제주도는 2025년 5월부터 국내 최초로 양문형 버스를 운행한다. 도는 앞으로 3년간 총 658억원을 투입해 총 171대의 버스를 양문형으로 교체할 계획이다. 2024.10.30. [email protected]",
         "source_part": "body",
         "effective_at": null,
         "derivation": "explicit",
-        "source_id": "c1d095bf0cc8bcf1d1fd3861",
-        "source_revision": "a30488d9d9bd8d91e70128b4",
+        "source_id": "0f43ef6a5514cfff19472fc5",
+        "source_revision": "024181a7b913e424f60e4e09",
         "reference_source": null
        },
        {
         "field_path": "/transport_mode",
-        "quote": "자문단은 서광로의 통행량을 감안한 교통사고 발생률이 120.9% 증가한 데다 버스 파업 시 대체 투입되는 전세버스가 왼쪽에 출입문이 없어 섬식정류장을 이용할 수 없다는 점도 전환의 근거로 들었다.",
+        "quote": "[제주=뉴시스] 우장호 기자 = 30일 오후 제주시 광양사거리 서측 탐라장애인복지관 '섬식 정류장'에서 제주형 중앙버스전용차로(BRT) 고급화사업 체험용 정류장 오프닝 행사가 열리고 있다. 제주도는 2025년 5월부터 국내 최초로 양문형 버스를 운행한다. 도는 앞으로 3년간 총 658억원을 투입해 총 171대의 버스를 양문형으로 교체할 계획이다. 2024.10.30. [email protected]",
         "source_part": "body",
         "effective_at": null,
         "derivation": "explicit",
-        "source_id": "c1d095bf0cc8bcf1d1fd3861",
-        "source_revision": "a30488d9d9bd8d91e70128b4",
+        "source_id": "0f43ef6a5514cfff19472fc5",
+        "source_revision": "024181a7b913e424f60e4e09",
         "reference_source": null
        },
        {
         "field_path": "/affected_regions",
-        "quote": "자문단은 서광로의 통행량을 감안한 교통사고 발생률이 120.9% 증가한 데다 버스 파업 시 대체 투입되는 전세버스가 왼쪽에 출입문이 없어 섬식정류장을 이용할 수 없다는 점도 전환의 근거로 들었다.",
+        "quote": "[제주=뉴시스] 우장호 기자 = 30일 오후 제주시 광양사거리 서측 탐라장애인복지관 '섬식 정류장'에서 제주형 중앙버스전용차로(BRT) 고급화사업 체험용 정류장 오프닝 행사가 열리고 있다. 제주도는 2025년 5월부터 국내 최초로 양문형 버스를 운행한다. 도는 앞으로 3년간 총 658억원을 투입해 총 171대의 버스를 양문형으로 교체할 계획이다. 2024.10.30. [email protected]",
         "source_part": "body",
         "effective_at": null,
         "derivation": "explicit",
-        "source_id": "c1d095bf0cc8bcf1d1fd3861",
-        "source_revision": "a30488d9d9bd8d91e70128b4",
+        "source_id": "0f43ef6a5514cfff19472fc5",
+        "source_revision": "024181a7b913e424f60e4e09",
         "reference_source": null
        },
        {
         "field_path": "/affected_routes",
-        "quote": "자문단은 서광로의 통행량을 감안한 교통사고 발생률이 120.9% 증가한 데다 버스 파업 시 대체 투입되는 전세버스가 왼쪽에 출입문이 없어 섬식정류장을 이용할 수 없다는 점도 전환의 근거로 들었다.",
+        "quote": "[제주=뉴시스] 우장호 기자 = 30일 오후 제주시 광양사거리 서측 탐라장애인복지관 '섬식 정류장'에서 제주형 중앙버스전용차로(BRT) 고급화사업 체험용 정류장 오프닝 행사가 열리고 있다. 제주도는 2025년 5월부터 국내 최초로 양문형 버스를 운행한다. 도는 앞으로 3년간 총 658억원을 투입해 총 171대의 버스를 양문형으로 교체할 계획이다. 2024.10.30. [email protected]",
         "source_part": "body",
         "effective_at": null,
         "derivation": "explicit",
-        "source_id": "c1d095bf0cc8bcf1d1fd3861",
-        "source_revision": "a30488d9d9bd8d91e70128b4",
+        "source_id": "0f43ef6a5514cfff19472fc5",
+        "source_revision": "024181a7b913e424f60e4e09",
         "reference_source": null
        },
        {
         "field_path": "/strike_status",
-        "quote": "자문단은 서광로의 통행량을 감안한 교통사고 발생률이 120.9% 증가한 데다 버스 파업 시 대체 투입되는 전세버스가 왼쪽에 출입문이 없어 섬식정류장을 이용할 수 없다는 점도 전환의 근거로 들었다.",
+        "quote": "[제주=뉴시스] 우장호 기자 = 30일 오후 제주시 광양사거리 서측 탐라장애인복지관 '섬식 정류장'에서 제주형 중앙버스전용차로(BRT) 고급화사업 체험용 정류장 오프닝 행사가 열리고 있다. 제주도는 2025년 5월부터 국내 최초로 양문형 버스를 운행한다. 도는 앞으로 3년간 총 658억원을 투입해 총 171대의 버스를 양문형으로 교체할 계획이다. 2024.10.30. [email protected]",
         "source_part": "body",
         "effective_at": null,
         "derivation": "explicit",
-        "source_id": "c1d095bf0cc8bcf1d1fd3861",
-        "source_revision": "a30488d9d9bd8d91e70128b4",
+        "source_id": "0f43ef6a5514cfff19472fc5",
+        "source_revision": "024181a7b913e424f60e4e09",
         "reference_source": null
        },
        {
         "field_path": "/service_status",
-        "quote": "자문단은 서광로의 통행량을 감안한 교통사고 발생률이 120.9% 증가한 데다 버스 파업 시 대체 투입되는 전세버스가 왼쪽에 출입문이 없어 섬식정류장을 이용할 수 없다는 점도 전환의 근거로 들었다.",
+        "quote": "[제주=뉴시스] 우장호 기자 = 30일 오후 제주시 광양사거리 서측 탐라장애인복지관 '섬식 정류장'에서 제주형 중앙버스전용차로(BRT) 고급화사업 체험용 정류장 오프닝 행사가 열리고 있다. 제주도는 2025년 5월부터 국내 최초로 양문형 버스를 운행한다. 도는 앞으로 3년간 총 658억원을 투입해 총 171대의 버스를 양문형으로 교체할 계획이다. 2024.10.30. [email protected]",
         "source_part": "body",
         "effective_at": null,
         "derivation": "explicit",
-        "source_id": "c1d095bf0cc8bcf1d1fd3861",
-        "source_revision": "a30488d9d9bd8d91e70128b4",
+        "source_id": "0f43ef6a5514cfff19472fc5",
+        "source_revision": "024181a7b913e424f60e4e09",
         "reference_source": null
        },
        {
         "field_path": "/normal_service_exceptions",
-        "quote": "자문단은 서광로의 통행량을 감안한 교통사고 발생률이 120.9% 증가한 데다 버스 파업 시 대체 투입되는 전세버스가 왼쪽에 출입문이 없어 섬식정류장을 이용할 수 없다는 점도 전환의 근거로 들었다.",
+        "quote": "[제주=뉴시스] 우장호 기자 = 30일 오후 제주시 광양사거리 서측 탐라장애인복지관 '섬식 정류장'에서 제주형 중앙버스전용차로(BRT) 고급화사업 체험용 정류장 오프닝 행사가 열리고 있다. 제주도는 2025년 5월부터 국내 최초로 양문형 버스를 운행한다. 도는 앞으로 3년간 총 658억원을 투입해 총 171대의 버스를 양문형으로 교체할 계획이다. 2024.10.30. [email protected]",
         "source_part": "body",
         "effective_at": null,
         "derivation": "explicit",
-        "source_id": "c1d095bf0cc8bcf1d1fd3861",
-        "source_revision": "a30488d9d9bd8d91e70128b4",
+        "source_id": "0f43ef6a5514cfff19472fc5",
+        "source_revision": "024181a7b913e424f60e4e09",
         "reference_source": null
        },
        {
         "field_path": "/alternative_services",
-        "quote": "자문단은 서광로의 통행량을 감안한 교통사고 발생률이 120.9% 증가한 데다 버스 파업 시 대체 투입되는 전세버스가 왼쪽에 출입문이 없어 섬식정류장을 이용할 수 없다는 점도 전환의 근거로 들었다.",
+        "quote": "[제주=뉴시스] 우장호 기자 = 30일 오후 제주시 광양사거리 서측 탐라장애인복지관 '섬식 정류장'에서 제주형 중앙버스전용차로(BRT) 고급화사업 체험용 정류장 오프닝 행사가 열리고 있다. 제주도는 2025년 5월부터 국내 최초로 양문형 버스를 운행한다. 도는 앞으로 3년간 총 658억원을 투입해 총 171대의 버스를 양문형으로 교체할 계획이다. 2024.10.30. [email protected]",
         "source_part": "body",
         "effective_at": null,
         "derivation": "explicit",
-        "source_id": "c1d095bf0cc8bcf1d1fd3861",
-        "source_revision": "a30488d9d9bd8d91e70128b4",
+        "source_id": "0f43ef6a5514cfff19472fc5",
+        "source_revision": "024181a7b913e424f60e4e09",
         "reference_source": null
        },
        {
         "field_path": "/start",
-        "quote": "자문단은 서광로의 통행량을 감안한 교통사고 발생률이 120.9% 증가한 데다 버스 파업 시 대체 투입되는 전세버스가 왼쪽에 출입문이 없어 섬식정류장을 이용할 수 없다는 점도 전환의 근거로 들었다.",
+        "quote": "[제주=뉴시스] 우장호 기자 = 30일 오후 제주시 광양사거리 서측 탐라장애인복지관 '섬식 정류장'에서 제주형 중앙버스전용차로(BRT) 고급화사업 체험용 정류장 오프닝 행사가 열리고 있다. 제주도는 2025년 5월부터 국내 최초로 양문형 버스를 운행한다. 도는 앞으로 3년간 총 658억원을 투입해 총 171대의 버스를 양문형으로 교체할 계획이다. 2024.10.30. [email protected]",
         "source_part": "body",
         "effective_at": null,
         "derivation": "explicit",
-        "source_id": "c1d095bf0cc8bcf1d1fd3861",
-        "source_revision": "a30488d9d9bd8d91e70128b4",
+        "source_id": "0f43ef6a5514cfff19472fc5",
+        "source_revision": "024181a7b913e424f60e4e09",
         "reference_source": null
        },
        {
         "field_path": "/end",
-        "quote": "자문단은 서광로의 통행량을 감안한 교통사고 발생률이 120.9% 증가한 데다 버스 파업 시 대체 투입되는 전세버스가 왼쪽에 출입문이 없어 섬식정류장을 이용할 수 없다는 점도 전환의 근거로 들었다.",
+        "quote": "[제주=뉴시스] 우장호 기자 = 30일 오후 제주시 광양사거리 서측 탐라장애인복지관 '섬식 정류장'에서 제주형 중앙버스전용차로(BRT) 고급화사업 체험용 정류장 오프닝 행사가 열리고 있다. 제주도는 2025년 5월부터 국내 최초로 양문형 버스를 운행한다. 도는 앞으로 3년간 총 658억원을 투입해 총 171대의 버스를 양문형으로 교체할 계획이다. 2024.10.30. [email protected]",
         "source_part": "body",
         "effective_at": null,
         "derivation": "explicit",
-        "source_id": "c1d095bf0cc8bcf1d1fd3861",
-        "source_revision": "a30488d9d9bd8d91e70128b4",
+        "source_id": "0f43ef6a5514cfff19472fc5",
+        "source_revision": "024181a7b913e424f60e4e09",
         "reference_source": null
        }
       ],
@@ -22073,12 +22058,12 @@
     "article_relevance": "unrelated",
     "processing_status": "success",
     "source": {
-     "source_id": "c1d095bf0cc8bcf1d1fd3861",
-     "source_url": "https://www.yna.co.kr/view/AKR20261127063500056?input=1195m",
-     "source_revision": "a30488d9d9bd8d91e70128b4",
-     "published_at": "2026-11-27T10:53:51+09:00",
-     "updated_at": "2026-11-27T10:53:51+09:00",
-     "collected_at": "2026-11-27T12:49:34.394911+09:00"
+     "source_id": "0f43ef6a5514cfff19472fc5",
+     "source_url": "https://www.newsis.com/view/NISX20261127_0003886115",
+     "source_revision": "024181a7b913e424f60e4e09",
+     "published_at": "2026-11-27T13:04:01+09:00",
+     "updated_at": null,
+     "collected_at": "2026-11-27T15:24:20.453512+09:00"
     },
     "events": [],
     "review_reasons": []
@@ -22161,7 +22146,7 @@
       "source_url": "https://www.fnnews.com/news/202611261809231394",
       "published_at": "2026-11-26T18:10:15+09:00",
       "updated_at": "2026-11-26T18:23:40+09:00",
-      "collected_at": "2026-11-27T12:49:37.561918+09:00",
+      "collected_at": "2026-11-27T15:24:23.155130+09:00",
       "field_evidence": [
        {
         "field_path": "/article_relevance",
@@ -22381,7 +22366,7 @@
      "source_revision": "8818e09a7af63ed1b33f7b24",
      "published_at": "2026-11-26T18:10:15+09:00",
      "updated_at": "2026-11-26T18:23:40+09:00",
-     "collected_at": "2026-11-27T12:49:37.561918+09:00"
+     "collected_at": "2026-11-27T15:24:23.155130+09:00"
     },
     "events": [],
     "review_reasons": []
@@ -22424,10 +22409,10 @@
      "normal_service_exceptions": [],
      "alternative_services": [],
      "evidence_and_timestamps": {
-      "source_url": "https://www.newsis.com/view/NISI20261127_0021547367",
+      "source_url": "https://www.newsis.com/view/NISI20261127_0021547370",
       "published_at": "2026-11-27T12:03:02+09:00",
       "updated_at": null,
-      "collected_at": "2026-11-27T12:49:39.168593+09:00",
+      "collected_at": "2026-11-27T15:24:23.869373+09:00",
       "field_evidence": [
        {
         "field_path": "/article_relevance",
@@ -22435,7 +22420,7 @@
         "source_part": "body",
         "effective_at": null,
         "derivation": "explicit",
-        "source_id": "341c2683083a04dd55f355d5",
+        "source_id": "2f53e3e8eb3c0f82c8675cc9",
         "source_revision": "594add824019c0d1b5ab0f54",
         "reference_source": null
        },
@@ -22445,7 +22430,7 @@
         "source_part": "body",
         "effective_at": null,
         "derivation": "explicit",
-        "source_id": "341c2683083a04dd55f355d5",
+        "source_id": "2f53e3e8eb3c0f82c8675cc9",
         "source_revision": "594add824019c0d1b5ab0f54",
         "reference_source": null
        },
@@ -22455,7 +22440,7 @@
         "source_part": "body",
         "effective_at": null,
         "derivation": "explicit",
-        "source_id": "341c2683083a04dd55f355d5",
+        "source_id": "2f53e3e8eb3c0f82c8675cc9",
         "source_revision": "594add824019c0d1b5ab0f54",
         "reference_source": null
        },
@@ -22465,7 +22450,7 @@
         "source_part": "body",
         "effective_at": null,
         "derivation": "explicit",
-        "source_id": "341c2683083a04dd55f355d5",
+        "source_id": "2f53e3e8eb3c0f82c8675cc9",
         "source_revision": "594add824019c0d1b5ab0f54",
         "reference_source": null
        },
@@ -22475,7 +22460,7 @@
         "source_part": "body",
         "effective_at": null,
         "derivation": "explicit",
-        "source_id": "341c2683083a04dd55f355d5",
+        "source_id": "2f53e3e8eb3c0f82c8675cc9",
         "source_revision": "594add824019c0d1b5ab0f54",
         "reference_source": null
        },
@@ -22485,7 +22470,7 @@
         "source_part": "body",
         "effective_at": null,
         "derivation": "explicit",
-        "source_id": "341c2683083a04dd55f355d5",
+        "source_id": "2f53e3e8eb3c0f82c8675cc9",
         "source_revision": "594add824019c0d1b5ab0f54",
         "reference_source": null
        },
@@ -22495,7 +22480,7 @@
         "source_part": "body",
         "effective_at": null,
         "derivation": "explicit",
-        "source_id": "341c2683083a04dd55f355d5",
+        "source_id": "2f53e3e8eb3c0f82c8675cc9",
         "source_revision": "594add824019c0d1b5ab0f54",
         "reference_source": null
        },
@@ -22505,7 +22490,7 @@
         "source_part": "body",
         "effective_at": null,
         "derivation": "explicit",
-        "source_id": "341c2683083a04dd55f355d5",
+        "source_id": "2f53e3e8eb3c0f82c8675cc9",
         "source_revision": "594add824019c0d1b5ab0f54",
         "reference_source": null
        },
@@ -22515,7 +22500,7 @@
         "source_part": "body",
         "effective_at": null,
         "derivation": "explicit",
-        "source_id": "341c2683083a04dd55f355d5",
+        "source_id": "2f53e3e8eb3c0f82c8675cc9",
         "source_revision": "594add824019c0d1b5ab0f54",
         "reference_source": null
        },
@@ -22525,7 +22510,7 @@
         "source_part": "body",
         "effective_at": null,
         "derivation": "explicit",
-        "source_id": "341c2683083a04dd55f355d5",
+        "source_id": "2f53e3e8eb3c0f82c8675cc9",
         "source_revision": "594add824019c0d1b5ab0f54",
         "reference_source": null
        }
@@ -22539,12 +22524,12 @@
     "article_relevance": "unrelated",
     "processing_status": "success",
     "source": {
-     "source_id": "341c2683083a04dd55f355d5",
-     "source_url": "https://www.newsis.com/view/NISI20261127_0021547367",
+     "source_id": "2f53e3e8eb3c0f82c8675cc9",
+     "source_url": "https://www.newsis.com/view/NISI20261127_0021547370",
      "source_revision": "594add824019c0d1b5ab0f54",
      "published_at": "2026-11-27T12:03:02+09:00",
      "updated_at": null,
-     "collected_at": "2026-11-27T12:49:39.168593+09:00"
+     "collected_at": "2026-11-27T15:24:23.869373+09:00"
     },
     "events": [],
     "review_reasons": []
@@ -22588,7 +22573,7 @@
       "source_url": "https://www.hankyung.com/article/2026112631211",
       "published_at": "2026-11-26T18:03:43+09:00",
       "updated_at": null,
-      "collected_at": "2026-11-27T12:49:39.295654+09:00",
+      "collected_at": "2026-11-27T15:24:24.002834+09:00",
       "field_evidence": [
        {
         "field_path": "/article_relevance",
@@ -22805,7 +22790,7 @@
      "source_revision": "fc775dd3ca68ae7fde7eda7f",
      "published_at": "2026-11-26T18:03:43+09:00",
      "updated_at": null,
-     "collected_at": "2026-11-27T12:49:39.295654+09:00"
+     "collected_at": "2026-11-27T15:24:24.002834+09:00"
     },
     "events": [],
     "review_reasons": []
@@ -22849,7 +22834,7 @@
       "source_url": "https://www.yna.co.kr/view/AKR20261118007000079?input=1195m",
       "published_at": "2026-11-18T03:43:59+09:00",
       "updated_at": "2026-11-18T09:34:21+09:00",
-      "collected_at": "2026-11-27T12:49:40.933262+09:00",
+      "collected_at": "2026-11-27T15:24:25.857709+09:00",
       "field_evidence": [
        {
         "field_path": "/article_relevance",
@@ -22966,7 +22951,7 @@
      "source_revision": "803fca1dcdf7c4adcd01d505",
      "published_at": "2026-11-18T03:43:59+09:00",
      "updated_at": "2026-11-18T09:34:21+09:00",
-     "collected_at": "2026-11-27T12:49:40.933262+09:00"
+     "collected_at": "2026-11-27T15:24:25.857709+09:00"
     },
     "events": [],
     "review_reasons": [
