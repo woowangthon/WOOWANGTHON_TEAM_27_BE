@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-27T15:24:25.991644+09:00",
+ "generatedAt": "2026-11-28T03:55:17.445493+09:00",
  "windowDays": 14,
  "queries": [
   "버스 파업",
@@ -17,8 +17,48 @@
    "url": "https://www.ncloud.com/product/applicationService/naverApiHub"
   }
  ],
- "articles": 276,
+ "articles": 261,
  "searchResults": [
+  {
+   "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8724823&ref=A",
+   "title": "“섬식 정류장 폐지, BRT 사업은 그대로”…권고안 두 달 만에 발표",
+   "query": "버스 파업"
+  },
+  {
+   "url": "https://news.bbsi.co.kr/news/articleView.html?idxno=4121387",
+   "title": "[라이브 인 서울] '서울 지하철과 버스'...노사간 쟁점과 서울시 파업 대...",
+   "query": "버스 파업"
+  },
+  {
+   "url": "https://www.jejumaeil.net/news/articleView.html?idxno=407191",
+   "title": "섬식정류장 전면 철거…\"제주도지사 신속 결단\" 촉구",
+   "query": "버스 파업"
+  },
+  {
+   "url": "https://vop.co.kr/A00001697801.html",
+   "title": "[현장] 여의대로 메운 학교비정규직 2만명의 ‘분홍 물결’ “교육재정...",
+   "query": "버스 파업"
+  },
+  {
+   "url": "https://www.hankookilbo.com/news/article/A2026112709540001293?did=NA",
+   "title": "이란 \"어려운 겨울 될 것\"…미국의 봉쇄 장기화에 긴축 조치 돌입",
+   "query": "버스 파업"
+  },
+  {
+   "url": "https://www.ajunews.com/view/20261127163229028",
+   "title": "\"방학은 생계 절벽, 일할수록 골병\"…여의도 메운 학교비정규직의 절규",
+   "query": "버스 파업"
+  },
+  {
+   "url": "http://www.jejunews.com/news/articleView.html?idxno=2229102",
+   "title": "섬식정류장 철거...서광로 이어 동광로 '상대식 정류장' 전환",
+   "query": "버스 파업"
+  },
+  {
+   "url": "https://www.yna.co.kr/view/PYH20261127119000013?input=1196m",
+   "title": "집회 바라보는 시민",
+   "query": "버스 파업"
+  },
   {
    "url": "https://www.idomin.com/news/articleView.html?idxno=2020728",
    "title": "한화오션 하청노동자 임단협 우선 6대 교섭 의제 제시",
@@ -230,44 +270,89 @@
    "query": "버스 파업"
   },
   {
-   "url": "https://www.sedaily.com/article/20119072?ref=naver",
-   "title": "서울지하철 파업 피했지만…인력 감축 갈등은 여전",
-   "query": "버스 파업"
+   "url": "https://www.laborplus.co.kr/news/articleView.html?idxno=41934",
+   "title": "[위클립] 11월 4주",
+   "query": "지하철 파업"
   },
   {
-   "url": "https://www.khan.co.kr/article/202611252052025",
-   "title": "서울 지하철 파업 또 넘겼지만…‘만성 적자·2212명 감축’ 불씨",
-   "query": "버스 파업"
+   "url": "https://biz.chosun.com/topics/topics_social/2026/11/27/MBNSMZ2UY5F7ZCTDQLHS3H2YKA/?utm_source=naver&utm_medium=original&utm_campaign=biz",
+   "title": "철도노조 준법투쟁 이틀째…열차 454대 지연",
+   "query": "지하철 파업"
   },
   {
-   "url": "http://www.kjdaily.com/article.php?aid=1795603929693571033",
-   "title": "학교비정규직 27일 총파업…교육청, 비상체제 가동",
-   "query": "버스 파업"
+   "url": "https://www.mt.co.kr/society/2026/11/27/2026112720012167725",
+   "title": "\"왜 이렇게 안 와\" 퇴근길 발 동동…철도노조 준법투쟁에 열차 454대 지...",
+   "query": "지하철 파업"
   },
   {
-   "url": "https://www.joongangenews.com/news/articleView.html?idxno=566641",
-   "title": "전남광주특별시교육청, 27일 학교비정규직 총파업 대비 비상체제 가동",
-   "query": "버스 파업"
+   "url": "https://www.topstarnews.net/news/articleView.html?idxno=16288088",
+   "title": "지하철 지연 235대→445대…무슨 일?",
+   "query": "지하철 파업"
   },
   {
-   "url": "https://www.hankyung.com/article/2026112502911",
-   "title": "파업은 모면…20조원 적자 눈감은 서울지하철",
-   "query": "버스 파업"
+   "url": "https://www.sedaily.com/article/20120057?ref=naver",
+   "title": "철도노조 준법투쟁 이틀째…열차 2대 운행 중지·전철 445대 지연",
+   "query": "지하철 파업"
   },
   {
-   "url": "http://www.jndn.com/article.php?aid=1795597105443794005",
-   "title": "“교부금 개편 반대” 학비노조 27일 파업…급식 대란 우려",
-   "query": "버스 파업"
+   "url": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202611270151&t=NN",
+   "title": "'20분 이상 지연' 열차 수백대…'불금' 퇴근길 대란",
+   "query": "지하철 파업"
   },
   {
-   "url": "https://www.khan.co.kr/article/202611251638001",
-   "title": "출근길 대란 피했지만, 연례행사 된 서울 지하철 파업 걱정…‘적자 해...",
-   "query": "버스 파업"
+   "url": "https://www.munhwa.com/article/11634712?ref=naver",
+   "title": "“이렇게 사람 많은 건 처음” 지하철 1·3·4호선 퇴근길 대란…철도노...",
+   "query": "지하철 파업"
   },
   {
-   "url": "https://www.newstnt.com/news/articleView.html?idxno=730543",
-   "title": "전남광주교육청, 학교비정규직 총파업 대응 총력…급식·돌봄 공백 최소...",
-   "query": "버스 파업"
+   "url": "https://news.tvchosun.com/site/data/html_dir/2026/11/27/2026112790251.html",
+   "title": "철도노조 준법투쟁 이틀째…수도권 전철 지연 445대",
+   "query": "지하철 파업"
+  },
+  {
+   "url": "https://www.yna.co.kr/view/AKR20261127162600004?input=1195m",
+   "title": "철도노조 준법투쟁 둘째날 서울 지하철 1호선 '퇴근길 대란'",
+   "query": "지하철 파업"
+  },
+  {
+   "url": "https://www.news1.kr/realestate/general/6368905",
+   "title": "철도노조 준법투쟁 2일차…20분 이상 지연 광역전철 445대(종합)",
+   "query": "지하철 파업"
+  },
+  {
+   "url": "https://www.sedaily.com/article/20120008?ref=naver",
+   "title": "“40분 동안 겨우 역 5개 가더라” 지하철 ‘지연증명서’까지 등장…다...",
+   "query": "지하철 파업"
+  },
+  {
+   "url": "https://www.mk.co.kr/article/12220391",
+   "title": "전국 철도 이틀째 지연·중단 … 논술·면접 몰린 주말이 고비",
+   "query": "지하철 파업"
+  },
+  {
+   "url": "https://biz.sbs.co.kr/article_hub/20000349451?division=NAVER",
+   "title": "수도권 1호선 출퇴근길 시민불편 '아우성'",
+   "query": "지하철 파업"
+  },
+  {
+   "url": "https://www.gukjenews.com/news/articleView.html?idxno=3765530",
+   "title": "철도 준법투쟁 이틀째 퇴근길 지하철 지연 괜찮을까 \"환불 위약금 없다...",
+   "query": "지하철 파업"
+  },
+  {
+   "url": "https://www.mk.co.kr/article/12220311",
+   "title": "“왜 출퇴근 시간에”…철도노조 준법투쟁에 시민 불편 속출",
+   "query": "지하철 파업"
+  },
+  {
+   "url": "https://www.asiatoday.co.kr/kn/view.php?key=20261127010010843",
+   "title": "서울지하철 파업 막았지만…준법투쟁 철도노조, 연말 교통대란 우려 확...",
+   "query": "지하철 파업"
+  },
+  {
+   "url": "https://www.newsis.com/view/NISX20261127_0003886459",
+   "title": "철도 준법투쟁 이틀째…\"34분 지각증명서 발급받았다\"",
+   "query": "지하철 파업"
   },
   {
    "url": "https://www.ajunews.com/view/20261127095029729",
@@ -375,99 +460,94 @@
    "query": "지하철 파업"
   },
   {
-   "url": "https://www.news1.kr/realestate/general/6366932",
-   "title": "철도노조 준법투쟁 돌입…광역전철 최대 30분 지연·KTX 평소 수준(종합...",
-   "query": "지하철 파업"
+   "url": "https://www.ajunews.com/view/20261127214900556",
+   "title": "[아주경제 오늘의 뉴스 종합] 철도노조 준법투쟁 이틀째… 출근길 1호선...",
+   "query": "철도 파업"
   },
   {
-   "url": "https://www.kgnews.co.kr/news/article.html?no=921312",
-   "title": "철도노조 ‘안전운행 투쟁’ 돌입…수도권 전철·KTX 지연 우려",
-   "query": "지하철 파업"
+   "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8724799&ref=A",
+   "title": "철도노조 준법투쟁으로 광역전철 445대 지연",
+   "query": "철도 파업"
   },
   {
-   "url": "https://www.mk.co.kr/article/12219188",
-   "title": "“규정 지키면 열차가 늦는다?”…철도노조 준법투쟁에 열차 지연 우려",
-   "query": "지하철 파업"
+   "url": "https://news.jtbc.co.kr/article/NB12330252?influxDiv=NAVER",
+   "title": "열차 지연 속출…대입 '논술·면접' 몰린 주말 어쩌나",
+   "query": "철도 파업"
   },
   {
-   "url": "https://www.mt.co.kr/society/2026/11/27/2026112609563481950",
-   "title": "\"부장님, 열차가 안 와요\" 출근길 급하게 '반반차'...직장인 속탔다",
-   "query": "지하철 파업"
+   "url": "https://www.kyeonggi.com/article/20261127580224",
+   "title": "열차는 줄줄이 지연에 사람 밀치고 고성…철도 준법투쟁 이틀째, ‘최악...",
+   "query": "철도 파업"
   },
   {
-   "url": "https://www.abcn.kr/news/articleView.html?idxno=95071",
-   "title": "철도노조 준법투쟁 돌입에 수도권 전철 운행 차질...최대 25분 지연",
-   "query": "지하철 파업"
+   "url": "https://www.ajunews.com/view/20261127194207443",
+   "title": "철도노조 준법투쟁 이틀째...퇴근길 전철 445대 지연",
+   "query": "철도 파업"
   },
   {
-   "url": "https://www.newspim.com/news/view/20261126000439",
-   "title": "철도노조 안전운행 투쟁 시작…퇴근길 열차 지연될까",
-   "query": "지하철 파업"
+   "url": "https://www.newscj.com/news/articleView.html?idxno=3452789",
+   "title": "철도노조 준법투쟁 이틀째… 수도권 전철 445대 20분 이상 지연",
+   "query": "철도 파업"
   },
   {
-   "url": "https://www.seoulfn.com/news/articleView.html?idxno=643982",
-   "title": "철도노조, 안전운행 투쟁 돌입···퇴근길 및 주말 열차 지연 불가피",
-   "query": "지하철 파업"
+   "url": "https://www.g-enews.com/view.php?ud=20261127191857584324debea800_1",
+   "title": "철도노조 준법투쟁 이틀째…수도권 광역전철 445대 지연",
+   "query": "철도 파업"
   },
   {
-   "url": "https://www.bntnews.co.kr/article/view/bnt202611260184",
-   "title": "철도노조 준법투쟁…파업 일정",
-   "query": "지하철 파업"
+   "url": "https://www.donga.com/news/Society/article/all/20261127/135105596/2",
+   "title": "철도노조 준법투쟁 이틀째…열차 2대 취소, 454대 운행 지연",
+   "query": "철도 파업"
   },
   {
-   "url": "https://www.hidomin.com/news/articleView.html?idxno=731115",
-   "title": "철도노조, 내달 4일까지 안전운행 투쟁…출퇴근길·주말 열차 지연 우려",
-   "query": "지하철 파업"
+   "url": "https://www.khan.co.kr/article/202611271914001",
+   "title": "철도노조 ‘준법투쟁’ 이틀째···광역전철 445대 지연·일반열차 2대...",
+   "query": "철도 파업"
   },
   {
-   "url": "http://www.whitepaper.co.kr/news/articleView.html?idxno=269189",
-   "title": "철도노조, '오늘부터 안전운행 투쟁'…열차 지연에 승객 불편 우려",
-   "query": "지하철 파업"
+   "url": "https://www.edaily.co.kr/News/Read?newsId=03391526645649984&mediaCodeNo=257&utm_source=naver&utm_medium=referral&utm_campaign=news_syndication&utm_content=original_article",
+   "title": "수도권 전철 400여대 지연…철도노조 투쟁에 주말 수험생도 비상",
+   "query": "철도 파업"
   },
   {
-   "url": "https://www.newsis.com/view/NISX20261126_0003883848",
-   "title": "\"월급이 20일이면 바닥난다\"…그리스, 생활비 급등에 24시간 파업",
-   "query": "지하철 파업"
+   "url": "https://www.seoul.co.kr/news/society/2026/11/27/20261127500320?wlog_tag3=naver",
+   "title": "철도 쟁의 이틀째, 혼란 피했지만 수도권전철 ‘445대’ 20분 이상 지연",
+   "query": "철도 파업"
   },
   {
-   "url": "https://www.cbci.co.kr/news/articleView.html?idxno=630853",
-   "title": "철도파업 안전운행 투쟁 돌입…KTX·일반열차 지연 우려",
-   "query": "지하철 파업"
+   "url": "https://www.newsis.com/view/NISX20261127_0003886209",
+   "title": "철도노조 투쟁 이틀차, 열차 2대 운행 중지·454대 지연…주말이 '고비'",
+   "query": "철도 파업"
   },
   {
-   "url": "https://www.globale.co.kr/news/articleView.html?idxno=41842",
-   "title": "서울교통공사 노사, 18시간 밤샘교섭 끝 임단협 타결…1~8호선 정상 운행",
-   "query": "지하철 파업"
+   "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8724652&ref=A",
+   "title": "철도노조 준법 투쟁으로 열차 4백여 대 지연·2대 운행 중지",
+   "query": "철도 파업"
   },
   {
-   "url": "https://www.kmib.co.kr/article/20261126500170",
-   "title": "철도노조 오늘부터 안전운행 투쟁…내달 10일 총파업 예고",
-   "query": "지하철 파업"
+   "url": "http://news.lghellovision.net/news/articleView.html?idxno=564093",
+   "title": "[다시보기] 헬로tv뉴스 전남광주 2026년 11월 27일",
+   "query": "철도 파업"
   },
   {
-   "url": "https://www.jeonmae.co.kr/news/articleView.html?idxno=1316100",
-   "title": "철도노조 안전운행 투쟁 돌입…열차 지연·출퇴근 혼잡 우려",
-   "query": "지하철 파업"
+   "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8724623&ref=A",
+   "title": "철도노조 준법 투쟁…일부 노선 지연 운행",
+   "query": "철도 파업"
   },
   {
-   "url": "https://www.ngonews.kr/news/articleView.html?idxno=244260",
-   "title": "전국철도노동조합, 안전운행 투쟁 돌입···12월 4일까지 안전운행 투쟁...",
-   "query": "지하철 파업"
+   "url": "https://www.news1.kr/local/busan-gyeongnam/6368641",
+   "title": "철도노조 준법투쟁 이틀째…부산 출발·도착 열차 운행 순조로워",
+   "query": "철도 파업"
   },
   {
-   "url": "https://www.tjb.co.kr/news05/bodo/view/id/106540",
-   "title": "철도노조, 오전 9시부터 '준법투쟁' 돌입...승객 불편 불가피",
-   "query": "지하철 파업"
+   "url": "https://www.chosun.com/national/education/2026/11/27/NDBP2M3RMRAHVLFHXEFMOUREDA/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
+   "title": "학교 비정규직 전국 파업에 급식·돌봄 차질",
+   "query": "철도 파업"
   },
   {
-   "url": "https://www.topstarnews.net/news/articleView.html?idxno=16286645",
-   "title": "철도노조, 26일 투쟁…파업 일정",
-   "query": "지하철 파업"
-  },
-  {
-   "url": "http://www.yonhapnewstv.co.kr/news/MYH20261126093807H3c",
-   "title": "철도노조 준법투쟁…KTX·지하철 지연 예상",
-   "query": "지하철 파업"
+   "url": "https://www.hankyung.com/article/202611274684i",
+   "title": "15년째 연례행사 된 급식파업…빵으로 점심 때우는 아이들",
+   "query": "철도 파업"
   },
   {
    "url": "https://www.pressian.com/pages/articles/2026112611241511995?utm_source=naver&utm_medium=search",
@@ -490,18 +570,13 @@
    "query": "철도 파업"
   },
   {
-   "url": "https://www.newsis.com/view/NISI20261127_0021547370",
+   "url": "https://www.newsis.com/view/NISI20261127_0021547368",
    "title": "이틀째 이어지는 철도노조 준법투쟁",
    "query": "철도 파업"
   },
   {
-   "url": "https://www.newsis.com/view/NISI20261127_0021547360",
-   "title": "이틀째 이어지는 철도노조 준법투쟁",
-   "query": "철도 파업"
-  },
-  {
-   "url": "https://www.newsis.com/view/NISI20261127_0021547364",
-   "title": "준법투쟁 영향 열차 운행 지연 안내문 설치된 서울역",
+   "url": "https://www.newsis.com/view/NISI20261127_0021547367",
+   "title": "철도노조 준법투쟁 이틀째",
    "query": "철도 파업"
   },
   {
@@ -515,154 +590,34 @@
    "query": "철도 파업"
   },
   {
-   "url": "https://www.newsis.com/view/NISI20261127_0021547361",
-   "title": "준법투쟁 영향 열차 운행 지연 안내문 설치된 서울역",
-   "query": "철도 파업"
-  },
-  {
-   "url": "https://www.newsis.com/view/NISI20261127_0021547369",
+   "url": "https://www.newsis.com/view/NISI20261127_0021547370",
    "title": "이틀째 이어지는 철도노조 준법투쟁",
-   "query": "철도 파업"
-  },
-  {
-   "url": "https://www.newsis.com/view/NISI20261127_0021547368",
-   "title": "이틀째 이어지는 철도노조 준법투쟁",
-   "query": "철도 파업"
-  },
-  {
-   "url": "https://www.newsis.com/view/NISI20261127_0021547367",
-   "title": "철도노조 준법투쟁 이틀째",
-   "query": "철도 파업"
-  },
-  {
-   "url": "https://www.newsis.com/view/NISI20261127_0021547358",
-   "title": "철도노조 준법투쟁 이틀째",
-   "query": "철도 파업"
-  },
-  {
-   "url": "https://www.newsis.com/view/NISI20261127_0021547366",
-   "title": "준법투쟁 영향 열차 운행 지연 안내문 설치된 서울역",
-   "query": "철도 파업"
-  },
-  {
-   "url": "https://www.newsis.com/view/NISI20261127_0021547365",
-   "title": "준법투쟁 영향 열차 운행 지연 안내문 설치된 서울역",
-   "query": "철도 파업"
-  },
-  {
-   "url": "https://www.newsis.com/view/NISI20261127_0021547363",
-   "title": "준법투쟁 영향 열차 운행 지연 안내문 설치된 서울역",
-   "query": "철도 파업"
-  },
-  {
-   "url": "https://www.ytn.co.kr/_ln/0134_202611271106200379",
-   "title": "\"기차가 없어질까 봐\" 승객들 불안...준법투쟁 첫날, 광역전철 20분 넘게...",
-   "query": "철도 파업"
-  },
-  {
-   "url": "https://www.tbc.co.kr/news/view?pno=20261127084535AE09231&id=213861",
-   "title": "철도노조 안전운행 투쟁…동대구역 열차 운행 차질",
-   "query": "철도 파업"
-  },
-  {
-   "url": "https://www.yna.co.kr/view/AKR20261127052500011?input=1195m",
-   "title": "[연합뉴스 이 시각 헤드라인] - 10:30",
-   "query": "철도 파업"
-  },
-  {
-   "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8724308&ref=A",
-   "title": "철도노조 준법투쟁 이틀째…광역전철 등 일부 지연 계속",
-   "query": "철도 파업"
-  },
-  {
-   "url": "https://www.slist.kr/news/articleView.html?idxno=785296",
-   "title": "철도노조 안전운행 투쟁 이틀째…KTX 최대 10분 지연, 주말 혼잡 우려",
    "query": "철도 파업"
   },
   {
    "url": "https://www.jbnews.com/news/articleView.html?idxno=1517044",
    "title": "철도노조 안전운행 투쟁 첫날, 대전역 퇴근길 열차 지연… 무궁화호 1시...",
-   "query": "철도 파업"
-  },
-  {
-   "url": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202611270750509390895",
-   "title": "[경북 브리핑 모음(11월 27일)] 기획경제위, 경북도 2027년도 본예산안 ...",
-   "query": "철도 파업"
-  },
-  {
-   "url": "https://www.yna.co.kr/view/PYH20261127022400013?input=1196m",
-   "title": "철도노조 준법투쟁 이틀째",
-   "query": "철도 파업"
-  },
-  {
-   "url": "https://www.yna.co.kr/view/PYH20261127022700013?input=1196m",
-   "title": "철도노조 준법투쟁 이틀째",
-   "query": "철도 파업"
-  },
-  {
-   "url": "https://www.yna.co.kr/view/PYH20261127022600013?input=1196m",
-   "title": "철도노조 준법투쟁 이틀째",
-   "query": "철도 파업"
-  },
-  {
-   "url": "https://www.yna.co.kr/view/PYH20261127022900013?input=1196m",
-   "title": "철도노조 준법투쟁 이틀째",
-   "query": "철도 파업"
-  },
-  {
-   "url": "https://www.yna.co.kr/view/PYH20261127022800013?input=1196m",
-   "title": "철도노조 준법투쟁 이틀째",
-   "query": "철도 파업"
-  },
-  {
-   "url": "https://www.yna.co.kr/view/PYH20261127022500013?input=1196m",
-   "title": "철도노조 준법투쟁 이틀째",
-   "query": "철도 파업"
-  },
-  {
-   "url": "https://www.yna.co.kr/view/PYH20261127022200013?input=1196m",
-   "title": "철도노조 준법투쟁 이틀째",
-   "query": "철도 파업"
-  },
-  {
-   "url": "https://www.yna.co.kr/view/PYH20261127022300013?input=1196m",
-   "title": "철도노조 준법투쟁 이틀째",
-   "query": "철도 파업"
-  },
-  {
-   "url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=508635",
-   "title": "[기자수첩] HMM·통합 진에어, 본사만 부산으로 옮기면 끝인가",
-   "query": "철도 파업"
+   "query": "파업 예고 운행"
   },
   {
    "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8724192&ref=A",
    "title": "안전운행 투쟁에 열차 지연 속출…다음 달 총파업 예고",
-   "query": "철도 파업"
+   "query": "파업 예고 운행"
   },
   {
    "url": "https://news.tvchosun.com/site/data/html_dir/2026/11/27/2026112790022.html",
    "title": "철도노조 준법투쟁 이틀째…출근길·주말 이동객 몰려 서울역 혼잡",
-   "query": "철도 파업"
-  },
-  {
-   "url": "https://www.safetimes.co.kr/news/articleView.html?idxno=247932",
-   "title": "[오늘의 주요일정·27일] 이억원, 금융행정 쇄신방안 발표",
-   "query": "철도 파업"
+   "query": "파업 예고 운행"
   },
   {
    "url": "https://www.ytn.co.kr/_ln/0102_202611270525377285",
    "title": "■11월 27일 (금) 경제 캘린더",
-   "query": "철도 파업"
-  },
-  {
-   "url": "https://www.ytn.co.kr/_ln/0102_202611270503025651",
-   "title": "철도노조 투쟁 첫날...무궁화호 멈추고 전철 무더기 지연",
-   "query": "철도 파업"
+   "query": "파업 예고 운행"
   },
   {
    "url": "https://www.kmib.co.kr/article/20261126501927",
    "title": "철도노조 준법투쟁 돌입… 수도권 광역전철 지연",
-   "query": "철도 파업"
+   "query": "파업 예고 운행"
   },
   {
    "url": "https://www.ksilbo.co.kr/news/articleView.html?idxno=1073750",
@@ -690,13 +645,13 @@
    "query": "파업 예고 운행"
   },
   {
-   "url": "https://www.seoul.co.kr/news/society/2026/11/26/20261126500342?wlog_tag3=naver",
-   "title": "철도노조 ‘태업’ 첫날 열차 지연 속출…일반열차 4편 ‘운행 중지’",
+   "url": "https://www.knnews.co.kr/news/articleView.php?idxno=1556045",
+   "title": "[사설] 철도노사, 총파업 전에 합의 길 찾아라",
    "query": "파업 예고 운행"
   },
   {
-   "url": "https://www.knnews.co.kr/news/articleView.php?idxno=1556045",
-   "title": "[사설] 철도노사, 총파업 전에 합의 길 찾아라",
+   "url": "https://www.seoul.co.kr/news/society/2026/11/26/20261126500342?wlog_tag3=naver",
+   "title": "철도노조 ‘태업’ 첫날 열차 지연 속출…일반열차 4편 ‘운행 중지’",
    "query": "파업 예고 운행"
   },
   {
@@ -710,13 +665,13 @@
    "query": "파업 예고 운행"
   },
   {
-   "url": "https://www.obsnews.co.kr/news/articleView.html?idxno=1545122",
-   "title": "철도노조 준법투쟁 돌입…열차 지연에 시민 불편",
+   "url": "http://www.kwangju.co.kr/article.php?aid=1795691400805768006",
+   "title": "철도노조 ‘안전운행 투쟁’ 돌입…학교비정규직노조 총파업 예고",
    "query": "파업 예고 운행"
   },
   {
-   "url": "http://www.kwangju.co.kr/article.php?aid=1795691400805768006",
-   "title": "철도노조 ‘안전운행 투쟁’ 돌입…학교비정규직노조 총파업 예고",
+   "url": "https://www.obsnews.co.kr/news/articleView.html?idxno=1545122",
+   "title": "철도노조 준법투쟁 돌입…열차 지연에 시민 불편",
    "query": "파업 예고 운행"
   },
   {
@@ -740,13 +695,13 @@
    "query": "파업 예고 운행"
   },
   {
-   "url": "https://www.kmib.co.kr/article/20261126501690",
-   "title": "철도노조 준법투쟁 돌입…수도권 광역전철 수백대 지연",
+   "url": "https://www.dailian.co.kr/news/view/1720306/?sc=Naver",
+   "title": "전철 늦고 열차 멈추고…철도노조 준법투쟁에 시민 발 묶였다",
    "query": "파업 예고 운행"
   },
   {
-   "url": "https://www.dailian.co.kr/news/view/1720306/?sc=Naver",
-   "title": "전철 늦고 열차 멈추고…철도노조 준법투쟁에 시민 발 묶였다",
+   "url": "https://www.kmib.co.kr/article/20261126501690",
+   "title": "철도노조 준법투쟁 돌입…수도권 광역전철 수백대 지연",
    "query": "파업 예고 운행"
   },
   {
@@ -780,39 +735,9 @@
    "query": "파업 예고 운행"
   },
   {
-   "url": "https://www.hankyung.com/article/2026112631211",
-   "title": "노사 협상 결렬에 멈춰 선 열차…용산역서 수백명 탑승 못해",
-   "query": "파업 예고 운행"
-  },
-  {
-   "url": "https://www.dkilbo.com/news/articleView.html?idxno=562345",
-   "title": "철도노조 준법투쟁 첫날, 승객들 '조마조마'",
-   "query": "파업 예고 운행"
-  },
-  {
-   "url": "https://www.imaeil.com/page/view/2026112609220143278",
-   "title": "철도노조 총파업 앞두고 준법투쟁…동대구역 등 열차 운행 지연",
-   "query": "파업 예고 운행"
-  },
-  {
-   "url": "https://www.news1.kr/realestate/general/6367459",
-   "title": "철도노조 준법투쟁에 새마을·무궁화호 3편 운행 중지",
-   "query": "파업 예고 운행"
-  },
-  {
-   "url": "https://www.seoul.co.kr/news/society/2026/11/26/20261126500253?wlog_tag3=naver",
-   "title": "철도노조 ‘태업’ 첫날 열차 지연 속출…호남선 일반열차 3편 ‘운행 ...",
-   "query": "파업 예고 운행"
-  },
-  {
-   "url": "https://www.fnnews.com/news/202611261616246459",
-   "title": "철도노조 준법투쟁 첫날 일반열차 3대 멈췄다…출고 지연에 운행 차질",
-   "query": "파업 예고 운행"
-  },
-  {
-   "url": "https://newscham.net/130229/",
-   "title": "미국 ‘과잉생산 관세’, 근거는 “한국 노동자 월급이 너무 낮다”",
-   "query": "파업 예고 운행"
+   "url": "https://www.sedaily.com/article/20119943?ref=naver",
+   "title": "여의도 메운 학교 비정규직 노동자들…“교육재정 사수하고 차별 없애자...",
+   "query": "집회 교통 통제"
   },
   {
    "url": "https://www.vegannews.co.kr/news/article.html?no=412032",
@@ -938,6 +863,16 @@
    "url": "https://www.edaily.co.kr/News/Read?newsId=01285766645645720&mediaCodeNo=257&utm_source=naver&utm_medium=referral&utm_campaign=news_syndication&utm_content=original_article",
    "title": "'비 오는 주말' 도심 곳곳서 마라톤·집회 열려 '혼잡'[사회in]",
    "query": "집회 교통 통제"
+  },
+  {
+   "url": "https://www.topstarnews.net/news/articleView.html?idxno=16288093",
+   "title": "마라톤 구급차 통행 방해 논란…참가자와 주최 측 책임은",
+   "query": "마라톤 도로 통제"
+  },
+  {
+   "url": "https://www.g1tv.co.kr/news?mid=1_207_5&newsid=351660",
+   "title": "원주시, 주말 마라톤 대회..일부 도로 통제",
+   "query": "마라톤 도로 통제"
   },
   {
    "url": "https://www.ggilbo.com/news/articleView.html?idxno=1195977",
@@ -1180,16 +1115,6 @@
    "query": "마라톤 도로 통제"
   },
   {
-   "url": "https://www.topstarnews.net/news/articleView.html?idxno=16283851",
-   "title": "마라톤 교통통제에 시민 분통…경찰도 사과, 28·29일 또 열린다",
-   "query": "마라톤 도로 통제"
-  },
-  {
-   "url": "https://www.joongang.co.kr/article/25481057",
-   "title": "“주말마다 뭐하는 짓들이냐”…마라톤 교통 통제 분노 터졌다",
-   "query": "마라톤 도로 통제"
-  },
-  {
    "url": "https://www.gukjenews.com/news/articleView.html?idxno=3763580",
    "title": "장림포구서 '부네치아 낙낙데이' 개최…28일 '낙화놀이' 선보여",
    "query": "축제 버스 우회"
@@ -1275,13 +1200,13 @@
    "query": "축제 버스 우회"
   },
   {
-   "url": "https://www.segye.com/newsView/20261123513308?OutUrl=naver",
-   "title": "“달구벌이 들썩인다”…삼성 라이온즈, 29일 20년 만의 도심 카퍼레이...",
+   "url": "https://www.idaegu.com/news/articleView.html?idxno=667215",
+   "title": "20년 만에 대구 도심에 삼성라이온즈 우승 카퍼레이드…'V9' 감동 다시 한...",
    "query": "축제 버스 우회"
   },
   {
-   "url": "https://www.idaegu.com/news/articleView.html?idxno=667215",
-   "title": "20년 만에 대구 도심에 삼성라이온즈 우승 카퍼레이드…'V9' 감동 다시 한...",
+   "url": "https://www.segye.com/newsView/20261123513308?OutUrl=naver",
+   "title": "“달구벌이 들썩인다”…삼성 라이온즈, 29일 20년 만의 도심 카퍼레이...",
    "query": "축제 버스 우회"
   },
   {
@@ -1402,37 +1327,70 @@
  ],
  "strikes": [
   {
-   "id": "94349f964583da9c",
-   "mode": "rail",
-   "operator": "철도노조",
-   "regions": [
-    "전국"
-   ],
-   "status": "conditional",
-   "quote": "요구사항을 받아들이지 않으면 10일 오전 9시부터 무기한 총파업에 나설 계획",
-   "start": "2026-12-10",
-   "dateQuote": "10일",
-   "articleTitle": "준법투쟁 영향 열차 운행 지연 안내문 설치된 서울역",
-   "url": "https://www.newsis.com/view/NISI20261127_0021547363",
-   "publishedAt": "2026-11-27T12:03:00.000",
-   "sourceCount": 10,
-   "model": "gemini-3.5-flash-lite"
-  },
-  {
-   "id": "a758723ea89afa78",
+   "id": "382b8833461ce381",
    "mode": "rail",
    "operator": "코레일",
    "regions": [
     "전국"
    ],
    "status": "conditional",
-   "quote": "요구가 받아들여지지 않으면 12월 10일 오전 9시부터 무기한 총파업에 들어가겠다고 예고했다",
+   "quote": "요구가 수용되지 않으면 다음 달 10일부터는 무기한 총파업에 나선다는 계획입니다",
    "start": "2026-12-10",
-   "dateQuote": "12월 10일 오전 9시",
-   "articleTitle": "지하철 1호선 등 일정 지연",
-   "url": "https://www.bntnews.co.kr/article/view/bnt202611270196",
-   "publishedAt": "2026-11-27T10:52:00.000",
-   "sourceCount": 6,
+   "dateQuote": "다음 달 10일",
+   "articleTitle": "철도노조 준법투쟁으로 광역전철 445대 지연",
+   "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8724799&ref=A",
+   "publishedAt": "2026-11-27T21:37:00.000",
+   "sourceCount": 16,
+   "model": "gemini-3.1-flash-lite"
+  },
+  {
+   "id": "48bc8ebfe9b1fedd",
+   "mode": "rail",
+   "operator": "전국철도노동조합",
+   "regions": [
+    "전국",
+    "부산"
+   ],
+   "status": "conditional",
+   "quote": "총파업에 돌입할 방침이다.",
+   "start": "2026-12-10",
+   "dateQuote": "12월 10일",
+   "articleTitle": "철도노조 준법투쟁 이틀째…부산 출발·도착 열차 운행 순조로워",
+   "url": "https://www.news1.kr/local/busan-gyeongnam/6368641",
+   "publishedAt": "2026-11-27T16:13:00.000",
+   "sourceCount": 7,
+   "model": "gemini-3.5-flash-lite"
+  },
+  {
+   "id": "43ef0a7612d37400",
+   "mode": "subway",
+   "operator": "서울교통공사",
+   "regions": [
+    "서울"
+   ],
+   "status": "withdrawn",
+   "quote": "파업이 예고됐던 지난 25일 서울교통공사 노사 간 합의가 성사되며 파업이 철회돼",
+   "articleTitle": "서울지하철 파업 막았지만…준법투쟁 철도노조, 연말 교통대란 우려 확...",
+   "url": "https://www.asiatoday.co.kr/kn/view.php?key=20261127010010843",
+   "publishedAt": "2026-11-27T15:42:00.000",
+   "sourceCount": 2,
+   "model": "gemini-3.1-flash-lite"
+  },
+  {
+   "id": "812441bcadda69c6",
+   "mode": "rail",
+   "operator": "철도노조",
+   "regions": [
+    "전국"
+   ],
+   "status": "conditional",
+   "quote": "요구가 받아들여지지 않으면 다음 달 10일 오전 9시부터 무기한 총파업에 들어가겠다고 예고했다",
+   "start": "2026-12-10",
+   "dateQuote": "다음 달 10일",
+   "articleTitle": "철도노조 안전운행 투쟁 첫날, 대전역 퇴근길 열차 지연… 무궁화호 1시...",
+   "url": "https://www.jbnews.com/news/articleView.html?idxno=1517044",
+   "publishedAt": "2026-11-27T09:42:00.000",
+   "sourceCount": 4,
    "model": "gemini-3.5-flash-lite"
   },
   {
@@ -1463,45 +1421,11 @@
    "status": "conditional",
    "quote": "노사가 접점을 찾지 못하면 내달 10일로 예고된 총파업으로",
    "start": "2026-12-10",
-   "dateQuote": "내달 10일",
+   "dateQuote": "12월 10일",
    "articleTitle": "철도 준법투쟁 첫날부터 운행 차질…총파업 우려 커져",
    "url": "https://www.daejonilbo.com/news/articleView.html?idxno=2316661",
    "publishedAt": "2026-11-26T16:55:00.000",
-   "sourceCount": 1,
-   "model": "gemini-3.5-flash-lite"
-  },
-  {
-   "id": "2dd05f6cec877612",
-   "mode": "rail",
-   "operator": "전국철도노동조합",
-   "regions": [
-    "전국"
-   ],
-   "status": "scheduled",
-   "quote": "다음 달 총파업을 예고한 가운데",
-   "start": "2026-12-10",
-   "dateQuote": "12월 10일",
-   "articleTitle": "철도노조 총파업 앞두고 준법투쟁…동대구역 등 열차 운행 지연",
-   "url": "https://www.imaeil.com/page/view/2026112609220143278",
-   "publishedAt": "2026-11-26T16:36:00.000",
-   "sourceCount": 7,
-   "model": "gemini-3.5-flash-lite"
-  },
-  {
-   "id": "3cc50b63e2a223f1",
-   "mode": "subway",
-   "operator": "서울교통공사",
-   "regions": [
-    "서울"
-   ],
-   "status": "withdrawn",
-   "quote": "예정됐던 서울지하철 파업을 피했다",
-   "start": "2026-11-25",
-   "dateQuote": "25일",
-   "articleTitle": "철도노조 준법투쟁 돌입에 수도권 전철 운행 차질...최대 25분 지연",
-   "url": "https://www.abcn.kr/news/articleView.html?idxno=95071",
-   "publishedAt": "2026-11-26T11:00:00.000",
-   "sourceCount": 6,
+   "sourceCount": 2,
    "model": "gemini-3.5-flash-lite"
   },
   {
@@ -1516,7 +1440,7 @@
    "articleTitle": "서울지하철 파업 피했지만, 인력 부족은 '미해결'",
    "url": "https://www.labortoday.co.kr/news/articleView.html?idxno=237940",
    "publishedAt": "2026-11-26T06:34:00.000",
-   "sourceCount": 2,
+   "sourceCount": 1,
    "model": "gemini-3.5-flash-lite"
   }
  ],
@@ -20630,12 +20554,328 @@
    "updated_at": "2026-11-26T18:23:40+09:00",
    "version": 1,
    "body_verified": true
+  },
+  {
+   "assertion": "planned",
+   "checked_at": "2026-11-28T03:54:50.239165+09:00",
+   "conflict": false,
+   "demo": false,
+   "disruption_confirmed": false,
+   "event_id": "f7a1ac1bf95277251d3efd51",
+   "event_name": "파업 사건",
+   "evidence": [
+    {
+     "derivation": "explicit",
+     "effective_at": null,
+     "field_path": "/article_relevance",
+     "quote": "김도훈 기자 = 27일 서울 여의도 국회의사당 인근을 지나는 버스에서 한 시민이 전국교육공무직본부 총파업대회를 지켜보고 있다.",
+     "reference_source": null,
+     "source_id": "496916b7816936f5d2bce6a1",
+     "source_part": "body",
+     "source_revision": "73e94a31baac9e4d4b28ec2d"
+    },
+    {
+     "derivation": "explicit",
+     "effective_at": null,
+     "field_path": "/transport_mode",
+     "quote": "김도훈 기자 = 27일 서울 여의도 국회의사당 인근을 지나는 버스에서 한 시민이 전국교육공무직본부 총파업대회를 지켜보고 있다.",
+     "reference_source": null,
+     "source_id": "496916b7816936f5d2bce6a1",
+     "source_part": "body",
+     "source_revision": "73e94a31baac9e4d4b28ec2d"
+    },
+    {
+     "derivation": "explicit",
+     "effective_at": null,
+     "field_path": "/affected_regions",
+     "quote": "김도훈 기자 = 27일 서울 여의도 국회의사당 인근을 지나는 버스에서 한 시민이 전국교육공무직본부 총파업대회를 지켜보고 있다.",
+     "reference_source": null,
+     "source_id": "496916b7816936f5d2bce6a1",
+     "source_part": "body",
+     "source_revision": "73e94a31baac9e4d4b28ec2d"
+    },
+    {
+     "derivation": "explicit",
+     "effective_at": null,
+     "field_path": "/affected_routes",
+     "quote": "김도훈 기자 = 27일 서울 여의도 국회의사당 인근을 지나는 버스에서 한 시민이 전국교육공무직본부 총파업대회를 지켜보고 있다.",
+     "reference_source": null,
+     "source_id": "496916b7816936f5d2bce6a1",
+     "source_part": "body",
+     "source_revision": "73e94a31baac9e4d4b28ec2d"
+    },
+    {
+     "derivation": "explicit",
+     "effective_at": null,
+     "field_path": "/strike_status",
+     "quote": "김도훈 기자 = 27일 서울 여의도 국회의사당 인근을 지나는 버스에서 한 시민이 전국교육공무직본부 총파업대회를 지켜보고 있다.",
+     "reference_source": null,
+     "source_id": "496916b7816936f5d2bce6a1",
+     "source_part": "body",
+     "source_revision": "73e94a31baac9e4d4b28ec2d"
+    },
+    {
+     "derivation": "explicit",
+     "effective_at": null,
+     "field_path": "/service_status",
+     "quote": "김도훈 기자 = 27일 서울 여의도 국회의사당 인근을 지나는 버스에서 한 시민이 전국교육공무직본부 총파업대회를 지켜보고 있다.",
+     "reference_source": null,
+     "source_id": "496916b7816936f5d2bce6a1",
+     "source_part": "body",
+     "source_revision": "73e94a31baac9e4d4b28ec2d"
+    },
+    {
+     "derivation": "explicit",
+     "effective_at": null,
+     "field_path": "/normal_service_exceptions",
+     "quote": "김도훈 기자 = 27일 서울 여의도 국회의사당 인근을 지나는 버스에서 한 시민이 전국교육공무직본부 총파업대회를 지켜보고 있다.",
+     "reference_source": null,
+     "source_id": "496916b7816936f5d2bce6a1",
+     "source_part": "body",
+     "source_revision": "73e94a31baac9e4d4b28ec2d"
+    },
+    {
+     "derivation": "explicit",
+     "effective_at": null,
+     "field_path": "/alternative_services",
+     "quote": "김도훈 기자 = 27일 서울 여의도 국회의사당 인근을 지나는 버스에서 한 시민이 전국교육공무직본부 총파업대회를 지켜보고 있다.",
+     "reference_source": null,
+     "source_id": "496916b7816936f5d2bce6a1",
+     "source_part": "body",
+     "source_revision": "73e94a31baac9e4d4b28ec2d"
+    },
+    {
+     "derivation": "explicit",
+     "effective_at": null,
+     "field_path": "/start",
+     "quote": "김도훈 기자 = 27일 서울 여의도 국회의사당 인근을 지나는 버스에서 한 시민이 전국교육공무직본부 총파업대회를 지켜보고 있다.",
+     "reference_source": null,
+     "source_id": "496916b7816936f5d2bce6a1",
+     "source_part": "body",
+     "source_revision": "73e94a31baac9e4d4b28ec2d"
+    },
+    {
+     "derivation": "explicit",
+     "effective_at": null,
+     "field_path": "/end",
+     "quote": "김도훈 기자 = 27일 서울 여의도 국회의사당 인근을 지나는 버스에서 한 시민이 전국교육공무직본부 총파업대회를 지켜보고 있다.",
+     "reference_source": null,
+     "source_id": "496916b7816936f5d2bce6a1",
+     "source_part": "body",
+     "source_revision": "73e94a31baac9e4d4b28ec2d"
+    }
+   ],
+   "exceptions": [],
+   "id": "1ca3af0bbd6c2b8d757153c2",
+   "modes": [
+    "bus"
+   ],
+   "period": {
+    "condition": null,
+    "end": {
+     "assertion": "unknown",
+     "basis": "unknown",
+     "date": null,
+     "open_ended": null,
+     "raw": null,
+     "time": null,
+     "timezone": "Asia/Seoul"
+    },
+    "precision": "PARTIAL",
+    "start": {
+     "assertion": "unknown",
+     "basis": "unknown",
+     "date": null,
+     "open_ended": null,
+     "raw": null,
+     "time": null,
+     "timezone": "Asia/Seoul"
+    }
+   },
+   "published_at": "2026-11-27T15:35:10+09:00",
+   "review_reasons": [
+    "UNSUPPORTED_OR_AMBIGUOUS_STATUS",
+    "DATE_UNCONFIRMED"
+   ],
+   "scope": [
+    {
+     "derivation": "article_explicit",
+     "normalized_name": "서울",
+     "raw": "서울",
+     "reference_id": null,
+     "reference_source": null,
+     "region": "서울"
+    }
+   ],
+   "service_status": [],
+   "source_url": "https://www.yna.co.kr/view/PYH20261127119000013?input=1196m",
+   "status": "UNKNOWN",
+   "status_effective_at": null,
+   "strike_status": "unknown",
+   "type": "STRIKE",
+   "updated_at": "2026-11-27T15:35:10+09:00",
+   "version": 1,
+   "body_verified": true
   }
  ],
  "extractions": [
   {
    "strikes": [
     {
+     "article_relevance": "related",
+     "transport_mode": "bus",
+     "affected_regions": [
+      {
+       "raw": "서울",
+       "normalized_name": "서울",
+       "region": "서울",
+       "reference_id": null,
+       "derivation": "article_explicit",
+       "reference_source": null
+      }
+     ],
+     "affected_routes": [],
+     "start": {
+      "raw": null,
+      "date": null,
+      "time": null,
+      "timezone": "Asia/Seoul",
+      "basis": "unknown",
+      "assertion": "unknown",
+      "open_ended": null
+     },
+     "end": {
+      "raw": null,
+      "date": null,
+      "time": null,
+      "timezone": "Asia/Seoul",
+      "basis": "unknown",
+      "assertion": "unknown",
+      "open_ended": null
+     },
+     "strike_status": {
+      "value": "unknown",
+      "conditions": [],
+      "scope_raw": "김도훈 기자 = 27일 서울 여의도 국회의사당 인근을 지나는 버스에서 한 시민이 전국교육공무직본부 총파업대회를 지켜보고 있다.",
+      "effective_at": null
+     },
+     "service_status": [],
+     "normal_service_exceptions": [],
+     "alternative_services": [],
+     "evidence_and_timestamps": {
+      "source_url": "https://www.yna.co.kr/view/PYH20261127119000013?input=1196m",
+      "published_at": "2026-11-27T15:35:10+09:00",
+      "updated_at": "2026-11-27T15:35:10+09:00",
+      "collected_at": "2026-11-28T03:54:50.239165+09:00",
+      "field_evidence": [
+       {
+        "field_path": "/article_relevance",
+        "quote": "김도훈 기자 = 27일 서울 여의도 국회의사당 인근을 지나는 버스에서 한 시민이 전국교육공무직본부 총파업대회를 지켜보고 있다.",
+        "source_part": "body",
+        "effective_at": null,
+        "derivation": "explicit",
+        "source_id": "496916b7816936f5d2bce6a1",
+        "source_revision": "73e94a31baac9e4d4b28ec2d",
+        "reference_source": null
+       },
+       {
+        "field_path": "/transport_mode",
+        "quote": "김도훈 기자 = 27일 서울 여의도 국회의사당 인근을 지나는 버스에서 한 시민이 전국교육공무직본부 총파업대회를 지켜보고 있다.",
+        "source_part": "body",
+        "effective_at": null,
+        "derivation": "explicit",
+        "source_id": "496916b7816936f5d2bce6a1",
+        "source_revision": "73e94a31baac9e4d4b28ec2d",
+        "reference_source": null
+       },
+       {
+        "field_path": "/affected_regions",
+        "quote": "김도훈 기자 = 27일 서울 여의도 국회의사당 인근을 지나는 버스에서 한 시민이 전국교육공무직본부 총파업대회를 지켜보고 있다.",
+        "source_part": "body",
+        "effective_at": null,
+        "derivation": "explicit",
+        "source_id": "496916b7816936f5d2bce6a1",
+        "source_revision": "73e94a31baac9e4d4b28ec2d",
+        "reference_source": null
+       },
+       {
+        "field_path": "/affected_routes",
+        "quote": "김도훈 기자 = 27일 서울 여의도 국회의사당 인근을 지나는 버스에서 한 시민이 전국교육공무직본부 총파업대회를 지켜보고 있다.",
+        "source_part": "body",
+        "effective_at": null,
+        "derivation": "explicit",
+        "source_id": "496916b7816936f5d2bce6a1",
+        "source_revision": "73e94a31baac9e4d4b28ec2d",
+        "reference_source": null
+       },
+       {
+        "field_path": "/strike_status",
+        "quote": "김도훈 기자 = 27일 서울 여의도 국회의사당 인근을 지나는 버스에서 한 시민이 전국교육공무직본부 총파업대회를 지켜보고 있다.",
+        "source_part": "body",
+        "effective_at": null,
+        "derivation": "explicit",
+        "source_id": "496916b7816936f5d2bce6a1",
+        "source_revision": "73e94a31baac9e4d4b28ec2d",
+        "reference_source": null
+       },
+       {
+        "field_path": "/service_status",
+        "quote": "김도훈 기자 = 27일 서울 여의도 국회의사당 인근을 지나는 버스에서 한 시민이 전국교육공무직본부 총파업대회를 지켜보고 있다.",
+        "source_part": "body",
+        "effective_at": null,
+        "derivation": "explicit",
+        "source_id": "496916b7816936f5d2bce6a1",
+        "source_revision": "73e94a31baac9e4d4b28ec2d",
+        "reference_source": null
+       },
+       {
+        "field_path": "/normal_service_exceptions",
+        "quote": "김도훈 기자 = 27일 서울 여의도 국회의사당 인근을 지나는 버스에서 한 시민이 전국교육공무직본부 총파업대회를 지켜보고 있다.",
+        "source_part": "body",
+        "effective_at": null,
+        "derivation": "explicit",
+        "source_id": "496916b7816936f5d2bce6a1",
+        "source_revision": "73e94a31baac9e4d4b28ec2d",
+        "reference_source": null
+       },
+       {
+        "field_path": "/alternative_services",
+        "quote": "김도훈 기자 = 27일 서울 여의도 국회의사당 인근을 지나는 버스에서 한 시민이 전국교육공무직본부 총파업대회를 지켜보고 있다.",
+        "source_part": "body",
+        "effective_at": null,
+        "derivation": "explicit",
+        "source_id": "496916b7816936f5d2bce6a1",
+        "source_revision": "73e94a31baac9e4d4b28ec2d",
+        "reference_source": null
+       },
+       {
+        "field_path": "/start",
+        "quote": "김도훈 기자 = 27일 서울 여의도 국회의사당 인근을 지나는 버스에서 한 시민이 전국교육공무직본부 총파업대회를 지켜보고 있다.",
+        "source_part": "body",
+        "effective_at": null,
+        "derivation": "explicit",
+        "source_id": "496916b7816936f5d2bce6a1",
+        "source_revision": "73e94a31baac9e4d4b28ec2d",
+        "reference_source": null
+       },
+       {
+        "field_path": "/end",
+        "quote": "김도훈 기자 = 27일 서울 여의도 국회의사당 인근을 지나는 버스에서 한 시민이 전국교육공무직본부 총파업대회를 지켜보고 있다.",
+        "source_part": "body",
+        "effective_at": null,
+        "derivation": "explicit",
+        "source_id": "496916b7816936f5d2bce6a1",
+        "source_revision": "73e94a31baac9e4d4b28ec2d",
+        "reference_source": null
+       }
+      ],
+      "review_reasons": [
+       "UNSUPPORTED_OR_AMBIGUOUS_STATUS",
+       "DATE_UNCONFIRMED"
+      ]
+     }
+    },
+    {
      "article_relevance": "unrelated",
      "transport_mode": "unknown",
      "affected_regions": [],
@@ -20668,109 +20908,109 @@
      "normal_service_exceptions": [],
      "alternative_services": [],
      "evidence_and_timestamps": {
-      "source_url": "https://www.khan.co.kr/article/202611271321001",
-      "published_at": "2026-11-27T13:21:00+09:00",
-      "updated_at": null,
-      "collected_at": "2026-11-27T15:24:05.466092+09:00",
+      "source_url": "https://www.yna.co.kr/view/PYH20261127119000013?input=1196m",
+      "published_at": "2026-11-27T15:35:10+09:00",
+      "updated_at": "2026-11-27T15:35:10+09:00",
+      "collected_at": "2026-11-28T03:54:50.239165+09:00",
       "field_evidence": [
        {
         "field_path": "/article_relevance",
-        "quote": "자문단은 “버스가 가로변 정류장과 중앙차로를 엇갈리게 운행해 사고와 정체가 발생하고 있다”면서 “서광로의 통행량을 감안한 교통사고 발생률이 120.9% 증가한 데다 버스 파업 때 전세버스를 대체 투입하더라도 섬식정류장을 이용할 수도 없다”고 밝혔다.",
+        "quote": "전국교육공무직본부와 전국여성노동조합, 전국학교비정규직노동조합으로 구성된 전국학교비정규직연대회의(연대회의)는 저임금구조 철폐, 정규직과 임금차별 철폐 등을 촉구하며 이날 하루 총파업에 나섰다.",
         "source_part": "body",
         "effective_at": null,
         "derivation": "explicit",
-        "source_id": "022977e60413354ad787289b",
-        "source_revision": "e9544d1a46493485ec55ee75",
+        "source_id": "496916b7816936f5d2bce6a1",
+        "source_revision": "73e94a31baac9e4d4b28ec2d",
         "reference_source": null
        },
        {
         "field_path": "/transport_mode",
-        "quote": "자문단은 “버스가 가로변 정류장과 중앙차로를 엇갈리게 운행해 사고와 정체가 발생하고 있다”면서 “서광로의 통행량을 감안한 교통사고 발생률이 120.9% 증가한 데다 버스 파업 때 전세버스를 대체 투입하더라도 섬식정류장을 이용할 수도 없다”고 밝혔다.",
+        "quote": "전국교육공무직본부와 전국여성노동조합, 전국학교비정규직노동조합으로 구성된 전국학교비정규직연대회의(연대회의)는 저임금구조 철폐, 정규직과 임금차별 철폐 등을 촉구하며 이날 하루 총파업에 나섰다.",
         "source_part": "body",
         "effective_at": null,
         "derivation": "explicit",
-        "source_id": "022977e60413354ad787289b",
-        "source_revision": "e9544d1a46493485ec55ee75",
+        "source_id": "496916b7816936f5d2bce6a1",
+        "source_revision": "73e94a31baac9e4d4b28ec2d",
         "reference_source": null
        },
        {
         "field_path": "/affected_regions",
-        "quote": "자문단은 “버스가 가로변 정류장과 중앙차로를 엇갈리게 운행해 사고와 정체가 발생하고 있다”면서 “서광로의 통행량을 감안한 교통사고 발생률이 120.9% 증가한 데다 버스 파업 때 전세버스를 대체 투입하더라도 섬식정류장을 이용할 수도 없다”고 밝혔다.",
+        "quote": "전국교육공무직본부와 전국여성노동조합, 전국학교비정규직노동조합으로 구성된 전국학교비정규직연대회의(연대회의)는 저임금구조 철폐, 정규직과 임금차별 철폐 등을 촉구하며 이날 하루 총파업에 나섰다.",
         "source_part": "body",
         "effective_at": null,
         "derivation": "explicit",
-        "source_id": "022977e60413354ad787289b",
-        "source_revision": "e9544d1a46493485ec55ee75",
+        "source_id": "496916b7816936f5d2bce6a1",
+        "source_revision": "73e94a31baac9e4d4b28ec2d",
         "reference_source": null
        },
        {
         "field_path": "/affected_routes",
-        "quote": "자문단은 “버스가 가로변 정류장과 중앙차로를 엇갈리게 운행해 사고와 정체가 발생하고 있다”면서 “서광로의 통행량을 감안한 교통사고 발생률이 120.9% 증가한 데다 버스 파업 때 전세버스를 대체 투입하더라도 섬식정류장을 이용할 수도 없다”고 밝혔다.",
+        "quote": "전국교육공무직본부와 전국여성노동조합, 전국학교비정규직노동조합으로 구성된 전국학교비정규직연대회의(연대회의)는 저임금구조 철폐, 정규직과 임금차별 철폐 등을 촉구하며 이날 하루 총파업에 나섰다.",
         "source_part": "body",
         "effective_at": null,
         "derivation": "explicit",
-        "source_id": "022977e60413354ad787289b",
-        "source_revision": "e9544d1a46493485ec55ee75",
+        "source_id": "496916b7816936f5d2bce6a1",
+        "source_revision": "73e94a31baac9e4d4b28ec2d",
         "reference_source": null
        },
        {
         "field_path": "/strike_status",
-        "quote": "자문단은 “버스가 가로변 정류장과 중앙차로를 엇갈리게 운행해 사고와 정체가 발생하고 있다”면서 “서광로의 통행량을 감안한 교통사고 발생률이 120.9% 증가한 데다 버스 파업 때 전세버스를 대체 투입하더라도 섬식정류장을 이용할 수도 없다”고 밝혔다.",
+        "quote": "전국교육공무직본부와 전국여성노동조합, 전국학교비정규직노동조합으로 구성된 전국학교비정규직연대회의(연대회의)는 저임금구조 철폐, 정규직과 임금차별 철폐 등을 촉구하며 이날 하루 총파업에 나섰다.",
         "source_part": "body",
         "effective_at": null,
         "derivation": "explicit",
-        "source_id": "022977e60413354ad787289b",
-        "source_revision": "e9544d1a46493485ec55ee75",
+        "source_id": "496916b7816936f5d2bce6a1",
+        "source_revision": "73e94a31baac9e4d4b28ec2d",
         "reference_source": null
        },
        {
         "field_path": "/service_status",
-        "quote": "자문단은 “버스가 가로변 정류장과 중앙차로를 엇갈리게 운행해 사고와 정체가 발생하고 있다”면서 “서광로의 통행량을 감안한 교통사고 발생률이 120.9% 증가한 데다 버스 파업 때 전세버스를 대체 투입하더라도 섬식정류장을 이용할 수도 없다”고 밝혔다.",
+        "quote": "전국교육공무직본부와 전국여성노동조합, 전국학교비정규직노동조합으로 구성된 전국학교비정규직연대회의(연대회의)는 저임금구조 철폐, 정규직과 임금차별 철폐 등을 촉구하며 이날 하루 총파업에 나섰다.",
         "source_part": "body",
         "effective_at": null,
         "derivation": "explicit",
-        "source_id": "022977e60413354ad787289b",
-        "source_revision": "e9544d1a46493485ec55ee75",
+        "source_id": "496916b7816936f5d2bce6a1",
+        "source_revision": "73e94a31baac9e4d4b28ec2d",
         "reference_source": null
        },
        {
         "field_path": "/normal_service_exceptions",
-        "quote": "자문단은 “버스가 가로변 정류장과 중앙차로를 엇갈리게 운행해 사고와 정체가 발생하고 있다”면서 “서광로의 통행량을 감안한 교통사고 발생률이 120.9% 증가한 데다 버스 파업 때 전세버스를 대체 투입하더라도 섬식정류장을 이용할 수도 없다”고 밝혔다.",
+        "quote": "전국교육공무직본부와 전국여성노동조합, 전국학교비정규직노동조합으로 구성된 전국학교비정규직연대회의(연대회의)는 저임금구조 철폐, 정규직과 임금차별 철폐 등을 촉구하며 이날 하루 총파업에 나섰다.",
         "source_part": "body",
         "effective_at": null,
         "derivation": "explicit",
-        "source_id": "022977e60413354ad787289b",
-        "source_revision": "e9544d1a46493485ec55ee75",
+        "source_id": "496916b7816936f5d2bce6a1",
+        "source_revision": "73e94a31baac9e4d4b28ec2d",
         "reference_source": null
        },
        {
         "field_path": "/alternative_services",
-        "quote": "자문단은 “버스가 가로변 정류장과 중앙차로를 엇갈리게 운행해 사고와 정체가 발생하고 있다”면서 “서광로의 통행량을 감안한 교통사고 발생률이 120.9% 증가한 데다 버스 파업 때 전세버스를 대체 투입하더라도 섬식정류장을 이용할 수도 없다”고 밝혔다.",
+        "quote": "전국교육공무직본부와 전국여성노동조합, 전국학교비정규직노동조합으로 구성된 전국학교비정규직연대회의(연대회의)는 저임금구조 철폐, 정규직과 임금차별 철폐 등을 촉구하며 이날 하루 총파업에 나섰다.",
         "source_part": "body",
         "effective_at": null,
         "derivation": "explicit",
-        "source_id": "022977e60413354ad787289b",
-        "source_revision": "e9544d1a46493485ec55ee75",
+        "source_id": "496916b7816936f5d2bce6a1",
+        "source_revision": "73e94a31baac9e4d4b28ec2d",
         "reference_source": null
        },
        {
         "field_path": "/start",
-        "quote": "자문단은 “버스가 가로변 정류장과 중앙차로를 엇갈리게 운행해 사고와 정체가 발생하고 있다”면서 “서광로의 통행량을 감안한 교통사고 발생률이 120.9% 증가한 데다 버스 파업 때 전세버스를 대체 투입하더라도 섬식정류장을 이용할 수도 없다”고 밝혔다.",
+        "quote": "전국교육공무직본부와 전국여성노동조합, 전국학교비정규직노동조합으로 구성된 전국학교비정규직연대회의(연대회의)는 저임금구조 철폐, 정규직과 임금차별 철폐 등을 촉구하며 이날 하루 총파업에 나섰다.",
         "source_part": "body",
         "effective_at": null,
         "derivation": "explicit",
-        "source_id": "022977e60413354ad787289b",
-        "source_revision": "e9544d1a46493485ec55ee75",
+        "source_id": "496916b7816936f5d2bce6a1",
+        "source_revision": "73e94a31baac9e4d4b28ec2d",
         "reference_source": null
        },
        {
         "field_path": "/end",
-        "quote": "자문단은 “버스가 가로변 정류장과 중앙차로를 엇갈리게 운행해 사고와 정체가 발생하고 있다”면서 “서광로의 통행량을 감안한 교통사고 발생률이 120.9% 증가한 데다 버스 파업 때 전세버스를 대체 투입하더라도 섬식정류장을 이용할 수도 없다”고 밝혔다.",
+        "quote": "전국교육공무직본부와 전국여성노동조합, 전국학교비정규직노동조합으로 구성된 전국학교비정규직연대회의(연대회의)는 저임금구조 철폐, 정규직과 임금차별 철폐 등을 촉구하며 이날 하루 총파업에 나섰다.",
         "source_part": "body",
         "effective_at": null,
         "derivation": "explicit",
-        "source_id": "022977e60413354ad787289b",
-        "source_revision": "e9544d1a46493485ec55ee75",
+        "source_id": "496916b7816936f5d2bce6a1",
+        "source_revision": "73e94a31baac9e4d4b28ec2d",
         "reference_source": null
        }
       ],
@@ -20783,12 +21023,12 @@
     "article_relevance": "unrelated",
     "processing_status": "success",
     "source": {
-     "source_id": "022977e60413354ad787289b",
-     "source_url": "https://www.khan.co.kr/article/202611271321001",
-     "source_revision": "e9544d1a46493485ec55ee75",
-     "published_at": "2026-11-27T13:21:00+09:00",
-     "updated_at": null,
-     "collected_at": "2026-11-27T15:24:05.466092+09:00"
+     "source_id": "496916b7816936f5d2bce6a1",
+     "source_url": "https://www.yna.co.kr/view/PYH20261127119000013?input=1196m",
+     "source_revision": "73e94a31baac9e4d4b28ec2d",
+     "published_at": "2026-11-27T15:35:10+09:00",
+     "updated_at": "2026-11-27T15:35:10+09:00",
+     "collected_at": "2026-11-28T03:54:50.239165+09:00"
     },
     "events": [],
     "review_reasons": []
@@ -20822,7 +21062,7 @@
      "strike_status": {
       "value": "unknown",
       "conditions": [
-       "철도노조는 요구가 받아들여지지 않으면 내달 10일부터 무기한 총파업에 나설 예정이다."
+       "요구가 받아들여지지 않으면 내달 10일부터는 무기한 총파업에 나설 예정이다."
       ],
       "scope_raw": null,
       "effective_at": null
@@ -20831,109 +21071,109 @@
      "normal_service_exceptions": [],
      "alternative_services": [],
      "evidence_and_timestamps": {
-      "source_url": "https://www.yna.co.kr/view/AKR20261127042200063?input=1195m",
-      "published_at": "2026-11-27T09:49:29+09:00",
-      "updated_at": "2026-11-27T10:06:09+09:00",
-      "collected_at": "2026-11-27T15:24:09.258838+09:00",
+      "source_url": "https://www.yna.co.kr/view/AKR20261127162600004?input=1195m",
+      "published_at": "2026-11-27T19:29:52+09:00",
+      "updated_at": "2026-11-27T19:33:15+09:00",
+      "collected_at": "2026-11-28T03:54:52.665437+09:00",
       "field_evidence": [
        {
         "field_path": "/article_relevance",
-        "quote": "철도노조는 요구가 받아들여지지 않으면 내달 10일부터 무기한 총파업에 나설 예정이다.",
+        "quote": "요구가 받아들여지지 않으면 내달 10일부터는 무기한 총파업에 나설 예정이다.",
         "source_part": "body",
         "effective_at": null,
         "derivation": "explicit",
-        "source_id": "2429289f6e7cf08a1796d613",
-        "source_revision": "ff9bd7fad77b2334974830eb",
+        "source_id": "99ad3e3538ddff4ae624c58d",
+        "source_revision": "11c223ba43ac96321d2659ad",
         "reference_source": null
        },
        {
         "field_path": "/transport_mode",
-        "quote": "철도노조는 요구가 받아들여지지 않으면 내달 10일부터 무기한 총파업에 나설 예정이다.",
+        "quote": "요구가 받아들여지지 않으면 내달 10일부터는 무기한 총파업에 나설 예정이다.",
         "source_part": "body",
         "effective_at": null,
         "derivation": "explicit",
-        "source_id": "2429289f6e7cf08a1796d613",
-        "source_revision": "ff9bd7fad77b2334974830eb",
+        "source_id": "99ad3e3538ddff4ae624c58d",
+        "source_revision": "11c223ba43ac96321d2659ad",
         "reference_source": null
        },
        {
         "field_path": "/affected_regions",
-        "quote": "철도노조는 요구가 받아들여지지 않으면 내달 10일부터 무기한 총파업에 나설 예정이다.",
+        "quote": "요구가 받아들여지지 않으면 내달 10일부터는 무기한 총파업에 나설 예정이다.",
         "source_part": "body",
         "effective_at": null,
         "derivation": "explicit",
-        "source_id": "2429289f6e7cf08a1796d613",
-        "source_revision": "ff9bd7fad77b2334974830eb",
+        "source_id": "99ad3e3538ddff4ae624c58d",
+        "source_revision": "11c223ba43ac96321d2659ad",
         "reference_source": null
        },
        {
         "field_path": "/affected_routes",
-        "quote": "철도노조는 요구가 받아들여지지 않으면 내달 10일부터 무기한 총파업에 나설 예정이다.",
+        "quote": "요구가 받아들여지지 않으면 내달 10일부터는 무기한 총파업에 나설 예정이다.",
         "source_part": "body",
         "effective_at": null,
         "derivation": "explicit",
-        "source_id": "2429289f6e7cf08a1796d613",
-        "source_revision": "ff9bd7fad77b2334974830eb",
+        "source_id": "99ad3e3538ddff4ae624c58d",
+        "source_revision": "11c223ba43ac96321d2659ad",
         "reference_source": null
        },
        {
         "field_path": "/strike_status",
-        "quote": "철도노조는 요구가 받아들여지지 않으면 내달 10일부터 무기한 총파업에 나설 예정이다.",
+        "quote": "요구가 받아들여지지 않으면 내달 10일부터는 무기한 총파업에 나설 예정이다.",
         "source_part": "body",
         "effective_at": null,
         "derivation": "explicit",
-        "source_id": "2429289f6e7cf08a1796d613",
-        "source_revision": "ff9bd7fad77b2334974830eb",
+        "source_id": "99ad3e3538ddff4ae624c58d",
+        "source_revision": "11c223ba43ac96321d2659ad",
         "reference_source": null
        },
        {
         "field_path": "/service_status",
-        "quote": "철도노조는 요구가 받아들여지지 않으면 내달 10일부터 무기한 총파업에 나설 예정이다.",
+        "quote": "요구가 받아들여지지 않으면 내달 10일부터는 무기한 총파업에 나설 예정이다.",
         "source_part": "body",
         "effective_at": null,
         "derivation": "explicit",
-        "source_id": "2429289f6e7cf08a1796d613",
-        "source_revision": "ff9bd7fad77b2334974830eb",
+        "source_id": "99ad3e3538ddff4ae624c58d",
+        "source_revision": "11c223ba43ac96321d2659ad",
         "reference_source": null
        },
        {
         "field_path": "/normal_service_exceptions",
-        "quote": "철도노조는 요구가 받아들여지지 않으면 내달 10일부터 무기한 총파업에 나설 예정이다.",
+        "quote": "요구가 받아들여지지 않으면 내달 10일부터는 무기한 총파업에 나설 예정이다.",
         "source_part": "body",
         "effective_at": null,
         "derivation": "explicit",
-        "source_id": "2429289f6e7cf08a1796d613",
-        "source_revision": "ff9bd7fad77b2334974830eb",
+        "source_id": "99ad3e3538ddff4ae624c58d",
+        "source_revision": "11c223ba43ac96321d2659ad",
         "reference_source": null
        },
        {
         "field_path": "/alternative_services",
-        "quote": "철도노조는 요구가 받아들여지지 않으면 내달 10일부터 무기한 총파업에 나설 예정이다.",
+        "quote": "요구가 받아들여지지 않으면 내달 10일부터는 무기한 총파업에 나설 예정이다.",
         "source_part": "body",
         "effective_at": null,
         "derivation": "explicit",
-        "source_id": "2429289f6e7cf08a1796d613",
-        "source_revision": "ff9bd7fad77b2334974830eb",
+        "source_id": "99ad3e3538ddff4ae624c58d",
+        "source_revision": "11c223ba43ac96321d2659ad",
         "reference_source": null
        },
        {
         "field_path": "/start",
-        "quote": "철도노조는 요구가 받아들여지지 않으면 내달 10일부터 무기한 총파업에 나설 예정이다.",
+        "quote": "요구가 받아들여지지 않으면 내달 10일부터는 무기한 총파업에 나설 예정이다.",
         "source_part": "body",
         "effective_at": null,
         "derivation": "explicit",
-        "source_id": "2429289f6e7cf08a1796d613",
-        "source_revision": "ff9bd7fad77b2334974830eb",
+        "source_id": "99ad3e3538ddff4ae624c58d",
+        "source_revision": "11c223ba43ac96321d2659ad",
         "reference_source": null
        },
        {
         "field_path": "/end",
-        "quote": "철도노조는 요구가 받아들여지지 않으면 내달 10일부터 무기한 총파업에 나설 예정이다.",
+        "quote": "요구가 받아들여지지 않으면 내달 10일부터는 무기한 총파업에 나설 예정이다.",
         "source_part": "body",
         "effective_at": null,
         "derivation": "explicit",
-        "source_id": "2429289f6e7cf08a1796d613",
-        "source_revision": "ff9bd7fad77b2334974830eb",
+        "source_id": "99ad3e3538ddff4ae624c58d",
+        "source_revision": "11c223ba43ac96321d2659ad",
         "reference_source": null
        }
       ],
@@ -20946,12 +21186,12 @@
     "article_relevance": "unrelated",
     "processing_status": "success",
     "source": {
-     "source_id": "2429289f6e7cf08a1796d613",
-     "source_url": "https://www.yna.co.kr/view/AKR20261127042200063?input=1195m",
-     "source_revision": "ff9bd7fad77b2334974830eb",
-     "published_at": "2026-11-27T09:49:29+09:00",
-     "updated_at": "2026-11-27T10:06:09+09:00",
-     "collected_at": "2026-11-27T15:24:09.258838+09:00"
+     "source_id": "99ad3e3538ddff4ae624c58d",
+     "source_url": "https://www.yna.co.kr/view/AKR20261127162600004?input=1195m",
+     "source_revision": "11c223ba43ac96321d2659ad",
+     "published_at": "2026-11-27T19:29:52+09:00",
+     "updated_at": "2026-11-27T19:33:15+09:00",
+     "collected_at": "2026-11-28T03:54:52.665437+09:00"
     },
     "events": [],
     "review_reasons": []
@@ -20985,7 +21225,7 @@
      "strike_status": {
       "value": "unknown",
       "conditions": [
-       "안전운행 투쟁이 다음 달 4일까지 예정된 가운데 철도노조는 요구사항이 수용되지 않을 경우 다음 달 10일부터 무기한 총파업에 돌입할 방침이다."
+       "철도노조는 노사 교섭이 타결되지 않으면 다음달 10일 총파업에 돌입할 계획이다."
       ],
       "scope_raw": null,
       "effective_at": null
@@ -20994,109 +21234,109 @@
      "normal_service_exceptions": [],
      "alternative_services": [],
      "evidence_and_timestamps": {
-      "source_url": "https://www.hankyung.com/article/202611274537i",
-      "published_at": "2026-11-27T12:33:02+09:00",
+      "source_url": "https://www.khan.co.kr/article/202611271914001",
+      "published_at": "2026-11-27T19:14:00+09:00",
       "updated_at": null,
-      "collected_at": "2026-11-27T15:24:11.419740+09:00",
+      "collected_at": "2026-11-28T03:54:56.632772+09:00",
       "field_evidence": [
        {
         "field_path": "/article_relevance",
-        "quote": "안전운행 투쟁이 다음 달 4일까지 예정된 가운데 철도노조는 요구사항이 수용되지 않을 경우 다음 달 10일부터 무기한 총파업에 돌입할 방침이다.",
+        "quote": "철도노조는 노사 교섭이 타결되지 않으면 다음달 10일 총파업에 돌입할 계획이다.",
         "source_part": "body",
         "effective_at": null,
         "derivation": "explicit",
-        "source_id": "630f1b37d6effab474ca1299",
-        "source_revision": "569a6d7d80d998edfcb48f04",
+        "source_id": "4daa2f17abea8e3d53301bcb",
+        "source_revision": "3e323be8159ebbf23168a5c0",
         "reference_source": null
        },
        {
         "field_path": "/transport_mode",
-        "quote": "안전운행 투쟁이 다음 달 4일까지 예정된 가운데 철도노조는 요구사항이 수용되지 않을 경우 다음 달 10일부터 무기한 총파업에 돌입할 방침이다.",
+        "quote": "철도노조는 노사 교섭이 타결되지 않으면 다음달 10일 총파업에 돌입할 계획이다.",
         "source_part": "body",
         "effective_at": null,
         "derivation": "explicit",
-        "source_id": "630f1b37d6effab474ca1299",
-        "source_revision": "569a6d7d80d998edfcb48f04",
+        "source_id": "4daa2f17abea8e3d53301bcb",
+        "source_revision": "3e323be8159ebbf23168a5c0",
         "reference_source": null
        },
        {
         "field_path": "/affected_regions",
-        "quote": "안전운행 투쟁이 다음 달 4일까지 예정된 가운데 철도노조는 요구사항이 수용되지 않을 경우 다음 달 10일부터 무기한 총파업에 돌입할 방침이다.",
+        "quote": "철도노조는 노사 교섭이 타결되지 않으면 다음달 10일 총파업에 돌입할 계획이다.",
         "source_part": "body",
         "effective_at": null,
         "derivation": "explicit",
-        "source_id": "630f1b37d6effab474ca1299",
-        "source_revision": "569a6d7d80d998edfcb48f04",
+        "source_id": "4daa2f17abea8e3d53301bcb",
+        "source_revision": "3e323be8159ebbf23168a5c0",
         "reference_source": null
        },
        {
         "field_path": "/affected_routes",
-        "quote": "안전운행 투쟁이 다음 달 4일까지 예정된 가운데 철도노조는 요구사항이 수용되지 않을 경우 다음 달 10일부터 무기한 총파업에 돌입할 방침이다.",
+        "quote": "철도노조는 노사 교섭이 타결되지 않으면 다음달 10일 총파업에 돌입할 계획이다.",
         "source_part": "body",
         "effective_at": null,
         "derivation": "explicit",
-        "source_id": "630f1b37d6effab474ca1299",
-        "source_revision": "569a6d7d80d998edfcb48f04",
+        "source_id": "4daa2f17abea8e3d53301bcb",
+        "source_revision": "3e323be8159ebbf23168a5c0",
         "reference_source": null
        },
        {
         "field_path": "/strike_status",
-        "quote": "안전운행 투쟁이 다음 달 4일까지 예정된 가운데 철도노조는 요구사항이 수용되지 않을 경우 다음 달 10일부터 무기한 총파업에 돌입할 방침이다.",
+        "quote": "철도노조는 노사 교섭이 타결되지 않으면 다음달 10일 총파업에 돌입할 계획이다.",
         "source_part": "body",
         "effective_at": null,
         "derivation": "explicit",
-        "source_id": "630f1b37d6effab474ca1299",
-        "source_revision": "569a6d7d80d998edfcb48f04",
+        "source_id": "4daa2f17abea8e3d53301bcb",
+        "source_revision": "3e323be8159ebbf23168a5c0",
         "reference_source": null
        },
        {
         "field_path": "/service_status",
-        "quote": "안전운행 투쟁이 다음 달 4일까지 예정된 가운데 철도노조는 요구사항이 수용되지 않을 경우 다음 달 10일부터 무기한 총파업에 돌입할 방침이다.",
+        "quote": "철도노조는 노사 교섭이 타결되지 않으면 다음달 10일 총파업에 돌입할 계획이다.",
         "source_part": "body",
         "effective_at": null,
         "derivation": "explicit",
-        "source_id": "630f1b37d6effab474ca1299",
-        "source_revision": "569a6d7d80d998edfcb48f04",
+        "source_id": "4daa2f17abea8e3d53301bcb",
+        "source_revision": "3e323be8159ebbf23168a5c0",
         "reference_source": null
        },
        {
         "field_path": "/normal_service_exceptions",
-        "quote": "안전운행 투쟁이 다음 달 4일까지 예정된 가운데 철도노조는 요구사항이 수용되지 않을 경우 다음 달 10일부터 무기한 총파업에 돌입할 방침이다.",
+        "quote": "철도노조는 노사 교섭이 타결되지 않으면 다음달 10일 총파업에 돌입할 계획이다.",
         "source_part": "body",
         "effective_at": null,
         "derivation": "explicit",
-        "source_id": "630f1b37d6effab474ca1299",
-        "source_revision": "569a6d7d80d998edfcb48f04",
+        "source_id": "4daa2f17abea8e3d53301bcb",
+        "source_revision": "3e323be8159ebbf23168a5c0",
         "reference_source": null
        },
        {
         "field_path": "/alternative_services",
-        "quote": "안전운행 투쟁이 다음 달 4일까지 예정된 가운데 철도노조는 요구사항이 수용되지 않을 경우 다음 달 10일부터 무기한 총파업에 돌입할 방침이다.",
+        "quote": "철도노조는 노사 교섭이 타결되지 않으면 다음달 10일 총파업에 돌입할 계획이다.",
         "source_part": "body",
         "effective_at": null,
         "derivation": "explicit",
-        "source_id": "630f1b37d6effab474ca1299",
-        "source_revision": "569a6d7d80d998edfcb48f04",
+        "source_id": "4daa2f17abea8e3d53301bcb",
+        "source_revision": "3e323be8159ebbf23168a5c0",
         "reference_source": null
        },
        {
         "field_path": "/start",
-        "quote": "안전운행 투쟁이 다음 달 4일까지 예정된 가운데 철도노조는 요구사항이 수용되지 않을 경우 다음 달 10일부터 무기한 총파업에 돌입할 방침이다.",
+        "quote": "철도노조는 노사 교섭이 타결되지 않으면 다음달 10일 총파업에 돌입할 계획이다.",
         "source_part": "body",
         "effective_at": null,
         "derivation": "explicit",
-        "source_id": "630f1b37d6effab474ca1299",
-        "source_revision": "569a6d7d80d998edfcb48f04",
+        "source_id": "4daa2f17abea8e3d53301bcb",
+        "source_revision": "3e323be8159ebbf23168a5c0",
         "reference_source": null
        },
        {
         "field_path": "/end",
-        "quote": "안전운행 투쟁이 다음 달 4일까지 예정된 가운데 철도노조는 요구사항이 수용되지 않을 경우 다음 달 10일부터 무기한 총파업에 돌입할 방침이다.",
+        "quote": "철도노조는 노사 교섭이 타결되지 않으면 다음달 10일 총파업에 돌입할 계획이다.",
         "source_part": "body",
         "effective_at": null,
         "derivation": "explicit",
-        "source_id": "630f1b37d6effab474ca1299",
-        "source_revision": "569a6d7d80d998edfcb48f04",
+        "source_id": "4daa2f17abea8e3d53301bcb",
+        "source_revision": "3e323be8159ebbf23168a5c0",
         "reference_source": null
        }
       ],
@@ -21109,12 +21349,12 @@
     "article_relevance": "unrelated",
     "processing_status": "success",
     "source": {
-     "source_id": "630f1b37d6effab474ca1299",
-     "source_url": "https://www.hankyung.com/article/202611274537i",
-     "source_revision": "569a6d7d80d998edfcb48f04",
-     "published_at": "2026-11-27T12:33:02+09:00",
+     "source_id": "4daa2f17abea8e3d53301bcb",
+     "source_url": "https://www.khan.co.kr/article/202611271914001",
+     "source_revision": "3e323be8159ebbf23168a5c0",
+     "published_at": "2026-11-27T19:14:00+09:00",
      "updated_at": null,
-     "collected_at": "2026-11-27T15:24:11.419740+09:00"
+     "collected_at": "2026-11-28T03:54:56.632772+09:00"
     },
     "events": [],
     "review_reasons": []
@@ -21158,7 +21398,7 @@
       "source_url": "https://www.seoul.co.kr/news/society/2026/11/26/20261126500342?wlog_tag3=naver",
       "published_at": "2026-11-26T20:57:35+09:00",
       "updated_at": "2026-11-26T20:57:35+09:00",
-      "collected_at": "2026-11-27T15:24:15.325508+09:00",
+      "collected_at": "2026-11-28T03:55:01.155669+09:00",
       "field_evidence": [
        {
         "field_path": "/article_relevance",
@@ -21300,7 +21540,7 @@
       "source_url": "https://www.seoul.co.kr/news/society/2026/11/26/20261126500342?wlog_tag3=naver",
       "published_at": "2026-11-26T20:57:35+09:00",
       "updated_at": "2026-11-26T20:57:35+09:00",
-      "collected_at": "2026-11-27T15:24:15.325508+09:00",
+      "collected_at": "2026-11-28T03:55:01.155669+09:00",
       "field_evidence": [
        {
         "field_path": "/article_relevance",
@@ -21417,7 +21657,7 @@
      "source_revision": "6d95509a948d4a3ab6dae082",
      "published_at": "2026-11-26T20:57:35+09:00",
      "updated_at": "2026-11-26T20:57:35+09:00",
-     "collected_at": "2026-11-27T15:24:15.325508+09:00"
+     "collected_at": "2026-11-28T03:55:01.155669+09:00"
     },
     "events": [],
     "review_reasons": []
@@ -21463,7 +21703,7 @@
       "source_url": "https://www.hankyung.com/article/2026112500296",
       "published_at": "2026-11-26T06:30:02+09:00",
       "updated_at": null,
-      "collected_at": "2026-11-27T15:24:15.450268+09:00",
+      "collected_at": "2026-11-28T03:55:03.822308+09:00",
       "field_evidence": [
        {
         "field_path": "/article_relevance",
@@ -21580,7 +21820,7 @@
      "source_revision": "cea61335cc59b0fc95c3cb16",
      "published_at": "2026-11-26T06:30:02+09:00",
      "updated_at": null,
-     "collected_at": "2026-11-27T15:24:15.450268+09:00"
+     "collected_at": "2026-11-28T03:55:03.822308+09:00"
     },
     "events": [],
     "review_reasons": []
@@ -21624,7 +21864,7 @@
       "source_url": "https://www.newsis.com/view/NISX20261126_0003885344",
       "published_at": "2026-11-27T10:03:47+09:00",
       "updated_at": null,
-      "collected_at": "2026-11-27T15:24:18.090615+09:00",
+      "collected_at": "2026-11-28T03:55:06.603082+09:00",
       "field_evidence": [
        {
         "field_path": "/article_relevance",
@@ -21741,7 +21981,7 @@
      "source_revision": "a0fc11fac5214b50223eb675",
      "published_at": "2026-11-27T10:03:47+09:00",
      "updated_at": null,
-     "collected_at": "2026-11-27T15:24:18.090615+09:00"
+     "collected_at": "2026-11-28T03:55:06.603082+09:00"
     },
     "events": [],
     "review_reasons": []
@@ -21785,7 +22025,7 @@
       "source_url": "https://www.seoul.co.kr/news/society/2026/11/25/20261125500215?wlog_tag3=naver",
       "published_at": "2026-11-25T15:48:27+09:00",
       "updated_at": "2026-11-25T15:48:27+09:00",
-      "collected_at": "2026-11-27T15:24:19.867481+09:00",
+      "collected_at": "2026-11-28T03:55:08.323662+09:00",
       "field_evidence": [
        {
         "field_path": "/article_relevance",
@@ -21902,7 +22142,7 @@
      "source_revision": "1f1cad3c054fcf3d2d5157ed",
      "published_at": "2026-11-25T15:48:27+09:00",
      "updated_at": "2026-11-25T15:48:27+09:00",
-     "collected_at": "2026-11-27T15:24:19.867481+09:00"
+     "collected_at": "2026-11-28T03:55:08.323662+09:00"
     },
     "events": [],
     "review_reasons": []
@@ -21943,109 +22183,109 @@
      "normal_service_exceptions": [],
      "alternative_services": [],
      "evidence_and_timestamps": {
-      "source_url": "https://www.newsis.com/view/NISX20261127_0003886115",
-      "published_at": "2026-11-27T13:04:01+09:00",
+      "source_url": "https://www.khan.co.kr/article/202611271321001",
+      "published_at": "2026-11-27T13:21:00+09:00",
       "updated_at": null,
-      "collected_at": "2026-11-27T15:24:20.453512+09:00",
+      "collected_at": "2026-11-28T03:55:09.815734+09:00",
       "field_evidence": [
        {
         "field_path": "/article_relevance",
-        "quote": "[제주=뉴시스] 우장호 기자 = 30일 오후 제주시 광양사거리 서측 탐라장애인복지관 '섬식 정류장'에서 제주형 중앙버스전용차로(BRT) 고급화사업 체험용 정류장 오프닝 행사가 열리고 있다. 제주도는 2025년 5월부터 국내 최초로 양문형 버스를 운행한다. 도는 앞으로 3년간 총 658억원을 투입해 총 171대의 버스를 양문형으로 교체할 계획이다. 2024.10.30. [email protected]",
+        "quote": "자문단은 “버스가 가로변 정류장과 중앙차로를 엇갈리게 운행해 사고와 정체가 발생하고 있다”면서 “서광로 통행량을 감안한 교통사고 발생률이 120.9% 증가한 데다 버스 파업 때 전세버스를 대체 투입하더라도 섬식정류장을 이용할 수 없다”고 밝혔다.",
         "source_part": "body",
         "effective_at": null,
         "derivation": "explicit",
-        "source_id": "0f43ef6a5514cfff19472fc5",
-        "source_revision": "024181a7b913e424f60e4e09",
+        "source_id": "022977e60413354ad787289b",
+        "source_revision": "a0df51fbe8cd17b031a9384d",
         "reference_source": null
        },
        {
         "field_path": "/transport_mode",
-        "quote": "[제주=뉴시스] 우장호 기자 = 30일 오후 제주시 광양사거리 서측 탐라장애인복지관 '섬식 정류장'에서 제주형 중앙버스전용차로(BRT) 고급화사업 체험용 정류장 오프닝 행사가 열리고 있다. 제주도는 2025년 5월부터 국내 최초로 양문형 버스를 운행한다. 도는 앞으로 3년간 총 658억원을 투입해 총 171대의 버스를 양문형으로 교체할 계획이다. 2024.10.30. [email protected]",
+        "quote": "자문단은 “버스가 가로변 정류장과 중앙차로를 엇갈리게 운행해 사고와 정체가 발생하고 있다”면서 “서광로 통행량을 감안한 교통사고 발생률이 120.9% 증가한 데다 버스 파업 때 전세버스를 대체 투입하더라도 섬식정류장을 이용할 수 없다”고 밝혔다.",
         "source_part": "body",
         "effective_at": null,
         "derivation": "explicit",
-        "source_id": "0f43ef6a5514cfff19472fc5",
-        "source_revision": "024181a7b913e424f60e4e09",
+        "source_id": "022977e60413354ad787289b",
+        "source_revision": "a0df51fbe8cd17b031a9384d",
         "reference_source": null
        },
        {
         "field_path": "/affected_regions",
-        "quote": "[제주=뉴시스] 우장호 기자 = 30일 오후 제주시 광양사거리 서측 탐라장애인복지관 '섬식 정류장'에서 제주형 중앙버스전용차로(BRT) 고급화사업 체험용 정류장 오프닝 행사가 열리고 있다. 제주도는 2025년 5월부터 국내 최초로 양문형 버스를 운행한다. 도는 앞으로 3년간 총 658억원을 투입해 총 171대의 버스를 양문형으로 교체할 계획이다. 2024.10.30. [email protected]",
+        "quote": "자문단은 “버스가 가로변 정류장과 중앙차로를 엇갈리게 운행해 사고와 정체가 발생하고 있다”면서 “서광로 통행량을 감안한 교통사고 발생률이 120.9% 증가한 데다 버스 파업 때 전세버스를 대체 투입하더라도 섬식정류장을 이용할 수 없다”고 밝혔다.",
         "source_part": "body",
         "effective_at": null,
         "derivation": "explicit",
-        "source_id": "0f43ef6a5514cfff19472fc5",
-        "source_revision": "024181a7b913e424f60e4e09",
+        "source_id": "022977e60413354ad787289b",
+        "source_revision": "a0df51fbe8cd17b031a9384d",
         "reference_source": null
        },
        {
         "field_path": "/affected_routes",
-        "quote": "[제주=뉴시스] 우장호 기자 = 30일 오후 제주시 광양사거리 서측 탐라장애인복지관 '섬식 정류장'에서 제주형 중앙버스전용차로(BRT) 고급화사업 체험용 정류장 오프닝 행사가 열리고 있다. 제주도는 2025년 5월부터 국내 최초로 양문형 버스를 운행한다. 도는 앞으로 3년간 총 658억원을 투입해 총 171대의 버스를 양문형으로 교체할 계획이다. 2024.10.30. [email protected]",
+        "quote": "자문단은 “버스가 가로변 정류장과 중앙차로를 엇갈리게 운행해 사고와 정체가 발생하고 있다”면서 “서광로 통행량을 감안한 교통사고 발생률이 120.9% 증가한 데다 버스 파업 때 전세버스를 대체 투입하더라도 섬식정류장을 이용할 수 없다”고 밝혔다.",
         "source_part": "body",
         "effective_at": null,
         "derivation": "explicit",
-        "source_id": "0f43ef6a5514cfff19472fc5",
-        "source_revision": "024181a7b913e424f60e4e09",
+        "source_id": "022977e60413354ad787289b",
+        "source_revision": "a0df51fbe8cd17b031a9384d",
         "reference_source": null
        },
        {
         "field_path": "/strike_status",
-        "quote": "[제주=뉴시스] 우장호 기자 = 30일 오후 제주시 광양사거리 서측 탐라장애인복지관 '섬식 정류장'에서 제주형 중앙버스전용차로(BRT) 고급화사업 체험용 정류장 오프닝 행사가 열리고 있다. 제주도는 2025년 5월부터 국내 최초로 양문형 버스를 운행한다. 도는 앞으로 3년간 총 658억원을 투입해 총 171대의 버스를 양문형으로 교체할 계획이다. 2024.10.30. [email protected]",
+        "quote": "자문단은 “버스가 가로변 정류장과 중앙차로를 엇갈리게 운행해 사고와 정체가 발생하고 있다”면서 “서광로 통행량을 감안한 교통사고 발생률이 120.9% 증가한 데다 버스 파업 때 전세버스를 대체 투입하더라도 섬식정류장을 이용할 수 없다”고 밝혔다.",
         "source_part": "body",
         "effective_at": null,
         "derivation": "explicit",
-        "source_id": "0f43ef6a5514cfff19472fc5",
-        "source_revision": "024181a7b913e424f60e4e09",
+        "source_id": "022977e60413354ad787289b",
+        "source_revision": "a0df51fbe8cd17b031a9384d",
         "reference_source": null
        },
        {
         "field_path": "/service_status",
-        "quote": "[제주=뉴시스] 우장호 기자 = 30일 오후 제주시 광양사거리 서측 탐라장애인복지관 '섬식 정류장'에서 제주형 중앙버스전용차로(BRT) 고급화사업 체험용 정류장 오프닝 행사가 열리고 있다. 제주도는 2025년 5월부터 국내 최초로 양문형 버스를 운행한다. 도는 앞으로 3년간 총 658억원을 투입해 총 171대의 버스를 양문형으로 교체할 계획이다. 2024.10.30. [email protected]",
+        "quote": "자문단은 “버스가 가로변 정류장과 중앙차로를 엇갈리게 운행해 사고와 정체가 발생하고 있다”면서 “서광로 통행량을 감안한 교통사고 발생률이 120.9% 증가한 데다 버스 파업 때 전세버스를 대체 투입하더라도 섬식정류장을 이용할 수 없다”고 밝혔다.",
         "source_part": "body",
         "effective_at": null,
         "derivation": "explicit",
-        "source_id": "0f43ef6a5514cfff19472fc5",
-        "source_revision": "024181a7b913e424f60e4e09",
+        "source_id": "022977e60413354ad787289b",
+        "source_revision": "a0df51fbe8cd17b031a9384d",
         "reference_source": null
        },
        {
         "field_path": "/normal_service_exceptions",
-        "quote": "[제주=뉴시스] 우장호 기자 = 30일 오후 제주시 광양사거리 서측 탐라장애인복지관 '섬식 정류장'에서 제주형 중앙버스전용차로(BRT) 고급화사업 체험용 정류장 오프닝 행사가 열리고 있다. 제주도는 2025년 5월부터 국내 최초로 양문형 버스를 운행한다. 도는 앞으로 3년간 총 658억원을 투입해 총 171대의 버스를 양문형으로 교체할 계획이다. 2024.10.30. [email protected]",
+        "quote": "자문단은 “버스가 가로변 정류장과 중앙차로를 엇갈리게 운행해 사고와 정체가 발생하고 있다”면서 “서광로 통행량을 감안한 교통사고 발생률이 120.9% 증가한 데다 버스 파업 때 전세버스를 대체 투입하더라도 섬식정류장을 이용할 수 없다”고 밝혔다.",
         "source_part": "body",
         "effective_at": null,
         "derivation": "explicit",
-        "source_id": "0f43ef6a5514cfff19472fc5",
-        "source_revision": "024181a7b913e424f60e4e09",
+        "source_id": "022977e60413354ad787289b",
+        "source_revision": "a0df51fbe8cd17b031a9384d",
         "reference_source": null
        },
        {
         "field_path": "/alternative_services",
-        "quote": "[제주=뉴시스] 우장호 기자 = 30일 오후 제주시 광양사거리 서측 탐라장애인복지관 '섬식 정류장'에서 제주형 중앙버스전용차로(BRT) 고급화사업 체험용 정류장 오프닝 행사가 열리고 있다. 제주도는 2025년 5월부터 국내 최초로 양문형 버스를 운행한다. 도는 앞으로 3년간 총 658억원을 투입해 총 171대의 버스를 양문형으로 교체할 계획이다. 2024.10.30. [email protected]",
+        "quote": "자문단은 “버스가 가로변 정류장과 중앙차로를 엇갈리게 운행해 사고와 정체가 발생하고 있다”면서 “서광로 통행량을 감안한 교통사고 발생률이 120.9% 증가한 데다 버스 파업 때 전세버스를 대체 투입하더라도 섬식정류장을 이용할 수 없다”고 밝혔다.",
         "source_part": "body",
         "effective_at": null,
         "derivation": "explicit",
-        "source_id": "0f43ef6a5514cfff19472fc5",
-        "source_revision": "024181a7b913e424f60e4e09",
+        "source_id": "022977e60413354ad787289b",
+        "source_revision": "a0df51fbe8cd17b031a9384d",
         "reference_source": null
        },
        {
         "field_path": "/start",
-        "quote": "[제주=뉴시스] 우장호 기자 = 30일 오후 제주시 광양사거리 서측 탐라장애인복지관 '섬식 정류장'에서 제주형 중앙버스전용차로(BRT) 고급화사업 체험용 정류장 오프닝 행사가 열리고 있다. 제주도는 2025년 5월부터 국내 최초로 양문형 버스를 운행한다. 도는 앞으로 3년간 총 658억원을 투입해 총 171대의 버스를 양문형으로 교체할 계획이다. 2024.10.30. [email protected]",
+        "quote": "자문단은 “버스가 가로변 정류장과 중앙차로를 엇갈리게 운행해 사고와 정체가 발생하고 있다”면서 “서광로 통행량을 감안한 교통사고 발생률이 120.9% 증가한 데다 버스 파업 때 전세버스를 대체 투입하더라도 섬식정류장을 이용할 수 없다”고 밝혔다.",
         "source_part": "body",
         "effective_at": null,
         "derivation": "explicit",
-        "source_id": "0f43ef6a5514cfff19472fc5",
-        "source_revision": "024181a7b913e424f60e4e09",
+        "source_id": "022977e60413354ad787289b",
+        "source_revision": "a0df51fbe8cd17b031a9384d",
         "reference_source": null
        },
        {
         "field_path": "/end",
-        "quote": "[제주=뉴시스] 우장호 기자 = 30일 오후 제주시 광양사거리 서측 탐라장애인복지관 '섬식 정류장'에서 제주형 중앙버스전용차로(BRT) 고급화사업 체험용 정류장 오프닝 행사가 열리고 있다. 제주도는 2025년 5월부터 국내 최초로 양문형 버스를 운행한다. 도는 앞으로 3년간 총 658억원을 투입해 총 171대의 버스를 양문형으로 교체할 계획이다. 2024.10.30. [email protected]",
+        "quote": "자문단은 “버스가 가로변 정류장과 중앙차로를 엇갈리게 운행해 사고와 정체가 발생하고 있다”면서 “서광로 통행량을 감안한 교통사고 발생률이 120.9% 증가한 데다 버스 파업 때 전세버스를 대체 투입하더라도 섬식정류장을 이용할 수 없다”고 밝혔다.",
         "source_part": "body",
         "effective_at": null,
         "derivation": "explicit",
-        "source_id": "0f43ef6a5514cfff19472fc5",
-        "source_revision": "024181a7b913e424f60e4e09",
+        "source_id": "022977e60413354ad787289b",
+        "source_revision": "a0df51fbe8cd17b031a9384d",
         "reference_source": null
        }
       ],
@@ -22058,315 +22298,12 @@
     "article_relevance": "unrelated",
     "processing_status": "success",
     "source": {
-     "source_id": "0f43ef6a5514cfff19472fc5",
-     "source_url": "https://www.newsis.com/view/NISX20261127_0003886115",
-     "source_revision": "024181a7b913e424f60e4e09",
-     "published_at": "2026-11-27T13:04:01+09:00",
+     "source_id": "022977e60413354ad787289b",
+     "source_url": "https://www.khan.co.kr/article/202611271321001",
+     "source_revision": "a0df51fbe8cd17b031a9384d",
+     "published_at": "2026-11-27T13:21:00+09:00",
      "updated_at": null,
-     "collected_at": "2026-11-27T15:24:20.453512+09:00"
-    },
-    "events": [],
-    "review_reasons": []
-   }
-  },
-  {
-   "strikes": [
-    {
-     "article_relevance": "related",
-     "transport_mode": "unknown",
-     "affected_regions": [],
-     "affected_routes": [
-      {
-       "raw": "서울역",
-       "normalized_name": "서울역",
-       "region": null,
-       "reference_id": null,
-       "derivation": "article_explicit",
-       "reference_source": null
-      }
-     ],
-     "start": {
-      "raw": "오전 9시",
-      "date": null,
-      "time": "09:00",
-      "timezone": "Asia/Seoul",
-      "basis": "explicit",
-      "assertion": "planned",
-      "open_ended": null
-     },
-     "end": {
-      "raw": "무기한",
-      "date": null,
-      "time": null,
-      "timezone": "Asia/Seoul",
-      "basis": "unknown",
-      "assertion": "unknown",
-      "open_ended": true
-     },
-     "strike_status": {
-      "value": "unknown",
-      "conditions": [
-       "노조는 지난 11일 서울역 앞 기자회견에서 요구가 받아들여지지 않으면 12월 10일 오전 9시부터 무기한 총파업에 들어가겠다고 밝혔다."
-      ],
-      "scope_raw": "노조는 지난 11일 서울역 앞 기자회견에서 요구가 받아들여지지 않으면 12월 10일 오전 9시부터 무기한 총파업에 들어가겠다고 밝혔다. 실제 총파업으로 번지면 통합 전처럼 SR이 대체 수송 일부를 맡을 여지가 없어 운행 차질이 더 커질 수 있다는 지적이 나온다.",
-      "effective_at": null
-     },
-     "service_status": [],
-     "normal_service_exceptions": [],
-     "alternative_services": [
-      {
-       "raw": "실제 총파업으로 번지면 통합 전처럼 SR이 대체 수송 일부를 맡을 여지가 없어 운행 차질이 더 커질 수 있다는 지적이 나온다.",
-       "mode": "unknown",
-       "routes": [],
-       "period": {
-        "start": {
-         "raw": null,
-         "date": null,
-         "time": null,
-         "timezone": "Asia/Seoul",
-         "basis": "unknown",
-         "assertion": "unknown",
-         "open_ended": null
-        },
-        "end": {
-         "raw": null,
-         "date": null,
-         "time": null,
-         "timezone": "Asia/Seoul",
-         "basis": "unknown",
-         "assertion": "unknown",
-         "open_ended": null
-        },
-        "precision": "UNKNOWN",
-        "condition": null
-       }
-      }
-     ],
-     "evidence_and_timestamps": {
-      "source_url": "https://www.fnnews.com/news/202611261809231394",
-      "published_at": "2026-11-26T18:10:15+09:00",
-      "updated_at": "2026-11-26T18:23:40+09:00",
-      "collected_at": "2026-11-27T15:24:23.155130+09:00",
-      "field_evidence": [
-       {
-        "field_path": "/article_relevance",
-        "quote": "노조는 지난 11일 서울역 앞 기자회견에서 요구가 받아들여지지 않으면 12월 10일 오전 9시부터 무기한 총파업에 들어가겠다고 밝혔다.",
-        "source_part": "body",
-        "effective_at": null,
-        "derivation": "explicit",
-        "source_id": "815d4e5989fd4dc3fd6cb76c",
-        "source_revision": "8818e09a7af63ed1b33f7b24",
-        "reference_source": null
-       },
-       {
-        "field_path": "/article_relevance",
-        "quote": "실제 총파업으로 번지면 통합 전처럼 SR이 대체 수송 일부를 맡을 여지가 없어 운행 차질이 더 커질 수 있다는 지적이 나온다.",
-        "source_part": "body",
-        "effective_at": null,
-        "derivation": "explicit",
-        "source_id": "815d4e5989fd4dc3fd6cb76c",
-        "source_revision": "8818e09a7af63ed1b33f7b24",
-        "reference_source": null
-       },
-       {
-        "field_path": "/transport_mode",
-        "quote": "노조는 지난 11일 서울역 앞 기자회견에서 요구가 받아들여지지 않으면 12월 10일 오전 9시부터 무기한 총파업에 들어가겠다고 밝혔다.",
-        "source_part": "body",
-        "effective_at": null,
-        "derivation": "explicit",
-        "source_id": "815d4e5989fd4dc3fd6cb76c",
-        "source_revision": "8818e09a7af63ed1b33f7b24",
-        "reference_source": null
-       },
-       {
-        "field_path": "/transport_mode",
-        "quote": "실제 총파업으로 번지면 통합 전처럼 SR이 대체 수송 일부를 맡을 여지가 없어 운행 차질이 더 커질 수 있다는 지적이 나온다.",
-        "source_part": "body",
-        "effective_at": null,
-        "derivation": "explicit",
-        "source_id": "815d4e5989fd4dc3fd6cb76c",
-        "source_revision": "8818e09a7af63ed1b33f7b24",
-        "reference_source": null
-       },
-       {
-        "field_path": "/affected_regions",
-        "quote": "노조는 지난 11일 서울역 앞 기자회견에서 요구가 받아들여지지 않으면 12월 10일 오전 9시부터 무기한 총파업에 들어가겠다고 밝혔다.",
-        "source_part": "body",
-        "effective_at": null,
-        "derivation": "explicit",
-        "source_id": "815d4e5989fd4dc3fd6cb76c",
-        "source_revision": "8818e09a7af63ed1b33f7b24",
-        "reference_source": null
-       },
-       {
-        "field_path": "/affected_regions",
-        "quote": "실제 총파업으로 번지면 통합 전처럼 SR이 대체 수송 일부를 맡을 여지가 없어 운행 차질이 더 커질 수 있다는 지적이 나온다.",
-        "source_part": "body",
-        "effective_at": null,
-        "derivation": "explicit",
-        "source_id": "815d4e5989fd4dc3fd6cb76c",
-        "source_revision": "8818e09a7af63ed1b33f7b24",
-        "reference_source": null
-       },
-       {
-        "field_path": "/affected_routes",
-        "quote": "노조는 지난 11일 서울역 앞 기자회견에서 요구가 받아들여지지 않으면 12월 10일 오전 9시부터 무기한 총파업에 들어가겠다고 밝혔다.",
-        "source_part": "body",
-        "effective_at": null,
-        "derivation": "explicit",
-        "source_id": "815d4e5989fd4dc3fd6cb76c",
-        "source_revision": "8818e09a7af63ed1b33f7b24",
-        "reference_source": null
-       },
-       {
-        "field_path": "/affected_routes",
-        "quote": "실제 총파업으로 번지면 통합 전처럼 SR이 대체 수송 일부를 맡을 여지가 없어 운행 차질이 더 커질 수 있다는 지적이 나온다.",
-        "source_part": "body",
-        "effective_at": null,
-        "derivation": "explicit",
-        "source_id": "815d4e5989fd4dc3fd6cb76c",
-        "source_revision": "8818e09a7af63ed1b33f7b24",
-        "reference_source": null
-       },
-       {
-        "field_path": "/strike_status",
-        "quote": "노조는 지난 11일 서울역 앞 기자회견에서 요구가 받아들여지지 않으면 12월 10일 오전 9시부터 무기한 총파업에 들어가겠다고 밝혔다.",
-        "source_part": "body",
-        "effective_at": null,
-        "derivation": "explicit",
-        "source_id": "815d4e5989fd4dc3fd6cb76c",
-        "source_revision": "8818e09a7af63ed1b33f7b24",
-        "reference_source": null
-       },
-       {
-        "field_path": "/strike_status",
-        "quote": "실제 총파업으로 번지면 통합 전처럼 SR이 대체 수송 일부를 맡을 여지가 없어 운행 차질이 더 커질 수 있다는 지적이 나온다.",
-        "source_part": "body",
-        "effective_at": null,
-        "derivation": "explicit",
-        "source_id": "815d4e5989fd4dc3fd6cb76c",
-        "source_revision": "8818e09a7af63ed1b33f7b24",
-        "reference_source": null
-       },
-       {
-        "field_path": "/service_status",
-        "quote": "노조는 지난 11일 서울역 앞 기자회견에서 요구가 받아들여지지 않으면 12월 10일 오전 9시부터 무기한 총파업에 들어가겠다고 밝혔다.",
-        "source_part": "body",
-        "effective_at": null,
-        "derivation": "explicit",
-        "source_id": "815d4e5989fd4dc3fd6cb76c",
-        "source_revision": "8818e09a7af63ed1b33f7b24",
-        "reference_source": null
-       },
-       {
-        "field_path": "/service_status",
-        "quote": "실제 총파업으로 번지면 통합 전처럼 SR이 대체 수송 일부를 맡을 여지가 없어 운행 차질이 더 커질 수 있다는 지적이 나온다.",
-        "source_part": "body",
-        "effective_at": null,
-        "derivation": "explicit",
-        "source_id": "815d4e5989fd4dc3fd6cb76c",
-        "source_revision": "8818e09a7af63ed1b33f7b24",
-        "reference_source": null
-       },
-       {
-        "field_path": "/normal_service_exceptions",
-        "quote": "노조는 지난 11일 서울역 앞 기자회견에서 요구가 받아들여지지 않으면 12월 10일 오전 9시부터 무기한 총파업에 들어가겠다고 밝혔다.",
-        "source_part": "body",
-        "effective_at": null,
-        "derivation": "explicit",
-        "source_id": "815d4e5989fd4dc3fd6cb76c",
-        "source_revision": "8818e09a7af63ed1b33f7b24",
-        "reference_source": null
-       },
-       {
-        "field_path": "/normal_service_exceptions",
-        "quote": "실제 총파업으로 번지면 통합 전처럼 SR이 대체 수송 일부를 맡을 여지가 없어 운행 차질이 더 커질 수 있다는 지적이 나온다.",
-        "source_part": "body",
-        "effective_at": null,
-        "derivation": "explicit",
-        "source_id": "815d4e5989fd4dc3fd6cb76c",
-        "source_revision": "8818e09a7af63ed1b33f7b24",
-        "reference_source": null
-       },
-       {
-        "field_path": "/alternative_services",
-        "quote": "노조는 지난 11일 서울역 앞 기자회견에서 요구가 받아들여지지 않으면 12월 10일 오전 9시부터 무기한 총파업에 들어가겠다고 밝혔다.",
-        "source_part": "body",
-        "effective_at": null,
-        "derivation": "explicit",
-        "source_id": "815d4e5989fd4dc3fd6cb76c",
-        "source_revision": "8818e09a7af63ed1b33f7b24",
-        "reference_source": null
-       },
-       {
-        "field_path": "/alternative_services",
-        "quote": "실제 총파업으로 번지면 통합 전처럼 SR이 대체 수송 일부를 맡을 여지가 없어 운행 차질이 더 커질 수 있다는 지적이 나온다.",
-        "source_part": "body",
-        "effective_at": null,
-        "derivation": "explicit",
-        "source_id": "815d4e5989fd4dc3fd6cb76c",
-        "source_revision": "8818e09a7af63ed1b33f7b24",
-        "reference_source": null
-       },
-       {
-        "field_path": "/start",
-        "quote": "노조는 지난 11일 서울역 앞 기자회견에서 요구가 받아들여지지 않으면 12월 10일 오전 9시부터 무기한 총파업에 들어가겠다고 밝혔다.",
-        "source_part": "body",
-        "effective_at": null,
-        "derivation": "explicit",
-        "source_id": "815d4e5989fd4dc3fd6cb76c",
-        "source_revision": "8818e09a7af63ed1b33f7b24",
-        "reference_source": null
-       },
-       {
-        "field_path": "/start",
-        "quote": "실제 총파업으로 번지면 통합 전처럼 SR이 대체 수송 일부를 맡을 여지가 없어 운행 차질이 더 커질 수 있다는 지적이 나온다.",
-        "source_part": "body",
-        "effective_at": null,
-        "derivation": "explicit",
-        "source_id": "815d4e5989fd4dc3fd6cb76c",
-        "source_revision": "8818e09a7af63ed1b33f7b24",
-        "reference_source": null
-       },
-       {
-        "field_path": "/end",
-        "quote": "노조는 지난 11일 서울역 앞 기자회견에서 요구가 받아들여지지 않으면 12월 10일 오전 9시부터 무기한 총파업에 들어가겠다고 밝혔다.",
-        "source_part": "body",
-        "effective_at": null,
-        "derivation": "explicit",
-        "source_id": "815d4e5989fd4dc3fd6cb76c",
-        "source_revision": "8818e09a7af63ed1b33f7b24",
-        "reference_source": null
-       },
-       {
-        "field_path": "/end",
-        "quote": "실제 총파업으로 번지면 통합 전처럼 SR이 대체 수송 일부를 맡을 여지가 없어 운행 차질이 더 커질 수 있다는 지적이 나온다.",
-        "source_part": "body",
-        "effective_at": null,
-        "derivation": "explicit",
-        "source_id": "815d4e5989fd4dc3fd6cb76c",
-        "source_revision": "8818e09a7af63ed1b33f7b24",
-        "reference_source": null
-       }
-      ],
-      "review_reasons": [
-       "UNSUPPORTED_OR_AMBIGUOUS_STATUS",
-       "DATE_UNCONFIRMED"
-      ]
-     }
-    }
-   ],
-   "events": {
-    "schema_version": "1.0",
-    "article_relevance": "unrelated",
-    "processing_status": "success",
-    "source": {
-     "source_id": "815d4e5989fd4dc3fd6cb76c",
-     "source_url": "https://www.fnnews.com/news/202611261809231394",
-     "source_revision": "8818e09a7af63ed1b33f7b24",
-     "published_at": "2026-11-26T18:10:15+09:00",
-     "updated_at": "2026-11-26T18:23:40+09:00",
-     "collected_at": "2026-11-27T15:24:23.155130+09:00"
+     "collected_at": "2026-11-28T03:55:09.815734+09:00"
     },
     "events": [],
     "review_reasons": []
@@ -22400,7 +22337,7 @@
      "strike_status": {
       "value": "unknown",
       "conditions": [
-       "철도노조는 인력 충원, 승진제도 개선 등을 요구하며 다음달 4일까지 준법투쟁을 이어간 뒤 요구사항을 받아들이지 않으면 10일 오전 9시부터 무기한 총파업에 나설 계획이다."
+       "철도노조는 내달 4일까지 안전 운행 투쟁을 진행하고 요구가 받아들여지지 않으면 12월 10일 무기한 ‘총파업’에 나설 예정이다."
       ],
       "scope_raw": null,
       "effective_at": null
@@ -22409,109 +22346,209 @@
      "normal_service_exceptions": [],
      "alternative_services": [],
      "evidence_and_timestamps": {
-      "source_url": "https://www.newsis.com/view/NISI20261127_0021547370",
-      "published_at": "2026-11-27T12:03:02+09:00",
-      "updated_at": null,
-      "collected_at": "2026-11-27T15:24:23.869373+09:00",
+      "source_url": "https://www.seoul.co.kr/news/society/2026/11/27/20261127500320?wlog_tag3=naver",
+      "published_at": "2026-11-27T18:49:18+09:00",
+      "updated_at": "2026-11-27T18:49:18+09:00",
+      "collected_at": "2026-11-28T03:55:11.830273+09:00",
       "field_evidence": [
        {
         "field_path": "/article_relevance",
-        "quote": "철도노조는 인력 충원, 승진제도 개선 등을 요구하며 다음달 4일까지 준법투쟁을 이어간 뒤 요구사항을 받아들이지 않으면 10일 오전 9시부터 무기한 총파업에 나설 계획이다.",
+        "quote": "철도노조는 내달 4일까지 안전 운행 투쟁을 진행하고 요구가 받아들여지지 않으면 12월 10일 무기한 ‘총파업’에 나설 예정이다.",
         "source_part": "body",
         "effective_at": null,
         "derivation": "explicit",
-        "source_id": "2f53e3e8eb3c0f82c8675cc9",
-        "source_revision": "594add824019c0d1b5ab0f54",
+        "source_id": "f626ceb2b6359749e61f45ae",
+        "source_revision": "d8a4af8f5b31289709cde5e3",
+        "reference_source": null
+       },
+       {
+        "field_path": "/article_relevance",
+        "quote": "철도노조가 안전 운행 투쟁 후 총파업 돌입 예정일은?",
+        "source_part": "body",
+        "effective_at": null,
+        "derivation": "explicit",
+        "source_id": "f626ceb2b6359749e61f45ae",
+        "source_revision": "d8a4af8f5b31289709cde5e3",
         "reference_source": null
        },
        {
         "field_path": "/transport_mode",
-        "quote": "철도노조는 인력 충원, 승진제도 개선 등을 요구하며 다음달 4일까지 준법투쟁을 이어간 뒤 요구사항을 받아들이지 않으면 10일 오전 9시부터 무기한 총파업에 나설 계획이다.",
+        "quote": "철도노조는 내달 4일까지 안전 운행 투쟁을 진행하고 요구가 받아들여지지 않으면 12월 10일 무기한 ‘총파업’에 나설 예정이다.",
         "source_part": "body",
         "effective_at": null,
         "derivation": "explicit",
-        "source_id": "2f53e3e8eb3c0f82c8675cc9",
-        "source_revision": "594add824019c0d1b5ab0f54",
+        "source_id": "f626ceb2b6359749e61f45ae",
+        "source_revision": "d8a4af8f5b31289709cde5e3",
+        "reference_source": null
+       },
+       {
+        "field_path": "/transport_mode",
+        "quote": "철도노조가 안전 운행 투쟁 후 총파업 돌입 예정일은?",
+        "source_part": "body",
+        "effective_at": null,
+        "derivation": "explicit",
+        "source_id": "f626ceb2b6359749e61f45ae",
+        "source_revision": "d8a4af8f5b31289709cde5e3",
         "reference_source": null
        },
        {
         "field_path": "/affected_regions",
-        "quote": "철도노조는 인력 충원, 승진제도 개선 등을 요구하며 다음달 4일까지 준법투쟁을 이어간 뒤 요구사항을 받아들이지 않으면 10일 오전 9시부터 무기한 총파업에 나설 계획이다.",
+        "quote": "철도노조는 내달 4일까지 안전 운행 투쟁을 진행하고 요구가 받아들여지지 않으면 12월 10일 무기한 ‘총파업’에 나설 예정이다.",
         "source_part": "body",
         "effective_at": null,
         "derivation": "explicit",
-        "source_id": "2f53e3e8eb3c0f82c8675cc9",
-        "source_revision": "594add824019c0d1b5ab0f54",
+        "source_id": "f626ceb2b6359749e61f45ae",
+        "source_revision": "d8a4af8f5b31289709cde5e3",
+        "reference_source": null
+       },
+       {
+        "field_path": "/affected_regions",
+        "quote": "철도노조가 안전 운행 투쟁 후 총파업 돌입 예정일은?",
+        "source_part": "body",
+        "effective_at": null,
+        "derivation": "explicit",
+        "source_id": "f626ceb2b6359749e61f45ae",
+        "source_revision": "d8a4af8f5b31289709cde5e3",
         "reference_source": null
        },
        {
         "field_path": "/affected_routes",
-        "quote": "철도노조는 인력 충원, 승진제도 개선 등을 요구하며 다음달 4일까지 준법투쟁을 이어간 뒤 요구사항을 받아들이지 않으면 10일 오전 9시부터 무기한 총파업에 나설 계획이다.",
+        "quote": "철도노조는 내달 4일까지 안전 운행 투쟁을 진행하고 요구가 받아들여지지 않으면 12월 10일 무기한 ‘총파업’에 나설 예정이다.",
         "source_part": "body",
         "effective_at": null,
         "derivation": "explicit",
-        "source_id": "2f53e3e8eb3c0f82c8675cc9",
-        "source_revision": "594add824019c0d1b5ab0f54",
+        "source_id": "f626ceb2b6359749e61f45ae",
+        "source_revision": "d8a4af8f5b31289709cde5e3",
+        "reference_source": null
+       },
+       {
+        "field_path": "/affected_routes",
+        "quote": "철도노조가 안전 운행 투쟁 후 총파업 돌입 예정일은?",
+        "source_part": "body",
+        "effective_at": null,
+        "derivation": "explicit",
+        "source_id": "f626ceb2b6359749e61f45ae",
+        "source_revision": "d8a4af8f5b31289709cde5e3",
         "reference_source": null
        },
        {
         "field_path": "/strike_status",
-        "quote": "철도노조는 인력 충원, 승진제도 개선 등을 요구하며 다음달 4일까지 준법투쟁을 이어간 뒤 요구사항을 받아들이지 않으면 10일 오전 9시부터 무기한 총파업에 나설 계획이다.",
+        "quote": "철도노조는 내달 4일까지 안전 운행 투쟁을 진행하고 요구가 받아들여지지 않으면 12월 10일 무기한 ‘총파업’에 나설 예정이다.",
         "source_part": "body",
         "effective_at": null,
         "derivation": "explicit",
-        "source_id": "2f53e3e8eb3c0f82c8675cc9",
-        "source_revision": "594add824019c0d1b5ab0f54",
+        "source_id": "f626ceb2b6359749e61f45ae",
+        "source_revision": "d8a4af8f5b31289709cde5e3",
+        "reference_source": null
+       },
+       {
+        "field_path": "/strike_status",
+        "quote": "철도노조가 안전 운행 투쟁 후 총파업 돌입 예정일은?",
+        "source_part": "body",
+        "effective_at": null,
+        "derivation": "explicit",
+        "source_id": "f626ceb2b6359749e61f45ae",
+        "source_revision": "d8a4af8f5b31289709cde5e3",
         "reference_source": null
        },
        {
         "field_path": "/service_status",
-        "quote": "철도노조는 인력 충원, 승진제도 개선 등을 요구하며 다음달 4일까지 준법투쟁을 이어간 뒤 요구사항을 받아들이지 않으면 10일 오전 9시부터 무기한 총파업에 나설 계획이다.",
+        "quote": "철도노조는 내달 4일까지 안전 운행 투쟁을 진행하고 요구가 받아들여지지 않으면 12월 10일 무기한 ‘총파업’에 나설 예정이다.",
         "source_part": "body",
         "effective_at": null,
         "derivation": "explicit",
-        "source_id": "2f53e3e8eb3c0f82c8675cc9",
-        "source_revision": "594add824019c0d1b5ab0f54",
+        "source_id": "f626ceb2b6359749e61f45ae",
+        "source_revision": "d8a4af8f5b31289709cde5e3",
+        "reference_source": null
+       },
+       {
+        "field_path": "/service_status",
+        "quote": "철도노조가 안전 운행 투쟁 후 총파업 돌입 예정일은?",
+        "source_part": "body",
+        "effective_at": null,
+        "derivation": "explicit",
+        "source_id": "f626ceb2b6359749e61f45ae",
+        "source_revision": "d8a4af8f5b31289709cde5e3",
         "reference_source": null
        },
        {
         "field_path": "/normal_service_exceptions",
-        "quote": "철도노조는 인력 충원, 승진제도 개선 등을 요구하며 다음달 4일까지 준법투쟁을 이어간 뒤 요구사항을 받아들이지 않으면 10일 오전 9시부터 무기한 총파업에 나설 계획이다.",
+        "quote": "철도노조는 내달 4일까지 안전 운행 투쟁을 진행하고 요구가 받아들여지지 않으면 12월 10일 무기한 ‘총파업’에 나설 예정이다.",
         "source_part": "body",
         "effective_at": null,
         "derivation": "explicit",
-        "source_id": "2f53e3e8eb3c0f82c8675cc9",
-        "source_revision": "594add824019c0d1b5ab0f54",
+        "source_id": "f626ceb2b6359749e61f45ae",
+        "source_revision": "d8a4af8f5b31289709cde5e3",
+        "reference_source": null
+       },
+       {
+        "field_path": "/normal_service_exceptions",
+        "quote": "철도노조가 안전 운행 투쟁 후 총파업 돌입 예정일은?",
+        "source_part": "body",
+        "effective_at": null,
+        "derivation": "explicit",
+        "source_id": "f626ceb2b6359749e61f45ae",
+        "source_revision": "d8a4af8f5b31289709cde5e3",
         "reference_source": null
        },
        {
         "field_path": "/alternative_services",
-        "quote": "철도노조는 인력 충원, 승진제도 개선 등을 요구하며 다음달 4일까지 준법투쟁을 이어간 뒤 요구사항을 받아들이지 않으면 10일 오전 9시부터 무기한 총파업에 나설 계획이다.",
+        "quote": "철도노조는 내달 4일까지 안전 운행 투쟁을 진행하고 요구가 받아들여지지 않으면 12월 10일 무기한 ‘총파업’에 나설 예정이다.",
         "source_part": "body",
         "effective_at": null,
         "derivation": "explicit",
-        "source_id": "2f53e3e8eb3c0f82c8675cc9",
-        "source_revision": "594add824019c0d1b5ab0f54",
+        "source_id": "f626ceb2b6359749e61f45ae",
+        "source_revision": "d8a4af8f5b31289709cde5e3",
+        "reference_source": null
+       },
+       {
+        "field_path": "/alternative_services",
+        "quote": "철도노조가 안전 운행 투쟁 후 총파업 돌입 예정일은?",
+        "source_part": "body",
+        "effective_at": null,
+        "derivation": "explicit",
+        "source_id": "f626ceb2b6359749e61f45ae",
+        "source_revision": "d8a4af8f5b31289709cde5e3",
         "reference_source": null
        },
        {
         "field_path": "/start",
-        "quote": "철도노조는 인력 충원, 승진제도 개선 등을 요구하며 다음달 4일까지 준법투쟁을 이어간 뒤 요구사항을 받아들이지 않으면 10일 오전 9시부터 무기한 총파업에 나설 계획이다.",
+        "quote": "철도노조는 내달 4일까지 안전 운행 투쟁을 진행하고 요구가 받아들여지지 않으면 12월 10일 무기한 ‘총파업’에 나설 예정이다.",
         "source_part": "body",
         "effective_at": null,
         "derivation": "explicit",
-        "source_id": "2f53e3e8eb3c0f82c8675cc9",
-        "source_revision": "594add824019c0d1b5ab0f54",
+        "source_id": "f626ceb2b6359749e61f45ae",
+        "source_revision": "d8a4af8f5b31289709cde5e3",
+        "reference_source": null
+       },
+       {
+        "field_path": "/start",
+        "quote": "철도노조가 안전 운행 투쟁 후 총파업 돌입 예정일은?",
+        "source_part": "body",
+        "effective_at": null,
+        "derivation": "explicit",
+        "source_id": "f626ceb2b6359749e61f45ae",
+        "source_revision": "d8a4af8f5b31289709cde5e3",
         "reference_source": null
        },
        {
         "field_path": "/end",
-        "quote": "철도노조는 인력 충원, 승진제도 개선 등을 요구하며 다음달 4일까지 준법투쟁을 이어간 뒤 요구사항을 받아들이지 않으면 10일 오전 9시부터 무기한 총파업에 나설 계획이다.",
+        "quote": "철도노조는 내달 4일까지 안전 운행 투쟁을 진행하고 요구가 받아들여지지 않으면 12월 10일 무기한 ‘총파업’에 나설 예정이다.",
         "source_part": "body",
         "effective_at": null,
         "derivation": "explicit",
-        "source_id": "2f53e3e8eb3c0f82c8675cc9",
-        "source_revision": "594add824019c0d1b5ab0f54",
+        "source_id": "f626ceb2b6359749e61f45ae",
+        "source_revision": "d8a4af8f5b31289709cde5e3",
+        "reference_source": null
+       },
+       {
+        "field_path": "/end",
+        "quote": "철도노조가 안전 운행 투쟁 후 총파업 돌입 예정일은?",
+        "source_part": "body",
+        "effective_at": null,
+        "derivation": "explicit",
+        "source_id": "f626ceb2b6359749e61f45ae",
+        "source_revision": "d8a4af8f5b31289709cde5e3",
         "reference_source": null
        }
       ],
@@ -22524,273 +22561,12 @@
     "article_relevance": "unrelated",
     "processing_status": "success",
     "source": {
-     "source_id": "2f53e3e8eb3c0f82c8675cc9",
-     "source_url": "https://www.newsis.com/view/NISI20261127_0021547370",
-     "source_revision": "594add824019c0d1b5ab0f54",
-     "published_at": "2026-11-27T12:03:02+09:00",
-     "updated_at": null,
-     "collected_at": "2026-11-27T15:24:23.869373+09:00"
-    },
-    "events": [],
-    "review_reasons": []
-   }
-  },
-  {
-   "strikes": [
-    {
-     "article_relevance": "unrelated",
-     "transport_mode": "unknown",
-     "affected_regions": [],
-     "affected_routes": [],
-     "start": {
-      "raw": null,
-      "date": null,
-      "time": null,
-      "timezone": "Asia/Seoul",
-      "basis": "unknown",
-      "assertion": "unknown",
-      "open_ended": null
-     },
-     "end": {
-      "raw": null,
-      "date": null,
-      "time": null,
-      "timezone": "Asia/Seoul",
-      "basis": "unknown",
-      "assertion": "unknown",
-      "open_ended": null
-     },
-     "strike_status": {
-      "value": "unknown",
-      "conditions": [],
-      "scope_raw": null,
-      "effective_at": null
-     },
-     "service_status": [],
-     "normal_service_exceptions": [],
-     "alternative_services": [],
-     "evidence_and_timestamps": {
-      "source_url": "https://www.hankyung.com/article/2026112631211",
-      "published_at": "2026-11-26T18:03:43+09:00",
-      "updated_at": null,
-      "collected_at": "2026-11-27T15:24:24.002834+09:00",
-      "field_evidence": [
-       {
-        "field_path": "/article_relevance",
-        "quote": "노사 교섭이 중단된 가운데 노조가 무기한 총파업까지 예고해 이용객 불편이 길어질 수 있다는 우려가 나온다.",
-        "source_part": "body",
-        "effective_at": null,
-        "derivation": "explicit",
-        "source_id": "eafe68e8aedf210c5f6ce8f6",
-        "source_revision": "fc775dd3ca68ae7fde7eda7f",
-        "reference_source": null
-       },
-       {
-        "field_path": "/article_relevance",
-        "quote": "노조는 다음달 4일까지 안전운행 투쟁을 이어간 뒤 10일 오전 9시부터 무기한 총파업에 들어갈 계획이다.",
-        "source_part": "body",
-        "effective_at": null,
-        "derivation": "explicit",
-        "source_id": "eafe68e8aedf210c5f6ce8f6",
-        "source_revision": "fc775dd3ca68ae7fde7eda7f",
-        "reference_source": null
-       },
-       {
-        "field_path": "/transport_mode",
-        "quote": "노사 교섭이 중단된 가운데 노조가 무기한 총파업까지 예고해 이용객 불편이 길어질 수 있다는 우려가 나온다.",
-        "source_part": "body",
-        "effective_at": null,
-        "derivation": "explicit",
-        "source_id": "eafe68e8aedf210c5f6ce8f6",
-        "source_revision": "fc775dd3ca68ae7fde7eda7f",
-        "reference_source": null
-       },
-       {
-        "field_path": "/transport_mode",
-        "quote": "노조는 다음달 4일까지 안전운행 투쟁을 이어간 뒤 10일 오전 9시부터 무기한 총파업에 들어갈 계획이다.",
-        "source_part": "body",
-        "effective_at": null,
-        "derivation": "explicit",
-        "source_id": "eafe68e8aedf210c5f6ce8f6",
-        "source_revision": "fc775dd3ca68ae7fde7eda7f",
-        "reference_source": null
-       },
-       {
-        "field_path": "/affected_regions",
-        "quote": "노사 교섭이 중단된 가운데 노조가 무기한 총파업까지 예고해 이용객 불편이 길어질 수 있다는 우려가 나온다.",
-        "source_part": "body",
-        "effective_at": null,
-        "derivation": "explicit",
-        "source_id": "eafe68e8aedf210c5f6ce8f6",
-        "source_revision": "fc775dd3ca68ae7fde7eda7f",
-        "reference_source": null
-       },
-       {
-        "field_path": "/affected_regions",
-        "quote": "노조는 다음달 4일까지 안전운행 투쟁을 이어간 뒤 10일 오전 9시부터 무기한 총파업에 들어갈 계획이다.",
-        "source_part": "body",
-        "effective_at": null,
-        "derivation": "explicit",
-        "source_id": "eafe68e8aedf210c5f6ce8f6",
-        "source_revision": "fc775dd3ca68ae7fde7eda7f",
-        "reference_source": null
-       },
-       {
-        "field_path": "/affected_routes",
-        "quote": "노사 교섭이 중단된 가운데 노조가 무기한 총파업까지 예고해 이용객 불편이 길어질 수 있다는 우려가 나온다.",
-        "source_part": "body",
-        "effective_at": null,
-        "derivation": "explicit",
-        "source_id": "eafe68e8aedf210c5f6ce8f6",
-        "source_revision": "fc775dd3ca68ae7fde7eda7f",
-        "reference_source": null
-       },
-       {
-        "field_path": "/affected_routes",
-        "quote": "노조는 다음달 4일까지 안전운행 투쟁을 이어간 뒤 10일 오전 9시부터 무기한 총파업에 들어갈 계획이다.",
-        "source_part": "body",
-        "effective_at": null,
-        "derivation": "explicit",
-        "source_id": "eafe68e8aedf210c5f6ce8f6",
-        "source_revision": "fc775dd3ca68ae7fde7eda7f",
-        "reference_source": null
-       },
-       {
-        "field_path": "/strike_status",
-        "quote": "노사 교섭이 중단된 가운데 노조가 무기한 총파업까지 예고해 이용객 불편이 길어질 수 있다는 우려가 나온다.",
-        "source_part": "body",
-        "effective_at": null,
-        "derivation": "explicit",
-        "source_id": "eafe68e8aedf210c5f6ce8f6",
-        "source_revision": "fc775dd3ca68ae7fde7eda7f",
-        "reference_source": null
-       },
-       {
-        "field_path": "/strike_status",
-        "quote": "노조는 다음달 4일까지 안전운행 투쟁을 이어간 뒤 10일 오전 9시부터 무기한 총파업에 들어갈 계획이다.",
-        "source_part": "body",
-        "effective_at": null,
-        "derivation": "explicit",
-        "source_id": "eafe68e8aedf210c5f6ce8f6",
-        "source_revision": "fc775dd3ca68ae7fde7eda7f",
-        "reference_source": null
-       },
-       {
-        "field_path": "/service_status",
-        "quote": "노사 교섭이 중단된 가운데 노조가 무기한 총파업까지 예고해 이용객 불편이 길어질 수 있다는 우려가 나온다.",
-        "source_part": "body",
-        "effective_at": null,
-        "derivation": "explicit",
-        "source_id": "eafe68e8aedf210c5f6ce8f6",
-        "source_revision": "fc775dd3ca68ae7fde7eda7f",
-        "reference_source": null
-       },
-       {
-        "field_path": "/service_status",
-        "quote": "노조는 다음달 4일까지 안전운행 투쟁을 이어간 뒤 10일 오전 9시부터 무기한 총파업에 들어갈 계획이다.",
-        "source_part": "body",
-        "effective_at": null,
-        "derivation": "explicit",
-        "source_id": "eafe68e8aedf210c5f6ce8f6",
-        "source_revision": "fc775dd3ca68ae7fde7eda7f",
-        "reference_source": null
-       },
-       {
-        "field_path": "/normal_service_exceptions",
-        "quote": "노사 교섭이 중단된 가운데 노조가 무기한 총파업까지 예고해 이용객 불편이 길어질 수 있다는 우려가 나온다.",
-        "source_part": "body",
-        "effective_at": null,
-        "derivation": "explicit",
-        "source_id": "eafe68e8aedf210c5f6ce8f6",
-        "source_revision": "fc775dd3ca68ae7fde7eda7f",
-        "reference_source": null
-       },
-       {
-        "field_path": "/normal_service_exceptions",
-        "quote": "노조는 다음달 4일까지 안전운행 투쟁을 이어간 뒤 10일 오전 9시부터 무기한 총파업에 들어갈 계획이다.",
-        "source_part": "body",
-        "effective_at": null,
-        "derivation": "explicit",
-        "source_id": "eafe68e8aedf210c5f6ce8f6",
-        "source_revision": "fc775dd3ca68ae7fde7eda7f",
-        "reference_source": null
-       },
-       {
-        "field_path": "/alternative_services",
-        "quote": "노사 교섭이 중단된 가운데 노조가 무기한 총파업까지 예고해 이용객 불편이 길어질 수 있다는 우려가 나온다.",
-        "source_part": "body",
-        "effective_at": null,
-        "derivation": "explicit",
-        "source_id": "eafe68e8aedf210c5f6ce8f6",
-        "source_revision": "fc775dd3ca68ae7fde7eda7f",
-        "reference_source": null
-       },
-       {
-        "field_path": "/alternative_services",
-        "quote": "노조는 다음달 4일까지 안전운행 투쟁을 이어간 뒤 10일 오전 9시부터 무기한 총파업에 들어갈 계획이다.",
-        "source_part": "body",
-        "effective_at": null,
-        "derivation": "explicit",
-        "source_id": "eafe68e8aedf210c5f6ce8f6",
-        "source_revision": "fc775dd3ca68ae7fde7eda7f",
-        "reference_source": null
-       },
-       {
-        "field_path": "/start",
-        "quote": "노사 교섭이 중단된 가운데 노조가 무기한 총파업까지 예고해 이용객 불편이 길어질 수 있다는 우려가 나온다.",
-        "source_part": "body",
-        "effective_at": null,
-        "derivation": "explicit",
-        "source_id": "eafe68e8aedf210c5f6ce8f6",
-        "source_revision": "fc775dd3ca68ae7fde7eda7f",
-        "reference_source": null
-       },
-       {
-        "field_path": "/start",
-        "quote": "노조는 다음달 4일까지 안전운행 투쟁을 이어간 뒤 10일 오전 9시부터 무기한 총파업에 들어갈 계획이다.",
-        "source_part": "body",
-        "effective_at": null,
-        "derivation": "explicit",
-        "source_id": "eafe68e8aedf210c5f6ce8f6",
-        "source_revision": "fc775dd3ca68ae7fde7eda7f",
-        "reference_source": null
-       },
-       {
-        "field_path": "/end",
-        "quote": "노사 교섭이 중단된 가운데 노조가 무기한 총파업까지 예고해 이용객 불편이 길어질 수 있다는 우려가 나온다.",
-        "source_part": "body",
-        "effective_at": null,
-        "derivation": "explicit",
-        "source_id": "eafe68e8aedf210c5f6ce8f6",
-        "source_revision": "fc775dd3ca68ae7fde7eda7f",
-        "reference_source": null
-       },
-       {
-        "field_path": "/end",
-        "quote": "노조는 다음달 4일까지 안전운행 투쟁을 이어간 뒤 10일 오전 9시부터 무기한 총파업에 들어갈 계획이다.",
-        "source_part": "body",
-        "effective_at": null,
-        "derivation": "explicit",
-        "source_id": "eafe68e8aedf210c5f6ce8f6",
-        "source_revision": "fc775dd3ca68ae7fde7eda7f",
-        "reference_source": null
-       }
-      ],
-      "review_reasons": []
-     }
-    }
-   ],
-   "events": {
-    "schema_version": "1.0",
-    "article_relevance": "unrelated",
-    "processing_status": "success",
-    "source": {
-     "source_id": "eafe68e8aedf210c5f6ce8f6",
-     "source_url": "https://www.hankyung.com/article/2026112631211",
-     "source_revision": "fc775dd3ca68ae7fde7eda7f",
-     "published_at": "2026-11-26T18:03:43+09:00",
-     "updated_at": null,
-     "collected_at": "2026-11-27T15:24:24.002834+09:00"
+     "source_id": "f626ceb2b6359749e61f45ae",
+     "source_url": "https://www.seoul.co.kr/news/society/2026/11/27/20261127500320?wlog_tag3=naver",
+     "source_revision": "d8a4af8f5b31289709cde5e3",
+     "published_at": "2026-11-27T18:49:18+09:00",
+     "updated_at": "2026-11-27T18:49:18+09:00",
+     "collected_at": "2026-11-28T03:55:11.830273+09:00"
     },
     "events": [],
     "review_reasons": []
@@ -22834,7 +22610,7 @@
       "source_url": "https://www.yna.co.kr/view/AKR20261118007000079?input=1195m",
       "published_at": "2026-11-18T03:43:59+09:00",
       "updated_at": "2026-11-18T09:34:21+09:00",
-      "collected_at": "2026-11-27T15:24:25.857709+09:00",
+      "collected_at": "2026-11-28T03:55:13.601361+09:00",
       "field_evidence": [
        {
         "field_path": "/article_relevance",
@@ -22951,15 +22727,234 @@
      "source_revision": "803fca1dcdf7c4adcd01d505",
      "published_at": "2026-11-18T03:43:59+09:00",
      "updated_at": "2026-11-18T09:34:21+09:00",
-     "collected_at": "2026-11-27T15:24:25.857709+09:00"
+     "collected_at": "2026-11-28T03:55:13.601361+09:00"
     },
     "events": [],
     "review_reasons": [
      "UNSUPPORTED_EVENT_CONTEXT"
     ]
    }
+  },
+  {
+   "strikes": [
+    {
+     "article_relevance": "unrelated",
+     "transport_mode": "unknown",
+     "affected_regions": [],
+     "affected_routes": [],
+     "start": {
+      "raw": null,
+      "date": null,
+      "time": null,
+      "timezone": "Asia/Seoul",
+      "basis": "unknown",
+      "assertion": "unknown",
+      "open_ended": null
+     },
+     "end": {
+      "raw": null,
+      "date": null,
+      "time": null,
+      "timezone": "Asia/Seoul",
+      "basis": "unknown",
+      "assertion": "unknown",
+      "open_ended": null
+     },
+     "strike_status": {
+      "value": "unknown",
+      "conditions": [],
+      "scope_raw": null,
+      "effective_at": null
+     },
+     "service_status": [],
+     "normal_service_exceptions": [],
+     "alternative_services": [],
+     "evidence_and_timestamps": {
+      "source_url": "https://www.imaeil.com/page/view/2026112609332522772",
+      "published_at": null,
+      "updated_at": null,
+      "collected_at": "2026-11-28T03:55:17.374119+09:00",
+      "field_evidence": [
+       {
+        "field_path": "/article_relevance",
+        "quote": "사이렌을 울리며 유턴을 시도하는 구급차 앞에서도 마라톤 참가자들이 달리기를 멈추지 않는 영상이 공개되면서 비판이 제기되고 있다. 마라톤 교통 통제 과정에서 고령 보행자가 넘어져 중상을 입었다는 사례까지 알려지면서 일반 시민의 이동권과 안전 대책을 요구하는 목소리도 나오고 있다. 최근 온라인 커뮤니티와 사회관계망서비스(SNS)에는 구급차가 마라톤 참가자들 사이에서 유턴을 시도하는 장면이 담긴 영상이 확산했다. 영상에는 구급차가 사이렌을 울리며 방향을 바꾸려 하지만, 도로를 달리던 참가자들이 대부분 주행을 이어가는 모습이 담겼다. 참가자들은 구급차 앞을 지나 계속 달렸고, 구급차는 러너들의 대열이 잠시 끊긴 틈을 이용해 유턴했다. 이 영상은 구독자 50만명 규모의 유튜브 채널 '닥신TV'에 지난 16일 올라온 영상으로 보인다. 건국대병원 내과 전문의이자 유튜버인 신제욱씨는 '삼촌 출근길인데 마라톤이 한참이었다'라는 제목의 영상에서 최근 자전거를 타고 출근하던 중 병원 인근 도로에서 마라톤이 진행되고 있었다고 전했다. 신씨는 병원 앞 도로가 마라톤 코스로 사용되면서 보행자들이 평소처럼 길을 건너기 어려운 상황을 설명했다. 그는 \"병원 앞에서 마라톤이 진행되고 있어 좋은 감정만 갖게 되는 건 아니다\"라며 \"길을 건너려면 굉장히 돌아가야 했다\"라며 \"물론 돌아가면 되는 일이지만 솔직히 조금 반발심이 생겼다. 내가 왜 이런 피해를 받아야 하는가'라는 생각이 들었다\"고 했다. 특히 신씨는 구급차가 마라톤 참가자들 사이에서 유턴을 시도한 상황을 언급했다. 그는 \"119가 유턴해야 하는데 그럴 땐 잠깐 멈춰야 하지 않을까\"라며 \"결국 마라톤에 대한 여론이 좋지 않은 것도 이런 이유들이 있었던 것 같다\"고 덧붙였다. 영상이 퍼지자 온라인에서는 구급차에 대한 양보가 이뤄지지 않은 상황을 비판하는 댓글이 잇따랐다. 누리꾼들은 \"생명보다 기록이 더 중요한 건가\", \"이건 정말 선을 넘었다\", \"구급차에 양보하는 건 기본 중의 기본 아니냐\" 등의 반응을 보였다. 반면 일부 참가자의 행동을 마라톤 참가자 전체의 문제로 일반화해서는 안 된다는 의견도 나왔다. 마라톤을 즐기는 시민들 사이에서도 구급차에 길을 양보하지 않은 행동은 잘못됐지만, 일부 사례를 근거로 러너 전체를 비난하는 것은 부당하다는 취지의 댓글이 이어졌다. 비슷한 시기에 비슷한 장소에서 마라톤 대회로 인한 보행자 사고 사례도 제기됐다. 지난 15일 오전 10시 8분쯤 서울 광진구 자양사거리에서는 마라톤 대회가 진행되던 중 주모(75) 씨가 횡단보도 인근에서 넘어지는 사고가 발생했다. 주씨는 평소처럼 주말에 사우나에 가기 위해 길을 건너려 했다. 그러나 마라톤 현장을 통제하던 경찰관의 제지를 받고 이동 방향을 바꾸는 과정에서 횡단보도에 설치된 볼라드에 걸려 넘어졌다는 게 주씨 측 설명이다. 볼라드는 차량의 인도 진입이나 불법 주정차를 막기 위해 횡단보도 주변 등에 설치하는 기둥형 구조물이다. 주씨는 사고로 대퇴경부 골절상을 입었고, 좌측 고관절 전체를 인공관절로 바꾸는 수술을 받았다. 가족 측은 병원에서 사고 이전처럼 독립적으로 걷기 어려울 수 있다는 설명을 들었다고 전했다. 주씨 측은 사고 당시 보행 과정에서 경찰의 통제를 따르다 넘어졌다고 주장했다. 사고 직후 병원 이송 과정에서도 경찰과 가족 측의 설명이 엇갈렸다. 주씨 측에 따르면 현장 경찰관은 119구급차를 이용하면 비용이 발생하고 마라톤 행사로 인해 도착까지 시간이 오래 걸린다는 취지로 설명하면서 경찰차를 이용해 인근 병원으로 이동하는 방안을 권유했다. 주씨는 낙상 지점에서 약 15ｍ 떨어진 경찰차까지 경찰의 부축을 받아 걸어갔다고 한다. 반면 광진경찰서 관할 파출소는 주씨가 접수한 국민신문고 민원에 대한 답변에서 다른 입장을 밝혔다. 경찰은 \"119 구급대 호출과 병원 이송을 여러 차례 권유했으나 피해자가 이를 명시적으로 거부했다\"고 설명했다. 사고 이후 배상 책임 문제도 제기됐다. 주씨 딸은 마라톤 주최 측이 가입한 보험사에 사고를 접수했지만, 주최 측의 배상 책임을 인정하기 어렵다는 취지의 답변을 받았다고 전했다. 보험사 측은 사고를 유발한 시설물이 기존에 설치돼 있던 것이고, 현장 교통 통제 역시 경찰이 담당했다는 점 등을 근거로 든 것으로 알려졌다. 주씨 가족은 마라톤 행사 중 발생한 사고로 중상을 입었지만 책임 소재와 피해 구제 방안을 놓고 어려움을 겪고 있다고 밝혔다. 주씨 딸은 \"마라톤으로 인한 교통통제 과정에서 일반 시민이 중상을 입었는데도 안전관리 책임을 지는 주체가 없다\"며 \"실제로 피해 본 시민은 어디에 책임을 묻고 피해 구제를 요청해야 하는지 답답한 상황\"이라고 말했다. 이어 \"골절 여부가 진단되기 전이었더라도, 고령의 낙상 환자가 다리 통증을 호소하는 상황에서 전문 구급대 평가 없이 걷게 한 조치가 의학적으로 적절했는지도 의문이 든다\"고 했다. 주씨 측은 사고와 관련해 국가배상 소송 제기를 검토하고 있다고 밝혔다.",
+        "source_part": "body",
+        "effective_at": null,
+        "derivation": "explicit",
+        "source_id": "1c5ccd602d81a41c77259a5f",
+        "source_revision": "6a50214bc9079d3920f839ea",
+        "reference_source": null
+       },
+       {
+        "field_path": "/transport_mode",
+        "quote": "사이렌을 울리며 유턴을 시도하는 구급차 앞에서도 마라톤 참가자들이 달리기를 멈추지 않는 영상이 공개되면서 비판이 제기되고 있다. 마라톤 교통 통제 과정에서 고령 보행자가 넘어져 중상을 입었다는 사례까지 알려지면서 일반 시민의 이동권과 안전 대책을 요구하는 목소리도 나오고 있다. 최근 온라인 커뮤니티와 사회관계망서비스(SNS)에는 구급차가 마라톤 참가자들 사이에서 유턴을 시도하는 장면이 담긴 영상이 확산했다. 영상에는 구급차가 사이렌을 울리며 방향을 바꾸려 하지만, 도로를 달리던 참가자들이 대부분 주행을 이어가는 모습이 담겼다. 참가자들은 구급차 앞을 지나 계속 달렸고, 구급차는 러너들의 대열이 잠시 끊긴 틈을 이용해 유턴했다. 이 영상은 구독자 50만명 규모의 유튜브 채널 '닥신TV'에 지난 16일 올라온 영상으로 보인다. 건국대병원 내과 전문의이자 유튜버인 신제욱씨는 '삼촌 출근길인데 마라톤이 한참이었다'라는 제목의 영상에서 최근 자전거를 타고 출근하던 중 병원 인근 도로에서 마라톤이 진행되고 있었다고 전했다. 신씨는 병원 앞 도로가 마라톤 코스로 사용되면서 보행자들이 평소처럼 길을 건너기 어려운 상황을 설명했다. 그는 \"병원 앞에서 마라톤이 진행되고 있어 좋은 감정만 갖게 되는 건 아니다\"라며 \"길을 건너려면 굉장히 돌아가야 했다\"라며 \"물론 돌아가면 되는 일이지만 솔직히 조금 반발심이 생겼다. 내가 왜 이런 피해를 받아야 하는가'라는 생각이 들었다\"고 했다. 특히 신씨는 구급차가 마라톤 참가자들 사이에서 유턴을 시도한 상황을 언급했다. 그는 \"119가 유턴해야 하는데 그럴 땐 잠깐 멈춰야 하지 않을까\"라며 \"결국 마라톤에 대한 여론이 좋지 않은 것도 이런 이유들이 있었던 것 같다\"고 덧붙였다. 영상이 퍼지자 온라인에서는 구급차에 대한 양보가 이뤄지지 않은 상황을 비판하는 댓글이 잇따랐다. 누리꾼들은 \"생명보다 기록이 더 중요한 건가\", \"이건 정말 선을 넘었다\", \"구급차에 양보하는 건 기본 중의 기본 아니냐\" 등의 반응을 보였다. 반면 일부 참가자의 행동을 마라톤 참가자 전체의 문제로 일반화해서는 안 된다는 의견도 나왔다. 마라톤을 즐기는 시민들 사이에서도 구급차에 길을 양보하지 않은 행동은 잘못됐지만, 일부 사례를 근거로 러너 전체를 비난하는 것은 부당하다는 취지의 댓글이 이어졌다. 비슷한 시기에 비슷한 장소에서 마라톤 대회로 인한 보행자 사고 사례도 제기됐다. 지난 15일 오전 10시 8분쯤 서울 광진구 자양사거리에서는 마라톤 대회가 진행되던 중 주모(75) 씨가 횡단보도 인근에서 넘어지는 사고가 발생했다. 주씨는 평소처럼 주말에 사우나에 가기 위해 길을 건너려 했다. 그러나 마라톤 현장을 통제하던 경찰관의 제지를 받고 이동 방향을 바꾸는 과정에서 횡단보도에 설치된 볼라드에 걸려 넘어졌다는 게 주씨 측 설명이다. 볼라드는 차량의 인도 진입이나 불법 주정차를 막기 위해 횡단보도 주변 등에 설치하는 기둥형 구조물이다. 주씨는 사고로 대퇴경부 골절상을 입었고, 좌측 고관절 전체를 인공관절로 바꾸는 수술을 받았다. 가족 측은 병원에서 사고 이전처럼 독립적으로 걷기 어려울 수 있다는 설명을 들었다고 전했다. 주씨 측은 사고 당시 보행 과정에서 경찰의 통제를 따르다 넘어졌다고 주장했다. 사고 직후 병원 이송 과정에서도 경찰과 가족 측의 설명이 엇갈렸다. 주씨 측에 따르면 현장 경찰관은 119구급차를 이용하면 비용이 발생하고 마라톤 행사로 인해 도착까지 시간이 오래 걸린다는 취지로 설명하면서 경찰차를 이용해 인근 병원으로 이동하는 방안을 권유했다. 주씨는 낙상 지점에서 약 15ｍ 떨어진 경찰차까지 경찰의 부축을 받아 걸어갔다고 한다. 반면 광진경찰서 관할 파출소는 주씨가 접수한 국민신문고 민원에 대한 답변에서 다른 입장을 밝혔다. 경찰은 \"119 구급대 호출과 병원 이송을 여러 차례 권유했으나 피해자가 이를 명시적으로 거부했다\"고 설명했다. 사고 이후 배상 책임 문제도 제기됐다. 주씨 딸은 마라톤 주최 측이 가입한 보험사에 사고를 접수했지만, 주최 측의 배상 책임을 인정하기 어렵다는 취지의 답변을 받았다고 전했다. 보험사 측은 사고를 유발한 시설물이 기존에 설치돼 있던 것이고, 현장 교통 통제 역시 경찰이 담당했다는 점 등을 근거로 든 것으로 알려졌다. 주씨 가족은 마라톤 행사 중 발생한 사고로 중상을 입었지만 책임 소재와 피해 구제 방안을 놓고 어려움을 겪고 있다고 밝혔다. 주씨 딸은 \"마라톤으로 인한 교통통제 과정에서 일반 시민이 중상을 입었는데도 안전관리 책임을 지는 주체가 없다\"며 \"실제로 피해 본 시민은 어디에 책임을 묻고 피해 구제를 요청해야 하는지 답답한 상황\"이라고 말했다. 이어 \"골절 여부가 진단되기 전이었더라도, 고령의 낙상 환자가 다리 통증을 호소하는 상황에서 전문 구급대 평가 없이 걷게 한 조치가 의학적으로 적절했는지도 의문이 든다\"고 했다. 주씨 측은 사고와 관련해 국가배상 소송 제기를 검토하고 있다고 밝혔다.",
+        "source_part": "body",
+        "effective_at": null,
+        "derivation": "explicit",
+        "source_id": "1c5ccd602d81a41c77259a5f",
+        "source_revision": "6a50214bc9079d3920f839ea",
+        "reference_source": null
+       },
+       {
+        "field_path": "/affected_regions",
+        "quote": "사이렌을 울리며 유턴을 시도하는 구급차 앞에서도 마라톤 참가자들이 달리기를 멈추지 않는 영상이 공개되면서 비판이 제기되고 있다. 마라톤 교통 통제 과정에서 고령 보행자가 넘어져 중상을 입었다는 사례까지 알려지면서 일반 시민의 이동권과 안전 대책을 요구하는 목소리도 나오고 있다. 최근 온라인 커뮤니티와 사회관계망서비스(SNS)에는 구급차가 마라톤 참가자들 사이에서 유턴을 시도하는 장면이 담긴 영상이 확산했다. 영상에는 구급차가 사이렌을 울리며 방향을 바꾸려 하지만, 도로를 달리던 참가자들이 대부분 주행을 이어가는 모습이 담겼다. 참가자들은 구급차 앞을 지나 계속 달렸고, 구급차는 러너들의 대열이 잠시 끊긴 틈을 이용해 유턴했다. 이 영상은 구독자 50만명 규모의 유튜브 채널 '닥신TV'에 지난 16일 올라온 영상으로 보인다. 건국대병원 내과 전문의이자 유튜버인 신제욱씨는 '삼촌 출근길인데 마라톤이 한참이었다'라는 제목의 영상에서 최근 자전거를 타고 출근하던 중 병원 인근 도로에서 마라톤이 진행되고 있었다고 전했다. 신씨는 병원 앞 도로가 마라톤 코스로 사용되면서 보행자들이 평소처럼 길을 건너기 어려운 상황을 설명했다. 그는 \"병원 앞에서 마라톤이 진행되고 있어 좋은 감정만 갖게 되는 건 아니다\"라며 \"길을 건너려면 굉장히 돌아가야 했다\"라며 \"물론 돌아가면 되는 일이지만 솔직히 조금 반발심이 생겼다. 내가 왜 이런 피해를 받아야 하는가'라는 생각이 들었다\"고 했다. 특히 신씨는 구급차가 마라톤 참가자들 사이에서 유턴을 시도한 상황을 언급했다. 그는 \"119가 유턴해야 하는데 그럴 땐 잠깐 멈춰야 하지 않을까\"라며 \"결국 마라톤에 대한 여론이 좋지 않은 것도 이런 이유들이 있었던 것 같다\"고 덧붙였다. 영상이 퍼지자 온라인에서는 구급차에 대한 양보가 이뤄지지 않은 상황을 비판하는 댓글이 잇따랐다. 누리꾼들은 \"생명보다 기록이 더 중요한 건가\", \"이건 정말 선을 넘었다\", \"구급차에 양보하는 건 기본 중의 기본 아니냐\" 등의 반응을 보였다. 반면 일부 참가자의 행동을 마라톤 참가자 전체의 문제로 일반화해서는 안 된다는 의견도 나왔다. 마라톤을 즐기는 시민들 사이에서도 구급차에 길을 양보하지 않은 행동은 잘못됐지만, 일부 사례를 근거로 러너 전체를 비난하는 것은 부당하다는 취지의 댓글이 이어졌다. 비슷한 시기에 비슷한 장소에서 마라톤 대회로 인한 보행자 사고 사례도 제기됐다. 지난 15일 오전 10시 8분쯤 서울 광진구 자양사거리에서는 마라톤 대회가 진행되던 중 주모(75) 씨가 횡단보도 인근에서 넘어지는 사고가 발생했다. 주씨는 평소처럼 주말에 사우나에 가기 위해 길을 건너려 했다. 그러나 마라톤 현장을 통제하던 경찰관의 제지를 받고 이동 방향을 바꾸는 과정에서 횡단보도에 설치된 볼라드에 걸려 넘어졌다는 게 주씨 측 설명이다. 볼라드는 차량의 인도 진입이나 불법 주정차를 막기 위해 횡단보도 주변 등에 설치하는 기둥형 구조물이다. 주씨는 사고로 대퇴경부 골절상을 입었고, 좌측 고관절 전체를 인공관절로 바꾸는 수술을 받았다. 가족 측은 병원에서 사고 이전처럼 독립적으로 걷기 어려울 수 있다는 설명을 들었다고 전했다. 주씨 측은 사고 당시 보행 과정에서 경찰의 통제를 따르다 넘어졌다고 주장했다. 사고 직후 병원 이송 과정에서도 경찰과 가족 측의 설명이 엇갈렸다. 주씨 측에 따르면 현장 경찰관은 119구급차를 이용하면 비용이 발생하고 마라톤 행사로 인해 도착까지 시간이 오래 걸린다는 취지로 설명하면서 경찰차를 이용해 인근 병원으로 이동하는 방안을 권유했다. 주씨는 낙상 지점에서 약 15ｍ 떨어진 경찰차까지 경찰의 부축을 받아 걸어갔다고 한다. 반면 광진경찰서 관할 파출소는 주씨가 접수한 국민신문고 민원에 대한 답변에서 다른 입장을 밝혔다. 경찰은 \"119 구급대 호출과 병원 이송을 여러 차례 권유했으나 피해자가 이를 명시적으로 거부했다\"고 설명했다. 사고 이후 배상 책임 문제도 제기됐다. 주씨 딸은 마라톤 주최 측이 가입한 보험사에 사고를 접수했지만, 주최 측의 배상 책임을 인정하기 어렵다는 취지의 답변을 받았다고 전했다. 보험사 측은 사고를 유발한 시설물이 기존에 설치돼 있던 것이고, 현장 교통 통제 역시 경찰이 담당했다는 점 등을 근거로 든 것으로 알려졌다. 주씨 가족은 마라톤 행사 중 발생한 사고로 중상을 입었지만 책임 소재와 피해 구제 방안을 놓고 어려움을 겪고 있다고 밝혔다. 주씨 딸은 \"마라톤으로 인한 교통통제 과정에서 일반 시민이 중상을 입었는데도 안전관리 책임을 지는 주체가 없다\"며 \"실제로 피해 본 시민은 어디에 책임을 묻고 피해 구제를 요청해야 하는지 답답한 상황\"이라고 말했다. 이어 \"골절 여부가 진단되기 전이었더라도, 고령의 낙상 환자가 다리 통증을 호소하는 상황에서 전문 구급대 평가 없이 걷게 한 조치가 의학적으로 적절했는지도 의문이 든다\"고 했다. 주씨 측은 사고와 관련해 국가배상 소송 제기를 검토하고 있다고 밝혔다.",
+        "source_part": "body",
+        "effective_at": null,
+        "derivation": "explicit",
+        "source_id": "1c5ccd602d81a41c77259a5f",
+        "source_revision": "6a50214bc9079d3920f839ea",
+        "reference_source": null
+       },
+       {
+        "field_path": "/affected_routes",
+        "quote": "사이렌을 울리며 유턴을 시도하는 구급차 앞에서도 마라톤 참가자들이 달리기를 멈추지 않는 영상이 공개되면서 비판이 제기되고 있다. 마라톤 교통 통제 과정에서 고령 보행자가 넘어져 중상을 입었다는 사례까지 알려지면서 일반 시민의 이동권과 안전 대책을 요구하는 목소리도 나오고 있다. 최근 온라인 커뮤니티와 사회관계망서비스(SNS)에는 구급차가 마라톤 참가자들 사이에서 유턴을 시도하는 장면이 담긴 영상이 확산했다. 영상에는 구급차가 사이렌을 울리며 방향을 바꾸려 하지만, 도로를 달리던 참가자들이 대부분 주행을 이어가는 모습이 담겼다. 참가자들은 구급차 앞을 지나 계속 달렸고, 구급차는 러너들의 대열이 잠시 끊긴 틈을 이용해 유턴했다. 이 영상은 구독자 50만명 규모의 유튜브 채널 '닥신TV'에 지난 16일 올라온 영상으로 보인다. 건국대병원 내과 전문의이자 유튜버인 신제욱씨는 '삼촌 출근길인데 마라톤이 한참이었다'라는 제목의 영상에서 최근 자전거를 타고 출근하던 중 병원 인근 도로에서 마라톤이 진행되고 있었다고 전했다. 신씨는 병원 앞 도로가 마라톤 코스로 사용되면서 보행자들이 평소처럼 길을 건너기 어려운 상황을 설명했다. 그는 \"병원 앞에서 마라톤이 진행되고 있어 좋은 감정만 갖게 되는 건 아니다\"라며 \"길을 건너려면 굉장히 돌아가야 했다\"라며 \"물론 돌아가면 되는 일이지만 솔직히 조금 반발심이 생겼다. 내가 왜 이런 피해를 받아야 하는가'라는 생각이 들었다\"고 했다. 특히 신씨는 구급차가 마라톤 참가자들 사이에서 유턴을 시도한 상황을 언급했다. 그는 \"119가 유턴해야 하는데 그럴 땐 잠깐 멈춰야 하지 않을까\"라며 \"결국 마라톤에 대한 여론이 좋지 않은 것도 이런 이유들이 있었던 것 같다\"고 덧붙였다. 영상이 퍼지자 온라인에서는 구급차에 대한 양보가 이뤄지지 않은 상황을 비판하는 댓글이 잇따랐다. 누리꾼들은 \"생명보다 기록이 더 중요한 건가\", \"이건 정말 선을 넘었다\", \"구급차에 양보하는 건 기본 중의 기본 아니냐\" 등의 반응을 보였다. 반면 일부 참가자의 행동을 마라톤 참가자 전체의 문제로 일반화해서는 안 된다는 의견도 나왔다. 마라톤을 즐기는 시민들 사이에서도 구급차에 길을 양보하지 않은 행동은 잘못됐지만, 일부 사례를 근거로 러너 전체를 비난하는 것은 부당하다는 취지의 댓글이 이어졌다. 비슷한 시기에 비슷한 장소에서 마라톤 대회로 인한 보행자 사고 사례도 제기됐다. 지난 15일 오전 10시 8분쯤 서울 광진구 자양사거리에서는 마라톤 대회가 진행되던 중 주모(75) 씨가 횡단보도 인근에서 넘어지는 사고가 발생했다. 주씨는 평소처럼 주말에 사우나에 가기 위해 길을 건너려 했다. 그러나 마라톤 현장을 통제하던 경찰관의 제지를 받고 이동 방향을 바꾸는 과정에서 횡단보도에 설치된 볼라드에 걸려 넘어졌다는 게 주씨 측 설명이다. 볼라드는 차량의 인도 진입이나 불법 주정차를 막기 위해 횡단보도 주변 등에 설치하는 기둥형 구조물이다. 주씨는 사고로 대퇴경부 골절상을 입었고, 좌측 고관절 전체를 인공관절로 바꾸는 수술을 받았다. 가족 측은 병원에서 사고 이전처럼 독립적으로 걷기 어려울 수 있다는 설명을 들었다고 전했다. 주씨 측은 사고 당시 보행 과정에서 경찰의 통제를 따르다 넘어졌다고 주장했다. 사고 직후 병원 이송 과정에서도 경찰과 가족 측의 설명이 엇갈렸다. 주씨 측에 따르면 현장 경찰관은 119구급차를 이용하면 비용이 발생하고 마라톤 행사로 인해 도착까지 시간이 오래 걸린다는 취지로 설명하면서 경찰차를 이용해 인근 병원으로 이동하는 방안을 권유했다. 주씨는 낙상 지점에서 약 15ｍ 떨어진 경찰차까지 경찰의 부축을 받아 걸어갔다고 한다. 반면 광진경찰서 관할 파출소는 주씨가 접수한 국민신문고 민원에 대한 답변에서 다른 입장을 밝혔다. 경찰은 \"119 구급대 호출과 병원 이송을 여러 차례 권유했으나 피해자가 이를 명시적으로 거부했다\"고 설명했다. 사고 이후 배상 책임 문제도 제기됐다. 주씨 딸은 마라톤 주최 측이 가입한 보험사에 사고를 접수했지만, 주최 측의 배상 책임을 인정하기 어렵다는 취지의 답변을 받았다고 전했다. 보험사 측은 사고를 유발한 시설물이 기존에 설치돼 있던 것이고, 현장 교통 통제 역시 경찰이 담당했다는 점 등을 근거로 든 것으로 알려졌다. 주씨 가족은 마라톤 행사 중 발생한 사고로 중상을 입었지만 책임 소재와 피해 구제 방안을 놓고 어려움을 겪고 있다고 밝혔다. 주씨 딸은 \"마라톤으로 인한 교통통제 과정에서 일반 시민이 중상을 입었는데도 안전관리 책임을 지는 주체가 없다\"며 \"실제로 피해 본 시민은 어디에 책임을 묻고 피해 구제를 요청해야 하는지 답답한 상황\"이라고 말했다. 이어 \"골절 여부가 진단되기 전이었더라도, 고령의 낙상 환자가 다리 통증을 호소하는 상황에서 전문 구급대 평가 없이 걷게 한 조치가 의학적으로 적절했는지도 의문이 든다\"고 했다. 주씨 측은 사고와 관련해 국가배상 소송 제기를 검토하고 있다고 밝혔다.",
+        "source_part": "body",
+        "effective_at": null,
+        "derivation": "explicit",
+        "source_id": "1c5ccd602d81a41c77259a5f",
+        "source_revision": "6a50214bc9079d3920f839ea",
+        "reference_source": null
+       },
+       {
+        "field_path": "/strike_status",
+        "quote": "사이렌을 울리며 유턴을 시도하는 구급차 앞에서도 마라톤 참가자들이 달리기를 멈추지 않는 영상이 공개되면서 비판이 제기되고 있다. 마라톤 교통 통제 과정에서 고령 보행자가 넘어져 중상을 입었다는 사례까지 알려지면서 일반 시민의 이동권과 안전 대책을 요구하는 목소리도 나오고 있다. 최근 온라인 커뮤니티와 사회관계망서비스(SNS)에는 구급차가 마라톤 참가자들 사이에서 유턴을 시도하는 장면이 담긴 영상이 확산했다. 영상에는 구급차가 사이렌을 울리며 방향을 바꾸려 하지만, 도로를 달리던 참가자들이 대부분 주행을 이어가는 모습이 담겼다. 참가자들은 구급차 앞을 지나 계속 달렸고, 구급차는 러너들의 대열이 잠시 끊긴 틈을 이용해 유턴했다. 이 영상은 구독자 50만명 규모의 유튜브 채널 '닥신TV'에 지난 16일 올라온 영상으로 보인다. 건국대병원 내과 전문의이자 유튜버인 신제욱씨는 '삼촌 출근길인데 마라톤이 한참이었다'라는 제목의 영상에서 최근 자전거를 타고 출근하던 중 병원 인근 도로에서 마라톤이 진행되고 있었다고 전했다. 신씨는 병원 앞 도로가 마라톤 코스로 사용되면서 보행자들이 평소처럼 길을 건너기 어려운 상황을 설명했다. 그는 \"병원 앞에서 마라톤이 진행되고 있어 좋은 감정만 갖게 되는 건 아니다\"라며 \"길을 건너려면 굉장히 돌아가야 했다\"라며 \"물론 돌아가면 되는 일이지만 솔직히 조금 반발심이 생겼다. 내가 왜 이런 피해를 받아야 하는가'라는 생각이 들었다\"고 했다. 특히 신씨는 구급차가 마라톤 참가자들 사이에서 유턴을 시도한 상황을 언급했다. 그는 \"119가 유턴해야 하는데 그럴 땐 잠깐 멈춰야 하지 않을까\"라며 \"결국 마라톤에 대한 여론이 좋지 않은 것도 이런 이유들이 있었던 것 같다\"고 덧붙였다. 영상이 퍼지자 온라인에서는 구급차에 대한 양보가 이뤄지지 않은 상황을 비판하는 댓글이 잇따랐다. 누리꾼들은 \"생명보다 기록이 더 중요한 건가\", \"이건 정말 선을 넘었다\", \"구급차에 양보하는 건 기본 중의 기본 아니냐\" 등의 반응을 보였다. 반면 일부 참가자의 행동을 마라톤 참가자 전체의 문제로 일반화해서는 안 된다는 의견도 나왔다. 마라톤을 즐기는 시민들 사이에서도 구급차에 길을 양보하지 않은 행동은 잘못됐지만, 일부 사례를 근거로 러너 전체를 비난하는 것은 부당하다는 취지의 댓글이 이어졌다. 비슷한 시기에 비슷한 장소에서 마라톤 대회로 인한 보행자 사고 사례도 제기됐다. 지난 15일 오전 10시 8분쯤 서울 광진구 자양사거리에서는 마라톤 대회가 진행되던 중 주모(75) 씨가 횡단보도 인근에서 넘어지는 사고가 발생했다. 주씨는 평소처럼 주말에 사우나에 가기 위해 길을 건너려 했다. 그러나 마라톤 현장을 통제하던 경찰관의 제지를 받고 이동 방향을 바꾸는 과정에서 횡단보도에 설치된 볼라드에 걸려 넘어졌다는 게 주씨 측 설명이다. 볼라드는 차량의 인도 진입이나 불법 주정차를 막기 위해 횡단보도 주변 등에 설치하는 기둥형 구조물이다. 주씨는 사고로 대퇴경부 골절상을 입었고, 좌측 고관절 전체를 인공관절로 바꾸는 수술을 받았다. 가족 측은 병원에서 사고 이전처럼 독립적으로 걷기 어려울 수 있다는 설명을 들었다고 전했다. 주씨 측은 사고 당시 보행 과정에서 경찰의 통제를 따르다 넘어졌다고 주장했다. 사고 직후 병원 이송 과정에서도 경찰과 가족 측의 설명이 엇갈렸다. 주씨 측에 따르면 현장 경찰관은 119구급차를 이용하면 비용이 발생하고 마라톤 행사로 인해 도착까지 시간이 오래 걸린다는 취지로 설명하면서 경찰차를 이용해 인근 병원으로 이동하는 방안을 권유했다. 주씨는 낙상 지점에서 약 15ｍ 떨어진 경찰차까지 경찰의 부축을 받아 걸어갔다고 한다. 반면 광진경찰서 관할 파출소는 주씨가 접수한 국민신문고 민원에 대한 답변에서 다른 입장을 밝혔다. 경찰은 \"119 구급대 호출과 병원 이송을 여러 차례 권유했으나 피해자가 이를 명시적으로 거부했다\"고 설명했다. 사고 이후 배상 책임 문제도 제기됐다. 주씨 딸은 마라톤 주최 측이 가입한 보험사에 사고를 접수했지만, 주최 측의 배상 책임을 인정하기 어렵다는 취지의 답변을 받았다고 전했다. 보험사 측은 사고를 유발한 시설물이 기존에 설치돼 있던 것이고, 현장 교통 통제 역시 경찰이 담당했다는 점 등을 근거로 든 것으로 알려졌다. 주씨 가족은 마라톤 행사 중 발생한 사고로 중상을 입었지만 책임 소재와 피해 구제 방안을 놓고 어려움을 겪고 있다고 밝혔다. 주씨 딸은 \"마라톤으로 인한 교통통제 과정에서 일반 시민이 중상을 입었는데도 안전관리 책임을 지는 주체가 없다\"며 \"실제로 피해 본 시민은 어디에 책임을 묻고 피해 구제를 요청해야 하는지 답답한 상황\"이라고 말했다. 이어 \"골절 여부가 진단되기 전이었더라도, 고령의 낙상 환자가 다리 통증을 호소하는 상황에서 전문 구급대 평가 없이 걷게 한 조치가 의학적으로 적절했는지도 의문이 든다\"고 했다. 주씨 측은 사고와 관련해 국가배상 소송 제기를 검토하고 있다고 밝혔다.",
+        "source_part": "body",
+        "effective_at": null,
+        "derivation": "explicit",
+        "source_id": "1c5ccd602d81a41c77259a5f",
+        "source_revision": "6a50214bc9079d3920f839ea",
+        "reference_source": null
+       },
+       {
+        "field_path": "/service_status",
+        "quote": "사이렌을 울리며 유턴을 시도하는 구급차 앞에서도 마라톤 참가자들이 달리기를 멈추지 않는 영상이 공개되면서 비판이 제기되고 있다. 마라톤 교통 통제 과정에서 고령 보행자가 넘어져 중상을 입었다는 사례까지 알려지면서 일반 시민의 이동권과 안전 대책을 요구하는 목소리도 나오고 있다. 최근 온라인 커뮤니티와 사회관계망서비스(SNS)에는 구급차가 마라톤 참가자들 사이에서 유턴을 시도하는 장면이 담긴 영상이 확산했다. 영상에는 구급차가 사이렌을 울리며 방향을 바꾸려 하지만, 도로를 달리던 참가자들이 대부분 주행을 이어가는 모습이 담겼다. 참가자들은 구급차 앞을 지나 계속 달렸고, 구급차는 러너들의 대열이 잠시 끊긴 틈을 이용해 유턴했다. 이 영상은 구독자 50만명 규모의 유튜브 채널 '닥신TV'에 지난 16일 올라온 영상으로 보인다. 건국대병원 내과 전문의이자 유튜버인 신제욱씨는 '삼촌 출근길인데 마라톤이 한참이었다'라는 제목의 영상에서 최근 자전거를 타고 출근하던 중 병원 인근 도로에서 마라톤이 진행되고 있었다고 전했다. 신씨는 병원 앞 도로가 마라톤 코스로 사용되면서 보행자들이 평소처럼 길을 건너기 어려운 상황을 설명했다. 그는 \"병원 앞에서 마라톤이 진행되고 있어 좋은 감정만 갖게 되는 건 아니다\"라며 \"길을 건너려면 굉장히 돌아가야 했다\"라며 \"물론 돌아가면 되는 일이지만 솔직히 조금 반발심이 생겼다. 내가 왜 이런 피해를 받아야 하는가'라는 생각이 들었다\"고 했다. 특히 신씨는 구급차가 마라톤 참가자들 사이에서 유턴을 시도한 상황을 언급했다. 그는 \"119가 유턴해야 하는데 그럴 땐 잠깐 멈춰야 하지 않을까\"라며 \"결국 마라톤에 대한 여론이 좋지 않은 것도 이런 이유들이 있었던 것 같다\"고 덧붙였다. 영상이 퍼지자 온라인에서는 구급차에 대한 양보가 이뤄지지 않은 상황을 비판하는 댓글이 잇따랐다. 누리꾼들은 \"생명보다 기록이 더 중요한 건가\", \"이건 정말 선을 넘었다\", \"구급차에 양보하는 건 기본 중의 기본 아니냐\" 등의 반응을 보였다. 반면 일부 참가자의 행동을 마라톤 참가자 전체의 문제로 일반화해서는 안 된다는 의견도 나왔다. 마라톤을 즐기는 시민들 사이에서도 구급차에 길을 양보하지 않은 행동은 잘못됐지만, 일부 사례를 근거로 러너 전체를 비난하는 것은 부당하다는 취지의 댓글이 이어졌다. 비슷한 시기에 비슷한 장소에서 마라톤 대회로 인한 보행자 사고 사례도 제기됐다. 지난 15일 오전 10시 8분쯤 서울 광진구 자양사거리에서는 마라톤 대회가 진행되던 중 주모(75) 씨가 횡단보도 인근에서 넘어지는 사고가 발생했다. 주씨는 평소처럼 주말에 사우나에 가기 위해 길을 건너려 했다. 그러나 마라톤 현장을 통제하던 경찰관의 제지를 받고 이동 방향을 바꾸는 과정에서 횡단보도에 설치된 볼라드에 걸려 넘어졌다는 게 주씨 측 설명이다. 볼라드는 차량의 인도 진입이나 불법 주정차를 막기 위해 횡단보도 주변 등에 설치하는 기둥형 구조물이다. 주씨는 사고로 대퇴경부 골절상을 입었고, 좌측 고관절 전체를 인공관절로 바꾸는 수술을 받았다. 가족 측은 병원에서 사고 이전처럼 독립적으로 걷기 어려울 수 있다는 설명을 들었다고 전했다. 주씨 측은 사고 당시 보행 과정에서 경찰의 통제를 따르다 넘어졌다고 주장했다. 사고 직후 병원 이송 과정에서도 경찰과 가족 측의 설명이 엇갈렸다. 주씨 측에 따르면 현장 경찰관은 119구급차를 이용하면 비용이 발생하고 마라톤 행사로 인해 도착까지 시간이 오래 걸린다는 취지로 설명하면서 경찰차를 이용해 인근 병원으로 이동하는 방안을 권유했다. 주씨는 낙상 지점에서 약 15ｍ 떨어진 경찰차까지 경찰의 부축을 받아 걸어갔다고 한다. 반면 광진경찰서 관할 파출소는 주씨가 접수한 국민신문고 민원에 대한 답변에서 다른 입장을 밝혔다. 경찰은 \"119 구급대 호출과 병원 이송을 여러 차례 권유했으나 피해자가 이를 명시적으로 거부했다\"고 설명했다. 사고 이후 배상 책임 문제도 제기됐다. 주씨 딸은 마라톤 주최 측이 가입한 보험사에 사고를 접수했지만, 주최 측의 배상 책임을 인정하기 어렵다는 취지의 답변을 받았다고 전했다. 보험사 측은 사고를 유발한 시설물이 기존에 설치돼 있던 것이고, 현장 교통 통제 역시 경찰이 담당했다는 점 등을 근거로 든 것으로 알려졌다. 주씨 가족은 마라톤 행사 중 발생한 사고로 중상을 입었지만 책임 소재와 피해 구제 방안을 놓고 어려움을 겪고 있다고 밝혔다. 주씨 딸은 \"마라톤으로 인한 교통통제 과정에서 일반 시민이 중상을 입었는데도 안전관리 책임을 지는 주체가 없다\"며 \"실제로 피해 본 시민은 어디에 책임을 묻고 피해 구제를 요청해야 하는지 답답한 상황\"이라고 말했다. 이어 \"골절 여부가 진단되기 전이었더라도, 고령의 낙상 환자가 다리 통증을 호소하는 상황에서 전문 구급대 평가 없이 걷게 한 조치가 의학적으로 적절했는지도 의문이 든다\"고 했다. 주씨 측은 사고와 관련해 국가배상 소송 제기를 검토하고 있다고 밝혔다.",
+        "source_part": "body",
+        "effective_at": null,
+        "derivation": "explicit",
+        "source_id": "1c5ccd602d81a41c77259a5f",
+        "source_revision": "6a50214bc9079d3920f839ea",
+        "reference_source": null
+       },
+       {
+        "field_path": "/normal_service_exceptions",
+        "quote": "사이렌을 울리며 유턴을 시도하는 구급차 앞에서도 마라톤 참가자들이 달리기를 멈추지 않는 영상이 공개되면서 비판이 제기되고 있다. 마라톤 교통 통제 과정에서 고령 보행자가 넘어져 중상을 입었다는 사례까지 알려지면서 일반 시민의 이동권과 안전 대책을 요구하는 목소리도 나오고 있다. 최근 온라인 커뮤니티와 사회관계망서비스(SNS)에는 구급차가 마라톤 참가자들 사이에서 유턴을 시도하는 장면이 담긴 영상이 확산했다. 영상에는 구급차가 사이렌을 울리며 방향을 바꾸려 하지만, 도로를 달리던 참가자들이 대부분 주행을 이어가는 모습이 담겼다. 참가자들은 구급차 앞을 지나 계속 달렸고, 구급차는 러너들의 대열이 잠시 끊긴 틈을 이용해 유턴했다. 이 영상은 구독자 50만명 규모의 유튜브 채널 '닥신TV'에 지난 16일 올라온 영상으로 보인다. 건국대병원 내과 전문의이자 유튜버인 신제욱씨는 '삼촌 출근길인데 마라톤이 한참이었다'라는 제목의 영상에서 최근 자전거를 타고 출근하던 중 병원 인근 도로에서 마라톤이 진행되고 있었다고 전했다. 신씨는 병원 앞 도로가 마라톤 코스로 사용되면서 보행자들이 평소처럼 길을 건너기 어려운 상황을 설명했다. 그는 \"병원 앞에서 마라톤이 진행되고 있어 좋은 감정만 갖게 되는 건 아니다\"라며 \"길을 건너려면 굉장히 돌아가야 했다\"라며 \"물론 돌아가면 되는 일이지만 솔직히 조금 반발심이 생겼다. 내가 왜 이런 피해를 받아야 하는가'라는 생각이 들었다\"고 했다. 특히 신씨는 구급차가 마라톤 참가자들 사이에서 유턴을 시도한 상황을 언급했다. 그는 \"119가 유턴해야 하는데 그럴 땐 잠깐 멈춰야 하지 않을까\"라며 \"결국 마라톤에 대한 여론이 좋지 않은 것도 이런 이유들이 있었던 것 같다\"고 덧붙였다. 영상이 퍼지자 온라인에서는 구급차에 대한 양보가 이뤄지지 않은 상황을 비판하는 댓글이 잇따랐다. 누리꾼들은 \"생명보다 기록이 더 중요한 건가\", \"이건 정말 선을 넘었다\", \"구급차에 양보하는 건 기본 중의 기본 아니냐\" 등의 반응을 보였다. 반면 일부 참가자의 행동을 마라톤 참가자 전체의 문제로 일반화해서는 안 된다는 의견도 나왔다. 마라톤을 즐기는 시민들 사이에서도 구급차에 길을 양보하지 않은 행동은 잘못됐지만, 일부 사례를 근거로 러너 전체를 비난하는 것은 부당하다는 취지의 댓글이 이어졌다. 비슷한 시기에 비슷한 장소에서 마라톤 대회로 인한 보행자 사고 사례도 제기됐다. 지난 15일 오전 10시 8분쯤 서울 광진구 자양사거리에서는 마라톤 대회가 진행되던 중 주모(75) 씨가 횡단보도 인근에서 넘어지는 사고가 발생했다. 주씨는 평소처럼 주말에 사우나에 가기 위해 길을 건너려 했다. 그러나 마라톤 현장을 통제하던 경찰관의 제지를 받고 이동 방향을 바꾸는 과정에서 횡단보도에 설치된 볼라드에 걸려 넘어졌다는 게 주씨 측 설명이다. 볼라드는 차량의 인도 진입이나 불법 주정차를 막기 위해 횡단보도 주변 등에 설치하는 기둥형 구조물이다. 주씨는 사고로 대퇴경부 골절상을 입었고, 좌측 고관절 전체를 인공관절로 바꾸는 수술을 받았다. 가족 측은 병원에서 사고 이전처럼 독립적으로 걷기 어려울 수 있다는 설명을 들었다고 전했다. 주씨 측은 사고 당시 보행 과정에서 경찰의 통제를 따르다 넘어졌다고 주장했다. 사고 직후 병원 이송 과정에서도 경찰과 가족 측의 설명이 엇갈렸다. 주씨 측에 따르면 현장 경찰관은 119구급차를 이용하면 비용이 발생하고 마라톤 행사로 인해 도착까지 시간이 오래 걸린다는 취지로 설명하면서 경찰차를 이용해 인근 병원으로 이동하는 방안을 권유했다. 주씨는 낙상 지점에서 약 15ｍ 떨어진 경찰차까지 경찰의 부축을 받아 걸어갔다고 한다. 반면 광진경찰서 관할 파출소는 주씨가 접수한 국민신문고 민원에 대한 답변에서 다른 입장을 밝혔다. 경찰은 \"119 구급대 호출과 병원 이송을 여러 차례 권유했으나 피해자가 이를 명시적으로 거부했다\"고 설명했다. 사고 이후 배상 책임 문제도 제기됐다. 주씨 딸은 마라톤 주최 측이 가입한 보험사에 사고를 접수했지만, 주최 측의 배상 책임을 인정하기 어렵다는 취지의 답변을 받았다고 전했다. 보험사 측은 사고를 유발한 시설물이 기존에 설치돼 있던 것이고, 현장 교통 통제 역시 경찰이 담당했다는 점 등을 근거로 든 것으로 알려졌다. 주씨 가족은 마라톤 행사 중 발생한 사고로 중상을 입었지만 책임 소재와 피해 구제 방안을 놓고 어려움을 겪고 있다고 밝혔다. 주씨 딸은 \"마라톤으로 인한 교통통제 과정에서 일반 시민이 중상을 입었는데도 안전관리 책임을 지는 주체가 없다\"며 \"실제로 피해 본 시민은 어디에 책임을 묻고 피해 구제를 요청해야 하는지 답답한 상황\"이라고 말했다. 이어 \"골절 여부가 진단되기 전이었더라도, 고령의 낙상 환자가 다리 통증을 호소하는 상황에서 전문 구급대 평가 없이 걷게 한 조치가 의학적으로 적절했는지도 의문이 든다\"고 했다. 주씨 측은 사고와 관련해 국가배상 소송 제기를 검토하고 있다고 밝혔다.",
+        "source_part": "body",
+        "effective_at": null,
+        "derivation": "explicit",
+        "source_id": "1c5ccd602d81a41c77259a5f",
+        "source_revision": "6a50214bc9079d3920f839ea",
+        "reference_source": null
+       },
+       {
+        "field_path": "/alternative_services",
+        "quote": "사이렌을 울리며 유턴을 시도하는 구급차 앞에서도 마라톤 참가자들이 달리기를 멈추지 않는 영상이 공개되면서 비판이 제기되고 있다. 마라톤 교통 통제 과정에서 고령 보행자가 넘어져 중상을 입었다는 사례까지 알려지면서 일반 시민의 이동권과 안전 대책을 요구하는 목소리도 나오고 있다. 최근 온라인 커뮤니티와 사회관계망서비스(SNS)에는 구급차가 마라톤 참가자들 사이에서 유턴을 시도하는 장면이 담긴 영상이 확산했다. 영상에는 구급차가 사이렌을 울리며 방향을 바꾸려 하지만, 도로를 달리던 참가자들이 대부분 주행을 이어가는 모습이 담겼다. 참가자들은 구급차 앞을 지나 계속 달렸고, 구급차는 러너들의 대열이 잠시 끊긴 틈을 이용해 유턴했다. 이 영상은 구독자 50만명 규모의 유튜브 채널 '닥신TV'에 지난 16일 올라온 영상으로 보인다. 건국대병원 내과 전문의이자 유튜버인 신제욱씨는 '삼촌 출근길인데 마라톤이 한참이었다'라는 제목의 영상에서 최근 자전거를 타고 출근하던 중 병원 인근 도로에서 마라톤이 진행되고 있었다고 전했다. 신씨는 병원 앞 도로가 마라톤 코스로 사용되면서 보행자들이 평소처럼 길을 건너기 어려운 상황을 설명했다. 그는 \"병원 앞에서 마라톤이 진행되고 있어 좋은 감정만 갖게 되는 건 아니다\"라며 \"길을 건너려면 굉장히 돌아가야 했다\"라며 \"물론 돌아가면 되는 일이지만 솔직히 조금 반발심이 생겼다. 내가 왜 이런 피해를 받아야 하는가'라는 생각이 들었다\"고 했다. 특히 신씨는 구급차가 마라톤 참가자들 사이에서 유턴을 시도한 상황을 언급했다. 그는 \"119가 유턴해야 하는데 그럴 땐 잠깐 멈춰야 하지 않을까\"라며 \"결국 마라톤에 대한 여론이 좋지 않은 것도 이런 이유들이 있었던 것 같다\"고 덧붙였다. 영상이 퍼지자 온라인에서는 구급차에 대한 양보가 이뤄지지 않은 상황을 비판하는 댓글이 잇따랐다. 누리꾼들은 \"생명보다 기록이 더 중요한 건가\", \"이건 정말 선을 넘었다\", \"구급차에 양보하는 건 기본 중의 기본 아니냐\" 등의 반응을 보였다. 반면 일부 참가자의 행동을 마라톤 참가자 전체의 문제로 일반화해서는 안 된다는 의견도 나왔다. 마라톤을 즐기는 시민들 사이에서도 구급차에 길을 양보하지 않은 행동은 잘못됐지만, 일부 사례를 근거로 러너 전체를 비난하는 것은 부당하다는 취지의 댓글이 이어졌다. 비슷한 시기에 비슷한 장소에서 마라톤 대회로 인한 보행자 사고 사례도 제기됐다. 지난 15일 오전 10시 8분쯤 서울 광진구 자양사거리에서는 마라톤 대회가 진행되던 중 주모(75) 씨가 횡단보도 인근에서 넘어지는 사고가 발생했다. 주씨는 평소처럼 주말에 사우나에 가기 위해 길을 건너려 했다. 그러나 마라톤 현장을 통제하던 경찰관의 제지를 받고 이동 방향을 바꾸는 과정에서 횡단보도에 설치된 볼라드에 걸려 넘어졌다는 게 주씨 측 설명이다. 볼라드는 차량의 인도 진입이나 불법 주정차를 막기 위해 횡단보도 주변 등에 설치하는 기둥형 구조물이다. 주씨는 사고로 대퇴경부 골절상을 입었고, 좌측 고관절 전체를 인공관절로 바꾸는 수술을 받았다. 가족 측은 병원에서 사고 이전처럼 독립적으로 걷기 어려울 수 있다는 설명을 들었다고 전했다. 주씨 측은 사고 당시 보행 과정에서 경찰의 통제를 따르다 넘어졌다고 주장했다. 사고 직후 병원 이송 과정에서도 경찰과 가족 측의 설명이 엇갈렸다. 주씨 측에 따르면 현장 경찰관은 119구급차를 이용하면 비용이 발생하고 마라톤 행사로 인해 도착까지 시간이 오래 걸린다는 취지로 설명하면서 경찰차를 이용해 인근 병원으로 이동하는 방안을 권유했다. 주씨는 낙상 지점에서 약 15ｍ 떨어진 경찰차까지 경찰의 부축을 받아 걸어갔다고 한다. 반면 광진경찰서 관할 파출소는 주씨가 접수한 국민신문고 민원에 대한 답변에서 다른 입장을 밝혔다. 경찰은 \"119 구급대 호출과 병원 이송을 여러 차례 권유했으나 피해자가 이를 명시적으로 거부했다\"고 설명했다. 사고 이후 배상 책임 문제도 제기됐다. 주씨 딸은 마라톤 주최 측이 가입한 보험사에 사고를 접수했지만, 주최 측의 배상 책임을 인정하기 어렵다는 취지의 답변을 받았다고 전했다. 보험사 측은 사고를 유발한 시설물이 기존에 설치돼 있던 것이고, 현장 교통 통제 역시 경찰이 담당했다는 점 등을 근거로 든 것으로 알려졌다. 주씨 가족은 마라톤 행사 중 발생한 사고로 중상을 입었지만 책임 소재와 피해 구제 방안을 놓고 어려움을 겪고 있다고 밝혔다. 주씨 딸은 \"마라톤으로 인한 교통통제 과정에서 일반 시민이 중상을 입었는데도 안전관리 책임을 지는 주체가 없다\"며 \"실제로 피해 본 시민은 어디에 책임을 묻고 피해 구제를 요청해야 하는지 답답한 상황\"이라고 말했다. 이어 \"골절 여부가 진단되기 전이었더라도, 고령의 낙상 환자가 다리 통증을 호소하는 상황에서 전문 구급대 평가 없이 걷게 한 조치가 의학적으로 적절했는지도 의문이 든다\"고 했다. 주씨 측은 사고와 관련해 국가배상 소송 제기를 검토하고 있다고 밝혔다.",
+        "source_part": "body",
+        "effective_at": null,
+        "derivation": "explicit",
+        "source_id": "1c5ccd602d81a41c77259a5f",
+        "source_revision": "6a50214bc9079d3920f839ea",
+        "reference_source": null
+       },
+       {
+        "field_path": "/start",
+        "quote": "사이렌을 울리며 유턴을 시도하는 구급차 앞에서도 마라톤 참가자들이 달리기를 멈추지 않는 영상이 공개되면서 비판이 제기되고 있다. 마라톤 교통 통제 과정에서 고령 보행자가 넘어져 중상을 입었다는 사례까지 알려지면서 일반 시민의 이동권과 안전 대책을 요구하는 목소리도 나오고 있다. 최근 온라인 커뮤니티와 사회관계망서비스(SNS)에는 구급차가 마라톤 참가자들 사이에서 유턴을 시도하는 장면이 담긴 영상이 확산했다. 영상에는 구급차가 사이렌을 울리며 방향을 바꾸려 하지만, 도로를 달리던 참가자들이 대부분 주행을 이어가는 모습이 담겼다. 참가자들은 구급차 앞을 지나 계속 달렸고, 구급차는 러너들의 대열이 잠시 끊긴 틈을 이용해 유턴했다. 이 영상은 구독자 50만명 규모의 유튜브 채널 '닥신TV'에 지난 16일 올라온 영상으로 보인다. 건국대병원 내과 전문의이자 유튜버인 신제욱씨는 '삼촌 출근길인데 마라톤이 한참이었다'라는 제목의 영상에서 최근 자전거를 타고 출근하던 중 병원 인근 도로에서 마라톤이 진행되고 있었다고 전했다. 신씨는 병원 앞 도로가 마라톤 코스로 사용되면서 보행자들이 평소처럼 길을 건너기 어려운 상황을 설명했다. 그는 \"병원 앞에서 마라톤이 진행되고 있어 좋은 감정만 갖게 되는 건 아니다\"라며 \"길을 건너려면 굉장히 돌아가야 했다\"라며 \"물론 돌아가면 되는 일이지만 솔직히 조금 반발심이 생겼다. 내가 왜 이런 피해를 받아야 하는가'라는 생각이 들었다\"고 했다. 특히 신씨는 구급차가 마라톤 참가자들 사이에서 유턴을 시도한 상황을 언급했다. 그는 \"119가 유턴해야 하는데 그럴 땐 잠깐 멈춰야 하지 않을까\"라며 \"결국 마라톤에 대한 여론이 좋지 않은 것도 이런 이유들이 있었던 것 같다\"고 덧붙였다. 영상이 퍼지자 온라인에서는 구급차에 대한 양보가 이뤄지지 않은 상황을 비판하는 댓글이 잇따랐다. 누리꾼들은 \"생명보다 기록이 더 중요한 건가\", \"이건 정말 선을 넘었다\", \"구급차에 양보하는 건 기본 중의 기본 아니냐\" 등의 반응을 보였다. 반면 일부 참가자의 행동을 마라톤 참가자 전체의 문제로 일반화해서는 안 된다는 의견도 나왔다. 마라톤을 즐기는 시민들 사이에서도 구급차에 길을 양보하지 않은 행동은 잘못됐지만, 일부 사례를 근거로 러너 전체를 비난하는 것은 부당하다는 취지의 댓글이 이어졌다. 비슷한 시기에 비슷한 장소에서 마라톤 대회로 인한 보행자 사고 사례도 제기됐다. 지난 15일 오전 10시 8분쯤 서울 광진구 자양사거리에서는 마라톤 대회가 진행되던 중 주모(75) 씨가 횡단보도 인근에서 넘어지는 사고가 발생했다. 주씨는 평소처럼 주말에 사우나에 가기 위해 길을 건너려 했다. 그러나 마라톤 현장을 통제하던 경찰관의 제지를 받고 이동 방향을 바꾸는 과정에서 횡단보도에 설치된 볼라드에 걸려 넘어졌다는 게 주씨 측 설명이다. 볼라드는 차량의 인도 진입이나 불법 주정차를 막기 위해 횡단보도 주변 등에 설치하는 기둥형 구조물이다. 주씨는 사고로 대퇴경부 골절상을 입었고, 좌측 고관절 전체를 인공관절로 바꾸는 수술을 받았다. 가족 측은 병원에서 사고 이전처럼 독립적으로 걷기 어려울 수 있다는 설명을 들었다고 전했다. 주씨 측은 사고 당시 보행 과정에서 경찰의 통제를 따르다 넘어졌다고 주장했다. 사고 직후 병원 이송 과정에서도 경찰과 가족 측의 설명이 엇갈렸다. 주씨 측에 따르면 현장 경찰관은 119구급차를 이용하면 비용이 발생하고 마라톤 행사로 인해 도착까지 시간이 오래 걸린다는 취지로 설명하면서 경찰차를 이용해 인근 병원으로 이동하는 방안을 권유했다. 주씨는 낙상 지점에서 약 15ｍ 떨어진 경찰차까지 경찰의 부축을 받아 걸어갔다고 한다. 반면 광진경찰서 관할 파출소는 주씨가 접수한 국민신문고 민원에 대한 답변에서 다른 입장을 밝혔다. 경찰은 \"119 구급대 호출과 병원 이송을 여러 차례 권유했으나 피해자가 이를 명시적으로 거부했다\"고 설명했다. 사고 이후 배상 책임 문제도 제기됐다. 주씨 딸은 마라톤 주최 측이 가입한 보험사에 사고를 접수했지만, 주최 측의 배상 책임을 인정하기 어렵다는 취지의 답변을 받았다고 전했다. 보험사 측은 사고를 유발한 시설물이 기존에 설치돼 있던 것이고, 현장 교통 통제 역시 경찰이 담당했다는 점 등을 근거로 든 것으로 알려졌다. 주씨 가족은 마라톤 행사 중 발생한 사고로 중상을 입었지만 책임 소재와 피해 구제 방안을 놓고 어려움을 겪고 있다고 밝혔다. 주씨 딸은 \"마라톤으로 인한 교통통제 과정에서 일반 시민이 중상을 입었는데도 안전관리 책임을 지는 주체가 없다\"며 \"실제로 피해 본 시민은 어디에 책임을 묻고 피해 구제를 요청해야 하는지 답답한 상황\"이라고 말했다. 이어 \"골절 여부가 진단되기 전이었더라도, 고령의 낙상 환자가 다리 통증을 호소하는 상황에서 전문 구급대 평가 없이 걷게 한 조치가 의학적으로 적절했는지도 의문이 든다\"고 했다. 주씨 측은 사고와 관련해 국가배상 소송 제기를 검토하고 있다고 밝혔다.",
+        "source_part": "body",
+        "effective_at": null,
+        "derivation": "explicit",
+        "source_id": "1c5ccd602d81a41c77259a5f",
+        "source_revision": "6a50214bc9079d3920f839ea",
+        "reference_source": null
+       },
+       {
+        "field_path": "/end",
+        "quote": "사이렌을 울리며 유턴을 시도하는 구급차 앞에서도 마라톤 참가자들이 달리기를 멈추지 않는 영상이 공개되면서 비판이 제기되고 있다. 마라톤 교통 통제 과정에서 고령 보행자가 넘어져 중상을 입었다는 사례까지 알려지면서 일반 시민의 이동권과 안전 대책을 요구하는 목소리도 나오고 있다. 최근 온라인 커뮤니티와 사회관계망서비스(SNS)에는 구급차가 마라톤 참가자들 사이에서 유턴을 시도하는 장면이 담긴 영상이 확산했다. 영상에는 구급차가 사이렌을 울리며 방향을 바꾸려 하지만, 도로를 달리던 참가자들이 대부분 주행을 이어가는 모습이 담겼다. 참가자들은 구급차 앞을 지나 계속 달렸고, 구급차는 러너들의 대열이 잠시 끊긴 틈을 이용해 유턴했다. 이 영상은 구독자 50만명 규모의 유튜브 채널 '닥신TV'에 지난 16일 올라온 영상으로 보인다. 건국대병원 내과 전문의이자 유튜버인 신제욱씨는 '삼촌 출근길인데 마라톤이 한참이었다'라는 제목의 영상에서 최근 자전거를 타고 출근하던 중 병원 인근 도로에서 마라톤이 진행되고 있었다고 전했다. 신씨는 병원 앞 도로가 마라톤 코스로 사용되면서 보행자들이 평소처럼 길을 건너기 어려운 상황을 설명했다. 그는 \"병원 앞에서 마라톤이 진행되고 있어 좋은 감정만 갖게 되는 건 아니다\"라며 \"길을 건너려면 굉장히 돌아가야 했다\"라며 \"물론 돌아가면 되는 일이지만 솔직히 조금 반발심이 생겼다. 내가 왜 이런 피해를 받아야 하는가'라는 생각이 들었다\"고 했다. 특히 신씨는 구급차가 마라톤 참가자들 사이에서 유턴을 시도한 상황을 언급했다. 그는 \"119가 유턴해야 하는데 그럴 땐 잠깐 멈춰야 하지 않을까\"라며 \"결국 마라톤에 대한 여론이 좋지 않은 것도 이런 이유들이 있었던 것 같다\"고 덧붙였다. 영상이 퍼지자 온라인에서는 구급차에 대한 양보가 이뤄지지 않은 상황을 비판하는 댓글이 잇따랐다. 누리꾼들은 \"생명보다 기록이 더 중요한 건가\", \"이건 정말 선을 넘었다\", \"구급차에 양보하는 건 기본 중의 기본 아니냐\" 등의 반응을 보였다. 반면 일부 참가자의 행동을 마라톤 참가자 전체의 문제로 일반화해서는 안 된다는 의견도 나왔다. 마라톤을 즐기는 시민들 사이에서도 구급차에 길을 양보하지 않은 행동은 잘못됐지만, 일부 사례를 근거로 러너 전체를 비난하는 것은 부당하다는 취지의 댓글이 이어졌다. 비슷한 시기에 비슷한 장소에서 마라톤 대회로 인한 보행자 사고 사례도 제기됐다. 지난 15일 오전 10시 8분쯤 서울 광진구 자양사거리에서는 마라톤 대회가 진행되던 중 주모(75) 씨가 횡단보도 인근에서 넘어지는 사고가 발생했다. 주씨는 평소처럼 주말에 사우나에 가기 위해 길을 건너려 했다. 그러나 마라톤 현장을 통제하던 경찰관의 제지를 받고 이동 방향을 바꾸는 과정에서 횡단보도에 설치된 볼라드에 걸려 넘어졌다는 게 주씨 측 설명이다. 볼라드는 차량의 인도 진입이나 불법 주정차를 막기 위해 횡단보도 주변 등에 설치하는 기둥형 구조물이다. 주씨는 사고로 대퇴경부 골절상을 입었고, 좌측 고관절 전체를 인공관절로 바꾸는 수술을 받았다. 가족 측은 병원에서 사고 이전처럼 독립적으로 걷기 어려울 수 있다는 설명을 들었다고 전했다. 주씨 측은 사고 당시 보행 과정에서 경찰의 통제를 따르다 넘어졌다고 주장했다. 사고 직후 병원 이송 과정에서도 경찰과 가족 측의 설명이 엇갈렸다. 주씨 측에 따르면 현장 경찰관은 119구급차를 이용하면 비용이 발생하고 마라톤 행사로 인해 도착까지 시간이 오래 걸린다는 취지로 설명하면서 경찰차를 이용해 인근 병원으로 이동하는 방안을 권유했다. 주씨는 낙상 지점에서 약 15ｍ 떨어진 경찰차까지 경찰의 부축을 받아 걸어갔다고 한다. 반면 광진경찰서 관할 파출소는 주씨가 접수한 국민신문고 민원에 대한 답변에서 다른 입장을 밝혔다. 경찰은 \"119 구급대 호출과 병원 이송을 여러 차례 권유했으나 피해자가 이를 명시적으로 거부했다\"고 설명했다. 사고 이후 배상 책임 문제도 제기됐다. 주씨 딸은 마라톤 주최 측이 가입한 보험사에 사고를 접수했지만, 주최 측의 배상 책임을 인정하기 어렵다는 취지의 답변을 받았다고 전했다. 보험사 측은 사고를 유발한 시설물이 기존에 설치돼 있던 것이고, 현장 교통 통제 역시 경찰이 담당했다는 점 등을 근거로 든 것으로 알려졌다. 주씨 가족은 마라톤 행사 중 발생한 사고로 중상을 입었지만 책임 소재와 피해 구제 방안을 놓고 어려움을 겪고 있다고 밝혔다. 주씨 딸은 \"마라톤으로 인한 교통통제 과정에서 일반 시민이 중상을 입었는데도 안전관리 책임을 지는 주체가 없다\"며 \"실제로 피해 본 시민은 어디에 책임을 묻고 피해 구제를 요청해야 하는지 답답한 상황\"이라고 말했다. 이어 \"골절 여부가 진단되기 전이었더라도, 고령의 낙상 환자가 다리 통증을 호소하는 상황에서 전문 구급대 평가 없이 걷게 한 조치가 의학적으로 적절했는지도 의문이 든다\"고 했다. 주씨 측은 사고와 관련해 국가배상 소송 제기를 검토하고 있다고 밝혔다.",
+        "source_part": "body",
+        "effective_at": null,
+        "derivation": "explicit",
+        "source_id": "1c5ccd602d81a41c77259a5f",
+        "source_revision": "6a50214bc9079d3920f839ea",
+        "reference_source": null
+       }
+      ],
+      "review_reasons": []
+     }
+    }
+   ],
+   "events": {
+    "schema_version": "1.0",
+    "article_relevance": "related",
+    "processing_status": "success",
+    "source": {
+     "source_id": "1c5ccd602d81a41c77259a5f",
+     "source_url": "https://www.imaeil.com/page/view/2026112609332522772",
+     "source_revision": "6a50214bc9079d3920f839ea",
+     "published_at": null,
+     "updated_at": null,
+     "collected_at": "2026-11-28T03:55:17.374119+09:00"
+    },
+    "events": [
+     {
+      "event_ref": "11",
+      "event_name": "자양사거리에서는 마라톤",
+      "event_type": "MARATHON",
+      "event_status": "UNKNOWN",
+      "event_period": {
+       "start": {
+        "raw": "오전 10시 8분",
+        "date": null,
+        "time": "10:08",
+        "timezone": "Asia/Seoul",
+        "basis": "explicit",
+        "assertion": "planned",
+        "open_ended": null
+       },
+       "end": {
+        "raw": null,
+        "date": null,
+        "time": null,
+        "timezone": "Asia/Seoul",
+        "basis": "unknown",
+        "assertion": "unknown",
+        "open_ended": null
+       },
+       "precision": "UNKNOWN",
+       "condition": null
+      },
+      "event_locations": [
+       {
+        "raw": "서울",
+        "normalized_name": "서울",
+        "region": "서울",
+        "reference_id": null,
+        "derivation": "article_explicit",
+        "reference_source": null
+       }
+      ],
+      "impacts": [],
+      "evidence": [
+       {
+        "field_path": "/event",
+        "quote": "지난 15일 오전 10시 8분쯤 서울 광진구 자양사거리에서는 마라톤 대회가 진행되던 중 주모(75) 씨가 횡단보도 인근에서 넘어지는 사고가 발생했다.",
+        "source_part": "body",
+        "effective_at": null,
+        "derivation": "explicit",
+        "source_id": "1c5ccd602d81a41c77259a5f",
+        "source_revision": "6a50214bc9079d3920f839ea",
+        "reference_source": null
+       }
+      ],
+      "review_reasons": []
+     }
+    ],
+    "review_reasons": []
+   }
   }
  ],
  "transportReferences": [],
- "extractionFailures": []
+ "extractionFailures": [
+  {
+   "source_url": "https://www.newsis.com/view/NISX20261127_0003886459",
+   "status": "body_fetch_failed"
+  }
+ ]
 }
