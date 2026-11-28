@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-27T03:29:08.207182Z",
+  "generatedAt": "2026-11-28T03:04:57.914513Z",
   "windowDays": 90,
   "sources": [
     {
@@ -7,14 +7,14 @@
       "name": "서울 열린데이터광장 · 서울시 문화행사",
       "url": "https://data.seoul.go.kr/dataList/OA-15486/S/1/datasetView.do",
       "license": "공공누리",
-      "count": 273
+      "count": 272
     },
     {
       "id": "tour-festival",
       "name": "한국관광공사 TourAPI · 축제·행사",
       "url": "https://www.data.go.kr/data/15101578/openapi.do",
       "license": "공공누리",
-      "count": 63
+      "count": 64
     },
     {
       "id": "sotong-contest",
@@ -343,6 +343,35 @@
       "price": "무료"
     },
     {
+      "id": "seoul-156555",
+      "title": {
+        "ko": "[서울디자인재단] [해치와 나눔히어로] 장난감 기부, 나눔 체험",
+        "en": "Seoul Design Foundation [Haech & Sharing Hero] Toy Donation and Sharing Experience"
+      },
+      "description": {
+        "ko": "대상: 누구나\n요금: 무료",
+        "en": "A free toy donation and sharing experience event open to everyone."
+      },
+      "category": "classes",
+      "tags": [
+        "culture",
+        "volunteer"
+      ],
+      "start": "2026-01-02T10:00:00.000",
+      "end": "2026-12-31T18:00:00.000",
+      "venue": "서울새활용플라자 1층 새활용하우스",
+      "city": "서울 성동구",
+      "lat": 37.5586850612677,
+      "lng": 127.057851176035,
+      "url": "https://culture.seoul.go.kr/culture/culture/cultureEvent/view.do?cultcode=156555&menuNo=200011",
+      "registerUrl": "https://www.seoulup.or.kr/detail.do?NTT_ID=notice&BBS_ID=8226",
+      "source": "seoul-culture",
+      "sourceName": "서울 열린데이터광장 · 서울시 문화행사",
+      "imageUrl": "https://culture.seoul.go.kr/cmmn/file/getImage.do?atchFileId=0f77dbb41066453a9cf39fabf0b69b95&thumb=Y",
+      "isFree": true,
+      "price": "무료"
+    },
+    {
       "id": "seoul-156558",
       "title": {
         "ko": "[서울디자인재단] 2025 [Now for Zero-Waste Vol.2 : 새로제로] 展",
@@ -397,35 +426,6 @@
       "source": "seoul-culture",
       "sourceName": "서울 열린데이터광장 · 서울시 문화행사",
       "imageUrl": "https://culture.seoul.go.kr/cmmn/file/getImage.do?atchFileId=80e93c16fdef4ae49cf04b149dc2701f&thumb=Y",
-      "isFree": true,
-      "price": "무료"
-    },
-    {
-      "id": "seoul-156555",
-      "title": {
-        "ko": "[서울디자인재단] [해치와 나눔히어로] 장난감 기부, 나눔 체험",
-        "en": "Seoul Design Foundation [Haech & Sharing Hero] Toy Donation and Sharing Experience"
-      },
-      "description": {
-        "ko": "대상: 누구나\n요금: 무료",
-        "en": "A free toy donation and sharing experience event open to everyone."
-      },
-      "category": "classes",
-      "tags": [
-        "culture",
-        "volunteer"
-      ],
-      "start": "2026-01-02T10:00:00.000",
-      "end": "2026-12-31T18:00:00.000",
-      "venue": "서울새활용플라자 1층 새활용하우스",
-      "city": "서울 성동구",
-      "lat": 37.5586850612677,
-      "lng": 127.057851176035,
-      "url": "https://culture.seoul.go.kr/culture/culture/cultureEvent/view.do?cultcode=156555&menuNo=200011",
-      "registerUrl": "https://www.seoulup.or.kr/detail.do?NTT_ID=notice&BBS_ID=8226",
-      "source": "seoul-culture",
-      "sourceName": "서울 열린데이터광장 · 서울시 문화행사",
-      "imageUrl": "https://culture.seoul.go.kr/cmmn/file/getImage.do?atchFileId=0f77dbb41066453a9cf39fabf0b69b95&thumb=Y",
       "isFree": true,
       "price": "무료"
     },
@@ -890,6 +890,35 @@
       "isFree": true
     },
     {
+      "id": "seoul-156519",
+      "title": {
+        "ko": "[서울시립과학관] 2026 이공계 특화 진로 탐색",
+        "en": "[Seoul Science Park] 2026 STEM-Specialized Career Exploration"
+      },
+      "description": {
+        "ko": "대상: 고등학교 단체(10~20명)\n요금: 강좌 당 40만원",
+        "en": "Target audience: High school groups of 10 to 20 people. Fee: 400,000 KRW per lecture."
+      },
+      "category": "classes",
+      "tags": [
+        "career",
+        "student"
+      ],
+      "start": "2026-04-01T10:00:00.000",
+      "end": "2026-12-06T12:00:00.000",
+      "venue": "서울시립과학관 1~4교육실",
+      "city": "서울 노원구",
+      "lat": 37.6419941138165,
+      "lng": 127.07743706477,
+      "url": "https://culture.seoul.go.kr/culture/culture/cultureEvent/view.do?cultcode=156519&menuNo=200011",
+      "registerUrl": "https://science.seoul.go.kr/program/science/read?menuId=14&progMstId=1721",
+      "source": "seoul-culture",
+      "sourceName": "서울 열린데이터광장 · 서울시 문화행사",
+      "imageUrl": "https://culture.seoul.go.kr/cmmn/file/getImage.do?atchFileId=9407318681064f028d407ee59a8d1f09&thumb=Y",
+      "isFree": false,
+      "price": "강좌 당 40만원"
+    },
+    {
       "id": "seoul-156940",
       "title": {
         "ko": "[서울역사박물관] 2026년 [느낌있는 박물관] 중·고등학교 특수학급 기관 모집",
@@ -915,34 +944,6 @@
       "source": "seoul-culture",
       "sourceName": "서울 열린데이터광장 · 서울시 문화행사",
       "imageUrl": "https://culture.seoul.go.kr/cmmn/file/getImage.do?atchFileId=f76ba86eca1b43ff935a895f5017bcfd&thumb=Y",
-      "isFree": true
-    },
-    {
-      "id": "seoul-156701",
-      "title": {
-        "ko": "[서울생활사박물관] 2026년 무브무브 나의 생활사 교육생 모집 (초등 3~4학년 학급단체)",
-        "en": "[Seoul Life and History Museum] 2026 Move Move My Life History Education Program for Elementary 3rd-4th Grade Classes"
-      },
-      "description": {
-        "ko": "대상: 초등학교 3~4학년 학급단체",
-        "en": "Target audience: Elementary school 3rd and 4th-grade class groups."
-      },
-      "category": "classes",
-      "tags": [
-        "culture",
-        "student"
-      ],
-      "start": "2026-04-01T10:00:00.000",
-      "end": "2026-12-02T12:00:00.000",
-      "venue": "서울생활사박물관",
-      "city": "서울 노원구",
-      "lat": 37.6201739154268,
-      "lng": 127.076936195632,
-      "url": "https://culture.seoul.go.kr/culture/culture/cultureEvent/view.do?cultcode=156701&menuNo=200011",
-      "registerUrl": "https://museum.seoul.go.kr/sulm/board/NR_boardList.do?bbsCd=1005",
-      "source": "seoul-culture",
-      "sourceName": "서울 열린데이터광장 · 서울시 문화행사",
-      "imageUrl": "https://culture.seoul.go.kr/cmmn/file/getImage.do?atchFileId=6bbaf409b1094f6d869081497b8571b5&thumb=Y",
       "isFree": true
     },
     {
@@ -975,33 +976,32 @@
       "price": "강좌 당 25만원"
     },
     {
-      "id": "seoul-156519",
+      "id": "seoul-156701",
       "title": {
-        "ko": "[서울시립과학관] 2026 이공계 특화 진로 탐색",
-        "en": "[Seoul Science Park] 2026 STEM-Specialized Career Exploration"
+        "ko": "[서울생활사박물관] 2026년 무브무브 나의 생활사 교육생 모집 (초등 3~4학년 학급단체)",
+        "en": "[Seoul Life and History Museum] 2026 Move Move My Life History Education Program for Elementary 3rd-4th Grade Classes"
       },
       "description": {
-        "ko": "대상: 고등학교 단체(10~20명)\n요금: 강좌 당 40만원",
-        "en": "Target audience: High school groups of 10 to 20 people. Fee: 400,000 KRW per lecture."
+        "ko": "대상: 초등학교 3~4학년 학급단체",
+        "en": "Target audience: Elementary school 3rd and 4th-grade class groups."
       },
       "category": "classes",
       "tags": [
-        "career",
+        "culture",
         "student"
       ],
       "start": "2026-04-01T10:00:00.000",
-      "end": "2026-12-06T12:00:00.000",
-      "venue": "서울시립과학관 1~4교육실",
+      "end": "2026-12-02T12:00:00.000",
+      "venue": "서울생활사박물관",
       "city": "서울 노원구",
-      "lat": 37.6419941138165,
-      "lng": 127.07743706477,
-      "url": "https://culture.seoul.go.kr/culture/culture/cultureEvent/view.do?cultcode=156519&menuNo=200011",
-      "registerUrl": "https://science.seoul.go.kr/program/science/read?menuId=14&progMstId=1721",
+      "lat": 37.6201739154268,
+      "lng": 127.076936195632,
+      "url": "https://culture.seoul.go.kr/culture/culture/cultureEvent/view.do?cultcode=156701&menuNo=200011",
+      "registerUrl": "https://museum.seoul.go.kr/sulm/board/NR_boardList.do?bbsCd=1005",
       "source": "seoul-culture",
       "sourceName": "서울 열린데이터광장 · 서울시 문화행사",
-      "imageUrl": "https://culture.seoul.go.kr/cmmn/file/getImage.do?atchFileId=9407318681064f028d407ee59a8d1f09&thumb=Y",
-      "isFree": false,
-      "price": "강좌 당 40만원"
+      "imageUrl": "https://culture.seoul.go.kr/cmmn/file/getImage.do?atchFileId=6bbaf409b1094f6d869081497b8571b5&thumb=Y",
+      "isFree": true
     },
     {
       "id": "tour-3492276",
@@ -1142,63 +1142,6 @@
       "source": "seoul-culture",
       "sourceName": "서울 열린데이터광장 · 서울시 문화행사",
       "imageUrl": "https://culture.seoul.go.kr/cmmn/file/getImage.do?atchFileId=dabb8b336d274f21be1328303901fd47&thumb=Y",
-      "isFree": true
-    },
-    {
-      "id": "seoul-158804",
-      "title": {
-        "ko": "[서울백제어린이박물관] 2026 문화로 야금야금 연계 [백제왕성 달빛 캠프]",
-        "en": "[Seoul Baekje Children's Museum] 2026 Culture Night Linked [Baekje Royal Capital Moonlight Camp]"
-      },
-      "description": {
-        "ko": "대상: 유아·어린이 동반 30가족",
-        "en": "Target audience: 30 families accompanied by infants and children."
-      },
-      "category": "classes",
-      "tags": [
-        "family",
-        "culture",
-        "outdoor"
-      ],
-      "start": "2026-04-17T17:30:00.000",
-      "end": "2026-11-27T20:00:00.000",
-      "venue": "서울백제어린이박물관 주변 잔디밭",
-      "city": "서울 송파구",
-      "lat": 37.523991,
-      "lng": 127.124412,
-      "url": "https://culture.seoul.go.kr/culture/culture/cultureEvent/view.do?cultcode=158804&menuNo=200011",
-      "registerUrl": "https://baekjemuseum.seoul.go.kr/dreamvillage/board/notice/index.jsp?boardid=SDM0303000000&mmode=content&mpid=SDM0303000000&skin=notice&pid=23266&cpage=1",
-      "source": "seoul-culture",
-      "sourceName": "서울 열린데이터광장 · 서울시 문화행사",
-      "imageUrl": "https://culture.seoul.go.kr/cmmn/file/getImage.do?atchFileId=b84561d0b3fd44259a86fa9a1e88050a&thumb=Y",
-      "isFree": true
-    },
-    {
-      "id": "seoul-158803",
-      "title": {
-        "ko": "[서울백제어린이박물관] 2026 서울 문화의 밤 [문화로 야금야금] 연계 『백제왕도 달빛기행』",
-        "en": "[Seoul Baekje Children's Museum] 2026 Seoul Culture Night Linked Program [Baekje Kingdom Moonlight Tour]"
-      },
-      "description": {
-        "ko": "대상: 가족, 어린이",
-        "en": "Target audience: Families and children."
-      },
-      "category": "classes",
-      "tags": [
-        "family",
-        "culture"
-      ],
-      "start": "2026-04-17T17:30:00.000",
-      "end": "2026-11-27T20:00:00.000",
-      "venue": "서울백제어린이박물관 앞마당, 전시실 / 몽촌토성",
-      "city": "서울 송파구",
-      "lat": 37.523991,
-      "lng": 127.124412,
-      "url": "https://culture.seoul.go.kr/culture/culture/cultureEvent/view.do?cultcode=158803&menuNo=200011",
-      "registerUrl": "https://baekjemuseum.seoul.go.kr/dreamvillage/board/notice/index.jsp?boardid=SDM0303000000&mmode=content&mpid=SDM0303000000&skin=notice&pid=23264&cpage=1",
-      "source": "seoul-culture",
-      "sourceName": "서울 열린데이터광장 · 서울시 문화행사",
-      "imageUrl": "https://culture.seoul.go.kr/cmmn/file/getImage.do?atchFileId=842012fe31f148959348cdddb2c263e3&thumb=Y",
       "isFree": true
     },
     {
@@ -1460,6 +1403,34 @@
       "isFree": true
     },
     {
+      "id": "seoul-157809",
+      "title": {
+        "ko": "[서울문화예술교육센터강북] 상설프로젝트 [일상의 무대] 체험 전시 및 연계 워크숍",
+        "en": "[Seoul Arts and Culture Education Center Gangbuk] Permanent Project [Stage of Daily Life] Experience Exhibition and Linked Workshop"
+      },
+      "description": {
+        "ko": "대상: 누구나",
+        "en": "Target audience: Open to everyone."
+      },
+      "category": "classes",
+      "tags": [
+        "culture",
+        "art"
+      ],
+      "start": "2026-05-15T10:00:00.000",
+      "end": "2027-03-31T18:00:00.000",
+      "venue": "서울문화예술교육센터 강북 1층 예술도담",
+      "city": "서울 강북구",
+      "lat": 37.6195551709225,
+      "lng": 127.017722183323,
+      "url": "https://culture.seoul.go.kr/culture/culture/cultureEvent/view.do?cultcode=157809&menuNo=200011",
+      "registerUrl": "https://www.sfac.or.kr/opensquare/notice/notice_list.do?cbIdx=955&bcIdx=138037&type=",
+      "source": "seoul-culture",
+      "sourceName": "서울 열린데이터광장 · 서울시 문화행사",
+      "imageUrl": "https://culture.seoul.go.kr/cmmn/file/getImage.do?atchFileId=29a3ca1518a540c1a80d4df817752b32&thumb=Y",
+      "isFree": true
+    },
+    {
       "id": "seoul-157807",
       "title": {
         "ko": "[종로문화재단] 2026 박노수미술관 작가 협업전시 [향, 산수를 물들이다]",
@@ -1487,34 +1458,6 @@
       "imageUrl": "https://culture.seoul.go.kr/cmmn/file/getImage.do?atchFileId=5f03761607dd4fe69af0fc1fa4ed6490&thumb=Y",
       "isFree": false,
       "price": "어른: 3,000원, 청소년: 1,800원, 어린이: 1,200원"
-    },
-    {
-      "id": "seoul-157809",
-      "title": {
-        "ko": "[서울문화예술교육센터강북] 상설프로젝트 [일상의 무대] 체험 전시 및 연계 워크숍",
-        "en": "[Seoul Arts and Culture Education Center Gangbuk] Permanent Project [Stage of Daily Life] Experience Exhibition and Linked Workshop"
-      },
-      "description": {
-        "ko": "대상: 누구나",
-        "en": "Target audience: Open to everyone."
-      },
-      "category": "classes",
-      "tags": [
-        "culture",
-        "art"
-      ],
-      "start": "2026-05-15T10:00:00.000",
-      "end": "2027-03-31T18:00:00.000",
-      "venue": "서울문화예술교육센터 강북 1층 예술도담",
-      "city": "서울 강북구",
-      "lat": 37.6195551709225,
-      "lng": 127.017722183323,
-      "url": "https://culture.seoul.go.kr/culture/culture/cultureEvent/view.do?cultcode=157809&menuNo=200011",
-      "registerUrl": "https://www.sfac.or.kr/opensquare/notice/notice_list.do?cbIdx=955&bcIdx=138037&type=",
-      "source": "seoul-culture",
-      "sourceName": "서울 열린데이터광장 · 서울시 문화행사",
-      "imageUrl": "https://culture.seoul.go.kr/cmmn/file/getImage.do?atchFileId=29a3ca1518a540c1a80d4df817752b32&thumb=Y",
-      "isFree": true
     },
     {
       "id": "tour-4082595",
@@ -2062,33 +2005,6 @@
       "price": "강좌별 상이"
     },
     {
-      "id": "seoul-158629",
-      "title": {
-        "ko": "[서울문화재단] 《PLAY-UP 아카데미》 장막극 창작 트레이닝",
-        "en": "Seoul Foundation for Arts and Culture PLAY-UP Academy Full-Length Playwriting Training"
-      },
-      "description": {
-        "ko": "대상: 경력 5년 이하의 극작가",
-        "en": "A specialized training program designed for playwrights with five years of experience or less to enhance their full-length playwriting skills."
-      },
-      "category": "classes",
-      "tags": [
-        "culture"
-      ],
-      "start": "2026-08-07T14:00:00.000",
-      "end": "2026-11-27T17:00:00.000",
-      "venue": "서울연극창작센터",
-      "city": "서울 성북구",
-      "lat": 37.5892179362926,
-      "lng": 127.006040752071,
-      "url": "https://culture.seoul.go.kr/culture/culture/cultureEvent/view.do?cultcode=158629&menuNo=200011",
-      "registerUrl": "https://www.sfac.or.kr/participation/sfac_program.do?pageIndex=&eduMstSeq=37288&eduScheSeq=&mode=VIEW&mstStatus=&eduGubunSel=",
-      "source": "seoul-culture",
-      "sourceName": "서울 열린데이터광장 · 서울시 문화행사",
-      "imageUrl": "https://culture.seoul.go.kr/cmmn/file/getImage.do?atchFileId=6d11dd726fec4e308d7dfd40357af7ba&thumb=Y",
-      "isFree": true
-    },
-    {
       "id": "seoul-158855",
       "title": {
         "ko": "[우리역사문화도서관] 생활의 지혜, 기초 한문 강독 [사자소학 四字小學]",
@@ -2607,35 +2523,6 @@
       "price": "일부 프로그램 유료"
     },
     {
-      "id": "seoul-159453",
-      "title": {
-        "ko": "2026 코리아나미술관 소장품 기획전 [산수/풍경]",
-        "en": "2026 Coreana Museum of Art Collection Exhibition: Mountain and Scenery"
-      },
-      "description": {
-        "ko": "대상: 누구나\n요금: 무료",
-        "en": "A special exhibition featuring artworks from the Coreana Museum of Art collection. Admission is free and open to everyone."
-      },
-      "category": "exhibition",
-      "tags": [
-        "art",
-        "culture"
-      ],
-      "start": "2026-09-10T10:30:00.000",
-      "end": "2026-11-27T18:30:00.000",
-      "venue": "코리아나미술관 B1, B2",
-      "city": "서울 강남구",
-      "lat": 37.5240691643,
-      "lng": 127.032811048,
-      "url": "https://culture.seoul.go.kr/culture/culture/cultureEvent/view.do?cultcode=159453&menuNo=200009",
-      "registerUrl": "http://www.spacec.co.kr/gallery/gallery2",
-      "source": "seoul-culture",
-      "sourceName": "서울 열린데이터광장 · 서울시 문화행사",
-      "imageUrl": "https://culture.seoul.go.kr/cmmn/file/getImage.do?atchFileId=e1f37efb66644a52b0497f15e1058e92&thumb=Y",
-      "isFree": true,
-      "price": "무료"
-    },
-    {
       "id": "seoul-159334",
       "title": {
         "ko": "2026 문학 속 영화 투어",
@@ -2982,34 +2869,6 @@
       "isFree": true
     },
     {
-      "id": "seoul-159781",
-      "title": {
-        "ko": "[서울상상나라] 사랑하는 사이",
-        "en": "[Seoul Sangsangnara] Loving Relationship"
-      },
-      "description": {
-        "ko": "대상: 36개월 미만 영아, 보호자\n요금: 무료(입장료 4,000원 별도)",
-        "en": "A special program designed for infants under 36 months and their guardians. Free admission, though general museum entrance fees apply separately."
-      },
-      "category": "classes",
-      "tags": [
-        "family"
-      ],
-      "start": "2026-10-06T11:00:00.000",
-      "end": "2026-11-27T16:00:00.000",
-      "venue": "서울상상나라 2F 서울형키즈카페",
-      "city": "서울 광진구",
-      "lat": 37.55055,
-      "lng": 127.077569,
-      "url": "https://culture.seoul.go.kr/culture/culture/cultureEvent/view.do?cultcode=159781&menuNo=200011",
-      "registerUrl": "https://www.seoulchildrensmuseum.org/education/educationView.do?id=3003",
-      "source": "seoul-culture",
-      "sourceName": "서울 열린데이터광장 · 서울시 문화행사",
-      "imageUrl": "https://culture.seoul.go.kr/cmmn/file/getImage.do?atchFileId=75c84d79e385426b86ccd7038d6ead70&thumb=Y",
-      "isFree": true,
-      "price": "무료(입장료 4,000원 별도)"
-    },
-    {
       "id": "seoul-159924",
       "title": {
         "ko": "[서울아트책보고] 기획전시 《아트북그라피: 예술과 출판이 교차하는 지형》",
@@ -3039,34 +2898,6 @@
       "isFree": true
     },
     {
-      "id": "seoul-159729",
-      "title": {
-        "ko": "[소마미술관] 국립현대미술관미술은행 소장품기획전 《군락: 여섯 개의 뜰》",
-        "en": "[Soma Museum of Art] National Museum of Modern and Contemporary Art Art Bank Collection Exhibition 《Colony: Six Gardens》"
-      },
-      "description": {
-        "ko": "대상: 누구\n요금: 8,000원 / *단체(20명이상) 할인: 50%",
-        "en": "An exhibition showcasing selected artworks from the MMCA Art Bank collection. Group discounts are available for parties of 20 or more."
-      },
-      "category": "exhibition",
-      "tags": [
-        "art"
-      ],
-      "start": "2026-10-09T10:00:00.000",
-      "end": "2027-05-30T18:00:00.000",
-      "venue": "소마미술관 2관 기획전시실",
-      "city": "서울 송파구",
-      "lat": 37.516920655117,
-      "lng": 127.118166964751,
-      "url": "https://culture.seoul.go.kr/culture/culture/cultureEvent/view.do?cultcode=159729&menuNo=200009",
-      "registerUrl": "https://soma.kspo.or.kr/dspy/display/240",
-      "source": "seoul-culture",
-      "sourceName": "서울 열린데이터광장 · 서울시 문화행사",
-      "imageUrl": "https://culture.seoul.go.kr/cmmn/file/getImage.do?atchFileId=5b75eb5a5d864fbeb0319b68bf2c9c20&thumb=Y",
-      "isFree": false,
-      "price": "8,000원 / *단체(20명이상) 할인: 50%"
-    },
-    {
       "id": "seoul-160194",
       "title": {
         "ko": "군락: 여섯 개의 뜰 Cluster: Six Scenes",
@@ -3093,6 +2924,34 @@
       "imageUrl": "https://culture.seoul.go.kr/cmmn/file/getImage.do?atchFileId=46c0302026f341548529839e511bd2be&thumb=Y",
       "isFree": false,
       "price": "3,000~5,000원"
+    },
+    {
+      "id": "seoul-159729",
+      "title": {
+        "ko": "[소마미술관] 국립현대미술관미술은행 소장품기획전 《군락: 여섯 개의 뜰》",
+        "en": "[Soma Museum of Art] National Museum of Modern and Contemporary Art Art Bank Collection Exhibition 《Colony: Six Gardens》"
+      },
+      "description": {
+        "ko": "대상: 누구\n요금: 8,000원 / *단체(20명이상) 할인: 50%",
+        "en": "An exhibition showcasing selected artworks from the MMCA Art Bank collection. Group discounts are available for parties of 20 or more."
+      },
+      "category": "exhibition",
+      "tags": [
+        "art"
+      ],
+      "start": "2026-10-09T10:00:00.000",
+      "end": "2027-05-30T18:00:00.000",
+      "venue": "소마미술관 2관 기획전시실",
+      "city": "서울 송파구",
+      "lat": 37.516920655117,
+      "lng": 127.118166964751,
+      "url": "https://culture.seoul.go.kr/culture/culture/cultureEvent/view.do?cultcode=159729&menuNo=200009",
+      "registerUrl": "https://soma.kspo.or.kr/dspy/display/240",
+      "source": "seoul-culture",
+      "sourceName": "서울 열린데이터광장 · 서울시 문화행사",
+      "imageUrl": "https://culture.seoul.go.kr/cmmn/file/getImage.do?atchFileId=5b75eb5a5d864fbeb0319b68bf2c9c20&thumb=Y",
+      "isFree": false,
+      "price": "8,000원 / *단체(20명이상) 할인: 50%"
     },
     {
       "id": "tour-2987791",
@@ -3321,6 +3180,33 @@
       "isFree": true
     },
     {
+      "id": "seoul-159756",
+      "title": {
+        "ko": "[서울시립미술관 서소문본관] 린 허쉬만 리슨: 나의 [나]들",
+        "en": "[Seoul Museum of Art Seosomun Main Branch] Lynn Hershman Leeson: My [Selfie]s"
+      },
+      "description": {
+        "ko": "대상: 누구나",
+        "en": "An insightful exhibition exploring identity and technology by pioneering media artist Lynn Hershman Leeson. Open to the public."
+      },
+      "category": "exhibition",
+      "tags": [
+        "art"
+      ],
+      "start": "2026-10-21T10:00:00.000",
+      "end": "2027-02-21T20:00:00.000",
+      "venue": "서울시립미술관 서소문본관",
+      "city": "서울 중구",
+      "lat": 37.5641060692766,
+      "lng": 126.973699316136,
+      "url": "https://culture.seoul.go.kr/culture/culture/cultureEvent/view.do?cultcode=159756&menuNo=200009",
+      "registerUrl": "https://sema.seoul.go.kr/kr/whatson/exhibition/detail?exNo=1559068",
+      "source": "seoul-culture",
+      "sourceName": "서울 열린데이터광장 · 서울시 문화행사",
+      "imageUrl": "https://culture.seoul.go.kr/cmmn/file/getImage.do?atchFileId=8be072d96c9a429c80bc789679727b47&thumb=Y",
+      "isFree": true
+    },
+    {
       "id": "seoul-160081",
       "title": {
         "ko": "[서울공예박물관] 공예동행@쇼윈도 #6. 실루엣 Silhouette",
@@ -3346,33 +3232,6 @@
       "source": "seoul-culture",
       "sourceName": "서울 열린데이터광장 · 서울시 문화행사",
       "imageUrl": "https://culture.seoul.go.kr/cmmn/file/getImage.do?atchFileId=705198c3bf8542f495cef858d00ce51f&thumb=Y",
-      "isFree": true
-    },
-    {
-      "id": "seoul-159756",
-      "title": {
-        "ko": "[서울시립미술관 서소문본관] 린 허쉬만 리슨: 나의 [나]들",
-        "en": "[Seoul Museum of Art Seosomun Main Branch] Lynn Hershman Leeson: My [Selfie]s"
-      },
-      "description": {
-        "ko": "대상: 누구나",
-        "en": "An insightful exhibition exploring identity and technology by pioneering media artist Lynn Hershman Leeson. Open to the public."
-      },
-      "category": "exhibition",
-      "tags": [
-        "art"
-      ],
-      "start": "2026-10-21T10:00:00.000",
-      "end": "2027-02-21T20:00:00.000",
-      "venue": "서울시립미술관 서소문본관",
-      "city": "서울 중구",
-      "lat": 37.5641060692766,
-      "lng": 126.973699316136,
-      "url": "https://culture.seoul.go.kr/culture/culture/cultureEvent/view.do?cultcode=159756&menuNo=200009",
-      "registerUrl": "https://sema.seoul.go.kr/kr/whatson/exhibition/detail?exNo=1559068",
-      "source": "seoul-culture",
-      "sourceName": "서울 열린데이터광장 · 서울시 문화행사",
-      "imageUrl": "https://culture.seoul.go.kr/cmmn/file/getImage.do?atchFileId=8be072d96c9a429c80bc789679727b47&thumb=Y",
       "isFree": true
     },
     {
@@ -3405,6 +3264,33 @@
       "isFree": true
     },
     {
+      "id": "seoul-160034",
+      "title": {
+        "ko": "[용산문화재단] 협력전시 [Green Room 그린룸 by YEON YEOIN]",
+        "en": "[Yongsan Cultural Foundation] Collaborative Exhibition [Green Room by Yeon Yeoin]"
+      },
+      "description": {
+        "ko": "대상: 누구나",
+        "en": "A collaborative contemporary art exhibition featuring works by artist Yeon Yeoin. Open to everyone."
+      },
+      "category": "exhibition",
+      "tags": [
+        "art"
+      ],
+      "start": "2026-10-24T10:00:00.000",
+      "end": "2026-11-28T18:00:00.000",
+      "venue": "용산문화재단 복합문화공간 1층 팝업홀",
+      "city": "서울 용산구",
+      "lat": 37.5390273519405,
+      "lng": 127.002075483617,
+      "url": "https://culture.seoul.go.kr/culture/culture/cultureEvent/view.do?cultcode=160034&menuNo=200009",
+      "registerUrl": "https://yongsanculture.or.kr/site/main/performance/EXHIBITION/view/232",
+      "source": "seoul-culture",
+      "sourceName": "서울 열린데이터광장 · 서울시 문화행사",
+      "imageUrl": "https://culture.seoul.go.kr/cmmn/file/getImage.do?atchFileId=3c586f6c38ea49228a08cf9c93f72067&thumb=Y",
+      "isFree": true
+    },
+    {
       "id": "seoul-159911",
       "title": {
         "ko": "[서울시] 서울시 공공미술 작품전시 《평화의 잔상》",
@@ -3431,33 +3317,6 @@
       "imageUrl": "https://culture.seoul.go.kr/cmmn/file/getImage.do?atchFileId=4288a41a51cd4153b5d35893ab719984&thumb=Y",
       "isFree": true,
       "price": "무료"
-    },
-    {
-      "id": "seoul-160034",
-      "title": {
-        "ko": "[용산문화재단] 협력전시 [Green Room 그린룸 by YEON YEOIN]",
-        "en": "[Yongsan Cultural Foundation] Collaborative Exhibition [Green Room by Yeon Yeoin]"
-      },
-      "description": {
-        "ko": "대상: 누구나",
-        "en": "A collaborative contemporary art exhibition featuring works by artist Yeon Yeoin. Open to everyone."
-      },
-      "category": "exhibition",
-      "tags": [
-        "art"
-      ],
-      "start": "2026-10-24T10:00:00.000",
-      "end": "2026-11-28T18:00:00.000",
-      "venue": "용산문화재단 복합문화공간 1층 팝업홀",
-      "city": "서울 용산구",
-      "lat": 37.5390273519405,
-      "lng": 127.002075483617,
-      "url": "https://culture.seoul.go.kr/culture/culture/cultureEvent/view.do?cultcode=160034&menuNo=200009",
-      "registerUrl": "https://yongsanculture.or.kr/site/main/performance/EXHIBITION/view/232",
-      "source": "seoul-culture",
-      "sourceName": "서울 열린데이터광장 · 서울시 문화행사",
-      "imageUrl": "https://culture.seoul.go.kr/cmmn/file/getImage.do?atchFileId=3c586f6c38ea49228a08cf9c93f72067&thumb=Y",
-      "isFree": true
     },
     {
       "id": "seoul-159657",
@@ -3514,34 +3373,6 @@
       "source": "seoul-culture",
       "sourceName": "서울 열린데이터광장 · 서울시 문화행사",
       "imageUrl": "https://culture.seoul.go.kr/cmmn/file/getImage.do?atchFileId=ac8e6722ff864f1c8f84cee71a3248fd&thumb=Y",
-      "isFree": true
-    },
-    {
-      "id": "seoul-160002",
-      "title": {
-        "ko": "[서울역사박물관] 2026 딜쿠샤 주변 직장인 대상 점심시간 프로그램 [가을, 커피, 딜쿠샤 인사이드]",
-        "en": "[Seoul Museum of History] 2026 Lunchtime Program for Office Workers near Dilkusha [Autumn, Coffee, Dilkusha Inside]"
-      },
-      "description": {
-        "ko": "대상: 직장인",
-        "en": "A special lunchtime program designed for office workers around the Dilkusha area."
-      },
-      "category": "classes",
-      "tags": [
-        "culture",
-        "food"
-      ],
-      "start": "2026-10-28T12:10:00.000",
-      "end": "2026-11-27T12:35:00.000",
-      "venue": "서울역사박물관 딜쿠샤",
-      "city": "서울 종로구",
-      "lat": 37.5730423068152,
-      "lng": 126.963476480113,
-      "url": "https://culture.seoul.go.kr/culture/culture/cultureEvent/view.do?cultcode=160002&menuNo=200011",
-      "registerUrl": "https://yeyak.seoul.go.kr/web/reservation/selectReservView.do?rsv_svc_id=S261007133847859076",
-      "source": "seoul-culture",
-      "sourceName": "서울 열린데이터광장 · 서울시 문화행사",
-      "imageUrl": "https://culture.seoul.go.kr/cmmn/file/getImage.do?atchFileId=f5b49294131840e1a7fb98ca4573a871&thumb=Y",
       "isFree": true
     },
     {
@@ -3745,36 +3576,6 @@
       "isFree": true
     },
     {
-      "id": "seoul-160049",
-      "title": {
-        "ko": "[구립증산도서관] 2026년 11월 자녀교육 특성화 온라인 북큐레이션 [부모의 한 장이 아이의 한 걸음으로] 돈을 배우는 아이의 시간",
-        "en": "[Jeungsan Public Library] November 2026 Parenting Special Online Book Curation [A Parent's Page Leads to a Child's Step] Children Learning About Money"
-      },
-      "description": {
-        "ko": "대상: 누구나",
-        "en": "An online book curation providing financial education tips for parents."
-      },
-      "category": "festival",
-      "tags": [
-        "culture",
-        "books",
-        "finance",
-        "family"
-      ],
-      "start": "2026-11-01T10:00:00.000",
-      "end": "2026-11-30T18:00:00.000",
-      "venue": "구립증산도서관 홈페이지",
-      "city": "서울 은평구",
-      "lat": 37.5828094398328,
-      "lng": 126.907671330325,
-      "url": "https://culture.seoul.go.kr/culture/culture/cultureEvent/view.do?cultcode=160049&menuNo=200013",
-      "registerUrl": "https://www.eplib.or.kr/jslib/menu/10486/program/30113/curationDetail.do?currentPageNo=1&curationIdx=234395&manageCd=MB",
-      "source": "seoul-culture",
-      "sourceName": "서울 열린데이터광장 · 서울시 문화행사",
-      "imageUrl": "https://culture.seoul.go.kr/cmmn/file/getImage.do?atchFileId=88b50e34db8a482d9d764852b4f38afd&thumb=Y",
-      "isFree": true
-    },
-    {
       "id": "seoul-159845",
       "title": {
         "ko": "[송파 청년아티스트센터] 예술가와 함께하는 풍납 탐구 생활 11월 프로그램",
@@ -3828,6 +3629,36 @@
       "source": "seoul-culture",
       "sourceName": "서울 열린데이터광장 · 서울시 문화행사",
       "imageUrl": "https://culture.seoul.go.kr/cmmn/file/getImage.do?atchFileId=40c01f4c93254ed8acb7d7a8aeac11d7&thumb=Y",
+      "isFree": true
+    },
+    {
+      "id": "seoul-160049",
+      "title": {
+        "ko": "[구립증산도서관] 2026년 11월 자녀교육 특성화 온라인 북큐레이션 [부모의 한 장이 아이의 한 걸음으로] 돈을 배우는 아이의 시간",
+        "en": "[Jeungsan Public Library] November 2026 Parenting Special Online Book Curation [A Parent's Page Leads to a Child's Step] Children Learning About Money"
+      },
+      "description": {
+        "ko": "대상: 누구나",
+        "en": "An online book curation providing financial education tips for parents."
+      },
+      "category": "festival",
+      "tags": [
+        "culture",
+        "books",
+        "finance",
+        "family"
+      ],
+      "start": "2026-11-01T10:00:00.000",
+      "end": "2026-11-30T18:00:00.000",
+      "venue": "구립증산도서관 홈페이지",
+      "city": "서울 은평구",
+      "lat": 37.5828094398328,
+      "lng": 126.907671330325,
+      "url": "https://culture.seoul.go.kr/culture/culture/cultureEvent/view.do?cultcode=160049&menuNo=200013",
+      "registerUrl": "https://www.eplib.or.kr/jslib/menu/10486/program/30113/curationDetail.do?currentPageNo=1&curationIdx=234395&manageCd=MB",
+      "source": "seoul-culture",
+      "sourceName": "서울 열린데이터광장 · 서울시 문화행사",
+      "imageUrl": "https://culture.seoul.go.kr/cmmn/file/getImage.do?atchFileId=88b50e34db8a482d9d764852b4f38afd&thumb=Y",
       "isFree": true
     },
     {
@@ -3944,35 +3775,6 @@
       "isFree": true
     },
     {
-      "id": "seoul-160085",
-      "title": {
-        "ko": "[서울공예박물관 어린이박물관] 《나무의 비밀》 - 소목장세미와 만나는 나무공예",
-        "en": "Seoul Craft Museum Children's Museum: Secrets of Wood - Woodcraft with Master Somokjang Semi"
-      },
-      "description": {
-        "ko": "대상: 성인 보호자를 동반한 연나이 3~9세 어린이",
-        "en": "Explore woodcraft and meet master craftsman Somokjang Semi at the Seoul Craft Museum. This program is designed for children ages 3 to 9 accompanied by an adult guardian."
-      },
-      "category": "exhibition",
-      "tags": [
-        "art",
-        "culture",
-        "family"
-      ],
-      "start": "2026-11-03T10:00:00.000",
-      "end": "2027-09-19T13:10:00.000",
-      "venue": "교육동, 기타장소  3층 어린이박물관",
-      "city": "서울 종로구",
-      "lat": 37.5766481740232,
-      "lng": 126.983533363501,
-      "url": "https://culture.seoul.go.kr/culture/culture/cultureEvent/view.do?cultcode=160085&menuNo=200009",
-      "registerUrl": "https://craftmuseum.seoul.go.kr/exhibit/plan/view/199",
-      "source": "seoul-culture",
-      "sourceName": "서울 열린데이터광장 · 서울시 문화행사",
-      "imageUrl": "https://culture.seoul.go.kr/cmmn/file/getImage.do?atchFileId=5c84da024fc14095ae182a9ee42f4d0b&thumb=Y",
-      "isFree": true
-    },
-    {
       "id": "seoul-160139",
       "title": {
         "ko": "[서울시어울림플라자] 문화예술관 11~12월 문화예술 프로그램",
@@ -4002,86 +3804,32 @@
       "price": "프로그램별 상이"
     },
     {
-      "id": "seoul-159877",
+      "id": "seoul-160085",
       "title": {
-        "ko": "[중랑문화재단] 2026 중랑아트센터 [나대기 예술아카데미] 11월 프로그램",
-        "en": "[Jungnang Cultural Foundation] 2026 Jungnang Art Center [Nadaegi Art Academy] November Program"
+        "ko": "[서울공예박물관 어린이박물관] 《나무의 비밀》 - 소목장세미와 만나는 나무공예",
+        "en": "Seoul Craft Museum Children's Museum: Secrets of Wood - Woodcraft with Master Somokjang Semi"
       },
       "description": {
-        "ko": "대상: 성인\n요금: 프로그램별 상이 (상세 내용 참조)",
-        "en": "Adult art academy program offering diverse creative classes during November."
-      },
-      "category": "classes",
-      "tags": [
-        "art",
-        "culture"
-      ],
-      "start": "2026-11-03T10:00:00.000",
-      "end": "2026-11-27T18:00:00.000",
-      "venue": "중랑아트센터 프로그램실/시청각실",
-      "city": "서울 중랑구",
-      "lat": 37.5983328190955,
-      "lng": 127.091624142481,
-      "url": "https://culture.seoul.go.kr/culture/culture/cultureEvent/view.do?cultcode=159877&menuNo=200011",
-      "registerUrl": "https://www.jnfac.or.kr/art/edu/view/905",
-      "source": "seoul-culture",
-      "sourceName": "서울 열린데이터광장 · 서울시 문화행사",
-      "imageUrl": "https://culture.seoul.go.kr/cmmn/file/getImage.do?atchFileId=6065d14928fb4be5a47b789813604834&thumb=Y",
-      "isFree": false,
-      "price": "프로그램별 상이 (상세 내용 참조)"
-    },
-    {
-      "id": "seoul-159428",
-      "title": {
-        "ko": "[청계천박물관] 2026년 11월 초등1~3학년 학급단체 교육 [씽씽! 청계천 시간여행]",
-        "en": "Cheonggyecheon Museum November Elementary School Group Education: Zoom! Cheonggyecheon Time Travel"
-      },
-      "description": {
-        "ko": "대상: 어린이(초등1~3학년 학급 단체)",
-        "en": "An interactive educational group program designed for elementary school classes in grades 1 through 3 to explore the history of Cheonggyecheon."
-      },
-      "category": "classes",
-      "tags": [
-        "culture"
-      ],
-      "start": "2026-11-04T10:00:00.000",
-      "end": "2026-11-27T12:00:00.000",
-      "venue": "청계천박물관",
-      "city": "서울 성동구",
-      "lat": 37.5712661734969,
-      "lng": 127.03504316401,
-      "url": "https://culture.seoul.go.kr/culture/culture/cultureEvent/view.do?cultcode=159428&menuNo=200011",
-      "registerUrl": "https://yeyak.seoul.go.kr/web/reservation/selectReservView.do?rsv_svc_id=S260826105625074095",
-      "source": "seoul-culture",
-      "sourceName": "서울 열린데이터광장 · 서울시 문화행사",
-      "imageUrl": "https://culture.seoul.go.kr/cmmn/file/getImage.do?atchFileId=a5609f77692d4703b48fd331beea585d&thumb=Y",
-      "isFree": true
-    },
-    {
-      "id": "seoul-160037",
-      "title": {
-        "ko": "김한나의 개인전 [종이, 연필, 지우개, 책 (Paper, Pencil, Eraser, Book)]",
-        "en": "Kim Hanna Solo Exhibition: Paper, Pencil, Eraser, Book"
-      },
-      "description": {
-        "ko": "대상: 누구나",
-        "en": "Artist Kim Hanna presents a solo exhibition exploring the theme of everyday stationery and literature. The exhibition is open to the general public."
+        "ko": "대상: 성인 보호자를 동반한 연나이 3~9세 어린이",
+        "en": "Explore woodcraft and meet master craftsman Somokjang Semi at the Seoul Craft Museum. This program is designed for children ages 3 to 9 accompanied by an adult guardian."
       },
       "category": "exhibition",
       "tags": [
-        "art"
+        "art",
+        "culture",
+        "family"
       ],
-      "start": "2026-11-04T11:00:00.000",
-      "end": "2026-11-27T18:00:00.000",
-      "venue": "갤러리 플래닛 (서울시 강남구 압구정로 71길 14,2층)",
-      "city": "서울 강남구",
-      "lat": 37.5275164514377,
-      "lng": 127.045900812708,
-      "url": "https://culture.seoul.go.kr/culture/culture/cultureEvent/view.do?cultcode=160037&menuNo=200009",
-      "registerUrl": "http://galleryplanet.co.kr/paper-pencil-eraser-book%EC%A2%85%EC%9D%B4-%EC%97%B0%ED%95%84-%EC%A7%80%EC%9A%B0%EA%B0%9C-%EC%B1%85nov-04-2026-nov-27-2026kim-hanna/",
+      "start": "2026-11-03T10:00:00.000",
+      "end": "2027-09-19T13:10:00.000",
+      "venue": "교육동, 기타장소  3층 어린이박물관",
+      "city": "서울 종로구",
+      "lat": 37.5766481740232,
+      "lng": 126.983533363501,
+      "url": "https://culture.seoul.go.kr/culture/culture/cultureEvent/view.do?cultcode=160085&menuNo=200009",
+      "registerUrl": "https://craftmuseum.seoul.go.kr/exhibit/plan/view/199",
       "source": "seoul-culture",
       "sourceName": "서울 열린데이터광장 · 서울시 문화행사",
-      "imageUrl": "https://culture.seoul.go.kr/cmmn/file/getImage.do?atchFileId=62493b4328f24b51adddadc2133bae37&thumb=Y",
+      "imageUrl": "https://culture.seoul.go.kr/cmmn/file/getImage.do?atchFileId=5c84da024fc14095ae182a9ee42f4d0b&thumb=Y",
       "isFree": true
     },
     {
@@ -4224,91 +3972,6 @@
       "isFree": true
     },
     {
-      "id": "seoul-160094",
-      "title": {
-        "ko": "[주석모음집] 전시를 만드는 일에 대하여",
-        "en": "Footnote Collection: On the Work of Making Exhibitions"
-      },
-      "description": {
-        "ko": "출연: 김방주, 리드 스틸, 안성환, 야식과 낮잠, 윤충근, 장시재, 최은총\n대상: 누구나",
-        "en": "An exhibition exploring the collaborative process behind curating and mounting exhibitions, featuring contributions by multiple creators and artists."
-      },
-      "category": "exhibition",
-      "tags": [
-        "art"
-      ],
-      "start": "2026-11-06T13:00:00.000",
-      "end": "2026-11-27T19:00:00.000",
-      "venue": "화-일요일 13:00~19:00",
-      "city": "서울 종로구",
-      "lat": 37.5772195722771,
-      "lng": 127.009089447244,
-      "url": "https://culture.seoul.go.kr/culture/culture/cultureEvent/view.do?cultcode=160094&menuNo=200009",
-      "registerUrl": "https://archivist.kr/exi?m=gov&i=1793653275",
-      "source": "seoul-culture",
-      "sourceName": "서울 열린데이터광장 · 서울시 문화행사",
-      "imageUrl": "https://culture.seoul.go.kr/cmmn/file/getImage.do?atchFileId=b9f895aad74b41669941d54980fa739e&thumb=Y",
-      "isFree": true
-    },
-    {
-      "id": "seoul-160012",
-      "title": {
-        "ko": "[한성백제박물관] 박물관에서 함께 보는 영화 그리고 이야기 [박물관 무비톡]",
-        "en": "Hansung Baekje Museum Movie and Story Time: Museum Movie Talk"
-      },
-      "description": {
-        "ko": "대상: 누구나\n요금: 무료",
-        "en": "A free museum screening and discussion program pairing films with engaging stories. Open to all members of the public."
-      },
-      "category": "performance",
-      "tags": [
-        "culture",
-        "movie"
-      ],
-      "start": "2026-11-06T18:30:00.000",
-      "end": "2026-11-27T20:00:00.000",
-      "venue": "한성백제박물관 B2 교육실",
-      "city": "서울 송파구",
-      "lat": 37.51543881335773,
-      "lng": 127.12088940368128,
-      "url": "https://culture.seoul.go.kr/culture/culture/cultureEvent/view.do?cultcode=160012&menuNo=200013",
-      "registerUrl": "https://baekjemuseum.seoul.go.kr/module/index.jsp?boardid=SBM0501000000&mmode=content&mpid=SBM0501010000&skin=&pid=23600&cpage=1",
-      "source": "seoul-culture",
-      "sourceName": "서울 열린데이터광장 · 서울시 문화행사",
-      "imageUrl": "https://culture.seoul.go.kr/cmmn/file/getImage.do?atchFileId=236d5a1f439e40858f239868695bd344&thumb=Y",
-      "isFree": true,
-      "price": "무료"
-    },
-    {
-      "id": "seoul-160271",
-      "title": {
-        "ko": "[서울시립미술관 서소문본관] 2026 SeMA 11월 외국어 전시해설",
-        "en": "Seoul Museum of Art Seosomun Main Building: November Foreign Language Exhibition Tour"
-      },
-      "description": {
-        "ko": "대상: 누구나",
-        "en": "A foreign language exhibition docent tour open to everyone."
-      },
-      "category": "classes",
-      "tags": [
-        "culture",
-        "art",
-        "language"
-      ],
-      "start": "2026-11-07T10:00:00.000",
-      "end": "2026-12-06T18:00:00.000",
-      "venue": "서울시립미술관 서소문본관 2층 가나아트컬렉션 전시실/상설 전시실",
-      "city": "서울 종로구",
-      "lat": 37.5641060692766,
-      "lng": 126.973699316136,
-      "url": "https://culture.seoul.go.kr/culture/culture/cultureEvent/view.do?cultcode=160271&menuNo=200011",
-      "registerUrl": "https://sema.seoul.go.kr/kr/whatson/education/detail?acadmyEeNo=1593364",
-      "source": "seoul-culture",
-      "sourceName": "서울 열린데이터광장 · 서울시 문화행사",
-      "imageUrl": "https://culture.seoul.go.kr/cmmn/file/getImage.do?atchFileId=45a2f9b49180477fadd6be58bda91d90&thumb=Y",
-      "isFree": true
-    },
-    {
       "id": "seoul-160061",
       "title": {
         "ko": "[서울시어울림플라자] 보고, 느끼고, 함께 그리는 우리 가족 1박 2일 [어울림 아트캠프]",
@@ -4338,6 +4001,35 @@
       "imageUrl": "https://culture.seoul.go.kr/cmmn/file/getImage.do?atchFileId=b415eb429f69409290b8778a37e78879&thumb=Y",
       "isFree": false,
       "price": "2인 가족 90,000원, 3~4인 가족 150,000원(장애인 50% 적용가)"
+    },
+    {
+      "id": "seoul-160271",
+      "title": {
+        "ko": "[서울시립미술관 서소문본관] 2026 SeMA 11월 외국어 전시해설",
+        "en": "Seoul Museum of Art Seosomun Main Building: November Foreign Language Exhibition Tour"
+      },
+      "description": {
+        "ko": "대상: 누구나",
+        "en": "A foreign language exhibition docent tour open to everyone."
+      },
+      "category": "classes",
+      "tags": [
+        "culture",
+        "art",
+        "language"
+      ],
+      "start": "2026-11-07T10:00:00.000",
+      "end": "2026-12-06T18:00:00.000",
+      "venue": "서울시립미술관 서소문본관 2층 가나아트컬렉션 전시실/상설 전시실",
+      "city": "서울 종로구",
+      "lat": 37.5641060692766,
+      "lng": 126.973699316136,
+      "url": "https://culture.seoul.go.kr/culture/culture/cultureEvent/view.do?cultcode=160271&menuNo=200011",
+      "registerUrl": "https://sema.seoul.go.kr/kr/whatson/education/detail?acadmyEeNo=1593364",
+      "source": "seoul-culture",
+      "sourceName": "서울 열린데이터광장 · 서울시 문화행사",
+      "imageUrl": "https://culture.seoul.go.kr/cmmn/file/getImage.do?atchFileId=45a2f9b49180477fadd6be58bda91d90&thumb=Y",
+      "isFree": true
     },
     {
       "id": "tour-4144229",
@@ -4680,34 +4372,6 @@
       "price": "1인 5,000원 (36개월 미만 유아 무료, 65세 이상 어르신도 사전예약 필수)"
     },
     {
-      "id": "seoul-160246",
-      "title": {
-        "ko": "[세종뮤지엄갤러리] 기획초대전 [서울실경, 남도산천] 조풍류",
-        "en": "Sejong Museum Gallery: Cho Poongryu Invitation Exhibition - Real Sceneries of Seoul, Mountains and Rivers of Namdo"
-      },
-      "description": {
-        "ko": "대상: 누구나",
-        "en": "A special invitation exhibition featuring landscape works by artist Cho Poongryu."
-      },
-      "category": "exhibition",
-      "tags": [
-        "art",
-        "culture"
-      ],
-      "start": "2026-11-14T09:30:00.000",
-      "end": "2026-11-27T17:00:00.000",
-      "venue": "세종뮤지엄갤러리 1관",
-      "city": "서울 광진구",
-      "lat": 37.5516093089619,
-      "lng": 127.07318364213,
-      "url": "https://culture.seoul.go.kr/culture/culture/cultureEvent/view.do?cultcode=160246&menuNo=200009",
-      "registerUrl": "https://www.instagram.com/p/DftCB36IAvN/",
-      "source": "seoul-culture",
-      "sourceName": "서울 열린데이터광장 · 서울시 문화행사",
-      "imageUrl": "https://culture.seoul.go.kr/cmmn/file/getImage.do?atchFileId=0c1a341d04af4500bf00e78d76c4f0c8&thumb=Y",
-      "isFree": true
-    },
-    {
       "id": "seoul-160143",
       "title": {
         "ko": "[성북문화예술교육센터] 2026 성북문화예술교육센터 [오늘도 예술로 겨울시즌]",
@@ -4792,34 +4456,6 @@
       "price": "전석 50,000원"
     },
     {
-      "id": "seoul-160331",
-      "title": {
-        "ko": "[B the B] 1159X FUTURE BEAUTY LAB",
-        "en": "B the B: 1159X Future Beauty Lab"
-      },
-      "description": {
-        "ko": "대상: 누구나",
-        "en": "An exhibition open to everyone at B the B."
-      },
-      "category": "exhibition",
-      "tags": [
-        "art",
-        "culture"
-      ],
-      "start": "2026-11-16T12:00:00.000",
-      "end": "2026-12-20T20:00:00.000",
-      "venue": "비더비 DOWN-TOWN (서울시 중구 을지로 281, DDP마켓 지하 2층)",
-      "city": "서울 중구",
-      "lat": 37.5680445876689,
-      "lng": 127.010890355484,
-      "url": "https://culture.seoul.go.kr/culture/culture/cultureEvent/view.do?cultcode=160331&menuNo=200009",
-      "registerUrl": "https://btheb.sba.kr/sub/ongoing.php",
-      "source": "seoul-culture",
-      "sourceName": "서울 열린데이터광장 · 서울시 문화행사",
-      "imageUrl": "https://culture.seoul.go.kr/cmmn/file/getImage.do?atchFileId=80f9357666454ddbbdc8b16bfe5d138f&thumb=Y",
-      "isFree": true
-    },
-    {
       "id": "seoul-160193",
       "title": {
         "ko": "권순창 2026 초대전",
@@ -4847,32 +4483,31 @@
       "isFree": true
     },
     {
-      "id": "seoul-160152",
+      "id": "seoul-160331",
       "title": {
-        "ko": "[서울역사박물관] 다시 모은 조각들, 인사동의 시간",
-        "en": "Seoul Museum of History: Reassembled Fragments, The Time of Insadong"
+        "ko": "[B the B] 1159X FUTURE BEAUTY LAB",
+        "en": "B the B: 1159X Future Beauty Lab"
       },
       "description": {
         "ko": "대상: 누구나",
-        "en": "A historical exhibition exploring the rich heritage and temporal stories of Insadong. Open to all visitors."
+        "en": "An exhibition open to everyone at B the B."
       },
       "category": "exhibition",
       "tags": [
         "art",
-        "culture",
-        "travel"
+        "culture"
       ],
-      "start": "2026-11-17T09:00:00.000",
-      "end": "2027-03-28T18:00:00.000",
-      "venue": "인사도시유적전시관 기획전시실",
-      "city": "서울 종로구",
-      "lat": 37.5707849313822,
-      "lng": 126.986198735519,
-      "url": "https://culture.seoul.go.kr/culture/culture/cultureEvent/view.do?cultcode=160152&menuNo=200009",
-      "registerUrl": "https://museum.seoul.go.kr/www/board/NR_boardView.do?sortName=&q_listType=THUMBNAIL&searchVal=&bbsCd=1002&endDt=&searchKey=TITLE___1002&sso=ok&regPwd=N&museumCd=&pageType=&sortOrder=&q_exhSttus=next&startDt=&currentPage=&seq=20261106093257087&ctgCd=&showSummaryYn=N",
+      "start": "2026-11-16T12:00:00.000",
+      "end": "2026-12-20T20:00:00.000",
+      "venue": "비더비 DOWN-TOWN (서울시 중구 을지로 281, DDP마켓 지하 2층)",
+      "city": "서울 중구",
+      "lat": 37.5680445876689,
+      "lng": 127.010890355484,
+      "url": "https://culture.seoul.go.kr/culture/culture/cultureEvent/view.do?cultcode=160331&menuNo=200009",
+      "registerUrl": "https://btheb.sba.kr/sub/ongoing.php",
       "source": "seoul-culture",
       "sourceName": "서울 열린데이터광장 · 서울시 문화행사",
-      "imageUrl": "https://culture.seoul.go.kr/cmmn/file/getImage.do?atchFileId=03d0141078a04b3eb04e310436c5e1cc&thumb=Y",
+      "imageUrl": "https://culture.seoul.go.kr/cmmn/file/getImage.do?atchFileId=80f9357666454ddbbdc8b16bfe5d138f&thumb=Y",
       "isFree": true
     },
     {
@@ -4902,6 +4537,64 @@
       "source": "seoul-culture",
       "sourceName": "서울 열린데이터광장 · 서울시 문화행사",
       "imageUrl": "https://culture.seoul.go.kr/cmmn/file/getImage.do?atchFileId=cbd1a1ca16dc44509901f837bfd5d6af&thumb=Y",
+      "isFree": true
+    },
+    {
+      "id": "seoul-160328",
+      "title": {
+        "ko": "[청계천박물관] 도시의 경계, 중랑천",
+        "en": "Cheonggyecheon Museum: The Boundary of the City, Jungnangcheon Stream"
+      },
+      "description": {
+        "ko": "대상: 누구나\n요금: 무료",
+        "en": "This exhibition explores the history and significance of the Jungnangcheon Stream as a city boundary. Admission is free and open to everyone."
+      },
+      "category": "exhibition",
+      "tags": [
+        "art",
+        "culture"
+      ],
+      "start": "2026-11-17T09:00:00.000",
+      "end": "2027-03-28T18:00:00.000",
+      "venue": "청계천박물관 기획전시실",
+      "city": "서울 성동구",
+      "lat": 37.5712661734969,
+      "lng": 127.03504316401,
+      "url": "https://culture.seoul.go.kr/culture/culture/cultureEvent/view.do?cultcode=160328&menuNo=200009",
+      "registerUrl": "https://museum.seoul.go.kr/cgcm/board/NR_boardView.do?bbsCd=1002&seq=20261102161113083",
+      "source": "seoul-culture",
+      "sourceName": "서울 열린데이터광장 · 서울시 문화행사",
+      "imageUrl": "https://culture.seoul.go.kr/cmmn/file/getImage.do?atchFileId=e96dc05c1f0743608cb18f5b7d23d6ff&thumb=Y",
+      "isFree": true,
+      "price": "무료"
+    },
+    {
+      "id": "seoul-160152",
+      "title": {
+        "ko": "[서울역사박물관] 다시 모은 조각들, 인사동의 시간",
+        "en": "Seoul Museum of History: Reassembled Fragments, The Time of Insadong"
+      },
+      "description": {
+        "ko": "대상: 누구나",
+        "en": "A historical exhibition exploring the rich heritage and temporal stories of Insadong. Open to all visitors."
+      },
+      "category": "exhibition",
+      "tags": [
+        "art",
+        "culture",
+        "travel"
+      ],
+      "start": "2026-11-17T09:00:00.000",
+      "end": "2027-03-28T18:00:00.000",
+      "venue": "인사도시유적전시관 기획전시실",
+      "city": "서울 종로구",
+      "lat": 37.5707849313822,
+      "lng": 126.986198735519,
+      "url": "https://culture.seoul.go.kr/culture/culture/cultureEvent/view.do?cultcode=160152&menuNo=200009",
+      "registerUrl": "https://museum.seoul.go.kr/www/board/NR_boardView.do?sortName=&q_listType=THUMBNAIL&searchVal=&bbsCd=1002&endDt=&searchKey=TITLE___1002&sso=ok&regPwd=N&museumCd=&pageType=&sortOrder=&q_exhSttus=next&startDt=&currentPage=&seq=20261106093257087&ctgCd=&showSummaryYn=N",
+      "source": "seoul-culture",
+      "sourceName": "서울 열린데이터광장 · 서울시 문화행사",
+      "imageUrl": "https://culture.seoul.go.kr/cmmn/file/getImage.do?atchFileId=03d0141078a04b3eb04e310436c5e1cc&thumb=Y",
       "isFree": true
     },
     {
@@ -5018,36 +4711,6 @@
       "isFree": true
     },
     {
-      "id": "seoul-160166",
-      "title": {
-        "ko": "클래식 스테이지 온 스크린 [아레나 디 베로나 오페라 페스티벌 : 라보엠]",
-        "en": "Classic Stage on Screen: Arena di Verona Opera Festival - La Boheme"
-      },
-      "description": {
-        "ko": "대상: 초등학생 이상\n요금: 10,000원",
-        "en": "A screening of the renowned Arena di Verona Opera Festival production of La Boheme. Open to elementary school students and older."
-      },
-      "category": "performance",
-      "tags": [
-        "culture",
-        "music",
-        "movie"
-      ],
-      "start": "2026-11-18T14:00:00.000",
-      "end": "2026-11-27T19:00:00.000",
-      "venue": "서울어린이대공원 아트센터",
-      "city": "서울 광진구",
-      "lat": 37.5520117940291,
-      "lng": 127.078770241307,
-      "url": "https://culture.seoul.go.kr/culture/culture/cultureEvent/view.do?cultcode=160166&menuNo=200008",
-      "registerUrl": "https://booking.naver.com/booking/12/bizes/1771066",
-      "source": "seoul-culture",
-      "sourceName": "서울 열린데이터광장 · 서울시 문화행사",
-      "imageUrl": "https://culture.seoul.go.kr/cmmn/file/getImage.do?atchFileId=6c2cd094600f4513b3489c5975f68756&thumb=Y",
-      "isFree": false,
-      "price": "10,000원"
-    },
-    {
       "id": "seoul-159968",
       "title": {
         "ko": "[마포구립서강도서관] 11-12월/성인메이킹 [오일파스텔로 그리는 따뜻한 하루] / Book Cx클래스",
@@ -5133,6 +4796,34 @@
       "price": "- 성인 12,000원- 어린이/청소년/경로/특별할인 9,000원- 유아 무료※ 문화가 있는날 50% 할인"
     },
     {
+      "id": "seoul-160256",
+      "title": {
+        "ko": "[광화문광장] 2026 빛모락 스토리투어",
+        "en": "Gwanghwamun Square 2026 Bitmorak Story Tour"
+      },
+      "description": {
+        "ko": "대상: 누구나",
+        "en": "An engaging story tour experience at Gwanghwamun Square open to all visitors."
+      },
+      "category": "classes",
+      "tags": [
+        "culture",
+        "travel"
+      ],
+      "start": "2026-11-20T10:00:00.000",
+      "end": "2026-12-05T18:00:00.000",
+      "venue": "광화문 라운지",
+      "city": "서울 종로구",
+      "lat": 37.5716228232824,
+      "lng": 126.976787992565,
+      "url": "https://culture.seoul.go.kr/culture/culture/cultureEvent/view.do?cultcode=160256&menuNo=200011",
+      "registerUrl": "https://gwanghwamun.seoul.go.kr/ghm/event/ghm/detail.do?mid=1015&srchYmd=2026-11-18&srchType=&keyword=&pageNo=1&eventSn=1452",
+      "source": "seoul-culture",
+      "sourceName": "서울 열린데이터광장 · 서울시 문화행사",
+      "imageUrl": "https://culture.seoul.go.kr/cmmn/file/getImage.do?atchFileId=879de08516ab454e8a79afb5e0a2e544&thumb=Y",
+      "isFree": true
+    },
+    {
       "id": "seoul-160206",
       "title": {
         "ko": "[문화실험공간 호수] 12월 월간 호수랩: 호수의 연말선물",
@@ -5189,62 +4880,6 @@
       "isFree": true
     },
     {
-      "id": "seoul-160256",
-      "title": {
-        "ko": "[광화문광장] 2026 빛모락 스토리투어",
-        "en": "Gwanghwamun Square 2026 Bitmorak Story Tour"
-      },
-      "description": {
-        "ko": "대상: 누구나",
-        "en": "An engaging story tour experience at Gwanghwamun Square open to all visitors."
-      },
-      "category": "classes",
-      "tags": [
-        "culture",
-        "travel"
-      ],
-      "start": "2026-11-20T10:00:00.000",
-      "end": "2026-12-05T18:00:00.000",
-      "venue": "광화문 라운지",
-      "city": "서울 종로구",
-      "lat": 37.5716228232824,
-      "lng": 126.976787992565,
-      "url": "https://culture.seoul.go.kr/culture/culture/cultureEvent/view.do?cultcode=160256&menuNo=200011",
-      "registerUrl": "https://gwanghwamun.seoul.go.kr/ghm/event/ghm/detail.do?mid=1015&srchYmd=2026-11-18&srchType=&keyword=&pageNo=1&eventSn=1452",
-      "source": "seoul-culture",
-      "sourceName": "서울 열린데이터광장 · 서울시 문화행사",
-      "imageUrl": "https://culture.seoul.go.kr/cmmn/file/getImage.do?atchFileId=879de08516ab454e8a79afb5e0a2e544&thumb=Y",
-      "isFree": true
-    },
-    {
-      "id": "seoul-160299",
-      "title": {
-        "ko": "[아모레퍼시픽재단] 2026 장원(粧源) 특강",
-        "en": "Amorepacific Foundation: 2026 Jangwon Special Lecture"
-      },
-      "description": {
-        "ko": "AI시대 스스로 생각하는 힘을 기르는 인문학 강연\n대상: 누구나",
-        "en": "A humanities lecture exploring how to cultivate independent thinking in the age of AI. Open to everyone."
-      },
-      "category": "classes",
-      "tags": [
-        "culture",
-        "ai"
-      ],
-      "start": "2026-11-20T17:00:00.000",
-      "end": "2026-12-10T19:00:00.000",
-      "venue": "아모레퍼시픽 본사 2층 아모레홀",
-      "city": "서울 용산구",
-      "lat": 37.5287911785354,
-      "lng": 126.968673565462,
-      "url": "https://culture.seoul.go.kr/culture/culture/cultureEvent/view.do?cultcode=160299&menuNo=200011",
-      "registerUrl": "https://www.instagram.com/p/Df8jbLKmH5f/?utm_source=ig_web_copy_link&lqvp=MzRlODBiNWFlZA==&avpt=MzRlODBiNWFlZA==",
-      "source": "seoul-culture",
-      "sourceName": "서울 열린데이터광장 · 서울시 문화행사",
-      "imageUrl": "https://culture.seoul.go.kr/cmmn/file/getImage.do?atchFileId=8efe0f5ee90e4c6c9eae00b505b6cc5d&thumb=Y",
-      "isFree": true
-    },
-    {
       "id": "seoul-160230",
       "title": {
         "ko": "[서울역사박물관] 2026 제12회 유럽영화제 - 과거의 기억, 미래의 비전",
@@ -5270,34 +4905,6 @@
       "source": "seoul-culture",
       "sourceName": "서울 열린데이터광장 · 서울시 문화행사",
       "imageUrl": "https://culture.seoul.go.kr/cmmn/file/getImage.do?atchFileId=afd90fe492be4efbad268a911cab2a0b&thumb=Y",
-      "isFree": true
-    },
-    {
-      "id": "seoul-160145",
-      "title": {
-        "ko": "[역삼푸른솔도서관] 작가힙톡(Hip-Talk) [지금, 삶을 쓰다]",
-        "en": "[Yeoksam Purunsol Library] Author Hip-Talk [Now, Writing Life]"
-      },
-      "description": {
-        "ko": "평범한 일상에서 발견한 이야기, 경험과 상상으로 새롭게 쓰이는 삶. 우리가 살아가는 일상과 관계, 경험과 감정은 어떻게 소설 속 이야기가 될까요? 서로 다른 시선으로 삶을 바라보고, 이야기가 탄생하는 순간을 함께 만나보세요!\n출연: 이서수 작가, 임선우 작가\n대상: 성인",
-        "en": "Authors Lee Seo-su and Lim Sun-woo discuss how everyday stories and experiences transform into novels. Designed for adult participants."
-      },
-      "category": "classes",
-      "tags": [
-        "books",
-        "culture"
-      ],
-      "start": "2026-11-20T19:00:00.000",
-      "end": "2026-11-27T21:00:00.000",
-      "venue": "역삼푸른솔도서관 프로그램실",
-      "city": "서울 강남구",
-      "lat": 37.496499181425,
-      "lng": 127.032028764698,
-      "url": "https://culture.seoul.go.kr/culture/culture/cultureEvent/view.do?cultcode=160145&menuNo=200011",
-      "registerUrl": "https://library.gangnam.go.kr/ysplib/menu/10618/program/30013/lectureDetail.do?currentPageNo=1&searchCategory=&manageCd=MG&searchStatusCd=&lectureIdx=34178",
-      "source": "seoul-culture",
-      "sourceName": "서울 열린데이터광장 · 서울시 문화행사",
-      "imageUrl": "https://culture.seoul.go.kr/cmmn/file/getImage.do?atchFileId=77ae30ec58b8449995b8cd70d8257de7&thumb=Y",
       "isFree": true
     },
     {
@@ -5554,6 +5161,35 @@
       "price": "0원"
     },
     {
+      "id": "seoul-160321",
+      "title": {
+        "ko": "[충무아트센터] 뮤지컬 [레베카]",
+        "en": "Chungmu Art Center Musical: Rebecca"
+      },
+      "description": {
+        "ko": "대상: 8세 이상 관람가\n요금: VIP석 180,000원┃R석 150,000원 S석 120,000원┃A석 90,000원",
+        "en": "Experience the thrilling musical Rebecca at the Chungmu Art Center. Recommended for ages 8 and older."
+      },
+      "category": "performance",
+      "tags": [
+        "culture",
+        "music"
+      ],
+      "start": "2026-11-24T19:30:00.000",
+      "end": "2027-03-14T14:30:00.000",
+      "venue": "충무아트센터 대극장",
+      "city": "서울 중구",
+      "lat": 37.5659409687669,
+      "lng": 127.014790889728,
+      "url": "https://culture.seoul.go.kr/culture/culture/cultureEvent/view.do?cultcode=160321&menuNo=200008",
+      "registerUrl": "https://www.caci.or.kr/product/ko/performance/2555",
+      "source": "seoul-culture",
+      "sourceName": "서울 열린데이터광장 · 서울시 문화행사",
+      "imageUrl": "https://culture.seoul.go.kr/cmmn/file/getImage.do?atchFileId=2fa31c1bd06e481bac65299745f44f42&thumb=Y",
+      "isFree": false,
+      "price": "VIP석 180,000원┃R석 150,000원 S석 120,000원┃A석 90,000원"
+    },
+    {
       "id": "seoul-160293",
       "title": {
         "ko": "이성용 개인전 [화 花 Flower]",
@@ -5698,34 +5334,6 @@
       "price": "무료"
     },
     {
-      "id": "seoul-160261",
-      "title": {
-        "ko": "[서울시립미술관 서소문본관] 요모조모 이슬기",
-        "en": "SeMA Seosomun Main Building: Lee Suki's Yomo-zomo"
-      },
-      "description": {
-        "ko": "대상: 누구나",
-        "en": "A contemporary art exhibition showcasing works by artist Lee Suki. Open to all visitors at the Seoul Museum of Art."
-      },
-      "category": "exhibition",
-      "tags": [
-        "art",
-        "culture"
-      ],
-      "start": "2026-11-26T10:00:00.000",
-      "end": "2027-02-28T20:00:00.000",
-      "venue": "서울시립미술관 서소문본관 1층 전시실",
-      "city": "서울 중구",
-      "lat": 37.5641060692766,
-      "lng": 126.973699316136,
-      "url": "https://culture.seoul.go.kr/culture/culture/cultureEvent/view.do?cultcode=160261&menuNo=200009",
-      "registerUrl": "https://sema.seoul.go.kr/kr/whatson/exhibition/detail?exNo=1596752",
-      "source": "seoul-culture",
-      "sourceName": "서울 열린데이터광장 · 서울시 문화행사",
-      "imageUrl": "https://culture.seoul.go.kr/cmmn/file/getImage.do?atchFileId=bd245910fb6b4757b46d634497cb3400&thumb=Y",
-      "isFree": true
-    },
-    {
       "id": "tour-3396705",
       "title": {
         "ko": "울산문화박람회",
@@ -5752,6 +5360,34 @@
       "imageUrl": "https://tong.visitkorea.or.kr/cms/resource/24/4144124_image2_1.jpg",
       "isFree": true,
       "price": "무료(일부 유료)"
+    },
+    {
+      "id": "seoul-160261",
+      "title": {
+        "ko": "[서울시립미술관 서소문본관] 요모조모 이슬기",
+        "en": "SeMA Seosomun Main Building: Lee Suki's Yomo-zomo"
+      },
+      "description": {
+        "ko": "대상: 누구나",
+        "en": "A contemporary art exhibition showcasing works by artist Lee Suki. Open to all visitors at the Seoul Museum of Art."
+      },
+      "category": "exhibition",
+      "tags": [
+        "art",
+        "culture"
+      ],
+      "start": "2026-11-26T10:00:00.000",
+      "end": "2027-02-28T20:00:00.000",
+      "venue": "서울시립미술관 서소문본관 1층 전시실",
+      "city": "서울 중구",
+      "lat": 37.5641060692766,
+      "lng": 126.973699316136,
+      "url": "https://culture.seoul.go.kr/culture/culture/cultureEvent/view.do?cultcode=160261&menuNo=200009",
+      "registerUrl": "https://sema.seoul.go.kr/kr/whatson/exhibition/detail?exNo=1596752",
+      "source": "seoul-culture",
+      "sourceName": "서울 열린데이터광장 · 서울시 문화행사",
+      "imageUrl": "https://culture.seoul.go.kr/cmmn/file/getImage.do?atchFileId=bd245910fb6b4757b46d634497cb3400&thumb=Y",
+      "isFree": true
     },
     {
       "id": "tour-2853386",
@@ -5867,35 +5503,6 @@
       "price": "25,000원 (용산구민 할인혜택)"
     },
     {
-      "id": "seoul-160052",
-      "title": {
-        "ko": "[서울시립교향악단] 2026 서울시향 얍 판 츠베덴의 말러 교향곡 4번 ① ②",
-        "en": "Seoul Philharmonic Orchestra: 2026 Jaap van Zweden's Mahler Symphony No. 4 ① ②"
-      },
-      "description": {
-        "ko": "얍 판 츠베덴 음악감독의 정교하고 카리스마 넘치는 지휘 아래 현존 최고의 비올리스트 앙투안 타메스티와 와 퀸 엘리자베스 콩쿠르 우승에 빛나는 소프라노 황수미가 펼치는 천상의 선율\n출연: (지휘) 얍 판 츠베덴, (협연) 비올라 앙투안 타메스티, 소프라노 황수미\n대상: 초등학생 이상 관람가\n요금: R 150,000원 S 120,000원 A 80,000원 B 40,000원 C 10,000원",
-        "en": "Music Director Jaap van Zweden leads the Seoul Philharmonic Orchestra in a magnificent performance featuring violist Antoine Tamestit and soprano Hwang Su-mi. Open to elementary school students and older."
-      },
-      "category": "concert",
-      "tags": [
-        "music",
-        "culture"
-      ],
-      "start": "2026-11-26T19:30:00.000",
-      "end": "2026-11-27T21:10:00.000",
-      "venue": "롯데콘서트홀",
-      "city": "서울 송파구",
-      "lat": 37.5137519612953,
-      "lng": 127.104446890835,
-      "url": "https://culture.seoul.go.kr/culture/culture/cultureEvent/view.do?cultcode=160052&menuNo=200008",
-      "registerUrl": "https://www.seoulphil.or.kr/perf/list?pageIndex=2",
-      "source": "seoul-culture",
-      "sourceName": "서울 열린데이터광장 · 서울시 문화행사",
-      "imageUrl": "https://culture.seoul.go.kr/cmmn/file/getImage.do?atchFileId=44cb3aa519e24fc8b4a63b3a689de045&thumb=Y",
-      "isFree": false,
-      "price": "R 150,000원 S 120,000원 A 80,000원 B 40,000원 C 10,000원"
-    },
-    {
       "id": "seoul-160303",
       "title": {
         "ko": "[서울시립과학관] 특별기획전 [겉은 바삭하게, 속은 과학으로]",
@@ -5952,6 +5559,35 @@
       "isFree": true
     },
     {
+      "id": "seoul-160362",
+      "title": {
+        "ko": "이미리 개인전 [찰나의 공명]",
+        "en": "Lee Mi-ri Solo Exhibition: Resonance of the Moment"
+      },
+      "description": {
+        "ko": "사진전\n출연: 이미리 작가\n대상: 누구나\n요금: 무료",
+        "en": "A special photography exhibition featuring works by artist Lee Mi-ri. Admission is free for everyone."
+      },
+      "category": "exhibition",
+      "tags": [
+        "art",
+        "photo"
+      ],
+      "start": "2026-11-27T11:00:00.000",
+      "end": "2026-12-07T19:00:00.000",
+      "venue": "와이아트 갤러리",
+      "city": "서울 중구",
+      "lat": 37.5623817630809,
+      "lng": 126.991642957434,
+      "url": "https://culture.seoul.go.kr/culture/culture/cultureEvent/view.do?cultcode=160362&menuNo=200009",
+      "registerUrl": "https://blog.naver.com/gu5658/224494643497",
+      "source": "seoul-culture",
+      "sourceName": "서울 열린데이터광장 · 서울시 문화행사",
+      "imageUrl": "https://culture.seoul.go.kr/cmmn/file/getImage.do?atchFileId=3f9e6e4b4b9c4b1086d7dcce11185e10&thumb=Y",
+      "isFree": true,
+      "price": "무료"
+    },
+    {
       "id": "tour-4111479",
       "title": {
         "ko": "제3회 추도 섬 영화제",
@@ -5980,37 +5616,6 @@
       "imageUrl": "https://tong.visitkorea.or.kr/cms/resource/10/4163310_image2_1.png",
       "isFree": false,
       "price": "100,000원(숙식포함)"
-    },
-    {
-      "id": "seoul-160296",
-      "title": {
-        "ko": "2026년 디자인·문화콘텐츠 산업울림포럼 [린치핀: 대체 불가능한 인재가 되는 방법]",
-        "en": "2026 Design and Cultural Contents Industry Echo Forum: Lynchpin"
-      },
-      "description": {
-        "ko": "AX 시대, 디자인·콘텐츠 핵심인재 되기. 바디프랜드·바이스버사·밍글앤코 리더가 전하는 커리어 성장법. 참가자 전원 디자인코리아 입장권, 선착순 100명 조명 증정\n출연: 바디프랜드 염일수 소장, 바이스버사 스튜디오 김묘영 대표, 밍글앤코 최수진 대표, 계원예대 박진현 교수\n대상: 성인(디자인 문화콘텐츠 커리어 성장에 관심있는 누구나)\n요금: 참가자 전원 디자인코리아 입장권, 선착순 100명 기념품 증정",
-        "en": "Learn how to become an irreplaceable talent in the AX era through career growth talks by industry leaders. All participants receive a Design Korea ticket, with souvenirs for the first 100 people."
-      },
-      "category": "festival",
-      "tags": [
-        "culture",
-        "career",
-        "design",
-        "startup"
-      ],
-      "start": "2026-11-27T12:30:00.000",
-      "end": "2026-11-27T15:00:00.000",
-      "venue": "코엑스 B홀 2026년 디자인코리아 행사장 내 토크관",
-      "city": "서울 강남구",
-      "lat": 37.5118239121138,
-      "lng": 127.059159043842,
-      "url": "https://culture.seoul.go.kr/culture/culture/cultureEvent/view.do?cultcode=160296&menuNo=200013",
-      "registerUrl": "https://forms.gle/VYNPMUAbXxdmBWfe9",
-      "source": "seoul-culture",
-      "sourceName": "서울 열린데이터광장 · 서울시 문화행사",
-      "imageUrl": "https://culture.seoul.go.kr/cmmn/file/getImage.do?atchFileId=88aead6affac4f5cb9f6082e22892f55&thumb=Y",
-      "isFree": true,
-      "price": "참가자 전원 디자인코리아 입장권, 선착순 100명 기념품 증정"
     },
     {
       "id": "seoul-159902",
@@ -6042,35 +5647,6 @@
       "price": "전석 10,000원 (어린이 할인 50%)"
     },
     {
-      "id": "seoul-160297",
-      "title": {
-        "ko": "2026 디자인·문화콘텐츠 청년커리어성장 토크콘서트 [안뉴잘부: 안녕하세요 뉴비입니다]",
-        "en": "2026 Design and Cultural Contents Youth Career Growth Talk Concert: Hello Newbie"
-      },
-      "description": {
-        "ko": "인하우스·에이전시·창업, 먼저 걸어간 현직 디자이너에게 첫 커리어 준비법을 듣는 2026 디자인·문화콘텐츠 ISC 청년커리어성장 토크콘서트\n대상: 디자인·문화콘텐츠 분야 취업에 관심있는 누구나\n요금: 참가자 전원 디자인코리아 입장권, 선착순 100명 기념품 증정",
-        "en": "A talk concert providing first-time career preparation tips from experienced designers working in in-house, agency, and startup roles. All attendees receive a Design Korea ticket and early bird gifts."
-      },
-      "category": "classes",
-      "tags": [
-        "career",
-        "design"
-      ],
-      "start": "2026-11-27T15:00:00.000",
-      "end": "2026-11-27T17:00:00.000",
-      "venue": "코엑스 B홀 2026년 디자인코리아 행사장 내 토크관",
-      "city": "서울 강남구",
-      "lat": 37.5118239121138,
-      "lng": 127.059159043842,
-      "url": "https://culture.seoul.go.kr/culture/culture/cultureEvent/view.do?cultcode=160297&menuNo=200011",
-      "registerUrl": "https://forms.gle/VYNPMUAbXxdmBWfe9",
-      "source": "seoul-culture",
-      "sourceName": "서울 열린데이터광장 · 서울시 문화행사",
-      "imageUrl": "https://culture.seoul.go.kr/cmmn/file/getImage.do?atchFileId=b6dd3a1ab84b42c5aa96c7b75d9c33da&thumb=Y",
-      "isFree": true,
-      "price": "참가자 전원 디자인코리아 입장권, 선착순 100명 기념품 증정"
-    },
-    {
       "id": "seoul-160183",
       "title": {
         "ko": "[송파문화재단] 2026 송파 문화예술 활성화 지원사업 선정작 [상속배틀]",
@@ -6098,31 +5674,61 @@
       "isFree": true
     },
     {
-      "id": "seoul-160212",
+      "id": "tour-4179229",
       "title": {
-        "ko": "[서울문화재단] 문학으로 모이는 방법들 2026 [서로의 독자가 되는 법 : 정지아·김기창 소설가 × 이지은 평론가]",
-        "en": "Seoul Foundation for Arts and Culture Literature Program: How to Gather Through Literature"
+        "ko": "거제 K-푸드로드 92데이",
+        "en": "Geoje K-Food Road 92 Day"
       },
       "description": {
-        "ko": "대상: 서울시민 누구나",
-        "en": "A special literary talk featuring novelists Jung Ji-a and Kim Ki-chong alongside critic Lee Ji-eun. Designed for Seoul citizens interested in becoming better readers and writers."
+        "ko": "'제1회 거제 K-푸드로드 92데이 - 삶겹로드 2026'은 거제시가 문화체육관광부, 거제시관광협의회와 함께 추진하는 ‘거제 삼겹살 거리’ 축제이다. 조선업 노동자들의 삶과 삼겹살에 얽힌 이야기를 바탕으로, 거제의 음식문화와 지역 상권을 연결하는 행사이다.\n2026년 11월 27일부터 29일까지 3일간 개최되며, 행사 기간에는 차량을 통제한 차 없는 거리를 조성하여 다양한 체험 및 문화 프로그램을 운영한다. 주요 프로그램으로는 드럼통 삼겹살 굽기 퍼포먼스, 야외 테이블 취식 공간, 미니 버스킹 공연, 포토월 등이 마련된다. 특히 11월 27일에는 거리 조명 및 트리 점등식이 진행되어 축제 분위기를 더할 예정이다. 방문객들이 삼겹살을 중심으로 먹거리와 공연, 다양한 즐길 거리를 함께 경험할 수 있도록 구성한 지역 상권 활성화 축제이다.\n\n1. 메인프로그램\n- 대형화로장터 퍼포먼스, 야장 테이블 취식, 거리조명·대형트리 점등식\n\n2. 부대프로그램\n- 보이는 라디오, 미니 버스킹\n\n3. 소비자 참여 프로그램\n- 삼겹쿠폰, 삼겹살 LAB(나만의 소스 만들기, 마구찍는 포토부스), 그 시절 돼지고기 쿠폰을 찾습니다 등\n\n시간: 15:00~20:00\n\n요금: 무료",
+        "en": "A vibrant local food festival celebrating Geoje's pork belly culture and shipyard history with outdoor dining and performances. Enjoy free admission, street lighting ceremonies, mini busking, and interactive programs."
+      },
+      "category": "festival",
+      "tags": [
+        "culture",
+        "food",
+        "travel",
+        "outdoor"
+      ],
+      "start": "2026-11-27T15:00:00.000",
+      "end": "2026-11-29T20:00:00.000",
+      "venue": "옥포 삼겹살 거리",
+      "city": "경남 거제시",
+      "lat": 34.8907759762,
+      "lng": 128.6953285292,
+      "url": "https://litt.ly/salmgyeoproad",
+      "source": "tour-festival",
+      "sourceName": "한국관광공사 TourAPI · 축제·행사",
+      "imageUrl": "https://tong.visitkorea.or.kr/cms/resource/39/4179239_image2_1.png",
+      "isFree": true,
+      "price": "무료"
+    },
+    {
+      "id": "seoul-160299",
+      "title": {
+        "ko": "[아모레퍼시픽재단] 2026 장원(粧源) 특강",
+        "en": "Amorepacific Foundation: 2026 Jangwon Special Lecture"
+      },
+      "description": {
+        "ko": "AI시대 스스로 생각하는 힘을 기르는 인문학 강연\n대상: 누구나",
+        "en": "A humanities lecture exploring how to cultivate independent thinking in the age of AI. Open to everyone."
       },
       "category": "classes",
       "tags": [
-        "books",
-        "culture"
+        "culture",
+        "ai"
       ],
-      "start": "2026-11-27T16:00:00.000",
-      "end": "2026-11-27T18:00:00.000",
-      "venue": "서울문화예술교육센터 용산",
+      "start": "2026-11-27T17:00:00.000",
+      "end": "2026-12-11T19:00:00.000",
+      "venue": "아모레퍼시픽 본사 2층 아모레홀",
       "city": "서울 용산구",
-      "lat": 37.5269056148241,
-      "lng": 126.966566172294,
-      "url": "https://culture.seoul.go.kr/culture/culture/cultureEvent/view.do?cultcode=160212&menuNo=200011",
-      "registerUrl": "https://www.sfac.or.kr/artspace/artspace/yeonhui_notice.do?cbIdx=990&bcIdx=139101",
+      "lat": 37.5287911785354,
+      "lng": 126.968673565462,
+      "url": "https://culture.seoul.go.kr/culture/culture/cultureEvent/view.do?cultcode=160299&menuNo=200011",
+      "registerUrl": "https://www.instagram.com/p/Df8jbLKmH5f/?utm_source=ig_web_copy_link&lqvp=MzRlODBiNWFlZA==&avpt=MzRlODBiNWFlZA==",
       "source": "seoul-culture",
       "sourceName": "서울 열린데이터광장 · 서울시 문화행사",
-      "imageUrl": "https://culture.seoul.go.kr/cmmn/file/getImage.do?atchFileId=662461e4a69b4fe68e90aef6b097333d&thumb=Y",
+      "imageUrl": "https://culture.seoul.go.kr/cmmn/file/getImage.do?atchFileId=8efe0f5ee90e4c6c9eae00b505b6cc5d&thumb=Y",
       "isFree": true
     },
     {
@@ -6186,63 +5792,6 @@
       "price": "무료"
     },
     {
-      "id": "seoul-160121",
-      "title": {
-        "ko": "[마포구립서강도서관] 11월/어린이 강좌 [소녀돌봄약국]",
-        "en": "Mapo Seogang Library: November Children's Class - Girls' Care Pharmacy"
-      },
-      "description": {
-        "ko": "대상: 초등학교 5~6학년 여자 어린이, 15명",
-        "en": "A specialized health and care education program designed for 5th and 6th-grade female elementary students."
-      },
-      "category": "classes",
-      "tags": [
-        "student",
-        "culture"
-      ],
-      "start": "2026-11-27T19:00:00.000",
-      "end": "2026-11-27T20:00:00.000",
-      "venue": "마포구립서강도서관 4층 어린이자료실",
-      "city": "서울 마포구",
-      "lat": 37.5477347268018,
-      "lng": 126.932061794829,
-      "url": "https://culture.seoul.go.kr/culture/culture/cultureEvent/view.do?cultcode=160121&menuNo=200011",
-      "registerUrl": "https://mplib.mapo.go.kr/sglib/MENU1200/PGM3021/lectureDetail.do?currentPageNo=1&lectureId=LEC0017693&searchLibraryCode=",
-      "source": "seoul-culture",
-      "sourceName": "서울 열린데이터광장 · 서울시 문화행사",
-      "imageUrl": "https://culture.seoul.go.kr/cmmn/file/getImage.do?atchFileId=8a4e311b23db4242827579b1cb52d7c9&thumb=Y",
-      "isFree": true
-    },
-    {
-      "id": "seoul-160028",
-      "title": {
-        "ko": "[서울도서관] 11월 작가힙톡(Hip-Talk) - (한국편집기자협회) 뉴스의 편집과 AI",
-        "en": "Seoul Library: November Hip-Talk with Authors - News Editing and AI"
-      },
-      "description": {
-        "ko": "대상: 서울도서관 회원",
-        "en": "Hosted by the Korea Editors' Association, this session explores the intersection of journalism, news editing, and artificial intelligence. Available for Seoul Library members."
-      },
-      "category": "classes",
-      "tags": [
-        "ai",
-        "books",
-        "career"
-      ],
-      "start": "2026-11-27T19:00:00.000",
-      "end": "2026-11-27T20:30:00.000",
-      "venue": "서울도서관 1층 생각마루",
-      "city": "서울 중구",
-      "lat": 37.5663174209601,
-      "lng": 126.977829174031,
-      "url": "https://culture.seoul.go.kr/culture/culture/cultureEvent/view.do?cultcode=160028&menuNo=200011",
-      "registerUrl": "https://lib.seoul.go.kr/lecture/applyDetail/7583",
-      "source": "seoul-culture",
-      "sourceName": "서울 열린데이터광장 · 서울시 문화행사",
-      "imageUrl": "https://culture.seoul.go.kr/cmmn/file/getImage.do?atchFileId=f4a9f100ea4c495db25eb8d8f068efc6&thumb=Y",
-      "isFree": true
-    },
-    {
       "id": "seoul-159872",
       "title": {
         "ko": "[성동문화재단] 오페레타 [유쾌한 미망인]",
@@ -6299,31 +5848,88 @@
       "isFree": true
     },
     {
-      "id": "seoul-160219",
+      "id": "seoul-160309",
       "title": {
-        "ko": "연희집단 The 광대 [연희땡쑈]",
-        "en": "Traditional Arts Troupe The Gwangdae: Yeonhui Show"
+        "ko": "[구립증산도서관] 보드게임과 함께하는 어린이 투자교실 [도전! 주식투자]",
+        "en": "Jeungsan District Library Kids Investment Class: Challenge! Stock Investment with Board Games"
       },
       "description": {
-        "ko": "대상: 만 7세 이상 누구나",
-        "en": "An energetic traditional performance filled with masked dance, acrobatics, and folk music by Yeonhui Troupe The Gwangdae. Suitable for ages 7 and older."
+        "ko": "대상: 초등 3~6학년 어린이 16명",
+        "en": "An educational board game program designed to introduce elementary school students to basic investment concepts. Open to 16 children in grades 3 through 6."
+      },
+      "category": "classes",
+      "tags": [
+        "finance",
+        "student"
+      ],
+      "start": "2026-11-28T10:00:00.000",
+      "end": "2026-11-28T12:00:00.000",
+      "venue": "구립증산도서관 지하 1층 문화강좌실",
+      "city": "서울 은평구",
+      "lat": 37.5828094398328,
+      "lng": 126.907671330325,
+      "url": "https://culture.seoul.go.kr/culture/culture/cultureEvent/view.do?cultcode=160309&menuNo=200011",
+      "registerUrl": "https://www.eplib.or.kr/jslib/menu/10457/program/30028/eventLectureDetail.do?currentPageNo=1&lectureIdx=236571&manageCd=MB&searchTarget=&searchStatus=OPEN",
+      "source": "seoul-culture",
+      "sourceName": "서울 열린데이터광장 · 서울시 문화행사",
+      "imageUrl": "https://culture.seoul.go.kr/cmmn/file/getImage.do?atchFileId=eed0bd65743647ccb93550a68f00d146&thumb=Y",
+      "isFree": true
+    },
+    {
+      "id": "seoul-160313",
+      "title": {
+        "ko": "[서울영화센터] 비평가주간 [칸 IN 서울] 상영 기획전",
+        "en": "Seoul Cinema Center Critics' Week: Cannes IN Seoul Screening"
+      },
+      "description": {
+        "ko": "대상: 누구나\n요금: 7,000원 (기획전패스 이용시 5,000원)",
+        "en": "A special film screening program featuring selected works from the Cannes Critics' Week. Open to the general public with ticket fees applied."
       },
       "category": "performance",
       "tags": [
         "culture",
-        "music"
+        "movie"
       ],
-      "start": "2026-11-27T19:30:00.000",
-      "end": "2026-11-27T21:30:00.000",
-      "venue": "중랑구청 대강당 (중랑구청 B1층)",
-      "city": "서울 중랑구",
-      "lat": 37.6065635856848,
-      "lng": 127.09272484193,
-      "url": "https://culture.seoul.go.kr/culture/culture/cultureEvent/view.do?cultcode=160219&menuNo=200008",
-      "registerUrl": "https://booking.naver.com/booking/12/bizes/1742081",
+      "start": "2026-11-28T10:00:00.000",
+      "end": "2026-12-06T22:00:00.000",
+      "venue": "서울영화센터 로비 및 상영관",
+      "city": "서울 중구",
+      "lat": 37.5641618036958,
+      "lng": 126.992108521208,
+      "url": "https://culture.seoul.go.kr/culture/culture/cultureEvent/view.do?cultcode=160313&menuNo=200013",
+      "registerUrl": "https://www.seoulfilmcenter.com/bbs/view.do?pstSn=2611200001&key=2508270018&pageIndex=1&sc_bbsCtgrySn=0&sw=&recordCountPerPage=10",
       "source": "seoul-culture",
       "sourceName": "서울 열린데이터광장 · 서울시 문화행사",
-      "imageUrl": "https://culture.seoul.go.kr/cmmn/file/getImage.do?atchFileId=dcda9ebb348d4ffb9ed7254a95ebf5eb&thumb=Y",
+      "imageUrl": "https://culture.seoul.go.kr/cmmn/file/getImage.do?atchFileId=17bb0a3afc1040fd9d6b3a831812d1f1&thumb=Y",
+      "isFree": false,
+      "price": "7,000원 (기획전패스 이용시 5,000원)"
+    },
+    {
+      "id": "seoul-160278",
+      "title": {
+        "ko": "그림책의 안쪽: 일본 그림책 작가 3인의 창작 노트",
+        "en": "Inside Picture Books: Creative Notes of Three Japanese Picture Book Authors"
+      },
+      "description": {
+        "ko": "대상: 누구나",
+        "en": "An exhibition showcasing the creative process and notes of three Japanese picture book creators. Open to all visitors."
+      },
+      "category": "exhibition",
+      "tags": [
+        "art",
+        "books"
+      ],
+      "start": "2026-11-28T11:00:00.000",
+      "end": "2027-01-14T18:00:00.000",
+      "venue": "아트센터림 1층 아트윈도우, 2층 갤러리 1,2관",
+      "city": "서울 종로구",
+      "lat": 37.5790919031737,
+      "lng": 126.982040842138,
+      "url": "https://culture.seoul.go.kr/culture/culture/cultureEvent/view.do?cultcode=160278&menuNo=200009",
+      "registerUrl": "https://www.artcenterlim.co.kr/programs/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&bmode=view&idx=175777368&t=board",
+      "source": "seoul-culture",
+      "sourceName": "서울 열린데이터광장 · 서울시 문화행사",
+      "imageUrl": "https://culture.seoul.go.kr/cmmn/file/getImage.do?atchFileId=2d0cdaa6a5ca408b9862f4578cbdb9ad&thumb=Y",
       "isFree": true
     },
     {
@@ -6356,32 +5962,33 @@
       "price": "무료"
     },
     {
-      "id": "seoul-160278",
+      "id": "seoul-160307",
       "title": {
-        "ko": "그림책의 안쪽: 일본 그림책 작가 3인의 창작 노트",
-        "en": "Inside Picture Books: Creative Notes of Three Japanese Picture Book Authors"
+        "ko": "[무료 강연] 미디어아트의 세계- 움직이는 이미지, 예술의 경계를 넘다",
+        "en": "Free Lecture: The World of Media Art - Moving Images Crossing the Boundaries of Art"
       },
       "description": {
-        "ko": "대상: 누구나",
-        "en": "An exhibition showcasing the creative process and notes of three Japanese picture book creators. Open to all visitors."
+        "ko": "<움직이는 이미지, 예술의 경계를 넘다>  다양한 미디어아트 작품을 함께 감상하며 작품에 담긴 흥미로운 이야기를 살펴보고, 기술과 예술의 만남이 열어가는 새로운 가능성을 탐색합니다.\n출연: 권미리 : 권미리는 서울대학교 미술대학 서양화과를 졸업하고, 국내에서 미디어아트가 아직 대중화되지 않았던 1990년대 독일 오펜바흐 국립조형예술대학교에서 비주얼커뮤니케이션 전공 석사과정을 졸업하였다.\n대상: 누구나\n요금: 0",
+        "en": "Explore diverse media art works and discover new possibilities where technology meets art. Led by lecturer Kwon Mi-ri, this free lecture is open to everyone."
       },
-      "category": "exhibition",
+      "category": "classes",
       "tags": [
         "art",
-        "books"
+        "culture"
       ],
-      "start": "2026-11-28T11:00:00.000",
-      "end": "2027-01-14T18:00:00.000",
-      "venue": "아트센터림 1층 아트윈도우, 2층 갤러리 1,2관",
+      "start": "2026-11-28T13:00:00.000",
+      "end": "2026-11-28T15:00:00.000",
+      "venue": "노무현시민센터 2층 다보여강의실(서울시 종로구 창덕궁길 73)",
       "city": "서울 종로구",
-      "lat": 37.5790919031737,
-      "lng": 126.982040842138,
-      "url": "https://culture.seoul.go.kr/culture/culture/cultureEvent/view.do?cultcode=160278&menuNo=200009",
-      "registerUrl": "https://www.artcenterlim.co.kr/programs/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&bmode=view&idx=175777368&t=board",
+      "lat": 37.5809050917445,
+      "lng": 126.98884828992,
+      "url": "https://culture.seoul.go.kr/culture/culture/cultureEvent/view.do?cultcode=160307&menuNo=200011",
+      "registerUrl": "https://blog.naver.com/jnlpartners01/224490172460",
       "source": "seoul-culture",
       "sourceName": "서울 열린데이터광장 · 서울시 문화행사",
-      "imageUrl": "https://culture.seoul.go.kr/cmmn/file/getImage.do?atchFileId=2d0cdaa6a5ca408b9862f4578cbdb9ad&thumb=Y",
-      "isFree": true
+      "imageUrl": "https://culture.seoul.go.kr/cmmn/file/getImage.do?atchFileId=a5a2eb2326ea49e8aadaf80f6ba1ce2b&thumb=Y",
+      "isFree": true,
+      "price": "0"
     },
     {
       "id": "seoul-160201",
@@ -6411,6 +6018,34 @@
       "imageUrl": "https://culture.seoul.go.kr/cmmn/file/getImage.do?atchFileId=ccf141e95d6a45f98e29ab2a69b240b4&thumb=Y",
       "isFree": false,
       "price": "5,000원"
+    },
+    {
+      "id": "seoul-160190",
+      "title": {
+        "ko": "[서울갤러리] 런치 스테이지 [하모니시스트 이한결]",
+        "en": "Seoul Gallery: Lunch Stage with Harmonist Lee Han-gyeol"
+      },
+      "description": {
+        "ko": "대상: 누구나",
+        "en": "Enjoy a soothing midday harmonica performance by artist Lee Han-gyeol. Open to anyone visiting the gallery."
+      },
+      "category": "concert",
+      "tags": [
+        "music",
+        "culture"
+      ],
+      "start": "2026-11-28T14:00:00.000",
+      "end": "2026-11-28T14:30:00.000",
+      "venue": "서울갤러리 지하 1층 공연장",
+      "city": "서울 중구",
+      "lat": 37.566370776634,
+      "lng": 126.977918351844,
+      "url": "https://culture.seoul.go.kr/culture/culture/cultureEvent/view.do?cultcode=160190&menuNo=200008",
+      "registerUrl": "https://www.seoul.go.kr/seoulgallery/www/program/view.do?key=2509020016&prgmSn=193",
+      "source": "seoul-culture",
+      "sourceName": "서울 열린데이터광장 · 서울시 문화행사",
+      "imageUrl": "https://culture.seoul.go.kr/cmmn/file/getImage.do?atchFileId=0aab61d6cfbc49ecbaea1c5fb760a6a6&thumb=Y",
+      "isFree": true
     },
     {
       "id": "seoul-159538",
@@ -6469,34 +6104,6 @@
       "isFree": true
     },
     {
-      "id": "seoul-160190",
-      "title": {
-        "ko": "[서울갤러리] 런치 스테이지 [하모니시스트 이한결]",
-        "en": "Seoul Gallery: Lunch Stage with Harmonist Lee Han-gyeol"
-      },
-      "description": {
-        "ko": "대상: 누구나",
-        "en": "Enjoy a soothing midday harmonica performance by artist Lee Han-gyeol. Open to anyone visiting the gallery."
-      },
-      "category": "concert",
-      "tags": [
-        "music",
-        "culture"
-      ],
-      "start": "2026-11-28T14:00:00.000",
-      "end": "2026-11-28T14:30:00.000",
-      "venue": "서울갤러리 지하 1층 공연장",
-      "city": "서울 중구",
-      "lat": 37.566370776634,
-      "lng": 126.977918351844,
-      "url": "https://culture.seoul.go.kr/culture/culture/cultureEvent/view.do?cultcode=160190&menuNo=200008",
-      "registerUrl": "https://www.seoul.go.kr/seoulgallery/www/program/view.do?key=2509020016&prgmSn=193",
-      "source": "seoul-culture",
-      "sourceName": "서울 열린데이터광장 · 서울시 문화행사",
-      "imageUrl": "https://culture.seoul.go.kr/cmmn/file/getImage.do?atchFileId=0aab61d6cfbc49ecbaea1c5fb760a6a6&thumb=Y",
-      "isFree": true
-    },
-    {
       "id": "seoul-160163",
       "title": {
         "ko": "[세종문화회관] 2026 누구나 꿈나무오케스트라 정기연주회",
@@ -6552,6 +6159,34 @@
       "imageUrl": "https://tong.visitkorea.or.kr/cms/resource/41/4155841_image2_1.jpg",
       "isFree": true,
       "price": "무료"
+    },
+    {
+      "id": "seoul-160333",
+      "title": {
+        "ko": "[미림아트갤러리] 정지현 개인전 《느린 기도 | SLOW PRAYER》",
+        "en": "Mirim Art Gallery: Jung Ji-hyun Solo Exhibition 《SLOW PRAYER》"
+      },
+      "description": {
+        "ko": "대상: 누구나",
+        "en": "A contemporary art solo exhibition by artist Jung Ji-hyun. Open to all visitors free of charge."
+      },
+      "category": "exhibition",
+      "tags": [
+        "art",
+        "culture"
+      ],
+      "start": "2026-11-29T10:00:00.000",
+      "end": "2026-12-08T18:00:00.000",
+      "venue": "미림아트 3층 미림아트갤러리 (인사동길11-1, 3F)",
+      "city": "서울 종로구",
+      "lat": 37.571852756212,
+      "lng": 126.986681102308,
+      "url": "https://culture.seoul.go.kr/culture/culture/cultureEvent/view.do?cultcode=160333&menuNo=200009",
+      "registerUrl": "https://www.instagram.com/milimart_gallery",
+      "source": "seoul-culture",
+      "sourceName": "서울 열린데이터광장 · 서울시 문화행사",
+      "imageUrl": "https://culture.seoul.go.kr/cmmn/file/getImage.do?atchFileId=e0bbb5c6dcc7444eb0d577f0c816b4e0&thumb=Y",
+      "isFree": true
     },
     {
       "id": "tour-3545306",
@@ -6898,33 +6533,33 @@
       "isFree": true
     },
     {
-      "id": "seoul-159585",
+      "id": "seoul-160242",
       "title": {
-        "ko": "[서초문화재단] 2026 심산영화관 [러브스토리]",
-        "en": "Seocho Cultural Foundation: 2026 Shinsan Cinema Screening - Love Story"
+        "ko": "[송파 청년아티스트센터] 예술가와 함께하는 풍납 탐구 생활 12월 프로그램",
+        "en": "Songpa Youth Artists Center: Pungnap Exploration Life December Program with Artists"
       },
       "description": {
-        "ko": "대상: 15세 이상 관람가\n요금: 전석무료",
-        "en": "A free screening of the timeless romantic classic Love Story at the Shinsan Cinema program. Rated for ages 15 and older."
+        "ko": "대상: 누구나\n요금: 프로그램별 상이",
+        "en": "A creative community program where participants explore local culture with resident artists. Fees vary by specific program."
       },
-      "category": "performance",
+      "category": "classes",
       "tags": [
         "culture",
-        "movie"
+        "art"
       ],
       "start": "2026-12-01T10:00:00.000",
-      "end": "2026-12-01T14:00:00.000",
-      "venue": "반포심산아트홀",
-      "city": "서울 서초구",
-      "lat": 37.49904352601313,
-      "lng": 126.99165409240258,
-      "url": "https://culture.seoul.go.kr/culture/culture/cultureEvent/view.do?cultcode=159585&menuNo=200013",
-      "registerUrl": "https://www.seochocf.or.kr/site/main/seocho/show/view?show_idx=935",
+      "end": "2026-12-31T18:00:00.000",
+      "venue": "송파 청년아티스트센터 1층",
+      "city": "서울 송파구",
+      "lat": 37.5340686405498,
+      "lng": 127.115954729217,
+      "url": "https://culture.seoul.go.kr/culture/culture/cultureEvent/view.do?cultcode=160242&menuNo=200011",
+      "registerUrl": "https://litt.ly/artistcenter_songpa",
       "source": "seoul-culture",
       "sourceName": "서울 열린데이터광장 · 서울시 문화행사",
-      "imageUrl": "https://culture.seoul.go.kr/cmmn/file/getImage.do?atchFileId=14a215e8fce44d219623ceaf8902f6bb&thumb=Y",
+      "imageUrl": "https://culture.seoul.go.kr/cmmn/file/getImage.do?atchFileId=74fdc0af0d374704a2ea0dc91ac300e2&thumb=Y",
       "isFree": true,
-      "price": "전석무료"
+      "price": "프로그램별 상이"
     },
     {
       "id": "seoul-160243",
@@ -6956,33 +6591,33 @@
       "price": "프로그램별 상이 (상세 내용 참조)"
     },
     {
-      "id": "seoul-160242",
+      "id": "seoul-159585",
       "title": {
-        "ko": "[송파 청년아티스트센터] 예술가와 함께하는 풍납 탐구 생활 12월 프로그램",
-        "en": "Songpa Youth Artists Center: Pungnap Exploration Life December Program with Artists"
+        "ko": "[서초문화재단] 2026 심산영화관 [러브스토리]",
+        "en": "Seocho Cultural Foundation: 2026 Shinsan Cinema Screening - Love Story"
       },
       "description": {
-        "ko": "대상: 누구나\n요금: 프로그램별 상이",
-        "en": "A creative community program where participants explore local culture with resident artists. Fees vary by specific program."
+        "ko": "대상: 15세 이상 관람가\n요금: 전석무료",
+        "en": "A free screening of the timeless romantic classic Love Story at the Shinsan Cinema program. Rated for ages 15 and older."
       },
-      "category": "classes",
+      "category": "performance",
       "tags": [
         "culture",
-        "art"
+        "movie"
       ],
       "start": "2026-12-01T10:00:00.000",
-      "end": "2026-12-31T18:00:00.000",
-      "venue": "송파 청년아티스트센터 1층",
-      "city": "서울 송파구",
-      "lat": 37.5340686405498,
-      "lng": 127.115954729217,
-      "url": "https://culture.seoul.go.kr/culture/culture/cultureEvent/view.do?cultcode=160242&menuNo=200011",
-      "registerUrl": "https://litt.ly/artistcenter_songpa",
+      "end": "2026-12-01T14:00:00.000",
+      "venue": "반포심산아트홀",
+      "city": "서울 서초구",
+      "lat": 37.49904352601313,
+      "lng": 126.99165409240258,
+      "url": "https://culture.seoul.go.kr/culture/culture/cultureEvent/view.do?cultcode=159585&menuNo=200013",
+      "registerUrl": "https://www.seochocf.or.kr/site/main/seocho/show/view?show_idx=935",
       "source": "seoul-culture",
       "sourceName": "서울 열린데이터광장 · 서울시 문화행사",
-      "imageUrl": "https://culture.seoul.go.kr/cmmn/file/getImage.do?atchFileId=74fdc0af0d374704a2ea0dc91ac300e2&thumb=Y",
+      "imageUrl": "https://culture.seoul.go.kr/cmmn/file/getImage.do?atchFileId=14a215e8fce44d219623ceaf8902f6bb&thumb=Y",
       "isFree": true,
-      "price": "프로그램별 상이"
+      "price": "전석무료"
     },
     {
       "id": "seoul-160237",
@@ -7100,33 +6735,32 @@
       "price": "무료(일부 체험 유료)"
     },
     {
-      "id": "seoul-160105",
+      "id": "seoul-160314",
       "title": {
-        "ko": "임준형의 대금 독주회 [영산會上]",
-        "en": "Lim Jun-hyung Daegeum Recital [Yeongsan Hoesang]"
+        "ko": "[청소년극 단막극 연작] 동물X사람X공룡",
+        "en": "Youth Short Play Series: Animal X Human X Dinosaur"
       },
       "description": {
-        "ko": "대상: 초등학생이상 입장가능\n요금: 전석초대",
-        "en": "Enjoy a traditional daegeum recital by Lim Jun-hyung featuring Yeongsan Hoesang. Admission is available for elementary school students and older. All seats are complimentary."
+        "ko": "대상: 어린이, 청소년 등 누구나\n요금: 전석 4만원(할인있음)",
+        "en": "An engaging short play series tailored for children, youth, and families. Tickets are priced at 40,000 won with various discounts available."
       },
-      "category": "concert",
+      "category": "performance",
       "tags": [
-        "music",
         "culture"
       ],
       "start": "2026-12-01T19:30:00.000",
-      "end": "2026-12-01T21:30:00.000",
-      "venue": "국립국악원 풍류사랑방",
-      "city": "서울 서초구",
-      "lat": 37.4777188083482,
-      "lng": 127.009818464555,
-      "url": "https://culture.seoul.go.kr/culture/culture/cultureEvent/view.do?cultcode=160105&menuNo=200008",
-      "registerUrl": "https://www.gugak.go.kr/site/program/performance/detail?menuid=&performance_id=397111",
+      "end": "2026-12-13T15:00:00.000",
+      "venue": "아르코꿈밭극장",
+      "city": "서울 종로구",
+      "lat": 37.5820571199944,
+      "lng": 127.00371635053,
+      "url": "https://culture.seoul.go.kr/culture/culture/cultureEvent/view.do?cultcode=160314&menuNo=200008",
+      "registerUrl": "https://www.ntck.or.kr/ko/performance/info/257339",
       "source": "seoul-culture",
       "sourceName": "서울 열린데이터광장 · 서울시 문화행사",
-      "imageUrl": "https://culture.seoul.go.kr/cmmn/file/getImage.do?atchFileId=636a4a3e240d4509adb3abeb047f51cb&thumb=Y",
+      "imageUrl": "https://culture.seoul.go.kr/cmmn/file/getImage.do?atchFileId=bbbb8bdc08be4674818c864340efa4c8&thumb=Y",
       "isFree": true,
-      "price": "전석초대"
+      "price": "전석 4만원(할인있음)"
     },
     {
       "id": "seoul-160164",
@@ -7156,6 +6790,93 @@
       "imageUrl": "https://culture.seoul.go.kr/cmmn/file/getImage.do?atchFileId=30628a11b0534a93bc9a8c1e76bc2b0e&thumb=Y",
       "isFree": false,
       "price": "관람료 선택제 1,000원 3,000원 5,000원 10,000원"
+    },
+    {
+      "id": "seoul-160105",
+      "title": {
+        "ko": "임준형의 대금 독주회 [영산會上]",
+        "en": "Lim Jun-hyung Daegeum Recital [Yeongsan Hoesang]"
+      },
+      "description": {
+        "ko": "대상: 초등학생이상 입장가능\n요금: 전석초대",
+        "en": "Enjoy a traditional daegeum recital by Lim Jun-hyung featuring Yeongsan Hoesang. Admission is available for elementary school students and older. All seats are complimentary."
+      },
+      "category": "concert",
+      "tags": [
+        "music",
+        "culture"
+      ],
+      "start": "2026-12-01T19:30:00.000",
+      "end": "2026-12-01T21:30:00.000",
+      "venue": "국립국악원 풍류사랑방",
+      "city": "서울 서초구",
+      "lat": 37.4777188083482,
+      "lng": 127.009818464555,
+      "url": "https://culture.seoul.go.kr/culture/culture/cultureEvent/view.do?cultcode=160105&menuNo=200008",
+      "registerUrl": "https://www.gugak.go.kr/site/program/performance/detail?menuid=&performance_id=397111",
+      "source": "seoul-culture",
+      "sourceName": "서울 열린데이터광장 · 서울시 문화행사",
+      "imageUrl": "https://culture.seoul.go.kr/cmmn/file/getImage.do?atchFileId=636a4a3e240d4509adb3abeb047f51cb&thumb=Y",
+      "isFree": true,
+      "price": "전석초대"
+    },
+    {
+      "id": "seoul-160318",
+      "title": {
+        "ko": "[마포구립서강도서관] 12월 문화프로그램",
+        "en": "Mapo Seogang Library December Cultural Programs"
+      },
+      "description": {
+        "ko": "대상: 프로그램별 상이",
+        "en": "A variety of cultural and educational activities hosted by the library throughout December. Target audiences vary by individual program."
+      },
+      "category": "classes",
+      "tags": [
+        "culture",
+        "books"
+      ],
+      "start": "2026-12-02T10:00:00.000",
+      "end": "2026-12-31T18:00:00.000",
+      "venue": "마포구립서강도서관",
+      "city": "서울 마포구",
+      "lat": 37.5477347268018,
+      "lng": 126.932061794829,
+      "url": "https://culture.seoul.go.kr/culture/culture/cultureEvent/view.do?cultcode=160318&menuNo=200011",
+      "registerUrl": "https://mplib.mapo.go.kr/sglib/MENU1199/PGM3028/eventDetail.do?currentPageNo=1&eventSn=13730",
+      "source": "seoul-culture",
+      "sourceName": "서울 열린데이터광장 · 서울시 문화행사",
+      "imageUrl": "https://culture.seoul.go.kr/cmmn/file/getImage.do?atchFileId=1b832f5e7e5942ec966a083fb6f0513d&thumb=Y",
+      "isFree": true
+    },
+    {
+      "id": "seoul-160311",
+      "title": {
+        "ko": "손철주의 오래된 그림공부 [이런 그림 저런 해석]",
+        "en": "Son Chul-joo's Classical Art Study: Interpretations of Traditional Paintings"
+      },
+      "description": {
+        "ko": "출연: 손철주 미술 평론가\n대상: 미취학 아동 입장 불가\n요금: 전석 30,000원(JCC회원 10% 할인)",
+        "en": "An insightful art lecture series hosted by renowned art critic Son Chul-joo. Preschool children are not permitted to enter."
+      },
+      "category": "classes",
+      "tags": [
+        "art",
+        "culture",
+        "books"
+      ],
+      "start": "2026-12-02T11:00:00.000",
+      "end": "2026-12-02T13:00:00.000",
+      "venue": "JCC크리에이티브센터 스튜디오(B1층)",
+      "city": "서울 종로구",
+      "lat": 37.5871831839413,
+      "lng": 127.001885702262,
+      "url": "https://culture.seoul.go.kr/culture/culture/cultureEvent/view.do?cultcode=160311&menuNo=200011",
+      "registerUrl": "https://nol.yanolja.com/ticket/products/26017051",
+      "source": "seoul-culture",
+      "sourceName": "서울 열린데이터광장 · 서울시 문화행사",
+      "imageUrl": "https://culture.seoul.go.kr/cmmn/file/getImage.do?atchFileId=a104a2f8162a4f15bb2ca8e0de3c14e4&thumb=Y",
+      "isFree": false,
+      "price": "전석 30,000원(JCC회원 10% 할인)"
     },
     {
       "id": "seoul-160290",
@@ -7355,6 +7076,92 @@
       "imageUrl": "https://tong.visitkorea.or.kr/cms/resource/24/4136124_image2_1.jpg",
       "isFree": false,
       "price": "- 사전 예매 5,000원 - 현장 구매 10,000원※ 무료 - 초등학생 이하"
+    },
+    {
+      "id": "seoul-160315",
+      "title": {
+        "ko": "2026 세대같이 한마당",
+        "en": "2026 Generations Together Festival"
+      },
+      "description": {
+        "ko": "대상: 누구나",
+        "en": "A community-focused festival celebrating harmony across all generations. Open to everyone free of charge."
+      },
+      "category": "festival",
+      "tags": [
+        "culture",
+        "family"
+      ],
+      "start": "2026-12-04T12:00:00.000",
+      "end": "2026-12-04T19:00:00.000",
+      "venue": "동덕여자대학교 백주년기념관- 월곡 달빛광장 일대",
+      "city": "서울 성북구",
+      "lat": 37.6056074474175,
+      "lng": 127.040827394692,
+      "url": "https://culture.seoul.go.kr/culture/culture/cultureEvent/view.do?cultcode=160315&menuNo=200010",
+      "registerUrl": "https://rise.dongduk.ac.kr/el/info/info_form.acl?b=G01&t=2&artl_num=1915",
+      "source": "seoul-culture",
+      "sourceName": "서울 열린데이터광장 · 서울시 문화행사",
+      "imageUrl": "https://culture.seoul.go.kr/cmmn/file/getImage.do?atchFileId=fe2760c0028f4489b9a434ab20fec07d&thumb=Y",
+      "isFree": true
+    },
+    {
+      "id": "seoul-160363",
+      "title": {
+        "ko": "2026 서울도서관 송년라디오",
+        "en": "2026 Seoul Library Year-End Radio Online Registration"
+      },
+      "description": {
+        "ko": "대상: 온라인 선착순 접수",
+        "en": "An online registration event for the special year-end radio program hosted by Seoul Library. Available on a first-come, first-served basis online."
+      },
+      "category": "festival",
+      "tags": [
+        "culture",
+        "books"
+      ],
+      "start": "2026-12-04T19:00:00.000",
+      "end": "2026-12-04T20:30:00.000",
+      "venue": "서울도서관 1층 생각마루",
+      "city": "서울 중구",
+      "lat": 37.5663174209601,
+      "lng": 126.977829174031,
+      "url": "https://culture.seoul.go.kr/culture/culture/cultureEvent/view.do?cultcode=160363&menuNo=200013",
+      "registerUrl": "https://lib.seoul.go.kr/lecture/applyDetail/7623",
+      "source": "seoul-culture",
+      "sourceName": "서울 열린데이터광장 · 서울시 문화행사",
+      "imageUrl": "https://culture.seoul.go.kr/cmmn/file/getImage.do?atchFileId=6f9c270a23404069ada93d7a21971ba0&thumb=Y",
+      "isFree": true
+    },
+    {
+      "id": "seoul-160319",
+      "title": {
+        "ko": "[서울도서관] 2026 서울도서관 송년라디오",
+        "en": "Seoul Library Year-End Radio Talk and Concert"
+      },
+      "description": {
+        "ko": "시민 사연과 밴드 라이브 연주를 곁들인 2026 서울도서관 결산 토크\n출연: 사서 3인, 밴드 놀던\n대상: 누구나\n요금: 무료",
+        "en": "A year-end talk event featuring citizen stories, library staff, and live band performances by Noldon. Admission is completely free for all visitors."
+      },
+      "category": "concert",
+      "tags": [
+        "music",
+        "books",
+        "culture"
+      ],
+      "start": "2026-12-04T19:00:00.000",
+      "end": "2026-12-04T20:30:00.000",
+      "venue": "서울도서관 생각마루",
+      "city": "서울 중구",
+      "lat": 37.5663174209601,
+      "lng": 126.977829174031,
+      "url": "https://culture.seoul.go.kr/culture/culture/cultureEvent/view.do?cultcode=160319&menuNo=200008",
+      "registerUrl": "https://lib.seoul.go.kr/lecture/applyDetail/7623",
+      "source": "seoul-culture",
+      "sourceName": "서울 열린데이터광장 · 서울시 문화행사",
+      "imageUrl": "https://culture.seoul.go.kr/cmmn/file/getImage.do?atchFileId=d001adf7c4674adeb9ea36fe0e901c58&thumb=Y",
+      "isFree": true,
+      "price": "무료"
     },
     {
       "id": "seoul-159948",
@@ -7562,6 +7369,35 @@
       "price": "R석 2만원 S석 1만5천원"
     },
     {
+      "id": "tour-4144190",
+      "title": {
+        "ko": "2026 인천공항 온-아트 페스티벌",
+        "en": "2026 Incheon Airport On-Art Festival"
+      },
+      "description": {
+        "ko": "〈2026 인천공항 온-아트 페스티벌〉은 문화예술을 통해 전 세대가 소통하고, 다채롭고 활기찬 지역사회를 만들어가고자 기획된 인천국제공항공사의 특별한 문화교육 행사이다. '꿈을 향한 비행, 함께하는 여정'이라는 주제 아래, 올해에도 세대와 지역을 아우르는 감동의 무대로 찾아온다.\n오는 12월 5일, 영종도 지역의 초·중학생들로 구성된 「온-아트 유스 오케스트라」와 중·장년 주민들이 함께하는 「온-아트 하모니 합창단」, 그리고 바이올리니스트 「대니 구」가 만나 하나의 아름다운 연주를 선보인다. 특히 이번 공연은 세계적인 바이올리니스트 대니 구와 한국예술종합학교의 전문적인 교육협력이 더해져, 세대를 잇는 깊이 있는 선율을 선사한다.\n\n- 주요 프로그램 : 클래식 연주회 / 실내 공연 / 오케스트라 공연 / 합창단 공연 / 바이올리니스트 대니 구 공연\n\n시간: 16:00~17:30\n\n요금: 무료",
+        "en": "Enjoy a heartwarming classical music concert featuring the On-Art Youth Orchestra, Harmony Choir, and world-renowned violinist Danny Koo. The special event aims to connect generations through music at Incheon International Airport."
+      },
+      "category": "festival",
+      "tags": [
+        "culture",
+        "music",
+        "travel"
+      ],
+      "start": "2026-12-05T16:00:00.000",
+      "end": "2026-12-05T17:30:00.000",
+      "venue": "인천공항 제1터미널 K-컬처 뮤지엄",
+      "city": "인천 영종구",
+      "lat": 37.4476713343,
+      "lng": 126.4521719249,
+      "url": "https://www.instagram.com/onartschoolofficial/",
+      "source": "tour-festival",
+      "sourceName": "한국관광공사 TourAPI · 축제·행사",
+      "imageUrl": "https://tong.visitkorea.or.kr/cms/resource/92/4144192_image2_1.jpg",
+      "isFree": true,
+      "price": "무료"
+    },
+    {
       "id": "tour-4088149",
       "title": {
         "ko": "발코니 뮤직쇼 앤 스트릿 페스타",
@@ -7590,35 +7426,6 @@
       "imageUrl": "https://tong.visitkorea.or.kr/cms/resource/37/4166437_image2_1.jpg",
       "isFree": true,
       "price": "무료 (일부 체험 프로그램 유료)"
-    },
-    {
-      "id": "tour-4144190",
-      "title": {
-        "ko": "2026 인천공항 온-아트 페스티벌",
-        "en": "2026 Incheon Airport On-Art Festival"
-      },
-      "description": {
-        "ko": "〈2026 인천공항 온-아트 페스티벌〉은 문화예술을 통해 전 세대가 소통하고, 다채롭고 활기찬 지역사회를 만들어가고자 기획된 인천국제공항공사의 특별한 문화교육 행사이다. '꿈을 향한 비행, 함께하는 여정'이라는 주제 아래, 올해에도 세대와 지역을 아우르는 감동의 무대로 찾아온다.\n오는 12월 5일, 영종도 지역의 초·중학생들로 구성된 「온-아트 유스 오케스트라」와 중·장년 주민들이 함께하는 「온-아트 하모니 합창단」, 그리고 바이올리니스트 「대니 구」가 만나 하나의 아름다운 연주를 선보인다. 특히 이번 공연은 세계적인 바이올리니스트 대니 구와 한국예술종합학교의 전문적인 교육협력이 더해져, 세대를 잇는 깊이 있는 선율을 선사한다.\n\n- 주요 프로그램 : 클래식 연주회 / 실내 공연 / 오케스트라 공연 / 합창단 공연 / 바이올리니스트 대니 구 공연\n\n시간: 16:00~17:30\n\n요금: 무료",
-        "en": "Enjoy a heartwarming classical music concert featuring the On-Art Youth Orchestra, Harmony Choir, and world-renowned violinist Danny Koo. The special event aims to connect generations through music at Incheon International Airport."
-      },
-      "category": "festival",
-      "tags": [
-        "culture",
-        "music",
-        "travel"
-      ],
-      "start": "2026-12-05T16:00:00.000",
-      "end": "2026-12-05T17:30:00.000",
-      "venue": "인천공항 제1터미널 K-컬처 뮤지엄",
-      "city": "인천 영종구",
-      "lat": 37.4476713343,
-      "lng": 126.4521719249,
-      "url": "https://www.instagram.com/onartschoolofficial/",
-      "source": "tour-festival",
-      "sourceName": "한국관광공사 TourAPI · 축제·행사",
-      "imageUrl": "https://tong.visitkorea.or.kr/cms/resource/92/4144192_image2_1.jpg",
-      "isFree": true,
-      "price": "무료"
     },
     {
       "id": "seoul-160265",
@@ -7650,34 +7457,6 @@
       "price": "전석 50,000원"
     },
     {
-      "id": "seoul-160252",
-      "title": {
-        "ko": "[용산문화재단] 해설이 있는 탱고와 반도네온의 선율",
-        "en": "Yongsan Cultural Foundation: Tango and Bandoneon Melody with Commentary"
-      },
-      "description": {
-        "ko": "대상: 초등학생 이상",
-        "en": "An accessible concert introducing the passionate sounds of tango and the bandoneon with helpful explanations for audience members."
-      },
-      "category": "concert",
-      "tags": [
-        "music",
-        "culture"
-      ],
-      "start": "2026-12-05T18:00:00.000",
-      "end": "2026-12-05T19:30:00.000",
-      "venue": "용산아트홀 대극장 미르",
-      "city": "서울 용산구",
-      "lat": 37.5390273519405,
-      "lng": 127.002075483617,
-      "url": "https://culture.seoul.go.kr/culture/culture/cultureEvent/view.do?cultcode=160252&menuNo=200008",
-      "registerUrl": "https://yongsanculture.or.kr/site/main/performance/PERFORMANCE/view/239",
-      "source": "seoul-culture",
-      "sourceName": "서울 열린데이터광장 · 서울시 문화행사",
-      "imageUrl": "https://culture.seoul.go.kr/cmmn/file/getImage.do?atchFileId=7ab143a574ad4dd5b1b73b20112bb994&thumb=Y",
-      "isFree": true
-    },
-    {
       "id": "seoul-160170",
       "title": {
         "ko": "제3회 오르비스 플루트 앙상블 정기연주회 [향수 : REWIND]",
@@ -7705,6 +7484,34 @@
       "imageUrl": "https://culture.seoul.go.kr/cmmn/file/getImage.do?atchFileId=d0a52c1cc41942de92e3d31f88393035&thumb=Y",
       "isFree": true,
       "price": "전석 무료"
+    },
+    {
+      "id": "seoul-160252",
+      "title": {
+        "ko": "[용산문화재단] 해설이 있는 탱고와 반도네온의 선율",
+        "en": "Yongsan Cultural Foundation: Tango and Bandoneon Melody with Commentary"
+      },
+      "description": {
+        "ko": "대상: 초등학생 이상",
+        "en": "An accessible concert introducing the passionate sounds of tango and the bandoneon with helpful explanations for audience members."
+      },
+      "category": "concert",
+      "tags": [
+        "music",
+        "culture"
+      ],
+      "start": "2026-12-05T18:00:00.000",
+      "end": "2026-12-05T19:30:00.000",
+      "venue": "용산아트홀 대극장 미르",
+      "city": "서울 용산구",
+      "lat": 37.5390273519405,
+      "lng": 127.002075483617,
+      "url": "https://culture.seoul.go.kr/culture/culture/cultureEvent/view.do?cultcode=160252&menuNo=200008",
+      "registerUrl": "https://yongsanculture.or.kr/site/main/performance/PERFORMANCE/view/239",
+      "source": "seoul-culture",
+      "sourceName": "서울 열린데이터광장 · 서울시 문화행사",
+      "imageUrl": "https://culture.seoul.go.kr/cmmn/file/getImage.do?atchFileId=7ab143a574ad4dd5b1b73b20112bb994&thumb=Y",
+      "isFree": true
     },
     {
       "id": "tour-4095478",
@@ -7879,33 +7686,6 @@
       "price": "20,000원"
     },
     {
-      "id": "seoul-160196",
-      "title": {
-        "ko": "비바챔버앙상블 제7회 정기연주회",
-        "en": "Viva Chamber Ensemble 7th Regular Concert"
-      },
-      "description": {
-        "ko": "대상: 누구나(단, 취학 아동부터 관람 가능)",
-        "en": "A delightful regular concert by the Viva Chamber Ensemble. Open to school-age children and older."
-      },
-      "category": "concert",
-      "tags": [
-        "music"
-      ],
-      "start": "2026-12-09T19:30:00.000",
-      "end": "2026-12-09T21:30:00.000",
-      "venue": "세종문화회관 체임버홀",
-      "city": "서울 종로구",
-      "lat": 37.57260128068914,
-      "lng": 126.97577534746529,
-      "url": "https://culture.seoul.go.kr/culture/culture/cultureEvent/view.do?cultcode=160196&menuNo=200008",
-      "registerUrl": "http://www.wefirst.or.kr/sub/sub04_01.php?boardid=news&mode=view&idx=970&sk=&sw=&offset=&category=",
-      "source": "seoul-culture",
-      "sourceName": "서울 열린데이터광장 · 서울시 문화행사",
-      "imageUrl": "https://culture.seoul.go.kr/cmmn/file/getImage.do?atchFileId=7ed4258fcc7941a6a41f47e27d964dba&thumb=Y",
-      "isFree": true
-    },
-    {
       "id": "seoul-160154",
       "title": {
         "ko": "[서울돈화문국악당] 오드리 [세 대의 가야금, 하나의 장면]",
@@ -7935,6 +7715,62 @@
       "price": "전석 30,000원"
     },
     {
+      "id": "seoul-160332",
+      "title": {
+        "ko": "컨템포러리 사물 : 소리의 확장",
+        "en": "Contemporary Samulnori: Expansion of Sound"
+      },
+      "description": {
+        "ko": "비나리 / 동해안 무속사물 / 경기 무속사물 / 삼도 사물놀이 / 수평선\n출연: 하진수 홍성현 최찬용 양진산 김정용\n대상: 전연령\n요금: 전석 20,000원",
+        "en": "A dynamic traditional percussion concert featuring various regional shamanic rhythms and contemporary Samulnori performances. Suitable for all age groups."
+      },
+      "category": "concert",
+      "tags": [
+        "music",
+        "culture"
+      ],
+      "start": "2026-12-09T19:30:00.000",
+      "end": "2026-12-09T21:30:00.000",
+      "venue": "서울남산국악당 크라운해태홀",
+      "city": "서울 중구",
+      "lat": 37.5583499463987,
+      "lng": 126.994021611776,
+      "url": "https://culture.seoul.go.kr/culture/culture/cultureEvent/view.do?cultcode=160332&menuNo=200008",
+      "registerUrl": "https://blog.naver.com/jungart00/224492837201",
+      "source": "seoul-culture",
+      "sourceName": "서울 열린데이터광장 · 서울시 문화행사",
+      "imageUrl": "https://culture.seoul.go.kr/cmmn/file/getImage.do?atchFileId=6ada109abdd542779a824b8cd1d796d2&thumb=Y",
+      "isFree": false,
+      "price": "전석 20,000원"
+    },
+    {
+      "id": "seoul-160196",
+      "title": {
+        "ko": "비바챔버앙상블 제7회 정기연주회",
+        "en": "Viva Chamber Ensemble 7th Regular Concert"
+      },
+      "description": {
+        "ko": "대상: 누구나(단, 취학 아동부터 관람 가능)",
+        "en": "A delightful regular concert by the Viva Chamber Ensemble. Open to school-age children and older."
+      },
+      "category": "concert",
+      "tags": [
+        "music"
+      ],
+      "start": "2026-12-09T19:30:00.000",
+      "end": "2026-12-09T21:30:00.000",
+      "venue": "세종문화회관 체임버홀",
+      "city": "서울 종로구",
+      "lat": 37.57260128068914,
+      "lng": 126.97577534746529,
+      "url": "https://culture.seoul.go.kr/culture/culture/cultureEvent/view.do?cultcode=160196&menuNo=200008",
+      "registerUrl": "http://www.wefirst.or.kr/sub/sub04_01.php?boardid=news&mode=view&idx=970&sk=&sw=&offset=&category=",
+      "source": "seoul-culture",
+      "sourceName": "서울 열린데이터광장 · 서울시 문화행사",
+      "imageUrl": "https://culture.seoul.go.kr/cmmn/file/getImage.do?atchFileId=7ed4258fcc7941a6a41f47e27d964dba&thumb=Y",
+      "isFree": true
+    },
+    {
       "id": "seoul-160273",
       "title": {
         "ko": "[서울시립 북서울미술관] 국제교류전 《사운드는 언제나 살아있다》",
@@ -7960,6 +7796,34 @@
       "source": "seoul-culture",
       "sourceName": "서울 열린데이터광장 · 서울시 문화행사",
       "imageUrl": "https://culture.seoul.go.kr/cmmn/file/getImage.do?atchFileId=b1ce2f155d3a49a293b8184ad73e3601&thumb=Y",
+      "isFree": true
+    },
+    {
+      "id": "seoul-160239",
+      "title": {
+        "ko": "[2026공연봄날 공식선정작] 화이트 라이 크리스마스",
+        "en": "White Lie Christmas"
+      },
+      "description": {
+        "ko": "출연: 레드클래식\n대상: 청소년 및 청소년을 동반한 가족 관람객",
+        "en": "An official 2026 Spring Performance selection by Red Classic, designed for young audiences and their families."
+      },
+      "category": "performance",
+      "tags": [
+        "culture",
+        "family"
+      ],
+      "start": "2026-12-10T10:30:00.000",
+      "end": "2026-12-12T14:00:00.000",
+      "venue": "소월아트홀",
+      "city": "서울 성동구",
+      "lat": 37.5593072327953,
+      "lng": 127.036006376334,
+      "url": "https://culture.seoul.go.kr/culture/culture/cultureEvent/view.do?cultcode=160239&menuNo=200008",
+      "registerUrl": "https://www.springday.or.kr/niabbs5/inc.php?inc=sub2-2_list_img_in2&cat=%EC%9D%8C%EC%95%85&k_gubun2=2&kkno=a8f15eda80c50adb0e71943adc8015cf&gubun2=12",
+      "source": "seoul-culture",
+      "sourceName": "서울 열린데이터광장 · 서울시 문화행사",
+      "imageUrl": "https://culture.seoul.go.kr/cmmn/file/getImage.do?atchFileId=49cc1453e49b4428927c847e89865a34&thumb=Y",
       "isFree": true
     },
     {
@@ -7992,34 +7856,6 @@
       "isFree": true
     },
     {
-      "id": "seoul-160239",
-      "title": {
-        "ko": "[2026공연봄날 공식선정작] 화이트 라이 크리스마스",
-        "en": "White Lie Christmas"
-      },
-      "description": {
-        "ko": "출연: 레드클래식\n대상: 청소년 및 청소년을 동반한 가족 관람객",
-        "en": "An official 2026 Spring Performance selection by Red Classic, designed for young audiences and their families."
-      },
-      "category": "performance",
-      "tags": [
-        "culture",
-        "family"
-      ],
-      "start": "2026-12-10T10:30:00.000",
-      "end": "2026-12-12T14:00:00.000",
-      "venue": "소월아트홀",
-      "city": "서울 성동구",
-      "lat": 37.5593072327953,
-      "lng": 127.036006376334,
-      "url": "https://culture.seoul.go.kr/culture/culture/cultureEvent/view.do?cultcode=160239&menuNo=200008",
-      "registerUrl": "https://www.springday.or.kr/niabbs5/inc.php?inc=sub2-2_list_img_in2&cat=%EC%9D%8C%EC%95%85&k_gubun2=2&kkno=a8f15eda80c50adb0e71943adc8015cf&gubun2=12",
-      "source": "seoul-culture",
-      "sourceName": "서울 열린데이터광장 · 서울시 문화행사",
-      "imageUrl": "https://culture.seoul.go.kr/cmmn/file/getImage.do?atchFileId=49cc1453e49b4428927c847e89865a34&thumb=Y",
-      "isFree": true
-    },
-    {
       "id": "seoul-160182",
       "title": {
         "ko": "2026 제45회 대한민국작곡상 연주회",
@@ -8046,6 +7882,35 @@
       "imageUrl": "https://culture.seoul.go.kr/cmmn/file/getImage.do?atchFileId=b5097cef0bc04de680fdef8a0aa841fb&thumb=Y",
       "isFree": false,
       "price": "전석 20,000원 (협회 회원 50% 할인)"
+    },
+    {
+      "id": "seoul-160335",
+      "title": {
+        "ko": "[서초문화재단] 2026 서리풀 송년음악회 [Eve of New Beginning]",
+        "en": "Seocho Cultural Foundation 2026 Seoripul Year-End Concert [Eve of New Beginning]"
+      },
+      "description": {
+        "ko": "대상: 초등학생이상 관람가능\n요금: R석 : 2만원 S석 : 1만5천원",
+        "en": "A celebratory year-end concert welcoming new beginnings, open to elementary school students and older."
+      },
+      "category": "concert",
+      "tags": [
+        "music",
+        "culture"
+      ],
+      "start": "2026-12-10T19:30:00.000",
+      "end": "2026-12-10T21:30:00.000",
+      "venue": "반포심산아트홀",
+      "city": "서울 서초구",
+      "lat": 37.49904352601313,
+      "lng": 126.99165409240258,
+      "url": "https://culture.seoul.go.kr/culture/culture/cultureEvent/view.do?cultcode=160335&menuNo=200008",
+      "registerUrl": "https://www.seochocf.or.kr/site/main/seocho/show/view?show_idx=1025",
+      "source": "seoul-culture",
+      "sourceName": "서울 열린데이터광장 · 서울시 문화행사",
+      "imageUrl": "https://culture.seoul.go.kr/cmmn/file/getImage.do?atchFileId=6f8580df9d5144d783fc2259abf2a3e9&thumb=Y",
+      "isFree": false,
+      "price": "R석 : 2만원 S석 : 1만5천원"
     },
     {
       "id": "seoul-160287",
@@ -8136,36 +8001,6 @@
       "price": "무료 (일부 체험 프로그램 유료)"
     },
     {
-      "id": "tour-3035607",
-      "title": {
-        "ko": "광화문 마켓",
-        "en": "Gwanghwamun Market"
-      },
-      "description": {
-        "ko": "서울의 겨울밤을 밝히는 「광화문 마켓」이 올해도 광화문광장을 찾아온다. 5회차를 맞이한 올해는 「시간이 멈춘 산타마을」을 주제로, 바쁜 일상 속 잠시 머물러 크리스마스의 설렘을 만끽할 수 있는 특별한 겨울 풍경을 선보인다. 대형 트리와 마켓 빌리지를 중심으로 크리스마스 시즌 소품과 따뜻한 먹거리를 한자리에서 만나볼 수 있으며, 오감을 자극하는 몰입형 포토존과 다채로운 체험 프로그램도 곳곳에 마련 될 예정이다. 크리스마스의 설렘이 머무는 곳, 올 겨울 광화문 마켓에서 특별한 겨울밤을 만날 수 있다.\n\n- 주요 프로그램 : 크리스마스 시즌 소품 판매\n- 부대 행사 및 프로그램 : 먹거리 부스 / 글로벌 협업 부스 / 체험 프로그램 / 몰입형 포토존 운영 등\n\n시간: [일요일~목요일]- 17:30~22:00[금요일~토요일]- 17:30~22:30\n\n요금: 무료",
-        "en": "The Gwanghwamun Market illuminates Gwanghwamun Square with the theme of a time-frozen Santa village. Visitors can enjoy Christmas props, warm food, immersive photo zones, and various experience programs. Admission is free for this seasonal winter night market."
-      },
-      "category": "festival",
-      "tags": [
-        "culture",
-        "photo",
-        "food",
-        "travel"
-      ],
-      "start": "2026-12-11T17:30:00.000",
-      "end": "2027-01-10T22:00:00.000",
-      "venue": "광화문광장 및 세종로공원 일대",
-      "city": "서울 종로구",
-      "lat": 37.5716249337,
-      "lng": 126.9767679222,
-      "url": "https://www.stolantern.com/",
-      "source": "tour-festival",
-      "sourceName": "한국관광공사 TourAPI · 축제·행사",
-      "imageUrl": "https://tong.visitkorea.or.kr/cms/resource/78/4153378_image2_1.png",
-      "isFree": true,
-      "price": "무료"
-    },
-    {
       "id": "seoul-159960",
       "title": {
         "ko": "2026 광화문마켓",
@@ -8196,61 +8031,32 @@
       "isFree": true
     },
     {
-      "id": "tour-2785797",
+      "id": "tour-3035607",
       "title": {
-        "ko": "청계천의 빛",
-        "en": "Light of Cheonggyecheon"
+        "ko": "광화문 마켓",
+        "en": "Gwanghwamun Market"
       },
       "description": {
-        "ko": "2015년 서울의 겨울밤을 처음 밝힌 '청계천의 빛'이 열두 번째 겨울을 맞아 12월 11일부터 31일까지 21일간 서울 청계광장에서 펼쳐진다. 올해는 '내일을 밝히는 꿈(Light Up Tomorrow)'을 주제로, 시민들의 꿈과 희망을 빛으로 이야기하는 스토리텔링형 축제로 새롭게 선보인다. 매년 많은 사랑을 받아온 이색 트리와 포토존, 꿈빛기차(꼬마기차) 탑승 체험에 더해, 올해는 발달장애 어린이 작가들이 그린 꿈 그림과 시민들이 보내온 꿈 메시지를 담은 영상을 대형 전광판으로 상영한다. 축제는 매일 오후 6시부터 10시까지 청계광장을 밝히며, 누구나 무료로 관람할 수 있다.\n\n- 첫번째 빛  The First Glow : 점등식 26. 12. 12 \n- 꿈빛 광장 Dreamlight Square : 대형 트리 및 LED 조형물, 포토존 전시 \n- 꿈빛 기차 Dreamlight Train : 꼬마기차 탑승체험 프로그램 \n- 빛나는 나의 꿈 Shining Dreams : 시민들의 꿈과 소망이 담긴 메시지 상영 \n- 꿈을 그리는 캔버스 Dream Canvas : 발달장애 어린이 작가들의 '꿈' 과 '빛'을 주제로 한 미술작품 상영\n\n시간: 18:00~22:…",
-        "en": "Returning for its twelfth winter, this festival at Cheonggye Square features storytelling lighting under the theme Light Up Tomorrow. Enjoy unique trees, photo zones, a mini train ride, and special media art displays. The free event runs daily from 6 PM to 10 PM."
+        "ko": "서울의 겨울밤을 밝히는 「광화문 마켓」이 올해도 광화문광장을 찾아온다. 5회차를 맞이한 올해는 「시간이 멈춘 산타마을」을 주제로, 바쁜 일상 속 잠시 머물러 크리스마스의 설렘을 만끽할 수 있는 특별한 겨울 풍경을 선보인다. 대형 트리와 마켓 빌리지를 중심으로 크리스마스 시즌 소품과 따뜻한 먹거리를 한자리에서 만나볼 수 있으며, 오감을 자극하는 몰입형 포토존과 다채로운 체험 프로그램도 곳곳에 마련 될 예정이다. 크리스마스의 설렘이 머무는 곳, 올 겨울 광화문 마켓에서 특별한 겨울밤을 만날 수 있다.\n\n- 주요 프로그램 : 크리스마스 시즌 소품 판매\n- 부대 행사 및 프로그램 : 먹거리 부스 / 글로벌 협업 부스 / 체험 프로그램 / 몰입형 포토존 운영 등\n\n시간: [일요일~목요일]- 17:30~22:00[금요일~토요일]- 17:30~22:30\n\n요금: 무료",
+        "en": "The Gwanghwamun Market illuminates Gwanghwamun Square with the theme of a time-frozen Santa village. Visitors can enjoy Christmas props, warm food, immersive photo zones, and various experience programs. Admission is free for this seasonal winter night market."
       },
       "category": "festival",
       "tags": [
         "culture",
         "photo",
+        "food",
         "travel"
       ],
-      "start": "2026-12-11T18:00:00.000",
-      "end": "2026-12-31T22:00:00.000",
-      "venue": "서울특별시 중구 청계천 청계광장 일대",
-      "city": "서울 중구",
-      "lat": 37.5690771533,
-      "lng": 126.977599239,
-      "url": "http://www.seoulcl.kr/main/index.html",
+      "start": "2026-12-11T17:30:00.000",
+      "end": "2027-01-10T22:00:00.000",
+      "venue": "광화문광장 및 세종로공원 일대",
+      "city": "서울 종로구",
+      "lat": 37.5716249337,
+      "lng": 126.9767679222,
+      "url": "https://www.stolantern.com/",
       "source": "tour-festival",
       "sourceName": "한국관광공사 TourAPI · 축제·행사",
-      "imageUrl": "https://tong.visitkorea.or.kr/cms/resource/70/4152170_image2_1.jpg",
-      "isFree": true,
-      "price": "무료"
-    },
-    {
-      "id": "seoul-160015",
-      "title": {
-        "ko": "[서울시] 2026 서울라이트 광화문 [윤슬 : 시간의 수면]",
-        "en": "2026 Seoul Light Gwanghwamun [Yunsul: Water Surface of Time]"
-      },
-      "description": {
-        "ko": "대상: 누구나\n요금: 무료",
-        "en": "A free public media art and light exhibition presented by the Seoul Metropolitan Government at Gwanghwamun."
-      },
-      "category": "festival",
-      "tags": [
-        "culture",
-        "art",
-        "outdoor"
-      ],
-      "start": "2026-12-11T18:00:00.000",
-      "end": "2027-01-10T23:00:00.000",
-      "venue": "광화문광장 북측",
-      "city": "서울 종로구",
-      "lat": 37.5718478584908,
-      "lng": 126.976168275947,
-      "url": "https://culture.seoul.go.kr/culture/culture/cultureEvent/view.do?cultcode=160015&menuNo=200010",
-      "registerUrl": "https://www.seoullightgwanghwamun.com/",
-      "source": "seoul-culture",
-      "sourceName": "서울 열린데이터광장 · 서울시 문화행사",
-      "imageUrl": "https://culture.seoul.go.kr/cmmn/file/getImage.do?atchFileId=ff8ed449e5764306b7d01409ebbd6aaf&thumb=Y",
+      "imageUrl": "https://tong.visitkorea.or.kr/cms/resource/78/4153378_image2_1.png",
       "isFree": true,
       "price": "무료"
     },
@@ -8284,6 +8090,36 @@
       "isFree": true
     },
     {
+      "id": "seoul-160015",
+      "title": {
+        "ko": "[서울시] 2026 서울라이트 광화문 [윤슬 : 시간의 수면]",
+        "en": "2026 Seoul Light Gwanghwamun [Yunsul: Water Surface of Time]"
+      },
+      "description": {
+        "ko": "대상: 누구나\n요금: 무료",
+        "en": "A free public media art and light exhibition presented by the Seoul Metropolitan Government at Gwanghwamun."
+      },
+      "category": "festival",
+      "tags": [
+        "culture",
+        "art",
+        "outdoor"
+      ],
+      "start": "2026-12-11T18:00:00.000",
+      "end": "2027-01-10T23:00:00.000",
+      "venue": "광화문광장 북측",
+      "city": "서울 종로구",
+      "lat": 37.5718478584908,
+      "lng": 126.976168275947,
+      "url": "https://culture.seoul.go.kr/culture/culture/cultureEvent/view.do?cultcode=160015&menuNo=200010",
+      "registerUrl": "https://www.seoullightgwanghwamun.com/",
+      "source": "seoul-culture",
+      "sourceName": "서울 열린데이터광장 · 서울시 문화행사",
+      "imageUrl": "https://culture.seoul.go.kr/cmmn/file/getImage.do?atchFileId=ff8ed449e5764306b7d01409ebbd6aaf&thumb=Y",
+      "isFree": true,
+      "price": "무료"
+    },
+    {
       "id": "tour-1095732",
       "title": {
         "ko": "서울빛초롱축제",
@@ -8313,32 +8149,62 @@
       "price": "무료"
     },
     {
-      "id": "seoul-160203",
+      "id": "tour-2785797",
       "title": {
-        "ko": "카로스 타악기 앙상블 109회 정기연주회 [크리스마스 이야기]",
-        "en": "Caros Percussion Ensemble 109th Regular Concert [Christmas Story]"
+        "ko": "청계천의 빛",
+        "en": "Light of Cheonggyecheon"
       },
       "description": {
-        "ko": "클래식 명곡부터 창작 작품, 크리스마스의 정취까지 타악기의 새로운 매력으로 채우는 겨울의 이야기\n출연: 카로스 타악기 앙상블(예술감독·지휘 이영완, 악장 윤경화), 플룻 배종선, 작곡 정종열\n대상: 8세 이상 누구나\n요금: R석 70,000원 / S석 50,000원 / A석 30,000원",
-        "en": "A festive winter concert featuring classic masterpieces, creative pieces, and Christmas melodies performed on percussion instruments. Suitable for ages 8 and above."
+        "ko": "2015년 서울의 겨울밤을 처음 밝힌 '청계천의 빛'이 열두 번째 겨울을 맞아 12월 11일부터 31일까지 21일간 서울 청계광장에서 펼쳐진다. 올해는 '내일을 밝히는 꿈(Light Up Tomorrow)'을 주제로, 시민들의 꿈과 희망을 빛으로 이야기하는 스토리텔링형 축제로 새롭게 선보인다. 매년 많은 사랑을 받아온 이색 트리와 포토존, 꿈빛기차(꼬마기차) 탑승 체험에 더해, 올해는 발달장애 어린이 작가들이 그린 꿈 그림과 시민들이 보내온 꿈 메시지를 담은 영상을 대형 전광판으로 상영한다. 축제는 매일 오후 6시부터 10시까지 청계광장을 밝히며, 누구나 무료로 관람할 수 있다.\n\n- 첫번째 빛  The First Glow : 점등식 26. 12. 12 \n- 꿈빛 광장 Dreamlight Square : 대형 트리 및 LED 조형물, 포토존 전시 \n- 꿈빛 기차 Dreamlight Train : 꼬마기차 탑승체험 프로그램 \n- 빛나는 나의 꿈 Shining Dreams : 시민들의 꿈과 소망이 담긴 메시지 상영 \n- 꿈을 그리는 캔버스 Dream Canvas : 발달장애 어린이 작가들의 '꿈' 과 '빛'을 주제로 한 미술작품 상영\n\n시간: 18:00~22:…",
+        "en": "Returning for its twelfth winter, this festival at Cheonggye Square features storytelling lighting under the theme Light Up Tomorrow. Enjoy unique trees, photo zones, a mini train ride, and special media art displays. The free event runs daily from 6 PM to 10 PM."
       },
-      "category": "concert",
+      "category": "festival",
       "tags": [
-        "music"
+        "culture",
+        "photo",
+        "travel"
       ],
-      "start": "2026-12-11T19:30:00.000",
-      "end": "2026-12-11T21:30:00.000",
-      "venue": "예술의 전당 IBK기업은행홀",
-      "city": "서울 서초구",
-      "lat": 37.4802401962069,
-      "lng": 127.014215239186,
-      "url": "https://culture.seoul.go.kr/culture/culture/cultureEvent/view.do?cultcode=160203&menuNo=200008",
-      "registerUrl": "https://nol.yanolja.com/ticket/products/26015553",
+      "start": "2026-12-11T18:00:00.000",
+      "end": "2026-12-31T22:00:00.000",
+      "venue": "서울특별시 중구 청계천 청계광장 일대",
+      "city": "서울 중구",
+      "lat": 37.5690771533,
+      "lng": 126.977599239,
+      "url": "http://www.seoulcl.kr/main/index.html",
+      "source": "tour-festival",
+      "sourceName": "한국관광공사 TourAPI · 축제·행사",
+      "imageUrl": "https://tong.visitkorea.or.kr/cms/resource/70/4152170_image2_1.jpg",
+      "isFree": true,
+      "price": "무료"
+    },
+    {
+      "id": "seoul-160330",
+      "title": {
+        "ko": "[서울도서관] 12월 작가힙톡(Hip-Talk) - (김지수) 극한 생존 시대를 사는 마음의 기술, 의젓함",
+        "en": "Seoul Library December Author Hip-Talk: Kim Ji-su"
+      },
+      "description": {
+        "ko": "트렌드를 반영하는 독자와 작가가 한 자리에 모여 이야기를 듣고 소통하는 시간\n출연: 김지수, 희정\n대상: 누구나\n요금: 무료",
+        "en": "An interactive talk session with author Kim Ji-su discussing emotional survival techniques in modern times. Open to all readers interested in current trends."
+      },
+      "category": "classes",
+      "tags": [
+        "books",
+        "culture"
+      ],
+      "start": "2026-12-11T19:00:00.000",
+      "end": "2026-12-18T20:30:00.000",
+      "venue": "서울도서관 생각마루",
+      "city": "서울 중구",
+      "lat": 37.5663174209601,
+      "lng": 126.977829174031,
+      "url": "https://culture.seoul.go.kr/culture/culture/cultureEvent/view.do?cultcode=160330&menuNo=200011",
+      "registerUrl": "https://lib.seoul.go.kr/lecture/applyDetail/7641",
       "source": "seoul-culture",
       "sourceName": "서울 열린데이터광장 · 서울시 문화행사",
-      "imageUrl": "https://culture.seoul.go.kr/cmmn/file/getImage.do?atchFileId=fcf38cf9d95548f086059aff7ec8b058&thumb=Y",
-      "isFree": false,
-      "price": "R석 70,000원 / S석 50,000원 / A석 30,000원"
+      "imageUrl": "https://culture.seoul.go.kr/cmmn/file/getImage.do?atchFileId=715ecb56bcd44d808eb0067705837fe0&thumb=Y",
+      "isFree": true,
+      "price": "무료"
     },
     {
       "id": "seoul-160135",
@@ -8367,6 +8233,34 @@
       "imageUrl": "https://culture.seoul.go.kr/cmmn/file/getImage.do?atchFileId=85dc62590a244b51bf994dea5d93c9a8&thumb=Y",
       "isFree": false,
       "price": "R석 2만원 S석 1만5천원"
+    },
+    {
+      "id": "seoul-160203",
+      "title": {
+        "ko": "카로스 타악기 앙상블 109회 정기연주회 [크리스마스 이야기]",
+        "en": "Caros Percussion Ensemble 109th Regular Concert [Christmas Story]"
+      },
+      "description": {
+        "ko": "클래식 명곡부터 창작 작품, 크리스마스의 정취까지 타악기의 새로운 매력으로 채우는 겨울의 이야기\n출연: 카로스 타악기 앙상블(예술감독·지휘 이영완, 악장 윤경화), 플룻 배종선, 작곡 정종열\n대상: 8세 이상 누구나\n요금: R석 70,000원 / S석 50,000원 / A석 30,000원",
+        "en": "A festive winter concert featuring classic masterpieces, creative pieces, and Christmas melodies performed on percussion instruments. Suitable for ages 8 and above."
+      },
+      "category": "concert",
+      "tags": [
+        "music"
+      ],
+      "start": "2026-12-11T19:30:00.000",
+      "end": "2026-12-11T21:30:00.000",
+      "venue": "예술의 전당 IBK기업은행홀",
+      "city": "서울 서초구",
+      "lat": 37.4802401962069,
+      "lng": 127.014215239186,
+      "url": "https://culture.seoul.go.kr/culture/culture/cultureEvent/view.do?cultcode=160203&menuNo=200008",
+      "registerUrl": "https://nol.yanolja.com/ticket/products/26015553",
+      "source": "seoul-culture",
+      "sourceName": "서울 열린데이터광장 · 서울시 문화행사",
+      "imageUrl": "https://culture.seoul.go.kr/cmmn/file/getImage.do?atchFileId=fcf38cf9d95548f086059aff7ec8b058&thumb=Y",
+      "isFree": false,
+      "price": "R석 70,000원 / S석 50,000원 / A석 30,000원"
     },
     {
       "id": "seoul-160205",
@@ -8453,6 +8347,34 @@
       "imageUrl": "https://culture.seoul.go.kr/cmmn/file/getImage.do?atchFileId=09fc850cf00b49369308633cc92c6225&thumb=Y",
       "isFree": false,
       "price": "전석 50,000원"
+    },
+    {
+      "id": "seoul-160361",
+      "title": {
+        "ko": "[서울시립교향악단] 2026 서울시향 미라클(美樂Classic) 서울 : 별빛 아래, 우리의 크리스마스",
+        "en": "Seoul Philharmonic Orchestra Miracle Classic: Starlight Christmas"
+      },
+      "description": {
+        "ko": "대상: 누구나",
+        "en": "A heartwarming classical holiday concert presented by the Seoul Philharmonic Orchestra under the starlight. Open to all music lovers."
+      },
+      "category": "concert",
+      "tags": [
+        "music",
+        "culture"
+      ],
+      "start": "2026-12-12T20:00:00.000",
+      "end": "2026-12-12T22:00:00.000",
+      "venue": "별마당 도서관",
+      "city": "서울 강남구",
+      "lat": 37.5118239121138,
+      "lng": 127.059159043842,
+      "url": "https://culture.seoul.go.kr/culture/culture/cultureEvent/view.do?cultcode=160361&menuNo=200008",
+      "registerUrl": "https://www.seoulphil.or.kr/perf/view?perfNo=7855",
+      "source": "seoul-culture",
+      "sourceName": "서울 열린데이터광장 · 서울시 문화행사",
+      "imageUrl": "https://culture.seoul.go.kr/cmmn/file/getImage.do?atchFileId=abe7c5ef3edb43649f775fe326f1f3a7&thumb=Y",
+      "isFree": true
     },
     {
       "id": "seoul-160288",
@@ -8887,6 +8809,63 @@
       "price": "무료"
     },
     {
+      "id": "seoul-160364",
+      "title": {
+        "ko": "[서울도서관] 12월 작가힙톡(Hip-Talk) - (희정) 어떻게 떠나고, 어떻게 기억될 것인가",
+        "en": "Seoul Library December Author Hip-Talk: Hee-jung"
+      },
+      "description": {
+        "ko": "대상: 서울도서관 회원",
+        "en": "A thoughtful discussion session with author Hee-jung exploring ways of departure and remembrance. Exclusively for Seoul Library members."
+      },
+      "category": "classes",
+      "tags": [
+        "books",
+        "culture"
+      ],
+      "start": "2026-12-18T19:00:00.000",
+      "end": "2026-12-18T20:30:00.000",
+      "venue": "서울도서관 1층 생각마루",
+      "city": "서울 중구",
+      "lat": 37.5663174209601,
+      "lng": 126.977829174031,
+      "url": "https://culture.seoul.go.kr/culture/culture/cultureEvent/view.do?cultcode=160364&menuNo=200011",
+      "registerUrl": "https://lib.seoul.go.kr/lecture/applyDetail/7642",
+      "source": "seoul-culture",
+      "sourceName": "서울 열린데이터광장 · 서울시 문화행사",
+      "imageUrl": "https://culture.seoul.go.kr/cmmn/file/getImage.do?atchFileId=9781faed8c93410ea4a8f3ce40467fec&thumb=Y",
+      "isFree": true
+    },
+    {
+      "id": "seoul-160329",
+      "title": {
+        "ko": "[마포문화재단] 2026 M 송년발레 [호두까기 인형]",
+        "en": "Mapo Arts Center 2026 Year-End Ballet: The Nutcracker"
+      },
+      "description": {
+        "ko": "대상: 48개월 이상 관람가능\n요금: R석 77,000원, S석 55,000원",
+        "en": "A magical holiday ballet performance of The Nutcracker presented by the Mapo Cultural Foundation. Suitable for children aged 48 months and older."
+      },
+      "category": "performance",
+      "tags": [
+        "culture",
+        "family"
+      ],
+      "start": "2026-12-18T19:30:00.000",
+      "end": "2026-12-20T13:00:00.000",
+      "venue": "마포아트센터 아트홀맥",
+      "city": "서울 마포구",
+      "lat": 37.54987259578174,
+      "lng": 126.9455874749264,
+      "url": "https://culture.seoul.go.kr/culture/culture/cultureEvent/view.do?cultcode=160329&menuNo=200008",
+      "registerUrl": "https://www.mfac.or.kr/performance/whole_view.jsp?sc_b_category=17&sc_b_code=BOARD_1207683401&pk_seq=2705&page=1",
+      "source": "seoul-culture",
+      "sourceName": "서울 열린데이터광장 · 서울시 문화행사",
+      "imageUrl": "https://culture.seoul.go.kr/cmmn/file/getImage.do?atchFileId=6bd07604dae743ea89abf6589d4d7e9d&thumb=Y",
+      "isFree": false,
+      "price": "R석 77,000원, S석 55,000원"
+    },
+    {
       "id": "seoul-160301",
       "title": {
         "ko": "[백범김구기념관] 중학생 진로(학예사) 체험프로그램 [나도 박물관 사람!]",
@@ -9261,6 +9240,35 @@
       "imageUrl": "https://tong.visitkorea.or.kr/cms/resource/64/3586264_image2_1.jpg",
       "isFree": true,
       "price": "무료"
+    },
+    {
+      "id": "seoul-160312",
+      "title": {
+        "ko": "명가월륜: 만월",
+        "en": "Myeonggawallyun: Full Moon"
+      },
+      "description": {
+        "ko": "대상: 누구나\n요금: R석 70,000원 S석 50,000원",
+        "en": "A traditional Korean musical performance titled Myeonggawallyun: Full Moon. Tickets are priced at 70,000 KRW for R seats and 50,000 KRW for S seats."
+      },
+      "category": "performance",
+      "tags": [
+        "culture",
+        "music"
+      ],
+      "start": "2026-12-24T16:00:00.000",
+      "end": "2026-12-24T19:00:00.000",
+      "venue": "서울남산국악당 크라운해태홀",
+      "city": "서울 중구",
+      "lat": 37.5583499463987,
+      "lng": 126.994021611776,
+      "url": "https://culture.seoul.go.kr/culture/culture/cultureEvent/view.do?cultcode=160312&menuNo=200008",
+      "registerUrl": "https://sgdance.imweb.me/Community_Notice/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&bmode=view&idx=175867672&t=board",
+      "source": "seoul-culture",
+      "sourceName": "서울 열린데이터광장 · 서울시 문화행사",
+      "imageUrl": "https://culture.seoul.go.kr/cmmn/file/getImage.do?atchFileId=436a083f154f467595e7b8a69d92b9c2&thumb=Y",
+      "isFree": false,
+      "price": "R석 70,000원 S석 50,000원"
     },
     {
       "id": "tour-2641128",

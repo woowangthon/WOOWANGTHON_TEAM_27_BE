@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-28T03:55:17.445493+09:00",
+ "generatedAt": "2026-11-28T12:25:17.795098+09:00",
  "windowDays": 14,
  "queries": [
   "버스 파업",
@@ -17,7 +17,7 @@
    "url": "https://www.ncloud.com/product/applicationService/naverApiHub"
   }
  ],
- "articles": 261,
+ "articles": 262,
  "searchResults": [
   {
    "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8724823&ref=A",
@@ -180,13 +180,13 @@
    "query": "버스 파업"
   },
   {
-   "url": "http://www.mdilbo.com/detail/c3QycN/760910",
-   "title": "철도노조 준법투쟁 첫날···시민들 \"총파업 땐 어쩌나\"",
+   "url": "http://www.chungnamilbo.co.kr/news/articleView.html?idxno=923323",
+   "title": "학교 비정규직 27일 총파업… 대전 급식 대체식·돌봄 통합 운영",
    "query": "버스 파업"
   },
   {
-   "url": "http://www.chungnamilbo.co.kr/news/articleView.html?idxno=923323",
-   "title": "학교 비정규직 27일 총파업… 대전 급식 대체식·돌봄 통합 운영",
+   "url": "http://www.mdilbo.com/detail/c3QycN/760910",
+   "title": "철도노조 준법투쟁 첫날···시민들 \"총파업 땐 어쩌나\"",
    "query": "버스 파업"
   },
   {
@@ -460,6 +460,16 @@
    "query": "지하철 파업"
   },
   {
+   "url": "https://www.newsis.com/view/NISX20261128_0003887077",
+   "title": "\"이어플러그도, 후드티도 피했어요\"…AI 부정행위 우려에 속끓인 수험생...",
+   "query": "철도 파업"
+  },
+  {
+   "url": "https://www.hankyung.com/article/2026112753771",
+   "title": "\"엄마, 학교에서 밥 안 준대\"…11월만 되면 대체 왜 이러나",
+   "query": "철도 파업"
+  },
+  {
    "url": "https://www.ajunews.com/view/20261127214900556",
    "title": "[아주경제 오늘의 뉴스 종합] 철도노조 준법투쟁 이틀째… 출근길 1호선...",
    "query": "철도 파업"
@@ -580,17 +590,7 @@
    "query": "철도 파업"
   },
   {
-   "url": "https://www.newsis.com/view/NISI20261127_0021547359",
-   "title": "철도노조 준법투쟁 이틀째",
-   "query": "철도 파업"
-  },
-  {
-   "url": "https://www.newsis.com/view/NISI20261127_0021547371",
-   "title": "이틀째 이어지는 철도노조 준법투쟁",
-   "query": "철도 파업"
-  },
-  {
-   "url": "https://www.newsis.com/view/NISI20261127_0021547370",
+   "url": "https://www.newsis.com/view/NISI20261127_0021547360",
    "title": "이틀째 이어지는 철도노조 준법투쟁",
    "query": "철도 파업"
   },
@@ -645,13 +645,13 @@
    "query": "파업 예고 운행"
   },
   {
-   "url": "https://www.knnews.co.kr/news/articleView.php?idxno=1556045",
-   "title": "[사설] 철도노사, 총파업 전에 합의 길 찾아라",
+   "url": "https://www.seoul.co.kr/news/society/2026/11/26/20261126500342?wlog_tag3=naver",
+   "title": "철도노조 ‘태업’ 첫날 열차 지연 속출…일반열차 4편 ‘운행 중지’",
    "query": "파업 예고 운행"
   },
   {
-   "url": "https://www.seoul.co.kr/news/society/2026/11/26/20261126500342?wlog_tag3=naver",
-   "title": "철도노조 ‘태업’ 첫날 열차 지연 속출…일반열차 4편 ‘운행 중지’",
+   "url": "https://www.knnews.co.kr/news/articleView.php?idxno=1556045",
+   "title": "[사설] 철도노사, 총파업 전에 합의 길 찾아라",
    "query": "파업 예고 운행"
   },
   {
@@ -733,6 +733,16 @@
    "url": "https://www.hankookilbo.com/news/article/A2026112616350000213?did=NA",
    "title": "철도노조 투쟁에 열차 239대 운행 지연… 코레일, 열차 4편 운행 중지",
    "query": "파업 예고 운행"
+  },
+  {
+   "url": "https://www.vegannews.co.kr/news/article.html?no=412524",
+   "title": "국회의사당역 5번 출구 버스정류장 정오부터 옮겨 운영",
+   "query": "집회 교통 통제"
+  },
+  {
+   "url": "https://www.edaily.co.kr/News/Read?newsId=01213606645650312&mediaCodeNo=257&utm_source=naver&utm_medium=referral&utm_campaign=news_syndication&utm_content=original_article",
+   "title": "주말 마라톤에 서울 도로 통제…\"교통정보 확인하세요\"[사회in]",
+   "query": "집회 교통 통제"
   },
   {
    "url": "https://www.sedaily.com/article/20119943?ref=naver",
@@ -860,9 +870,14 @@
    "query": "집회 교통 통제"
   },
   {
-   "url": "https://www.edaily.co.kr/News/Read?newsId=01285766645645720&mediaCodeNo=257&utm_source=naver&utm_medium=referral&utm_campaign=news_syndication&utm_content=original_article",
-   "title": "'비 오는 주말' 도심 곳곳서 마라톤·집회 열려 '혼잡'[사회in]",
-   "query": "집회 교통 통제"
+   "url": "https://www.sedaily.com/article/20120093?ref=naver",
+   "title": "“이건 진짜 아니다” 구급차 막고 30명 우르르…마라톤에 또 길 막혔다",
+   "query": "마라톤 도로 통제"
+  },
+  {
+   "url": "https://www.dailian.co.kr/news/view/1720597/?sc=Naver",
+   "title": "\"마라톤 중이시니 길을 비켜라\"…폭도 연상케 하는 민폐 행렬 [박영국의...",
+   "query": "마라톤 도로 통제"
   },
   {
    "url": "https://www.topstarnews.net/news/articleView.html?idxno=16288093",
@@ -1100,21 +1115,6 @@
    "query": "마라톤 도로 통제"
   },
   {
-   "url": "http://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0300&key=20261123.99099007206",
-   "title": "양산시 유일 하프마라톤대회, 12월 6일 개최…전문 경호인력 첫 배치",
-   "query": "마라톤 도로 통제"
-  },
-  {
-   "url": "https://www.ulsanpress.net/news/articleView.html?idxno=587382",
-   "title": "양산전국하프마라톤대회 12월 6일 개최…전국 8000여명 참가",
-   "query": "마라톤 도로 통제"
-  },
-  {
-   "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008859004&plink=ORI&cooper=NAVER",
-   "title": "\"주말마다 뭐하는 짓\" 마라톤 길막 분노…고개 숙인 경찰",
-   "query": "마라톤 도로 통제"
-  },
-  {
    "url": "https://www.gukjenews.com/news/articleView.html?idxno=3763580",
    "title": "장림포구서 '부네치아 낙낙데이' 개최…28일 '낙화놀이' 선보여",
    "query": "축제 버스 우회"
@@ -1207,6 +1207,11 @@
   {
    "url": "https://www.segye.com/newsView/20261123513308?OutUrl=naver",
    "title": "“달구벌이 들썩인다”…삼성 라이온즈, 29일 20년 만의 도심 카퍼레이...",
+   "query": "축제 버스 우회"
+  },
+  {
+   "url": "https://www.ulsanpress.net/news/articleView.html?idxno=587382",
+   "title": "양산전국하프마라톤대회 12월 6일 개최…전국 8000여명 참가",
    "query": "축제 버스 우회"
   },
   {
@@ -20557,7 +20562,7 @@
   },
   {
    "assertion": "planned",
-   "checked_at": "2026-11-28T03:54:50.239165+09:00",
+   "checked_at": "2026-11-28T12:24:50.851232+09:00",
    "conflict": false,
    "demo": false,
    "disruption_confirmed": false,
@@ -20766,7 +20771,7 @@
       "source_url": "https://www.yna.co.kr/view/PYH20261127119000013?input=1196m",
       "published_at": "2026-11-27T15:35:10+09:00",
       "updated_at": "2026-11-27T15:35:10+09:00",
-      "collected_at": "2026-11-28T03:54:50.239165+09:00",
+      "collected_at": "2026-11-28T12:24:50.851232+09:00",
       "field_evidence": [
        {
         "field_path": "/article_relevance",
@@ -20911,7 +20916,7 @@
       "source_url": "https://www.yna.co.kr/view/PYH20261127119000013?input=1196m",
       "published_at": "2026-11-27T15:35:10+09:00",
       "updated_at": "2026-11-27T15:35:10+09:00",
-      "collected_at": "2026-11-28T03:54:50.239165+09:00",
+      "collected_at": "2026-11-28T12:24:50.851232+09:00",
       "field_evidence": [
        {
         "field_path": "/article_relevance",
@@ -21028,7 +21033,7 @@
      "source_revision": "73e94a31baac9e4d4b28ec2d",
      "published_at": "2026-11-27T15:35:10+09:00",
      "updated_at": "2026-11-27T15:35:10+09:00",
-     "collected_at": "2026-11-28T03:54:50.239165+09:00"
+     "collected_at": "2026-11-28T12:24:50.851232+09:00"
     },
     "events": [],
     "review_reasons": []
@@ -21074,7 +21079,7 @@
       "source_url": "https://www.yna.co.kr/view/AKR20261127162600004?input=1195m",
       "published_at": "2026-11-27T19:29:52+09:00",
       "updated_at": "2026-11-27T19:33:15+09:00",
-      "collected_at": "2026-11-28T03:54:52.665437+09:00",
+      "collected_at": "2026-11-28T12:24:52.996369+09:00",
       "field_evidence": [
        {
         "field_path": "/article_relevance",
@@ -21191,7 +21196,7 @@
      "source_revision": "11c223ba43ac96321d2659ad",
      "published_at": "2026-11-27T19:29:52+09:00",
      "updated_at": "2026-11-27T19:33:15+09:00",
-     "collected_at": "2026-11-28T03:54:52.665437+09:00"
+     "collected_at": "2026-11-28T12:24:52.996369+09:00"
     },
     "events": [],
     "review_reasons": []
@@ -21224,9 +21229,7 @@
      },
      "strike_status": {
       "value": "unknown",
-      "conditions": [
-       "철도노조는 노사 교섭이 타결되지 않으면 다음달 10일 총파업에 돌입할 계획이다."
-      ],
+      "conditions": [],
       "scope_raw": null,
       "effective_at": null
      },
@@ -21234,109 +21237,109 @@
      "normal_service_exceptions": [],
      "alternative_services": [],
      "evidence_and_timestamps": {
-      "source_url": "https://www.khan.co.kr/article/202611271914001",
-      "published_at": "2026-11-27T19:14:00+09:00",
+      "source_url": "https://www.newsis.com/view/NISX20261128_0003887077",
+      "published_at": "2026-11-28T11:54:24+09:00",
       "updated_at": null,
-      "collected_at": "2026-11-28T03:54:56.632772+09:00",
+      "collected_at": "2026-11-28T12:24:55.676826+09:00",
       "field_evidence": [
        {
         "field_path": "/article_relevance",
-        "quote": "철도노조는 노사 교섭이 타결되지 않으면 다음달 10일 총파업에 돌입할 계획이다.",
+        "quote": "[서울=뉴시스] 고선영 기자 = 28일 오전 서울 성동구 한양대학교에서 2027학년도 수시모집 논술고사를 마치고 수험생들이 나오는 모습 [email protected] *재판매 및 DB 금지",
         "source_part": "body",
         "effective_at": null,
         "derivation": "explicit",
-        "source_id": "4daa2f17abea8e3d53301bcb",
-        "source_revision": "3e323be8159ebbf23168a5c0",
+        "source_id": "d2fe5f00b769dba68dbcd81f",
+        "source_revision": "5f72f344c16e620a93699588",
         "reference_source": null
        },
        {
         "field_path": "/transport_mode",
-        "quote": "철도노조는 노사 교섭이 타결되지 않으면 다음달 10일 총파업에 돌입할 계획이다.",
+        "quote": "[서울=뉴시스] 고선영 기자 = 28일 오전 서울 성동구 한양대학교에서 2027학년도 수시모집 논술고사를 마치고 수험생들이 나오는 모습 [email protected] *재판매 및 DB 금지",
         "source_part": "body",
         "effective_at": null,
         "derivation": "explicit",
-        "source_id": "4daa2f17abea8e3d53301bcb",
-        "source_revision": "3e323be8159ebbf23168a5c0",
+        "source_id": "d2fe5f00b769dba68dbcd81f",
+        "source_revision": "5f72f344c16e620a93699588",
         "reference_source": null
        },
        {
         "field_path": "/affected_regions",
-        "quote": "철도노조는 노사 교섭이 타결되지 않으면 다음달 10일 총파업에 돌입할 계획이다.",
+        "quote": "[서울=뉴시스] 고선영 기자 = 28일 오전 서울 성동구 한양대학교에서 2027학년도 수시모집 논술고사를 마치고 수험생들이 나오는 모습 [email protected] *재판매 및 DB 금지",
         "source_part": "body",
         "effective_at": null,
         "derivation": "explicit",
-        "source_id": "4daa2f17abea8e3d53301bcb",
-        "source_revision": "3e323be8159ebbf23168a5c0",
+        "source_id": "d2fe5f00b769dba68dbcd81f",
+        "source_revision": "5f72f344c16e620a93699588",
         "reference_source": null
        },
        {
         "field_path": "/affected_routes",
-        "quote": "철도노조는 노사 교섭이 타결되지 않으면 다음달 10일 총파업에 돌입할 계획이다.",
+        "quote": "[서울=뉴시스] 고선영 기자 = 28일 오전 서울 성동구 한양대학교에서 2027학년도 수시모집 논술고사를 마치고 수험생들이 나오는 모습 [email protected] *재판매 및 DB 금지",
         "source_part": "body",
         "effective_at": null,
         "derivation": "explicit",
-        "source_id": "4daa2f17abea8e3d53301bcb",
-        "source_revision": "3e323be8159ebbf23168a5c0",
+        "source_id": "d2fe5f00b769dba68dbcd81f",
+        "source_revision": "5f72f344c16e620a93699588",
         "reference_source": null
        },
        {
         "field_path": "/strike_status",
-        "quote": "철도노조는 노사 교섭이 타결되지 않으면 다음달 10일 총파업에 돌입할 계획이다.",
+        "quote": "[서울=뉴시스] 고선영 기자 = 28일 오전 서울 성동구 한양대학교에서 2027학년도 수시모집 논술고사를 마치고 수험생들이 나오는 모습 [email protected] *재판매 및 DB 금지",
         "source_part": "body",
         "effective_at": null,
         "derivation": "explicit",
-        "source_id": "4daa2f17abea8e3d53301bcb",
-        "source_revision": "3e323be8159ebbf23168a5c0",
+        "source_id": "d2fe5f00b769dba68dbcd81f",
+        "source_revision": "5f72f344c16e620a93699588",
         "reference_source": null
        },
        {
         "field_path": "/service_status",
-        "quote": "철도노조는 노사 교섭이 타결되지 않으면 다음달 10일 총파업에 돌입할 계획이다.",
+        "quote": "[서울=뉴시스] 고선영 기자 = 28일 오전 서울 성동구 한양대학교에서 2027학년도 수시모집 논술고사를 마치고 수험생들이 나오는 모습 [email protected] *재판매 및 DB 금지",
         "source_part": "body",
         "effective_at": null,
         "derivation": "explicit",
-        "source_id": "4daa2f17abea8e3d53301bcb",
-        "source_revision": "3e323be8159ebbf23168a5c0",
+        "source_id": "d2fe5f00b769dba68dbcd81f",
+        "source_revision": "5f72f344c16e620a93699588",
         "reference_source": null
        },
        {
         "field_path": "/normal_service_exceptions",
-        "quote": "철도노조는 노사 교섭이 타결되지 않으면 다음달 10일 총파업에 돌입할 계획이다.",
+        "quote": "[서울=뉴시스] 고선영 기자 = 28일 오전 서울 성동구 한양대학교에서 2027학년도 수시모집 논술고사를 마치고 수험생들이 나오는 모습 [email protected] *재판매 및 DB 금지",
         "source_part": "body",
         "effective_at": null,
         "derivation": "explicit",
-        "source_id": "4daa2f17abea8e3d53301bcb",
-        "source_revision": "3e323be8159ebbf23168a5c0",
+        "source_id": "d2fe5f00b769dba68dbcd81f",
+        "source_revision": "5f72f344c16e620a93699588",
         "reference_source": null
        },
        {
         "field_path": "/alternative_services",
-        "quote": "철도노조는 노사 교섭이 타결되지 않으면 다음달 10일 총파업에 돌입할 계획이다.",
+        "quote": "[서울=뉴시스] 고선영 기자 = 28일 오전 서울 성동구 한양대학교에서 2027학년도 수시모집 논술고사를 마치고 수험생들이 나오는 모습 [email protected] *재판매 및 DB 금지",
         "source_part": "body",
         "effective_at": null,
         "derivation": "explicit",
-        "source_id": "4daa2f17abea8e3d53301bcb",
-        "source_revision": "3e323be8159ebbf23168a5c0",
+        "source_id": "d2fe5f00b769dba68dbcd81f",
+        "source_revision": "5f72f344c16e620a93699588",
         "reference_source": null
        },
        {
         "field_path": "/start",
-        "quote": "철도노조는 노사 교섭이 타결되지 않으면 다음달 10일 총파업에 돌입할 계획이다.",
+        "quote": "[서울=뉴시스] 고선영 기자 = 28일 오전 서울 성동구 한양대학교에서 2027학년도 수시모집 논술고사를 마치고 수험생들이 나오는 모습 [email protected] *재판매 및 DB 금지",
         "source_part": "body",
         "effective_at": null,
         "derivation": "explicit",
-        "source_id": "4daa2f17abea8e3d53301bcb",
-        "source_revision": "3e323be8159ebbf23168a5c0",
+        "source_id": "d2fe5f00b769dba68dbcd81f",
+        "source_revision": "5f72f344c16e620a93699588",
         "reference_source": null
        },
        {
         "field_path": "/end",
-        "quote": "철도노조는 노사 교섭이 타결되지 않으면 다음달 10일 총파업에 돌입할 계획이다.",
+        "quote": "[서울=뉴시스] 고선영 기자 = 28일 오전 서울 성동구 한양대학교에서 2027학년도 수시모집 논술고사를 마치고 수험생들이 나오는 모습 [email protected] *재판매 및 DB 금지",
         "source_part": "body",
         "effective_at": null,
         "derivation": "explicit",
-        "source_id": "4daa2f17abea8e3d53301bcb",
-        "source_revision": "3e323be8159ebbf23168a5c0",
+        "source_id": "d2fe5f00b769dba68dbcd81f",
+        "source_revision": "5f72f344c16e620a93699588",
         "reference_source": null
        }
       ],
@@ -21349,12 +21352,12 @@
     "article_relevance": "unrelated",
     "processing_status": "success",
     "source": {
-     "source_id": "4daa2f17abea8e3d53301bcb",
-     "source_url": "https://www.khan.co.kr/article/202611271914001",
-     "source_revision": "3e323be8159ebbf23168a5c0",
-     "published_at": "2026-11-27T19:14:00+09:00",
+     "source_id": "d2fe5f00b769dba68dbcd81f",
+     "source_url": "https://www.newsis.com/view/NISX20261128_0003887077",
+     "source_revision": "5f72f344c16e620a93699588",
+     "published_at": "2026-11-28T11:54:24+09:00",
      "updated_at": null,
-     "collected_at": "2026-11-28T03:54:56.632772+09:00"
+     "collected_at": "2026-11-28T12:24:55.676826+09:00"
     },
     "events": [],
     "review_reasons": []
@@ -21398,7 +21401,7 @@
       "source_url": "https://www.seoul.co.kr/news/society/2026/11/26/20261126500342?wlog_tag3=naver",
       "published_at": "2026-11-26T20:57:35+09:00",
       "updated_at": "2026-11-26T20:57:35+09:00",
-      "collected_at": "2026-11-28T03:55:01.155669+09:00",
+      "collected_at": "2026-11-28T12:25:00.633610+09:00",
       "field_evidence": [
        {
         "field_path": "/article_relevance",
@@ -21540,7 +21543,7 @@
       "source_url": "https://www.seoul.co.kr/news/society/2026/11/26/20261126500342?wlog_tag3=naver",
       "published_at": "2026-11-26T20:57:35+09:00",
       "updated_at": "2026-11-26T20:57:35+09:00",
-      "collected_at": "2026-11-28T03:55:01.155669+09:00",
+      "collected_at": "2026-11-28T12:25:00.633610+09:00",
       "field_evidence": [
        {
         "field_path": "/article_relevance",
@@ -21657,7 +21660,7 @@
      "source_revision": "6d95509a948d4a3ab6dae082",
      "published_at": "2026-11-26T20:57:35+09:00",
      "updated_at": "2026-11-26T20:57:35+09:00",
-     "collected_at": "2026-11-28T03:55:01.155669+09:00"
+     "collected_at": "2026-11-28T12:25:00.633610+09:00"
     },
     "events": [],
     "review_reasons": []
@@ -21703,7 +21706,7 @@
       "source_url": "https://www.hankyung.com/article/2026112500296",
       "published_at": "2026-11-26T06:30:02+09:00",
       "updated_at": null,
-      "collected_at": "2026-11-28T03:55:03.822308+09:00",
+      "collected_at": "2026-11-28T12:25:03.061211+09:00",
       "field_evidence": [
        {
         "field_path": "/article_relevance",
@@ -21820,7 +21823,7 @@
      "source_revision": "cea61335cc59b0fc95c3cb16",
      "published_at": "2026-11-26T06:30:02+09:00",
      "updated_at": null,
-     "collected_at": "2026-11-28T03:55:03.822308+09:00"
+     "collected_at": "2026-11-28T12:25:03.061211+09:00"
     },
     "events": [],
     "review_reasons": []
@@ -21864,7 +21867,7 @@
       "source_url": "https://www.newsis.com/view/NISX20261126_0003885344",
       "published_at": "2026-11-27T10:03:47+09:00",
       "updated_at": null,
-      "collected_at": "2026-11-28T03:55:06.603082+09:00",
+      "collected_at": "2026-11-28T12:25:03.605780+09:00",
       "field_evidence": [
        {
         "field_path": "/article_relevance",
@@ -21981,7 +21984,7 @@
      "source_revision": "a0fc11fac5214b50223eb675",
      "published_at": "2026-11-27T10:03:47+09:00",
      "updated_at": null,
-     "collected_at": "2026-11-28T03:55:06.603082+09:00"
+     "collected_at": "2026-11-28T12:25:03.605780+09:00"
     },
     "events": [],
     "review_reasons": []
@@ -22025,7 +22028,7 @@
       "source_url": "https://www.seoul.co.kr/news/society/2026/11/25/20261125500215?wlog_tag3=naver",
       "published_at": "2026-11-25T15:48:27+09:00",
       "updated_at": "2026-11-25T15:48:27+09:00",
-      "collected_at": "2026-11-28T03:55:08.323662+09:00",
+      "collected_at": "2026-11-28T12:25:05.579242+09:00",
       "field_evidence": [
        {
         "field_path": "/article_relevance",
@@ -22142,7 +22145,7 @@
      "source_revision": "1f1cad3c054fcf3d2d5157ed",
      "published_at": "2026-11-25T15:48:27+09:00",
      "updated_at": "2026-11-25T15:48:27+09:00",
-     "collected_at": "2026-11-28T03:55:08.323662+09:00"
+     "collected_at": "2026-11-28T12:25:05.579242+09:00"
     },
     "events": [],
     "review_reasons": []
@@ -22186,7 +22189,7 @@
       "source_url": "https://www.khan.co.kr/article/202611271321001",
       "published_at": "2026-11-27T13:21:00+09:00",
       "updated_at": null,
-      "collected_at": "2026-11-28T03:55:09.815734+09:00",
+      "collected_at": "2026-11-28T12:25:09.773179+09:00",
       "field_evidence": [
        {
         "field_path": "/article_relevance",
@@ -22303,7 +22306,7 @@
      "source_revision": "a0df51fbe8cd17b031a9384d",
      "published_at": "2026-11-27T13:21:00+09:00",
      "updated_at": null,
-     "collected_at": "2026-11-28T03:55:09.815734+09:00"
+     "collected_at": "2026-11-28T12:25:09.773179+09:00"
     },
     "events": [],
     "review_reasons": []
@@ -22336,9 +22339,7 @@
      },
      "strike_status": {
       "value": "unknown",
-      "conditions": [
-       "철도노조는 내달 4일까지 안전 운행 투쟁을 진행하고 요구가 받아들여지지 않으면 12월 10일 무기한 ‘총파업’에 나설 예정이다."
-      ],
+      "conditions": [],
       "scope_raw": null,
       "effective_at": null
      },
@@ -22346,209 +22347,1093 @@
      "normal_service_exceptions": [],
      "alternative_services": [],
      "evidence_and_timestamps": {
-      "source_url": "https://www.seoul.co.kr/news/society/2026/11/27/20261127500320?wlog_tag3=naver",
-      "published_at": "2026-11-27T18:49:18+09:00",
-      "updated_at": "2026-11-27T18:49:18+09:00",
-      "collected_at": "2026-11-28T03:55:11.830273+09:00",
+      "source_url": "https://www.hankyung.com/article/2026112753771",
+      "published_at": "2026-11-28T06:00:02+09:00",
+      "updated_at": null,
+      "collected_at": "2026-11-28T12:25:10.482190+09:00",
       "field_evidence": [
        {
         "field_path": "/article_relevance",
-        "quote": "철도노조는 내달 4일까지 안전 운행 투쟁을 진행하고 요구가 받아들여지지 않으면 12월 10일 무기한 ‘총파업’에 나설 예정이다.",
+        "quote": "학교 급식 조리원과 돌봄교실 종사자 등이 소속된 전국민주노동조합총연맹 학교 비정규직 노조(전국학교비정규직연대회의)가 임금 인상 및 처우 개선을 요구하며 27일 전국 동시 총파업에 나섰다.",
         "source_part": "body",
         "effective_at": null,
         "derivation": "explicit",
-        "source_id": "f626ceb2b6359749e61f45ae",
-        "source_revision": "d8a4af8f5b31289709cde5e3",
+        "source_id": "e6655d00bd16e0019033de67",
+        "source_revision": "5a1ff354e760ad72f74d54a2",
         "reference_source": null
        },
        {
         "field_path": "/article_relevance",
-        "quote": "철도노조가 안전 운행 투쟁 후 총파업 돌입 예정일은?",
+        "quote": "◇전국서 2만3000명 파업 참여 교육부는 이날 오전 11시 기준 전국 16개 시·도교육청과 국립학교 소속 교육공무직원 18만722명 중 13.0%인 2만3562명이 파업에 참여했다고 밝혔다.",
         "source_part": "body",
         "effective_at": null,
         "derivation": "explicit",
-        "source_id": "f626ceb2b6359749e61f45ae",
-        "source_revision": "d8a4af8f5b31289709cde5e3",
+        "source_id": "e6655d00bd16e0019033de67",
+        "source_revision": "5a1ff354e760ad72f74d54a2",
+        "reference_source": null
+       },
+       {
+        "field_path": "/article_relevance",
+        "quote": "파업으로 전국 초·중·고등학교 1만2597곳 중 4014곳(31.9％)에서 정상 급식이 이뤄지지 못했다.",
+        "source_part": "body",
+        "effective_at": null,
+        "derivation": "explicit",
+        "source_id": "e6655d00bd16e0019033de67",
+        "source_revision": "5a1ff354e760ad72f74d54a2",
         "reference_source": null
        },
        {
         "field_path": "/transport_mode",
-        "quote": "철도노조는 내달 4일까지 안전 운행 투쟁을 진행하고 요구가 받아들여지지 않으면 12월 10일 무기한 ‘총파업’에 나설 예정이다.",
+        "quote": "학교 급식 조리원과 돌봄교실 종사자 등이 소속된 전국민주노동조합총연맹 학교 비정규직 노조(전국학교비정규직연대회의)가 임금 인상 및 처우 개선을 요구하며 27일 전국 동시 총파업에 나섰다.",
         "source_part": "body",
         "effective_at": null,
         "derivation": "explicit",
-        "source_id": "f626ceb2b6359749e61f45ae",
-        "source_revision": "d8a4af8f5b31289709cde5e3",
+        "source_id": "e6655d00bd16e0019033de67",
+        "source_revision": "5a1ff354e760ad72f74d54a2",
         "reference_source": null
        },
        {
         "field_path": "/transport_mode",
-        "quote": "철도노조가 안전 운행 투쟁 후 총파업 돌입 예정일은?",
+        "quote": "◇전국서 2만3000명 파업 참여 교육부는 이날 오전 11시 기준 전국 16개 시·도교육청과 국립학교 소속 교육공무직원 18만722명 중 13.0%인 2만3562명이 파업에 참여했다고 밝혔다.",
         "source_part": "body",
         "effective_at": null,
         "derivation": "explicit",
-        "source_id": "f626ceb2b6359749e61f45ae",
-        "source_revision": "d8a4af8f5b31289709cde5e3",
+        "source_id": "e6655d00bd16e0019033de67",
+        "source_revision": "5a1ff354e760ad72f74d54a2",
+        "reference_source": null
+       },
+       {
+        "field_path": "/transport_mode",
+        "quote": "파업으로 전국 초·중·고등학교 1만2597곳 중 4014곳(31.9％)에서 정상 급식이 이뤄지지 못했다.",
+        "source_part": "body",
+        "effective_at": null,
+        "derivation": "explicit",
+        "source_id": "e6655d00bd16e0019033de67",
+        "source_revision": "5a1ff354e760ad72f74d54a2",
         "reference_source": null
        },
        {
         "field_path": "/affected_regions",
-        "quote": "철도노조는 내달 4일까지 안전 운행 투쟁을 진행하고 요구가 받아들여지지 않으면 12월 10일 무기한 ‘총파업’에 나설 예정이다.",
+        "quote": "학교 급식 조리원과 돌봄교실 종사자 등이 소속된 전국민주노동조합총연맹 학교 비정규직 노조(전국학교비정규직연대회의)가 임금 인상 및 처우 개선을 요구하며 27일 전국 동시 총파업에 나섰다.",
         "source_part": "body",
         "effective_at": null,
         "derivation": "explicit",
-        "source_id": "f626ceb2b6359749e61f45ae",
-        "source_revision": "d8a4af8f5b31289709cde5e3",
+        "source_id": "e6655d00bd16e0019033de67",
+        "source_revision": "5a1ff354e760ad72f74d54a2",
         "reference_source": null
        },
        {
         "field_path": "/affected_regions",
-        "quote": "철도노조가 안전 운행 투쟁 후 총파업 돌입 예정일은?",
+        "quote": "◇전국서 2만3000명 파업 참여 교육부는 이날 오전 11시 기준 전국 16개 시·도교육청과 국립학교 소속 교육공무직원 18만722명 중 13.0%인 2만3562명이 파업에 참여했다고 밝혔다.",
         "source_part": "body",
         "effective_at": null,
         "derivation": "explicit",
-        "source_id": "f626ceb2b6359749e61f45ae",
-        "source_revision": "d8a4af8f5b31289709cde5e3",
+        "source_id": "e6655d00bd16e0019033de67",
+        "source_revision": "5a1ff354e760ad72f74d54a2",
+        "reference_source": null
+       },
+       {
+        "field_path": "/affected_regions",
+        "quote": "파업으로 전국 초·중·고등학교 1만2597곳 중 4014곳(31.9％)에서 정상 급식이 이뤄지지 못했다.",
+        "source_part": "body",
+        "effective_at": null,
+        "derivation": "explicit",
+        "source_id": "e6655d00bd16e0019033de67",
+        "source_revision": "5a1ff354e760ad72f74d54a2",
         "reference_source": null
        },
        {
         "field_path": "/affected_routes",
-        "quote": "철도노조는 내달 4일까지 안전 운행 투쟁을 진행하고 요구가 받아들여지지 않으면 12월 10일 무기한 ‘총파업’에 나설 예정이다.",
+        "quote": "학교 급식 조리원과 돌봄교실 종사자 등이 소속된 전국민주노동조합총연맹 학교 비정규직 노조(전국학교비정규직연대회의)가 임금 인상 및 처우 개선을 요구하며 27일 전국 동시 총파업에 나섰다.",
         "source_part": "body",
         "effective_at": null,
         "derivation": "explicit",
-        "source_id": "f626ceb2b6359749e61f45ae",
-        "source_revision": "d8a4af8f5b31289709cde5e3",
+        "source_id": "e6655d00bd16e0019033de67",
+        "source_revision": "5a1ff354e760ad72f74d54a2",
         "reference_source": null
        },
        {
         "field_path": "/affected_routes",
-        "quote": "철도노조가 안전 운행 투쟁 후 총파업 돌입 예정일은?",
+        "quote": "◇전국서 2만3000명 파업 참여 교육부는 이날 오전 11시 기준 전국 16개 시·도교육청과 국립학교 소속 교육공무직원 18만722명 중 13.0%인 2만3562명이 파업에 참여했다고 밝혔다.",
         "source_part": "body",
         "effective_at": null,
         "derivation": "explicit",
-        "source_id": "f626ceb2b6359749e61f45ae",
-        "source_revision": "d8a4af8f5b31289709cde5e3",
+        "source_id": "e6655d00bd16e0019033de67",
+        "source_revision": "5a1ff354e760ad72f74d54a2",
+        "reference_source": null
+       },
+       {
+        "field_path": "/affected_routes",
+        "quote": "파업으로 전국 초·중·고등학교 1만2597곳 중 4014곳(31.9％)에서 정상 급식이 이뤄지지 못했다.",
+        "source_part": "body",
+        "effective_at": null,
+        "derivation": "explicit",
+        "source_id": "e6655d00bd16e0019033de67",
+        "source_revision": "5a1ff354e760ad72f74d54a2",
         "reference_source": null
        },
        {
         "field_path": "/strike_status",
-        "quote": "철도노조는 내달 4일까지 안전 운행 투쟁을 진행하고 요구가 받아들여지지 않으면 12월 10일 무기한 ‘총파업’에 나설 예정이다.",
+        "quote": "학교 급식 조리원과 돌봄교실 종사자 등이 소속된 전국민주노동조합총연맹 학교 비정규직 노조(전국학교비정규직연대회의)가 임금 인상 및 처우 개선을 요구하며 27일 전국 동시 총파업에 나섰다.",
         "source_part": "body",
         "effective_at": null,
         "derivation": "explicit",
-        "source_id": "f626ceb2b6359749e61f45ae",
-        "source_revision": "d8a4af8f5b31289709cde5e3",
+        "source_id": "e6655d00bd16e0019033de67",
+        "source_revision": "5a1ff354e760ad72f74d54a2",
         "reference_source": null
        },
        {
         "field_path": "/strike_status",
-        "quote": "철도노조가 안전 운행 투쟁 후 총파업 돌입 예정일은?",
+        "quote": "◇전국서 2만3000명 파업 참여 교육부는 이날 오전 11시 기준 전국 16개 시·도교육청과 국립학교 소속 교육공무직원 18만722명 중 13.0%인 2만3562명이 파업에 참여했다고 밝혔다.",
         "source_part": "body",
         "effective_at": null,
         "derivation": "explicit",
-        "source_id": "f626ceb2b6359749e61f45ae",
-        "source_revision": "d8a4af8f5b31289709cde5e3",
+        "source_id": "e6655d00bd16e0019033de67",
+        "source_revision": "5a1ff354e760ad72f74d54a2",
+        "reference_source": null
+       },
+       {
+        "field_path": "/strike_status",
+        "quote": "파업으로 전국 초·중·고등학교 1만2597곳 중 4014곳(31.9％)에서 정상 급식이 이뤄지지 못했다.",
+        "source_part": "body",
+        "effective_at": null,
+        "derivation": "explicit",
+        "source_id": "e6655d00bd16e0019033de67",
+        "source_revision": "5a1ff354e760ad72f74d54a2",
         "reference_source": null
        },
        {
         "field_path": "/service_status",
-        "quote": "철도노조는 내달 4일까지 안전 운행 투쟁을 진행하고 요구가 받아들여지지 않으면 12월 10일 무기한 ‘총파업’에 나설 예정이다.",
+        "quote": "학교 급식 조리원과 돌봄교실 종사자 등이 소속된 전국민주노동조합총연맹 학교 비정규직 노조(전국학교비정규직연대회의)가 임금 인상 및 처우 개선을 요구하며 27일 전국 동시 총파업에 나섰다.",
         "source_part": "body",
         "effective_at": null,
         "derivation": "explicit",
-        "source_id": "f626ceb2b6359749e61f45ae",
-        "source_revision": "d8a4af8f5b31289709cde5e3",
+        "source_id": "e6655d00bd16e0019033de67",
+        "source_revision": "5a1ff354e760ad72f74d54a2",
         "reference_source": null
        },
        {
         "field_path": "/service_status",
-        "quote": "철도노조가 안전 운행 투쟁 후 총파업 돌입 예정일은?",
+        "quote": "◇전국서 2만3000명 파업 참여 교육부는 이날 오전 11시 기준 전국 16개 시·도교육청과 국립학교 소속 교육공무직원 18만722명 중 13.0%인 2만3562명이 파업에 참여했다고 밝혔다.",
         "source_part": "body",
         "effective_at": null,
         "derivation": "explicit",
-        "source_id": "f626ceb2b6359749e61f45ae",
-        "source_revision": "d8a4af8f5b31289709cde5e3",
+        "source_id": "e6655d00bd16e0019033de67",
+        "source_revision": "5a1ff354e760ad72f74d54a2",
+        "reference_source": null
+       },
+       {
+        "field_path": "/service_status",
+        "quote": "파업으로 전국 초·중·고등학교 1만2597곳 중 4014곳(31.9％)에서 정상 급식이 이뤄지지 못했다.",
+        "source_part": "body",
+        "effective_at": null,
+        "derivation": "explicit",
+        "source_id": "e6655d00bd16e0019033de67",
+        "source_revision": "5a1ff354e760ad72f74d54a2",
         "reference_source": null
        },
        {
         "field_path": "/normal_service_exceptions",
-        "quote": "철도노조는 내달 4일까지 안전 운행 투쟁을 진행하고 요구가 받아들여지지 않으면 12월 10일 무기한 ‘총파업’에 나설 예정이다.",
+        "quote": "학교 급식 조리원과 돌봄교실 종사자 등이 소속된 전국민주노동조합총연맹 학교 비정규직 노조(전국학교비정규직연대회의)가 임금 인상 및 처우 개선을 요구하며 27일 전국 동시 총파업에 나섰다.",
         "source_part": "body",
         "effective_at": null,
         "derivation": "explicit",
-        "source_id": "f626ceb2b6359749e61f45ae",
-        "source_revision": "d8a4af8f5b31289709cde5e3",
+        "source_id": "e6655d00bd16e0019033de67",
+        "source_revision": "5a1ff354e760ad72f74d54a2",
         "reference_source": null
        },
        {
         "field_path": "/normal_service_exceptions",
-        "quote": "철도노조가 안전 운행 투쟁 후 총파업 돌입 예정일은?",
+        "quote": "◇전국서 2만3000명 파업 참여 교육부는 이날 오전 11시 기준 전국 16개 시·도교육청과 국립학교 소속 교육공무직원 18만722명 중 13.0%인 2만3562명이 파업에 참여했다고 밝혔다.",
         "source_part": "body",
         "effective_at": null,
         "derivation": "explicit",
-        "source_id": "f626ceb2b6359749e61f45ae",
-        "source_revision": "d8a4af8f5b31289709cde5e3",
+        "source_id": "e6655d00bd16e0019033de67",
+        "source_revision": "5a1ff354e760ad72f74d54a2",
+        "reference_source": null
+       },
+       {
+        "field_path": "/normal_service_exceptions",
+        "quote": "파업으로 전국 초·중·고등학교 1만2597곳 중 4014곳(31.9％)에서 정상 급식이 이뤄지지 못했다.",
+        "source_part": "body",
+        "effective_at": null,
+        "derivation": "explicit",
+        "source_id": "e6655d00bd16e0019033de67",
+        "source_revision": "5a1ff354e760ad72f74d54a2",
         "reference_source": null
        },
        {
         "field_path": "/alternative_services",
-        "quote": "철도노조는 내달 4일까지 안전 운행 투쟁을 진행하고 요구가 받아들여지지 않으면 12월 10일 무기한 ‘총파업’에 나설 예정이다.",
+        "quote": "학교 급식 조리원과 돌봄교실 종사자 등이 소속된 전국민주노동조합총연맹 학교 비정규직 노조(전국학교비정규직연대회의)가 임금 인상 및 처우 개선을 요구하며 27일 전국 동시 총파업에 나섰다.",
         "source_part": "body",
         "effective_at": null,
         "derivation": "explicit",
-        "source_id": "f626ceb2b6359749e61f45ae",
-        "source_revision": "d8a4af8f5b31289709cde5e3",
+        "source_id": "e6655d00bd16e0019033de67",
+        "source_revision": "5a1ff354e760ad72f74d54a2",
         "reference_source": null
        },
        {
         "field_path": "/alternative_services",
-        "quote": "철도노조가 안전 운행 투쟁 후 총파업 돌입 예정일은?",
+        "quote": "◇전국서 2만3000명 파업 참여 교육부는 이날 오전 11시 기준 전국 16개 시·도교육청과 국립학교 소속 교육공무직원 18만722명 중 13.0%인 2만3562명이 파업에 참여했다고 밝혔다.",
         "source_part": "body",
         "effective_at": null,
         "derivation": "explicit",
-        "source_id": "f626ceb2b6359749e61f45ae",
-        "source_revision": "d8a4af8f5b31289709cde5e3",
+        "source_id": "e6655d00bd16e0019033de67",
+        "source_revision": "5a1ff354e760ad72f74d54a2",
+        "reference_source": null
+       },
+       {
+        "field_path": "/alternative_services",
+        "quote": "파업으로 전국 초·중·고등학교 1만2597곳 중 4014곳(31.9％)에서 정상 급식이 이뤄지지 못했다.",
+        "source_part": "body",
+        "effective_at": null,
+        "derivation": "explicit",
+        "source_id": "e6655d00bd16e0019033de67",
+        "source_revision": "5a1ff354e760ad72f74d54a2",
         "reference_source": null
        },
        {
         "field_path": "/start",
-        "quote": "철도노조는 내달 4일까지 안전 운행 투쟁을 진행하고 요구가 받아들여지지 않으면 12월 10일 무기한 ‘총파업’에 나설 예정이다.",
+        "quote": "학교 급식 조리원과 돌봄교실 종사자 등이 소속된 전국민주노동조합총연맹 학교 비정규직 노조(전국학교비정규직연대회의)가 임금 인상 및 처우 개선을 요구하며 27일 전국 동시 총파업에 나섰다.",
         "source_part": "body",
         "effective_at": null,
         "derivation": "explicit",
-        "source_id": "f626ceb2b6359749e61f45ae",
-        "source_revision": "d8a4af8f5b31289709cde5e3",
+        "source_id": "e6655d00bd16e0019033de67",
+        "source_revision": "5a1ff354e760ad72f74d54a2",
         "reference_source": null
        },
        {
         "field_path": "/start",
-        "quote": "철도노조가 안전 운행 투쟁 후 총파업 돌입 예정일은?",
+        "quote": "◇전국서 2만3000명 파업 참여 교육부는 이날 오전 11시 기준 전국 16개 시·도교육청과 국립학교 소속 교육공무직원 18만722명 중 13.0%인 2만3562명이 파업에 참여했다고 밝혔다.",
         "source_part": "body",
         "effective_at": null,
         "derivation": "explicit",
-        "source_id": "f626ceb2b6359749e61f45ae",
-        "source_revision": "d8a4af8f5b31289709cde5e3",
+        "source_id": "e6655d00bd16e0019033de67",
+        "source_revision": "5a1ff354e760ad72f74d54a2",
+        "reference_source": null
+       },
+       {
+        "field_path": "/start",
+        "quote": "파업으로 전국 초·중·고등학교 1만2597곳 중 4014곳(31.9％)에서 정상 급식이 이뤄지지 못했다.",
+        "source_part": "body",
+        "effective_at": null,
+        "derivation": "explicit",
+        "source_id": "e6655d00bd16e0019033de67",
+        "source_revision": "5a1ff354e760ad72f74d54a2",
         "reference_source": null
        },
        {
         "field_path": "/end",
-        "quote": "철도노조는 내달 4일까지 안전 운행 투쟁을 진행하고 요구가 받아들여지지 않으면 12월 10일 무기한 ‘총파업’에 나설 예정이다.",
+        "quote": "학교 급식 조리원과 돌봄교실 종사자 등이 소속된 전국민주노동조합총연맹 학교 비정규직 노조(전국학교비정규직연대회의)가 임금 인상 및 처우 개선을 요구하며 27일 전국 동시 총파업에 나섰다.",
         "source_part": "body",
         "effective_at": null,
         "derivation": "explicit",
-        "source_id": "f626ceb2b6359749e61f45ae",
-        "source_revision": "d8a4af8f5b31289709cde5e3",
+        "source_id": "e6655d00bd16e0019033de67",
+        "source_revision": "5a1ff354e760ad72f74d54a2",
         "reference_source": null
        },
        {
         "field_path": "/end",
-        "quote": "철도노조가 안전 운행 투쟁 후 총파업 돌입 예정일은?",
+        "quote": "◇전국서 2만3000명 파업 참여 교육부는 이날 오전 11시 기준 전국 16개 시·도교육청과 국립학교 소속 교육공무직원 18만722명 중 13.0%인 2만3562명이 파업에 참여했다고 밝혔다.",
         "source_part": "body",
         "effective_at": null,
         "derivation": "explicit",
-        "source_id": "f626ceb2b6359749e61f45ae",
-        "source_revision": "d8a4af8f5b31289709cde5e3",
+        "source_id": "e6655d00bd16e0019033de67",
+        "source_revision": "5a1ff354e760ad72f74d54a2",
+        "reference_source": null
+       },
+       {
+        "field_path": "/end",
+        "quote": "파업으로 전국 초·중·고등학교 1만2597곳 중 4014곳(31.9％)에서 정상 급식이 이뤄지지 못했다.",
+        "source_part": "body",
+        "effective_at": null,
+        "derivation": "explicit",
+        "source_id": "e6655d00bd16e0019033de67",
+        "source_revision": "5a1ff354e760ad72f74d54a2",
+        "reference_source": null
+       }
+      ],
+      "review_reasons": []
+     }
+    },
+    {
+     "article_relevance": "unrelated",
+     "transport_mode": "unknown",
+     "affected_regions": [],
+     "affected_routes": [],
+     "start": {
+      "raw": null,
+      "date": null,
+      "time": null,
+      "timezone": "Asia/Seoul",
+      "basis": "unknown",
+      "assertion": "unknown",
+      "open_ended": null
+     },
+     "end": {
+      "raw": null,
+      "date": null,
+      "time": null,
+      "timezone": "Asia/Seoul",
+      "basis": "unknown",
+      "assertion": "unknown",
+      "open_ended": null
+     },
+     "strike_status": {
+      "value": "unknown",
+      "conditions": [],
+      "scope_raw": null,
+      "effective_at": null
+     },
+     "service_status": [],
+     "normal_service_exceptions": [],
+     "alternative_services": [],
+     "evidence_and_timestamps": {
+      "source_url": "https://www.hankyung.com/article/2026112753771",
+      "published_at": "2026-11-28T06:00:02+09:00",
+      "updated_at": null,
+      "collected_at": "2026-11-28T12:25:10.482190+09:00",
+      "field_evidence": [
+       {
+        "field_path": "/article_relevance",
+        "quote": "전체 초등돌봄전담사 1만2904명 중 1094명(8.5%)이 파업에 참여했다.",
+        "source_part": "body",
+        "effective_at": null,
+        "derivation": "explicit",
+        "source_id": "e6655d00bd16e0019033de67",
+        "source_revision": "5a1ff354e760ad72f74d54a2",
+        "reference_source": null
+       },
+       {
+        "field_path": "/article_relevance",
+        "quote": "2011년 설립된 연대회의는 2012년 11월 첫 총파업 이후 15년째 매년 파업을 이어가고 있다.",
+        "source_part": "body",
+        "effective_at": null,
+        "derivation": "explicit",
+        "source_id": "e6655d00bd16e0019033de67",
+        "source_revision": "5a1ff354e760ad72f74d54a2",
+        "reference_source": null
+       },
+       {
+        "field_path": "/article_relevance",
+        "quote": "◇기본급 인상 폭 놓고 노사 대치 파업의 핵심 쟁점은 임금 인상 폭이다.",
+        "source_part": "body",
+        "effective_at": null,
+        "derivation": "explicit",
+        "source_id": "e6655d00bd16e0019033de67",
+        "source_revision": "5a1ff354e760ad72f74d54a2",
+        "reference_source": null
+       },
+       {
+        "field_path": "/article_relevance",
+        "quote": "방학 중 근무 체계 개선과 지방교육재정교부금 개편 철회도 요구안에 포함됐다.",
+        "source_part": "body",
+        "effective_at": null,
+        "derivation": "explicit",
+        "source_id": "e6655d00bd16e0019033de67",
+        "source_revision": "5a1ff354e760ad72f74d54a2",
+        "reference_source": null
+       },
+       {
+        "field_path": "/article_relevance",
+        "quote": "교육계 일각에서는 파업 때마다 되풀이되는 급식과 돌봄 공백을 줄이기 위해 노동조합법을 개정해야 한다는 목소리가 나온다.",
+        "source_part": "body",
+        "effective_at": null,
+        "derivation": "explicit",
+        "source_id": "e6655d00bd16e0019033de67",
+        "source_revision": "5a1ff354e760ad72f74d54a2",
+        "reference_source": null
+       },
+       {
+        "field_path": "/article_relevance",
+        "quote": "현행법상 학교는 파업으로 중단된 업무에 외부 인력을 투입할 수 없다.",
+        "source_part": "body",
+        "effective_at": null,
+        "derivation": "explicit",
+        "source_id": "e6655d00bd16e0019033de67",
+        "source_revision": "5a1ff354e760ad72f74d54a2",
+        "reference_source": null
+       },
+       {
+        "field_path": "/transport_mode",
+        "quote": "전체 초등돌봄전담사 1만2904명 중 1094명(8.5%)이 파업에 참여했다.",
+        "source_part": "body",
+        "effective_at": null,
+        "derivation": "explicit",
+        "source_id": "e6655d00bd16e0019033de67",
+        "source_revision": "5a1ff354e760ad72f74d54a2",
+        "reference_source": null
+       },
+       {
+        "field_path": "/transport_mode",
+        "quote": "2011년 설립된 연대회의는 2012년 11월 첫 총파업 이후 15년째 매년 파업을 이어가고 있다.",
+        "source_part": "body",
+        "effective_at": null,
+        "derivation": "explicit",
+        "source_id": "e6655d00bd16e0019033de67",
+        "source_revision": "5a1ff354e760ad72f74d54a2",
+        "reference_source": null
+       },
+       {
+        "field_path": "/transport_mode",
+        "quote": "◇기본급 인상 폭 놓고 노사 대치 파업의 핵심 쟁점은 임금 인상 폭이다.",
+        "source_part": "body",
+        "effective_at": null,
+        "derivation": "explicit",
+        "source_id": "e6655d00bd16e0019033de67",
+        "source_revision": "5a1ff354e760ad72f74d54a2",
+        "reference_source": null
+       },
+       {
+        "field_path": "/transport_mode",
+        "quote": "방학 중 근무 체계 개선과 지방교육재정교부금 개편 철회도 요구안에 포함됐다.",
+        "source_part": "body",
+        "effective_at": null,
+        "derivation": "explicit",
+        "source_id": "e6655d00bd16e0019033de67",
+        "source_revision": "5a1ff354e760ad72f74d54a2",
+        "reference_source": null
+       },
+       {
+        "field_path": "/transport_mode",
+        "quote": "교육계 일각에서는 파업 때마다 되풀이되는 급식과 돌봄 공백을 줄이기 위해 노동조합법을 개정해야 한다는 목소리가 나온다.",
+        "source_part": "body",
+        "effective_at": null,
+        "derivation": "explicit",
+        "source_id": "e6655d00bd16e0019033de67",
+        "source_revision": "5a1ff354e760ad72f74d54a2",
+        "reference_source": null
+       },
+       {
+        "field_path": "/transport_mode",
+        "quote": "현행법상 학교는 파업으로 중단된 업무에 외부 인력을 투입할 수 없다.",
+        "source_part": "body",
+        "effective_at": null,
+        "derivation": "explicit",
+        "source_id": "e6655d00bd16e0019033de67",
+        "source_revision": "5a1ff354e760ad72f74d54a2",
+        "reference_source": null
+       },
+       {
+        "field_path": "/affected_regions",
+        "quote": "전체 초등돌봄전담사 1만2904명 중 1094명(8.5%)이 파업에 참여했다.",
+        "source_part": "body",
+        "effective_at": null,
+        "derivation": "explicit",
+        "source_id": "e6655d00bd16e0019033de67",
+        "source_revision": "5a1ff354e760ad72f74d54a2",
+        "reference_source": null
+       },
+       {
+        "field_path": "/affected_regions",
+        "quote": "2011년 설립된 연대회의는 2012년 11월 첫 총파업 이후 15년째 매년 파업을 이어가고 있다.",
+        "source_part": "body",
+        "effective_at": null,
+        "derivation": "explicit",
+        "source_id": "e6655d00bd16e0019033de67",
+        "source_revision": "5a1ff354e760ad72f74d54a2",
+        "reference_source": null
+       },
+       {
+        "field_path": "/affected_regions",
+        "quote": "◇기본급 인상 폭 놓고 노사 대치 파업의 핵심 쟁점은 임금 인상 폭이다.",
+        "source_part": "body",
+        "effective_at": null,
+        "derivation": "explicit",
+        "source_id": "e6655d00bd16e0019033de67",
+        "source_revision": "5a1ff354e760ad72f74d54a2",
+        "reference_source": null
+       },
+       {
+        "field_path": "/affected_regions",
+        "quote": "방학 중 근무 체계 개선과 지방교육재정교부금 개편 철회도 요구안에 포함됐다.",
+        "source_part": "body",
+        "effective_at": null,
+        "derivation": "explicit",
+        "source_id": "e6655d00bd16e0019033de67",
+        "source_revision": "5a1ff354e760ad72f74d54a2",
+        "reference_source": null
+       },
+       {
+        "field_path": "/affected_regions",
+        "quote": "교육계 일각에서는 파업 때마다 되풀이되는 급식과 돌봄 공백을 줄이기 위해 노동조합법을 개정해야 한다는 목소리가 나온다.",
+        "source_part": "body",
+        "effective_at": null,
+        "derivation": "explicit",
+        "source_id": "e6655d00bd16e0019033de67",
+        "source_revision": "5a1ff354e760ad72f74d54a2",
+        "reference_source": null
+       },
+       {
+        "field_path": "/affected_regions",
+        "quote": "현행법상 학교는 파업으로 중단된 업무에 외부 인력을 투입할 수 없다.",
+        "source_part": "body",
+        "effective_at": null,
+        "derivation": "explicit",
+        "source_id": "e6655d00bd16e0019033de67",
+        "source_revision": "5a1ff354e760ad72f74d54a2",
+        "reference_source": null
+       },
+       {
+        "field_path": "/affected_routes",
+        "quote": "전체 초등돌봄전담사 1만2904명 중 1094명(8.5%)이 파업에 참여했다.",
+        "source_part": "body",
+        "effective_at": null,
+        "derivation": "explicit",
+        "source_id": "e6655d00bd16e0019033de67",
+        "source_revision": "5a1ff354e760ad72f74d54a2",
+        "reference_source": null
+       },
+       {
+        "field_path": "/affected_routes",
+        "quote": "2011년 설립된 연대회의는 2012년 11월 첫 총파업 이후 15년째 매년 파업을 이어가고 있다.",
+        "source_part": "body",
+        "effective_at": null,
+        "derivation": "explicit",
+        "source_id": "e6655d00bd16e0019033de67",
+        "source_revision": "5a1ff354e760ad72f74d54a2",
+        "reference_source": null
+       },
+       {
+        "field_path": "/affected_routes",
+        "quote": "◇기본급 인상 폭 놓고 노사 대치 파업의 핵심 쟁점은 임금 인상 폭이다.",
+        "source_part": "body",
+        "effective_at": null,
+        "derivation": "explicit",
+        "source_id": "e6655d00bd16e0019033de67",
+        "source_revision": "5a1ff354e760ad72f74d54a2",
+        "reference_source": null
+       },
+       {
+        "field_path": "/affected_routes",
+        "quote": "방학 중 근무 체계 개선과 지방교육재정교부금 개편 철회도 요구안에 포함됐다.",
+        "source_part": "body",
+        "effective_at": null,
+        "derivation": "explicit",
+        "source_id": "e6655d00bd16e0019033de67",
+        "source_revision": "5a1ff354e760ad72f74d54a2",
+        "reference_source": null
+       },
+       {
+        "field_path": "/affected_routes",
+        "quote": "교육계 일각에서는 파업 때마다 되풀이되는 급식과 돌봄 공백을 줄이기 위해 노동조합법을 개정해야 한다는 목소리가 나온다.",
+        "source_part": "body",
+        "effective_at": null,
+        "derivation": "explicit",
+        "source_id": "e6655d00bd16e0019033de67",
+        "source_revision": "5a1ff354e760ad72f74d54a2",
+        "reference_source": null
+       },
+       {
+        "field_path": "/affected_routes",
+        "quote": "현행법상 학교는 파업으로 중단된 업무에 외부 인력을 투입할 수 없다.",
+        "source_part": "body",
+        "effective_at": null,
+        "derivation": "explicit",
+        "source_id": "e6655d00bd16e0019033de67",
+        "source_revision": "5a1ff354e760ad72f74d54a2",
+        "reference_source": null
+       },
+       {
+        "field_path": "/strike_status",
+        "quote": "전체 초등돌봄전담사 1만2904명 중 1094명(8.5%)이 파업에 참여했다.",
+        "source_part": "body",
+        "effective_at": null,
+        "derivation": "explicit",
+        "source_id": "e6655d00bd16e0019033de67",
+        "source_revision": "5a1ff354e760ad72f74d54a2",
+        "reference_source": null
+       },
+       {
+        "field_path": "/strike_status",
+        "quote": "2011년 설립된 연대회의는 2012년 11월 첫 총파업 이후 15년째 매년 파업을 이어가고 있다.",
+        "source_part": "body",
+        "effective_at": null,
+        "derivation": "explicit",
+        "source_id": "e6655d00bd16e0019033de67",
+        "source_revision": "5a1ff354e760ad72f74d54a2",
+        "reference_source": null
+       },
+       {
+        "field_path": "/strike_status",
+        "quote": "◇기본급 인상 폭 놓고 노사 대치 파업의 핵심 쟁점은 임금 인상 폭이다.",
+        "source_part": "body",
+        "effective_at": null,
+        "derivation": "explicit",
+        "source_id": "e6655d00bd16e0019033de67",
+        "source_revision": "5a1ff354e760ad72f74d54a2",
+        "reference_source": null
+       },
+       {
+        "field_path": "/strike_status",
+        "quote": "방학 중 근무 체계 개선과 지방교육재정교부금 개편 철회도 요구안에 포함됐다.",
+        "source_part": "body",
+        "effective_at": null,
+        "derivation": "explicit",
+        "source_id": "e6655d00bd16e0019033de67",
+        "source_revision": "5a1ff354e760ad72f74d54a2",
+        "reference_source": null
+       },
+       {
+        "field_path": "/strike_status",
+        "quote": "교육계 일각에서는 파업 때마다 되풀이되는 급식과 돌봄 공백을 줄이기 위해 노동조합법을 개정해야 한다는 목소리가 나온다.",
+        "source_part": "body",
+        "effective_at": null,
+        "derivation": "explicit",
+        "source_id": "e6655d00bd16e0019033de67",
+        "source_revision": "5a1ff354e760ad72f74d54a2",
+        "reference_source": null
+       },
+       {
+        "field_path": "/strike_status",
+        "quote": "현행법상 학교는 파업으로 중단된 업무에 외부 인력을 투입할 수 없다.",
+        "source_part": "body",
+        "effective_at": null,
+        "derivation": "explicit",
+        "source_id": "e6655d00bd16e0019033de67",
+        "source_revision": "5a1ff354e760ad72f74d54a2",
+        "reference_source": null
+       },
+       {
+        "field_path": "/service_status",
+        "quote": "전체 초등돌봄전담사 1만2904명 중 1094명(8.5%)이 파업에 참여했다.",
+        "source_part": "body",
+        "effective_at": null,
+        "derivation": "explicit",
+        "source_id": "e6655d00bd16e0019033de67",
+        "source_revision": "5a1ff354e760ad72f74d54a2",
+        "reference_source": null
+       },
+       {
+        "field_path": "/service_status",
+        "quote": "2011년 설립된 연대회의는 2012년 11월 첫 총파업 이후 15년째 매년 파업을 이어가고 있다.",
+        "source_part": "body",
+        "effective_at": null,
+        "derivation": "explicit",
+        "source_id": "e6655d00bd16e0019033de67",
+        "source_revision": "5a1ff354e760ad72f74d54a2",
+        "reference_source": null
+       },
+       {
+        "field_path": "/service_status",
+        "quote": "◇기본급 인상 폭 놓고 노사 대치 파업의 핵심 쟁점은 임금 인상 폭이다.",
+        "source_part": "body",
+        "effective_at": null,
+        "derivation": "explicit",
+        "source_id": "e6655d00bd16e0019033de67",
+        "source_revision": "5a1ff354e760ad72f74d54a2",
+        "reference_source": null
+       },
+       {
+        "field_path": "/service_status",
+        "quote": "방학 중 근무 체계 개선과 지방교육재정교부금 개편 철회도 요구안에 포함됐다.",
+        "source_part": "body",
+        "effective_at": null,
+        "derivation": "explicit",
+        "source_id": "e6655d00bd16e0019033de67",
+        "source_revision": "5a1ff354e760ad72f74d54a2",
+        "reference_source": null
+       },
+       {
+        "field_path": "/service_status",
+        "quote": "교육계 일각에서는 파업 때마다 되풀이되는 급식과 돌봄 공백을 줄이기 위해 노동조합법을 개정해야 한다는 목소리가 나온다.",
+        "source_part": "body",
+        "effective_at": null,
+        "derivation": "explicit",
+        "source_id": "e6655d00bd16e0019033de67",
+        "source_revision": "5a1ff354e760ad72f74d54a2",
+        "reference_source": null
+       },
+       {
+        "field_path": "/service_status",
+        "quote": "현행법상 학교는 파업으로 중단된 업무에 외부 인력을 투입할 수 없다.",
+        "source_part": "body",
+        "effective_at": null,
+        "derivation": "explicit",
+        "source_id": "e6655d00bd16e0019033de67",
+        "source_revision": "5a1ff354e760ad72f74d54a2",
+        "reference_source": null
+       },
+       {
+        "field_path": "/normal_service_exceptions",
+        "quote": "전체 초등돌봄전담사 1만2904명 중 1094명(8.5%)이 파업에 참여했다.",
+        "source_part": "body",
+        "effective_at": null,
+        "derivation": "explicit",
+        "source_id": "e6655d00bd16e0019033de67",
+        "source_revision": "5a1ff354e760ad72f74d54a2",
+        "reference_source": null
+       },
+       {
+        "field_path": "/normal_service_exceptions",
+        "quote": "2011년 설립된 연대회의는 2012년 11월 첫 총파업 이후 15년째 매년 파업을 이어가고 있다.",
+        "source_part": "body",
+        "effective_at": null,
+        "derivation": "explicit",
+        "source_id": "e6655d00bd16e0019033de67",
+        "source_revision": "5a1ff354e760ad72f74d54a2",
+        "reference_source": null
+       },
+       {
+        "field_path": "/normal_service_exceptions",
+        "quote": "◇기본급 인상 폭 놓고 노사 대치 파업의 핵심 쟁점은 임금 인상 폭이다.",
+        "source_part": "body",
+        "effective_at": null,
+        "derivation": "explicit",
+        "source_id": "e6655d00bd16e0019033de67",
+        "source_revision": "5a1ff354e760ad72f74d54a2",
+        "reference_source": null
+       },
+       {
+        "field_path": "/normal_service_exceptions",
+        "quote": "방학 중 근무 체계 개선과 지방교육재정교부금 개편 철회도 요구안에 포함됐다.",
+        "source_part": "body",
+        "effective_at": null,
+        "derivation": "explicit",
+        "source_id": "e6655d00bd16e0019033de67",
+        "source_revision": "5a1ff354e760ad72f74d54a2",
+        "reference_source": null
+       },
+       {
+        "field_path": "/normal_service_exceptions",
+        "quote": "교육계 일각에서는 파업 때마다 되풀이되는 급식과 돌봄 공백을 줄이기 위해 노동조합법을 개정해야 한다는 목소리가 나온다.",
+        "source_part": "body",
+        "effective_at": null,
+        "derivation": "explicit",
+        "source_id": "e6655d00bd16e0019033de67",
+        "source_revision": "5a1ff354e760ad72f74d54a2",
+        "reference_source": null
+       },
+       {
+        "field_path": "/normal_service_exceptions",
+        "quote": "현행법상 학교는 파업으로 중단된 업무에 외부 인력을 투입할 수 없다.",
+        "source_part": "body",
+        "effective_at": null,
+        "derivation": "explicit",
+        "source_id": "e6655d00bd16e0019033de67",
+        "source_revision": "5a1ff354e760ad72f74d54a2",
+        "reference_source": null
+       },
+       {
+        "field_path": "/alternative_services",
+        "quote": "전체 초등돌봄전담사 1만2904명 중 1094명(8.5%)이 파업에 참여했다.",
+        "source_part": "body",
+        "effective_at": null,
+        "derivation": "explicit",
+        "source_id": "e6655d00bd16e0019033de67",
+        "source_revision": "5a1ff354e760ad72f74d54a2",
+        "reference_source": null
+       },
+       {
+        "field_path": "/alternative_services",
+        "quote": "2011년 설립된 연대회의는 2012년 11월 첫 총파업 이후 15년째 매년 파업을 이어가고 있다.",
+        "source_part": "body",
+        "effective_at": null,
+        "derivation": "explicit",
+        "source_id": "e6655d00bd16e0019033de67",
+        "source_revision": "5a1ff354e760ad72f74d54a2",
+        "reference_source": null
+       },
+       {
+        "field_path": "/alternative_services",
+        "quote": "◇기본급 인상 폭 놓고 노사 대치 파업의 핵심 쟁점은 임금 인상 폭이다.",
+        "source_part": "body",
+        "effective_at": null,
+        "derivation": "explicit",
+        "source_id": "e6655d00bd16e0019033de67",
+        "source_revision": "5a1ff354e760ad72f74d54a2",
+        "reference_source": null
+       },
+       {
+        "field_path": "/alternative_services",
+        "quote": "방학 중 근무 체계 개선과 지방교육재정교부금 개편 철회도 요구안에 포함됐다.",
+        "source_part": "body",
+        "effective_at": null,
+        "derivation": "explicit",
+        "source_id": "e6655d00bd16e0019033de67",
+        "source_revision": "5a1ff354e760ad72f74d54a2",
+        "reference_source": null
+       },
+       {
+        "field_path": "/alternative_services",
+        "quote": "교육계 일각에서는 파업 때마다 되풀이되는 급식과 돌봄 공백을 줄이기 위해 노동조합법을 개정해야 한다는 목소리가 나온다.",
+        "source_part": "body",
+        "effective_at": null,
+        "derivation": "explicit",
+        "source_id": "e6655d00bd16e0019033de67",
+        "source_revision": "5a1ff354e760ad72f74d54a2",
+        "reference_source": null
+       },
+       {
+        "field_path": "/alternative_services",
+        "quote": "현행법상 학교는 파업으로 중단된 업무에 외부 인력을 투입할 수 없다.",
+        "source_part": "body",
+        "effective_at": null,
+        "derivation": "explicit",
+        "source_id": "e6655d00bd16e0019033de67",
+        "source_revision": "5a1ff354e760ad72f74d54a2",
+        "reference_source": null
+       },
+       {
+        "field_path": "/start",
+        "quote": "전체 초등돌봄전담사 1만2904명 중 1094명(8.5%)이 파업에 참여했다.",
+        "source_part": "body",
+        "effective_at": null,
+        "derivation": "explicit",
+        "source_id": "e6655d00bd16e0019033de67",
+        "source_revision": "5a1ff354e760ad72f74d54a2",
+        "reference_source": null
+       },
+       {
+        "field_path": "/start",
+        "quote": "2011년 설립된 연대회의는 2012년 11월 첫 총파업 이후 15년째 매년 파업을 이어가고 있다.",
+        "source_part": "body",
+        "effective_at": null,
+        "derivation": "explicit",
+        "source_id": "e6655d00bd16e0019033de67",
+        "source_revision": "5a1ff354e760ad72f74d54a2",
+        "reference_source": null
+       },
+       {
+        "field_path": "/start",
+        "quote": "◇기본급 인상 폭 놓고 노사 대치 파업의 핵심 쟁점은 임금 인상 폭이다.",
+        "source_part": "body",
+        "effective_at": null,
+        "derivation": "explicit",
+        "source_id": "e6655d00bd16e0019033de67",
+        "source_revision": "5a1ff354e760ad72f74d54a2",
+        "reference_source": null
+       },
+       {
+        "field_path": "/start",
+        "quote": "방학 중 근무 체계 개선과 지방교육재정교부금 개편 철회도 요구안에 포함됐다.",
+        "source_part": "body",
+        "effective_at": null,
+        "derivation": "explicit",
+        "source_id": "e6655d00bd16e0019033de67",
+        "source_revision": "5a1ff354e760ad72f74d54a2",
+        "reference_source": null
+       },
+       {
+        "field_path": "/start",
+        "quote": "교육계 일각에서는 파업 때마다 되풀이되는 급식과 돌봄 공백을 줄이기 위해 노동조합법을 개정해야 한다는 목소리가 나온다.",
+        "source_part": "body",
+        "effective_at": null,
+        "derivation": "explicit",
+        "source_id": "e6655d00bd16e0019033de67",
+        "source_revision": "5a1ff354e760ad72f74d54a2",
+        "reference_source": null
+       },
+       {
+        "field_path": "/start",
+        "quote": "현행법상 학교는 파업으로 중단된 업무에 외부 인력을 투입할 수 없다.",
+        "source_part": "body",
+        "effective_at": null,
+        "derivation": "explicit",
+        "source_id": "e6655d00bd16e0019033de67",
+        "source_revision": "5a1ff354e760ad72f74d54a2",
+        "reference_source": null
+       },
+       {
+        "field_path": "/end",
+        "quote": "전체 초등돌봄전담사 1만2904명 중 1094명(8.5%)이 파업에 참여했다.",
+        "source_part": "body",
+        "effective_at": null,
+        "derivation": "explicit",
+        "source_id": "e6655d00bd16e0019033de67",
+        "source_revision": "5a1ff354e760ad72f74d54a2",
+        "reference_source": null
+       },
+       {
+        "field_path": "/end",
+        "quote": "2011년 설립된 연대회의는 2012년 11월 첫 총파업 이후 15년째 매년 파업을 이어가고 있다.",
+        "source_part": "body",
+        "effective_at": null,
+        "derivation": "explicit",
+        "source_id": "e6655d00bd16e0019033de67",
+        "source_revision": "5a1ff354e760ad72f74d54a2",
+        "reference_source": null
+       },
+       {
+        "field_path": "/end",
+        "quote": "◇기본급 인상 폭 놓고 노사 대치 파업의 핵심 쟁점은 임금 인상 폭이다.",
+        "source_part": "body",
+        "effective_at": null,
+        "derivation": "explicit",
+        "source_id": "e6655d00bd16e0019033de67",
+        "source_revision": "5a1ff354e760ad72f74d54a2",
+        "reference_source": null
+       },
+       {
+        "field_path": "/end",
+        "quote": "방학 중 근무 체계 개선과 지방교육재정교부금 개편 철회도 요구안에 포함됐다.",
+        "source_part": "body",
+        "effective_at": null,
+        "derivation": "explicit",
+        "source_id": "e6655d00bd16e0019033de67",
+        "source_revision": "5a1ff354e760ad72f74d54a2",
+        "reference_source": null
+       },
+       {
+        "field_path": "/end",
+        "quote": "교육계 일각에서는 파업 때마다 되풀이되는 급식과 돌봄 공백을 줄이기 위해 노동조합법을 개정해야 한다는 목소리가 나온다.",
+        "source_part": "body",
+        "effective_at": null,
+        "derivation": "explicit",
+        "source_id": "e6655d00bd16e0019033de67",
+        "source_revision": "5a1ff354e760ad72f74d54a2",
+        "reference_source": null
+       },
+       {
+        "field_path": "/end",
+        "quote": "현행법상 학교는 파업으로 중단된 업무에 외부 인력을 투입할 수 없다.",
+        "source_part": "body",
+        "effective_at": null,
+        "derivation": "explicit",
+        "source_id": "e6655d00bd16e0019033de67",
+        "source_revision": "5a1ff354e760ad72f74d54a2",
+        "reference_source": null
+       }
+      ],
+      "review_reasons": []
+     }
+    },
+    {
+     "article_relevance": "unrelated",
+     "transport_mode": "unknown",
+     "affected_regions": [],
+     "affected_routes": [],
+     "start": {
+      "raw": null,
+      "date": null,
+      "time": null,
+      "timezone": "Asia/Seoul",
+      "basis": "unknown",
+      "assertion": "unknown",
+      "open_ended": null
+     },
+     "end": {
+      "raw": null,
+      "date": null,
+      "time": null,
+      "timezone": "Asia/Seoul",
+      "basis": "unknown",
+      "assertion": "unknown",
+      "open_ended": null
+     },
+     "strike_status": {
+      "value": "unknown",
+      "conditions": [],
+      "scope_raw": null,
+      "effective_at": null
+     },
+     "service_status": [],
+     "normal_service_exceptions": [],
+     "alternative_services": [],
+     "evidence_and_timestamps": {
+      "source_url": "https://www.hankyung.com/article/2026112753771",
+      "published_at": "2026-11-28T06:00:02+09:00",
+      "updated_at": null,
+      "collected_at": "2026-11-28T12:25:10.482190+09:00",
+      "field_evidence": [
+       {
+        "field_path": "/article_relevance",
+        "quote": "병원과 철도처럼 학교 급식과 돌봄 업무를 법상 필수공익사업에 포함해 파업 때 일정 범위에서 외부 대체인력을 투입하자는 주장이다.",
+        "source_part": "body",
+        "effective_at": null,
+        "derivation": "explicit",
+        "source_id": "e6655d00bd16e0019033de67",
+        "source_revision": "5a1ff354e760ad72f74d54a2",
+        "reference_source": null
+       },
+       {
+        "field_path": "/transport_mode",
+        "quote": "병원과 철도처럼 학교 급식과 돌봄 업무를 법상 필수공익사업에 포함해 파업 때 일정 범위에서 외부 대체인력을 투입하자는 주장이다.",
+        "source_part": "body",
+        "effective_at": null,
+        "derivation": "explicit",
+        "source_id": "e6655d00bd16e0019033de67",
+        "source_revision": "5a1ff354e760ad72f74d54a2",
+        "reference_source": null
+       },
+       {
+        "field_path": "/affected_regions",
+        "quote": "병원과 철도처럼 학교 급식과 돌봄 업무를 법상 필수공익사업에 포함해 파업 때 일정 범위에서 외부 대체인력을 투입하자는 주장이다.",
+        "source_part": "body",
+        "effective_at": null,
+        "derivation": "explicit",
+        "source_id": "e6655d00bd16e0019033de67",
+        "source_revision": "5a1ff354e760ad72f74d54a2",
+        "reference_source": null
+       },
+       {
+        "field_path": "/affected_routes",
+        "quote": "병원과 철도처럼 학교 급식과 돌봄 업무를 법상 필수공익사업에 포함해 파업 때 일정 범위에서 외부 대체인력을 투입하자는 주장이다.",
+        "source_part": "body",
+        "effective_at": null,
+        "derivation": "explicit",
+        "source_id": "e6655d00bd16e0019033de67",
+        "source_revision": "5a1ff354e760ad72f74d54a2",
+        "reference_source": null
+       },
+       {
+        "field_path": "/strike_status",
+        "quote": "병원과 철도처럼 학교 급식과 돌봄 업무를 법상 필수공익사업에 포함해 파업 때 일정 범위에서 외부 대체인력을 투입하자는 주장이다.",
+        "source_part": "body",
+        "effective_at": null,
+        "derivation": "explicit",
+        "source_id": "e6655d00bd16e0019033de67",
+        "source_revision": "5a1ff354e760ad72f74d54a2",
+        "reference_source": null
+       },
+       {
+        "field_path": "/service_status",
+        "quote": "병원과 철도처럼 학교 급식과 돌봄 업무를 법상 필수공익사업에 포함해 파업 때 일정 범위에서 외부 대체인력을 투입하자는 주장이다.",
+        "source_part": "body",
+        "effective_at": null,
+        "derivation": "explicit",
+        "source_id": "e6655d00bd16e0019033de67",
+        "source_revision": "5a1ff354e760ad72f74d54a2",
+        "reference_source": null
+       },
+       {
+        "field_path": "/normal_service_exceptions",
+        "quote": "병원과 철도처럼 학교 급식과 돌봄 업무를 법상 필수공익사업에 포함해 파업 때 일정 범위에서 외부 대체인력을 투입하자는 주장이다.",
+        "source_part": "body",
+        "effective_at": null,
+        "derivation": "explicit",
+        "source_id": "e6655d00bd16e0019033de67",
+        "source_revision": "5a1ff354e760ad72f74d54a2",
+        "reference_source": null
+       },
+       {
+        "field_path": "/alternative_services",
+        "quote": "병원과 철도처럼 학교 급식과 돌봄 업무를 법상 필수공익사업에 포함해 파업 때 일정 범위에서 외부 대체인력을 투입하자는 주장이다.",
+        "source_part": "body",
+        "effective_at": null,
+        "derivation": "explicit",
+        "source_id": "e6655d00bd16e0019033de67",
+        "source_revision": "5a1ff354e760ad72f74d54a2",
+        "reference_source": null
+       },
+       {
+        "field_path": "/start",
+        "quote": "병원과 철도처럼 학교 급식과 돌봄 업무를 법상 필수공익사업에 포함해 파업 때 일정 범위에서 외부 대체인력을 투입하자는 주장이다.",
+        "source_part": "body",
+        "effective_at": null,
+        "derivation": "explicit",
+        "source_id": "e6655d00bd16e0019033de67",
+        "source_revision": "5a1ff354e760ad72f74d54a2",
+        "reference_source": null
+       },
+       {
+        "field_path": "/end",
+        "quote": "병원과 철도처럼 학교 급식과 돌봄 업무를 법상 필수공익사업에 포함해 파업 때 일정 범위에서 외부 대체인력을 투입하자는 주장이다.",
+        "source_part": "body",
+        "effective_at": null,
+        "derivation": "explicit",
+        "source_id": "e6655d00bd16e0019033de67",
+        "source_revision": "5a1ff354e760ad72f74d54a2",
         "reference_source": null
        }
       ],
@@ -22561,12 +23446,12 @@
     "article_relevance": "unrelated",
     "processing_status": "success",
     "source": {
-     "source_id": "f626ceb2b6359749e61f45ae",
-     "source_url": "https://www.seoul.co.kr/news/society/2026/11/27/20261127500320?wlog_tag3=naver",
-     "source_revision": "d8a4af8f5b31289709cde5e3",
-     "published_at": "2026-11-27T18:49:18+09:00",
-     "updated_at": "2026-11-27T18:49:18+09:00",
-     "collected_at": "2026-11-28T03:55:11.830273+09:00"
+     "source_id": "e6655d00bd16e0019033de67",
+     "source_url": "https://www.hankyung.com/article/2026112753771",
+     "source_revision": "5a1ff354e760ad72f74d54a2",
+     "published_at": "2026-11-28T06:00:02+09:00",
+     "updated_at": null,
+     "collected_at": "2026-11-28T12:25:10.482190+09:00"
     },
     "events": [],
     "review_reasons": []
@@ -22610,7 +23495,7 @@
       "source_url": "https://www.yna.co.kr/view/AKR20261118007000079?input=1195m",
       "published_at": "2026-11-18T03:43:59+09:00",
       "updated_at": "2026-11-18T09:34:21+09:00",
-      "collected_at": "2026-11-28T03:55:13.601361+09:00",
+      "collected_at": "2026-11-28T12:25:13.099013+09:00",
       "field_evidence": [
        {
         "field_path": "/article_relevance",
@@ -22727,7 +23612,7 @@
      "source_revision": "803fca1dcdf7c4adcd01d505",
      "published_at": "2026-11-18T03:43:59+09:00",
      "updated_at": "2026-11-18T09:34:21+09:00",
-     "collected_at": "2026-11-28T03:55:13.601361+09:00"
+     "collected_at": "2026-11-28T12:25:13.099013+09:00"
     },
     "events": [],
     "review_reasons": [
@@ -22773,7 +23658,7 @@
       "source_url": "https://www.imaeil.com/page/view/2026112609332522772",
       "published_at": null,
       "updated_at": null,
-      "collected_at": "2026-11-28T03:55:17.374119+09:00",
+      "collected_at": "2026-11-28T12:25:17.719660+09:00",
       "field_evidence": [
        {
         "field_path": "/article_relevance",
@@ -22890,7 +23775,7 @@
      "source_revision": "6a50214bc9079d3920f839ea",
      "published_at": null,
      "updated_at": null,
-     "collected_at": "2026-11-28T03:55:17.374119+09:00"
+     "collected_at": "2026-11-28T12:25:17.719660+09:00"
     },
     "events": [
      {
